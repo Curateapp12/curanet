@@ -1,0 +1,33 @@
+{
+  "name": "curanet",
+  "version": "0.1.0",
+  "description": "Curanet — Curate the internet. A feed of articles and videos from RSS/Atom feeds and YouTube, stored as files in this repository.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.10"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch.js",
+    "build": "node scripts/build.js",
+    "build:hosted": "node scripts/build.js --target hosted",
+    "build:preview": "node scripts/build.js --target preview",
+    "test": "node --test test/",
+    "lint": "eslint .",
+    "typecheck": "tsc -p tsconfig.json",
+    "check": "npm run lint && npm run typecheck && npm test && npm run build",
+    "validate": "node scripts/validate-data.js",
+    "serve": "node scripts/serve.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5",
+    "sharp": "^0.35.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^22.19.0",
+    "eslint": "^10.12.0",
+    "globals": "^16.4.0",
+    "typescript": "^5.9.3"
+  }
+}
