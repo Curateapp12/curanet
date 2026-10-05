@@ -23,7 +23,8 @@ async function cli(script, args) {
     const { stdout, stderr } = await run(process.execPath, [path.join(ROOT, 'scripts', script), ...args, '--data', dataDir], { cwd: ROOT });
     return { code: 0, stdout, stderr };
   } catch (error) {
-    return { code: error.code, stdout: error.stdout || '', stderr: error.stderr || '' };
+    const failed = /** @type {{code?: number, stdout?: string, stderr?: string}} */ (error);
+    return { code: failed.code, stdout: failed.stdout || '', stderr: failed.stderr || '' };
   }
 }
 
@@ -44,7 +45,8 @@ before(async () => {
     res.statusCode = 404; res.end('nope');
   });
   await new Promise((resolve) => server.listen(0, resolve));
-  base = `http://127.0.0.1:${server.address().port}`;
+  const address = /** @type {import('node:net').AddressInfo} */ (server.address());
+  base = `http://127.0.0.1:${address.port}`;
 });
 
 after(() => {
