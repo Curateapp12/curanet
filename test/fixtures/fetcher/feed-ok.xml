@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Example News</title>
+    <link>https://news.example/</link>
+    <description>A small feed for the fetcher tests</description>
+    <item>
+      <title><![CDATA[Fresh story with <em>markup</em> &amp; an entity]]></title>
+      <link>https://news.example/fresh?utm_source=rss&amp;id=1#top</link>
+      <guid isPermaLink="false">news-fresh</guid>
+      <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p>Two hours old. <a href="https://news.example/x">Read more</a>.</p>]]></description>
+      <media:thumbnail url="https://news.example/img/fresh.jpg" width="640"/>
+    </item>
+    <item>
+      <title>Yesterday's story</title>
+      <link>https://news.example/yesterday</link>
+      <guid>https://news.example/yesterday</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Published one day before the test clock.</description>
+    </item>
+    <item>
+      <title>Older story from late August</title>
+      <link>https://news.example/august</link>
+      <guid isPermaLink="false">news-august</guid>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Forty days old at the first run, a hundred days old at the second.</description>
+    </item>
+  </channel>
+</rss>

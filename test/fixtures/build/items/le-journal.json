@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sourceId": "le-journal",
+  "items": [
+    {
+      "id": "5e6f708192031425",
+      "guid": "https://lejournal.example/politique/debat-quebec",
+      "link": "https://lejournal.example/politique/debat-quebec",
+      "title": "Élections : le débat s’enflamme à Québec",
+      "excerpt": "Les chefs de parti ont croisé le fer pendant deux heures sur la santé et le logement.",
+      "published": "2026-10-05T06:15:00.000Z",
+      "thumbnail": "https://lejournal.example/img/debat.jpg",
+      "type": "article",
+      "addedAt": "2026-10-05T06:30:00.000Z"
+    },
+    {
+      "id": "6f70819203142536",
+      "guid": "https://lejournal.example/politique/budget",
+      "link": "https://lejournal.example/politique/budget",
+      "title": "Le budget fédéral sera déposé en novembre",
+      "excerpt": "Le ministre des Finances confirme la date.",
+      "published": "2026-09-28T18:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-09-28T18:30:00.000Z"
+    }
+  ]
+}

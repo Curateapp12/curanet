@@ -13,7 +13,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"2612d-nfSbij9PQHOMhgIbFd07AlQ11Pk\"",
+        "lastModified": "Mon, 05 Oct 2026 23:54:01 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "global-news",
@@ -27,7 +35,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"33a718b6db8abfa87206791612cbcfb3\"",
+        "lastModified": "Mon, 05 Oct 2026 23:56:50 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "the-tyee",
@@ -41,7 +57,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "\"8234-65d1d6fbbfd72-gzip\"",
+        "lastModified": "Mon, 05 Oct 2026 20:07:50 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "globe-and-mail-politics",
@@ -55,7 +79,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"1f2c5-DGjTfU3cVAo1qVrrwIfLlht4aNY\"",
+        "lastModified": "Mon, 05 Oct 2026 23:54:32 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "ctv-news-politics",
@@ -69,7 +101,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"2bcc-icm++Wm2t4MqMiI/2FjsoLQ3QGo\"",
+        "lastModified": "Mon, 05 Oct 2026 23:56:19 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "national-observer",
@@ -83,7 +123,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "\"1791243926-gzip\"",
+        "lastModified": "Mon, 05 Oct 2026 23:45:26 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "global-news-world",
@@ -97,7 +145,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"33a718b6db8abfa87206791612cbcfb3\"",
+        "lastModified": "Mon, 05 Oct 2026 23:56:50 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "rabble",
@@ -111,7 +167,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "\"71def49b7f10ff0336cd032117440304-gzip\"",
+        "lastModified": "Mon, 05 Oct 2026 21:22:33 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "national-post-opinion",
@@ -125,7 +189,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": "Mon, 05 Oct 2026 23:55:06 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "halifax-examiner",
@@ -139,7 +211,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"96e3fd7824f9ac17965e3639896d6dd8\"",
+        "lastModified": "Mon, 05 Oct 2026 14:39:54 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "winnipeg-free-press",
@@ -153,7 +233,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"3c4bb14f728ee828476f3338f57ffd0f\"",
+        "lastModified": "Mon, 05 Oct 2026 23:53:26 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "calgary-herald",
@@ -167,7 +255,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "\"ff6f2fa635f2bd59709bafbb230fec19\"",
+        "lastModified": "Mon, 05 Oct 2026 23:54:15 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "times-colonist",
@@ -181,7 +277,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": "Mon, 05 Oct 2026 23:57:13 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "nunatsiaq-news",
@@ -195,7 +299,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "\"98db9311fe20100a45f23f763cc6ca90\"",
+        "lastModified": "Mon, 05 Oct 2026 20:40:33 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "sootoday",
@@ -209,7 +321,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": "Mon, 05 Oct 2026 23:56:56 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "radio-canada-a-la-une",
@@ -223,7 +343,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"36a3-YQv5YTMseXqHOoORSRHXuwdVjbE\"",
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "le-devoir",
@@ -237,7 +365,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "la-presse",
@@ -251,7 +387,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "radio-canada-politique",
@@ -265,7 +409,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"ab43-C9hslz8r2l4dwcZgU0Xbarim9fQ\"",
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "pivot",
@@ -279,7 +431,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"43ae1149df9b0eb0d951408eb30a52dc\"",
+        "lastModified": "Mon, 05 Oct 2026 21:09:23 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "noovo-info-international",
@@ -293,7 +453,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"1263d-73dxPIvG5w8eVMDciV6+yuuukXg\"",
+        "lastModified": "Mon, 05 Oct 2026 23:54:22 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "le-devoir-opinion",
@@ -307,7 +475,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "radio-canada-acadie",
@@ -321,7 +497,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"a460-6IRH15y56ljIhlLqm1tMEuaZhCQ\"",
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "journal-de-quebec",
@@ -335,7 +519,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "radio-canada-economie",
@@ -349,7 +541,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"b819-5hwGRF6a/u9HuCCRV8vWRlyfcMI\"",
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "la-presse-arts",
@@ -363,7 +563,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "radio-canada-sports",
@@ -377,7 +585,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"8b22-b+10jpl1/VzxIViwCODbuhOx+Go\"",
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "globe-and-mail-business",
@@ -391,7 +607,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"32f6e-alI5pfJFil5gQTAe5I53gPOX28M\"",
+        "lastModified": "Mon, 05 Oct 2026 23:51:01 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "financial-post-investing",
@@ -405,7 +629,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": "Mon, 05 Oct 2026 23:57:59 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "globe-and-mail-personal-finance",
@@ -419,7 +651,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"ffcc-9sDUn89Kns01ZBEP6z1xVOsC/74\"",
+        "lastModified": "Mon, 05 Oct 2026 23:58:19 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "the-logic",
@@ -433,7 +673,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "\"af015097fd0b18ea70d0076032558041\"",
+        "lastModified": "Mon, 05 Oct 2026 22:15:35 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "betakit",
@@ -447,7 +695,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": "Mon, 05 Oct 2026 23:39:27 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "conversation-canada-science",
@@ -461,7 +717,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "spaceq",
@@ -475,7 +739,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"45eb0b3c092099d863354730e7277fc4\"",
+        "lastModified": "Mon, 05 Oct 2026 18:57:30 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "playback",
@@ -489,7 +761,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:43.973Z",
+        "lastSuccess": null,
+        "lastResult": "error",
+        "lastError": "empty document",
+        "failures": 2
+      }
     },
     {
       "id": "all-lit-up",
@@ -503,7 +783,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"f56852a4891ab1544c4b86137c011813\"",
+        "lastModified": "Mon, 05 Oct 2026 17:00:54 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "canadian-beats",
@@ -517,7 +805,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "\"7f7a7504538302a2953b44d35cfe5098-br\"",
+        "lastModified": "Fri, 02 Oct 2026 21:35:19 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "the-hockey-news",
@@ -531,7 +827,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"6090c-K50SbYuBhQRyBl3fBvu31VrrCkQ\"",
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "canadian-soccer-daily",
@@ -545,7 +849,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "\"1140a0bcecff2d62f2b3c7c838d17f44-gzip\"",
+        "lastModified": "Mon, 05 Oct 2026 23:56:38 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "3downnation",
@@ -559,7 +871,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"4171-65d205f71d912\"",
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "hospital-news",
@@ -573,7 +893,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": "Mon, 05 Oct 2026 13:11:07 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "daily-hive-dished",
@@ -587,7 +915,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "vacay",
@@ -601,7 +937,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "\"8036d051a8af6b991ec900625c133808\"",
+        "lastModified": "Mon, 05 Oct 2026 16:17:58 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "the-narwhal",
@@ -615,7 +959,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": "Mon, 05 Oct 2026 20:47:53 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "bbc-news",
@@ -629,7 +981,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "npr-politics",
@@ -643,7 +1003,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "ars-technica",
@@ -657,7 +1025,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": "Mon, 5 Oct 2026 22:54:31 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "guardian-football",
@@ -671,7 +1047,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"hash-8319399009639289179\"",
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "le-figaro",
@@ -685,7 +1069,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "france-24",
@@ -699,7 +1091,15 @@
       "language": "fr",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "tagesschau",
@@ -713,7 +1113,15 @@
       "language": "de",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": null,
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "el-pais",
@@ -727,7 +1135,15 @@
       "language": "es",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "W/\"28674-ZRHpoASBl1WnYu0Ms52lPJnvPDs\"",
+        "lastModified": null,
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "bleepingcomputer",
@@ -741,7 +1157,15 @@
       "language": "en",
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": null
+      "fetch": {
+        "etag": "f61033002391baaf50d1853b7b305ea0",
+        "lastModified": "Mon, 05 Oct 2026 23:56:37 GMT",
+        "lastAttempt": "2026-10-05T23:58:13.599Z",
+        "lastSuccess": "2026-10-05T23:58:13.599Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     },
     {
       "id": "yt-cbc-news",

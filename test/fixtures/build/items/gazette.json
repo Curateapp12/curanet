@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "sourceId": "gazette",
+  "items": [
+    {
+      "id": "1a2b3c4d5e6f7081",
+      "guid": "gazette-1",
+      "link": "https://gazette.example/news/harbour-reopens",
+      "title": "Harbour reopens after a week of repairs",
+      "excerpt": "Ferries run again from Monday morning after crews replaced the damaged pilings.",
+      "published": "2026-10-05T09:00:00.000Z",
+      "thumbnail": "https://gazette.example/img/harbour.jpg",
+      "type": "article",
+      "addedAt": "2026-10-05T09:30:00.000Z"
+    },
+    {
+      "id": "2b3c4d5e6f708192",
+      "guid": "gazette-2",
+      "link": "https://gazette.example/news/transit-plan",
+      "title": "Council debates the transit plan late into the night",
+      "excerpt": "The council met for six hours on Tuesday to debate the new transit plan, which would add two tram lines and a dozen express bus routes across the region over the next decade. Supporters say the plan cuts commute times; opponents point to the cost. A final vote is expected next month after public hea",
+      "published": "2026-10-04T15:30:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-04T16:00:00.000Z"
+    },
+    {
+      "id": "3c4d5e6f70819203",
+      "guid": "gazette-3",
+      "link": "https://gazette.example/news/school-garden",
+      "title": "A school garden feeds a neighbourhood",
+      "excerpt": "",
+      "published": "2026-10-02T07:45:00.000Z",
+      "thumbnail": "https://gazette.example/img/garden.jpg",
+      "type": "article",
+      "addedAt": "2026-10-02T08:00:00.000Z"
+    },
+    {
+      "id": "4d5e6f7081920314",
+      "guid": "gazette-4",
+      "link": "https://gazette.example/news/hidden-story",
+      "title": "This story was hidden by the owner",
+      "excerpt": "It must not appear on the site.",
+      "published": "2026-10-01T10:00:00.000Z",
+      "thumbnail": "https://gazette.example/img/hidden.jpg",
+      "type": "article",
+      "addedAt": "2026-10-01T10:30:00.000Z"
+    }
+  ]
+}

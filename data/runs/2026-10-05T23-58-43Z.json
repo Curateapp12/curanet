@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "startedAt": "2026-10-05T23:58:43.973Z",
+  "finishedAt": "2026-10-05T23:58:44.426Z",
+  "totals": {
+    "sources": 1,
+    "fetched": 0,
+    "unchanged": 0,
+    "added": 0,
+    "pruned": 0,
+    "blocked": 0,
+    "errors": 1,
+    "skipped": 0
+  },
+  "sources": [
+    {
+      "id": "playback",
+      "result": "error",
+      "added": 0,
+      "pruned": 0,
+      "ms": 452,
+      "error": "empty document"
+    }
+  ]
+}
