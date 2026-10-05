@@ -3,6 +3,14 @@
 These steps are referenced by every skill in this folder. They are written for Claude; the owner
 never runs commands.
 
+## Network commands in a Claude session
+
+Inside a Claude Code session, Node reaches the internet only through the session's proxy, so every
+command that downloads something (`add-source`, `add-video`, `fetch`, `build` with thumbnails) is
+run with the prefix `NODE_USE_ENV_PROXY=1`, for example `NODE_USE_ENV_PROXY=1 node scripts/add-video.js …`.
+The npm scripts (`npm run fetch`, `npm run build`) already include it. The prefix is harmless
+elsewhere (GitHub Actions has no proxy).
+
 ## Before any change
 
 1. Make sure you are on a branch other than `main` (`git branch --show-current`). If you are on

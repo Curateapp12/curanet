@@ -166,8 +166,13 @@ test('fetchOEmbed accepts a bare id and the same canonical url is requested', as
 });
 
 test('fetchOEmbed throws OEmbedError with the status and a plain-language message on 401, 404 and 400', async () => {
-  for (const [status, pattern] of [[401, /private|unavailable/i], [404, /not found|no video|does not exist/i], [400, /not a valid|invalid|recognis/i]]) {
-    const { fetch } = recorder(() => ({ status, body: status === 401 ? 'Unauthorized' : status === 404 ? 'Not Found' : 'Bad Request' }));
+  const cases = [
+    { status: 401, body: 'Unauthorized', pattern: /private|unavailable/i },
+    { status: 404, body: 'Not Found', pattern: /not found|no video|does not exist/i },
+    { status: 400, body: 'Bad Request', pattern: /not a valid|invalid|recognis/i },
+  ];
+  for (const { status, body, pattern } of cases) {
+    const { fetch } = recorder(() => ({ status, body }));
     const error = await fetchOEmbed('dQw4w9WgXcQ', { fetch }).then(() => null, (e) => e);
     assert.ok(error instanceof OEmbedError, 'status ' + status + ' should be an OEmbedError');
     assert.ok(error instanceof Error);
@@ -538,8 +543,10 @@ test('an aborted request is reported as a timeout in plain language', async () =
 });
 
 test('the client really aborts a hanging request after timeoutMs', async () => {
-  const hanging = (input, init) => new Promise((_, reject) => {
+  /** @type {typeof globalThis.fetch} */
+  const hanging = (input, init = {}) => new Promise((_, reject) => {
     everyRequestedUrl.push(String(input));
+    if (!init.signal) return reject(new Error('the client did not pass an abort signal'));
     init.signal.addEventListener('abort', () => reject(abortError()));
   });
   const started = Date.now();

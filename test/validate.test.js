@@ -95,6 +95,7 @@ test('validateAll accepts the good fixture directory with zero errors and zero w
 
 test('validateAll reports exactly one error for each problem in the bad fixture directory', () => {
   const { errors } = validateAll(path.join(FIXTURES, 'bad'));
+  /** @type {[string, RegExp][]} */
   const expected = [
     ['duplicate source id', /sources\.json: source "dup-source" \(2nd\) has the same id as the 1st source/],
     ['unknown category', /sources\.json: source "unknown-cat" \(3rd\) has category "nope" — no such category/],
@@ -154,7 +155,7 @@ test('parseJson reports the line and column of a syntax error', () => {
   const unterminated = parseJson('{"a": "abc', 'z.json');
   assert.equal(unterminated.ok, false);
   assert.match(unterminated.error, /^z\.json: not valid JSON/);
-  const fine = parseJson('﻿{"a": [1, 2.5e3, true, null, "é\\u00e9"]}', 'ok.json');
+  const fine = parseJson('\uFEFF{"a": [1, 2.5e3, true, null, "é\\u00e9"]}', 'ok.json');
   assert.equal(fine.ok, true);
   assert.deepEqual(fine.doc, { a: [1, 2500, true, null, 'éé'] });
 });
@@ -397,7 +398,7 @@ test('validate-data CLI prints counts, warnings, errors and exits 1 on problems'
   const bad = spawnSync(process.execPath, [CLI, '--data', path.join(FIXTURES, 'bad')], { encoding: 'utf8' });
   assert.equal(bad.status, 1, bad.stdout + bad.stderr);
   const lines = bad.stdout.trim().split('\n');
-  assert.match(lines[0], /3 categories, 11 sources, 6 items, 0 hidden, 1 run/);
+  assert.match(lines[0], /3 categories, 12 sources, 7 items, 0 hidden, 0 runs/);
   assert.equal(lines.filter((l) => l.startsWith('Error: ')).length, 13, bad.stdout);
   assert.equal(lines[lines.length - 1], '13 problems found');
 

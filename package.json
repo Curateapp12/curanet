@@ -1,17 +1,17 @@
 {
   "name": "curanet",
   "version": "0.1.0",
-  "description": "Curanet — Curate the internet. A feed of articles and videos from RSS/Atom feeds and YouTube, stored as files in this repository.",
+  "description": "Curanet \u2014 Curate the internet. A feed of articles and videos from RSS/Atom feeds and YouTube, stored as files in this repository.",
   "private": true,
   "type": "module",
   "engines": {
     "node": ">=20.10"
   },
   "scripts": {
-    "fetch": "node scripts/fetch.js",
-    "build": "node scripts/build.js",
+    "fetch": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/fetch.js",
+    "build": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/build.js",
     "build:hosted": "node scripts/build.js --target hosted",
-    "build:preview": "node scripts/build.js --target preview",
+    "build:preview": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/build.js --target preview",
     "test": "node --test \"test/**/*.test.js\"",
     "lint": "eslint .",
     "typecheck": "tsc -p tsconfig.json",

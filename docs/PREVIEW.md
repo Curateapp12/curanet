@@ -4,8 +4,8 @@ The preview is one self-contained HTML file built by `npm run build` into `previ
 (git-ignored because it embeds publishers' thumbnails). It is published as a **private** artifact
 from Claude Code sessions. Republish to the same address after every rebuild.
 
-- Artifact address: _not published yet_
-- Last published: _never_
+- Artifact address: https://claude.ai/artifact/G9kKUM84Wa6zbhmd7oeWL6
+- Last published: 2026-10-05 (placeholder page; replaced by the first real build)
 
 How to republish (for Claude): read the artifact at the address above with the Artifact tool, then
 publish `preview/curanet-preview.html` with `url` set to that address. Do not change the icon.
