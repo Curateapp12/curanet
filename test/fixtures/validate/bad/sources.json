@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "sources": [
+    { "id": "dup-source", "type": "feed", "name": "Dup", "url": "https://example.com/a.xml", "category": "news", "subcategory": "politics", "country": "CA", "language": "en", "status": "active", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "dup-source", "type": "feed", "name": "Dup again", "url": "https://example.com/b.xml", "category": "news", "subcategory": "politics", "country": "CA", "language": "en", "status": "active", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "unknown-cat", "type": "feed", "name": "Unknown category", "url": "https://example.com/c.xml", "category": "nope", "subcategory": "politics", "country": "CA", "language": "en", "status": "active", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "lower-country", "type": "feed", "name": "Lower country", "url": "https://example.com/d.xml", "category": "news", "subcategory": "politics", "country": "ca", "language": "en", "status": "active", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "bad-language", "type": "feed", "name": "Bad language", "url": "https://example.com/e.xml", "category": "news", "subcategory": "politics", "country": "CA", "language": "EN", "status": "active", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "unknown-status", "type": "feed", "name": "Unknown status", "url": "https://example.com/f.xml", "category": "news", "subcategory": "politics", "country": "CA", "language": "en", "status": "stopped", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "waiting-feed", "type": "feed", "name": "Waiting feed", "url": "https://example.com/g.xml", "category": "news", "subcategory": "politics", "country": "CA", "language": "en", "status": "waiting_for_key", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "html-title", "type": "feed", "name": "HTML title", "url": "https://example.com/h.xml", "category": "news", "subcategory": "politics", "country": "CA", "language": "en", "status": "active", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "long-excerpt", "type": "feed", "name": "Long excerpt", "url": "https://example.com/i.xml", "category": "news", "subcategory": "politics", "country": "CA", "language": "en", "status": "active", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "video-no-id", "type": "feed", "name": "Video without id", "url": "https://example.com/j.xml", "category": "news", "subcategory": "politics", "country": "CA", "language": "en", "status": "active", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "unsorted", "type": "feed", "name": "Unsorted", "url": "https://example.com/k.xml", "category": "news", "subcategory": "politics", "country": "CA", "language": "en", "status": "active", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null },
+    { "id": "unknown-field", "type": "feed", "name": "Unknown field", "url": "https://example.com/l.xml", "category": "news", "subcategory": "politics", "country": "CA", "language": "en", "status": "active", "addedAt": "2026-10-05T23:00:00.000Z", "fetch": null }
+  ]
+}

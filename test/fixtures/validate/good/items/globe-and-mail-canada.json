@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sourceId": "globe-and-mail-canada",
+  "items": [
+    {
+      "id": "a1b2c3d4e5f60718",
+      "guid": "https://www.theglobeandmail.com/canada/article-xyz/",
+      "link": "https://www.theglobeandmail.com/canada/article-xyz/",
+      "title": "Headline, HTML stripped",
+      "excerpt": "At most 300 characters from the feed's own summary, HTML stripped.",
+      "published": "2026-10-05T21:30:00.000Z",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/photo.jpg",
+      "type": "article",
+      "addedAt": "2026-10-05T23:10:00.000Z"
+    },
+    {
+      "id": "9f8e7d6c5b4a3921",
+      "guid": "yt:dQw4w9WgXcQ",
+      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "title": "Video title",
+      "excerpt": "",
+      "published": "2026-10-04T23:00:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+      "type": "video",
+      "videoId": "dQw4w9WgXcQ",
+      "addedAt": "2026-10-04T23:00:00.000Z"
+    }
+  ]
+}

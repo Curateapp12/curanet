@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "sourceId": "video-no-id",
+  "items": [
+    {
+      "id": "3333333333333333",
+      "guid": "yt:missing",
+      "link": "https://www.youtube.com/watch?v=abcdefghijk",
+      "title": "A video",
+      "excerpt": "",
+      "published": "2026-10-05T10:00:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/abcdefghijk/hqdefault.jpg",
+      "type": "video",
+      "addedAt": "2026-10-05T11:00:00.000Z"
+    }
+  ]
+}

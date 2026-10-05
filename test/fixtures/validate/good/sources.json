@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "globe-and-mail-canada",
+      "type": "feed",
+      "name": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/canada/",
+      "siteUrl": "https://www.theglobeandmail.com",
+      "category": "news",
+      "subcategory": "top-stories",
+      "country": "CA",
+      "language": "en",
+      "status": "active",
+      "addedAt": "2026-10-05T23:00:00.000Z",
+      "fetch": {
+        "etag": "W/\"abc\"",
+        "lastModified": "Mon, 05 Oct 2026 22:51:40 GMT",
+        "lastAttempt": "2026-10-05T23:10:00.000Z",
+        "lastSuccess": "2026-10-05T23:10:00.000Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
+    },
+    {
+      "id": "le-devoir",
+      "type": "feed",
+      "name": "Le Devoir",
+      "url": "https://www.ledevoir.com/rss/economie.xml",
+      "category": "business",
+      "subcategory": "economy",
+      "country": "CA",
+      "language": "fr",
+      "status": "paused",
+      "addedAt": "2026-10-05T23:00:00.000Z",
+      "fetch": null,
+      "notes": "Paused while the owner decides on French sources."
+    },
+    {
+      "id": "yt-cbc-news",
+      "type": "youtube_channel",
+      "name": "CBC News",
+      "url": "https://www.youtube.com/@CBCNews",
+      "handle": "@CBCNews",
+      "channelId": null,
+      "category": "news",
+      "subcategory": "top-stories",
+      "country": "CA",
+      "language": "en",
+      "status": "waiting_for_key",
+      "addedAt": "2026-10-05T23:00:00.000Z",
+      "fetch": null
+    }
+  ]
+}

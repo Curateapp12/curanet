@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "sourceId": "unknown-field",
+  "items": [
+    {
+      "id": "7777777777777777",
+      "guid": null,
+      "link": "https://example.com/unknown-field/1",
+      "title": "Story with full text",
+      "excerpt": "",
+      "published": "2026-10-05T10:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-05T11:00:00.000Z",
+      "content": "The full article text must never be stored."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sourceId": "unsorted",
+  "items": [
+    {
+      "id": "4444444444444444",
+      "guid": null,
+      "link": "https://example.com/unsorted/older",
+      "title": "Older story",
+      "excerpt": "",
+      "published": "2026-10-01T10:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-05T11:00:00.000Z"
+    },
+    {
+      "id": "5555555555555555",
+      "guid": null,
+      "link": "https://example.com/unsorted/newer",
+      "title": "Newer story",
+      "excerpt": "",
+      "published": "2026-10-04T10:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-05T11:00:00.000Z"
+    }
+  ]
+}
