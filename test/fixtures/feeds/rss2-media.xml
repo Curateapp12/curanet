@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Example Gazette &amp; Times</title>
+    <link>https://gazette.example/</link>
+    <description>Test feed</description>
+    <item>
+      <title><![CDATA[First story: <b>bold</b> &amp; brave]]></title>
+      <link>https://gazette.example/news/first?utm_source=rss&amp;id=1#top</link>
+      <guid isPermaLink="false">gazette-1</guid>
+      <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p>Summary with <a href="x">link</a> and <img src="https://gazette.example/img/inline.jpg" width="600"> image.</p>]]></description>
+      <media:content url="https://gazette.example/img/small.jpg" medium="image" width="300" height="200"/>
+      <media:content url="https://gazette.example/img/large.jpg" medium="image" width="1200" height="800">
+        <media:thumbnail url="https://gazette.example/img/thumb.jpg" width="150"/>
+      </media:content>
+    </item>
+    <item>
+      <title>Second story with enclosure</title>
+      <link>/news/second</link>
+      <guid>https://gazette.example/news/second</guid>
+      <pubDate>Sun, 04 Oct 2026 08:30:00 -0400</pubDate>
+      <description>Plain summary &eacute;t&eacute;.</description>
+      <enclosure url="https://gazette.example/img/enclosure.png" type="image/png" length="1234"/>
+    </item>
+    <item>
+      <title>Third story, image only in content</title>
+      <guid>https://gazette.example/news/third</guid>
+      <dc:date>2026-10-03T09:00:00Z</dc:date>
+      <content:encoded><![CDATA[<img src="https://tracker.example/pixel.gif" width="1" height="1"><p>Body</p><img src="/img/content.jpg" alt="">]]></content:encoded>
+    </item>
+    <item>
+      <title>Audio enclosure is not a thumbnail</title>
+      <link>https://gazette.example/news/fourth</link>
+      <pubDate>not a date</pubDate>
+      <description>No image here.</description>
+      <enclosure url="https://gazette.example/audio/ep.mp3" type="audio/mpeg" length="1"/>
+    </item>
+    <item>
+      <title>Duplicate link of first story</title>
+      <link>https://gazette.example/news/first?utm_source=rss&amp;id=1#top</link>
+    </item>
+    <item>
+      <title>No link at all</title>
+      <description>Should be skipped.</description>
+    </item>
+  </channel>
+</rss>
