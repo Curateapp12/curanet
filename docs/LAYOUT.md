@@ -1,142 +1,309 @@
-# Curanet layout — design reference (version 2, from the "New Design" Figma)
+# Curanet layout — design reference (version 3, copied from the live site at curanet.io)
 
-This page describes the layout the site must follow. It replaces the first version (a two-ribbon
-Reddit-style feed) with the owner's Figma design, file "New Design", page "Prototype"
-(https://www.figma.com/design/4CdkN0M6fwlqPa685aB7Az/New-Design). Both outputs (private preview and
-hosted site) are built from the same code and follow this page. Measurements come from the Figma
-frames; where the frames disagree, the choice is noted.
+This page describes the layout the site must follow. It replaces version 2 (the "New Design" Figma)
+with the design of the owner's live site at https://curanet.io, measured element by element from
+that site's page code on 2026-10-06 (computed styles and boxes, light and dark, 1280 / 1440 / 768 /
+390 / 360 px wide). Both outputs (private preview and hosted site) are built from the same code and
+follow this page. Where Curanet has a feature the live site does not (Saved, Following, Live, the
+language filter, Settings) or the live site has one Curanet leaves out (accounts, votes, a detail
+page), the mapping is written down here so nothing is improvised twice.
 
 ## Visual language
 
-- Colours: blue `#0081FE` for everything selected or active; titles `#374151`; other text
-  `#4B5563`; small publisher names on phones `#6B7280`; page `#F8FBFE`; bars `#FFFFFF` and
-  `#F9FAFB`; borders `#F3F4F6`; dividers `#E5E7EB`; disabled `#D1D5DB`; logo circle `#FAEB05`.
-  The article/video toggle bar is a deeper blue `#1D52DE`. A dark theme with the same structure
-  exists; the default is **light** and the visitor can switch in Settings.
-- One typeface, Roboto (400 / 500 / 600 / 700), from Google Fonts with a system fallback. Body
-  16 px / 1.5. Tabs 14 px medium. Titles 20 px semibold on desktop, 15 px bold on phones.
-- Radii: panel and thumbnails 8 px, chips 6 px, buttons and avatars round.
+- **Light colours**: bar blue `#305dd2`; page `#f9fafb`; card and bars `#ffffff`; grey row
+  `#f9fafb`; titles, tabs and menu text `#101828`; publisher names and grey-row links `#364153`;
+  muted text (time, buttons, "You've reached the end") `#6a7282`; menu icons and placeholders
+  `#737373`; card border `#e5e7eb`; item dividers and thumbnail borders `#f3f4f6`; bar bottom
+  borders, menu borders and button borders `#e5e5e5`; hover of white controls on the blue bar
+  `#a7c4ff` (with ink `#171717`); menu-item hover `#f5f5f5`; grey-row hover underline `#d1d5dc`;
+  tab hover underline `#e5e7eb`; focus ring `#a1a1a1` at 50 % (3 px); link blue `#305dd2`; share
+  hover green `#00c950` on `#f0fdf4`; avatar circle `#e5e7eb` with ink `#4a5565`.
+- **Dark colours** (same structure): bar `#214fcc`; page `#030712`; card and bars `#101828`;
+  card border, dividers and bar borders `#1e2939`; titles `#f9fafb`; publisher names `#f3f4f6`;
+  inactive tabs `#e5e7eb`; active tab or link text `#6393ff` with underline `#4677ed`; grey-row
+  inactive links `#d1d5dc`; muted `#99a1af`; menu icons `#a1a1a1`; menus `#171717` with borders
+  white at 10 %; hover of controls on the blue bar `#214fcc`; outline buttons white at 4.5 % with
+  borders white at 15 %; toast `#0a0a0a`; focus ring `#737373` at 50 %; avatar circle `#364153`
+  with ink `#d1d5dc`; thumbnail border `#364153`.
+- **Typeface**: the system stack
+  `ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"`,
+  antialiased, 16 px / 24 px base. No web font is loaded: the live site ships Geist but never
+  applies it, so what visitors see is their system font (SF Pro on Apple devices, Segoe UI on
+  Windows). Matching what they see is the goal.
+- **Radii**: 10 px (card, thumbnails), 8 px (buttons, menus, inputs, toasts), 6 px (menu items),
+  4 px (menu-panel cells), round (avatar, article/video toggle).
+- **Shadows**: xs `0 1px 2px rgba(0,0,0,.05)`; sm `0 1px 3px rgba(0,0,0,.1), 0 1px 2px -1px rgba(0,0,0,.1)`;
+  md `0 4px 6px -1px rgba(0,0,0,.1), 0 2px 4px -2px rgba(0,0,0,.1)`;
+  lg `0 10px 15px -3px rgba(0,0,0,.1), 0 4px 6px -4px rgba(0,0,0,.1)`.
+- **Motion**: colours 150 ms; the header slide and the thumbnail zoom 300 ms; menus fade and zoom
+  in over 150 ms. None of it with reduced motion.
+- **Widths**: one content container of at most 896 px, centred, inside 16 px side padding. Two
+  breakpoints: 640 px (wordmark, paddings, thumbnail size) and 768 px (title size, grid columns).
+  The page never scrolls sideways.
+- A dark theme with the same structure exists; the default is **light**; the visitor switches in
+  the avatar menu ("Dark Mode" / "Light Mode") or in Settings (Light, Dark, Follow system).
 
-## Top bar (desktop, wider than 920 px)
+## Header
 
-- One sticky 60 px white bar with a 1 px `#F3F4F6` bottom line. Left: the round yellow logo
-  (40 px) linking to Home; the name "Curanet" stays as its accessible text. Centre: the navigation
-  strip. Right: a 40 px round avatar button that opens Settings.
-- The strip holds, in order: **My Hub**, **Live**, **Home**, then every category from
-  `data/categories.json` in file order. Tabs are text (14 px medium, `#374151`, 8 px side padding,
-  16 px apart); the selected tab is blue with a 3 px blue underline flush with the bar's bottom.
-  Hovering turns the text blue.
-- The strip scrolls sideways with a hidden scrollbar and clips hard (no fade). Two 40 px round
-  previous/next buttons at its right end scroll it by one screen; they grey out at the ends and
-  disappear when everything fits.
+One sticky block (`top: 0`, z-index 50, white, shadow sm) made of three bars; 143 px tall on Home
+(57 + 49 + 37), 145 px on a category (the third bar is 39 there). All three share the container.
 
-## Second bar (desktop)
+### Bar 1 — the blue bar (56 px + 1 px bottom border of the same blue)
 
-- 50 px, `#F9FAFB`, 1 px `#E5E7EB` bottom line with a soft shadow, sticky under the top bar. Its
-  tabs are centred and styled like the top ones (`#4B5563`, selected blue + underline).
-- Contents: a category → **All** plus its subcategories; **Home** → the bar is not shown;
-  **My Hub** → **Saved** and **Following ⚙**; **Live** → **All, News, Sports, Music**.
-- Changing the category resets the subcategory to All.
+- Background `#305dd2` (dark `#214fcc`). Row: items centred, gap 16 px, side padding 8 px from
+  640 px up, none below.
+- Left: the **logo** (40 × 40: the live site's `logo.svg`, a `#3B82F6` rounded square, radius 12 on
+  an 80-unit box, with a white "C" stroke of width 7 and three white dots of radius 3.5 at x 39,
+  y 18 / 30 / 42, all inside a 10-unit margin), then the **wordmark** "Curanet" 8 px to its right:
+  24 px / 32 px, weight 900, letter-spacing −0.025 em, white; hidden below 640 px. Logo and
+  wordmark are one link to Home.
+- Right, in order, with the row's 16 px gaps: the **search** button, the **location** picker, the
+  **article/video toggle** and the **avatar**. They keep their sizes on phones.
+- **Search button**: 36 × 36, radius 8, transparent, a white 16 px magnifier (lucide `search`).
+  Hover `#a7c4ff` with ink `#171717` (dark hover `#214fcc`, ink white). Click opens the search
+  field in the bar: it takes the empty middle of the row (up to 672 px wide, 40 px tall, radius 8,
+  white, border 1 px `#e5e5e5`, shadow xs, a 20 px grey magnifier 12 px inside at the left, text
+  padded 40 px left and 16 px right, 14 px text from 768 px up and 16 px below, placeholder
+  "Search news…" in `#737373`); it is focused at once; focus shows a `#a1a1a1` border and the 3 px
+  ring. Enter runs the search on the current view; the magnifier button closes the field again,
+  as does Escape; the words stay applied until cleared. On phones the location picker and the
+  toggle hide while the field is open so it gets the room (the live site leaves it 58 px wide,
+  which is unusable).
+- **Location picker**: a 32 px tall ghost button (radius 8, padding 0 10 px, gap 4 px) with a
+  16 px white globe (lucide `globe`) and a 12 px / 16 px medium white label. The label is
+  **"World"** when no location filter is set, otherwise the country's name ("Canada"). It opens a
+  menu 192 px wide (padding 4, radius 8, border 1 px `#e5e5e5`, shadow md, white; dark `#171717`)
+  aligned to the button's right edge 4 px below: one 32 px item per choice (padding 6 px 8 px,
+  radius 6, 14 px / 20 px), "World" first then every country present in the data by its name;
+  the chosen one shows a 16 px check (lucide `check`) in `#737373` at the right; hover `#f5f5f5`.
+  Choosing filters the feed at once (our `loc` state) and never reloads the page.
+- **Article/video toggle**: a 32 px round transparent button (hover `#a7c4ff`, dark `#214fcc`)
+  holding a 20 px white line glyph that shows the current setting and cycles it on each click:
+  **both** (two overlapping pages, the back one with a picture, the front one with text lines) →
+  **videos only** (a rounded screen with a play triangle) → **articles only** (one page with text
+  lines) → both. Its title and accessible name read "Showing: Articles and videos" / "Showing:
+  Videos only" / "Showing: Articles only". This is the design's single-button toggle the owner
+  chose; it is hidden in Live, which is videos by nature.
+- **Avatar**: a 40 px round button whose face is a `#e5e7eb` circle with a 16 px `#4a5565` user
+  glyph (lucide `user`); hover paints a `#a7c4ff` ring around it. It opens the **avatar menu**
+  (below).
 
-## Bars on phones and small tablets (920 px and narrower)
+### Bar 2 — the category tabs (48 px + 1 px `#e5e5e5`; dark `#101828` with `#1e2939`)
 
-- Row 1: 48 px white, the same tabs with a 12 px inset, no logo and no arrows. A 32 px avatar
-  button is pinned at the right over the row on a white block, with a 32 px magnifier button beside
-  it that opens the search field under the bars.
-- Row 2: 48 px `#F9FAFB` with the same tabs as the desktop second bar. The owner chose to offer
-  both placements from the design: **top** (default, directly under row 1) or **bottom** (docked
-  as a sticky bar at the bottom of the screen). The visitor picks in Settings; the choice is kept
-  in the browser and only affects phones.
+- White. A scrollable track (hidden scrollbar, drag-to-scroll with the mouse, swipe on touch) with
+  16 px side padding from 640 px up, none below. Tabs are buttons: 14 px / 20 px, **weight 700**,
+  padding 12 px 16 px (12 px 8 px below 640; Home has no left padding from 640 up), no gap, a
+  4 px bottom border flush with the bar's bottom line. Inactive: text `#101828` (dark `#e5e7eb`),
+  transparent border; hover border `#e5e7eb` (dark `#4a5565`). Active: text and border
+  `#305dd2` (dark text `#6393ff`, border `#4677ed`). Clipped tabs are simply cut, no fade.
+  Unlike the live site, the active tab is scrolled into view when it changes.
+- Contents: **Home**, then every category from `data/categories.json` in file order. (The live
+  site filters its tabs by country; Curanet always shows all of them.) Saved, Following and Live
+  are not tabs: see the grey row and the avatar menu. When Live, Sources or About is open, no tab
+  is active, as on the live site's search page.
+- At the right, outside the track, the **≡ button**: 36 × 36, radius 8, 8 px from the container's
+  edge, a 16 px three-line glyph (`M4 5h16 M4 12h16 M4 19h16`) in `#101828` (dark `#e5e7eb`);
+  hover `#f3f4f6` (dark `#1e2939`). It opens the **Menu panel**; while the panel is open the glyph
+  becomes an X.
 
-## Tools row
+### Bar 3 — the grey row (36 px + 1 px; 38 + 1 when it lists subcategories)
 
-- Directly under the bars, inside the feed column. The **article/video control** is the design's
-  "Single" component: one 48 px bar in `#1D52DE` with a white icon at the left, the current label
-  in the middle ("Articles + videos" → "Articles" → "Videos" → back), and a round dark control at
-  the right; each click moves to the next setting and the label always shows the current one. It
-  starts on articles and videos together and is hidden in Live.
-- Desktop: the toggle bar sits at the left (280 px); the language filter, the location filter
-  and the search field sit at the right. Phones: the toggle bar is full width; the language and
-  location filters live in Settings (they apply immediately); search is the magnifier in row 1.
-- The language and location filters list only the languages and countries present in the data,
-  with All first. Search runs on Enter or on the magnifier and covers titles, excerpts and source
-  names within the current selection. Language and location start on All and combine with
-  everything else.
+- `#f9fafb` (dark `#101828`), bottom border `#e5e5e5` (dark `#1e2939`). The links are centred
+  with 24 px gaps and 8 px top padding; a row too wide for the container overflows symmetrically
+  on desktop and scrolls from the left edge on phones (hidden scrollbar). Links: 14 px / 20 px,
+  weight 500, bottom padding 6 px (8 px in the subcategory variant), a 2 px bottom border.
+  Inactive `#364153` with a transparent border, hover text `#305dd2` with border `#d1d5dc`;
+  active text and border `#305dd2` (dark: inactive `#d1d5dc`, hover `#6393ff` / `#4a5565`, active
+  `#6393ff` / `#4677ed`).
+- Contents by view:
+  - **Home**: **All · Saved · Following**. "All" is the whole feed. Saved and Following are the
+    visitor's own lists, placed here because that is where the live site puts a signed-in
+    visitor's collections. While Following is open a fourth link, **Manage** (with a 12 px gear),
+    opens Manage Following. The live site's "Latest" and "Popular" are left out: Latest is the
+    same list as All, and Popular needs vote counts that do not exist here.
+  - **A category**: **All** plus its subcategories, in file order; changing the category resets
+    the subcategory to All (the 38 + 1 variant).
+  - **Live**: **All · News · Sports · Music**.
+  - Sources, About and Manage Following: the row is hidden.
+- On phones the owner's option remains: the row sits under the tabs (default) or is docked as a
+  sticky bar at the bottom of the screen, chosen in Settings; the choice only affects phones.
+
+### Scroll behaviour
+
+Scrolling down past 100 px slides the whole header up by 56 px over 300 ms, so the blue bar goes
+away and the tabs stay pinned at the top with the grey row under them; any scroll up, or reaching
+the top, brings the blue bar back. The header stays put while the search field or the Menu panel
+is open, and never moves with reduced motion (it stays fully visible).
+
+### Phones (below 640 px)
+
+No wordmark; the four controls keep their desktop sizes and gaps (everything still fits at
+360 px); tabs have 8 px side padding and scroll; the grey row is centred or docked at the bottom.
+The feed card is full width with no side padding and keeps its border and radius. The avatar
+menu is 320 px wide aligned to the right edge; the location menu 192 px.
+
+## The avatar menu
+
+A menu 320 px wide (padding 24, border **2 px** `#e5e5e5`, radius 8, shadow lg, white; dark
+`#171717` with the border white at 10 %) aligned to the avatar's right edge 4 px below. The live
+site's version holds sign-in buttons; Curanet's holds, top to bottom:
+
+1. A centred block: a heading 18 px / 28 px bold `#101828` ("Your Curanet"), under it 14 px
+   `#4a5565` ("Saved and Following stay in this browser").
+2. Two rows styled like the live menu's items (32 px, padding 6 px 8 px, radius 6, 14 px, a 16 px
+   `#737373` icon then the label, hover `#f5f5f5`): **Saved** (bookmark) and **Following** (a
+   check-list glyph), then **Live** (a play glyph).
+3. A 1 px separator with 12 px margins.
+4. **Language** with a 12 px `#737373` hint at the right showing the current choice ("All" /
+   "English" / "Français") and a chevron; it expands in place to one row per choice (All
+   languages, then the languages present in the data, with a check on the current one). This is
+   the content-language filter (our `lang` state).
+5. **Dark Mode** (moon) or **Light Mode** (sun) — one row that toggles the theme and stores it.
+6. **Settings** (gear) — opens the Settings dialog.
+7. A footer (top border, 16 px padding, 12 px `#6a7282`, centred): "Sign-in is coming later ·
+   **Sources** · **About**", the two links in `#305dd2` (underline on hover).
+
+Escape, a click outside, or choosing an item closes it; focus returns to the avatar.
+
+## The Menu panel (the ≡ button)
+
+A full-screen panel fixed under the blue bar (top 56 px, to the bottom, z-index 50, white; dark
+`#030712`) that scrolls on its own. Its own 48 px blue bar (same blue, 1 px `#123bb7` bottom
+line; dark `#214fcc`) shows "Menu" 18 px / 28 px bold white at the left (4 px in from the
+container edge plus 16 px padding) and a 36 px X button at the right. Body padding 24 px 16 px
+(24 px 8 px on phones), content indented 16 px:
+
+- "ALL CATEGORIES": 14 px / 20 px bold uppercase `#4a5565` (dark `#99a1af`), 16 px below it a grid
+  of cells, 3 columns from 768 px up and 2 below, 12 px gaps: each cell `#f3f4f6` (dark `#1e2939`),
+  padding 8 px, radius 4, label 16 px / 24 px bold `#000` (dark `#f3f4f6`); hover `#305dd2` with a
+  white label (dark `#214fcc`). One cell per category (no Home). Choosing one closes the panel and
+  opens the category.
+- Below a 1 px rule and 24 px: "MORE", same heading style, then the same cells for **Saved**,
+  **Following**, **Live**, **Sources** and **About**.
+- Escape and the X close it; the page behind does not scroll while it is open; focus goes to the
+  panel heading on open and back to the ≡ button on close.
 
 ## Feed
 
-- Desktop: one centred white panel 840 px wide, 24 px below the bars (8 px radius, 1 px
-  `#F3F4F6` border, faint shadow, 20 px vertical padding). Items are stacked inside it, newest
-  first, separated by 1 px `#E5E7EB` lines. 30 items at a time; more appear as the visitor scrolls.
-- Phones: no panel; items are full width with the same dividers on the `#F8FBFE` page.
-- A plain message appears when nothing matches, with a "Clear filters" button.
+- The page is `#f9fafb` (dark `#030712`). The container has 16 px padding on all sides from
+  640 px up and only top and bottom padding below, so the card starts 16 px under the header.
+- **The card**: white (dark `#101828`), border 1 px `#e5e7eb` (dark `#1e2939`), radius 10, shadow
+  sm, overflow hidden, 864 px wide at 1280 (full width on phones). Items are stacked in it with
+  no gaps, each with a 1 px `#f3f4f6` (dark `#1e2939`) bottom line; 20 at a time, more appear as
+  the visitor scrolls (a "Show more" button only where the browser cannot watch scrolling).
+- After the last item, when everything is shown: "You've reached the end." 14 px `#6a7282`,
+  centred, 24 px padding, inside the card.
+- Nothing matches: "No content in this category yet." 16 px / 24 px `#6a7282` (dark `#99a1af`),
+  centred, 48 px padding, inside the card, followed by the "Clear filters" button (and "Manage
+  following" in Following). Saved with nothing saved: the same block with "Nothing saved yet."
 
 ## Article item
 
-- Desktop: a **publisher line** at the top (24 px round monogram of the source name on a pastel
-  colour, then the source name, 16 px semibold); below it the **title** (20 px semibold, at most
-  two lines); the **thumbnail** at the right (200 × 112, 8 px radius), the title spanning the full
-  width when there is none; a **bottom row** with the time at the left and the actions at the
-  right: **Like** and **Comment** (shown but disabled, "Coming later"), **Share** (the browser's
-  share sheet; without one the link is copied to the clipboard and the chip briefly reads "Link
-  copied"), **Save** (fills the bookmark and adds the item to My Hub › Saved). Chips: `#F9FAFB`
-  with a `#F3F4F6` border, 6 px radius, 16 px icon, 14 px label.
-- Phones: the publisher name only (13 px grey), the title (15 px bold, at most three lines), a
-  110 × 86 thumbnail at the right (6 px radius), then the time at the left and four icon-only
-  buttons at the right (heart and comment disabled, share, bookmark).
-- Clicking the title or the thumbnail opens the original in a new tab. No excerpt is shown.
-- Time: relative for the first seven days ("1 hour ago", "2 days ago"), then a short date
-  ("Dec 12, 2025").
+- Padding 16 px top and bottom, 16 px sides. The whole text block (publisher and title, and the
+  thumbnail) is **one link** to the original, opened in a new tab.
+- **Publisher line**: the source name, 14 px / 20 px weight 600, `#364153` (dark `#f3f4f6`), 8 px
+  above the title. No icon or monogram.
+- **Title**: 20 px / 27.5 px from 768 px up, 18 px / 24.75 px below, weight 400, `#101828` (dark
+  `#f9fafb`), at most three lines (clamped with an ellipsis); hovering the link turns it `#305dd2`
+  (dark `#4677ed`).
+- **Thumbnail** (when there is one): at the right, top-aligned, 24 px from the text (16 px on
+  phones), **200 × 112** from 640 px up and **112 × 80** below, radius 10, border 1 px `#f3f4f6`
+  (dark `#364153`), shadow sm, `#f3f4f6` behind the picture, picture cover-fitted and scaled to
+  105 % over 300 ms while the link is hovered. A picture that fails to load removes the box.
+- **Bottom row**, 16 px under the text: the **time** at the left, 12 px / 16 px weight 500
+  `#6a7282` (dark `#99a1af`), relative for the first seven days ("about 1 hour ago" style wording
+  is not copied; Curanet keeps "1 hour ago", "2 days ago") and a short date after that; the
+  **actions** at the right (below). No excerpt is shown.
 
 ## Video item
 
-- Desktop: a full-width 16:9 preview (840 × 473) with a 20 % dark tint and an 80 px white circle
-  holding a blue play triangle; below it the title, then a row with the channel (monogram, name,
-  time) at the left and the actions at the right. Phones: a full-width 16:9 preview with a 40 px
-  white circle, then the channel name, the title, and the time with the four icons.
-- In the preview the whole preview image links to YouTube in a new tab; on the hosted site it
-  plays in YouTube's privacy-enhanced player on click.
+- No side padding: the **player area** spans the card's full inner width at 16:9 (black behind
+  it, shadow sm). On the hosted site it shows the video's preview picture with a red rounded play
+  button (68 × 48, white triangle) in the middle, like YouTube's own; one click replaces it with
+  the privacy-enhanced YouTube player. In the preview file it is a link that opens the video on
+  YouTube in a new tab. No tint, no custom overlay.
+- Under it, inside 24 px side padding (16 px on phones) and 16 px bottom padding: the publisher
+  line 12 px below the player, the title (20 px / 25 px from 768 px up, 18 px / 22.5 px below, no
+  clamp, hover `#305dd2`, a link to the video on YouTube in a new tab) 8 px below, then the bottom
+  row 16 px below.
 
-## My Hub
+## Action row: Save, Share, heart
 
-- **Saved**: the items the visitor saved, newest-saved first, kept in the browser. Empty message
-  when there are none.
-- **Following**: the feed limited to the sections the visitor follows, kept in the browser; empty
-  message with a "Manage following" button. The gear opens **Manage Following** in the column: a
-  title with Cancel and Save Changes, a search field, an All | Following (n) toggle, one row per
-  category with a count badge that opens a grid of checkboxes for its subcategories, and Select
-  all / Clear per category.
-- Both work without an account. When sign-in arrives, the same lists move to the account.
+Three outline buttons 24 px tall, radius 8, padding 0 10 px, 6 px between icon and label, 12 px /
+16 px weight 500, text and 16 px icon `#6a7282`, white with a 1 px `#e5e5e5` border and shadow xs
+(dark: white at 4.5 % with a border white at 15 %), 8 px apart, right-aligned:
 
-## Live
+- **Save** (lucide `bookmark`, label "Save"): hover text `#305dd2` on `#a7c4ff` (dark `#4677ed`
+  on `#1d4ece` at 10 %). Saving fills the bookmark, the label reads "Saved" and a toast says
+  "Saved · Find it under Saved". Saving again removes it ("Removed from Saved"). The list lives in
+  the browser; no account is needed.
+- **Share** (lucide `share-2`, label "Share"): hover text `#00c950` on `#f0fdf4` (dark the same
+  green on green at 10 %). Opens the **share menu** (192 px, padding 4, radius 8, border 1 px
+  `#e5e5e5`, shadow md, aligned to the button's right edge 4 px below): rows of 32 px (padding
+  6 px 8 px, radius 6, 14 px, a 16 px `#737373` icon then 16 px to the label, hover `#f5f5f5`):
+  **Copy Link** (lucide `link`), **Facebook**, **Twitter**, **LinkedIn**, **WhatsApp** (filled
+  glyph), **Telegram** (lucide `send`). The five services are plain links to their share addresses
+  (facebook.com/sharer, twitter.com/intent/tweet, linkedin.com/shareArticle, wa.me, t.me/share)
+  carrying the item's **original** link and title, opened in a new tab; nothing is loaded from
+  them. Copy Link writes the original link to the clipboard and shows the toast "Link Copied! ·
+  The link has been copied to your clipboard."
+- **Heart** (lucide `heart`, icon only, 38 px wide): shown as the owner asked, but disabled until
+  accounts exist: no hover change, `aria-disabled`, title "Coming later", and a click shows the
+  toast "Likes are coming later".
+- Keyboard focus: border `#a1a1a1` plus the 3 px ring; the item link shows the browser's outline in
+  the ring colour.
 
-- The newest videos, with sections All / News / Sports / Music. Until a YouTube API key exists it
-  shows the latest videos rather than live streams, and About says so.
+**Toasts**: a box 388 px wide at most, 16 px from the bottom-right corner on desktop (full width
+16 px inside the top edge on phones), padding 24 px (32 px at the right), white (dark `#0a0a0a`),
+border 1 px `#e5e5e5` (dark white at 10 %), radius 8, shadow lg: a 14 px semibold title and a
+14 px line at 90 % opacity; it slides in and goes away after 5 s; a small X at its top-right
+closes it. Announced politely to screen readers.
 
-## Settings (the avatar)
+## Saved, Following and Live
 
-- Theme: Light (default), Dark, Follow system. Sections bar on phones: Top (default) or Bottom.
-  Preferred language and location (applied when the visitor arrives with no filters), and on
-  phones the live language and location filters. Links to Saved, Following, Sources and About. A
-  reserved spot for sign-in later. Everything is kept in the browser and the page still works when
-  browser storage is unavailable.
+- **Saved**: the items the visitor saved, newest-saved first, in the same card. Reached from the
+  grey row on Home, the avatar menu and the Menu panel.
+- **Following**: the feed limited to the followed sections. **Manage Following** opens from the
+  grey row's Manage link, from the avatar menu's Following row when nothing is followed yet, and
+  from the empty state. It is a card in the same style with a title row ("Manage Following",
+  Cancel as a text link and "Save Changes" as a blue button of the bar blue), a search field, an
+  "All | Following (n)" pair of pills, one row per category with a count badge that opens a grid
+  of checkboxes for its subcategories, and Select all / Clear per category. Checkboxes are 16 px,
+  radius 4, border `#d1d5dc`, checked `#305dd2` with a white check.
+- **Live**: the newest videos with the sections All / News / Sports / Music in the grey row; no tab
+  is active in the tabs row; the toggle is hidden. Until a YouTube API key exists it shows the
+  latest videos rather than live streams, and About says so.
+- All three work without an account and keep their lists in the browser; when sign-in arrives the
+  same lists move to the account.
+
+## Settings (from the avatar menu)
+
+A dialog in the menu style (white, radius 8, border 1 px, shadow lg, 24 px padding, 384 px wide
+at most, centred): Theme (Light — the default, Dark, Follow system), Sections bar on phones (Top —
+the default, Bottom), Preferred language and location (applied when the visitor arrives with no
+filters). Everything is kept in the browser and the page still works when storage is unavailable
+(a hint says so). Sources and About are reached from the avatar menu and the Menu panel.
 
 ## State in the address
 
 - Hosted site: category, subcategory, language, location, article/video setting, search words and
   the view (saved, following, live) are in the page address so a view can be bookmarked or shared.
-  Preview: that state stays inside the page; Sources, About, Saved, Following and Live are reached
+  Preview: the state stays inside the page; Sources, About, Saved, Following and Live are reached
   with plain `#anchors`.
 
-## Sources and About
+## Left out of the live design, on purpose
 
-- Reached from Settings. Sources lists each source with its status and last successful fetch.
-  About explains that Curanet shows headlines and short excerpts with links to the original
-  publishers, says that Live shows the latest videos for now, and gives a placeholder contact for
-  removal requests.
+- **Accounts** (Google and Facebook sign-in, collections, votes, the thumbs on the detail page) and
+  **analytics**: they need third-party services; the sign-in spot is reserved in the avatar menu.
+- **The item page** (`/content/…` with the full description): Curanet links to the original
+  instead and shows no article text.
+- **"Latest" and "Popular"**: see the grey row. **Country-dependent tabs** (Local only for Canada):
+  Curanet's categories are the same everywhere; the location picker filters the items.
+- **The install-the-app prompt** and the social links in the Menu panel's footer.
 
 ## Quality bar
 
 Mobile first; WCAG AA (contrast in both themes, keyboard operation, visible focus, labels, reduced
 motion); interface in English with every string ready in French; no horizontal page scrolling at
-any width from 360 px up.
+any width from 360 px up; everything works in the preview file (a body fragment with plain
+`#anchors`) and on the hosted site alike.
