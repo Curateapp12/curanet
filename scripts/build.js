@@ -25,7 +25,6 @@ import { downloadThumbnail, embedThumbnails } from '../src/lib/thumbs.js';
 /** @typedef {import('../src/lib/thumbs.js').EmbedStats} EmbedStats */
 
 const SITE_DIR = fileURLToPath(new URL('../src/site/', import.meta.url));
-const FONTS_HREF = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap';
 const DESCRIPTION = 'Curanet collects headlines from news feeds and videos from YouTube in one feed you can narrow by category, language, location and type.';
 
 /**
@@ -163,9 +162,6 @@ export function renderHosted(data, assets) {
     `<meta name="description" content="${DESCRIPTION}">`,
     '<meta name="color-scheme" content="light dark">',
     THEME_SCRIPT,
-    '<link rel="preconnect" href="https://fonts.googleapis.com">',
-    '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>',
-    `<link rel="stylesheet" href="${FONTS_HREF}">`,
     '<link rel="stylesheet" href="styles.css">',
     '</head>',
     '<body>',
@@ -192,7 +188,6 @@ export function renderPreview(data, assets) {
   return [
     '<title>Curanet</title>',
     THEME_SCRIPT,
-    `<link rel="stylesheet" href="${FONTS_HREF}">`,
     '<style>',
     assets.css.trim(),
     '</style>',
