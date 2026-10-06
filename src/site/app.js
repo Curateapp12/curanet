@@ -1014,8 +1014,9 @@
 
   /** Keeps --header-h equal to the sticky header's height so focused cards scroll out from under it. */
   function trackHeaderHeight() {
-    var header = document.querySelector('.site-header');
-    if (!header) return;
+    var found = /** @type {HTMLElement|null} */ (document.querySelector('.site-header'));
+    if (!found) return;
+    var header = found;
     var apply = function () { document.documentElement.style.setProperty('--header-h', header.offsetHeight + 'px'); };
     apply();
     if (typeof ResizeObserver === 'function') new ResizeObserver(apply).observe(header);
