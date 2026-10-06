@@ -750,28 +750,6 @@
       }
     },
     {
-      "id": "playback",
-      "type": "feed",
-      "name": "Playback",
-      "url": "https://playbackonline.ca/feed/",
-      "siteUrl": "https://playbackonline.ca",
-      "category": "culture",
-      "subcategory": "entertainment",
-      "country": "CA",
-      "language": "en",
-      "status": "active",
-      "addedAt": "2026-10-05T23:15:25.904Z",
-      "fetch": {
-        "etag": null,
-        "lastModified": null,
-        "lastAttempt": "2026-10-05T23:58:43.973Z",
-        "lastSuccess": null,
-        "lastResult": "error",
-        "lastError": "empty document",
-        "failures": 2
-      }
-    },
-    {
       "id": "all-lit-up",
       "type": "feed",
       "name": "All Lit Up",
@@ -1271,6 +1249,28 @@
       "status": "waiting_for_key",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": null
+    },
+    {
+      "id": "national-post-entertainment",
+      "type": "feed",
+      "name": "National Post",
+      "url": "https://nationalpost.com/category/entertainment/feed.xml",
+      "siteUrl": "https://nationalpost.com/",
+      "category": "culture",
+      "subcategory": "entertainment",
+      "country": "CA",
+      "language": "en",
+      "status": "active",
+      "addedAt": "2026-10-06T00:00:01.803Z",
+      "fetch": {
+        "etag": null,
+        "lastModified": "Tue, 06 Oct 2026 00:00:02 GMT",
+        "lastAttempt": "2026-10-06T00:00:02.256Z",
+        "lastSuccess": "2026-10-06T00:00:02.256Z",
+        "lastResult": "ok",
+        "lastError": null,
+        "failures": 0
+      }
     }
   ]
 }

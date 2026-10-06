@@ -34,6 +34,8 @@ describe('USER_AGENT and classifyHttpStatus', () => {
   test('classifies status codes', () => {
     assert.equal(classifyHttpStatus(200), 'ok');
     assert.equal(classifyHttpStatus(226), 'ok');
+    assert.equal(classifyHttpStatus(202), 'blocked', 'a 202 without content is a bot check');
+    assert.equal(classifyHttpStatus(204), 'blocked');
     assert.equal(classifyHttpStatus(304), 'unchanged');
     assert.equal(classifyHttpStatus(401), 'blocked');
     assert.equal(classifyHttpStatus(403), 'blocked');

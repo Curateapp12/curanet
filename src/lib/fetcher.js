@@ -85,6 +85,8 @@ const DEFAULT_CONCURRENCY = 4;
  * @returns {'ok'|'unchanged'|'blocked'|'error'}
  */
 export function classifyHttpStatus(status) {
+  // 202/204/205 carry no feed body; publishers' bot checks answer this way, so it counts as a refusal.
+  if (status === 202 || status === 204 || status === 205) return 'blocked';
   if (status >= 200 && status <= 299) return 'ok';
   if (status === 304) return 'unchanged';
   if (status === 401 || status === 403 || status === 451) return 'blocked';
@@ -232,7 +234,8 @@ async function fetchWithSignal(source, signal, { fetchFn, timeoutMs, maxBytes, h
   }
   if (kind === 'blocked') {
     discardBody(response);
-    return { result: 'blocked', status, error: `HTTP ${status}` };
+    const reason = status === 202 || status === 204 || status === 205 ? `HTTP ${status} (answered without content — usually a bot check)` : `HTTP ${status}`;
+    return { result: 'blocked', status, error: reason };
   }
   if (kind === 'error') {
     discardBody(response);

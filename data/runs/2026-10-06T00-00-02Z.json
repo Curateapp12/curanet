@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "startedAt": "2026-10-06T00:00:02.256Z",
+  "finishedAt": "2026-10-06T00:00:02.732Z",
+  "totals": {
+    "sources": 1,
+    "fetched": 1,
+    "unchanged": 0,
+    "added": 10,
+    "pruned": 0,
+    "blocked": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "sources": [
+    {
+      "id": "national-post-entertainment",
+      "result": "ok",
+      "added": 10,
+      "pruned": 0,
+      "ms": 475,
+      "error": null
+    }
+  ]
+}
