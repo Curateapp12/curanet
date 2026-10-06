@@ -78,8 +78,9 @@ frames; where the frames disagree, the choice is noted.
   two lines); the **thumbnail** at the right (200 × 112, 8 px radius), the title spanning the full
   width when there is none; a **bottom row** with the time at the left and the actions at the
   right: **Like** and **Comment** (shown but disabled, "Coming later"), **Share** (the browser's
-  share sheet, otherwise "Copy link"), **Save** (fills the bookmark and adds the item to My Hub ›
-  Saved). Chips: `#F9FAFB` with a `#F3F4F6` border, 6 px radius, 16 px icon, 14 px label.
+  share sheet; without one the link is copied to the clipboard and the chip briefly reads "Link
+  copied"), **Save** (fills the bookmark and adds the item to My Hub › Saved). Chips: `#F9FAFB`
+  with a `#F3F4F6` border, 6 px radius, 16 px icon, 14 px label.
 - Phones: the publisher name only (13 px grey), the title (15 px bold, at most three lines), a
   110 × 86 thumbnail at the right (6 px radius), then the time at the left and four icon-only
   buttons at the right (heart and comment disabled, share, bookmark).

@@ -3,6 +3,20 @@
 Figma file: https://www.figma.com/design/4CdkN0M6fwlqPa685aB7Az/New-Design (page "Prototype").
 Written 2026-10-06 from the frames that could be read (see "What could not be read" at the end).
 
+## Status (2026-10-06)
+
+Phases 1 to 6 of the plan below are **done**. They were built together and delivered in one pull
+request, Curateapp12/curanet#2 (commit 93e696e for the category tree and the re-filed sources,
+5436255 for the site, 61bd8e5 for the docs), rather than one pull request per phase.
+`docs/LAYOUT.md` now describes the built layout; the sections below are kept as the record of how
+the design was read and what was decided.
+
+Still to come: **Like** and **Comment** (they need accounts and a server), real **live streams** in
+Live (they need the YouTube API key; Live shows the latest videos until then), Saved and Following
+on the account side once sign-in exists, and two details that wait for the Figma file to be
+readable again: the exact hover colours and the logo as a vector (the site draws a yellow circle
+with a stand-in mark for now).
+
 This document does three things: it maps every part of the design to the part of the code that
 draws it today, it lists the buttons in the design that have no working feature behind them with a
 proposed solution for each, and it lays out the implementation in phases. Decisions the owner must
@@ -139,8 +153,9 @@ use "Single" (one button that cycles through the three settings).
 
 ## 5. Implementation plan
 
-Each phase is one pull request, each ends with `npm run check` green, a rebuilt preview and
-screenshots at phone and desktop widths. Work goes on a branch from `main`.
+The plan was one pull request per phase, each ending with `npm run check` green, a rebuilt
+preview and screenshots at phone and desktop widths, on a branch from `main`. In the end all six
+phases shipped together; see "Status" at the top.
 
 **Phase 1 — Visual tokens and typography (small).** New light palette and derived dark palette in
 `styles.css`, Roboto from Google Fonts in `scripts/build.js`, radii and shadows. No layout change.

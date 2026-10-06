@@ -12,7 +12,7 @@ the preview link.
 
 | Command | What it does | Example |
 |---|---|---|
-| `/add-source` | Adds a feed (or a YouTube channel) with its category, subcategory, country and language. Claude checks the address works, shows you the publisher's name and latest titles, refuses duplicates, fetches it once and rebuilds. | `/add-source https://thetyee.ca/rss2.xml Local / News CA en` |
+| `/add-source` | Adds a feed (or a YouTube channel) with its category, subcategory, country and language. Claude checks the address works, shows you the publisher's name and latest titles, refuses duplicates, fetches it once and rebuilds. | `/add-source https://globalnews.ca/politics/feed/ Local / Politics CA en` |
 | `/add-video` | Adds one YouTube video by link. | `/add-video https://youtu.be/dQw4w9WgXcQ Entertainment / Music GB en` |
 | `/remove-source` | Deletes a source and all of its items. | `/remove-source the-tyee` |
 | `/pause-source` | Stops fetching a source but keeps its items. `resume` turns it back on (also un-blocks a refused source). | `/pause-source rabble`, `/pause-source resume rabble` |
@@ -33,16 +33,21 @@ a test of the data files, so a mistake is caught before it reaches the site.
 
 The site follows your Figma design. The top bar lists **My Hub**, **Live**, **Home** and then the
 categories from `data/categories.json` in file order; the bar under it lists the subcategories.
-Visitors can save items and follow sections (kept in their own browser, no account), share an item,
-switch the theme (light by default) and, on phones, move the sections bar to the bottom of the
-screen, all from the avatar at the top right. Like and Comment are shown but disabled until accounts
-exist. Adding a category with `/add-category` makes it appear in the top bar on the next build.
+Visitors save and share items with the buttons under each item. They follow sections from
+**My Hub › Following** (the gear opens Manage Following). From the avatar at the top right they
+switch the theme (light by default), set a preferred language and location and, on phones, move the
+sections bar to the bottom of the screen. Saved items and followed sections live in their own
+browser; there is no account. **Live** shows the latest videos (All / News / Sports / Music) until
+the YouTube API key exists; real live streams come later. Like and Comment are shown but disabled
+until accounts exist. Adding a category with `/add-category` makes it appear in the top bar on the
+next build.
 
 ## Where things are
 
 - `data/sources.json` — every feed and channel: its name, address, category, subcategory, country,
   language and status.
-- `data/categories.json` — the category tree, in the order the ribbon shows it.
+- `data/categories.json` — the category tree, in the order the top bar shows it (after My Hub, Live
+  and Home).
 - `data/hidden.json` — items you removed.
 - `data/items/` — the collected items, one file per source.
 - `data/runs/` — one file per fetch run, saying when it ran, what it added and what failed.
@@ -55,8 +60,9 @@ If you prefer to change something directly:
 1. On GitHub, open the file (for example `data/sources.json`).
 2. Press the pencil icon (**Edit this file**) at the top right.
 3. Change the value. Keep the quotes and commas exactly as they are. Common edits:
-   - Move a source: change `"category": "news"` and `"subcategory": "politics"` to other ids from
-     `data/categories.json` (ids are the lower-case words with dashes, like `top-stories`).
+   - Move a source: change `"category": "local"` and `"subcategory": "politics"` to other ids from
+     `data/categories.json` (a category id and one of its own subcategory ids; ids are the
+     lower-case words with dashes, like `personal-finance`).
    - Pause a source: change `"status": "active"` to `"status": "paused"`. Resume: back to `"active"`.
    - Change the shown name: edit `"name"`.
 4. Press **Commit changes…**, choose **Create a new branch for this commit and start a pull

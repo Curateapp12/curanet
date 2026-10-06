@@ -2,7 +2,7 @@
 /**
  * Add a feed or a YouTube channel to data/sources.json.
  *
- *   node scripts/add-source.js <url> --category "News / Politics" --country CA --language en [--name "Name"] [--id slug] [--check-only] [--data data]
+ *   node scripts/add-source.js <url> --category "Local / Politics" --country CA --language en [--name "Name"] [--id slug] [--check-only] [--data data]
  *
  * For a feed: checks it, shows the name and latest titles, refuses duplicates, saves it, fetches it once.
  * For a YouTube channel (youtube.com/@handle or /channel/UC…): saves it with status waiting_for_key.
