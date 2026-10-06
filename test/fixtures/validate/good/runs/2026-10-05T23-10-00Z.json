@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "startedAt": "2026-10-05T23:10:00.000Z",
+  "finishedAt": "2026-10-05T23:10:41.000Z",
+  "totals": { "sources": 3, "fetched": 1, "unchanged": 0, "added": 2, "pruned": 0, "blocked": 0, "errors": 0, "skipped": 2 },
+  "sources": [
+    { "id": "globe-and-mail-canada", "result": "ok", "added": 2, "pruned": 0, "ms": 812, "error": null },
+    { "id": "le-devoir", "result": "skipped", "added": 0, "pruned": 0, "ms": 0, "error": null },
+    { "id": "yt-cbc-news", "result": "skipped", "added": 0, "pruned": 0, "ms": 0, "error": "waiting for the YouTube API key" }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "o3lR7Jq9wXk2Vh5mTz0bAeP8cNs",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "Yx2nQ8vLm4Kd7Hs1Wb9tRf3cJpE",
+      "id": "UCuFFtHWoLl5fauMMD5Ww2jA",
+      "snippet": {
+        "title": "CBC News",
+        "description": "CBC News is Canada's trusted source for breaking news, analysis and original reporting from across the country and around the world. Subscribe for daily coverage of politics, business, health, climate and more.",
+        "customUrl": "@cbcnews",
+        "publishedAt": "2006-09-28T19:26:51Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kQ2mX9Lp4vN7bR1tS8wZc5Hf3Ye6Ug0JaK=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kQ2mX9Lp4vN7bR1tS8wZc5Hf3Ye6Ug0JaK=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kQ2mX9Lp4vN7bR1tS8wZc5Hf3Ye6Ug0JaK=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "CBC News",
+          "description": "CBC News is Canada's trusted source for breaking news, analysis and original reporting from across the country and around the world. Subscribe for daily coverage of politics, business, health, climate and more."
+        },
+        "country": "CA"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUuFFtHWoLl5fauMMD5Ww2jA"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "news",
+      "name": { "en": "News", "fr": "Actualités" },
+      "subcategories": [
+        { "id": "top-stories", "name": { "en": "Top Stories", "fr": "À la une" } },
+        { "id": "politics", "name": { "en": "Politics", "fr": "Politique" } }
+      ]
+    },
+    {
+      "id": "business",
+      "name": { "en": "Business", "fr": "Affaires" },
+      "subcategories": [
+        { "id": "economy", "name": { "en": "Economy", "fr": "Économie" } }
+      ]
+    },
+    {
+      "id": "culture",
+      "name": { "en": "Culture" },
+      "subcategories": []
+    }
+  ]
+}

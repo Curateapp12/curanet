@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "sourceId": "orphan-source",
+  "items": [
+    {
+      "id": "8192031425364758",
+      "guid": "orphan-1",
+      "link": "https://orphan.example/story",
+      "title": "This source was removed and its file left behind",
+      "excerpt": "Must be dropped by the build.",
+      "published": "2026-10-05T11:00:00.000Z",
+      "thumbnail": "https://orphan.example/img.jpg",
+      "type": "article",
+      "addedAt": "2026-10-05T11:10:00.000Z"
+    }
+  ]
+}

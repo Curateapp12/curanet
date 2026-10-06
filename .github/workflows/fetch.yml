@@ -1,0 +1,62 @@
+# Hourly fetch: downloads every active source, adds new items to data/ and commits the result.
+#
+# SWITCHED OFF BY DEFAULT. The job only runs when the repository variable CURANET_FETCH_ENABLED
+# is set to "true". To turn it on (on GitHub's website):
+#   Settings → Secrets and variables → Actions → Variables tab → New repository variable
+#   Name: CURANET_FETCH_ENABLED   Value: true
+# To turn it off again, delete that variable or set it to anything else. You can also disable the
+# whole workflow under Actions → "Hourly fetch" → "…" → Disable workflow.
+#
+# Optional: add the YouTube Data API key as a repository secret named YOUTUBE_API_KEY
+# (Settings → Secrets and variables → Actions → Secrets tab → New repository secret). Channels then
+# move from "waiting for key" to active on the next run. Never paste the key anywhere else.
+#
+# Note: GitHub pauses scheduled workflows in repositories with no activity for 60 days; a click on
+# "Enable workflow" in the Actions tab resumes them.
+name: Hourly fetch
+
+on:
+  schedule:
+    - cron: '17 * * * *'   # every hour at :17 (off-peak minute, see GitHub's advice)
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: curanet-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    name: Fetch sources and commit
+    if: vars.CURANET_FETCH_ENABLED == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Fetch all active sources
+        run: npm run fetch
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Check the data files
+        run: npm run validate
+      - name: Commit and push changes
+        run: |
+          git config user.name "curanet-fetch[bot]"
+          git config user.email "fetch@curanet.io"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+          else
+            git commit -m "Fetch $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
+            git push origin main
+          fi

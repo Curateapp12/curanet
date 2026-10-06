@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "news",
+      "name": { "en": "News", "fr": "Actualités" },
+      "subcategories": [
+        { "id": "top-stories", "name": { "en": "Top Stories", "fr": "À la une" } },
+        { "id": "politics", "name": { "en": "Politics", "fr": "Politique" } },
+        { "id": "world", "name": { "en": "World", "fr": "International" } }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": { "en": "Technology", "fr": "Technologie" },
+      "subcategories": [
+        { "id": "tech-news", "name": { "en": "Tech News", "fr": "Actualité techno" } }
+      ]
+    }
+  ]
+}

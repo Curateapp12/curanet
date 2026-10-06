@@ -1,0 +1,120 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Hs8Lq1mZx4Vn7Kw2Rt9bYc3dPfE",
+  "nextPageToken": "CAMQAA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Wq3Zn8vLx1Km5Rt7Hs2bYd9cPfA",
+      "id": "VVV1RkZ0SFdvTGw1ZmF1TU1ENVd3MmpBLms3Um0ycFhxVzNj",
+      "snippet": {
+        "publishedAt": "2026-10-05T14:30:11Z",
+        "channelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
+        "title": "Ottawa unveils fall economic statement as deficit forecast widens | CBC News",
+        "description": "The federal government tabled its fall economic statement on Monday, projecting a larger deficit than forecast in the spring budget.\n\nRead more: https://www.cbc.ca/news/politics/fall-economic-statement-2026\n\n»»» Subscribe to CBC News to watch more videos: http://bit.ly/1RreYWS\n\nConnect with CBC News Online:\nFor breaking news, video, audio and in-depth coverage: http://bit.ly/1Z0m6iX",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k7Rm2pXqW3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k7Rm2pXqW3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k7Rm2pXqW3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k7Rm2pXqW3c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k7Rm2pXqW3c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBC News",
+        "playlistId": "UUuFFtHWoLl5fauMMD5Ww2jA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k7Rm2pXqW3c"
+        },
+        "videoOwnerChannelTitle": "CBC News",
+        "videoOwnerChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA"
+      },
+      "contentDetails": {
+        "videoId": "k7Rm2pXqW3c",
+        "videoPublishedAt": "2026-10-05T14:02:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ln6Xv2qRz9Tm4Kw8Hs1bYd5cPfE",
+      "id": "VVV1RkZ0SFdvTGw1ZmF1TU1ENVd3MmpBLlp0OWJMdzRIcVlF",
+      "snippet": {
+        "publishedAt": "2026-10-04T22:15:00Z",
+        "channelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
+        "title": "Wildfire season review: what B.C. learned in 2026 & what comes next",
+        "description": "After another record-breaking summer, fire officials in British Columbia look back at what worked and what did not.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zt9bLw4HqYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zt9bLw4HqYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "channelTitle": "CBC News",
+        "playlistId": "UUuFFtHWoLl5fauMMD5Ww2jA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zt9bLw4HqYE"
+        },
+        "videoOwnerChannelTitle": "CBC News",
+        "videoOwnerChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA"
+      },
+      "contentDetails": {
+        "videoId": "Zt9bLw4HqYE",
+        "videoPublishedAt": "2026-10-04T22:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Pz1Kq7mXv3Rn8Tw2Hs6bYd4cLfA",
+      "id": "VVV1RkZ0SFdvTGw1ZmF1TU1ENVd3MmpBLng5UHpLM21ROHZM",
+      "snippet": {
+        "publishedAt": "2026-10-04T12:00:00Z",
+        "channelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "CBC News",
+        "playlistId": "UUuFFtHWoLl5fauMMD5Ww2jA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x9PzK3mQ8vL"
+        }
+      },
+      "contentDetails": {
+        "videoId": "x9PzK3mQ8vL"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 3
+  }
+}

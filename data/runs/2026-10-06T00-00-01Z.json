@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "startedAt": "2026-10-06T00:00:01.163Z",
+  "finishedAt": "2026-10-06T00:00:01.659Z",
+  "totals": {
+    "sources": 1,
+    "fetched": 0,
+    "unchanged": 0,
+    "added": 0,
+    "pruned": 0,
+    "blocked": 1,
+    "errors": 0,
+    "skipped": 0
+  },
+  "sources": [
+    {
+      "id": "playback",
+      "result": "blocked",
+      "added": 0,
+      "pruned": 0,
+      "ms": 493,
+      "error": "HTTP 202 (answered without content — usually a bot check)"
+    }
+  ]
+}

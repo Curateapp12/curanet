@@ -1,0 +1,92 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Vt2Mq9xLz6Kn3Rw8Hs1bYd7cPfE",
+  "prevPageToken": "CAMQAQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Bn4Xq8vRz2Tm7Kw1Hs9bYd3cLfE",
+      "id": "VVV1RkZ0SFdvTGw1ZmF1TU1ENVd3MmpBLlF3OEZqMkxwTjVz",
+      "snippet": {
+        "publishedAt": "2026-10-03T20:45:30Z",
+        "channelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
+        "title": "Montreal transit strike enters second week — commuters react | Full report",
+        "description": "Buses and the Métro are running on a reduced schedule for a seventh day as talks between the STM and its maintenance workers' union continue.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qw8Fj2LpN5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qw8Fj2LpN5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qw8Fj2LpN5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CBC News",
+        "playlistId": "UUuFFtHWoLl5fauMMD5Ww2jA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qw8Fj2LpN5s"
+        },
+        "videoOwnerChannelTitle": "CBC News",
+        "videoOwnerChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA"
+      },
+      "contentDetails": {
+        "videoId": "Qw8Fj2LpN5s",
+        "videoPublishedAt": "2026-10-03T20:45:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Km9Zq3vXr7Tn2Lw5Hs8bYd1cPfA",
+      "id": "VVV1RkZ0SFdvTGw1ZmF1TU1ENVd3MmpBLnVfNFZtLTlUektv",
+      "snippet": {
+        "publishedAt": "2026-10-02T11:05:09Z",
+        "channelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
+        "title": "Toronto housing: can the new zoning rules bring prices down?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u_4Vm-9TzKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u_4Vm-9TzKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u_4Vm-9TzKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CBC News",
+        "playlistId": "UUuFFtHWoLl5fauMMD5Ww2jA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u_4Vm-9TzKo"
+        },
+        "videoOwnerChannelTitle": "CBC News",
+        "videoOwnerChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA"
+      },
+      "contentDetails": {
+        "videoId": "u_4Vm-9TzKo"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 3
+  }
+}

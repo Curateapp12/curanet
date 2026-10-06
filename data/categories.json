@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "news",
+      "name": { "en": "News", "fr": "Actualités" },
+      "subcategories": [
+        { "id": "top-stories", "name": { "en": "Top Stories", "fr": "À la une" } },
+        { "id": "politics", "name": { "en": "Politics", "fr": "Politique" } },
+        { "id": "world", "name": { "en": "World", "fr": "International" } },
+        { "id": "local", "name": { "en": "Local", "fr": "Régional" } },
+        { "id": "opinion", "name": { "en": "Opinion", "fr": "Opinion" } }
+      ]
+    },
+    {
+      "id": "business",
+      "name": { "en": "Business", "fr": "Affaires" },
+      "subcategories": [
+        { "id": "economy", "name": { "en": "Economy", "fr": "Économie" } },
+        { "id": "markets", "name": { "en": "Markets", "fr": "Marchés" } },
+        { "id": "personal-finance", "name": { "en": "Personal Finance", "fr": "Finances personnelles" } },
+        { "id": "industry", "name": { "en": "Industry", "fr": "Industrie" } }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": { "en": "Technology", "fr": "Technologie" },
+      "subcategories": [
+        { "id": "tech-news", "name": { "en": "Tech News", "fr": "Actualité techno" } },
+        { "id": "science", "name": { "en": "Science", "fr": "Science" } },
+        { "id": "space", "name": { "en": "Space", "fr": "Espace" } },
+        { "id": "security", "name": { "en": "Security", "fr": "Sécurité" } }
+      ]
+    },
+    {
+      "id": "culture",
+      "name": { "en": "Culture", "fr": "Culture" },
+      "subcategories": [
+        { "id": "arts", "name": { "en": "Arts", "fr": "Arts" } },
+        { "id": "entertainment", "name": { "en": "Entertainment", "fr": "Divertissement" } },
+        { "id": "books", "name": { "en": "Books", "fr": "Livres" } },
+        { "id": "music", "name": { "en": "Music", "fr": "Musique" } }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": { "en": "Sports", "fr": "Sports" },
+      "subcategories": [
+        { "id": "hockey", "name": { "en": "Hockey", "fr": "Hockey" } },
+        { "id": "soccer", "name": { "en": "Soccer", "fr": "Soccer" } },
+        { "id": "football", "name": { "en": "Football", "fr": "Football" } },
+        { "id": "other-sports", "name": { "en": "Other Sports", "fr": "Autres sports" } }
+      ]
+    },
+    {
+      "id": "life",
+      "name": { "en": "Life", "fr": "Vie" },
+      "subcategories": [
+        { "id": "health", "name": { "en": "Health", "fr": "Santé" } },
+        { "id": "food", "name": { "en": "Food", "fr": "Cuisine" } },
+        { "id": "travel", "name": { "en": "Travel", "fr": "Voyage" } },
+        { "id": "environment", "name": { "en": "Environment", "fr": "Environnement" } }
+      ]
+    }
+  ]
+}

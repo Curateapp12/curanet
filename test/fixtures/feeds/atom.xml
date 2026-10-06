@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Atom Example</title>
+  <link rel="self" href="https://atom.example/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://atom.example/"/>
+  <updated>2026-10-05T12:00:00Z</updated>
+  <id>urn:uuid:feed</id>
+  <entry>
+    <title type="html">Entry &lt;em&gt;one&lt;/em&gt;</title>
+    <link rel="alternate" type="text/html" href="https://atom.example/posts/one"/>
+    <link rel="enclosure" type="image/jpeg" href="https://atom.example/img/one.jpg"/>
+    <id>tag:atom.example,2026:one</id>
+    <published>2026-10-05T11:00:00Z</published>
+    <updated>2026-10-05T11:30:00Z</updated>
+    <summary type="html">&lt;p&gt;Summary &lt;b&gt;one&lt;/b&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Full content that must not be stored&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Entry two</title>
+    <link href="/posts/two"/>
+    <id>tag:atom.example,2026:two</id>
+    <updated>2026-10-04T11:00:00Z</updated>
+    <media:thumbnail url="https://atom.example/img/two.jpg"/>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>XHTML <i>content</i></p></div></content>
+  </entry>
+  <entry>
+    <title>Entry three has only an id link</title>
+    <id>https://atom.example/posts/three</id>
+    <updated>2026-10-03T11:00:00Z</updated>
+  </entry>
+</feed>
