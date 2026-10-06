@@ -29,6 +29,15 @@ Every change goes on a branch and into a pull request. On GitHub's website, open
 and press **Merge pull request** to make it part of `main`. The checks on the pull request include
 a test of the data files, so a mistake is caught before it reaches the site.
 
+## What visitors see (since the redesign)
+
+The site follows your Figma design. The top bar lists **My Hub**, **Live**, **Home** and then the
+categories from `data/categories.json` in file order; the bar under it lists the subcategories.
+Visitors can save items and follow sections (kept in their own browser, no account), share an item,
+switch the theme (light by default) and, on phones, move the sections bar to the bottom of the
+screen, all from the avatar at the top right. Like and Comment are shown but disabled until accounts
+exist. Adding a category with `/add-category` makes it appear in the top bar on the next build.
+
 ## Where things are
 
 - `data/sources.json` — every feed and channel: its name, address, category, subcategory, country,
