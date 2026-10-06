@@ -12,7 +12,7 @@
     "build": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/build.js",
     "build:hosted": "node scripts/build.js --target hosted",
     "build:preview": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/build.js --target preview",
-    "test": "node --test \"test/**/*.test.js\"",
+    "test": "node --test test/*.test.js",
     "lint": "eslint .",
     "typecheck": "tsc -p tsconfig.json",
     "check": "npm run lint && npm run typecheck && npm test && npm run build",

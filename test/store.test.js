@@ -432,3 +432,21 @@ test('itemsFile refuses source ids that could escape the data directory', async 
   assert.throws(() => hideItemByLink('data', 'not a link at all'), /not a web address/);
   assert.throws(() => hideItemByLink('data', 'javascript:alert(1)'), /not a web address/);
 });
+
+test('mergeItems treats links stored by any source as duplicates and extends the shared set', async () => {
+  const { mergeItems, pruneItems } = await import('../src/lib/store.js');
+  const known = new Set(['https://a.example/story']);
+  const incoming = /** @type {import('../src/lib/types.js').Item[]} */ ([
+    { id: '0000000000000001', guid: null, link: 'https://a.example/story', title: 'Already stored by another source', excerpt: '', published: '2026-10-05T00:00:00.000Z', thumbnail: null, type: 'article', addedAt: '2026-10-05T00:00:00.000Z' },
+    { id: '0000000000000002', guid: null, link: 'https://a.example/new', title: 'New', excerpt: '', published: '2026-10-05T00:00:00.000Z', thumbnail: null, type: 'article', addedAt: '2026-10-05T00:00:00.000Z' },
+  ]);
+  const merged = mergeItems([], incoming, { sourceId: 'b', knownLinks: known });
+  assert.equal(merged.added, 1);
+  assert.equal(merged.items[0].link, 'https://a.example/new');
+  assert.ok(known.has('https://a.example/new'), 'accepted link added to the shared set');
+
+  const now = new Date('2026-10-05T12:00:00Z');
+  const old = /** @type {import('../src/lib/types.js').Item} */ ({ id: '0000000000000003', guid: null, link: 'https://a.example/old', title: 'Old undated', excerpt: '', published: '2026-06-01T00:00:00.000Z', thumbnail: null, type: 'article', addedAt: '2026-06-01T00:00:00.000Z' });
+  assert.equal(pruneItems([old], { now }).items.length, 0);
+  assert.equal(pruneItems([old], { now, keep: (item) => item.published === item.addedAt }).items.length, 1, 'keep predicate retains an old item');
+});

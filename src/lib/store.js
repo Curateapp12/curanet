@@ -409,11 +409,12 @@ export function entryToItem(entry, { now = new Date(), type = 'article', videoId
  * @param {Item[]} existing
  * @param {HiddenEntry[]} hidden
  * @param {string|undefined} sourceId
+ * @param {Set<string>} [knownLinks]   Links stored by any source; used as the index's link set when given.
  * @returns {DuplicateIndex}
  */
-function buildDuplicateIndex(existing, hidden, sourceId) {
+function buildDuplicateIndex(existing, hidden, sourceId, knownLinks) {
   /** @type {DuplicateIndex} */
-  const index = { links: new Set(), guids: new Set(), hiddenLinks: new Set(), hiddenGuids: new Set() };
+  const index = { links: knownLinks || new Set(), guids: new Set(), hiddenLinks: new Set(), hiddenGuids: new Set() };
   for (const item of existing) addToDuplicateIndex(index, item);
   for (const entry of hidden) {
     if (entry.link) {
@@ -453,11 +454,13 @@ export function isDuplicate(item, { existing = [], hidden = [], sourceId } = {})
  * Stored items are never changed: the first stored copy wins, even when the feed changed a title.
  * @param {Item[]} existing
  * @param {(Item|null)[]} incoming
- * @param {{hidden?: HiddenEntry[], sourceId?: string, now?: Date}} [options]
+ * @param {{hidden?: HiddenEntry[], sourceId?: string, now?: Date, knownLinks?: Set<string>}} [options]
  * @returns {{items: Item[], added: number}} items sorted newest first
  */
-export function mergeItems(existing, incoming, { hidden = [], sourceId, now } = {}) {
-  const index = buildDuplicateIndex(existing, hidden, sourceId);
+export function mergeItems(existing, incoming, { hidden = [], sourceId, now, knownLinks } = {}) {
+  // knownLinks (links stored by any source) is shared across the run and extended with every
+  // accepted link, so the same story is kept once even when several feeds carry it.
+  const index = buildDuplicateIndex(existing, hidden, sourceId, knownLinks);
   const nowIso = (now || new Date()).toISOString();
   /** @type {Item[]} */
   const accepted = [];
@@ -484,12 +487,12 @@ function itemTime(item) {
 /**
  * Drop items published strictly more than `maxAgeDays` before `now`.
  * @param {Item[]} items
- * @param {{now?: Date, maxAgeDays?: number}} [options]
+ * @param {{now?: Date, maxAgeDays?: number, keep?: (item: Item) => boolean}} [options]  keep: items to retain even when old
  * @returns {{items: Item[], pruned: number}}
  */
-export function pruneItems(items, { now = new Date(), maxAgeDays = 90 } = {}) {
+export function pruneItems(items, { now = new Date(), maxAgeDays = 90, keep } = {}) {
   const cutoff = now.getTime() - maxAgeDays * DAY_MS;
-  const kept = items.filter((item) => itemTime(item) >= cutoff);
+  const kept = items.filter((item) => itemTime(item) >= cutoff || (keep ? keep(item) : false));
   return { items: kept, pruned: items.length - kept.length };
 }
 
@@ -623,7 +626,7 @@ function runFileTime(name) {
 /**
  * Delete run logs older than `maxAgeDays`.
  * @param {string} dataDir
- * @param {{now?: Date, maxAgeDays?: number}} [options]
+ * @param {{now?: Date, maxAgeDays?: number, keep?: (item: Item) => boolean}} [options]  keep: items to retain even when old
  * @returns {number} how many were deleted
  */
 export function pruneRuns(dataDir, { now = new Date(), maxAgeDays = 90 } = {}) {

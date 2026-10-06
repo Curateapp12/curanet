@@ -161,3 +161,34 @@ test('embedThumbnails swallows a throwing downloader and handles an empty list',
   const empty = await embedThumbnails([], { maxBytes: 10, baseBytes: 0, download: async () => null });
   assert.deepEqual(empty, { embedded: 0, skipped: 0, droppedForBudget: 0, failed: 0, bytes: 0 });
 });
+
+test('embedThumbnails fetches and pays for a repeated address once, and the cache rejects corrupt files', async () => {
+  const { embedThumbnails, downloadThumbnail } = await import('../src/lib/thumbs.js');
+  const { mkdtempSync, writeFileSync, existsSync, readdirSync } = await import('node:fs');
+  const { tmpdir } = await import('node:os');
+  const path = await import('node:path');
+  const calls = [];
+  const download = async (url) => { calls.push(url); return Buffer.alloc(1000, url.includes('other') ? 2 : 1); };
+  const items = [{ th: 'https://i.example/same.jpg' }, { th: 'https://i.example/same.jpg' }, { th: 'https://i.example/other.jpg' }, { th: 'https://i.example/same.jpg' }];
+  const stats = await embedThumbnails(items, { maxBytes: 10_000_000, baseBytes: 0, download, concurrency: 2 });
+  assert.deepEqual(calls.sort(), ['https://i.example/other.jpg', 'https://i.example/same.jpg'], 'each address downloaded once');
+  assert.equal(stats.embedded, 4);
+  assert.equal(items[0].th, items[1].th);
+  assert.equal(items[1].th, items[3].th);
+  assert.notEqual(items[0].th, items[2].th);
+  const oneUri = String(items[0].th).length;
+  assert.equal(stats.bytes, oneUri * 2, 'bytes counted once per distinct picture');
+
+  const cacheDir = mkdtempSync(path.join(tmpdir(), 'curanet-cache-'));
+  const url = 'https://i.example/corrupt.jpg';
+  const { createHash } = await import('node:crypto');
+  const name = createHash('sha1').update(url).digest('hex') + '.webp';
+  writeFileSync(path.join(cacheDir, name), Buffer.alloc(0));
+  let fetched = 0;
+  const fetchFn = async () => { fetched += 1; return new Response('not an image', { status: 404 }); };
+  const result = await downloadThumbnail(url, { fetch: fetchFn, cacheDir });
+  assert.equal(result, null);
+  assert.equal(fetched, 1, 'an empty cache file is not served; the network is tried');
+  assert.ok(!existsSync(path.join(cacheDir, name)), 'the corrupt cache file is removed');
+  assert.ok(readdirSync(cacheDir).every((f) => !f.includes('.tmp-')), 'no temp files left');
+});

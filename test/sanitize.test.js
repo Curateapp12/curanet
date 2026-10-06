@@ -93,3 +93,17 @@ test('toIso rejects absurdly long date strings quickly', () => {
   assert.equal(toIso(' ('.repeat(100_000)), null);
   assert.ok(Date.now() - started < 200);
 });
+
+test('stripHtml decodes XML-escaped entities even when no tag is present', () => {
+  assert.equal(stripHtml('Tom &amp;amp; Jerry &amp;#8211; a review'), 'Tom & Jerry – a review');
+  assert.equal(stripHtml('viruses &amp;mdash; now called'), 'viruses — now called');
+});
+
+test('toIso understands common zone abbreviations', () => {
+  const now = new Date('2026-10-05T12:00:00Z');
+  assert.equal(toIso('Mon, 05 Oct 2026 10:00:00 CET', now), '2026-10-05T09:00:00.000Z');
+  assert.equal(toIso('Mon, 05 Oct 2026 10:00:00 CEST', now), '2026-10-05T08:00:00.000Z');
+  assert.equal(toIso('Mon, 05 Oct 2026 10:00:00 BST', now), '2026-10-05T09:00:00.000Z');
+  assert.equal(toIso('Mon, 05 Oct 2026 10:00:00 AEST', now), '2026-10-05T00:00:00.000Z');
+  assert.equal(toIso('Mon, 05 Oct 2026 10:00:00 EDT', now), '2026-10-05T14:00:00.000Z', 'North American names still work');
+});

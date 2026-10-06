@@ -6,7 +6,7 @@
  */
 import { createHash } from 'node:crypto';
 import { readBodyCapped } from './http.js';
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync, unlinkSync, renameSync } from 'node:fs';
 import path from 'node:path';
 import sharp from 'sharp';
 
@@ -55,10 +55,20 @@ function readCache(cacheDir, url) {
   if (!cacheDir) return null;
   try {
     const file = path.join(cacheDir, cacheName(url));
-    return existsSync(file) ? readFileSync(file) : null;
+    if (!existsSync(file)) return null;
+    const data = readFileSync(file);
+    if (isWebp(data)) return data;
+    // A truncated or foreign file (killed build, full disk) is dropped so the image is fetched again.
+    try { unlinkSync(file); } catch { /* already gone */ }
+    return null;
   } catch {
     return null;
   }
+}
+
+/** @param {Buffer} data @returns {boolean} true when the bytes carry a RIFF/WEBP header. */
+function isWebp(data) {
+  return data.length > 12 && data.toString('latin1', 0, 4) === 'RIFF' && data.toString('latin1', 8, 12) === 'WEBP';
 }
 
 /**
@@ -70,7 +80,10 @@ function writeCache(cacheDir, url, data) {
   if (!cacheDir) return;
   try {
     mkdirSync(cacheDir, { recursive: true });
-    writeFileSync(path.join(cacheDir, cacheName(url)), data);
+    const file = path.join(cacheDir, cacheName(url));
+    const temp = `${file}.tmp-${process.pid}`;
+    writeFileSync(temp, data);
+    renameSync(temp, file);
   } catch {
     // A cache that cannot be written is only a missed shortcut.
   }
@@ -168,12 +181,17 @@ export async function embedThumbnails(items, { maxBytes, baseBytes, download, co
   /**
    * results[i] is undefined until item i has been handled, then a Buffer (downloaded), null
    * (download failed) or false (not downloaded because the budget was already spent).
-   * @type {(Buffer|null|false|undefined)[]}
+   * @type {(Buffer|null|false|'duplicate'|undefined)[]}
    */
   const results = new Array(pending.length);
   let next = 0; // next item to download
   let commit = 0; // next item to grant budget to
   let exhausted = false;
+  /** First pending index for each address, so one picture used by several items is fetched and paid for once. */
+  const firstIndexByUrl = new Map();
+  pending.forEach((item, index) => { if (!firstIndexByUrl.has(item.th)) firstIndexByUrl.set(item.th, index); });
+  /** The data URI granted to each address (or null when it failed or was dropped). @type {Map<string, string|null>} */
+  const uriByUrl = new Map();
 
   const grantInOrder = () => {
     while (commit < pending.length) {
@@ -182,12 +200,20 @@ export async function embedThumbnails(items, { maxBytes, baseBytes, download, co
       const item = pending[commit];
       results[commit] = false; // free the memory
       commit += 1;
+      if (webp === 'duplicate') {
+        const earlier = uriByUrl.get(/** @type {string} */ (item.th));
+        item.th = earlier || null;
+        if (earlier) stats.embedded += 1;
+        else stats.droppedForBudget += 1;
+        continue;
+      }
       if (webp === false) {
         item.th = null;
         stats.droppedForBudget += 1;
         continue;
       }
       if (webp === null) {
+        uriByUrl.set(/** @type {string} */ (item.th), null);
         item.th = null;
         stats.failed += 1;
         continue;
@@ -195,10 +221,12 @@ export async function embedThumbnails(items, { maxBytes, baseBytes, download, co
       const uri = toDataUri(webp);
       if (exhausted || baseBytes + SAFETY_MARGIN_BYTES + stats.bytes + uri.length > maxBytes) {
         exhausted = true;
+        uriByUrl.set(/** @type {string} */ (item.th), null);
         item.th = null;
         stats.droppedForBudget += 1;
         continue;
       }
+      uriByUrl.set(/** @type {string} */ (item.th), uri);
       item.th = uri;
       stats.bytes += uri.length;
       stats.embedded += 1;
@@ -210,6 +238,11 @@ export async function embedThumbnails(items, { maxBytes, baseBytes, download, co
     while (next < pending.length) {
       const index = next;
       next += 1;
+      if (firstIndexByUrl.get(/** @type {string} */ (pending[index].th)) !== index) {
+        results[index] = 'duplicate';
+        grantInOrder();
+        continue;
+      }
       if (exhausted) {
         results[index] = false;
         grantInOrder();

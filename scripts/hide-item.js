@@ -24,6 +24,8 @@ const { removed, sourceId } = hidden;
 if (removed) {
   const source = loadSources(dataDir).sources.find((s) => s.id === sourceId);
   console.log(`Hidden: "${removed.title}" from ${source ? source.name : sourceId} (${removed.link}).`);
+} else if (/^[0-9a-f]{16}$/.test(ref)) {
+  fail(`no stored item has the id ${ref}; nothing was recorded. Give the item's link to keep it out of later fetches.`);
 } else {
   console.log(`No stored item matched, but the link is now on the hidden list so it will never be added: ${ref}`);
 }

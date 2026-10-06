@@ -592,3 +592,40 @@ describe('formatSourceLine', () => {
     assert.equal(formatSourceLine({ id: 'x', result: 'skipped', added: 0, pruned: 0, ms: 0, error: 'waiting for key' }), 'skipped   x  waiting for key');
   });
 });
+
+describe('review fixes: cross-source duplicates, stale entries, undated items', () => {
+  test('does not store a link that another source already holds, and never counts stale entries as added', async () => {
+    const { mkdtempSync, writeFileSync, readFileSync, mkdirSync } = await import('node:fs');
+    const { tmpdir } = await import('node:os');
+    const path = await import('node:path');
+    const dir = mkdtempSync(path.join(tmpdir(), 'curanet-review-'));
+    mkdirSync(path.join(dir, 'items'));
+    mkdirSync(path.join(dir, 'runs'));
+    const now = new Date('2026-10-05T12:00:00Z');
+    writeFileSync(path.join(dir, 'categories.json'), JSON.stringify({ version: 1, categories: [{ id: 'news', name: { en: 'News' }, subcategories: [{ id: 'top', name: { en: 'Top' } }] }] }));
+    writeFileSync(path.join(dir, 'hidden.json'), JSON.stringify({ version: 1, hidden: [] }));
+    const source = (id, url) => ({ id, type: 'feed', name: id, url, category: 'news', subcategory: 'top', country: 'CA', language: 'en', status: 'active', addedAt: now.toISOString(), fetch: null });
+    writeFileSync(path.join(dir, 'sources.json'), JSON.stringify({ version: 1, sources: [source('first', 'https://x.example/a.xml'), source('second', 'https://x.example/b.xml')] }));
+    const feed = (items) => `<rss version="2.0"><channel><title>t</title><link>https://x.example/</link>${items.map(([title, link, date]) => `<item><title>${title}</title><link>${link}</link>${date ? `<pubDate>${date}</pubDate>` : ''}</item>`).join('')}</channel></rss>`;
+    const bodies = {
+      'https://x.example/a.xml': feed([['Shared story', 'https://x.example/shared', 'Mon, 05 Oct 2026 10:00:00 GMT'], ['Stale', 'https://x.example/stale', 'Mon, 01 Jun 2026 10:00:00 GMT'], ['Undated', 'https://x.example/undated', null]]),
+      'https://x.example/b.xml': feed([['Shared story again', 'https://x.example/shared', 'Mon, 05 Oct 2026 11:00:00 GMT'], ['Only in B', 'https://x.example/b-only', 'Mon, 05 Oct 2026 11:00:00 GMT']]),
+    };
+    const fetchFn = async (url) => new Response(bodies[String(url)], { status: 200, headers: { 'content-type': 'application/rss+xml' } });
+    const run1 = await runFetch({ dataDir: dir, now, fetch: fetchFn, apiKey: null, concurrency: 1, log: () => {} });
+    const first = JSON.parse(readFileSync(path.join(dir, 'items/first.json'), 'utf8')).items;
+    const second = JSON.parse(readFileSync(path.join(dir, 'items/second.json'), 'utf8')).items;
+    assert.deepEqual(first.map((i) => i.link).sort(), ['https://x.example/shared', 'https://x.example/undated'], 'stale entry never stored');
+    assert.deepEqual(second.map((i) => i.link), ['https://x.example/b-only'], 'shared link kept once, under the first source');
+    assert.equal(run1.totals.added, 3);
+    assert.equal(run1.totals.pruned, 0, 'stale entries are not counted as pruned either');
+
+    // 100 days later the undated item is still listed by the feed, so it must stay (not be re-added as new).
+    const later = new Date(now.getTime() + 100 * 24 * 3600 * 1000);
+    const run2 = await runFetch({ dataDir: dir, now: later, fetch: fetchFn, apiKey: null, concurrency: 1, log: () => {} });
+    const firstLater = JSON.parse(readFileSync(path.join(dir, 'items/first.json'), 'utf8')).items;
+    assert.deepEqual(firstLater.map((i) => i.link), ['https://x.example/undated'], 'dated item pruned, undated-but-listed item kept');
+    assert.equal(firstLater[0].addedAt, now.toISOString(), 'kept item is the original, not a re-add');
+    assert.equal(run2.sources.find((s) => s.id === 'first')?.added, 0);
+  });
+});

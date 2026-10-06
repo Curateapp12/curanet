@@ -209,7 +209,9 @@ test('build embeds thumbnails in the preview through the injected downloader and
   const html = readFileSync(previewOut, 'utf8');
   const data = dataFrom(html);
   assert.equal(asked.length, 4, 'one download per item that has a thumbnail');
-  assert.ok(data.items[0].th.startsWith('data:image/webp;base64,'));
+  assert.equal(typeof data.items[0].th, 'number', 'embedded pictures are referenced by index');
+  assert.ok(data.images[data.items[0].th].startsWith('data:image/webp;base64,'));
+  assert.equal(data.images.length, 1, 'identical pictures are stored once in the images table');
   assert.equal(data.items.find((i) => i.id === '3c4d5e6f70819203').th, null, 'a failed download leaves no thumbnail');
   assert.ok(result.preview);
   assert.equal(result.preview.embedded, 3);

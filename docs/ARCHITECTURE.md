@@ -27,7 +27,7 @@ data/hidden.json ───┘            │
 | `src/lib/categories.js` | Looks up categories and subcategories by id or display name (English or French). |
 | `scripts/fetch.js` | The run: a small pool fetches a few sources at a time, applies the rules, writes the run log. Exit code 0 even when sources fail. |
 | `scripts/build.js` | Assembles items with their source's tags, renders the hosted site and the preview from the same templates and browser code. |
-| `scripts/*.js` (add-source, add-video, manage-source, hide-item, categories, validate-data, serve) | Command-line helpers that the skills in `.claude/skills/` call. |
+| `scripts/*.js` (add-source, add-video, source, category, hide-item, validate-data, serve) | Command-line helpers that the skills in `.claude/skills/` call. |
 | `src/site/` | The browser code: `index.html` template, `app.js`, `styles.css`, `strings.js` (English with French ready). |
 | `test/` | Node test runner tests; fixtures in `test/fixtures/` stand in for the network. |
 | `.github/workflows/` | CI on pull requests; an hourly fetch-and-commit workflow that is switched off until the owner turns it on. |
@@ -39,11 +39,14 @@ data/hidden.json ───┘            │
    skipped and logged as skipped:
    - GET the feed with `User-Agent: Curanet/<version> (+https://curanet.io)`, `If-None-Match` and
      `If-Modified-Since` from the last run, 10-second timeout, at most 5 MB.
-   - 304 → `unchanged`. 401/403/451 → status becomes `blocked`, nothing else changes. Any other
-     failure → `error`, the failure counter increments, the source stays active.
-   - 200 → parse, sanitise, drop duplicates (same link, or same guid from the same source, in the
-     stored or hidden lists), add the rest with `addedAt = now`, prune items older than 90 days,
-     write the source's item file newest first.
+   - 304 → `unchanged`. 401/403/451, or an empty 202/204/205 answer (how bot checks look) → status
+     becomes `blocked`; the fetch block records the result, the reason and one more failure, and the
+     source is not fetched again until the owner sets it back to `active`. Any other failure →
+     `error`, the failure counter increments, the source stays active.
+   - 200 → parse, sanitise, drop entries already older than 90 days, drop duplicates (same link as
+     any stored item of any source or any hidden item, or same guid from the same source), add the
+     rest with `addedAt = now`, prune stored items older than 90 days (an item the feed gave no date
+     is kept as long as the feed still lists it), write the source's item file newest first.
 3. YouTube channel sources run the same way through the Data API when `YOUTUBE_API_KEY` is set in the
    environment; otherwise they are skipped with `waiting_for_key`.
 4. At most 4 sources download at the same time.

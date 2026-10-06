@@ -11,9 +11,16 @@ const dir = path.resolve(String(flags.dir || 'dist'));
 const types = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css; charset=utf-8', '.json': 'application/json', '.png': 'image/png', '.svg': 'image/svg+xml', '.webp': 'image/webp', '.ico': 'image/x-icon', '.txt': 'text/plain; charset=utf-8' };
 
 http.createServer(async (req, res) => {
-  const url = new URL(req.url || '/', 'http://localhost');
+  let url;
   let pathname;
-  try { pathname = decodeURIComponent(url.pathname); } catch { res.statusCode = 400; res.end('bad request'); return; }
+  try {
+    url = new URL(req.url || '/', 'http://localhost');
+    pathname = decodeURIComponent(url.pathname);
+  } catch {
+    res.statusCode = 400;
+    res.end('bad request');
+    return;
+  }
   let file = path.join(dir, pathname);
   if (!file.startsWith(dir)) { res.statusCode = 403; res.end('forbidden'); return; }
   if (url.pathname.endsWith('/')) file = path.join(file, 'index.html');

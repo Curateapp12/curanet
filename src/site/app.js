@@ -16,7 +16,7 @@
    * @property {string} t          Title.
    * @property {string} l          Link to the original.
    * @property {string} p          Published, ISO.
-   * @property {string|null} th    Thumbnail address or data URI, or null.
+   * @property {string|number|null} th    Thumbnail address or data URI, an index into DATA.images, or null.
    * @property {'a'|'v'} ty        Article or video.
    * @property {string} [v]        YouTube video id.
    * @property {string} x          Excerpt (search only).
@@ -46,6 +46,7 @@
    * @property {FeedItem[]} items
    * @property {string[]} languages
    * @property {string[]} countries
+   * @property {string[]} [images]  Preview only: embedded pictures referenced by index from items.
    *
    * @typedef {Object} FilterState
    * @property {string} c        Category id or '' for all.
@@ -138,6 +139,17 @@
    * @param {string} id
    * @returns {HTMLElement}
    */
+  /**
+   * The address of an item's thumbnail: a URL, an embedded data URI, or (in the preview) an index
+   * into DATA.images when one picture is shared by several items.
+   * @param {FeedItem} item
+   * @returns {string}
+   */
+  function thumbSrc(item) {
+    if (typeof item.th === 'number') return (DATA.images && DATA.images[item.th]) || '';
+    return typeof item.th === 'string' ? item.th : '';
+  }
+
   function cloneTemplate(id) {
     var template = /** @type {HTMLTemplateElement} */ (byId(id));
     var first = template.content.firstElementChild;
@@ -668,7 +680,7 @@
     fillTime(find(card, '.card-time'), item.p, nowMs);
     var thumb = /** @type {HTMLAnchorElement} */ (find(card, '.card-thumb'));
     var img = /** @type {HTMLImageElement} */ (find(card, '.card-img'));
-    if (item.th) {
+    if (thumbSrc(item)) {
       thumb.href = item.l;
       // The title link already leads there, so the image link stays out of the tab order and the
       // screen-reader flow; the alt still describes the picture for everyone else.
@@ -678,7 +690,7 @@
         card.classList.add('no-thumb');
         if (thumb.parentNode) thumb.parentNode.removeChild(thumb);
       });
-      img.src = item.th;
+      img.src = thumbSrc(item);
     } else {
       card.classList.add('no-thumb');
       if (thumb.parentNode) thumb.parentNode.removeChild(thumb);
@@ -701,7 +713,7 @@
       box.classList.add('no-thumb');
       if (!label.parentNode) control.appendChild(label);
     };
-    if (item.th) {
+    if (thumbSrc(item)) {
       var img = document.createElement('img');
       img.className = 'video-img';
       img.alt = '';
@@ -712,7 +724,7 @@
         if (img.parentNode) img.parentNode.removeChild(img);
         showTextRow();
       });
-      img.src = item.th;
+      img.src = thumbSrc(item);
       control.appendChild(img);
       control.appendChild(playIcon());
     } else {

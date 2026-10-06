@@ -14,7 +14,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseFeed, FeedParseError } from './feed.js';
 import {
-  entryToItem, loadItems, saveItems, mergeItems, pruneItems,
+  entryToItem, loadItems, saveItems, mergeItems, pruneItems, listItemFiles,
   loadSources, saveSources, loadCategories, loadHidden, saveRun, pruneRuns,
 } from './store.js';
 
@@ -45,6 +45,7 @@ import {
  * @property {boolean} [dryRun]                    When true nothing is written to disk.
  * @property {string|null} [apiKey]                YouTube Data API key; null or missing means "no key".
  * @property {YouTubeClient} [youtube]             Injected YouTube client; defaults to ./youtube.js.
+ * @property {Set<string>} [knownLinks]            Links already stored by ANY source; shared and extended during the run.
  *
  * @typedef {{source: Source, result: RunSourceResult}} SourceOutcome
  *
@@ -314,10 +315,17 @@ function failed(source, state, message, started) {
  * @param {SourceContext} ctx
  * @returns {{added: number, pruned: number}}
  */
-function storeItems(sourceId, incoming, { dataDir, now = new Date(), hidden = [], dryRun = false }) {
+function storeItems(sourceId, incoming, { dataDir, now = new Date(), hidden = [], dryRun = false, knownLinks }) {
   const stored = loadItems(dataDir, sourceId);
-  const merged = mergeItems(stored.items, incoming, { hidden, sourceId, now });
-  const pruned = pruneItems(merged.items, { now });
+  const present = incoming.filter((item) => item !== null && item !== undefined);
+  // Entries the feed still carries but that are already older than 90 days are never added, so
+  // they are neither counted as new nor re-pruned on every run.
+  const fresh = pruneItems(present, { now }).items;
+  const merged = mergeItems(stored.items, fresh, { hidden, sourceId, now, knownLinks });
+  // An item the feed gave no date (published = addedAt) stays as long as the feed still lists it;
+  // otherwise it would come back as "new" 90 days after it was first seen.
+  const listed = new Set(present.map((item) => item.link));
+  const pruned = pruneItems(merged.items, { now, keep: (item) => item.published === item.addedAt && listed.has(item.link) });
   if (!dryRun && (merged.added > 0 || pruned.pruned > 0)) saveItems(dataDir, { ...stored, items: pruned.items });
   return { added: merged.added, pruned: pruned.pruned };
 }
@@ -549,8 +557,13 @@ export async function runFetch({
     }
   }
   const idWidth = selected.reduce((width, source) => Math.max(width, source.id.length), 0);
+  // Every link already stored by any source, so the same story is never kept twice across sources.
+  const knownLinks = new Set();
+  for (const id of listItemFiles(dataDir)) {
+    for (const item of loadItems(dataDir, id).items) knownLinks.add(item.link);
+  }
   /** @type {SourceContext} */
-  const ctx = { dataDir, now, fetch: fetchFn, timeoutMs, hidden, log, dryRun, apiKey: apiKey || null, youtube };
+  const ctx = { dataDir, now, fetch: fetchFn, timeoutMs, hidden, log, dryRun, apiKey: apiKey || null, youtube, knownLinks };
 
   const outcomes = await mapWithPool(selected, concurrency, async (source) => {
     const outcome = await processSourceSafely(source, ctx);

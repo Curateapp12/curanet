@@ -60,7 +60,7 @@ export function stripHtml(html) {
   if (text.length > STRIP_MAX_INPUT) text = text.slice(0, STRIP_MAX_INPUT);
   text = decodeEntities(removeMarkup(text));
   // Some feeds encode their HTML twice; a second pass removes tags that appeared after decoding.
-  if (text.includes('<')) text = decodeEntities(removeMarkup(text));
+  if (text.includes('<') || /&(#x[0-9a-fA-F]+|#[0-9]+|[a-zA-Z][a-zA-Z0-9]*);/.test(text)) text = decodeEntities(removeMarkup(text));
   // Whatever is left that still looks like the start of a tag is dropped (an unclosed "<b" etc.).
   text = text.replace(/<(?=[a-zA-Z/!])/g, '');
   // eslint-disable-next-line no-control-regex
@@ -191,6 +191,15 @@ export function itemIdFromLink(normalizedLink) {
   return createHash('sha1').update(String(normalizedLink)).digest('hex').slice(0, 16);
 }
 
+/** Zone abbreviations seen in feeds that `new Date()` cannot read, mapped to numeric offsets. */
+const ZONE_OFFSETS = {
+  CET: '+0100', MEZ: '+0100', WEST: '+0100', BST: '+0100', WAT: '+0100',
+  CEST: '+0200', MESZ: '+0200', EET: '+0200', SAST: '+0200', CAT: '+0200',
+  EEST: '+0300', MSK: '+0300', IDT: '+0300', EAT: '+0300', AST: '-0400', ADT: '-0300',
+  IST: '+0530', JST: '+0900', KST: '+0900', AEST: '+1000', AEDT: '+1100', NZST: '+1200', NZDT: '+1300',
+  HST: '-1000', AKST: '-0900', AKDT: '-0800', NST: '-0330', NDT: '-0230',
+};
+
 /**
  * Turn a feed date (RFC 822, ISO 8601, and the usual sloppy variants) into an ISO string.
  * Returns null when it cannot be read or is absurd (before 1995 or more than two days ahead).
@@ -204,6 +213,8 @@ export function toIso(value, now = new Date()) {
   if (!text || text.length > 64) return null;
   // Common fixes: "GMT+0000 (UTC)" suffixes, double spaces, trailing "Z" after offset, "UT" zone.
   text = text.replace(/\s+/g, ' ').replace(/\s\(.*\)$/, '').replace(/ UT$/, ' UTC');
+  // Zone abbreviations JavaScript does not know (it only reads GMT/UTC/Z and the North American ones).
+  text = text.replace(/ ([A-Z]{3,4})$/, (match, zone) => (Object.prototype.hasOwnProperty.call(ZONE_OFFSETS, zone) ? ' ' + ZONE_OFFSETS[zone] : match));
   let date = new Date(text);
   if (Number.isNaN(date.getTime())) {
     // "2026-10-05 22:51:40" (space instead of T) and "2026-10-05T22:51:40 +0000"

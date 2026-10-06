@@ -204,9 +204,9 @@ export function renderPreview(data, assets) {
  * @returns {string}
  */
 function formatSize(bytes) {
-  if (bytes < 1024) return bytes + ' B';
-  if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(0) + ' KB';
-  return (bytes / (1024 * 1024)).toFixed(1) + ' MB';
+  if (bytes < 1000) return bytes + ' B';
+  if (bytes < 1_000_000) return (bytes / 1000).toFixed(0) + ' KB';
+  return (bytes / 1_000_000).toFixed(1) + ' MB';
 }
 
 /**
@@ -239,6 +239,7 @@ async function buildPreview(data, assets, options) {
   const { previewOut, maxBytes, thumbs, thumbConcurrency, download, log } = options;
   // Thumbnails are embedded into a copy of the items so the hosted output (built from the same
   // data) keeps the publishers' addresses.
+  /** @type {FeedData & {images?: string[], items: (Omit<FeedData['items'][number], 'th'> & {th: string|number|null})[]}} */
   const previewData = { ...data, items: data.items.map((item) => ({ ...item })) };
   const addresses = previewData.items.map((item) => item.th);
   for (const item of previewData.items) item.th = null;
@@ -248,7 +249,24 @@ async function buildPreview(data, assets, options) {
   let stats = { embedded: 0, skipped: previewData.items.length, droppedForBudget: 0, failed: 0, bytes: 0 };
   if (thumbs) {
     previewData.items.forEach((item, index) => { item.th = addresses[index]; });
-    stats = await embedThumbnails(previewData.items, { maxBytes, baseBytes, download, concurrency: thumbConcurrency, log });
+    stats = await embedThumbnails(/** @type {{th: string|null}[]} */ (previewData.items), { maxBytes, baseBytes, download, concurrency: thumbConcurrency, log });
+    // Identical images (one picture used by several items) are stored once in an images table and
+    // referenced by index, so the file only pays for each picture once.
+    /** @type {string[]} */
+    const images = [];
+    /** @type {Map<string, number>} */
+    const indexByUri = new Map();
+    for (const item of previewData.items) {
+      if (typeof item.th !== 'string' || !item.th.startsWith('data:')) continue;
+      let index = indexByUri.get(item.th);
+      if (index === undefined) {
+        index = images.length;
+        images.push(item.th);
+        indexByUri.set(item.th, index);
+      }
+      /** @type {any} */ (item).th = index;
+    }
+    previewData.images = images;
   }
 
   const html = renderPreview(previewData, assets);

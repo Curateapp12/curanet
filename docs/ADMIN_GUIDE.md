@@ -66,7 +66,7 @@ The next fetch picks up the change; the site is rebuilt from the data at the nex
 | **Active** | Fetched every run. | Nothing. |
 | **Paused** | Not fetched; items stay visible. | `/pause-source resume <id>` to turn it back on. |
 | **Blocked** | The publisher's server refused Curanet (HTTP 401, 403 or 451), or answered with an empty page instead of the feed, which is how "are you a robot?" checks look (HTTP 202/204). The source is skipped until you say otherwise. | See below. |
-| **Waiting for key** | A YouTube channel. Channels are fetched only through the official YouTube Data API, which needs a key you have not added yet. | Add the key (below), then `/fetch`. |
+| **Waiting for key** | A YouTube channel. Channels are fetched only through the official YouTube Data API, which needs a key you have not added yet. | Add the key (below), then run the **Hourly fetch** workflow once by hand (**Actions** → **Hourly fetch** → **Run workflow**) or wait for the next hourly run. A `/fetch` from a Claude session cannot see the key. |
 
 Beside the status, the Sources section of the site shows the last successful fetch. A source that
 shows `error` in a run log (timeout, network problem, broken feed) stays active and is tried again

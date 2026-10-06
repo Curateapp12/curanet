@@ -652,7 +652,7 @@ ol, ul { margin: 0; padding: 0; list-style: none; }
 .status-blocked::before { background: var(--accent); }
 .status-waiting_for_key::before { background: transparent; border: 2px solid var(--border-strong); width: 6px; height: 6px; }
 
-@media (max-width: 720px) {
+@media (max-width: 920px) {
   .sources-table, .sources-table thead, .sources-table tbody, .sources-table tr, .sources-table th, .sources-table td { display: block; }
   .sources-table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
   .sources-table { background: transparent; border: 0; overflow: visible; }

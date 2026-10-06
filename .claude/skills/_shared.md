@@ -14,7 +14,7 @@ elsewhere (GitHub Actions has no proxy).
 ## Before any change
 
 1. Make sure you are on a branch other than `main` (`git branch --show-current`). If you are on
-   `main`, create a branch named `curanet/<short-description>` first.
+   `main`, create a branch named `claude/<short-description>` first (that prefix is pre-approved for pushing).
 2. Run `npm install` if `node_modules/` is missing.
 
 ## After any data change
