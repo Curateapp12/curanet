@@ -7,7 +7,8 @@
    Colour: the design's light palette (blue #0081FE on white and very light blue-grey) and a dark
    palette derived from it. Type: Roboto only. Every colour is a token defined on :root below.
    Blue text uses --primary-text (#0070DE, 4.8:1 on white); #0081FE itself is 3.8:1, so it is kept
-   for underlines, icons, the play glyph and the checkbox fill, where 3:1 is the bar. */
+   for underlines, icons, the checkbox fill and the play glyph (--play-glyph, on a white circle in
+   both themes), where 3:1 is the bar. --primary-strong is the blue for text on --primary-soft. */
 
 :root {
   --bg: #f8fbfe;
@@ -21,8 +22,10 @@
   --primary: #0081fe;
   --primary-hover: #0070de;
   --primary-text: #0070de;
+  --primary-strong: #0b5bd3;
   --primary-soft: #e6f2ff;
   --on-primary: #ffffff;
+  --play-glyph: #0081fe;
   --toggle: #1d52de;
   --toggle-control: #0f2a6b;
   --on-toggle: #ffffff;
@@ -31,7 +34,8 @@
   --logo: #faeb05;
   --logo-ink: #111111;
   --avatar-bg: #e5e7eb;
-  --avatar-ink: #9ca3af;
+  --avatar-ink: #6b7280;
+  --avatar-ring: #9ca3af;
   --scrim: rgba(0, 0, 0, 0.2);
   --shadow-panel: 2px 2px 5px rgba(183, 192, 208, 0.1);
   --shadow-bar: 0 4px 10px -6px rgba(130, 143, 169, 0.25);
@@ -73,8 +77,10 @@
     --primary: #3b9dff;
     --primary-hover: #5fb0ff;
     --primary-text: #3b9dff;
+    --primary-strong: #3b9dff;
     --primary-soft: #11263d;
     --on-primary: #0b1a2e;
+    --play-glyph: #0081fe;
     --toggle: #2b5fe0;
     --toggle-control: #0f2a6b;
     --on-toggle: #ffffff;
@@ -84,6 +90,7 @@
     --logo-ink: #111111;
     --avatar-bg: #2b333e;
     --avatar-ink: #8b96a3;
+    --avatar-ring: #4b5563;
     --scrim: rgba(0, 0, 0, 0.3);
     --shadow-panel: 2px 2px 5px rgba(0, 0, 0, 0.3);
     --shadow-bar: 0 4px 10px -6px rgba(0, 0, 0, 0.6);
@@ -116,8 +123,10 @@
   --primary: #3b9dff;
   --primary-hover: #5fb0ff;
   --primary-text: #3b9dff;
+  --primary-strong: #3b9dff;
   --primary-soft: #11263d;
   --on-primary: #0b1a2e;
+  --play-glyph: #0081fe;
   --toggle: #2b5fe0;
   --toggle-control: #0f2a6b;
   --on-toggle: #ffffff;
@@ -127,6 +136,7 @@
   --logo-ink: #111111;
   --avatar-bg: #2b333e;
   --avatar-ink: #8b96a3;
+  --avatar-ring: #4b5563;
   --scrim: rgba(0, 0, 0, 0.3);
   --shadow-panel: 2px 2px 5px rgba(0, 0, 0, 0.3);
   --shadow-bar: 0 4px 10px -6px rgba(0, 0, 0, 0.6);
@@ -311,6 +321,24 @@ legend { padding: 0; }
 .tab:focus-visible { outline-offset: -3px; border-radius: var(--radius-sm); }
 .tab-icon { flex: none; }
 
+/* "Following ⚙" in My Hub: the tab and, right beside it, the gear button that opens Manage Following. */
+.tab-group { flex: none; display: inline-flex; align-items: stretch; }
+.tab-group .tab { padding-inline-end: 4px; }
+.tab-gear {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 8px 0 2px;
+  border: 0;
+  background: transparent;
+  color: var(--text-muted);
+  transition: color 120ms ease;
+}
+.tab-gear .tab-icon { width: 16px; height: 16px; }
+.tab-gear:hover, .tab-gear[aria-pressed="true"] { color: var(--primary-text); }
+.tab-gear:focus-visible { outline-offset: -3px; border-radius: var(--radius-sm); }
+
 .nav-arrows { flex: none; display: flex; gap: 8px; }
 .nav-arrow {
   display: inline-flex;
@@ -342,9 +370,11 @@ legend { padding: 0; }
   color: var(--text-muted);
 }
 .round-button:hover { background: var(--border); }
-.avatar { background: var(--avatar-bg); color: var(--avatar-ink); overflow: hidden; }
+/* The silhouette (3.9:1 on the disc in light) and a 1px ring mark the control on the white bar. */
+.avatar { background: var(--avatar-bg); color: var(--avatar-ink); overflow: hidden; box-shadow: inset 0 0 0 1px var(--avatar-ring); }
+.avatar:hover { background: var(--avatar-bg); color: var(--text-muted); }
 .avatar svg { display: block; }
-.avatar[aria-expanded="true"] { box-shadow: 0 0 0 2px var(--primary); }
+.avatar[aria-expanded="true"] { box-shadow: inset 0 0 0 1px var(--avatar-ring), 0 0 0 2px var(--primary); }
 .search-toggle { display: none; }
 
 .subbar {
@@ -400,7 +430,7 @@ legend { padding: 0; }
 .type-icons { display: inline-flex; align-items: center; gap: 4px; flex: none; }
 .type-icon { display: block; }
 .type-bar[data-type="articles"] .type-icon-video, .type-bar[data-type="videos"] .type-icon-article { display: none; }
-.type-text { flex: 1 1 auto; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.type-text { flex: 1 1 auto; min-width: 0; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .type-control {
   flex: none;
   display: inline-flex;
@@ -539,14 +569,18 @@ legend { padding: 0; }
   line-height: 1.5;
   color: var(--text);
   overflow-wrap: anywhere;
+}
+/* The link is the block that takes the focus ring; the clamp (and its overflow) is on the span
+   inside it, so the ring is never cut off. */
+.item-link { display: block; color: inherit; text-decoration: none; border-radius: var(--radius-sm); }
+.item-link:hover { color: var(--text); text-decoration: underline; text-underline-offset: 3px; }
+.item-link:visited { color: inherit; }
+.item-title-text {
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.item-link { color: inherit; text-decoration: none; }
-.item-link:hover { color: var(--text); text-decoration: underline; text-underline-offset: 3px; }
-.item-link:visited { color: inherit; }
 
 .item, .item-link, .item-thumb, .video-box a, .video-box button, .action { scroll-margin-top: calc(var(--header-h, 110px) + 8px); }
 
@@ -643,7 +677,7 @@ legend { padding: 0; }
   height: 80px;
   border-radius: 50%;
   background: #ffffff;
-  color: var(--primary);
+  color: var(--play-glyph);
   transition: transform 120ms ease;
 }
 .play-badge svg { display: block; }
@@ -806,7 +840,7 @@ legend { padding: 0; }
   flex: none;
   width: 24px;
   height: 24px;
-  border: 1px solid var(--disabled);
+  border: 1px solid var(--text-faint);
   border-radius: 4px;
   background: var(--surface);
 }
@@ -845,7 +879,7 @@ legend { padding: 0; }
   font-family: var(--font);
   font-size: 16px;
   font-weight: 600;
-  color: var(--primary-text);
+  color: var(--primary-strong);
   background: var(--primary-soft);
   padding: 2px 8px;
   border-radius: var(--radius-sm);
@@ -959,7 +993,9 @@ legend { padding: 0; }
   .topbar { position: relative; gap: 0; padding-inline: 0; }
   .logo, .nav-arrows { display: none; }
   .nav-strip { max-width: none; margin: 0; }
-  .ribbon-top { padding-inline: 12px 100px; }
+  /* The last 100px sit under the pinned avatar/magnifier block; app.js (revealTab) keeps a
+     selected or focused tab out of it, and scroll-padding tells the browser's own focus scroll. */
+  .ribbon-top { padding-inline: 12px 100px; scroll-padding-inline-end: 100px; }
   .ribbon-sub { padding-inline: 12px; }
   .ribbon-sub > :first-child { margin-inline-start: 0; }
   .ribbon-sub > :last-child { margin-inline-end: 0; }
@@ -991,6 +1027,11 @@ legend { padding: 0; }
     height: calc(var(--subbar-h) + env(safe-area-inset-bottom, 0px));
   }
   body.subbar-bottom.has-subbar .main { padding-bottom: calc(var(--subbar-h) + 16px + env(safe-area-inset-bottom, 0px)); }
+  /* Focus scrolling keeps items and buttons above the docked bar, as it keeps them under the top bars. */
+  html:has(body.subbar-bottom.has-subbar) { scroll-padding-bottom: calc(var(--subbar-h) + env(safe-area-inset-bottom, 0px) + 8px); }
+  body.subbar-bottom.has-subbar :is(.item, .item-link, .item-thumb, .video-box a, .video-box button, .action, .button) {
+    scroll-margin-bottom: calc(var(--subbar-h) + env(safe-area-inset-bottom, 0px) + 8px);
+  }
 
   .tools { flex-direction: column; align-items: stretch; padding-block: 16px 0; }
   .type-bar { width: 100%; }
@@ -1004,7 +1045,8 @@ legend { padding: 0; }
   .item-main { gap: 16px; }
   .publisher { font-size: 13px; font-weight: 400; color: var(--text-faint); gap: 0; }
   .monogram, .dot { display: none; }
-  .item-title { margin-top: 4px; font-size: 15px; font-weight: 700; line-height: 1.4; -webkit-line-clamp: 3; }
+  .item-title { margin-top: 4px; font-size: 15px; font-weight: 700; line-height: 1.4; }
+  .item-title-text { -webkit-line-clamp: 3; }
   .item-thumb { width: 110px; height: 86px; border-radius: var(--radius-sm); }
   .item-foot { margin-top: 16px; }
   .item-time { font-size: 13px; }

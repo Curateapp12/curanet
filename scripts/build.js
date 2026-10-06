@@ -28,6 +28,14 @@ const SITE_DIR = fileURLToPath(new URL('../src/site/', import.meta.url));
 const FONTS_HREF = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap';
 const DESCRIPTION = 'Curanet collects headlines from news feeds and videos from YouTube in one feed you can narrow by category, language, location and type.';
 
+/**
+ * Applies the visitor's theme before the first paint: light by default, dark when chosen, and no
+ * attribute for "follow system". Without it a visitor whose device is dark would see a dark flash
+ * before the light default, and one who chose Dark a light flash. It reads the same key, the same
+ * way, as readSettings/applyTheme in app.js, which repeat the decision once they load.
+ */
+export const THEME_SCRIPT = '<script>(function(){var theme="light";try{var raw=window.localStorage.getItem("curanet.settings");var saved=raw?JSON.parse(raw):null;if(saved&&(saved.theme==="dark"||saved.theme==="system"))theme=saved.theme;}catch(e){}var root=document.documentElement;if(theme==="system")root.removeAttribute("data-theme");else root.setAttribute("data-theme",theme);})();</script>';
+
 export const DEFAULTS = Object.freeze({
   target: 'all',
   dataDir: 'data',
@@ -154,6 +162,7 @@ export function renderHosted(data, assets) {
     '<title>Curanet — Curate the internet</title>',
     `<meta name="description" content="${DESCRIPTION}">`,
     '<meta name="color-scheme" content="light dark">',
+    THEME_SCRIPT,
     '<link rel="preconnect" href="https://fonts.googleapis.com">',
     '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>',
     `<link rel="stylesheet" href="${FONTS_HREF}">`,
@@ -173,7 +182,8 @@ export function renderHosted(data, assets) {
 
 /**
  * The preview: an artifact fragment with everything inlined. The artifact viewer adds the document
- * skeleton itself, so no doctype, html, head or body tags appear here.
+ * skeleton itself, so no doctype, html, head or body tags appear here. The theme script is the
+ * only script before the markup, so the first paint already has the right theme.
  * @param {FeedData} data
  * @param {SiteAssets} assets
  * @returns {string}
@@ -181,6 +191,7 @@ export function renderHosted(data, assets) {
 export function renderPreview(data, assets) {
   return [
     '<title>Curanet</title>',
+    THEME_SCRIPT,
     `<link rel="stylesheet" href="${FONTS_HREF}">`,
     '<style>',
     assets.css.trim(),

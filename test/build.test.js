@@ -5,7 +5,7 @@ import { tmpdir } from 'node:os';
 import path from 'node:path';
 import vm from 'node:vm';
 import { assembleFeedData } from '../src/lib/build-data.js';
-import { build, escapeJsonForScript, parseBuildArgs, DEFAULTS } from '../scripts/build.js';
+import { build, escapeJsonForScript, parseBuildArgs, DEFAULTS, THEME_SCRIPT } from '../scripts/build.js';
 
 const FIXTURE_DIR = new URL('./fixtures/build/', import.meta.url).pathname;
 const SITE_DIR = new URL('../src/site/', import.meta.url).pathname;
@@ -145,6 +145,8 @@ test('build renders the hosted site as a full document with remote thumbnails an
   assert.ok(html.includes('<script src="strings.js"></script>'));
   assert.ok(html.includes('<script src="app.js"></script>'));
   assert.ok(!html.includes('data:image'), 'hosted site never embeds images');
+  const themeAt = html.indexOf(THEME_SCRIPT);
+  assert.ok(themeAt > 0 && themeAt < html.indexOf('<link rel="stylesheet" href="styles.css">') && themeAt < html.indexOf('<body>'), 'the theme script runs in <head>, before the styles');
 
   const config = configFrom(html);
   assert.deepEqual(config, { mode: 'hosted', urlState: true, thumbnails: 'remote', video: 'embed', uiLang: 'en' });
@@ -173,13 +175,16 @@ test('build renders the preview as an artifact fragment with embedded mode, link
     assert.ok(!forbidden.test(html), 'fragment must not contain ' + forbidden);
   }
   const titleAt = html.indexOf('<title>');
+  const themeAt = html.indexOf(THEME_SCRIPT);
   const fontsAt = html.indexOf('<link rel="stylesheet" href="https://fonts.googleapis.com');
   const styleAt = html.indexOf('<style>');
   const bodyAt = html.indexOf('<header');
   const dataAt = html.indexOf('<script id="curanet-data"');
   const configAt = html.indexOf('var CURANET_CONFIG');
   const scriptAt = html.indexOf('var CURANET_STRINGS');
-  assert.ok(titleAt < fontsAt && fontsAt < styleAt && styleAt < bodyAt && bodyAt < dataAt && dataAt < configAt && configAt < scriptAt, 'pieces are in order');
+  assert.ok(titleAt < themeAt && themeAt < fontsAt && fontsAt < styleAt && styleAt < bodyAt && bodyAt < dataAt && dataAt < configAt && configAt < scriptAt, 'pieces are in order');
+  assert.equal((html.slice(0, bodyAt).match(/<script[\s>]/g) || []).length, 1, 'the theme script is the only script before the markup');
+  assert.ok(!/<script[^>]*src=/.test(html.slice(0, bodyAt)), 'nothing external is loaded before the markup except the fonts stylesheet');
   assert.ok(!html.includes('<link rel="stylesheet" href="styles.css">'), 'CSS is inlined, not linked');
   assert.ok(!html.includes('src="app.js"'), 'JS is inlined, not linked');
   assert.ok(html.includes(readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8').trim()), 'styles.css inlined whole');
@@ -314,7 +319,7 @@ test('the template is a body fragment that app.js can fill', () => {
   for (const forbidden of [/<html[\s>]/i, /<head[\s>]/i, /<body[\s>]/i, /<!doctype/i, /<script[\s>]/i, /<style[\s>]/i]) {
     assert.ok(!forbidden.test(template), 'template must not contain ' + forbidden);
   }
-  for (const id of ['site-header', 'brand-link', 'ribbon-categories', 'ribbon-subcategories', 'nav-prev', 'nav-next', 'search-toggle', 'mobile-search', 'subbar', 'tools', 'filter-lang', 'filter-loc', 'type-button', 'type-label', 'search-form', 'search-input', 'profile-button', 'profile-panel', 'panel-filters', 'theme-light', 'theme-dark', 'theme-system', 'subcat-top', 'subcat-bottom', 'feed-list', 'feed-panel', 'empty-state', 'result-count', 'feed-sentinel', 'show-more', 'storage-hint', 'manage-section', 'manage-search', 'manage-list', 'manage-cancel', 'manage-save', 'sources-section', 'about-section', 'tpl-article', 'tpl-video', 'tpl-actions', 'tpl-play-icon']) {
+  for (const id of ['site-header', 'brand-link', 'ribbon-categories', 'ribbon-subcategories', 'nav-prev', 'nav-next', 'search-toggle', 'mobile-search', 'subbar', 'tools', 'filter-lang', 'filter-loc', 'type-button', 'type-label', 'search-form', 'search-input', 'profile-button', 'profile-panel', 'panel-filters', 'theme-light', 'theme-dark', 'theme-system', 'subcat-top', 'subcat-bottom', 'feed-heading', 'feed-list', 'feed-panel', 'empty-state', 'result-count', 'feed-sentinel', 'show-more', 'storage-hint', 'manage-section', 'manage-search', 'manage-list', 'manage-cancel', 'manage-save', 'sources-section', 'about-section', 'tpl-article', 'tpl-video', 'tpl-actions', 'tpl-play-icon', 'tpl-gear-icon']) {
     assert.ok(template.includes('id="' + id + '"'), 'template has #' + id);
   }
   assert.ok(template.includes('data-slot="account"'), 'account slot for later sign-in');
@@ -325,6 +330,30 @@ test('the template is a body fragment that app.js can fill', () => {
   assert.ok(template.includes('aria-live="polite"'));
   assert.ok(template.includes('removal@curanet.io'));
   assert.ok(!template.includes('mailto:'), 'the removal address is text, not a mailto link');
+  assert.ok(/<ol id="feed-list"[^>]*role="list"/.test(template), 'the feed list keeps its list role when list-style is none');
+  assert.equal((template.match(/<a class="item-link"[^>]*><span class="item-title-text"><\/span><\/a>/g) || []).length, 2, 'both item titles clamp an inner span so the link focus ring is not clipped');
+});
+
+/*
+ * The in-page links (logo, "Back to the feed", the Settings links) are driven by click handlers
+ * in app.js rather than by the #hash, because a fragment navigation is swallowed by popstate on
+ * the hosted site and is a no-op in the preview once the hash already matches. This checks that
+ * the template exposes the hooks and that app.js binds them. Manual check (both outputs, 390 and
+ * 1280 px): Settings → About, Sources, Saved and Following each open on one click; "Back to the
+ * feed" returns to the feed; from a category the logo returns Home; Live opens on All from
+ * Local › News; the hosted address becomes ?view=… with no #hash left behind.
+ */
+test('the in-page links have the hooks app.js binds click handlers to', () => {
+  const template = readFileSync(path.join(SITE_DIR, 'index.html'), 'utf8');
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  assert.ok(/<a class="logo" href="#feed" id="brand-link">/.test(template), 'the logo is #brand-link');
+  assert.ok((template.match(/class="back-link" href="#feed"/g) || []).length >= 2, 'Sources and About each have back links');
+  assert.equal((template.match(/class="panel-link"/g) || []).length, 4, 'four Settings links');
+  assert.ok(app.includes("byId('brand-link')") && /brandLink\.addEventListener\('click'/.test(app), 'app.js binds the logo');
+  assert.ok(/querySelectorAll\('\.back-link'\)/.test(app), 'app.js binds the back links');
+  assert.ok(/querySelectorAll\('\.panel-link'\)/.test(app) && /function onPanelLinkClick\(/.test(app), 'app.js binds the panel links');
+  assert.ok(/function onPopState\(\) \{\s*if \(viewFromHash\(\)\) \{\s*onHashChange\(\);\s*return;/.test(app), 'popstate hands a #hash to the hash handler');
+  assert.ok(/if \(next === 'live' && view !== 'live'\) state\.s = '';/.test(app), 'entering Live resets the section to All');
 });
 
 test('styles.css declares the theme tokens in the artifact shape and the Curanet fonts', () => {
@@ -392,11 +421,17 @@ test('formatRelativeOrDate is relative for 7 days, singular at 1, then an absolu
   assert.deepEqual(formatRelativeOrDate(at(-60 * 1000), now), { kind: 'now' }, 'a date slightly in the future reads as just now');
 });
 
-test('monogramFor gives the first letter and a stable tone from 0 to 7', () => {
+test('monogramFor gives the first character and a stable tone from 0 to 7', () => {
   const { monogramFor } = loadHelpers();
   assert.equal(monogramFor('bbc', 'BBC News').letter, 'B');
   assert.equal(monogramFor('le-devoir', 'le devoir').letter, 'L', 'upper-cased');
-  assert.equal(monogramFor('x', '  ').letter, '?', 'no name');
+  assert.equal(monogramFor('x', '  ').letter, '•', 'no name');
+  assert.equal(monogramFor('x', '').letter, '•', 'empty name');
+  assert.equal(monogramFor('x', '🎵 Music Channel').letter, '🎵', 'a whole emoji, not half a surrogate pair');
+  assert.equal(monogramFor('x', '𝕏 News').letter, '𝕏');
+  assert.equal(monogramFor('x', 'Ævar').letter, 'Æ');
+  assert.equal(monogramFor('x', 'école').letter, 'É', 'a letter keeps its combining accent');
+  assert.ok(monogramFor('x', '👨‍👩‍👧 Family').letter.isWellFormed(), 'never a lone surrogate');
   const first = monogramFor('the-tyee', 'The Tyee').tone;
   assert.equal(monogramFor('the-tyee', 'The Tyee').tone, first, 'same source, same tone');
   for (const id of ['a', 'bb', 'cbc-news', 'globe-politics', 'yt-channel-1', 'z'.repeat(50)]) {
@@ -440,6 +475,13 @@ test('the dark palette and the monogram tones meet 4.5:1 in both themes', () => 
       assert.ok(ratio >= 4.5, `${name}: ${fg} on ${bg} is ${ratio.toFixed(2)}:1, below 4.5:1`);
     }
     assert.ok(contrast(tokens['--primary'], tokens['--surface']) >= 3, `${name}: the blue underline and icons reach 3:1 on white`);
+    // Non-text contrast (WCAG 1.4.11, 3:1): the avatar silhouette on its disc and on the bar, the
+    // unchecked checkbox border on the accordion body, the play triangle on its fixed white circle.
+    for (const [fg, bg] of [['--avatar-ink', '--avatar-bg'], ['--avatar-ink', '--surface'], ['--text-faint', '--surface-2']]) {
+      assert.ok(contrast(tokens[fg], tokens[bg]) >= 3, `${name}: ${fg} on ${bg} is below 3:1`);
+    }
+    assert.ok(contrast(tokens['--play-glyph'], '#ffffff') >= 3, `${name}: the play triangle reaches 3:1 on its white circle`);
+    assert.ok(contrast(tokens['--primary-strong'], tokens['--primary-soft']) >= 4.5, `${name}: the removal address reaches 4.5:1 on its chip`);
   }
 });
 

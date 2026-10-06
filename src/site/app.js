@@ -54,8 +54,29 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * The publisher monogram: the name's first letter and one of 8 colour tones picked by hashing
-   * the source id, so a source always gets the same colour.
+   * The first user-perceived character of a text (a whole emoji or a letter with its accents),
+   * never half of a surrogate pair. Empty for an empty text.
+   * @param {string} text
+   * @returns {string}
+   */
+  function firstGrapheme(text) {
+    if (!text) return '';
+    try {
+      if (typeof Intl !== 'undefined' && typeof Intl.Segmenter === 'function') {
+        var first = new Intl.Segmenter(undefined, { granularity: 'grapheme' }).segment(text)[Symbol.iterator]().next();
+        if (!first.done && first.value && first.value.segment) return first.value.segment;
+      }
+    } catch (e) {
+      // Fall back to code points below.
+    }
+    var points = Array.from(text);
+    return points.length ? points[0] : '';
+  }
+
+  /**
+   * The publisher monogram: the name's first character and one of 8 colour tones picked by
+   * hashing the source id, so a source always gets the same colour. A name with nothing in it
+   * shows a dot.
    * @param {string} sourceId
    * @param {string} name
    * @returns {{letter: string, tone: number}}
@@ -64,8 +85,8 @@ var CURANET_HELPERS = (function () {
     var hash = 0;
     var id = String(sourceId || '');
     for (var i = 0; i < id.length; i += 1) hash = (hash * 31 + id.charCodeAt(i)) >>> 0;
-    var trimmed = String(name || '').trim();
-    var letter = trimmed ? trimmed.charAt(0).toUpperCase() : '?';
+    var first = firstGrapheme(String(name || '').trim());
+    var letter = first ? first.toUpperCase() : '•';
     return { letter: letter, tone: hash % 8 };
   }
 
@@ -84,7 +105,7 @@ var CURANET_HELPERS = (function () {
     return out;
   }
 
-  return { cycleTypeValue: cycleTypeValue, formatRelativeOrDate: formatRelativeOrDate, monogramFor: monogramFor, fold: fold, TYPE_CYCLE: TYPE_CYCLE };
+  return { cycleTypeValue: cycleTypeValue, formatRelativeOrDate: formatRelativeOrDate, monogramFor: monogramFor, firstGrapheme: firstGrapheme, fold: fold, TYPE_CYCLE: TYPE_CYCLE };
 })();
 /* == pure helpers end == */
 
@@ -292,7 +313,9 @@ var CURANET_HELPERS = (function () {
 
   /**
    * All reads and writes go through here; a browser that refuses storage (private mode, blocked
-   * site data) turns storageOk off and the page carries on in memory.
+   * site data) turns storageOk off and the page carries on in memory. A value that is stored but
+   * unreadable (not JSON) is a different matter: it is ignored and overwritten by the next save,
+   * and says nothing about whether storage works.
    */
   var storageOk = true;
 
@@ -301,12 +324,17 @@ var CURANET_HELPERS = (function () {
    * @returns {any} the parsed JSON, or null.
    */
   function readStorage(key) {
+    var raw;
     try {
-      var raw = window.localStorage.getItem(key);
-      if (!raw) return null;
-      return JSON.parse(raw);
+      raw = window.localStorage.getItem(key);
     } catch (e) {
       storageOk = false;
+      return null;
+    }
+    if (!raw) return null;
+    try {
+      return JSON.parse(raw);
+    } catch (e) {
       return null;
     }
   }
@@ -314,13 +342,13 @@ var CURANET_HELPERS = (function () {
   /**
    * @param {string} key
    * @param {any} value
-   * @returns {boolean} false when the browser refused.
+   * @returns {boolean} false when the browser refused. A save that works again clears the hint.
    */
   function writeStorage(key, value) {
     try {
       window.localStorage.setItem(key, JSON.stringify(value));
       var ok = window.localStorage.getItem(key) !== null;
-      if (!ok) storageOk = false;
+      storageOk = ok;
       return ok;
     } catch (e) {
       storageOk = false;
@@ -523,8 +551,27 @@ var CURANET_HELPERS = (function () {
   var view = 'feed';
   /** Saved item ids, newest-saved first. */
   var savedIds = stringList(readStorage(SAVED_KEY));
-  /** Followed "category/subcategory" ids. */
-  var followingIds = stringList(readStorage(FOLLOWING_KEY));
+
+  /**
+   * Keep only the "category/subcategory" ids that exist in today's tree, once each. A section
+   * the owner removed or re-filed since the visitor followed it would otherwise still count
+   * towards "Following (n)" and hide the "not following anything" message.
+   * @param {string[]} ids
+   * @returns {string[]}
+   */
+  function knownSectionIds(ids) {
+    /** @type {Record<string, boolean>} */
+    var seen = Object.create(null);
+    return ids.filter(function (id) {
+      var slash = id.indexOf('/');
+      if (slash <= 0 || seen[id]) return false;
+      seen[id] = true;
+      return Boolean(subcategoryOf(id.slice(0, slash), id.slice(slash + 1)));
+    });
+  }
+
+  /** Followed "category/subcategory" ids, limited to sections that still exist. */
+  var followingIds = knownSectionIds(stringList(readStorage(FOLLOWING_KEY)));
   /** @type {Settings} */
   var settings = readSettings();
 
@@ -540,7 +587,11 @@ var CURANET_HELPERS = (function () {
     return out;
   }
 
-  /** Theme at start-up and on change: an explicit light or dark attribute, or none for "system". */
+  /**
+   * Theme at start-up and on change: an explicit light or dark attribute, or none for "system".
+   * The build puts the same decision in a tiny inline script at the top of the page so the first
+   * paint is already right; running it again here is harmless.
+   */
   function applyTheme() {
     var root = document.documentElement;
     if (settings.theme === 'system') root.removeAttribute('data-theme');
@@ -596,21 +647,21 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * Mirror the view and filters into the address (hosted site only), without adding history
-   * entries. In the preview only plain #anchors exist: a stale one is replaced so the same panel
-   * link can be used twice in a row.
+   * Mirror the view and filters into the address, without adding history entries. Hosted site:
+   * the query string is the one address of a view, and no #hash is left behind. Preview: the
+   * state stays in the page and only a plain #anchor names the view (none at all for the feed
+   * until another view has been opened).
    */
   function writeUrlState() {
     if (!window.history || typeof history.replaceState !== 'function') return;
     if (!CONFIG.urlState) {
       var token = view === 'feed' ? 'feed' : VIEW_TOKENS[view] || 'feed';
       var current = (location.hash || '').replace(/^#/, '');
-      if (current && current !== token) {
-        try {
-          history.replaceState(history.state, '', location.pathname + location.search + '#' + token);
-        } catch (e) {
-          // The artifact viewer may refuse; the page still works.
-        }
+      if (current === token || (!current && token === 'feed')) return;
+      try {
+        history.replaceState(history.state, '', location.pathname + location.search + '#' + token);
+      } catch (e) {
+        // The artifact viewer may refuse; the page still works.
       }
       return;
     }
@@ -647,6 +698,7 @@ var CURANET_HELPERS = (function () {
   // ------------------------------------------------------------------ elements
 
   var siteHeader = byId('site-header');
+  var brandLink = byId('brand-link');
   var ribbonCategories = byId('ribbon-categories');
   var ribbonSubcategories = byId('ribbon-subcategories');
   var subbar = byId('subbar');
@@ -676,6 +728,7 @@ var CURANET_HELPERS = (function () {
   var prefNote = byId('pref-note');
   var profileClose = byId('profile-close');
   var feedSection = byId('feed-section');
+  var feedHeading = byId('feed-heading');
   var feedPanel = byId('feed-panel');
   var feedList = byId('feed-list');
   var emptyState = byId('empty-state');
@@ -740,7 +793,23 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * Scroll the ribbon sideways so the active tab is in view. Never scrolls the page.
+   * The ribbon's end padding: on phones the top ribbon keeps 100px free under the pinned
+   * avatar/magnifier block, so that strip is not usable space.
+   * @param {HTMLElement} ribbon
+   * @returns {number}
+   */
+  function ribbonEndPadding(ribbon) {
+    try {
+      var style = window.getComputedStyle(ribbon);
+      return parseFloat(style.paddingInlineEnd || style.paddingRight) || 0;
+    } catch (e) {
+      return 0;
+    }
+  }
+
+  /**
+   * Scroll the ribbon sideways so the active (or focused) tab is fully in view, outside the
+   * padding under the pinned block. Never scrolls the page.
    * @param {HTMLElement} ribbon
    * @param {HTMLElement|null} tab
    */
@@ -748,8 +817,9 @@ var CURANET_HELPERS = (function () {
     if (!tab) return;
     var ribbonRect = ribbon.getBoundingClientRect();
     var tabRect = tab.getBoundingClientRect();
-    if (tabRect.left >= ribbonRect.left && tabRect.right <= ribbonRect.right) return;
-    var left = tabRect.left - ribbonRect.left + ribbon.scrollLeft - (ribbonRect.width - tabRect.width) / 2;
+    var usableWidth = ribbonRect.width - ribbonEndPadding(ribbon);
+    if (tabRect.left >= ribbonRect.left && tabRect.right <= ribbonRect.left + usableWidth) return;
+    var left = tabRect.left - ribbonRect.left + ribbon.scrollLeft - (usableWidth - tabRect.width) / 2;
     var target = Math.max(0, left);
     try {
       ribbon.scrollTo({ left: target, behavior: prefersReducedMotion() ? 'auto' : 'smooth' });
@@ -809,15 +879,22 @@ var CURANET_HELPERS = (function () {
       var savedTab = makeTab(t('savedTab'), view === 'saved', function () { goToView('saved'); });
       savedTab.setAttribute('data-id', 'saved');
       ribbonSubcategories.appendChild(savedTab);
-      var followingTab = makeTab(t('followingTab'), view !== 'saved', function () {
-        if (view === 'following') goToView('manage');
-        else goToView('following');
-      });
+      // "Following ⚙": the tab opens the Following feed, the gear beside it is its own button
+      // and opens Manage Following from any My Hub state.
+      var group = el('span', 'tab-group');
+      var followingTab = makeTab(t('followingTab'), view !== 'saved', function () { goToView('following'); });
       followingTab.setAttribute('data-id', 'following');
-      followingTab.appendChild(cloneTemplate('tpl-gear-icon'));
-      followingTab.appendChild(el('span', 'visually-hidden', t('manageFollowing')));
-      followingTab.classList.add('tab-with-icon');
-      ribbonSubcategories.appendChild(followingTab);
+      group.appendChild(followingTab);
+      var gear = document.createElement('button');
+      gear.type = 'button';
+      gear.className = 'tab-gear';
+      gear.setAttribute('aria-label', t('manageFollowing'));
+      gear.title = t('manageFollowing');
+      gear.setAttribute('aria-pressed', view === 'manage' ? 'true' : 'false');
+      gear.appendChild(cloneTemplate('tpl-gear-icon'));
+      gear.addEventListener('click', function () { goToView('manage'); });
+      group.appendChild(gear);
+      ribbonSubcategories.appendChild(group);
     } else if (view === 'live') {
       var liveAll = makeTab(t('all'), state.s === '', function () { selectLiveSection(''); });
       liveAll.setAttribute('data-id', '');
@@ -942,7 +1019,21 @@ var CURANET_HELPERS = (function () {
     markActiveTab(ribbonCategories, activeTopId());
     renderSubcategoryRibbon();
     syncControls();
+    setFeedHeading();
     refresh(true);
+    // The button that was pressed disappears with the empty message; keep focus in the page.
+    if (emptyState.hidden) focusOn(mainEl, true);
+  }
+
+  /**
+   * The tools row shows the article/video bar and, on desktop, the filters and search. In Live
+   * the bar is hidden, and on phones (where the filters live elsewhere) that leaves the row empty,
+   * so the whole row goes and the first video sits 16px under the bars like every other view.
+   */
+  function updateToolsRow() {
+    var feedVisible = Boolean(FEED_VIEWS[view]);
+    typeButton.hidden = view === 'live';
+    tools.hidden = !feedVisible || (view === 'live' && isPhone());
   }
 
   /**
@@ -964,6 +1055,7 @@ var CURANET_HELPERS = (function () {
       panelFilters.hidden = true;
       mobileSearch.hidden = true;
     }
+    updateToolsRow();
     updateArrows();
   }
 
@@ -1147,14 +1239,22 @@ var CURANET_HELPERS = (function () {
       paintSaveButton(save, saved);
       storageHint.hidden = storageOk || !(view === 'saved' || view === 'following');
       if (view === 'saved' && !saved) {
-        // Unsaving inside the Saved list removes the item from it.
+        // Unsaving inside the Saved list removes the item from it. Focus was on the Save button
+        // being removed, so it moves to the next item's title (or the feed itself).
         var li = card.parentNode ? card : null;
-        if (li && li.parentNode) li.parentNode.removeChild(li);
+        /** @type {Element|null} */
+        var nextFocus = null;
+        if (li && li.parentNode) {
+          var neighbour = li.nextElementSibling || li.previousElementSibling;
+          nextFocus = neighbour ? neighbour.querySelector('.item-link') : null;
+          li.parentNode.removeChild(li);
+        }
         filtered = filtered.filter(function (entry) { return entry.id !== item.id; });
         shown = Math.max(0, shown - 1);
         emptyState.hidden = filtered.length > 0;
         updateEmptyState();
         announceCount();
+        focusOn(/** @type {HTMLElement} */ (nextFocus || mainEl), true);
       }
     });
     if (slot.parentNode) slot.parentNode.replaceChild(actions, slot);
@@ -1170,7 +1270,7 @@ var CURANET_HELPERS = (function () {
     var card = cloneTemplate('tpl-article');
     var link = /** @type {HTMLAnchorElement} */ (find(card, '.item-link'));
     link.href = item.l;
-    link.textContent = item.t;
+    find(link, '.item-title-text').textContent = item.t;
     fillPublisher(card, source);
     fillTime(find(card, '.item-time'), item.p, nowMs);
     var thumb = /** @type {HTMLAnchorElement} */ (find(card, '.item-thumb'));
@@ -1270,7 +1370,7 @@ var CURANET_HELPERS = (function () {
     var card = cloneTemplate('tpl-video');
     var link = /** @type {HTMLAnchorElement} */ (find(card, '.item-link'));
     link.href = watchUrl(item);
-    link.textContent = item.t;
+    find(link, '.item-title-text').textContent = item.t;
     fillPublisher(card, source);
     // One <time> sits beside the channel name (desktop), one in the bottom row (phones); CSS shows one.
     fillTime(find(card, '.item-time-inline'), item.p, nowMs);
@@ -1506,10 +1606,12 @@ var CURANET_HELPERS = (function () {
       });
       body.appendChild(grid);
       var foot = el('div', 'acc-foot');
+      // Twelve categories mean twelve pairs of these buttons; the accessible name says which one.
       var selectAll = document.createElement('button');
       selectAll.type = 'button';
       selectAll.className = 'text-button';
       selectAll.textContent = t('selectAll');
+      selectAll.setAttribute('aria-label', t('selectAllIn', { category: nameOf(category) }));
       selectAll.addEventListener('click', function () {
         boxes.forEach(function (box) { if (!box.label.hidden) { box.input.checked = true; draft[box.input.value] = true; } });
         updateManageCounts();
@@ -1518,6 +1620,7 @@ var CURANET_HELPERS = (function () {
       clearAll.type = 'button';
       clearAll.className = 'text-button';
       clearAll.textContent = t('clearSelection');
+      clearAll.setAttribute('aria-label', t('clearSelectionIn', { category: nameOf(category) }));
       clearAll.addEventListener('click', function () {
         boxes.forEach(function (box) { if (!box.label.hidden) { box.input.checked = false; draft[box.input.value] = false; } });
         updateManageCounts();
@@ -1629,19 +1732,46 @@ var CURANET_HELPERS = (function () {
   // ------------------------------------------------------------------ views
 
   /**
+   * The feed column's heading (hidden, but it names the landmark and the h1 for screen readers)
+   * follows the open view: Latest items, the category, Saved, Following or Live.
+   */
+  function setFeedHeading() {
+    var text;
+    if (view === 'saved') text = t('savedTab');
+    else if (view === 'following' || view === 'manage') text = t('followingTab');
+    else if (view === 'live') text = t('live');
+    else text = state.c && CATEGORIES[state.c] ? nameOf(CATEGORIES[state.c]) : t('feedHeading');
+    feedHeading.textContent = text;
+  }
+
+  /**
+   * @param {Element|null} node
+   * @returns {boolean} true when the node or one of its ancestors carries the hidden attribute.
+   */
+  function isHiddenAway(node) {
+    for (var current = node; current; current = current.parentElement) {
+      if (current.hasAttribute('hidden')) return true;
+    }
+    return false;
+  }
+
+  /**
    * Show one view: toggles the sections, the bars and the tools row, and marks the tabs.
    * @param {View} next
-   * @param {boolean} moveFocus
+   * @param {boolean} moveFocus   true to put focus on the view's heading; otherwise focus only
+   *                              moves (to the feed) when the element that had it is now hidden,
+   *                              so the keyboard never falls back to the top of the page.
    */
   function showView(next, moveFocus) {
     view = next;
     var feedVisible = Boolean(FEED_VIEWS[next]);
+    var hadFocus = document.activeElement;
     feedSection.hidden = !feedVisible;
     manageSection.hidden = next !== 'manage';
     sourcesSection.hidden = next !== 'sources';
     aboutSection.hidden = next !== 'about';
-    tools.hidden = !feedVisible;
-    typeButton.hidden = next === 'live';
+    updateToolsRow();
+    setFeedHeading();
     if (next === 'sources') renderSources();
     if (next === 'about') renderAbout();
     if (next === 'manage') openManage();
@@ -1654,6 +1784,8 @@ var CURANET_HELPERS = (function () {
       var heading = next === 'sources' ? byId('sources-heading') : next === 'about' ? byId('about-heading') : next === 'manage' ? manageHeading : mainEl;
       focusOn(heading, true);
       window.scrollTo(0, 0);
+    } else if (hadFocus && hadFocus !== document.body && isHiddenAway(hadFocus)) {
+      focusOn(mainEl, true);
     }
     if (feedVisible && observer) window.requestAnimationFrame(fillIfSentinelVisible);
   }
@@ -1665,12 +1797,33 @@ var CURANET_HELPERS = (function () {
   function goToView(next) {
     if (next !== 'feed') { state.c = ''; }
     if (next !== 'live' && next !== 'feed') state.s = '';
-    if (next === 'live' && LIVE_SECTIONS.indexOf(state.s) < 0) state.s = '';
+    // Entering Live always opens on All: a feed subcategory id such as "news" must not leak in
+    // as a Live section. Section tabs inside Live keep their choice.
+    if (next === 'live' && view !== 'live') state.s = '';
     showView(next, next === 'manage' || next === 'sources' || next === 'about');
     refresh(true);
   }
 
-  /** A #hash arrived (a panel link, a back link or the address bar). */
+  /** Home: the whole feed, no category. */
+  function goHome() {
+    selectCategory('');
+    if (window.scrollY > 0) {
+      try {
+        window.scrollTo({ top: 0, behavior: 'auto' });
+      } catch (e) {
+        window.scrollTo(0, 0);
+      }
+    }
+  }
+
+  /** "Back to the feed" from Sources or About. */
+  function backToFeed() {
+    state.c = '';
+    state.s = '';
+    goToView('feed');
+  }
+
+  /** A #hash arrived from the address bar (the in-page links are handled by their click handlers). */
   function onHashChange() {
     var next = viewFromHash();
     if (!next) return;
@@ -1682,14 +1835,32 @@ var CURANET_HELPERS = (function () {
     if (CONFIG.urlState) writeUrlState();
   }
 
-  /** The browser's Back/Forward on the hosted site: rebuild the state from the address. */
+  /**
+   * The browser's Back/Forward on the hosted site: rebuild the state from the address. A fragment
+   * navigation (#about typed into the address bar) fires popstate first; it belongs to the hash
+   * handler, which also writes the canonical ?view= address.
+   */
   function onPopState() {
+    if (viewFromHash()) {
+      onHashChange();
+      return;
+    }
     state = { c: '', s: '', lang: '', loc: '', type: 'both', q: '' };
     view = 'feed';
     readUrlState();
     syncControls();
     showView(view, false);
     refresh(false);
+  }
+
+  /**
+   * A link's #token (a panel link or a back link), as a view.
+   * @param {Element} link
+   * @returns {View|null}
+   */
+  function viewFromLink(link) {
+    var href = link.getAttribute('href') || '';
+    return href.charAt(0) === '#' ? viewFromToken(href.slice(1)) : null;
   }
 
   // ------------------------------------------------------------------ settings panel
@@ -1729,9 +1900,32 @@ var CURANET_HELPERS = (function () {
     onPanelClosed();
   }
 
+  /** True while a panel link is taking the visitor to a view, so focus goes there and not back to the avatar. */
+  var leavingPanelForView = false;
+
   function onPanelClosed() {
     profileButton.setAttribute('aria-expanded', 'false');
-    profileButton.focus();
+    if (!leavingPanelForView) profileButton.focus();
+    leavingPanelForView = false;
+  }
+
+  /**
+   * A Settings link (Saved, Following, Sources, About): close the panel and open the view directly.
+   * @param {Event} event
+   * @param {Element} link
+   */
+  function onPanelLinkClick(event, link) {
+    var next = viewFromLink(link);
+    if (!next) { closePanel(); return; }
+    event.preventDefault();
+    // With a real <dialog> the close event (which returns focus to the avatar) is still to come
+    // after close(); without one, closePanel runs onPanelClosed right away.
+    var closeEventPending = supportsDialog && panel.open;
+    leavingPanelForView = true;
+    closePanel();
+    leavingPanelForView = closeEventPending;
+    goToView(next);
+    if (next === 'saved' || next === 'following') focusOn(mainEl, true);
   }
 
   /** @param {KeyboardEvent} event */
@@ -1775,8 +1969,9 @@ var CURANET_HELPERS = (function () {
     readUrlState();
     var hashView = viewFromHash();
     if (hashView && hashView !== 'feed') {
+      // A plain #anchor names a view; Live opens on All (a ?s= for Live needs ?view=live).
       view = hashView;
-      if (view !== 'live') state.s = '';
+      state.s = '';
       state.c = '';
     }
     if (!hadFilters) {
@@ -1852,8 +2047,26 @@ var CURANET_HELPERS = (function () {
         saveSettings();
       }
     });
+    // In-page navigation goes through click handlers, never through the #hash: a fragment
+    // navigation would be swallowed by popstate on the hosted site and does nothing in the preview
+    // once the hash already matches. The hrefs stay as a fallback without scripts.
     var panelLinks = panel.querySelectorAll('.panel-link');
-    for (var i = 0; i < panelLinks.length; i += 1) panelLinks[i].addEventListener('click', function () { closePanel(); });
+    for (var i = 0; i < panelLinks.length; i += 1) {
+      (function (link) {
+        link.addEventListener('click', function (event) { onPanelLinkClick(event, link); });
+      })(panelLinks[i]);
+    }
+    var backLinks = document.querySelectorAll('.back-link');
+    for (var b = 0; b < backLinks.length; b += 1) {
+      backLinks[b].addEventListener('click', function (event) { event.preventDefault(); backToFeed(); });
+    }
+    brandLink.addEventListener('click', function (event) { event.preventDefault(); goHome(); });
+    // A tab reached with the keyboard must not sit under the pinned avatar block on phones.
+    ribbonCategories.addEventListener('focusin', function (event) {
+      var target = /** @type {Element|null} */ (event.target instanceof Element ? event.target : null);
+      var tab = target ? target.closest('.tab') : null;
+      if (tab) revealTab(ribbonCategories, /** @type {HTMLElement} */ (tab));
+    });
 
     skipLink.addEventListener('click', function (event) {
       event.preventDefault();

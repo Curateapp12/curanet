@@ -94,7 +94,7 @@
       <p id="action-status" class="visually-hidden" role="status" aria-live="polite"></p>
       <p id="storage-hint" class="hint" hidden data-t="storageUnavailable">Your browser does not allow saving this. It will be kept until you leave the page.</p>
       <div class="feed-panel" id="feed-panel">
-        <ol id="feed-list" class="feed"></ol>
+        <ol id="feed-list" class="feed" role="list"></ol>
       </div>
       <div id="empty-state" class="empty" hidden>
         <p class="empty-text" id="empty-text" data-t="emptyTitle">Nothing matches this selection.</p>
@@ -246,14 +246,16 @@
   </form>
 </dialog>
 
-<!-- Item templates. The four actions are identical in both; app.js fills labels and states. -->
+<!-- Item templates. The four actions are identical in both; app.js fills labels and states.
+     The title's line clamp sits on .item-title-text (inside the link) so the link's focus ring is
+     never clipped by the clamp's overflow. -->
 <template id="tpl-article">
   <li class="item item-article">
     <article class="item-inner">
       <div class="item-main">
         <div class="item-text">
           <p class="publisher"><span class="monogram" aria-hidden="true"></span><span class="publisher-name"></span></p>
-          <h2 class="item-title"><a class="item-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint"></a></h2>
+          <h2 class="item-title"><a class="item-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint"><span class="item-title-text"></span></a></h2>
         </div>
         <a class="item-thumb" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true" aria-describedby="new-tab-hint"><img class="item-img" loading="lazy" decoding="async" referrerpolicy="no-referrer" alt=""></a>
       </div>
@@ -271,7 +273,7 @@
       <div class="video-box"></div>
       <div class="item-text">
         <p class="publisher"><span class="monogram" aria-hidden="true"></span><span class="publisher-name"></span><span class="dot" aria-hidden="true"></span><time class="item-time item-time-inline"></time></p>
-        <h2 class="item-title"><a class="item-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint"></a></h2>
+        <h2 class="item-title"><a class="item-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint"><span class="item-title-text"></span></a></h2>
         <div class="item-foot">
           <time class="item-time item-time-foot"></time>
           <div class="actions"></div>

@@ -1,6 +1,7 @@
 /* Curanet interface strings. Every visible string in the site goes through t(key) in app.js.
    English is the interface language for now; the French column is complete so switching
-   CURANET_CONFIG.uiLang to 'fr' is all it takes. {n}, {label} and {title} are filled in by t(). */
+   CURANET_CONFIG.uiLang to 'fr' is all it takes. {n}, {label}, {title}, {date} and {category} are
+   filled in by t(). */
 /* exported CURANET_STRINGS */
 var CURANET_STRINGS = {
   en: {
@@ -98,6 +99,8 @@ var CURANET_STRINGS = {
     followedInCategory: '{n} followed',
     selectAll: 'Select all',
     clearSelection: 'Clear',
+    selectAllIn: 'Select all {category} sections',
+    clearSelectionIn: 'Clear all {category} sections',
     manageNoMatch: 'No category matches your search.',
     backToFeed: 'Back to the feed',
     sourcesHeading: 'Sources',
@@ -222,6 +225,8 @@ var CURANET_STRINGS = {
     followedInCategory: '{n} suivies',
     selectAll: 'Tout sélectionner',
     clearSelection: 'Effacer',
+    selectAllIn: 'Sélectionner toutes les rubriques de {category}',
+    clearSelectionIn: 'Effacer toutes les rubriques de {category}',
     manageNoMatch: 'Aucune catégorie ne correspond à votre recherche.',
     backToFeed: 'Retour au fil',
     sourcesHeading: 'Sources',
