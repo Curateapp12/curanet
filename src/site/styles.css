@@ -38,6 +38,7 @@
   --menu-hover: #f5f5f5;
   --menu-hover-ink: #171717;
   --menu-icon: #737373;
+  --menu-hint: #737373;         /* on a hovered row it takes the row's ink (4.35:1 there) */
   --menu-title: #101828;
   --placeholder: #737373;
   --input-bg: #ffffff;
@@ -108,6 +109,7 @@
     --menu-hover: #262626;
     --menu-hover-ink: #fafafa;
     --menu-icon: #a1a1a1;
+    --menu-hint: #a1a1a1;
     --menu-title: #f3f4f6;
     --placeholder: #a1a1a1;
     --input-bg: #101828;
@@ -169,6 +171,7 @@
   --menu-hover: #262626;
   --menu-hover-ink: #fafafa;
   --menu-icon: #a1a1a1;
+  --menu-hint: #a1a1a1;
   --menu-title: #f3f4f6;
   --placeholder: #a1a1a1;
   --input-bg: #101828;
@@ -221,7 +224,8 @@ body {
   -webkit-font-smoothing: antialiased;
   overflow-x: clip;
 }
-body.menu-open { overflow: hidden; }
+/* The page behind the Menu panel does not scroll (app.js puts the class on both elements). */
+html.menu-open, body.menu-open { overflow: hidden; }
 
 img, svg { display: inline-block; vertical-align: middle; }
 img { max-width: 100%; }
@@ -282,7 +286,7 @@ hr { margin: 0; border: 0; }
   white-space: nowrap;
 }
 
-/* One content container (896px + 16px gutters) shared by the bars, the Menu panel and the main area. */
+/* The bars and the Menu panel share one container: 896px of content inside 16px gutters. */
 .container {
   width: 100%;
   max-width: 928px;
@@ -290,8 +294,12 @@ hr { margin: 0; border: 0; }
   padding: 0 16px;
 }
 
+/* The main area is the live site's feed container: at most 896px including its own padding of
+   16px on every side from 640px up (the card is 864px wide at x=208 at 1280), and only top and
+   bottom padding on phones (the card is full width). The feed card, Manage Following, Sources and
+   About all sit in it. */
 .main { min-width: 0; }
-.main-container { padding: 16px 0; }
+.main-container { max-width: 896px; padding: 16px 0; }
 .view { min-width: 0; }
 .noscript { padding: 24px 16px; text-align: center; color: var(--muted); }
 
@@ -376,7 +384,9 @@ body.menu-open .site-header, body.search-open .site-header { top: 0; }
   appearance: none;
 }
 .search-input::placeholder, .manage-search-input::placeholder { color: var(--placeholder); opacity: 1; }
-.search-input::-webkit-search-decoration, .manage-search-input::-webkit-search-decoration { display: none; }
+/* No browser decoration or clear button, as on the live site; emptying the field clears the search. */
+.search-input::-webkit-search-decoration, .manage-search-input::-webkit-search-decoration,
+.search-input::-webkit-search-cancel-button, .manage-search-input::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; display: none; }
 .search-input:focus-visible, .manage-search-input:focus-visible {
   outline: none;
   border-color: var(--focus);
@@ -503,11 +513,13 @@ body[data-view="live"] #type-button { display: none; }
 .menu-item-label { flex: 1 1 auto; min-width: 0; }
 .menu-item-check { display: inline-flex; margin-left: auto; width: 16px; height: 16px; color: var(--menu-icon); }
 .menu-item-check:empty { display: none; }
-.menu-hint { margin-left: auto; font-size: 12px; line-height: 16px; color: var(--menu-icon); white-space: nowrap; }
+.menu-hint { margin-left: auto; font-size: 12px; line-height: 16px; color: var(--menu-hint); white-space: nowrap; }
+.menu-item:hover .menu-hint, .menu-item:focus-visible .menu-hint { color: inherit; }
 .menu-chevron { width: 16px; height: 16px; color: var(--menu-icon); transition: transform 150ms var(--ease); }
 #lang-button[aria-expanded="true"] .menu-chevron { transform: rotate(90deg); }
 .menu-sublist .menu-item { padding-left: 32px; }
 .menu-sep { height: 1px; margin: 12px -4px; background: var(--menu-border); }
+.menu-sep-tight { margin: 4px -4px; }
 .share-menu .menu-item-icon { margin-right: 8px; }
 
 .avatar-menu {
@@ -939,7 +951,14 @@ body[data-view="live"] #type-button { display: none; }
   border-radius: var(--radius);
   background: transparent;
   color: var(--toast-close);
-  transition: color 150ms var(--ease);
+  opacity: 0;
+  transition: color 150ms var(--ease), opacity 150ms var(--ease);
+}
+/* As on the live site the X shows while the toast is hovered or the X has keyboard focus; touch
+   screens, which cannot hover, always show it. */
+.toast:hover .toast-close, .toast-close:focus-visible { opacity: 1; }
+@media (hover: none) {
+  .toast-close { opacity: 1; }
 }
 .toast-close:hover { color: var(--menu-ink); }
 .toast-close .icon { width: 16px; height: 16px; }
@@ -972,13 +991,16 @@ body[data-view="live"] #type-button { display: none; }
 
 /* ---------------------------------------------------------------- end of feed, empty block, buttons */
 
-.feed-end { padding: 24px; text-align: center; font-size: 14px; line-height: 20px; color: var(--muted); }
+/* The live end block is its 32px sentinel holding the line with 24px padding: 100px in all, the
+   line centred in it. */
+.feed-end { padding: 40px 24px; text-align: center; font-size: 14px; line-height: 20px; color: var(--muted); }
 .empty { padding: 48px 16px; text-align: center; }
 .empty-text { font-size: 16px; line-height: 24px; color: var(--muted); }
 .empty-actions { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px; }
-/* The sentinel keeps the live site's 32px below the last item; it collapses under the empty block. */
+/* The sentinel keeps the live site's 32px below the last item; it collapses under the empty block
+   and the end line, which already hold that space. */
 .sentinel { min-height: 32px; }
-#empty-state:not([hidden]) ~ .sentinel { min-height: 0; }
+#empty-state:not([hidden]) ~ .sentinel, #feed-end:not([hidden]) ~ .sentinel { min-height: 0; }
 .show-more-row { display: flex; justify-content: center; }
 .show-more-row .button { margin: 0 16px 16px; }
 
@@ -1008,7 +1030,6 @@ body[data-view="live"] #type-button { display: none; }
 }
 .button-primary { background: var(--bar); border-color: var(--bar); color: var(--on-bar); }
 .button-primary:hover { background: var(--primary-hover); border-color: var(--primary-hover); color: var(--on-bar); }
-.button-primary:focus-visible { border-color: var(--on-bar); }
 
 .text-button {
   display: inline-flex;
@@ -1155,13 +1176,14 @@ body[data-view="live"] #type-button { display: none; }
 
 /* ---------------------------------------------------------------- Sources and About */
 
+/* Sources and About follow the live site's Terms page: one card 16px under the header, a 24/32
+   bold heading 24px above full-width #364153 text. The "Back to the feed" link sits under it. */
 .view-page { display: flex; flex-direction: column; gap: 16px; }
 .page-card { padding: 16px; }
-.page-heading { margin: 0 0 8px; font-size: 24px; line-height: 32px; font-weight: 700; color: var(--text); }
-.page-intro { margin: 0 0 16px; font-size: 16px; line-height: 24px; color: var(--label); max-width: 65ch; }
+.page-heading { margin: 0 0 24px; font-size: 24px; line-height: 32px; font-weight: 700; color: var(--text); }
+.page-intro { margin: 0 0 16px; font-size: 16px; line-height: 24px; color: var(--text-2); }
 .page-intro:last-child { margin-bottom: 0; }
 .back-link {
-  align-self: flex-start;
   color: var(--primary);
   font-size: 14px;
   line-height: 20px;
@@ -1170,7 +1192,7 @@ body[data-view="live"] #type-button { display: none; }
 }
 .back-link:hover { text-decoration: underline; }
 .back-link::before { content: "← "; }
-.view-page > .back-link, .back-row { padding: 0 16px; }
+.back-row { padding: 0 16px; }
 
 .table-wrap { min-width: 0; overflow-x: auto; }
 .sources-table { width: 100%; border-collapse: collapse; font-size: 14px; line-height: 20px; }
@@ -1201,8 +1223,8 @@ body[data-view="live"] #type-button { display: none; }
 .status-blocked::before { background: var(--status-bad); }
 .status-waiting_for_key::before { width: 6px; height: 6px; background: transparent; border: 2px solid var(--muted); }
 
-.prose { display: flex; flex-direction: column; gap: 12px; max-width: 65ch; font-size: 16px; line-height: 24px; }
-.about-tagline { font-size: 18px; line-height: 28px; font-weight: 600; }
+.prose { display: flex; flex-direction: column; gap: 12px; font-size: 16px; line-height: 24px; color: var(--text-2); }
+.about-tagline { font-size: 20px; line-height: 28px; font-weight: 700; color: var(--text); }
 .removal { font-weight: 500; }
 .removal-address {
   padding: 2px 8px;
@@ -1218,7 +1240,7 @@ body[data-view="live"] #type-button { display: none; }
 
 @media (min-width: 640px) {
   .page-card { padding: 24px; }
-  .view-page > .back-link, .back-row { padding: 0; }
+  .back-row { padding: 0; }
 }
 
 /* On phones every source becomes a small stacked block; app.js writes the column name into

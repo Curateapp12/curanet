@@ -23,7 +23,8 @@
     CATEGORIES grid #panel-categories that app.js fills, the static MORE grid #panel-more).
   - main#main > .container: the views. #feed-section holds the card #feed-panel (the list, the
     empty block, the end-of-feed line, the sentinel and the Show more fallback); #manage-section is
-    the Manage Following card; #sources-section and #about-section are plain pages.
+    the Manage Following card; #sources-section and #about-section are one card each, like the
+    live site's Terms page, with a "Back to the feed" link under it.
   - #toast-region: the live region toasts are appended to.
   - dialog#profile-panel: the Settings dialog (theme, sections bar on phones, preferred language
     and location).
@@ -106,6 +107,7 @@
               <svg class="icon menu-chevron" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m9 18 6-6-6-6"/></svg>
             </button>
             <div class="menu-sublist" id="lang-list" hidden></div>
+            <hr class="menu-sep menu-sep-tight">
             <button type="button" class="menu-item theme-toggle" id="theme-toggle">
               <svg class="icon menu-item-icon icon-moon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"/></svg>
               <svg class="icon menu-item-icon icon-sun" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
@@ -225,7 +227,6 @@
       </section>
 
       <section id="sources-section" class="view view-page" aria-labelledby="sources-heading" hidden>
-        <a class="back-link" href="#feed" data-t="backToFeed">Back to the feed</a>
         <div class="card page-card">
           <h1 id="sources-heading" class="page-heading" tabindex="-1" data-t="sourcesHeading">Sources</h1>
           <p class="page-intro" data-t="sourcesIntro">Every publisher and channel Curanet collects from, with its status and the last time it was fetched.</p>
@@ -251,7 +252,6 @@
       </section>
 
       <section id="about-section" class="view view-page" aria-labelledby="about-heading" hidden>
-        <a class="back-link" href="#feed" data-t="backToFeed">Back to the feed</a>
         <div class="card page-card">
           <h1 id="about-heading" class="page-heading" tabindex="-1" data-t="aboutHeading">About Curanet</h1>
           <div class="prose">

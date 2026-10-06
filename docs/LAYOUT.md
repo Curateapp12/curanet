@@ -37,11 +37,23 @@ page), the mapping is written down here so nothing is improvised twice.
   lg `0 10px 15px -3px rgba(0,0,0,.1), 0 4px 6px -4px rgba(0,0,0,.1)`.
 - **Motion**: colours 150 ms; the header slide and the thumbnail zoom 300 ms; menus fade and zoom
   in over 150 ms. None of it with reduced motion.
-- **Widths**: one content container of at most 896 px, centred, inside 16 px side padding. Two
-  breakpoints: 640 px (wordmark, paddings, thumbnail size) and 768 px (title size, grid columns).
-  The page never scrolls sideways.
+- **Widths**: the three bars and the Menu panel share one content container of at most 896 px,
+  centred, inside 16 px side padding. The main area (feed, Manage Following, Sources, About) is the
+  live feed container: at most 896 px *including* 16 px padding on every side from 640 px up, so
+  the card is 864 px wide at x = 208 at 1280 (736 px at 768); below 640 px it has only top and
+  bottom padding and the card is full width. Two breakpoints: 640 px (wordmark, paddings,
+  thumbnail size) and 768 px (title size, grid columns). The page never scrolls sideways.
 - A dark theme with the same structure exists; the default is **light**; the visitor switches in
   the avatar menu ("Dark Mode" / "Light Mode") or in Settings (Light, Dark, Follow system).
+- **Where a live colour misses WCAG AA** the nearest colour of the same family is used instead
+  (every pair is checked by `npm test`): Save hover ink `#123bb7` (live `#305dd2`, 3.3:1 on its
+  hover blue) and in dark `#6393ff`; Share hover ink `#008236` (live `#00c950`, 2.1:1); the dark
+  action-button ink `#99a1af` (live `#6a7282`); the focus indicator is a solid `#737373` border
+  (dark `#a1a1a1`) inside the 3 px ring, because the ring alone is 1.5:1; checkbox borders
+  `#6a7282` (dark `#99a1af`, live `#d1d5dc`); the dark hover of controls on the blue bar
+  `#3f64b9` (the live `#214fcc` is the bar itself, so the hover would not show); the dark search
+  field `#101828` (the live translucent white leaves the placeholder at 2.5:1); and the Language
+  hint takes the hovered row's ink.
 
 ## Header
 
@@ -158,12 +170,14 @@ site's version holds sign-in buttons; Curanet's holds, top to bottom:
    "English" / "Français") and a chevron; it expands in place to one row per choice (All
    languages, then the languages present in the data, with a check on the current one). This is
    the content-language filter (our `lang` state).
-5. **Dark Mode** (moon) or **Light Mode** (sun) — one row that toggles the theme and stores it.
+5. A 1 px separator with 4 px margins (as under the live menu's Language row), then **Dark Mode**
+   (moon) or **Light Mode** (sun) — one row that toggles the theme and stores it.
 6. **Settings** (gear) — opens the Settings dialog.
 7. A footer (top border, 16 px padding, 12 px `#6a7282`, centred): "Sign-in is coming later ·
    **Sources** · **About**", the two links in `#305dd2` (underline on hover).
 
-Escape, a click outside, or choosing an item closes it; focus returns to the avatar.
+Opening it moves focus to its first row (the location menu focuses the current choice). Escape, a
+click outside, or choosing an item closes it; focus returns to the avatar.
 
 ## The Menu panel (the ≡ button)
 
@@ -192,7 +206,8 @@ container edge plus 16 px padding) and a 36 px X button at the right. Body paddi
   no gaps, each with a 1 px `#f3f4f6` (dark `#1e2939`) bottom line; 20 at a time, more appear as
   the visitor scrolls (a "Show more" button only where the browser cannot watch scrolling).
 - After the last item, when everything is shown: "You've reached the end." 14 px `#6a7282`,
-  centred, 24 px padding, inside the card.
+  centred in a 100 px block (the live 32 px sentinel plus 24 px padding: 40 px above and below),
+  inside the card.
 - Nothing matches: "No content in this category yet." 16 px / 24 px `#6a7282` (dark `#99a1af`),
   centred, 48 px padding, inside the card, followed by the "Clear filters" button (and "Manage
   following" in Following). Saved with nothing saved: the same block with "Nothing saved yet."
@@ -257,7 +272,8 @@ Three outline buttons 24 px tall, radius 8, padding 0 10 px, 6 px between icon a
 16 px inside the top edge on phones), padding 24 px (32 px at the right), white (dark `#0a0a0a`),
 border 1 px `#e5e5e5` (dark white at 10 %), radius 8, shadow lg: a 14 px semibold title and a
 14 px line at 90 % opacity; it slides in and goes away after 5 s; a small X at its top-right
-closes it. Announced politely to screen readers.
+closes it. As on the live site the X shows while the toast is hovered or the X has keyboard
+focus; on touch screens it is always shown. Announced politely to screen readers.
 
 ## Saved, Following and Live
 
@@ -283,6 +299,16 @@ at most, centred): Theme (Light — the default, Dark, Follow system), Sections 
 the default, Bottom), Preferred language and location (applied when the visitor arrives with no
 filters). Everything is kept in the browser and the page still works when storage is unavailable
 (a hint says so). Sources and About are reached from the avatar menu and the Menu panel.
+
+## Sources and About
+
+They follow the live site's Terms page: one card in the feed container (16 px under the header,
+full width on phones), padding 24 px (16 px on phones), a 24 px / 32 px bold heading 24 px above
+the text, paragraphs 16 px / 24 px `#364153` (dark `#d1d5dc`) across the card's full width. The
+grey row is hidden. A "Back to the feed" link sits under the card. Sources lists every source in a
+table (stacked blocks on phones); About carries the tagline as a 20 px bold line, the plain-language
+description, the removal address and the time of the last update. Manage Following uses the same
+container.
 
 ## State in the address
 

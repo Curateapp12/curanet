@@ -30,6 +30,40 @@ function configFrom(html) {
   return JSON.parse(match[1]);
 }
 
+/** @returns {string} the body fragment src/site/index.html */
+function readTemplate() {
+  return readFileSync(path.join(SITE_DIR, 'index.html'), 'utf8');
+}
+
+/**
+ * The article/video toggle's <img> and its three glyphs. They are the live site's both.png,
+ * video.png and article.png (30×30 white line art), carried as data URIs so nothing is loaded
+ * from anywhere; they are the only images the template embeds.
+ */
+function toggleGlyphs(template) {
+  const tag = (/<img id="type-glyph"[^>]*>/.exec(template) || [])[0];
+  assert.ok(tag, 'the template has the toggle glyph <img id="type-glyph">');
+  const attr = (name) => (new RegExp(` ${name}="([^"]*)"`).exec(tag) || [])[1];
+  return { tag, src: attr('src'), alt: attr('alt'), both: attr('data-src-both'), videos: attr('data-src-videos'), articles: attr('data-src-articles') };
+}
+
+/**
+ * Every data:image URI of a rendered page outside the toggle glyph's <img>, i.e. any picture that
+ * is not one of the three interface glyphs.
+ */
+function embeddedImagesOutsideGlyphs(html) {
+  const { tag } = toggleGlyphs(readTemplate());
+  assert.ok(html.includes(tag), 'the page carries the template\'s toggle glyph unchanged');
+  return html.split(tag).join('').match(/data:image\/[a-z+]+[;,][^"'\s)]{0,40}/g) || [];
+}
+
+/** No web font, font CDN or font file is referenced by a rendered page. */
+function assertNoWebFont(html, label) {
+  assert.ok(!/fonts\.(googleapis|gstatic)\.com/i.test(html), label + ': no Google Fonts address');
+  assert.ok(!/<link[^>]+rel="(?:preconnect|preload|dns-prefetch)"/i.test(html), label + ': no preconnect or preload link');
+  assert.ok(!/@font-face|\.woff2?\b|\.ttf\b|\.otf\b/i.test(html), label + ': no font face or font file');
+}
+
 // ------------------------------------------------------------------ assembleFeedData
 
 test('assembleFeedData reads the fixture directory into compact feed data', () => {
@@ -140,11 +174,14 @@ test('build renders the hosted site as a full document with remote thumbnails an
   assert.ok(/<meta name="viewport" content="[^"]*viewport-fit=cover[^"]*">/.test(html));
   assert.ok(html.includes('<title>Curanet — Curate the internet</title>'));
   assert.ok(html.includes('<meta name="description"'));
-  assert.ok(html.includes('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700'));
   assert.ok(html.includes('<link rel="stylesheet" href="styles.css">'));
+  assert.deepEqual(html.match(/<link[^>]*>/g), ['<link rel="stylesheet" href="styles.css">'], 'the local stylesheet is the only <link>');
+  assertNoWebFont(html, 'hosted');
   assert.ok(html.includes('<script src="strings.js"></script>'));
   assert.ok(html.includes('<script src="app.js"></script>'));
-  assert.ok(!html.includes('data:image'), 'hosted site never embeds images');
+  assert.deepEqual(html.match(/<script[^>]+src="[^"]*"/g), ['<script src="strings.js"', '<script src="app.js"'], 'only the two local scripts are loaded');
+  assert.deepEqual(embeddedImagesOutsideGlyphs(html), [], 'the hosted site never embeds publisher images');
+  assert.equal((html.match(/data:image\//g) || []).length, 4, 'the only data:image URIs are the toggle glyph (src and the three data-src)');
   const themeAt = html.indexOf(THEME_SCRIPT);
   assert.ok(themeAt > 0 && themeAt < html.indexOf('<link rel="stylesheet" href="styles.css">') && themeAt < html.indexOf('<body>'), 'the theme script runs in <head>, before the styles');
 
@@ -154,6 +191,8 @@ test('build renders the hosted site as a full document with remote thumbnails an
   const data = dataFrom(html);
   assert.equal(data.items.length, 6);
   assert.equal(data.items[0].th, 'https://gazette.example/img/harbour.jpg', 'remote address kept');
+  assert.ok(!('images' in data), 'the hosted data has no embedded images table');
+  for (const item of data.items) assert.ok(item.th === null || /^https?:\/\//.test(item.th), 'every thumbnail is a publisher address');
 
   for (const file of ['styles.css', 'strings.js', 'app.js']) {
     assert.ok(existsSync(path.join(out, file)), file + ' copied');
@@ -176,17 +215,19 @@ test('build renders the preview as an artifact fragment with embedded mode, link
   }
   const titleAt = html.indexOf('<title>');
   const themeAt = html.indexOf(THEME_SCRIPT);
-  const fontsAt = html.indexOf('<link rel="stylesheet" href="https://fonts.googleapis.com');
   const styleAt = html.indexOf('<style>');
   const bodyAt = html.indexOf('<header');
   const dataAt = html.indexOf('<script id="curanet-data"');
   const configAt = html.indexOf('var CURANET_CONFIG');
   const scriptAt = html.indexOf('var CURANET_STRINGS');
-  assert.ok(titleAt < themeAt && themeAt < fontsAt && fontsAt < styleAt && styleAt < bodyAt && bodyAt < dataAt && dataAt < configAt && configAt < scriptAt, 'pieces are in order');
+  assert.ok(titleAt === 0 && titleAt < themeAt && themeAt < styleAt && styleAt < bodyAt && bodyAt < dataAt && dataAt < configAt && configAt < scriptAt, 'pieces are in order');
   assert.equal((html.slice(0, bodyAt).match(/<script[\s>]/g) || []).length, 1, 'the theme script is the only script before the markup');
-  assert.ok(!/<script[^>]*src=/.test(html.slice(0, bodyAt)), 'nothing external is loaded before the markup except the fonts stylesheet');
-  assert.ok(!html.includes('<link rel="stylesheet" href="styles.css">'), 'CSS is inlined, not linked');
+  assert.ok(!/<link[\s>]/i.test(html), 'the preview links nothing: no stylesheet, font or icon is loaded');
+  assert.ok(!/<script[^>]*\ssrc=/i.test(html), 'no script is loaded from anywhere');
+  assertNoWebFont(html, 'preview');
+  assert.ok(!html.includes('href="styles.css"'), 'CSS is inlined, not linked');
   assert.ok(!html.includes('src="app.js"'), 'JS is inlined, not linked');
+  assert.ok(!/<a [^>]*href="\?/.test(html), 'no query-string links: the preview keeps its state inside the page');
   assert.ok(html.includes(readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8').trim()), 'styles.css inlined whole');
 
   const config = configFrom(html);
@@ -195,7 +236,8 @@ test('build renders the preview as an artifact fragment with embedded mode, link
   const data = dataFrom(html);
   assert.equal(data.items.length, 6);
   assert.ok(data.items.every((i) => i.th === null), 'with --no-thumbs the preview has no thumbnails at all');
-  assert.ok(!html.includes('data:image'));
+  assert.ok(!('images' in data), 'and no images table');
+  assert.deepEqual(embeddedImagesOutsideGlyphs(html), [], 'nothing but the toggle glyphs is embedded');
   assert.equal(result.hosted, null);
   assert.ok(result.preview);
   assert.equal(result.preview.embedded, 0);
@@ -242,7 +284,9 @@ test('build renders both targets by default and survives an empty data directory
   assert.equal(result.preview.items, 0);
   const html = readFileSync(path.join(out, 'dist', 'index.html'), 'utf8');
   assert.deepEqual(dataFrom(html).items, []);
-  assert.ok(html.includes('Nothing matches this selection.'), 'the empty state text is in the markup');
+  assert.ok(html.includes('No content in this category yet.'), 'the empty state text is in the markup');
+  assert.ok(html.includes('id="clear-filters"'), 'with its Clear filters button');
+  assertNoWebFont(readFileSync(path.join(out, 'preview.html'), 'utf8'), 'empty preview');
 });
 
 test('build copies nothing but the site assets into dist', async () => {
@@ -303,73 +347,225 @@ test('strings.js has the same keys in English and French and app.js only asks fo
   }
   const untranslated = keys.filter((key) => strings.fr[key] === strings.en[key]);
   assert.ok(untranslated.length <= Math.ceil(keys.length * 0.15), 'French is translated, not copied: ' + untranslated.join(', '));
+  // The {n}, {title}, {date}, {category} placeholders t() fills must be the same in both languages.
+  const placeholders = (text) => [...text.matchAll(/\{(\w+)\}/g)].map((m) => m[1]).sort().join(',');
+  for (const key of keys) {
+    assert.equal(placeholders(strings.fr[key]), placeholders(strings.en[key]), key + ' has the same placeholders in French');
+    assert.ok(!/<|>/.test(strings.en[key] + strings.fr[key]), key + ' is plain text, no markup');
+  }
   const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
   const used = new Set();
   for (const match of app.matchAll(/\bt\(\s*'([a-zA-Z0-9_]+)'/g)) used.add(match[1]);
   for (const key of used) assert.ok(key in strings.en, 'app.js uses an unknown string key: ' + key);
-  const template = readFileSync(path.join(SITE_DIR, 'index.html'), 'utf8');
+  const template = readTemplate();
+  const inTemplate = new Set();
   for (const match of template.matchAll(/data-t(?:-[a-z-]+)?="([a-zA-Z0-9_]+)"/g)) {
     assert.ok(match[1] in strings.en, 'index.html uses an unknown string key: ' + match[1]);
+    inTemplate.add(match[1]);
   }
+  // Every key is reachable: asked for by t('key'), named in a data-t attribute, or listed as a
+  // quoted key in one of app.js's lookup tables (TYPE_LABELS, STATUS_LABELS, LIVE_LABELS…).
+  const quoted = new Set([...app.matchAll(/'([a-zA-Z0-9_]+)'/g)].map((m) => m[1]));
+  const unused = keys.filter((key) => !used.has(key) && !inTemplate.has(key) && !quoted.has(key));
+  assert.deepEqual(unused, [], 'strings.js has keys nothing uses');
 });
 
 test('the template is a body fragment that app.js can fill', () => {
-  const template = readFileSync(path.join(SITE_DIR, 'index.html'), 'utf8');
+  const template = readTemplate();
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
   assert.ok(template.trimStart().startsWith('<!--'), 'starts with the fragment comment');
-  for (const forbidden of [/<html[\s>]/i, /<head[\s>]/i, /<body[\s>]/i, /<!doctype/i, /<script[\s>]/i, /<style[\s>]/i]) {
+  for (const forbidden of [/<html[\s>]/i, /<head[\s>]/i, /<body[\s>]/i, /<!doctype/i, /<script[\s>]/i, /<style[\s>]/i, /<link[\s>]/i, /<iframe[\s>]/i]) {
     assert.ok(!forbidden.test(template), 'template must not contain ' + forbidden);
   }
-  for (const id of ['site-header', 'brand-link', 'ribbon-categories', 'ribbon-subcategories', 'nav-prev', 'nav-next', 'search-toggle', 'mobile-search', 'subbar', 'tools', 'filter-lang', 'filter-loc', 'type-button', 'type-label', 'search-form', 'search-input', 'profile-button', 'profile-panel', 'panel-filters', 'theme-light', 'theme-dark', 'theme-system', 'subcat-top', 'subcat-bottom', 'feed-heading', 'feed-list', 'feed-panel', 'empty-state', 'result-count', 'feed-sentinel', 'show-more', 'storage-hint', 'manage-section', 'manage-search', 'manage-list', 'manage-cancel', 'manage-save', 'sources-section', 'about-section', 'tpl-article', 'tpl-video', 'tpl-actions', 'tpl-play-icon', 'tpl-gear-icon']) {
-    assert.ok(template.includes('id="' + id + '"'), 'template has #' + id);
+  // Every element app.js looks up by id, and every template it clones, is in the markup (app.js
+  // throws "the page is missing #…" otherwise), and ids are unique.
+  const ids = [...template.matchAll(/\sid="([^"]+)"/g)].map((m) => m[1]);
+  assert.equal(new Set(ids).size, ids.length, 'ids are unique: ' + ids.filter((id, i) => ids.indexOf(id) !== i).join(', '));
+  const looked = [...app.matchAll(/byId\('([^']+)'\)/g)].map((m) => m[1]);
+  assert.ok(looked.length > 60, 'app.js looks its elements up by id');
+  for (const id of looked) assert.ok(ids.includes(id), 'template has #' + id + ' (app.js byId)');
+  for (const id of [...app.matchAll(/cloneTemplate\('([^']+)'\)/g)].map((m) => m[1])) {
+    assert.ok(template.includes('<template id="' + id + '">'), 'template has <template id="' + id + '"> (app.js cloneTemplate)');
   }
-  assert.ok(template.includes('data-slot="account"'), 'account slot for later sign-in');
-  assert.ok(template.includes('aria-haspopup="dialog"'), 'the avatar opens a dialog');
-  assert.ok(!/src="[^"]*\.(svg|png|jpg|webp)"/.test(template) && !template.includes('<use '), 'icons are inline SVG, never external files');
-  for (const href of ['#saved', '#following', '#sources', '#about']) assert.ok(template.includes('href="' + href + '"'), 'settings panel links to ' + href);
-  assert.ok(/aria-disabled="true"/.test(template), 'Like and Comment are rendered disabled');
-  assert.ok(template.includes('aria-live="polite"'));
+  // Version 3 landmarks: the three header bars, the Menu panel, the views and the Settings dialog.
+  for (const id of ['site-header', 'topbar', 'brand-link', 'search-toggle', 'search-form', 'search-input', 'loc-button', 'loc-menu', 'type-button', 'type-glyph', 'type-label', 'avatar-button', 'avatar-menu', 'lang-button', 'lang-list', 'theme-toggle', 'settings-button', 'tabsbar', 'tabs-track', 'menu-button', 'subbar', 'sections-row', 'menu-panel', 'panel-categories', 'panel-more', 'main', 'feed-panel', 'feed-list', 'empty-state', 'feed-end', 'manage-section', 'sources-section', 'about-section', 'toast-region', 'profile-panel', 'theme-light', 'theme-dark', 'theme-system', 'subcat-top', 'subcat-bottom']) {
+    assert.ok(ids.includes(id), 'template has #' + id);
+  }
+  // Every in-template class app.js reaches with find(…, '.x') exists in the markup.
+  for (const cls of new Set([...app.matchAll(/find\([a-zA-Z]+, '\.([a-z0-9-]+)'\)/g)].map((m) => m[1]))) {
+    assert.ok(new RegExp(`class="(?:[^"]* )?${cls}(?: [^"]*)?"`).test(template), 'template has an element with class .' + cls);
+  }
+  // Menus and dialogs are announced as such.
+  assert.ok(/id="avatar-button"[^>]*aria-haspopup="true"[^>]*aria-expanded="false"[^>]*aria-controls="avatar-menu"/.test(template), 'the avatar button controls its menu');
+  assert.ok(/id="loc-button"[^>]*aria-haspopup="true"[^>]*aria-expanded="false"[^>]*aria-controls="loc-menu"/.test(template), 'the location button controls its menu');
+  assert.ok(/id="menu-button"[^>]*aria-expanded="false"[^>]*aria-controls="menu-panel"/.test(template), 'the ≡ button controls the Menu panel');
+  assert.ok(/id="menu-panel" role="dialog" aria-modal="true" aria-labelledby="menu-panel-heading" hidden/.test(template), 'the Menu panel is a labelled modal, hidden at first');
+  assert.ok(/<dialog id="profile-panel"[^>]*aria-labelledby="profile-heading"/.test(template), 'Settings is a labelled <dialog>');
+  assert.ok(template.includes('data-t="signInLater"'), 'the avatar menu keeps the spot for sign-in');
+  // Icons are inline SVG; the only images are the toggle glyph (data URIs) and the item pictures app.js fills.
+  assert.ok(!template.includes('<use '), 'no SVG sprite references');
+  assert.deepEqual([...template.matchAll(/<img\b[^>]*>/g)].map((m) => (/class="([^"]+)"/.exec(m[0]) || [])[1]), ['type-glyph', 'item-img'], 'two <img> elements: the toggle glyph and the article picture');
+  assert.ok(!/\s(?:src|href)="(?:https?:)?\/\//.test(template), 'the template loads nothing and links nowhere outside the page');
+  // In-page view links, the disabled heart, live regions, the removal address.
+  for (const href of ['#saved', '#following', '#live', '#sources', '#about']) assert.ok(template.includes('href="' + href + '"'), 'a link opens ' + href);
+  assert.ok(/class="action action-like" aria-disabled="true" title="Coming later"/.test(template), 'the heart is rendered disabled until accounts exist');
+  assert.ok(/id="toast-region" aria-live="polite"/.test(template), 'toasts are announced politely');
   assert.ok(template.includes('removal@curanet.io'));
   assert.ok(!template.includes('mailto:'), 'the removal address is text, not a mailto link');
   assert.ok(/<ol id="feed-list"[^>]*role="list"/.test(template), 'the feed list keeps its list role when list-style is none');
-  assert.equal((template.match(/<a class="item-link"[^>]*><span class="item-title-text"><\/span><\/a>/g) || []).length, 2, 'both item titles clamp an inner span so the link focus ring is not clipped');
+  // Titles clamp an inner span, so the link's focus outline is never clipped; the article's whole
+  // text block (publisher, title, picture) is one link, the video's title is its own link.
+  assert.ok(/<a class="item-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint">\s*<div class="item-row">[\s\S]*?<span class="publisher-name"><\/span>[\s\S]*?<span class="item-title-text"><\/span>[\s\S]*?<div class="item-thumb">[\s\S]*?<\/a>/.test(template), 'the article link wraps publisher, title and picture');
+  assert.ok(/<h2 class="item-title"><a class="item-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint"><span class="item-title-text"><\/span><\/a><\/h2>/.test(template), 'the video title link wraps the clamped span');
+  // The share menu: Copy Link plus the five services, as links that open a new tab; app.js sets
+  // their addresses.
+  const share = (/<template id="tpl-share-menu">([\s\S]*?)<\/template>/.exec(template) || [])[1] || '';
+  assert.ok(share.includes('class="menu-item share-copy"'), 'Copy Link');
+  for (const service of ['facebook', 'twitter', 'linkedin', 'whatsapp', 'telegram']) {
+    assert.ok(new RegExp(`<a class="menu-item share-${service}" target="_blank" rel="noopener" aria-describedby="new-tab-hint">`).test(share), service + ' is a new-tab link');
+  }
+  assert.ok(!/\shref=/.test(share), 'the share addresses are not hard-coded in the template');
+});
+
+test('the article/video toggle carries the three live PNG glyphs as data URIs, the only images in the template', () => {
+  const template = readTemplate();
+  const glyphs = toggleGlyphs(template);
+  for (const key of ['both', 'videos', 'articles']) {
+    assert.match(glyphs[key], /^data:image\/png;base64,[A-Za-z0-9+/]+=*$/, key + ' is a PNG data URI');
+    const png = Buffer.from(glyphs[key].slice(glyphs[key].indexOf(',') + 1), 'base64');
+    assert.deepEqual([...png.subarray(0, 8)], [0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a], key + ' decodes to a PNG');
+    assert.equal(png.toString('latin1', 12, 16), 'IHDR');
+    assert.deepEqual([png.readUInt32BE(16), png.readUInt32BE(20)], [30, 30], key + ' is the live 30×30 glyph');
+    assert.ok(png.length < 1024, key + ' stays small');
+  }
+  assert.equal(new Set([glyphs.both, glyphs.videos, glyphs.articles]).size, 3, 'three different glyphs');
+  assert.equal(glyphs.src, glyphs.both, 'the first paint shows "Articles and videos"');
+  assert.equal(glyphs.alt, '', 'the glyph is decorative; the button is named by #type-label');
+  assert.ok(/<button type="button" id="type-button"[^>]*data-type="both">\s*<img id="type-glyph"[^>]*>\s*<span class="visually-hidden" id="type-label" aria-live="polite" data-t="showingBoth">/.test(template), 'the button holds the glyph and its spoken label');
+  assert.equal(template.split(glyphs.tag).join('').indexOf('data:'), -1, 'nothing else in the template is embedded');
+  // app.js swaps the src from data-src-<value> for every value of the cycle.
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  assert.ok(app.includes("typeGlyph.getAttribute('data-src-' + state.type)"), 'app.js picks the glyph of the current setting');
+  for (const value of loadHelpers().TYPE_CYCLE) assert.ok(glyphs[value], 'a glyph exists for ' + value);
 });
 
 /*
- * The in-page links (logo, "Back to the feed", the Settings links) are driven by click handlers
- * in app.js rather than by the #hash, because a fragment navigation is swallowed by popstate on
- * the hosted site and is a no-op in the preview once the hash already matches. This checks that
- * the template exposes the hooks and that app.js binds them. Manual check (both outputs, 390 and
- * 1280 px): Settings → About, Sources, Saved and Following each open on one click; "Back to the
- * feed" returns to the feed; from a category the logo returns Home; Live opens on All from
- * Local › News; the hosted address becomes ?view=… with no #hash left behind.
+ * The in-page links (logo, "Back to the feed", the avatar menu's Saved / Following / Live and
+ * footer links, the Menu panel's MORE cells) are driven by click handlers in app.js rather than by
+ * the #hash, because a fragment navigation is swallowed by popstate on the hosted site and is a
+ * no-op in the preview once the hash already matches. This checks that the template exposes the
+ * hooks and that app.js binds them. Manual check (both outputs, 390 and 1280 px): the avatar
+ * menu's rows and the Menu panel's cells each open their view on one click; "Back to the feed"
+ * returns to the feed; from a category the logo returns Home; Live opens on All from a category;
+ * the hosted address becomes ?view=… with no #hash left behind.
  */
 test('the in-page links have the hooks app.js binds click handlers to', () => {
-  const template = readFileSync(path.join(SITE_DIR, 'index.html'), 'utf8');
+  const template = readTemplate();
   const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
-  assert.ok(/<a class="logo" href="#feed" id="brand-link">/.test(template), 'the logo is #brand-link');
-  assert.ok((template.match(/class="back-link" href="#feed"/g) || []).length >= 2, 'Sources and About each have back links');
-  assert.equal((template.match(/class="panel-link"/g) || []).length, 4, 'four Settings links');
+  assert.ok(/<a class="logo" href="#feed" id="brand-link"[^>]*>/.test(template), 'the logo is #brand-link');
+  assert.equal((template.match(/<p class="back-row"><a class="back-link" href="#feed" data-t="backToFeed">/g) || []).length, 2, 'Sources and About each end with a back link under the card');
+  for (const [id, href] of [['menu-saved', '#saved'], ['menu-following', '#following'], ['menu-live', '#live']]) {
+    assert.ok(template.includes(`<a class="menu-item" id="${id}" href="${href}">`), 'the avatar menu links to ' + href);
+  }
+  assert.deepEqual([...template.matchAll(/class="menu-foot-link" href="(#[a-z]+)"/g)].map((m) => m[1]), ['#sources', '#about'], 'the avatar menu footer links Sources and About');
+  const more = (/<div class="cell-grid" id="panel-more">([\s\S]*?)<\/div>/.exec(template) || [])[1] || '';
+  assert.deepEqual([...more.matchAll(/<a class="cell" href="(#[a-z]+)"/g)].map((m) => m[1]), ['#saved', '#following', '#live', '#sources', '#about'], 'the Menu panel\'s MORE cells');
   assert.ok(app.includes("byId('brand-link')") && /brandLink\.addEventListener\('click'/.test(app), 'app.js binds the logo');
   assert.ok(/querySelectorAll\('\.back-link'\)/.test(app), 'app.js binds the back links');
-  assert.ok(/querySelectorAll\('\.panel-link'\)/.test(app) && /function onPanelLinkClick\(/.test(app), 'app.js binds the panel links');
+  assert.ok(/function bindInPageLinks\(root\) \{\s*var links = root\.querySelectorAll\('a\[href\^="#"\]'\);/.test(app), 'bindInPageLinks binds every #link under a root');
+  assert.ok(app.includes('bindInPageLinks(avatarMenu);') && app.includes('bindInPageLinks(panelMore);'), 'app.js binds the avatar menu and the Menu panel links');
+  assert.ok(/function onMenuLinkClick\(event, link\) \{[\s\S]*?event\.preventDefault\(\);/.test(app), 'the click opens the view instead of following the #hash');
   assert.ok(/function onPopState\(\) \{\s*if \(viewFromHash\(\)\) \{\s*onHashChange\(\);\s*return;/.test(app), 'popstate hands a #hash to the hash handler');
   assert.ok(/if \(next === 'live' && view !== 'live'\) state\.s = '';/.test(app), 'entering Live resets the section to All');
 });
 
-test('styles.css declares the theme tokens in the artifact shape and the Curanet fonts', () => {
+/**
+ * The three token blocks of styles.css: bare :root (light), the dark block used when following a
+ * dark system, and the dark block used when Dark is chosen.
+ */
+function themeBlocks() {
   const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
-  assert.ok(/^:root\s*\{/m.test(css), 'bare :root block');
-  assert.ok(/@media \(prefers-color-scheme: dark\)\s*\{\s*:root:not\(\[data-theme="light"\]\)\s*\{[\s\S]*?color-scheme: dark/.test(css));
-  assert.ok(/:root\[data-theme="dark"\]\s*\{[\s\S]*?color-scheme: dark/.test(css));
-  assert.ok(/body\s*\{[^}]*background: var\(--/.test(css), 'body background from a token');
-  assert.ok(css.includes('"Roboto"') && !css.includes('Bricolage') && !css.includes('Source Sans'), 'Roboto only');
-  for (const token of ['--bg: #f8fbfe', '--primary: #0081fe', '--toggle: #1d52de', '--divider: #e5e7eb', '--bg: #0f1419', '--primary: #3b9dff']) {
-    assert.ok(css.includes(token), 'token ' + token);
+  return {
+    css,
+    light: (/^:root\s*\{([\s\S]*?)\n\}/m.exec(css) || [])[1] || '',
+    systemDark: (/@media \(prefers-color-scheme: dark\)\s*\{\s*:root:not\(\[data-theme="light"\]\)\s*\{([\s\S]*?)\n {2}\}\n\}/.exec(css) || [])[1] || '',
+    dark: (/^:root\[data-theme="dark"\]\s*\{([\s\S]*?)\n\}/m.exec(css) || [])[1] || '',
+  };
+}
+
+/** @returns {Record<string, string>} custom property → value, from one token block */
+function tokensOf(block) {
+  /** @type {Record<string, string>} */
+  const out = {};
+  for (const match of block.matchAll(/(--[a-z0-9-]+):\s*([^;]+);/g)) out[match[1]] = match[2].trim();
+  return out;
+}
+
+test('styles.css declares the theme tokens in the artifact shape and uses the system font stack', () => {
+  const { css, light, systemDark, dark } = themeBlocks();
+  assert.ok(light && systemDark && dark, 'the three token blocks are present');
+  assert.ok(/color-scheme: light/.test(light) && /color-scheme: dark/.test(systemDark) && /color-scheme: dark/.test(dark));
+  const lightTokens = tokensOf(light);
+  const darkTokens = tokensOf(dark);
+  assert.deepEqual(tokensOf(systemDark), darkTokens, 'following a dark system and choosing Dark give the same palette');
+  const colourNames = Object.keys(lightTokens).filter((name) => /^(#|rgba?\()/.test(lightTokens[name]));
+  for (const name of colourNames) assert.ok(name in darkTokens, name + ' has a dark value');
+  for (const name of Object.keys(darkTokens)) assert.ok(name in lightTokens, name + ' (dark) has a light value');
+  assert.ok(/body\s*\{[^}]*background: var\(--page\)/.test(css), 'body background from a token');
+  // Version 3 palette (docs/LAYOUT.md).
+  for (const [name, value] of [['--bar', '#305dd2'], ['--page', '#f9fafb'], ['--card', '#ffffff'], ['--text', '#101828'], ['--publisher', '#364153'], ['--muted', '#6a7282'], ['--card-border', '#e5e7eb'], ['--divider', '#f3f4f6'], ['--control-hover', '#a7c4ff'], ['--avatar-bg', '#e5e7eb']]) {
+    assert.equal(lightTokens[name], value, 'light ' + name);
   }
-  assert.ok(css.includes('(max-width: 920px)'), 'the phone layout starts at 920px');
-  assert.ok(css.includes('prefers-reduced-motion'));
+  for (const [name, value] of [['--bar', '#214fcc'], ['--page', '#030712'], ['--card', '#101828'], ['--text', '#f9fafb'], ['--publisher', '#f3f4f6'], ['--primary', '#6393ff'], ['--primary-line', '#4677ed'], ['--menu-bg', '#171717'], ['--toast-bg', '#0a0a0a'], ['--avatar-bg', '#364153']]) {
+    assert.equal(darkTokens[name], value, 'dark ' + name);
+  }
+  // The system font stack, nothing loaded.
+  assert.equal(lightTokens['--font'], 'ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"');
+  assert.ok(/body\s*\{[^}]*font-family: var\(--font\);[^}]*-webkit-font-smoothing: antialiased;/.test(css), 'body uses the stack, antialiased');
+  assert.ok(!/@font-face|@import|url\(/i.test(css), 'no font face, import or external resource');
+  assert.ok(!/Geist|Roboto|Bricolage|Source Sans/.test(css), 'no web font family is named');
+  // Breakpoints, the main container, motion, focus, safe areas.
+  for (const query of ['(min-width: 640px)', '(min-width: 768px)', '(max-width: 639px)', '(prefers-reduced-motion: reduce)']) assert.ok(css.includes(query), query);
+  assert.ok(/\.main-container \{ max-width: 896px; padding: 16px 0; \}/.test(css), 'the main container is at most 896px, no side padding on phones');
+  assert.ok(/@media \(min-width: 640px\) \{\s*\.main-container \{ padding: 16px; \}/.test(css), 'and 16px on every side from 640px (card 864px wide at 1280)');
+  assert.ok(/\.container \{[^}]*max-width: 928px;[^}]*padding: 0 16px;/.test(css), 'the bars share an 896px container inside 16px gutters');
   assert.ok(css.includes(':focus-visible'));
-  assert.ok(css.includes('env(safe-area-inset-top, 0px)'));
+  assert.ok(/\.menu-item:hover \.menu-hint, \.menu-item:focus-visible \.menu-hint \{ color: inherit; \}/.test(css), 'the Language hint takes the hovered row\'s ink');
+  assert.ok(css.includes('env(safe-area-inset-bottom, 0px)'), 'the docked grey row clears the home indicator');
+  assert.ok(/@media \(prefers-reduced-motion: reduce\)\s*\{[^}]*animation: none !important;[^}]*transition: none !important;[\s\S]*?\.site-header\.is-hidden \{ top: 0; \}/.test(css), 'reduced motion stops animations and keeps the header in place');
+});
+
+test('app.js fills the template strings before it writes state-dependent texts', () => {
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  const init = (/function init\(\) \{([\s\S]*?)\n {2}\}\n/.exec(app) || [])[1] || '';
+  const stringsAt = init.indexOf('applyStrings(document);');
+  assert.ok(stringsAt >= 0, 'init applies the strings');
+  // applyTheme writes "Light Mode" into the theme row on a dark page; applying the strings
+  // afterwards would put the "Dark Mode" fallback back.
+  for (const call of ['applyTheme();', 'syncControls();', 'buildLocMenu();', 'buildLangList();', 'showView(view, false);']) {
+    const at = init.indexOf(call);
+    assert.ok(at > stringsAt, call + ' runs after applyStrings(document)');
+  }
+  assert.ok(/function syncThemeToggle\(\) \{[\s\S]*?themeToggleLabel\.textContent = t\(dark \? 'lightMode' : 'darkMode'\);/.test(app), 'the theme row names the theme it switches to');
+});
+
+test('a menu that opens focuses its current choice only when that row is visible', () => {
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  const open = (/open: function \(\) \{([\s\S]*?)\n {6}\},/.exec(app) || [])[1] || '';
+  assert.ok(open, 'createMenu has an open()');
+  // The avatar menu's current language is in the collapsed Language list; querying the whole
+  // menu for [aria-current] would pick that hidden row and focus would never enter the menu.
+  assert.ok(!open.includes("menu.querySelector('[aria-current=\"true\"]')"), 'no lookup of hidden rows');
+  assert.ok(/var items = focusableIn\(menu\);\s*var current = items\.filter\(/.test(open), 'the current row is picked among the focusable, visible rows');
+  assert.ok(/focusOn\(current \|\| items\[0\] \|\| menu, true\);/.test(open), 'else the first row');
+});
+
+test('every state class app.js toggles is styled', () => {
+  const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  const toggled = new Set([...app.matchAll(/classList\.(?:add|remove|toggle)\('([a-z0-9-]+)'/g)].map((m) => m[1]));
+  assert.ok(toggled.size >= 8, 'app.js toggles state classes');
+  for (const cls of toggled) assert.ok(new RegExp(`\\.${cls}\\b`).test(css), 'styles.css styles .' + cls);
 });
 
 // ------------------------------------------------------------------ the pure helpers in app.js
@@ -390,12 +586,16 @@ function loadHelpers() {
   return context.CURANET_HELPERS;
 }
 
-test('cycleTypeValue runs both → articles → videos → both', () => {
-  const { cycleTypeValue } = loadHelpers();
-  assert.equal(cycleTypeValue('both'), 'articles');
-  assert.equal(cycleTypeValue('articles'), 'videos');
-  assert.equal(cycleTypeValue('videos'), 'both');
+test('cycleTypeValue runs both → videos → articles → both, as on the live site', () => {
+  const { cycleTypeValue, TYPE_CYCLE } = loadHelpers();
+  assert.deepEqual([...TYPE_CYCLE], ['both', 'videos', 'articles']);
+  assert.equal(cycleTypeValue('both'), 'videos');
+  assert.equal(cycleTypeValue('videos'), 'articles');
+  assert.equal(cycleTypeValue('articles'), 'both');
   assert.equal(cycleTypeValue('nonsense'), 'both', 'an unknown value restarts the cycle');
+  let value = 'both';
+  for (let i = 0; i < 3; i += 1) value = cycleTypeValue(value);
+  assert.equal(value, 'both', 'three clicks come back to the start');
 });
 
 test('formatRelativeOrDate is relative for 7 days, singular at 1, then an absolute date', () => {
@@ -421,25 +621,49 @@ test('formatRelativeOrDate is relative for 7 days, singular at 1, then an absolu
   assert.deepEqual(formatRelativeOrDate(at(-60 * 1000), now), { kind: 'now' }, 'a date slightly in the future reads as just now');
 });
 
-test('monogramFor gives the first character and a stable tone from 0 to 7', () => {
-  const { monogramFor } = loadHelpers();
-  assert.equal(monogramFor('bbc', 'BBC News').letter, 'B');
-  assert.equal(monogramFor('le-devoir', 'le devoir').letter, 'L', 'upper-cased');
-  assert.equal(monogramFor('x', '  ').letter, '•', 'no name');
-  assert.equal(monogramFor('x', '').letter, '•', 'empty name');
-  assert.equal(monogramFor('x', '🎵 Music Channel').letter, '🎵', 'a whole emoji, not half a surrogate pair');
-  assert.equal(monogramFor('x', '𝕏 News').letter, '𝕏');
-  assert.equal(monogramFor('x', 'Ævar').letter, 'Æ');
-  assert.equal(monogramFor('x', 'école').letter, 'É', 'a letter keeps its combining accent');
-  assert.ok(monogramFor('x', '👨‍👩‍👧 Family').letter.isWellFormed(), 'never a lone surrogate');
-  const first = monogramFor('the-tyee', 'The Tyee').tone;
-  assert.equal(monogramFor('the-tyee', 'The Tyee').tone, first, 'same source, same tone');
-  for (const id of ['a', 'bb', 'cbc-news', 'globe-politics', 'yt-channel-1', 'z'.repeat(50)]) {
-    const tone = monogramFor(id, id).tone;
-    assert.ok(Number.isInteger(tone) && tone >= 0 && tone <= 7, id + ' tone in range');
+test('shareLinks gives the five public share addresses with the original link and title, encoded', () => {
+  const { shareLinks } = loadHelpers();
+  const url = 'https://gazette.example/news/harbour reopens?from=rss&id=7#top';
+  const title = 'Harbour & "pilings": 100% fixed? Ça va + <b>';
+  const u = encodeURIComponent(url);
+  const t = encodeURIComponent(title);
+  const links = Object.assign({}, shareLinks(url, title));
+  assert.deepEqual(links, {
+    facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + u,
+    twitter: 'https://twitter.com/intent/tweet?url=' + u + '&text=' + t,
+    linkedin: 'https://www.linkedin.com/shareArticle?mini=true&url=' + u + '&title=' + t,
+    whatsapp: 'https://wa.me/?text=' + t + '%20' + u,
+    telegram: 'https://t.me/share/url?url=' + u + '&text=' + t,
+  });
+  const hosts = { facebook: 'www.facebook.com', twitter: 'twitter.com', linkedin: 'www.linkedin.com', whatsapp: 'wa.me', telegram: 't.me' };
+  for (const [service, address] of Object.entries(links)) {
+    const parsed = new URL(address);
+    assert.equal(parsed.protocol, 'https:', service + ' is https');
+    assert.equal(parsed.hostname, hosts[service], service + ' goes to the service itself');
+    assert.equal(parsed.hash, '', service + ': the original link\'s #fragment stays inside the parameter');
+    assert.ok(!/[\s"<>]/.test(address), service + ': nothing unencoded');
   }
-  const tones = new Set(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l'].map((id) => monogramFor(id, id).tone));
-  assert.ok(tones.size > 1, 'different sources spread over several tones');
+  // Decoding the parameters gives back exactly the original link and title.
+  const param = (address, name) => new URL(address).searchParams.get(name);
+  assert.equal(param(links.facebook, 'u'), url);
+  assert.equal(param(links.twitter, 'url'), url);
+  assert.equal(param(links.twitter, 'text'), title);
+  assert.equal(param(links.linkedin, 'url'), url);
+  assert.equal(param(links.linkedin, 'title'), title);
+  assert.equal(param(links.linkedin, 'mini'), 'true');
+  assert.equal(param(links.whatsapp, 'text'), title + ' ' + url);
+  assert.equal(param(links.telegram, 'url'), url);
+  assert.equal(param(links.telegram, 'text'), title);
+  // An item without a title still gives working addresses.
+  const bare = shareLinks('https://a.example/x', '');
+  assert.equal(new URL(bare.twitter).searchParams.get('url'), 'https://a.example/x');
+  assert.equal(new URL(bare.whatsapp).searchParams.get('text'), ' https://a.example/x');
+  // app.js shares the item's original address (the article, or the video's YouTube page), never a Curanet page.
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  assert.ok(/function shareUrl\(item\) \{\s*return item\.ty === 'v' \? watchUrl\(item\) : item\.l;\s*\}/.test(app), 'shareUrl is the original link');
+  assert.ok(/var url = shareUrl\(item\);[\s\S]{0,80}var links = H\.shareLinks\(url, item\.t\);/.test(app), 'the share menu is built from the original link and title');
+  assert.ok(/copyText\(url, /.test(app), 'Copy Link copies the same original link');
+  assert.ok(!/curanet\.io\/content/.test(app), 'no Curanet detail page address');
 });
 
 test('fold lower-cases and strips accents for search', () => {
@@ -449,39 +673,102 @@ test('fold lower-cases and strips accents for search', () => {
   assert.equal(fold(null), '');
 });
 
-test('the dark palette and the monogram tones meet 4.5:1 in both themes', () => {
-  const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
-  const blocks = {
-    light: (/:root\s*\{([\s\S]*?)\n\}/.exec(css) || [])[1] || '',
-    dark: (/:root\[data-theme="dark"\]\s*\{([\s\S]*?)\n\}/.exec(css) || [])[1] || '',
+/*
+ * WCAG AA for the version 3 palette, in light and in dark: 4.5:1 for text, 3:1 for icons, the
+ * focus ring and other non-text parts (1.4.3, 1.4.11). Translucent tokens (the dark outline
+ * buttons, the hover tints) are composited over the surface they sit on before measuring.
+ */
+test('the version 3 palette meets WCAG AA in light and dark', () => {
+  const { light, dark } = themeBlocks();
+  /** @returns {{r: number, g: number, b: number, a: number}|null} */
+  const parse = (value) => {
+    if (typeof value !== 'string') return null;
+    let m = /^#([0-9a-f]{2})([0-9a-f]{2})([0-9a-f]{2})$/i.exec(value);
+    if (m) return { r: parseInt(m[1], 16), g: parseInt(m[2], 16), b: parseInt(m[3], 16), a: 1 };
+    m = /^rgba?\(\s*(\d+),\s*(\d+),\s*(\d+)(?:,\s*([\d.]+))?\s*\)$/.exec(value);
+    return m ? { r: +m[1], g: +m[2], b: +m[3], a: m[4] === undefined ? 1 : +m[4] } : null;
   };
-  const luminance = (hex) => {
-    const [r, g, b] = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255).map((c) => (c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4));
-    return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+  const over = (top, bottom) => ({ r: top.r * top.a + bottom.r * (1 - top.a), g: top.g * top.a + bottom.g * (1 - top.a), b: top.b * top.a + bottom.b * (1 - top.a), a: 1 });
+  const luminance = ({ r, g, b }) => {
+    const [lr, lg, lb] = [r, g, b].map((c) => c / 255).map((c) => (c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4));
+    return 0.2126 * lr + 0.7152 * lg + 0.0722 * lb;
   };
-  const contrast = (a, b) => { const [l1, l2] = [luminance(a), luminance(b)].sort((x, y) => y - x); return (l1 + 0.05) / (l2 + 0.05); };
-  for (const [name, block] of Object.entries(blocks)) {
-    const tokens = {};
-    for (const match of block.matchAll(/(--[a-z0-9-]+):\s*(#[0-9a-f]{6})/g)) tokens[match[1]] = match[2];
-    const pairs = [
-      ['--text', '--surface'], ['--text', '--bg'], ['--text-muted', '--surface'], ['--text-muted', '--surface-2'], ['--text-muted', '--bg'],
-      ['--text-faint', '--bg'], ['--text-faint', '--surface'], ['--primary-text', '--surface'], ['--primary-text', '--surface-2'], ['--primary-text', '--bg'],
-      ['--on-primary', '--primary-text'], ['--on-toggle', '--toggle'], ['--text', '--primary-soft'],
-    ];
-    for (let i = 0; i < 8; i += 1) pairs.push([`--tone-${i}-fg`, `--tone-${i}-bg`]);
-    for (const [fg, bg] of pairs) {
-      assert.ok(tokens[fg] && tokens[bg], `${name}: ${fg} and ${bg} are hex tokens`);
-      const ratio = contrast(tokens[fg], tokens[bg]);
-      assert.ok(ratio >= 4.5, `${name}: ${fg} on ${bg} is ${ratio.toFixed(2)}:1, below 4.5:1`);
+  const ratio = (a, b) => { const [l1, l2] = [luminance(a), luminance(b)].sort((x, y) => y - x); return (l1 + 0.05) / (l2 + 0.05); };
+
+  // [foreground, background, minimum, what it is, surface under a translucent background, foreground opacity]
+  /** @type {Array<[string, string, number, string, (string|undefined)?, number?]>} */
+  const pairs = [
+    // The card and the feed.
+    ['--text', '--card', 4.5, 'item title on the card'],
+    ['--publisher', '--card', 4.5, 'publisher name on the card'],
+    ['--muted', '--card', 4.5, 'time, "You\'ve reached the end", empty text on the card'],
+    ['--muted', '--page', 4.5, 'hints on the page background'],
+    ['--primary', '--card', 4.5, 'title hover, text buttons and links on the card'],
+    // The header bars.
+    ['--on-bar', '--bar', 4.5, 'white wordmark, labels and icons on the bar blue'],
+    ['--control-hover-ink', '--control-hover', 4.5, 'icon and label of a hovered control on the blue bar'],
+    ['--primary', '--card', 4.5, 'active tab text on the tabs bar'],
+    ['--tab-ink', '--card', 4.5, 'inactive tab text and the ≡ glyph on the tabs bar'],
+    ['--primary-line', '--card', 3, 'active tab underline on the tabs bar'],
+    ['--text-2', '--row-bg', 4.5, 'inactive link on the grey row'],
+    ['--primary', '--row-bg', 4.5, 'active and hovered link on the grey row'],
+    ['--primary-line', '--row-bg', 3, 'active link underline on the grey row'],
+    ['--avatar-ink', '--avatar-bg', 3, 'avatar glyph on its circle (the glyph identifies the button)'],
+    // The action row.
+    ['--action-ink', '--outline-bg', 4.5, 'Save / Share / heart ink on the outline button', '--card'],
+    ['--save-hover', '--save-hover-bg', 4.5, 'hovered Save', '--card'],
+    ['--share-hover', '--share-hover-bg', 4.5, 'hovered Share', '--card'],
+    // Menus (location, avatar, share), the Settings dialog and the toasts.
+    ['--menu-ink', '--menu-bg', 4.5, 'menu text on the menu'],
+    ['--menu-hover-ink', '--menu-hover', 4.5, 'hovered menu row'],
+    ['--menu-icon', '--menu-bg', 3, 'menu icon and check on the menu'],
+    ['--menu-icon', '--menu-hover', 3, 'menu icon on a hovered row'],
+    ['--menu-hint', '--menu-bg', 4.5, 'the Language hint ("All") on the menu'],
+    ['--menu-title', '--menu-bg', 4.5, 'avatar menu heading'],
+    ['--label', '--menu-bg', 4.5, 'avatar menu subtitle'],
+    ['--muted', '--menu-bg', 4.5, 'avatar menu footer and dialog hints'],
+    ['--primary', '--menu-bg', 4.5, 'avatar menu footer links'],
+    ['--text', '--menu-bg', 4.5, 'Settings heading and legends'],
+    ['--menu-ink', '--toast-bg', 4.5, 'toast title'],
+    ['--menu-ink', '--toast-bg', 4.5, 'toast description at 90 % opacity', undefined, 0.9],
+    ['--menu-ink', '--input-bg', 4.5, 'typed search words'],
+    ['--placeholder', '--input-bg', 4.5, 'search placeholder'],
+    ['--muted', '--input-bg', 3, 'magnifier inside the search field'],
+    // The Menu panel and the pages.
+    ['--cell-ink', '--fill', 4.5, 'Menu panel cell label'],
+    ['--on-bar', '--bar', 4.5, 'hovered Menu panel cell and the primary button'],
+    ['--on-bar', '--primary-hover', 4.5, 'hovered primary button'],
+    ['--label', '--panel-bg', 4.5, 'Menu panel group headings'],
+    ['--badge-ink', '--badge-bg', 4.5, 'Manage Following count badge'],
+    ['--text-2', '--fill', 4.5, 'unpressed All / Following pill'],
+    ['--primary', '--fill', 4.5, 'removal address on its chip'],
+    ['--check-border', '--check-bg', 3, 'unchecked checkbox border'],
+    ['--primary-line', '--card', 3, 'checked checkbox on the card'],
+    ['--bar', '--on-bar', 4.5, 'skip link'],
+    // Focus (3:1): the ring on the card, the page, the grey row and menus; white on the blue bars.
+    ['--focus', '--card', 3, 'focus ring against the card and the tabs bar'],
+    ['--focus', '--page', 3, 'focus ring against the page'],
+    ['--focus', '--row-bg', 3, 'focus ring against the grey row'],
+    ['--focus', '--menu-bg', 3, 'focus ring inside a menu or the dialog'],
+    ['--focus', '--fill', 3, 'focus ring on a Menu panel cell'],
+    ['--on-bar', '--bar', 3, 'focus outline (white) on the blue bars'],
+  ];
+  for (const [theme, block] of [['light', light], ['dark', dark]]) {
+    const tokens = tokensOf(block);
+    const colour = (name) => {
+      const value = parse(tokens[name]);
+      assert.ok(value, `${theme}: ${name} is a colour token (${tokens[name]})`);
+      return value;
+    };
+    for (const [fg, bg, min, what, base, alpha] of pairs) {
+      let back = colour(bg);
+      if (back.a < 1) back = over(back, colour(base || '--card'));
+      let fore = colour(fg);
+      if (alpha !== undefined) fore = { ...fore, a: fore.a * alpha };
+      if (fore.a < 1) fore = over(fore, back);
+      const value = ratio(fore, back);
+      assert.ok(value >= min, `${theme}: ${what} (${fg} on ${bg}) is ${value.toFixed(2)}:1, below ${min}:1`);
     }
-    assert.ok(contrast(tokens['--primary'], tokens['--surface']) >= 3, `${name}: the blue underline and icons reach 3:1 on white`);
-    // Non-text contrast (WCAG 1.4.11, 3:1): the avatar silhouette on its disc and on the bar, the
-    // unchecked checkbox border on the accordion body, the play triangle on its fixed white circle.
-    for (const [fg, bg] of [['--avatar-ink', '--avatar-bg'], ['--avatar-ink', '--surface'], ['--text-faint', '--surface-2']]) {
-      assert.ok(contrast(tokens[fg], tokens[bg]) >= 3, `${name}: ${fg} on ${bg} is below 3:1`);
-    }
-    assert.ok(contrast(tokens['--play-glyph'], '#ffffff') >= 3, `${name}: the play triangle reaches 3:1 on its white circle`);
-    assert.ok(contrast(tokens['--primary-strong'], tokens['--primary-soft']) >= 4.5, `${name}: the removal address reaches 4.5:1 on its chip`);
   }
 });
 

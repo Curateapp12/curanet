@@ -60,23 +60,23 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * The first user-perceived character of a text (a whole emoji or a letter with its accents),
-   * never half of a surrogate pair. Empty for an empty text.
-   * @param {string} text
-   * @returns {string}
+   * The share menu's five services, each a plain link to the service's public share address
+   * carrying the item's original link and title (encoded). Nothing is loaded from the services;
+   * the visitor's browser opens the address in a new tab.
+   * @param {string} url     The original article, or the YouTube watch page of a video.
+   * @param {string} title
+   * @returns {{facebook: string, twitter: string, linkedin: string, whatsapp: string, telegram: string}}
    */
-  function firstGrapheme(text) {
-    if (!text) return '';
-    try {
-      if (typeof Intl !== 'undefined' && typeof Intl.Segmenter === 'function') {
-        var first = new Intl.Segmenter(undefined, { granularity: 'grapheme' }).segment(text)[Symbol.iterator]().next();
-        if (!first.done && first.value && first.value.segment) return first.value.segment;
-      }
-    } catch (e) {
-      // Fall back to code points below.
-    }
-    var points = Array.from(text);
-    return points.length ? points[0] : '';
+  function shareLinks(url, title) {
+    var u = encodeURIComponent(String(url || ''));
+    var text = encodeURIComponent(String(title || ''));
+    return {
+      facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + u,
+      twitter: 'https://twitter.com/intent/tweet?url=' + u + '&text=' + text,
+      linkedin: 'https://www.linkedin.com/shareArticle?mini=true&url=' + u + '&title=' + text,
+      whatsapp: 'https://wa.me/?text=' + text + '%20' + u,
+      telegram: 'https://t.me/share/url?url=' + u + '&text=' + text,
+    };
   }
 
   /**
@@ -94,7 +94,7 @@ var CURANET_HELPERS = (function () {
     return out;
   }
 
-  return { cycleTypeValue: cycleTypeValue, formatRelativeOrDate: formatRelativeOrDate, firstGrapheme: firstGrapheme, fold: fold, TYPE_CYCLE: TYPE_CYCLE };
+  return { cycleTypeValue: cycleTypeValue, formatRelativeOrDate: formatRelativeOrDate, shareLinks: shareLinks, fold: fold, TYPE_CYCLE: TYPE_CYCLE };
 })();
 /* == pure helpers end == */
 
@@ -683,7 +683,6 @@ var CURANET_HELPERS = (function () {
   function applySubcatBarSetting() {
     var bottom = settings.subcatBar === 'bottom';
     document.body.classList.toggle('subbar-bottom', bottom);
-    document.body.classList.toggle('subcat-bottom', bottom);
   }
 
   /** @returns {boolean} true when the address carries any filter, valid or not. */
@@ -882,8 +881,10 @@ var CURANET_HELPERS = (function () {
         openMenu = controller;
         if (hooks && hooks.onOpen) hooks.onOpen();
         if (siteHeader.contains(menu)) setHeaderHidden(false);
-        var current = /** @type {HTMLElement|null} */ (menu.querySelector('[aria-current="true"]'));
+        // Focus the current choice when it is visible (the avatar menu's current language sits in
+        // the collapsed Language list), otherwise the first row.
         var items = focusableIn(menu);
+        var current = items.filter(function (item) { return item.getAttribute('aria-current') === 'true'; })[0];
         focusOn(current || items[0] || menu, true);
       },
       close: function (returnFocus) {
@@ -1384,9 +1385,9 @@ var CURANET_HELPERS = (function () {
     menuButton.setAttribute('aria-expanded', 'true');
     menuButton.setAttribute('aria-label', t('closeMenu'));
     menuButton.title = t('closeMenu');
+    // The class on both elements stops the page behind from scrolling (styles.css).
     document.body.classList.add('menu-open');
     document.documentElement.classList.add('menu-open');
-    document.documentElement.style.overflow = 'hidden';
     setHeaderHidden(false);
     focusOn(menuPanelHeading, true);
   }
@@ -1400,7 +1401,6 @@ var CURANET_HELPERS = (function () {
     menuButton.title = t('menu');
     document.body.classList.remove('menu-open');
     document.documentElement.classList.remove('menu-open');
-    document.documentElement.style.overflow = '';
     if (returnFocus) focusOn(menuButton, true);
   }
 
@@ -1560,24 +1560,6 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * The five share addresses, each carrying the item's original link and title.
-   * @param {string} url
-   * @param {string} title
-   * @returns {Record<string, string>}
-   */
-  function shareLinks(url, title) {
-    var u = encodeURIComponent(url);
-    var text = encodeURIComponent(title);
-    return {
-      facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + u,
-      twitter: 'https://twitter.com/intent/tweet?url=' + u + '&text=' + text,
-      linkedin: 'https://www.linkedin.com/shareArticle?mini=true&url=' + u + '&title=' + text,
-      whatsapp: 'https://wa.me/?text=' + text + '%20' + u,
-      telegram: 'https://t.me/share/url?url=' + u + '&text=' + text,
-    };
-  }
-
-  /**
    * Copy through the asynchronous clipboard when the browser has it, otherwise through a hidden
    * text area and execCommand.
    * @param {string} text
@@ -1627,7 +1609,8 @@ var CURANET_HELPERS = (function () {
     var menu = cloneTemplate('tpl-share-menu');
     menu.hidden = true;
     var url = shareUrl(item);
-    var links = shareLinks(url, item.t);
+    /** @type {Record<string, string>} */
+    var links = H.shareLinks(url, item.t);
     for (var service in links) {
       var link = /** @type {HTMLAnchorElement} */ (find(menu, '.share-' + service));
       link.href = links[service];
@@ -1656,7 +1639,6 @@ var CURANET_HELPERS = (function () {
    */
   function paintSaveButton(save, saved) {
     save.setAttribute('aria-pressed', saved ? 'true' : 'false');
-    save.classList.toggle('is-saved', saved);
     find(save, '.action-label').textContent = t(saved ? 'savedItem' : 'saveItem');
   }
 
@@ -1728,8 +1710,8 @@ var CURANET_HELPERS = (function () {
     fillTime(find(card, '.item-time'), item.p, nowMs);
     var thumb = find(card, '.item-thumb');
     var img = /** @type {HTMLImageElement} */ (find(card, '.item-img'));
+    // No picture, or one that fails to load: the box goes and the title takes the full width.
     var removeThumb = function () {
-      card.classList.add('no-thumb');
       if (thumb.parentNode) thumb.parentNode.removeChild(thumb);
     };
     var src = thumbSrc(item);
@@ -2391,10 +2373,12 @@ var CURANET_HELPERS = (function () {
   }
 
   function init() {
-    applyTheme();
-    applySubcatBarSetting();
+    // Strings first: everything below may replace a data-t text with a state-dependent one (the
+    // theme row reads "Light Mode" on a dark page), and must not be overwritten afterwards.
     if (!document.documentElement.lang) document.documentElement.lang = UI_LANG;
     applyStrings(document);
+    applyTheme();
+    applySubcatBarSetting();
     trackHeaderHeight();
 
     var hadFilters = hasFilterParams();
