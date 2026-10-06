@@ -140,7 +140,7 @@ test('build renders the hosted site as a full document with remote thumbnails an
   assert.ok(/<meta name="viewport" content="[^"]*viewport-fit=cover[^"]*">/.test(html));
   assert.ok(html.includes('<title>Curanet — Curate the internet</title>'));
   assert.ok(html.includes('<meta name="description"'));
-  assert.ok(html.includes('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque'));
+  assert.ok(html.includes('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700'));
   assert.ok(html.includes('<link rel="stylesheet" href="styles.css">'));
   assert.ok(html.includes('<script src="strings.js"></script>'));
   assert.ok(html.includes('<script src="app.js"></script>'));
@@ -314,10 +314,14 @@ test('the template is a body fragment that app.js can fill', () => {
   for (const forbidden of [/<html[\s>]/i, /<head[\s>]/i, /<body[\s>]/i, /<!doctype/i, /<script[\s>]/i, /<style[\s>]/i]) {
     assert.ok(!forbidden.test(template), 'template must not contain ' + forbidden);
   }
-  for (const id of ['ribbon-categories', 'ribbon-subcategories', 'filter-lang', 'filter-loc', 'type-button', 'search-form', 'search-input', 'profile-button', 'profile-panel', 'feed-list', 'empty-state', 'result-count', 'feed-sentinel', 'show-more', 'sources-section', 'about-section', 'tpl-article', 'tpl-video']) {
+  for (const id of ['site-header', 'brand-link', 'ribbon-categories', 'ribbon-subcategories', 'nav-prev', 'nav-next', 'search-toggle', 'mobile-search', 'subbar', 'tools', 'filter-lang', 'filter-loc', 'type-button', 'type-label', 'search-form', 'search-input', 'profile-button', 'profile-panel', 'panel-filters', 'theme-light', 'theme-dark', 'theme-system', 'subcat-top', 'subcat-bottom', 'feed-list', 'feed-panel', 'empty-state', 'result-count', 'feed-sentinel', 'show-more', 'storage-hint', 'manage-section', 'manage-search', 'manage-list', 'manage-cancel', 'manage-save', 'sources-section', 'about-section', 'tpl-article', 'tpl-video', 'tpl-actions', 'tpl-play-icon']) {
     assert.ok(template.includes('id="' + id + '"'), 'template has #' + id);
   }
   assert.ok(template.includes('data-slot="account"'), 'account slot for later sign-in');
+  assert.ok(template.includes('aria-haspopup="dialog"'), 'the avatar opens a dialog');
+  assert.ok(!/src="[^"]*\.(svg|png|jpg|webp)"/.test(template) && !template.includes('<use '), 'icons are inline SVG, never external files');
+  for (const href of ['#saved', '#following', '#sources', '#about']) assert.ok(template.includes('href="' + href + '"'), 'settings panel links to ' + href);
+  assert.ok(/aria-disabled="true"/.test(template), 'Like and Comment are rendered disabled');
   assert.ok(template.includes('aria-live="polite"'));
   assert.ok(template.includes('removal@curanet.io'));
   assert.ok(!template.includes('mailto:'), 'the removal address is text, not a mailto link');
@@ -329,8 +333,127 @@ test('styles.css declares the theme tokens in the artifact shape and the Curanet
   assert.ok(/@media \(prefers-color-scheme: dark\)\s*\{\s*:root:not\(\[data-theme="light"\]\)\s*\{[\s\S]*?color-scheme: dark/.test(css));
   assert.ok(/:root\[data-theme="dark"\]\s*\{[\s\S]*?color-scheme: dark/.test(css));
   assert.ok(/body\s*\{[^}]*background: var\(--/.test(css), 'body background from a token');
-  assert.ok(css.includes('"Bricolage Grotesque"') && css.includes('"Source Sans 3"'));
+  assert.ok(css.includes('"Roboto"') && !css.includes('Bricolage') && !css.includes('Source Sans'), 'Roboto only');
+  for (const token of ['--bg: #f8fbfe', '--primary: #0081fe', '--toggle: #1d52de', '--divider: #e5e7eb', '--bg: #0f1419', '--primary: #3b9dff']) {
+    assert.ok(css.includes(token), 'token ' + token);
+  }
+  assert.ok(css.includes('(max-width: 920px)'), 'the phone layout starts at 920px');
   assert.ok(css.includes('prefers-reduced-motion'));
   assert.ok(css.includes(':focus-visible'));
   assert.ok(css.includes('env(safe-area-inset-top, 0px)'));
+});
+
+// ------------------------------------------------------------------ the pure helpers in app.js
+
+/**
+ * app.js keeps its DOM-free helpers between two marker comments; this evaluates only that block
+ * so the rules can be tested without a browser.
+ */
+function loadHelpers() {
+  const source = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  const start = source.indexOf('/* == pure helpers begin ==');
+  const end = source.indexOf('/* == pure helpers end == */');
+  assert.ok(start >= 0 && end > start, 'app.js has the pure helpers block');
+  const context = {};
+  vm.createContext(context);
+  vm.runInContext(source.slice(start, end), context);
+  assert.ok(context.CURANET_HELPERS, 'the block defines CURANET_HELPERS');
+  return context.CURANET_HELPERS;
+}
+
+test('cycleTypeValue runs both → articles → videos → both', () => {
+  const { cycleTypeValue } = loadHelpers();
+  assert.equal(cycleTypeValue('both'), 'articles');
+  assert.equal(cycleTypeValue('articles'), 'videos');
+  assert.equal(cycleTypeValue('videos'), 'both');
+  assert.equal(cycleTypeValue('nonsense'), 'both', 'an unknown value restarts the cycle');
+});
+
+test('formatRelativeOrDate is relative for 7 days, singular at 1, then an absolute date', () => {
+  const helpers = loadHelpers();
+  // Objects made inside the vm have their own Object prototype; copy them before deepEqual.
+  const formatRelativeOrDate = (iso, now) => Object.assign({}, helpers.formatRelativeOrDate(iso, now));
+  const now = Date.parse('2026-10-06T12:00:00.000Z');
+  const at = (ms) => new Date(now - ms).toISOString();
+  assert.deepEqual(formatRelativeOrDate(at(10 * 1000), now), { kind: 'now' });
+  assert.deepEqual(formatRelativeOrDate(at(44 * 1000), now), { kind: 'now' });
+  assert.deepEqual(formatRelativeOrDate(at(45 * 1000), now), { kind: 'relative', unit: 'minute', n: 1 }, 'never "0 minutes ago"');
+  assert.deepEqual(formatRelativeOrDate(at(5 * 60 * 1000), now), { kind: 'relative', unit: 'minute', n: 5 });
+  assert.deepEqual(formatRelativeOrDate(at(60 * 60 * 1000), now), { kind: 'relative', unit: 'hour', n: 1 });
+  assert.deepEqual(formatRelativeOrDate(at(23.9 * 60 * 60 * 1000), now), { kind: 'relative', unit: 'hour', n: 23 });
+  assert.deepEqual(formatRelativeOrDate(at(24 * 60 * 60 * 1000), now), { kind: 'relative', unit: 'day', n: 1 });
+  assert.deepEqual(formatRelativeOrDate(at(2 * 86400 * 1000), now), { kind: 'relative', unit: 'day', n: 2 });
+  assert.deepEqual(formatRelativeOrDate(at(7 * 86400 * 1000 - 1), now), { kind: 'relative', unit: 'day', n: 6 });
+  const old = formatRelativeOrDate(at(7 * 86400 * 1000), now);
+  assert.equal(old.kind, 'date');
+  assert.equal(old.date.toISOString(), '2026-09-29T12:00:00.000Z');
+  assert.equal(formatRelativeOrDate(at(400 * 86400 * 1000), now).kind, 'date');
+  assert.deepEqual(formatRelativeOrDate('not a date', now), { kind: 'invalid' });
+  assert.deepEqual(formatRelativeOrDate(at(-60 * 1000), now), { kind: 'now' }, 'a date slightly in the future reads as just now');
+});
+
+test('monogramFor gives the first letter and a stable tone from 0 to 7', () => {
+  const { monogramFor } = loadHelpers();
+  assert.equal(monogramFor('bbc', 'BBC News').letter, 'B');
+  assert.equal(monogramFor('le-devoir', 'le devoir').letter, 'L', 'upper-cased');
+  assert.equal(monogramFor('x', '  ').letter, '?', 'no name');
+  const first = monogramFor('the-tyee', 'The Tyee').tone;
+  assert.equal(monogramFor('the-tyee', 'The Tyee').tone, first, 'same source, same tone');
+  for (const id of ['a', 'bb', 'cbc-news', 'globe-politics', 'yt-channel-1', 'z'.repeat(50)]) {
+    const tone = monogramFor(id, id).tone;
+    assert.ok(Number.isInteger(tone) && tone >= 0 && tone <= 7, id + ' tone in range');
+  }
+  const tones = new Set(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l'].map((id) => monogramFor(id, id).tone));
+  assert.ok(tones.size > 1, 'different sources spread over several tones');
+});
+
+test('fold lower-cases and strips accents for search', () => {
+  const { fold } = loadHelpers();
+  assert.equal(fold('Éléphant À Paris'), 'elephant a paris');
+  assert.equal(fold(''), '');
+  assert.equal(fold(null), '');
+});
+
+test('the dark palette and the monogram tones meet 4.5:1 in both themes', () => {
+  const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
+  const blocks = {
+    light: (/:root\s*\{([\s\S]*?)\n\}/.exec(css) || [])[1] || '',
+    dark: (/:root\[data-theme="dark"\]\s*\{([\s\S]*?)\n\}/.exec(css) || [])[1] || '',
+  };
+  const luminance = (hex) => {
+    const [r, g, b] = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255).map((c) => (c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4));
+    return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+  };
+  const contrast = (a, b) => { const [l1, l2] = [luminance(a), luminance(b)].sort((x, y) => y - x); return (l1 + 0.05) / (l2 + 0.05); };
+  for (const [name, block] of Object.entries(blocks)) {
+    const tokens = {};
+    for (const match of block.matchAll(/(--[a-z0-9-]+):\s*(#[0-9a-f]{6})/g)) tokens[match[1]] = match[2];
+    const pairs = [
+      ['--text', '--surface'], ['--text', '--bg'], ['--text-muted', '--surface'], ['--text-muted', '--surface-2'], ['--text-muted', '--bg'],
+      ['--text-faint', '--bg'], ['--text-faint', '--surface'], ['--primary-text', '--surface'], ['--primary-text', '--surface-2'], ['--primary-text', '--bg'],
+      ['--on-primary', '--primary-text'], ['--on-toggle', '--toggle'], ['--text', '--primary-soft'],
+    ];
+    for (let i = 0; i < 8; i += 1) pairs.push([`--tone-${i}-fg`, `--tone-${i}-bg`]);
+    for (const [fg, bg] of pairs) {
+      assert.ok(tokens[fg] && tokens[bg], `${name}: ${fg} and ${bg} are hex tokens`);
+      const ratio = contrast(tokens[fg], tokens[bg]);
+      assert.ok(ratio >= 4.5, `${name}: ${fg} on ${bg} is ${ratio.toFixed(2)}:1, below 4.5:1`);
+    }
+    assert.ok(contrast(tokens['--primary'], tokens['--surface']) >= 3, `${name}: the blue underline and icons reach 3:1 on white`);
+  }
+});
+
+test('index.html only uses string keys for the texts that app.js fills from the template', () => {
+  const template = readFileSync(path.join(SITE_DIR, 'index.html'), 'utf8');
+  const bodyOnly = template.replace(/<svg[\s\S]*?<\/svg>/g, '').replace(/<!--[\s\S]*?-->/g, '');
+  // Every visible word in the template sits inside an element with data-t (or is a fallback for one).
+  const untranslated = [];
+  for (const match of bodyOnly.matchAll(/<([a-z0-9]+)([^>]*)>([^<]+)<\/\1>/g)) {
+    const text = match[3].trim();
+    if (!text) continue;
+    if (/data-t=/.test(match[2])) continue;
+    if (/^(Following \(0\))$/.test(text)) continue; // replaced by app.js before it can be seen
+    untranslated.push(text);
+  }
+  assert.deepEqual(untranslated, [], 'hard-coded text in index.html');
 });

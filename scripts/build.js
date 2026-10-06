@@ -25,7 +25,7 @@ import { downloadThumbnail, embedThumbnails } from '../src/lib/thumbs.js';
 /** @typedef {import('../src/lib/thumbs.js').EmbedStats} EmbedStats */
 
 const SITE_DIR = fileURLToPath(new URL('../src/site/', import.meta.url));
-const FONTS_HREF = 'https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=Source+Sans+3:wght@400;600&display=swap';
+const FONTS_HREF = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap';
 const DESCRIPTION = 'Curanet collects headlines from news feeds and videos from YouTube in one feed you can narrow by category, language, location and type.';
 
 export const DEFAULTS = Object.freeze({
