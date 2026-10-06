@@ -72,3 +72,24 @@ test('slugify makes safe ids', () => {
   assert.equal(slugify('Le Devoir — Économie!'), 'le-devoir-economie');
   assert.equal(slugify('   '), 'source');
 });
+
+test('stripHtml finishes quickly on hostile input and never leaves a tag start', () => {
+  const hostile = ['<'.repeat(200_000), '<img '.repeat(40_000), '<!--'.repeat(50_000), '<script'.repeat(30_000), '<b 5% after the vote', 'Use &lt;b to bold', 'a &lt;/ b &lt;!-- c', '<p>ok</p><div'];
+  for (const input of hostile) {
+    const started = Date.now();
+    const out = stripHtml(input);
+    const ms = Date.now() - started;
+    assert.ok(ms < 500, `took ${ms} ms on ${input.slice(0, 12)}…`);
+    assert.ok(!/<[a-zA-Z/!]/.test(out), 'no tag start left in: ' + out.slice(0, 40));
+  }
+  assert.equal(stripHtml('Use &lt;b to bold'), 'Use b to bold');
+  assert.equal(stripHtml('5 < 6 and 7 > 3'), '5 < 6 and 7 > 3', 'plain comparisons survive');
+  assert.equal(stripHtml('<p>Hello <b>world</b></p><script>x</script>tail'), 'Hello world tail');
+  assert.equal(stripHtml('<scripts>not a script</scripts>'), 'not a script');
+});
+
+test('toIso rejects absurdly long date strings quickly', () => {
+  const started = Date.now();
+  assert.equal(toIso(' ('.repeat(100_000)), null);
+  assert.ok(Date.now() - started < 200);
+});

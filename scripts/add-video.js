@@ -40,6 +40,9 @@ try {
   process.exit(1);
 }
 
+if (!oembed.channelUrl) { fail('YouTube did not give a usable channel address for this video, so it cannot be filed under a channel.'); process.exit(1); }
+if (!oembed.channel) { fail('YouTube did not give a channel name for this video.'); process.exit(1); }
+
 const now = new Date();
 const sourcesDoc = loadSources(dataDir);
 const handle = channelHandleFromUrl(oembed.channelUrl);

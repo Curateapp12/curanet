@@ -89,14 +89,34 @@ function absolute(url, base) {
   }
 }
 
-/** @param {string} html @param {string} [base] @returns {string|null} */
+const TITLE_MAX_INPUT = 4000;
+const HTML_MAX_INPUT = 65536;
+
+/** @param {unknown} value @param {number} max @returns {string} */
+function capped(value, max) {
+  const str = text(value);
+  return str.length > max ? str.slice(0, max) : str;
+}
+
+/**
+ * First usable <img src> in an HTML fragment, found with a linear scan (no backtracking regex over
+ * the whole body). Tracking pixels and data: URLs are skipped.
+ * @param {string} html @param {string} [base] @returns {string|null}
+ */
 function firstImageInHtml(html, base) {
-  const source = String(html || '');
-  const re = /<img\b[^>]*?\ssrc\s*=\s*["']([^"']+)["'][^>]*>/gi;
-  let match;
-  while ((match = re.exec(source))) {
-    const tag = match[0];
-    const src = match[1];
+  const source = String(html || '').slice(0, HTML_MAX_INPUT);
+  const lower = source.toLowerCase();
+  let from = 0;
+  for (;;) {
+    const open = lower.indexOf('<img', from);
+    if (open < 0) return null;
+    const close = source.indexOf('>', open);
+    if (close < 0) return null;
+    from = close + 1;
+    const tag = source.slice(open, close + 1);
+    const srcMatch = /\ssrc\s*=\s*["']([^"']+)["']/i.exec(tag);
+    if (!srcMatch) continue;
+    const src = srcMatch[1];
     if (/^data:/i.test(src)) continue;
     const width = /\swidth\s*=\s*["']?(\d+)/i.exec(tag);
     const height = /\sheight\s*=\s*["']?(\d+)/i.exec(tag);
@@ -105,7 +125,6 @@ function firstImageInHtml(html, base) {
     const abs = absolute(src, base);
     if (abs) return abs;
   }
-  return null;
 }
 
 /**
@@ -157,7 +176,7 @@ function pickThumbnail(entry, base, htmlBody) {
 
 /** @param {any} entry @returns {string} */
 function rawHtml(entry) {
-  return text(entry['content:encoded']) || text(entry.content) || text(entry.description) || text(entry.summary) || '';
+  return capped(entry['content:encoded'] || entry.content || entry.description || entry.summary || '', HTML_MAX_INPUT);
 }
 
 /**
@@ -179,10 +198,10 @@ function rssEntry(item, base) {
   link = absolute(link, base);
   if (!link) return null;
   const html = rawHtml(item);
-  const summarySource = text(item.description) || text(item.summary) || text(item['content:encoded']) || text(item.content) || '';
+  const summarySource = capped(item.description || item.summary || item['content:encoded'] || item.content || '', HTML_MAX_INPUT);
   const published = toIso(text(item.pubDate) || text(item['dc:date']) || text(item.published) || text(item.updated) || text(item['atom:updated']) || null);
   return {
-    title: stripHtml(text(item.title)) || stripHtml(summarySource).slice(0, 120) || '(untitled)',
+    title: stripHtml(capped(item.title, TITLE_MAX_INPUT)) || stripHtml(summarySource).slice(0, 120) || '(untitled)',
     link,
     guid: guidText || null,
     published,
@@ -208,12 +227,12 @@ function atomEntry(entry, base) {
   if (!link && /^https?:\/\//i.test(idText)) link = absolute(idText, base);
   if (!link) return null;
   const html = rawHtml(entry);
-  const summarySource = text(entry.summary) || text(entry.content) || '';
+  const summarySource = capped(entry.summary || entry.content || '', HTML_MAX_INPUT);
   const published = toIso(text(entry.published) || text(entry.issued) || text(entry.updated) || text(entry.modified) || text(entry['dc:date']) || null);
   const enclosure = links.filter((l) => attr(l, 'rel') === 'enclosure' && /^image\//i.test(attr(l, 'type')));
   const synthetic = { ...entry, enclosure: [...arr(entry.enclosure), ...enclosure.map((l) => ({ '@_url': attr(l, 'href'), '@_type': attr(l, 'type') }))] };
   return {
-    title: stripHtml(text(entry.title)) || stripHtml(summarySource).slice(0, 120) || '(untitled)',
+    title: stripHtml(capped(entry.title, TITLE_MAX_INPUT)) || stripHtml(summarySource).slice(0, 120) || '(untitled)',
     link,
     guid: idText || null,
     published,

@@ -37,34 +37,97 @@ export function decodeEntities(text) {
   });
 }
 
+/** Longest text stripHtml looks at; anything beyond is dropped (no feed field is legitimately longer). */
+export const STRIP_MAX_INPUT = 200_000;
+
+const BLOCK_TAGS = new Set(['p', 'div', 'br', 'li', 'ul', 'ol', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'tr', 'td', 'th', 'blockquote', 'figcaption', 'section', 'article', 'header', 'footer', 'pre', 'table', 'hr']);
+const DROP_BLOCKS = ['script', 'style', 'noscript', 'iframe', 'object', 'embed', 'svg', 'math', 'template'];
+
 /**
  * Remove every HTML tag, comment, script and style block, decode entities (twice, for
  * double-encoded feeds), and collapse whitespace. The result is plain text that is safe to put in
- * a text node. It is NOT safe to put into innerHTML without escaping; the site always escapes.
+ * a text node and never contains a "<" followed by a letter, "/" or "!". It is NOT safe to put
+ * into innerHTML without escaping; the site always escapes.
+ *
+ * Every step is a single left-to-right scan, so a hostile body (megabytes of "<" without a ">")
+ * costs linear time instead of hanging the fetch run.
  * @param {unknown} html
  * @returns {string}
  */
 export function stripHtml(html) {
   if (html === null || html === undefined) return '';
-  let text = removeMarkup(String(html));
-  text = decodeEntities(text);
+  let text = String(html);
+  if (text.length > STRIP_MAX_INPUT) text = text.slice(0, STRIP_MAX_INPUT);
+  text = decodeEntities(removeMarkup(text));
   // Some feeds encode their HTML twice; a second pass removes tags that appeared after decoding.
-  if (/<[a-zA-Z/!][^>]*>/.test(text)) {
-    text = decodeEntities(removeMarkup(text));
-  }
+  if (text.includes('<')) text = decodeEntities(removeMarkup(text));
+  // Whatever is left that still looks like the start of a tag is dropped (an unclosed "<b" etc.).
+  text = text.replace(/<(?=[a-zA-Z/!])/g, '');
   // eslint-disable-next-line no-control-regex
   text = text.replace(/[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f]/g, '');
   text = text.replace(/\s+/g, ' ').trim();
   return text;
 }
 
-/** @param {string} text @returns {string} */
-function removeMarkup(text) {
-  let out = text.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1');
-  out = out.replace(/<(script|style|noscript|iframe|object|embed|svg|math|template)\b[^>]*>[\s\S]*?<\/\1\s*>/gi, ' ');
-  out = out.replace(/<!--[\s\S]*?-->/g, ' ');
-  out = out.replace(/<\/?(p|div|br|li|ul|ol|h[1-6]|tr|td|th|blockquote|figcaption|section|article|header|footer)\b[^>]*>/gi, ' ');
-  out = out.replace(/<[^>]*>/g, '');
+/**
+ * Linear-time markup removal: CDATA markers, comments, whole script/style-like blocks, then tags.
+ * Block-level tags become a space so words do not run together; inline tags vanish.
+ * @param {string} input
+ * @returns {string}
+ */
+function removeMarkup(input) {
+  let text = input.split('<![CDATA[').join('').split(']]>').join('');
+  text = cutBetween(text, '<!--', '-->', ' ');
+  for (const tag of DROP_BLOCKS) {
+    const low = text.toLowerCase();
+    let kept = '';
+    let copied = 0;
+    let from = 0;
+    for (;;) {
+      const open = low.indexOf('<' + tag, from);
+      if (open < 0) break;
+      const after = low.charAt(open + tag.length + 1);
+      if (after && !/[\s/>]/.test(after)) { from = open + 1; continue; } // e.g. "<scripts>" is not <script>
+      const close = low.indexOf('</' + tag, open);
+      const closeEnd = close < 0 ? -1 : low.indexOf('>', close);
+      kept += text.slice(copied, open) + ' ';
+      if (closeEnd < 0) { copied = text.length; break; } // unclosed block: everything after it goes
+      copied = closeEnd + 1;
+      from = copied;
+    }
+    if (copied > 0 || kept) text = kept + text.slice(copied);
+  }
+  let out = '';
+  let i = 0;
+  for (;;) {
+    const lt = text.indexOf('<', i);
+    if (lt < 0) { out += text.slice(i); break; }
+    if (!/[a-zA-Z/!?]/.test(text.charAt(lt + 1))) { out += text.slice(i, lt + 1); i = lt + 1; continue; } // "5 < 6" is text
+    const gt = text.indexOf('>', lt + 1);
+    if (gt < 0) { out += text.slice(i); break; } // no closing ">" anywhere: the rest is text
+    out += text.slice(i, lt);
+    const name = /^<\/?\s*([a-zA-Z][a-zA-Z0-9]*)/.exec(text.slice(lt, Math.min(gt + 1, lt + 40)));
+    out += name && BLOCK_TAGS.has(name[1].toLowerCase()) ? ' ' : '';
+    i = gt + 1;
+  }
+  return out;
+}
+
+/**
+ * Remove every "open … close" span (or "open … end of text" when the close never comes).
+ * @param {string} text @param {string} open @param {string} close @param {string} replacement
+ */
+function cutBetween(text, open, close, replacement) {
+  let out = '';
+  let i = 0;
+  for (;;) {
+    const start = text.indexOf(open, i);
+    if (start < 0) { out += text.slice(i); break; }
+    out += text.slice(i, start) + replacement;
+    const stop = text.indexOf(close, start + open.length);
+    if (stop < 0) break;
+    i = stop + close.length;
+  }
   return out;
 }
 
@@ -138,7 +201,7 @@ export function itemIdFromLink(normalizedLink) {
 export function toIso(value, now = new Date()) {
   if (value === null || value === undefined) return null;
   let text = String(value).trim();
-  if (!text) return null;
+  if (!text || text.length > 64) return null;
   // Common fixes: "GMT+0000 (UTC)" suffixes, double spaces, trailing "Z" after offset, "UT" zone.
   text = text.replace(/\s+/g, ' ').replace(/\s\(.*\)$/, '').replace(/ UT$/, ' UTC');
   let date = new Date(text);

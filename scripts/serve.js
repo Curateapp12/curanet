@@ -12,7 +12,9 @@ const types = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; ch
 
 http.createServer(async (req, res) => {
   const url = new URL(req.url || '/', 'http://localhost');
-  let file = path.join(dir, decodeURIComponent(url.pathname));
+  let pathname;
+  try { pathname = decodeURIComponent(url.pathname); } catch { res.statusCode = 400; res.end('bad request'); return; }
+  let file = path.join(dir, pathname);
   if (!file.startsWith(dir)) { res.statusCode = 403; res.end('forbidden'); return; }
   if (url.pathname.endsWith('/')) file = path.join(file, 'index.html');
   try {

@@ -195,10 +195,10 @@
 
   var DATA = readData();
   /** @type {Record<string, FeedSource>} */
-  var SOURCES = {};
+  var SOURCES = Object.create(null); // no inherited names, so "constructor" is never a source
   DATA.sources.forEach(function (source) { SOURCES[source.id] = source; });
   /** @type {Record<string, FeedCategory>} */
-  var CATEGORIES = {};
+  var CATEGORIES = Object.create(null); // same: "?c=constructor" must not match
   DATA.categories.forEach(function (category) { CATEGORIES[category.id] = category; });
   /** @type {FeedItem[]} */
   var ITEMS = DATA.items.filter(function (item) { return item && SOURCES[item.s]; });

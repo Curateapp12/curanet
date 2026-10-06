@@ -7,6 +7,10 @@
  * error message. Every text that comes back from YouTube is HTML-stripped before it is returned.
  */
 import { stripHtml, toIso, normalizeLink, itemIdFromLink } from './sanitize.js';
+import { readBodyCapped } from './http.js';
+
+/** Largest answer accepted from YouTube's endpoints. */
+const MAX_RESPONSE_BYTES = 1024 * 1024;
 
 const USER_AGENT = 'Curanet/0.1 (+https://curanet.io)';
 const API_BASE = 'https://www.googleapis.com/youtube/v3/';
@@ -299,8 +303,9 @@ async function getWithTimeout(fetchFn, url, timeoutMs) {
       headers: { 'User-Agent': USER_AGENT, Accept: 'application/json' },
       signal: controller.signal,
     });
-    const text = await response.text();
-    return { status: response.status, text };
+    const bytes = await readBodyCapped(response, MAX_RESPONSE_BYTES);
+    if (bytes === null) throw new Error('the answer was larger than 1 MB');
+    return { status: response.status, text: new TextDecoder().decode(bytes) };
   } finally {
     clearTimeout(timer);
   }
@@ -316,6 +321,22 @@ function describeOEmbedStatus(status, videoId) {
   if (status === 403) return `YouTube refused to describe video ${videoId} (HTTP 403).`;
   if (status === 404) return `Video ${videoId} was not found on YouTube; it may have been removed.`;
   return `YouTube answered HTTP ${status} when asked about video ${videoId}.`;
+}
+
+/**
+ * Keep an address only when it is an http(s) link on youtube.com; anything else (javascript:,
+ * other hosts, HTML) is dropped.
+ * @param {string} value @returns {string|null}
+ */
+function youtubeHttpUrl(value) {
+  try {
+    const url = new URL(value);
+    if (url.protocol !== 'https:' && url.protocol !== 'http:') return null;
+    if (!/(^|\.)youtube\.com$/i.test(url.hostname)) return null;
+    return url.toString();
+  } catch {
+    return null;
+  }
 }
 
 /** @param {unknown} value @returns {string} */
@@ -349,13 +370,15 @@ export async function fetchOEmbed(videoUrlOrId, { fetch: fetchFn = globalThis.fe
   if (result.status !== 200) throw new OEmbedError(describeOEmbedStatus(result.status, videoId), { status: result.status });
   const data = /** @type {Record<string, unknown>|undefined} */ (parseJsonObject(result.text));
   if (!data) throw new OEmbedError(`YouTube's answer about video ${videoId} could not be read.`, { status: result.status });
+  const channelUrl = youtubeHttpUrl(textField(data.author_url));
+  const thumbnail = textField(data.thumbnail_url);
   return {
     videoId,
     url,
-    title: textField(data.title),
-    channel: textField(data.author_name),
-    channelUrl: textField(data.author_url),
-    thumbnail: textField(data.thumbnail_url) || null,
+    title: stripHtml(textField(data.title)),
+    channel: stripHtml(textField(data.author_name)),
+    channelUrl: channelUrl || '',
+    thumbnail: /^https:\/\/[a-z0-9.-]+\.(ytimg|youtube)\.com\//i.test(thumbnail) ? thumbnail : null,
   };
 }
 

@@ -48,6 +48,12 @@ const RUN_FILE_RE = /^(\d{4})-(\d{2})-(\d{2})T(\d{2})-(\d{2})-(\d{2})Z\.json$/;
  * @param {string} dataDir
  * @returns {DataPaths}
  */
+const SOURCE_ID_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
+/** Longest link, guid or thumbnail address stored; longer ones are refused. */
+export const URL_MAX = 2048;
+/** Longest title stored, in code points. */
+export const TITLE_MAX = 300;
+
 export function dataPaths(dataDir) {
   const itemsDir = path.join(dataDir, 'items');
   return {
@@ -57,7 +63,10 @@ export function dataPaths(dataDir) {
     hidden: path.join(dataDir, 'hidden.json'),
     itemsDir,
     runsDir: path.join(dataDir, 'runs'),
-    itemsFile: (sourceId) => path.join(itemsDir, `${sourceId}.json`),
+    itemsFile: (sourceId) => {
+      if (!SOURCE_ID_RE.test(String(sourceId))) throw new Error(`"${sourceId}" is not a valid source id (lower-case letters, digits and dashes only)`);
+      return path.join(itemsDir, `${sourceId}.json`);
+    },
   };
 }
 
@@ -371,8 +380,10 @@ export function listItemFiles(dataDir) {
 export function entryToItem(entry, { now = new Date(), type = 'article', videoId } = {}) {
   if (!entry) return null;
   const link = normalizeLink(entry.link || '');
-  const title = String(entry.title || '').trim();
-  if (!link || !title) return null;
+  const title = truncate(String(entry.title || '').trim(), TITLE_MAX);
+  if (!link || !title || link.length > URL_MAX || !/^https?:\/\//.test(link)) return null;
+  if (entry.guid && String(entry.guid).length > URL_MAX) return null;
+  const thumbnail = entry.thumbnail && String(entry.thumbnail).length <= URL_MAX && /^https?:\/\//.test(String(entry.thumbnail)) ? entry.thumbnail : null;
   const resolvedVideoId = type === 'video' ? videoId || entry.videoId || null : null;
   if (type === 'video' && !resolvedVideoId) return null;
   const nowIso = now.toISOString();
@@ -383,7 +394,7 @@ export function entryToItem(entry, { now = new Date(), type = 'article', videoId
     title,
     excerpt: truncate(String(entry.summary || ''), EXCERPT_MAX),
     published: entry.published || nowIso,
-    thumbnail: entry.thumbnail || null,
+    thumbnail,
     type,
     ...(resolvedVideoId ? { videoId: resolvedVideoId } : {}),
     addedAt: nowIso,
@@ -533,6 +544,7 @@ export function hideItemByLink(dataDir, linkOrId, { now = new Date(), note } = {
   const raw = String(linkOrId || '').trim();
   const byId = ITEM_ID_RE.test(raw);
   const link = byId ? null : normalizeLink(raw);
+  if (!byId && !/^https?:\/\//.test(link || '')) throw new Error(`"${raw.slice(0, 80)}" is not a web address (http:// or https://) or a 16-character item id`);
   const id = byId ? raw : itemIdFromLink(/** @type {string} */ (link));
   /** @type {Item|null} */
   let removed = null;

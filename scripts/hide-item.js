@@ -13,7 +13,14 @@ const dataDir = String(flags.data || 'data');
 const ref = positional[0];
 if (!ref) { fail('give the item link (or its id) as the first argument.'); process.exit(1); }
 
-const { removed, sourceId } = hideItemByLink(dataDir, ref, { note: flags.note ? String(flags.note) : undefined });
+let hidden;
+try {
+  hidden = hideItemByLink(dataDir, ref, { note: flags.note ? String(flags.note) : undefined });
+} catch (error) {
+  fail(error instanceof Error ? error.message : String(error));
+  process.exit(1);
+}
+const { removed, sourceId } = hidden;
 if (removed) {
   const source = loadSources(dataDir).sources.find((s) => s.id === sourceId);
   console.log(`Hidden: "${removed.title}" from ${source ? source.name : sourceId} (${removed.link}).`);

@@ -409,3 +409,26 @@ describe('run logs', () => {
     }
   });
 });
+
+test('itemsFile refuses source ids that could escape the data directory', async () => {
+  const { dataPaths, entryToItem, hideItemByLink } = await import('../src/lib/store.js');
+  const paths = dataPaths('data');
+  for (const bad of ['../../pwned', 'Upper', 'a b', '', 'x/../y', 'trailing-']) {
+    assert.throws(() => paths.itemsFile(bad), /not a valid source id/, bad);
+  }
+  assert.ok(paths.itemsFile('globe-and-mail-2').endsWith('globe-and-mail-2.json'));
+
+  const huge = 'x'.repeat(5000);
+  const capped = entryToItem({ title: 'T'.repeat(1000), link: 'https://e.example/a', guid: null, published: null, summary: '', thumbnail: 'https://e.example/' + huge });
+  assert.ok(capped);
+  assert.ok(Array.from(capped.title).length <= 300, 'title capped');
+  assert.equal(capped.thumbnail, null, 'oversized thumbnail dropped');
+  assert.equal(entryToItem({ title: 't', link: 'https://e.example/' + huge, guid: null, published: null, summary: '', thumbnail: null }), null, 'oversized link skipped');
+  assert.equal(entryToItem({ title: 't', link: 'https://e.example/a', guid: huge, published: null, summary: '', thumbnail: null }), null, 'oversized guid skipped');
+  assert.equal(entryToItem({ title: 't', link: 'javascript:alert(1)', guid: null, published: null, summary: '', thumbnail: null }), null, 'non-http link skipped');
+  const jsThumb = entryToItem({ title: 't', link: 'https://e.example/a', guid: null, published: null, summary: '', thumbnail: 'javascript:alert(2)' });
+  assert.equal(jsThumb && jsThumb.thumbnail, null, 'non-http thumbnail dropped');
+
+  assert.throws(() => hideItemByLink('data', 'not a link at all'), /not a web address/);
+  assert.throws(() => hideItemByLink('data', 'javascript:alert(1)'), /not a web address/);
+});

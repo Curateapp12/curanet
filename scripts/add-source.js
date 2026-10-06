@@ -21,6 +21,8 @@ const dataDir = String(flags.data || 'data');
 const url = positional[0];
 
 if (!url) { fail('give the feed or channel address as the first argument.'); process.exit(1); }
+if (!/^https?:\/\//i.test(url)) { fail('the address must start with http:// or https://.'); process.exit(1); }
+if (flags.id !== undefined && !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(String(flags.id))) { fail('--id may only contain lower-case letters, digits and dashes, like globe-and-mail-politics.'); process.exit(1); }
 
 const categoriesDoc = loadCategories(dataDir);
 const path = flags.category ? resolveCategoryPath(categoriesDoc, String(flags.category)) : null;

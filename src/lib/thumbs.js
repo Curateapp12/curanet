@@ -5,6 +5,7 @@
  * that cannot be fetched or decoded simply becomes null and the item shows without an image.
  */
 import { createHash } from 'node:crypto';
+import { readBodyCapped } from './http.js';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 import sharp from 'sharp';
@@ -123,8 +124,9 @@ export async function downloadThumbnail(url, { fetch = globalThis.fetch, timeout
       signal: controller.signal,
     });
     if (!response || response.status !== 200 || !looksLikeImage(response)) return null;
-    const body = Buffer.from(await response.arrayBuffer());
-    if (body.length === 0 || body.length > MAX_IMAGE_BYTES) return null;
+    const bytes = await readBodyCapped(response, MAX_IMAGE_BYTES);
+    if (bytes === null || bytes.byteLength === 0) return null;
+    const body = Buffer.from(bytes.buffer, bytes.byteOffset, bytes.byteLength);
     const webp = await sharp(body, { limitInputPixels: 40_000_000 })
       .rotate()
       .resize({ width, withoutEnlargement: true })

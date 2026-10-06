@@ -11,6 +11,8 @@ import path from 'node:path';
 
 export const SLUG_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 export const EXCERPT_MAX = 300;
+export const TITLE_MAX = 300;
+export const URL_MAX = 2048;
 const ITEM_ID_RE = /^[0-9a-f]{16}$/;
 const COUNTRY_RE = /^[A-Z]{2}$/;
 const LANGUAGE_RE = /^[a-z]{2}$/;
@@ -547,6 +549,10 @@ function checkItemFields(item, say) {
   if (!isHttpUrl(item.link)) say(`has link ${show(item.link)} — it must start with http:// or https://`);
   if (!isNonEmptyString(item.title)) say(`has title ${show(item.title)} — a title is needed`);
   else if (HTML_START_RE.test(item.title)) say('has HTML in its title — titles must be plain text');
+  else if (Array.from(item.title).length > TITLE_MAX) say(`has a title of ${Array.from(item.title).length} characters — the limit is ${TITLE_MAX}`);
+  for (const field of ['link', 'guid', 'thumbnail']) {
+    if (typeof item[field] === 'string' && item[field].length > URL_MAX) say(`has a ${field} of ${item[field].length} characters — the limit is ${URL_MAX}`);
+  }
   if (typeof item.excerpt !== 'string') {
     say(`has excerpt ${show(item.excerpt)} — it must be text (use "" when there is none)`);
   } else {

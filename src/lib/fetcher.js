@@ -9,6 +9,7 @@
  * key never appears in a message, a run log or sources.json.
  */
 import fs from 'node:fs';
+import { readBodyCapped } from './http.js';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseFeed, FeedParseError } from './feed.js';
@@ -128,39 +129,7 @@ function tooLargeMessage(maxBytes) {
   return `feed larger than ${maxBytes} bytes`;
 }
 
-/**
- * Read a body without letting it grow past maxBytes.
- * @param {Response} response
- * @param {number} maxBytes
- * @returns {Promise<Uint8Array|null>} null when the body is too large
- */
-async function readBody(response, maxBytes) {
-  if (!response.body || typeof response.body.getReader !== 'function') {
-    const buffer = new Uint8Array(await response.arrayBuffer());
-    return buffer.byteLength > maxBytes ? null : buffer;
-  }
-  const reader = response.body.getReader();
-  /** @type {Uint8Array[]} */
-  const chunks = [];
-  let total = 0;
-  for (;;) {
-    const { done, value } = await reader.read();
-    if (done) break;
-    total += value.byteLength;
-    if (total > maxBytes) {
-      await reader.cancel().catch(() => {});
-      return null;
-    }
-    chunks.push(value);
-  }
-  const out = new Uint8Array(total);
-  let offset = 0;
-  for (const chunk of chunks) {
-    out.set(chunk, offset);
-    offset += chunk.byteLength;
-  }
-  return out;
-}
+const readBody = readBodyCapped;
 
 /**
  * Decode bytes using the charset from the Content-Type header, else the XML declaration, else UTF-8.
@@ -193,6 +162,9 @@ function discardBody(response) {
  * @returns {Promise<FetchOutcome>}
  */
 export async function fetchSource(source, { fetch: fetchFn = globalThis.fetch, timeoutMs = DEFAULT_TIMEOUT_MS, maxBytes = DEFAULT_MAX_BYTES } = {}) {
+  if (!/^https?:\/\//i.test(String(source.url || ''))) {
+    return { result: 'error', status: 0, error: 'the address must start with http:// or https://' };
+  }
   /** @type {Record<string, string>} */
   const headers = { 'user-agent': USER_AGENT, accept: ACCEPT };
   if (source.fetch && source.fetch.etag) headers['if-none-match'] = source.fetch.etag;
