@@ -769,6 +769,7 @@
       anchor.href = watchUrl(item);
       anchor.target = '_blank';
       anchor.rel = 'noopener';
+      anchor.setAttribute('aria-describedby', 'new-tab-hint');
       anchor.setAttribute('aria-label', t('watchOnYouTubeTitle', { title: item.t }));
       fillPreview(box, anchor, item, t('watchOnYouTube'));
       box.appendChild(anchor);
@@ -882,6 +883,7 @@
       nameLink.href = source.siteUrl || source.url;
       nameLink.target = '_blank';
       nameLink.rel = 'noopener';
+      nameLink.setAttribute('aria-describedby', 'new-tab-hint');
       nameLink.textContent = source.name;
       row.appendChild(cell(t('colName'), nameLink));
 
@@ -1010,7 +1012,18 @@
 
   // ------------------------------------------------------------------ wiring
 
+  /** Keeps --header-h equal to the sticky header's height so focused cards scroll out from under it. */
+  function trackHeaderHeight() {
+    var header = document.querySelector('.site-header');
+    if (!header) return;
+    var apply = function () { document.documentElement.style.setProperty('--header-h', header.offsetHeight + 'px'); };
+    apply();
+    if (typeof ResizeObserver === 'function') new ResizeObserver(apply).observe(header);
+    else window.addEventListener('resize', apply);
+  }
+
   function init() {
+    trackHeaderHeight();
     if (!document.documentElement.lang) document.documentElement.lang = UI_LANG;
     applyStrings(document);
 

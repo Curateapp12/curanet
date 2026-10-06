@@ -7,14 +7,15 @@
 -->
 <a class="skip-link" href="#main" data-t="skipToContent">Skip to the feed</a>
 <div class="page">
+  <div class="brand-row">
+    <a class="brand" href="#feed" id="brand-link">
+      <span class="brand-name" data-t="brand">Curanet</span>
+      <span class="brand-tagline" data-t="tagline">Curate the internet</span>
+    </a>
+  </div>
+  <span id="new-tab-hint" class="visually-hidden" data-t="openInNewTab">Opens in a new tab</span>
   <header class="site-header">
     <div class="header-inner">
-      <div class="brand-row">
-        <a class="brand" href="#feed" id="brand-link">
-          <span class="brand-name" data-t="brand">Curanet</span>
-          <span class="brand-tagline" data-t="tagline">Curate the internet</span>
-        </a>
-      </div>
       <nav class="ribbons" aria-label="Categories" data-t-aria-label="categories">
         <div class="ribbon" id="ribbon-categories" role="group" aria-label="Categories" data-t-aria-label="categories"></div>
         <div class="ribbon ribbon-sub" id="ribbon-subcategories" role="group" aria-label="Sections" data-t-aria-label="sections"></div>
@@ -148,10 +149,10 @@
   <li class="card card-article">
     <article class="card-inner">
       <div class="card-body">
-        <h2 class="card-title"><a class="card-link" target="_blank" rel="noopener"></a></h2>
+        <h2 class="card-title"><a class="card-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint"></a></h2>
         <p class="card-meta"><span class="card-source"></span><span class="card-sep" aria-hidden="true">·</span><time class="card-time"></time></p>
       </div>
-      <a class="card-thumb" target="_blank" rel="noopener" tabindex="-1"><img class="card-img" loading="lazy" decoding="async" referrerpolicy="no-referrer" alt=""></a>
+      <a class="card-thumb" target="_blank" rel="noopener" tabindex="-1" aria-describedby="new-tab-hint"><img class="card-img" loading="lazy" decoding="async" referrerpolicy="no-referrer" alt=""></a>
     </article>
   </li>
 </template>
@@ -161,8 +162,8 @@
     <article class="card-inner">
       <div class="video-box"></div>
       <div class="card-body">
-        <h2 class="card-title"><a class="card-link" target="_blank" rel="noopener"></a></h2>
-        <p class="card-meta"><span class="badge-video" data-t="video">Video</span><span class="card-source"></span><span class="card-sep" aria-hidden="true">·</span><time class="card-time"></time></p>
+        <h2 class="card-title"><a class="card-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint"></a></h2>
+        <p class="card-meta"><span class="card-source"></span><span class="card-sep" aria-hidden="true">·</span><time class="card-time"></time><span class="badge-video" data-t="video">Video</span></p>
       </div>
     </article>
   </li>

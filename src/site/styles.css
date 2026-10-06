@@ -21,7 +21,7 @@
   --accent-text: #a8371f;
   --accent-soft: #fde4dc;
   --on-accent: #ffffff;
-  --focus: #0e6b66;
+  --focus: #1a3fa6;
   --shadow: 0 1px 2px rgba(20, 33, 61, 0.05), 0 6px 20px rgba(20, 33, 61, 0.06);
   --shadow-panel: 0 12px 40px rgba(20, 33, 61, 0.22);
   --backdrop: rgba(20, 33, 61, 0.45);
@@ -54,7 +54,7 @@
     --accent-text: #ffb09a;
     --accent-soft: #3a211b;
     --on-accent: #ffffff;
-    --focus: #5fd6ca;
+    --focus: #9bc1ff;
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.25);
     --shadow-panel: 0 12px 40px rgba(0, 0, 0, 0.55);
     --backdrop: rgba(4, 8, 16, 0.6);
@@ -80,7 +80,7 @@
   --accent-text: #ffb09a;
   --accent-soft: #3a211b;
   --on-accent: #ffffff;
-  --focus: #5fd6ca;
+  --focus: #9bc1ff;
   --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.25);
   --shadow-panel: 0 12px 40px rgba(0, 0, 0, 0.55);
   --backdrop: rgba(4, 8, 16, 0.6);
@@ -92,7 +92,7 @@
 
 *, *::before, *::after { box-sizing: border-box; }
 
-html { -webkit-text-size-adjust: 100%; }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--header-h, 110px) + 8px); }
 
 body {
   margin: 0;
@@ -177,7 +177,14 @@ ol, ul { margin: 0; padding: 0; list-style: none; }
   padding-block: 8px 8px;
 }
 
-.brand-row { display: flex; align-items: baseline; min-width: 0; }
+.brand-row {
+  display: flex;
+  align-items: baseline;
+  min-width: 0;
+  max-width: var(--column);
+  margin-inline: auto;
+  padding-block: 10px 6px;
+}
 
 .brand {
   display: inline-flex;
@@ -217,6 +224,12 @@ ol, ul { margin: 0; padding: 0; list-style: none; }
   scrollbar-width: none;
   -ms-overflow-style: none;
   scroll-snap-type: x proximity;
+  /* Room for the focus ring: the ribbon's scroll box is padded and pulled back by the same amount. */
+  padding-block: 4px;
+  margin-block: -4px;
+  padding-inline-start: 4px;
+  margin-inline-start: -4px;
+  scroll-padding-inline-start: 4px;
   padding-inline-end: 24px;
   -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
   mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
@@ -248,7 +261,7 @@ ol, ul { margin: 0; padding: 0; list-style: none; }
   color: var(--on-primary);
   font-weight: 700;
 }
-.chip:focus-visible { outline-offset: 1px; }
+.chip:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
 
 /* The second ribbon reads as a row of tabs under the chosen category: text only, teal underline when active. */
 .ribbon-sub .chip {
@@ -356,6 +369,7 @@ ol, ul { margin: 0; padding: 0; list-style: none; }
   border-inline-end: 0;
 }
 .search-input::-webkit-search-decoration { display: none; }
+.search-input::placeholder { color: var(--text-muted); opacity: 1; }
 .search-button {
   border-start-start-radius: 0;
   border-end-start-radius: 0;
@@ -413,6 +427,8 @@ ol, ul { margin: 0; padding: 0; list-style: none; }
 .card-link { color: var(--text); text-decoration: none; }
 .card-link:hover { color: var(--primary); text-decoration: underline; text-underline-offset: 2px; }
 .card-link:visited { color: var(--text); }
+
+.card, .card-link, .card-thumb, .video-box a, .video-box button { scroll-margin-top: calc(var(--header-h, 110px) + 8px); }
 
 .card-meta {
   display: flex;
@@ -603,9 +619,10 @@ ol, ul { margin: 0; padding: 0; list-style: none; }
   vertical-align: top;
   padding: 10px 12px;
   border-bottom: 1px solid var(--border);
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
 }
 .sources-table th {
+  white-space: nowrap;
   font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.05em;
