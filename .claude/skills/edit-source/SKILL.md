@@ -1,6 +1,6 @@
 ---
 name: edit-source
-description: Change a source's category, subcategory, country, language or display name. Items follow their source, so this re-tags everything from that source. Use for "/edit-source <id> --category 'News / World'" or "move The Tyee to Local".
+description: Change a source's category, subcategory, country, language or display name. Items follow their source, so this re-tags everything from that source. Use for "/edit-source <id> --category 'World / Geopolitics'" or "move The Tyee to Knowledge / Opinion".
 ---
 
 Edit a source in `data/sources.json`. Items never carry their own tags, so changing the source

@@ -12,14 +12,14 @@ the preview link.
 
 | Command | What it does | Example |
 |---|---|---|
-| `/add-source` | Adds a feed (or a YouTube channel) with its category, subcategory, country and language. Claude checks the address works, shows you the publisher's name and latest titles, refuses duplicates, fetches it once and rebuilds. | `/add-source https://thetyee.ca/rss2.xml News / Top Stories CA en` |
-| `/add-video` | Adds one YouTube video by link. | `/add-video https://youtu.be/dQw4w9WgXcQ Culture / Music GB en` |
+| `/add-source` | Adds a feed (or a YouTube channel) with its category, subcategory, country and language. Claude checks the address works, shows you the publisher's name and latest titles, refuses duplicates, fetches it once and rebuilds. | `/add-source https://thetyee.ca/rss2.xml Local / News CA en` |
+| `/add-video` | Adds one YouTube video by link. | `/add-video https://youtu.be/dQw4w9WgXcQ Entertainment / Music GB en` |
 | `/remove-source` | Deletes a source and all of its items. | `/remove-source the-tyee` |
 | `/pause-source` | Stops fetching a source but keeps its items. `resume` turns it back on (also un-blocks a refused source). | `/pause-source rabble`, `/pause-source resume rabble` |
-| `/edit-source` | Moves a source to another category or subcategory, or changes its country, language or name. All of its items follow. | `/edit-source the-tyee --category "News / Local"` |
+| `/edit-source` | Moves a source to another category or subcategory, or changes its country, language or name. All of its items follow. | `/edit-source the-tyee --category "Knowledge / Opinion"` |
 | `/hide-item` | Removes one item from the feed by its link (or its 16-character id), for good. | `/hide-item https://example.com/story` |
 | `/add-category` | Adds a category, or a subcategory under an existing category, with an optional French name. | `/add-category Technology / Robotics --fr Robotique` |
-| `/rename-category` | Renames a category or subcategory. Everything stays in place. | `/rename-category Life --name Lifestyle` |
+| `/rename-category` | Renames a category or subcategory. Everything stays in place. | `/rename-category Knowledge --name Learning` |
 | `/fetch` | Downloads every active source, adds new items, removes items older than 90 days, rebuilds and republishes the preview. | `/fetch` |
 
 You can also just say "add the Halifax Examiner feed to Local news in Canada, English" and Claude

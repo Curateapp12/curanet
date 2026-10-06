@@ -1,6 +1,6 @@
 ---
 name: add-source
-description: Add an RSS/Atom feed or a YouTube channel to Curanet. Use when the owner gives a feed or channel address with a category, subcategory, country and language, e.g. "/add-source https://example.com/feed.xml News / Politics CA en" or "add this feed to Politics in Canada, English".
+description: Add an RSS/Atom feed or a YouTube channel to Curanet. Use when the owner gives a feed or channel address with a category, subcategory, country and language, e.g. "/add-source https://example.com/feed.xml Local / Politics CA en" or "add this feed to Local politics in Canada, English".
 ---
 
 Add a source to `data/sources.json`, fetch it once, rebuild the preview and republish it.

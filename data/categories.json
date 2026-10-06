@@ -2,64 +2,671 @@
   "version": 1,
   "categories": [
     {
-      "id": "news",
-      "name": { "en": "News", "fr": "Actualités" },
+      "id": "local",
+      "name": {
+        "en": "Local",
+        "fr": "Local"
+      },
       "subcategories": [
-        { "id": "top-stories", "name": { "en": "Top Stories", "fr": "À la une" } },
-        { "id": "politics", "name": { "en": "Politics", "fr": "Politique" } },
-        { "id": "world", "name": { "en": "World", "fr": "International" } },
-        { "id": "local", "name": { "en": "Local", "fr": "Régional" } },
-        { "id": "opinion", "name": { "en": "Opinion", "fr": "Opinion" } }
+        {
+          "id": "news",
+          "name": {
+            "en": "News",
+            "fr": "Actualités"
+          }
+        },
+        {
+          "id": "politics",
+          "name": {
+            "en": "Politics",
+            "fr": "Politique"
+          }
+        },
+        {
+          "id": "justice",
+          "name": {
+            "en": "Justice",
+            "fr": "Justice"
+          }
+        },
+        {
+          "id": "economy",
+          "name": {
+            "en": "Economy",
+            "fr": "Économie"
+          }
+        },
+        {
+          "id": "health",
+          "name": {
+            "en": "Health",
+            "fr": "Santé"
+          }
+        },
+        {
+          "id": "education",
+          "name": {
+            "en": "Education",
+            "fr": "Éducation"
+          }
+        },
+        {
+          "id": "transport",
+          "name": {
+            "en": "Transport",
+            "fr": "Transport"
+          }
+        },
+        {
+          "id": "events",
+          "name": {
+            "en": "Events",
+            "fr": "Événements"
+          }
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": {
+        "en": "World",
+        "fr": "Monde"
+      },
+      "subcategories": [
+        {
+          "id": "geopolitics",
+          "name": {
+            "en": "Geopolitics",
+            "fr": "Géopolitique"
+          }
+        },
+        {
+          "id": "conflict",
+          "name": {
+            "en": "Conflict",
+            "fr": "Conflits"
+          }
+        },
+        {
+          "id": "global-issues",
+          "name": {
+            "en": "Global Issues",
+            "fr": "Enjeux mondiaux"
+          }
+        },
+        {
+          "id": "africa",
+          "name": {
+            "en": "Africa",
+            "fr": "Afrique"
+          }
+        },
+        {
+          "id": "asia",
+          "name": {
+            "en": "Asia",
+            "fr": "Asie"
+          }
+        },
+        {
+          "id": "europe",
+          "name": {
+            "en": "Europe",
+            "fr": "Europe"
+          }
+        },
+        {
+          "id": "middle-east",
+          "name": {
+            "en": "Middle East",
+            "fr": "Moyen-Orient"
+          }
+        },
+        {
+          "id": "americas",
+          "name": {
+            "en": "Americas",
+            "fr": "Amériques"
+          }
+        },
+        {
+          "id": "oceania",
+          "name": {
+            "en": "Oceania",
+            "fr": "Océanie"
+          }
+        }
       ]
     },
     {
       "id": "business",
-      "name": { "en": "Business", "fr": "Affaires" },
+      "name": {
+        "en": "Business",
+        "fr": "Affaires"
+      },
       "subcategories": [
-        { "id": "economy", "name": { "en": "Economy", "fr": "Économie" } },
-        { "id": "markets", "name": { "en": "Markets", "fr": "Marchés" } },
-        { "id": "personal-finance", "name": { "en": "Personal Finance", "fr": "Finances personnelles" } },
-        { "id": "industry", "name": { "en": "Industry", "fr": "Industrie" } }
+        {
+          "id": "economy",
+          "name": {
+            "en": "Economy",
+            "fr": "Économie"
+          }
+        },
+        {
+          "id": "markets",
+          "name": {
+            "en": "Markets",
+            "fr": "Marchés"
+          }
+        },
+        {
+          "id": "companies",
+          "name": {
+            "en": "Companies",
+            "fr": "Entreprises"
+          }
+        },
+        {
+          "id": "startups",
+          "name": {
+            "en": "Startups",
+            "fr": "Jeunes pousses"
+          }
+        },
+        {
+          "id": "work",
+          "name": {
+            "en": "Work",
+            "fr": "Travail"
+          }
+        },
+        {
+          "id": "personal-finance",
+          "name": {
+            "en": "Personal Finance",
+            "fr": "Finances personnelles"
+          }
+        },
+        {
+          "id": "real-estate",
+          "name": {
+            "en": "Real Estate",
+            "fr": "Immobilier"
+          }
+        },
+        {
+          "id": "trade",
+          "name": {
+            "en": "Trade",
+            "fr": "Commerce"
+          }
+        },
+        {
+          "id": "energy",
+          "name": {
+            "en": "Energy",
+            "fr": "Énergie"
+          }
+        }
       ]
     },
     {
       "id": "technology",
-      "name": { "en": "Technology", "fr": "Technologie" },
+      "name": {
+        "en": "Technology",
+        "fr": "Technologie"
+      },
       "subcategories": [
-        { "id": "tech-news", "name": { "en": "Tech News", "fr": "Actualité techno" } },
-        { "id": "science", "name": { "en": "Science", "fr": "Science" } },
-        { "id": "space", "name": { "en": "Space", "fr": "Espace" } },
-        { "id": "security", "name": { "en": "Security", "fr": "Sécurité" } }
+        {
+          "id": "tech-news",
+          "name": {
+            "en": "Tech News",
+            "fr": "Actualité techno"
+          }
+        },
+        {
+          "id": "ai",
+          "name": {
+            "en": "AI",
+            "fr": "IA"
+          }
+        },
+        {
+          "id": "gadgets",
+          "name": {
+            "en": "Gadgets",
+            "fr": "Gadgets"
+          }
+        },
+        {
+          "id": "software",
+          "name": {
+            "en": "Software",
+            "fr": "Logiciels"
+          }
+        },
+        {
+          "id": "internet",
+          "name": {
+            "en": "Internet",
+            "fr": "Internet"
+          }
+        },
+        {
+          "id": "cybersecurity",
+          "name": {
+            "en": "Cybersecurity",
+            "fr": "Cybersécurité"
+          }
+        },
+        {
+          "id": "gaming",
+          "name": {
+            "en": "Gaming",
+            "fr": "Jeux vidéo"
+          }
+        }
       ]
     },
     {
-      "id": "culture",
-      "name": { "en": "Culture", "fr": "Culture" },
+      "id": "science",
+      "name": {
+        "en": "Science",
+        "fr": "Science"
+      },
       "subcategories": [
-        { "id": "arts", "name": { "en": "Arts", "fr": "Arts" } },
-        { "id": "entertainment", "name": { "en": "Entertainment", "fr": "Divertissement" } },
-        { "id": "books", "name": { "en": "Books", "fr": "Livres" } },
-        { "id": "music", "name": { "en": "Music", "fr": "Musique" } }
+        {
+          "id": "space",
+          "name": {
+            "en": "Space",
+            "fr": "Espace"
+          }
+        },
+        {
+          "id": "physics",
+          "name": {
+            "en": "Physics",
+            "fr": "Physique"
+          }
+        },
+        {
+          "id": "biology",
+          "name": {
+            "en": "Biology",
+            "fr": "Biologie"
+          }
+        },
+        {
+          "id": "medicine",
+          "name": {
+            "en": "Medicine",
+            "fr": "Médecine"
+          }
+        },
+        {
+          "id": "climate-science",
+          "name": {
+            "en": "Climate Science",
+            "fr": "Climatologie"
+          }
+        },
+        {
+          "id": "research",
+          "name": {
+            "en": "Research",
+            "fr": "Recherche"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "name": {
+        "en": "Nature",
+        "fr": "Nature"
+      },
+      "subcategories": [
+        {
+          "id": "environment",
+          "name": {
+            "en": "Environment",
+            "fr": "Environnement"
+          }
+        },
+        {
+          "id": "climate",
+          "name": {
+            "en": "Climate",
+            "fr": "Climat"
+          }
+        },
+        {
+          "id": "wildlife",
+          "name": {
+            "en": "Wildlife",
+            "fr": "Faune"
+          }
+        },
+        {
+          "id": "oceans",
+          "name": {
+            "en": "Oceans",
+            "fr": "Océans"
+          }
+        },
+        {
+          "id": "weather",
+          "name": {
+            "en": "Weather",
+            "fr": "Météo"
+          }
+        },
+        {
+          "id": "conservation",
+          "name": {
+            "en": "Conservation",
+            "fr": "Conservation"
+          }
+        }
       ]
     },
     {
       "id": "sports",
-      "name": { "en": "Sports", "fr": "Sports" },
+      "name": {
+        "en": "Sports",
+        "fr": "Sports"
+      },
       "subcategories": [
-        { "id": "hockey", "name": { "en": "Hockey", "fr": "Hockey" } },
-        { "id": "soccer", "name": { "en": "Soccer", "fr": "Soccer" } },
-        { "id": "football", "name": { "en": "Football", "fr": "Football" } },
-        { "id": "other-sports", "name": { "en": "Other Sports", "fr": "Autres sports" } }
+        {
+          "id": "hockey",
+          "name": {
+            "en": "Hockey",
+            "fr": "Hockey"
+          }
+        },
+        {
+          "id": "soccer",
+          "name": {
+            "en": "Soccer",
+            "fr": "Soccer"
+          }
+        },
+        {
+          "id": "football",
+          "name": {
+            "en": "Football",
+            "fr": "Football"
+          }
+        },
+        {
+          "id": "basketball",
+          "name": {
+            "en": "Basketball",
+            "fr": "Basketball"
+          }
+        },
+        {
+          "id": "baseball",
+          "name": {
+            "en": "Baseball",
+            "fr": "Baseball"
+          }
+        },
+        {
+          "id": "olympics",
+          "name": {
+            "en": "Olympics",
+            "fr": "Jeux olympiques"
+          }
+        },
+        {
+          "id": "motorsport",
+          "name": {
+            "en": "Motorsport",
+            "fr": "Sports mécaniques"
+          }
+        },
+        {
+          "id": "other-sports",
+          "name": {
+            "en": "Other Sports",
+            "fr": "Autres sports"
+          }
+        }
       ]
     },
     {
-      "id": "life",
-      "name": { "en": "Life", "fr": "Vie" },
+      "id": "entertainment",
+      "name": {
+        "en": "Entertainment",
+        "fr": "Divertissement"
+      },
       "subcategories": [
-        { "id": "health", "name": { "en": "Health", "fr": "Santé" } },
-        { "id": "food", "name": { "en": "Food", "fr": "Cuisine" } },
-        { "id": "travel", "name": { "en": "Travel", "fr": "Voyage" } },
-        { "id": "environment", "name": { "en": "Environment", "fr": "Environnement" } }
+        {
+          "id": "film",
+          "name": {
+            "en": "Film",
+            "fr": "Cinéma"
+          }
+        },
+        {
+          "id": "tv",
+          "name": {
+            "en": "TV",
+            "fr": "Télévision"
+          }
+        },
+        {
+          "id": "music",
+          "name": {
+            "en": "Music",
+            "fr": "Musique"
+          }
+        },
+        {
+          "id": "books",
+          "name": {
+            "en": "Books",
+            "fr": "Livres"
+          }
+        },
+        {
+          "id": "arts",
+          "name": {
+            "en": "Arts",
+            "fr": "Arts"
+          }
+        },
+        {
+          "id": "celebrities",
+          "name": {
+            "en": "Celebrities",
+            "fr": "Célébrités"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lifestyle",
+      "name": {
+        "en": "Lifestyle",
+        "fr": "Mode de vie"
+      },
+      "subcategories": [
+        {
+          "id": "food",
+          "name": {
+            "en": "Food",
+            "fr": "Cuisine"
+          }
+        },
+        {
+          "id": "travel",
+          "name": {
+            "en": "Travel",
+            "fr": "Voyage"
+          }
+        },
+        {
+          "id": "fashion",
+          "name": {
+            "en": "Fashion",
+            "fr": "Mode"
+          }
+        },
+        {
+          "id": "home",
+          "name": {
+            "en": "Home",
+            "fr": "Maison"
+          }
+        },
+        {
+          "id": "family",
+          "name": {
+            "en": "Family",
+            "fr": "Famille"
+          }
+        },
+        {
+          "id": "wellness",
+          "name": {
+            "en": "Wellness",
+            "fr": "Bien-être"
+          }
+        }
+      ]
+    },
+    {
+      "id": "knowledge",
+      "name": {
+        "en": "Knowledge",
+        "fr": "Savoir"
+      },
+      "subcategories": [
+        {
+          "id": "explainers",
+          "name": {
+            "en": "Explainers",
+            "fr": "Explications"
+          }
+        },
+        {
+          "id": "opinion",
+          "name": {
+            "en": "Opinion",
+            "fr": "Opinion"
+          }
+        },
+        {
+          "id": "education",
+          "name": {
+            "en": "Education",
+            "fr": "Éducation"
+          }
+        },
+        {
+          "id": "history",
+          "name": {
+            "en": "History",
+            "fr": "Histoire"
+          }
+        },
+        {
+          "id": "culture",
+          "name": {
+            "en": "Culture",
+            "fr": "Culture"
+          }
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": {
+        "en": "Health",
+        "fr": "Santé"
+      },
+      "subcategories": [
+        {
+          "id": "medicine",
+          "name": {
+            "en": "Medicine",
+            "fr": "Médecine"
+          }
+        },
+        {
+          "id": "mental-health",
+          "name": {
+            "en": "Mental Health",
+            "fr": "Santé mentale"
+          }
+        },
+        {
+          "id": "fitness",
+          "name": {
+            "en": "Fitness",
+            "fr": "Forme"
+          }
+        },
+        {
+          "id": "nutrition",
+          "name": {
+            "en": "Nutrition",
+            "fr": "Nutrition"
+          }
+        },
+        {
+          "id": "public-health",
+          "name": {
+            "en": "Public Health",
+            "fr": "Santé publique"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mobility",
+      "name": {
+        "en": "Mobility",
+        "fr": "Mobilité"
+      },
+      "subcategories": [
+        {
+          "id": "cars",
+          "name": {
+            "en": "Cars",
+            "fr": "Automobile"
+          }
+        },
+        {
+          "id": "electric-vehicles",
+          "name": {
+            "en": "Electric Vehicles",
+            "fr": "Véhicules électriques"
+          }
+        },
+        {
+          "id": "transit",
+          "name": {
+            "en": "Transit",
+            "fr": "Transport en commun"
+          }
+        },
+        {
+          "id": "aviation",
+          "name": {
+            "en": "Aviation",
+            "fr": "Aviation"
+          }
+        },
+        {
+          "id": "cycling",
+          "name": {
+            "en": "Cycling",
+            "fr": "Vélo"
+          }
+        }
       ]
     }
   ]

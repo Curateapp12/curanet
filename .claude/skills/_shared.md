@@ -33,8 +33,8 @@ elsewhere (GitHub Actions has no proxy).
 ## Category paths
 
 Categories and subcategories are written as `Category / Subcategory`, using either the display
-name (English or French) or the id from `data/categories.json`. Examples: `News / Politics`,
-`Actualités / Politique`, `news/politics`. If the owner gives a subcategory alone and it is unique
+name (English or French) or the id from `data/categories.json`. Examples: `Local / Politics`,
+`Local / Politique`, `local/politics`. If the owner gives a subcategory alone and it is unique
 in the tree, use it; if it is ambiguous or missing, list the matching choices and ask.
 
 ## Countries and languages

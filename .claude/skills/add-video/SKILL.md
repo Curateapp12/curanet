@@ -1,6 +1,6 @@
 ---
 name: add-video
-description: Add one YouTube video to Curanet by link, with a category, subcategory, country and language. Use when the owner pastes a youtube.com or youtu.be link and wants it in the feed, e.g. "/add-video https://youtu.be/abc123 News / Politics CA en".
+description: Add one YouTube video to Curanet by link, with a category, subcategory, country and language. Use when the owner pastes a youtube.com or youtu.be link and wants it in the feed, e.g. "/add-video https://youtu.be/abc123 Local / Politics CA en".
 ---
 
 Add a single video from its link. Title, channel name and preview image come from YouTube's oEmbed

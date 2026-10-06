@@ -126,7 +126,14 @@ the article/video button, and search. Where they sit is decision 3.
 7. **Like and Comment**: leave them out until accounts exist (recommended), or show them disabled?
 8. **"Single" / "Switch" components**: what are they for? They appear on no screen.
 
-I will proceed with the recommended answers unless you say otherwise.
+**Decisions taken (owner, 2026-10-06):** 1 — use the Figma categories and subcategories (the nine
+categories whose menu variants could not be read got proposed subcategories, see
+`data/categories.json`, to adjust with `/add-category` / `/rename-category`); 2 — time bottom-left,
+actions right; 3 — slim row on desktop, filters in Settings and a magnifier in the top row on
+phones; 4 — both placements of the sections bar on phones, chosen in Settings, top by default;
+5 — monogram circles; 6 — both themes, light by default, switch in Settings; 7 — Like and Comment
+shown but disabled; 8 — "Single" and "Switch" are the two options for the article/video toggle:
+use "Single" (one button that cycles through the three settings).
 
 ---
 
