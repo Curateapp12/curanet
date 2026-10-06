@@ -83,7 +83,7 @@ typo is caught before it breaks the site.
 | `category`, `subcategory` | Ids from `categories.json`. Every item of the source inherits them. |
 | `country` | ISO 3166-1 alpha-2, upper case (`CA`, `US`, `FR`). |
 | `language` | ISO 639-1, lower case (`en`, `fr`, `de`). |
-| `status` | `active` — fetched every run. `paused` — kept, not fetched, items still shown. `blocked` — the publisher refused (401/403/451); not fetched until the owner sets it back to `active`. `waiting_for_key` — YouTube channel waiting for the API key. |
+| `status` | `active` — fetched every run. `paused` — kept, not fetched, items still shown. `blocked` — the publisher refused (HTTP 401/403/451, or an empty 202/204 answer, which is how bot checks look); not fetched until the owner sets it back to `active`. `waiting_for_key` — YouTube channel waiting for the API key. |
 | `addedAt` | When the source was added. |
 | `fetch` | Written by the fetcher. `lastResult` is `ok`, `unchanged`, `blocked`, `error` or `skipped`. `null` until the first run. |
 
@@ -122,6 +122,9 @@ typo is caught before it breaks the site.
 ```
 
 - `id` is the first 16 hex characters of the SHA-1 of the normalised link.
+- Limits, enforced by the fetcher and checked by `npm run validate`: title at most 300 characters,
+  excerpt at most 300 characters, link / guid / thumbnail at most 2048 characters, links and
+  thumbnails must start with `http://` or `https://`. Entries outside the limits are skipped.
 - Items are stored newest first. Items never carry category, country or language: those come from
   the source at build time, so editing a source re-tags all of its items.
 - Only these fields are stored. **Never full article text.**

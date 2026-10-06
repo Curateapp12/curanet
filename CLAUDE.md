@@ -50,9 +50,12 @@ exactly when touching the site.
 - Thumbnail images are copied only into the private preview file, never into the repository or the
   hosted site (which loads them from the publisher's address).
 - Strip all HTML from titles and excerpts before storing them, so nothing from a feed can run on
-  the site. Decode entities, drop tags, collapse whitespace.
-- If a publisher refuses the fetcher (HTTP 401, 403 or 451, or an explicit denial), record it, mark
-  the source `blocked` and move on. **Do not work around a refusal** (no header spoofing, proxies,
+  the site. Decode entities, drop tags, collapse whitespace. Stored fields have hard limits
+  (title and excerpt 300 characters, link / guid / thumbnail 2048, http(s) only); every text
+  routine must stay linear in the input size so one hostile feed cannot stall a run.
+- If a publisher refuses the fetcher (HTTP 401, 403 or 451, an explicit denial, or an empty
+  202/204 answer in place of the feed, which is what bot checks return), record it, mark the source
+  `blocked` and move on. **Do not work around a refusal** (no header spoofing, proxies,
   scraping or alternative endpoints).
 
 ## Data rules

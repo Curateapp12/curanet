@@ -17,7 +17,7 @@ the preview link.
 | `/remove-source` | Deletes a source and all of its items. | `/remove-source the-tyee` |
 | `/pause-source` | Stops fetching a source but keeps its items. `resume` turns it back on (also un-blocks a refused source). | `/pause-source rabble`, `/pause-source resume rabble` |
 | `/edit-source` | Moves a source to another category or subcategory, or changes its country, language or name. All of its items follow. | `/edit-source the-tyee --category "News / Local"` |
-| `/hide-item` | Removes one item from the feed by its link, for good. | `/hide-item https://example.com/story` |
+| `/hide-item` | Removes one item from the feed by its link (or its 16-character id), for good. | `/hide-item https://example.com/story` |
 | `/add-category` | Adds a category, or a subcategory under an existing category, with an optional French name. | `/add-category Technology / Robotics --fr Robotique` |
 | `/rename-category` | Renames a category or subcategory. Everything stays in place. | `/rename-category Life --name Lifestyle` |
 | `/fetch` | Downloads every active source, adds new items, removes items older than 90 days, rebuilds and republishes the preview. | `/fetch` |
@@ -65,7 +65,7 @@ The next fetch picks up the change; the site is rebuilt from the data at the nex
 |---|---|---|
 | **Active** | Fetched every run. | Nothing. |
 | **Paused** | Not fetched; items stay visible. | `/pause-source resume <id>` to turn it back on. |
-| **Blocked** | The publisher's server refused Curanet (HTTP 401, 403 or 451). The source is skipped until you say otherwise. | See below. |
+| **Blocked** | The publisher's server refused Curanet (HTTP 401, 403 or 451), or answered with an empty page instead of the feed, which is how "are you a robot?" checks look (HTTP 202/204). The source is skipped until you say otherwise. | See below. |
 | **Waiting for key** | A YouTube channel. Channels are fetched only through the official YouTube Data API, which needs a key you have not added yet. | Add the key (below), then `/fetch`. |
 
 Beside the status, the Sources section of the site shows the last successful fetch. A source that
