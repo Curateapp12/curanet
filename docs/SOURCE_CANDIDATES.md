@@ -1,102 +1,103 @@
 # Source candidates
 
 Feeds that were checked on 2026-10-05 while building the first version. The ones marked **in use** are in
-`data/sources.json`. The others worked at the time and can be added with `/add-source <url> <Category / Subcategory> <CC> <lang>`.
+`data/sources.json`. The others worked at the time and can be added with `/add-source <url> <Category / Subcategory> <CC> <lang>`. The "Suggested place"
+column was re-mapped on 2026-10-06 to the current category tree in `data/categories.json`.
 The last table lists publishers that could not be used and why, so nobody wastes time on them again.
 
 ## Verified feeds
 
 | Publisher | Feed | Country | Lang | Suggested place | Items | Images | Status |
 |---|---|---|---|---|---|---|---|
-| Global News | <https://globalnews.ca/feed/> | CA | en | News / Top Stories | 10 | yes | **in use** |
-| Global News | <https://globalnews.ca/politics/feed/> | CA | en | News / Politics | 10 | yes | available |
-| Global News | <https://globalnews.ca/world/feed/> | CA | en | News / World | 10 | yes | **in use** |
-| Globe and Mail | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/canada/> | CA | en | News / Top Stories | 100 | yes | **in use** |
-| Globe and Mail | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/politics/> | CA | en | News / Politics | 80 | yes | **in use** |
-| Globe and Mail | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/world/> | CA | en | News / World | 100 | yes | available |
-| Globe and Mail | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/opinion/> | CA | en | News / Opinion | 100 | yes | available |
-| National Post | <https://nationalpost.com/feed> | CA | en | News / Top Stories | 10 | no | available |
-| National Post | <https://nationalpost.com/category/news/politics/feed.xml> | CA | en | News / Politics | 10 | yes | available |
-| National Post | <https://nationalpost.com/category/opinion/feed.xml> | CA | en | News / Opinion | 10 | yes | **in use** |
-| CTV News | <https://www.ctvnews.ca/arc/outboundfeeds/rss/category/politics/> | CA | en | News / Politics | 8 | yes | **in use** |
-| Toronto Star | <https://www.thestar.com/search/?f=rss&t=article&c=news/canada*&l=50&s=start_time&sd=desc> | CA | en | News / Top Stories | 50 | yes | available |
-| Toronto Star | <https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc> | CA | en | News / Politics | 50 | yes | available |
-| The Tyee | <https://thetyee.ca/rss2.xml> | CA | en | News / Top Stories | 21 | yes | **in use** |
-| National Observer | <https://www.nationalobserver.com/front/rss> | CA | en | News / Politics | 25 | no | **in use** |
-| Rabble | <https://rabble.ca/feed/> | CA | en | News / Opinion | 12 | yes | **in use** |
-| The Conversation Canada | <https://theconversation.com/ca/articles.atom> | CA | en | News / Opinion | 50 | no | available |
-| Radio-Canada | <https://ici.radio-canada.ca/info/rss/info/a-la-une> | CA | fr | News / Top Stories | 28 | yes | **in use** |
-| Radio-Canada | <https://ici.radio-canada.ca/info/rss/politique/en-continu> | CA | fr | News / Politics | 50 | yes | **in use** |
-| Radio-Canada | <https://ici.radio-canada.ca/info/rss/international/en-continu> | CA | fr | News / World | 50 | yes | available |
+| Global News | <https://globalnews.ca/feed/> | CA | en | Local / News | 10 | yes | **in use** |
+| Global News | <https://globalnews.ca/politics/feed/> | CA | en | Local / Politics | 10 | yes | available |
+| Global News | <https://globalnews.ca/world/feed/> | CA | en | World / Global Issues | 10 | yes | **in use** |
+| Globe and Mail | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/canada/> | CA | en | Local / News | 100 | yes | **in use** |
+| Globe and Mail | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/politics/> | CA | en | Local / Politics | 80 | yes | **in use** |
+| Globe and Mail | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/world/> | CA | en | World / Global Issues | 100 | yes | available |
+| Globe and Mail | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/opinion/> | CA | en | Knowledge / Opinion | 100 | yes | available |
+| National Post | <https://nationalpost.com/feed> | CA | en | Local / News | 10 | no | available |
+| National Post | <https://nationalpost.com/category/news/politics/feed.xml> | CA | en | Local / Politics | 10 | yes | available |
+| National Post | <https://nationalpost.com/category/opinion/feed.xml> | CA | en | Knowledge / Opinion | 10 | yes | **in use** |
+| CTV News | <https://www.ctvnews.ca/arc/outboundfeeds/rss/category/politics/> | CA | en | Local / Politics | 8 | yes | **in use** |
+| Toronto Star | <https://www.thestar.com/search/?f=rss&t=article&c=news/canada*&l=50&s=start_time&sd=desc> | CA | en | Local / News | 50 | yes | available |
+| Toronto Star | <https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc> | CA | en | Local / Politics | 50 | yes | available |
+| The Tyee | <https://thetyee.ca/rss2.xml> | CA | en | Local / News | 21 | yes | **in use** |
+| National Observer | <https://www.nationalobserver.com/front/rss> | CA | en | Local / Politics | 25 | no | **in use** |
+| Rabble | <https://rabble.ca/feed/> | CA | en | Knowledge / Opinion | 12 | yes | **in use** |
+| The Conversation Canada | <https://theconversation.com/ca/articles.atom> | CA | en | Knowledge / Opinion | 50 | no | available |
+| Radio-Canada | <https://ici.radio-canada.ca/info/rss/info/a-la-une> | CA | fr | Local / News | 28 | yes | **in use** |
+| Radio-Canada | <https://ici.radio-canada.ca/info/rss/politique/en-continu> | CA | fr | Local / Politics | 50 | yes | **in use** |
+| Radio-Canada | <https://ici.radio-canada.ca/info/rss/international/en-continu> | CA | fr | World / Global Issues | 50 | yes | available |
 | Radio-Canada | <https://ici.radio-canada.ca/info/rss/economie/en-continu> | CA | fr | Business / Economy | 50 | yes | **in use** |
-| Radio-Canada | <https://ici.radio-canada.ca/info/rss/arts/en-continu> | CA | fr | Culture / Arts | 50 | yes | available |
+| Radio-Canada | <https://ici.radio-canada.ca/info/rss/arts/en-continu> | CA | fr | Entertainment / Arts | 50 | yes | available |
 | Radio-Canada | <https://ici.radio-canada.ca/info/rss/sports/en-continu> | CA | fr | Sports / Other Sports | 50 | yes | **in use** |
 | Radio-Canada | <https://ici.radio-canada.ca/info/rss/sous-theme/hockey> | CA | fr | Sports / Hockey | 50 | yes | available |
-| Radio-Canada Ottawa-Gatineau | <https://ici.radio-canada.ca/info/rss/ottawa-gatineau/en-continu> | CA | fr | News / Local | 50 | yes | available |
-| Radio-Canada Acadie | <https://ici.radio-canada.ca/info/rss/acadie/nouveau-brunswick/en-continu> | CA | fr | News / Local | 50 | yes | **in use** |
-| Radio-Canada | <https://ici.radio-canada.ca/info/rss/environnement/en-continu> | CA | fr | Life / Environment | 50 | yes | available |
+| Radio-Canada Ottawa-Gatineau | <https://ici.radio-canada.ca/info/rss/ottawa-gatineau/en-continu> | CA | fr | Local / News | 50 | yes | available |
+| Radio-Canada Acadie | <https://ici.radio-canada.ca/info/rss/acadie/nouveau-brunswick/en-continu> | CA | fr | Local / News | 50 | yes | **in use** |
+| Radio-Canada | <https://ici.radio-canada.ca/info/rss/environnement/en-continu> | CA | fr | Nature / Environment | 50 | yes | available |
 | Radio-Canada | <https://ici.radio-canada.ca/info/rss/techno/en-continu> | CA | fr | Technology / Tech News | 50 | yes | available |
-| Le Devoir | <https://www.ledevoir.com/rss/manchettes.xml> | CA | fr | News / Top Stories | 38 | no | **in use** |
-| Le Devoir | <https://www.ledevoir.com/rss/section/politique.xml> | CA | fr | News / Politics | 10 | no | available |
-| Le Devoir | <https://www.ledevoir.com/rss/section/monde.xml> | CA | fr | News / World | 9 | no | available |
+| Le Devoir | <https://www.ledevoir.com/rss/manchettes.xml> | CA | fr | Local / News | 38 | no | **in use** |
+| Le Devoir | <https://www.ledevoir.com/rss/section/politique.xml> | CA | fr | Local / Politics | 10 | no | available |
+| Le Devoir | <https://www.ledevoir.com/rss/section/monde.xml> | CA | fr | World / Global Issues | 9 | no | available |
 | Le Devoir | <https://www.ledevoir.com/rss/section/economie.xml> | CA | fr | Business / Economy | 10 | no | available |
-| Le Devoir | <https://www.ledevoir.com/rss/section/culture.xml> | CA | fr | Culture / Arts | 10 | no | available |
-| Le Devoir | <https://www.ledevoir.com/rss/section/opinion.xml> | CA | fr | News / Opinion | 25 | no | **in use** |
-| Journal de Montréal | <https://www.journaldemontreal.com/rss.xml> | CA | fr | News / Top Stories | 41 | yes | available |
-| Journal de Montréal | <https://www.journaldemontreal.com/actualite/politique/rss.xml> | CA | fr | News / Politics | 16 | yes | available |
+| Le Devoir | <https://www.ledevoir.com/rss/section/culture.xml> | CA | fr | Entertainment / Arts | 10 | no | available |
+| Le Devoir | <https://www.ledevoir.com/rss/section/opinion.xml> | CA | fr | Knowledge / Opinion | 25 | no | **in use** |
+| Journal de Montréal | <https://www.journaldemontreal.com/rss.xml> | CA | fr | Local / News | 41 | yes | available |
+| Journal de Montréal | <https://www.journaldemontreal.com/actualite/politique/rss.xml> | CA | fr | Local / Politics | 16 | yes | available |
 | Journal de Montréal | <https://www.journaldemontreal.com/sports/rss.xml> | CA | fr | Sports / Other Sports | 29 | yes | available |
-| Journal de Québec | <https://www.journaldequebec.com/rss.xml> | CA | fr | News / Local | 42 | yes | **in use** |
-| TVA Nouvelles | <https://www.tvanouvelles.ca/rss.xml> | CA | fr | News / Top Stories | 40 | yes | available |
-| La Presse | <https://www.lapresse.ca/actualites/rss> | CA | fr | News / Top Stories | 10 | yes | **in use** |
-| La Presse | <https://www.lapresse.ca/international/rss> | CA | fr | News / World | 10 | yes | available |
+| Journal de Québec | <https://www.journaldequebec.com/rss.xml> | CA | fr | Local / News | 42 | yes | **in use** |
+| TVA Nouvelles | <https://www.tvanouvelles.ca/rss.xml> | CA | fr | Local / News | 40 | yes | available |
+| La Presse | <https://www.lapresse.ca/actualites/rss> | CA | fr | Local / News | 10 | yes | **in use** |
+| La Presse | <https://www.lapresse.ca/international/rss> | CA | fr | World / Global Issues | 10 | yes | available |
 | La Presse | <https://www.lapresse.ca/affaires/rss> | CA | fr | Business / Economy | 10 | yes | available |
-| La Presse | <https://www.lapresse.ca/arts/rss> | CA | fr | Culture / Arts | 10 | yes | **in use** |
+| La Presse | <https://www.lapresse.ca/arts/rss> | CA | fr | Entertainment / Arts | 10 | yes | **in use** |
 | La Presse | <https://www.lapresse.ca/sports/rss> | CA | fr | Sports / Other Sports | 10 | yes | available |
-| L'actualité | <https://lactualite.com/feed> | CA | fr | News / Top Stories | 50 | yes | available |
-| Pivot | <https://pivot.quebec/feed/> | CA | fr | News / Politics | 10 | yes | **in use** |
-| Noovo Info | <https://www.noovo.info/arc/outboundfeeds/rss/category/nouvelles/international/> | CA | fr | News / World | 60 | yes | **in use** |
-| Noovo Info | <https://www.noovo.info/arc/outboundfeeds/rss/category/nouvelles/politique/> | CA | fr | News / Politics | 31 | yes | available |
+| L'actualité | <https://lactualite.com/feed> | CA | fr | Local / News | 50 | yes | available |
+| Pivot | <https://pivot.quebec/feed/> | CA | fr | Local / Politics | 10 | yes | **in use** |
+| Noovo Info | <https://www.noovo.info/arc/outboundfeeds/rss/category/nouvelles/international/> | CA | fr | World / Global Issues | 60 | yes | **in use** |
+| Noovo Info | <https://www.noovo.info/arc/outboundfeeds/rss/category/nouvelles/politique/> | CA | fr | Local / Politics | 31 | yes | available |
 | Noovo Info | <https://www.noovo.info/arc/outboundfeeds/rss/category/nouvelles/economie/> | CA | fr | Business / Economy | 10 | yes | available |
 | Noovo Info | <https://www.noovo.info/arc/outboundfeeds/rss/category/nouvelles/sport/> | CA | fr | Sports / Other Sports | 5 | yes | available |
-| Noovo Info Grand Montréal | <https://www.noovo.info/arc/outboundfeeds/rss/category/regions/grand-montreal/> | CA | fr | News / Local | 6 | yes | available |
-| Halifax Examiner | <https://www.halifaxexaminer.ca/feed/> | CA | en | News / Local | 10 | yes | **in use** |
-| The Coast | <https://www.thecoast.ca/feed/> | CA | en | News / Local | 10 | yes | available |
-| Winnipeg Free Press | <https://www.winnipegfreepress.com/local/feed> | CA | en | News / Local | 10 | no | **in use** |
-| Brandon Sun | <https://www.brandonsun.com/local/feed> | CA | en | News / Local | 10 | no | available |
-| Edmonton Journal | <https://edmontonjournal.com/feed> | CA | en | News / Local | 10 | no | available |
-| Calgary Herald | <https://calgaryherald.com/feed> | CA | en | News / Local | 10 | no | **in use** |
-| Ottawa Citizen | <https://ottawacitizen.com/feed> | CA | en | News / Local | 10 | no | available |
-| Vancouver Sun | <https://vancouversun.com/feed> | CA | en | News / Local | 10 | no | available |
-| Times Colonist | <https://www.timescolonist.com/rss> | CA | en | News / Local | 20 | yes | **in use** |
-| The Narwhal | <https://thenarwhal.ca/feed/> | CA | en | Life / Environment | 11 | yes | **in use** |
-| Cabin Radio | <https://cabinradio.ca/feed/> | CA | en | News / Local | 10 | no | available |
-| Nunatsiaq News | <https://nunatsiaq.com/feed/> | CA | en | News / Local | 25 | yes | **in use** |
-| SooToday | <https://www.sootoday.com/rss> | CA | en | News / Local | 20 | yes | **in use** |
-| TorontoToday | <https://www.torontotoday.ca/rss> | CA | en | News / Local | 20 | yes | available |
-| CityNews Toronto | <https://toronto.citynews.ca/feed/> | CA | en | News / Local | 15 | yes | available |
-| Daily Hive | <https://dailyhive.com/feed> | CA | en | News / Local | 50 | yes | available |
-| Castanet | <https://www.castanet.net/rss/mostrecent.xml> | CA | en | News / Local | 26 | yes | available |
-| SaltWire | <https://www.saltwire.com/feed> | CA | en | News / Local | 10 | no | available |
-| SaltWire Newfoundland | <https://www.saltwire.com/category/newfoundland-labrador/feed> | CA | en | News / Local | 10 | no | available |
-| SaltWire PEI | <https://www.saltwire.com/category/prince-edward-island/feed> | CA | en | News / Local | 10 | no | available |
+| Noovo Info Grand Montréal | <https://www.noovo.info/arc/outboundfeeds/rss/category/regions/grand-montreal/> | CA | fr | Local / News | 6 | yes | available |
+| Halifax Examiner | <https://www.halifaxexaminer.ca/feed/> | CA | en | Local / News | 10 | yes | **in use** |
+| The Coast | <https://www.thecoast.ca/feed/> | CA | en | Local / News | 10 | yes | available |
+| Winnipeg Free Press | <https://www.winnipegfreepress.com/local/feed> | CA | en | Local / News | 10 | no | **in use** |
+| Brandon Sun | <https://www.brandonsun.com/local/feed> | CA | en | Local / News | 10 | no | available |
+| Edmonton Journal | <https://edmontonjournal.com/feed> | CA | en | Local / News | 10 | no | available |
+| Calgary Herald | <https://calgaryherald.com/feed> | CA | en | Local / News | 10 | no | **in use** |
+| Ottawa Citizen | <https://ottawacitizen.com/feed> | CA | en | Local / News | 10 | no | available |
+| Vancouver Sun | <https://vancouversun.com/feed> | CA | en | Local / News | 10 | no | available |
+| Times Colonist | <https://www.timescolonist.com/rss> | CA | en | Local / News | 20 | yes | **in use** |
+| The Narwhal | <https://thenarwhal.ca/feed/> | CA | en | Nature / Environment | 11 | yes | **in use** |
+| Cabin Radio | <https://cabinradio.ca/feed/> | CA | en | Local / News | 10 | no | available |
+| Nunatsiaq News | <https://nunatsiaq.com/feed/> | CA | en | Local / News | 25 | yes | **in use** |
+| SooToday | <https://www.sootoday.com/rss> | CA | en | Local / News | 20 | yes | **in use** |
+| TorontoToday | <https://www.torontotoday.ca/rss> | CA | en | Local / News | 20 | yes | available |
+| CityNews Toronto | <https://toronto.citynews.ca/feed/> | CA | en | Local / News | 15 | yes | available |
+| Daily Hive | <https://dailyhive.com/feed> | CA | en | Local / News | 50 | yes | available |
+| Castanet | <https://www.castanet.net/rss/mostrecent.xml> | CA | en | Local / News | 26 | yes | available |
+| SaltWire | <https://www.saltwire.com/feed> | CA | en | Local / News | 10 | no | available |
+| SaltWire Newfoundland | <https://www.saltwire.com/category/newfoundland-labrador/feed> | CA | en | Local / News | 10 | no | available |
+| SaltWire PEI | <https://www.saltwire.com/category/prince-edward-island/feed> | CA | en | Local / News | 10 | no | available |
 | Globe and Mail Business | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/> | CA | en | Business / Economy | 100 | yes | **in use** |
 | Globe and Mail Investing | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/investing/> | CA | en | Business / Markets | 100 | yes | available |
 | Globe and Mail Personal Finance | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/investing/personal-finance/> | CA | en | Business / Personal Finance | 42 | yes | **in use** |
 | Financial Post Economy | <https://financialpost.com/category/news/economy/feed.xml> | CA | en | Business / Economy | 10 | yes | available |
 | Financial Post Investing | <https://financialpost.com/category/investing/feed.xml> | CA | en | Business / Markets | 10 | yes | **in use** |
 | Financial Post Personal Finance | <https://financialpost.com/category/personal-finance/feed.xml> | CA | en | Business / Personal Finance | 10 | yes | available |
-| The Logic | <https://thelogic.co/feed/> | CA | en | Business / Industry | 10 | no | **in use** |
-| BetaKit | <https://betakit.com/feed/> | CA | en | Technology / Tech News | 150 | yes | **in use** |
+| The Logic | <https://thelogic.co/feed/> | CA | en | Business / Startups | 10 | no | **in use** |
+| BetaKit | <https://betakit.com/feed/> | CA | en | Business / Startups | 150 | yes | **in use** |
 | MobileSyrup | <https://mobilesyrup.com/feed/> | CA | en | Technology / Tech News | 20 | no | available |
 | Globe and Mail Technology | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/technology/> | CA | en | Technology / Tech News | 23 | yes | available |
-| SpaceQ | <https://spaceq.ca/feed/> | CA | en | Technology / Space | 10 | yes | **in use** |
-| Universe Today | <https://www.universetoday.com/rss.xml> | CA | en | Technology / Space | 20 | yes | available |
-| The Conversation Canada | <https://theconversation.com/ca/technology/articles.atom> | CA | en | Technology / Science | 25 | no | **in use** |
-| National Post Entertainment | <https://nationalpost.com/category/entertainment/feed.xml> | CA | en | Culture / Entertainment | 10 | yes | available |
-| Playback | <https://playbackonline.ca/feed/> | CA | en | Culture / Entertainment | 10 | yes | **in use** |
-| Intermission Magazine | <https://www.intermissionmagazine.ca/feed/> | CA | en | Culture / Arts | 10 | no | available |
-| All Lit Up | <https://alllitup.ca/feed/> | CA | en | Culture / Books | 15 | yes | **in use** |
-| Canadian Beats | <https://canadianbeats.ca/feed/> | CA | en | Culture / Music | 10 | yes | **in use** |
+| SpaceQ | <https://spaceq.ca/feed/> | CA | en | Science / Space | 10 | yes | **in use** |
+| Universe Today | <https://www.universetoday.com/rss.xml> | CA | en | Science / Space | 20 | yes | available |
+| The Conversation Canada | <https://theconversation.com/ca/technology/articles.atom> | CA | en | Science / Research | 25 | no | **in use** |
+| National Post Entertainment | <https://nationalpost.com/category/entertainment/feed.xml> | CA | en | Entertainment / Arts | 10 | yes | **in use** |
+| Playback | <https://playbackonline.ca/feed/> | CA | en | Entertainment / Film | 10 | yes | dropped (answered with a bot check; replaced by National Post Entertainment) |
+| Intermission Magazine | <https://www.intermissionmagazine.ca/feed/> | CA | en | Entertainment / Arts | 10 | no | available |
+| All Lit Up | <https://alllitup.ca/feed/> | CA | en | Entertainment / Books | 15 | yes | **in use** |
+| Canadian Beats | <https://canadianbeats.ca/feed/> | CA | en | Entertainment / Music | 10 | yes | **in use** |
 | Sportsnet NHL | <https://www.sportsnet.ca/hockey/nhl/feed/> | CA | en | Sports / Hockey | 52 | yes | available |
 | Daily Faceoff | <https://www.dailyfaceoff.com/feed> | CA | en | Sports / Hockey | 25 | yes | available |
 | The Hockey News | <https://thehockeynews.com/rss/THNHOME/full> | CA | en | Sports / Hockey | 50 | yes | **in use** |
@@ -107,26 +108,26 @@ The last table lists publishers that could not be used and why, so nobody wastes
 | 3DownNation | <https://3downnation.com/feed/> | CA | en | Sports / Football | 10 | yes | **in use** |
 | Globe and Mail Sports | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/sports/> | CA | en | Sports / Other Sports | 100 | yes | available |
 | Canadian Running | <https://runningmagazine.ca/feed/> | CA | en | Sports / Other Sports | 9 | no | available |
-| Hospital News | <https://www.hospitalnews.com/feed/> | CA | en | Life / Health | 10 | no | **in use** |
-| Daily Hive Dished | <https://dailyhive.com/feed/dished> | CA | en | Life / Food | 50 | yes | **in use** |
-| Canadian Living | <https://www.canadianliving.com/rss> | CA | en | Life / Food | 50 | yes | available |
-| Vacay.ca | <https://vacay.ca/feed/> | CA | en | Life / Travel | 10 | yes | **in use** |
-| Travelweek | <https://www.travelweek.ca/feed/> | CA | en | Life / Travel | 10 | yes | available |
-| NPR | <https://feeds.npr.org/1014/rss.xml> | US | en | News / Politics | 10 | yes | **in use** |
-| New York Times | <https://rss.nytimes.com/services/xml/rss/nyt/Science.xml> | US | en | Technology / Science | 32 | yes | available |
+| Hospital News | <https://www.hospitalnews.com/feed/> | CA | en | Health / Medicine | 10 | no | **in use** |
+| Daily Hive Dished | <https://dailyhive.com/feed/dished> | CA | en | Lifestyle / Food | 50 | yes | **in use** |
+| Canadian Living | <https://www.canadianliving.com/rss> | CA | en | Lifestyle / Food | 50 | yes | available |
+| Vacay.ca | <https://vacay.ca/feed/> | CA | en | Lifestyle / Travel | 10 | yes | **in use** |
+| Travelweek | <https://www.travelweek.ca/feed/> | CA | en | Lifestyle / Travel | 10 | yes | available |
+| NPR | <https://feeds.npr.org/1014/rss.xml> | US | en | Local / Politics | 10 | yes | **in use** |
+| New York Times | <https://rss.nytimes.com/services/xml/rss/nyt/Science.xml> | US | en | Science / Research | 32 | yes | available |
 | Ars Technica | <https://feeds.arstechnica.com/arstechnica/index> | US | en | Technology / Tech News | 20 | yes | **in use** |
 | ESPN | <https://www.espn.com/espn/rss/news> | US | en | Sports / Other Sports | 41 | no | available |
-| BBC News | <https://feeds.bbci.co.uk/news/rss.xml> | GB | en | News / Top Stories | 32 | yes | **in use** |
+| BBC News | <https://feeds.bbci.co.uk/news/rss.xml> | GB | en | Local / News | 32 | yes | **in use** |
 | The Guardian | <https://www.theguardian.com/football/rss> | GB | en | Sports / Soccer | 58 | yes | **in use** |
-| The Guardian | <https://www.theguardian.com/uk/culture/rss> | GB | en | Culture / Arts | 64 | yes | available |
-| Le Figaro | <https://www.lefigaro.fr/rss/figaro_actualites.xml> | FR | fr | News / Top Stories | 19 | yes | **in use** |
-| France 24 | <https://www.france24.com/fr/rss> | FR | fr | News / World | 24 | yes | **in use** |
+| The Guardian | <https://www.theguardian.com/uk/culture/rss> | GB | en | Entertainment / Arts | 64 | yes | available |
+| Le Figaro | <https://www.lefigaro.fr/rss/figaro_actualites.xml> | FR | fr | Local / News | 19 | yes | **in use** |
+| France 24 | <https://www.france24.com/fr/rss> | FR | fr | World / Global Issues | 24 | yes | **in use** |
 | Le Monde | <https://www.lemonde.fr/economie/rss_full.xml> | FR | fr | Business / Economy | 20 | yes | available |
-| Tagesschau | <https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml> | DE | de | News / Top Stories | 40 | yes | **in use** |
-| El País | <https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada> | ES | es | News / Top Stories | 159 | yes | **in use** |
-| El Universal | <https://www.eluniversal.com.mx/arc/outboundfeeds/rss/?outputType=xml> | MX | es | News / Top Stories | 100 | yes | available |
-| ABC News | <https://www.abc.net.au/news/feed/51120/rss.xml> | AU | en | News / Top Stories | 25 | yes | available |
-| The Conversation | <https://theconversation.com/au/environment/articles.atom> | AU | en | Life / Environment | 25 | no | available |
+| Tagesschau | <https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml> | DE | de | Local / News | 40 | yes | **in use** |
+| El País | <https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada> | ES | es | Local / News | 159 | yes | **in use** |
+| El Universal | <https://www.eluniversal.com.mx/arc/outboundfeeds/rss/?outputType=xml> | MX | es | Local / News | 100 | yes | available |
+| ABC News | <https://www.abc.net.au/news/feed/51120/rss.xml> | AU | en | Local / News | 25 | yes | available |
+| The Conversation | <https://theconversation.com/au/environment/articles.atom> | AU | en | Nature / Environment | 25 | no | available |
 
 ## Publishers that could not be used
 
@@ -151,7 +152,7 @@ The last table lists publishers that could not be used and why, so nobody wastes
 | Le Devoir | <https://www.ledevoir.com/rss> | dead: HTTP 404 (RSS directory is at /flux-rss) |
 | Ricochet (fr) | <https://ricochet.media/fr/feed> | network: Connect Timeout Error (ricochet.media:443, 10000ms) on first attempt; retry redirected to franco.ricochet.media/fr/feed/ which returned HTTP 404 |
 | Ricochet Média (fr) | <https://franco.ricochet.media/feed/> | dead: feed parses but newest item is 2021-10-07 ('Ricochet devient Pivot'); French edition succeeded by pivot.quebec |
-| Ricochet (en) | <https://ricochet.media/feed/> | out of bucket: feed works (10 items, 2026-10-03) but content is English-only; belongs in the Canada/English bucket (News / Opinion, independent, no thumbnails) |
+| Ricochet (en) | <https://ricochet.media/feed/> | out of bucket: feed works (10 items, 2026-10-03) but content is English-only; belongs in the Canada/English bucket (Knowledge / Opinion, independent, no thumbnails) |
 | Le Soleil | <https://www.lesoleil.com/rss> | dead: HTTP 404; also 404 on /feed/ and /rss.xml, and homepage advertises no RSS/Atom link |
 | Noovo Info | <https://www.noovo.info/rss.xml> | dead: HTTP 404 (also /feed → 404); real feeds are under /arc/outboundfeeds/rss/category/... and listed at noovo.info/rss/ |
 | Noovo Info | <https://www.noovo.info/arc/outboundfeeds/rss/category/nouvelles/art-et-culture> | too few items: ok but only 3 items |
@@ -199,9 +200,9 @@ The last table lists publishers that could not be used and why, so nobody wastes
 | Canadian Traveller | <https://www.canadiantraveller.com/feed> | network: fetch failed / request was cancelled |
 | Georgia Straight | <https://www.straight.com/rss> | dead: HTTP 404 |
 | Open Book | <https://open-book.ca/feed> | dead: redirects to obpo.ca/open-book/feed/ which is a comments feed with 0 items |
-| NOW Toronto | <https://nowtoronto.com/feed/> | omitted: works (10 items, images) but is a mixed local news feed, not topical; better suited to News / Local |
+| NOW Toronto | <https://nowtoronto.com/feed/> | omitted: works (10 items, images) but is a mixed local news feed, not topical; better suited to Local / News |
 | Cult MTL | <https://cultmtl.com/feed/> | omitted: works (10 items) but mixed Quebec news/culture, not a single topical subcategory |
-| The Coast | <https://www.thecoast.ca/feed/> | omitted: works (10 items, images) but mixed Halifax local content; better suited to News / Local |
+| The Coast | <https://www.thecoast.ca/feed/> | omitted: works (10 items, images) but mixed Halifax local content; better suited to Local / News |
 | Globe and Mail | <https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/life/> | omitted: works (87 items, images) but catch-all life section spanning health, food, travel and style |
 | SBS News | <https://www.sbs.com.au/news/feed> | stale: ok but newest item 2026-08-26, older than 21 days |
 | El Universal | <https://www.eluniversal.com.mx/rss.xml> | dead: HTTP 404 (working feed found at /arc/outboundfeeds/rss/?outputType=xml) |

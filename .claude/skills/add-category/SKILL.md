@@ -1,6 +1,6 @@
 ---
 name: add-category
-description: Add a category or a subcategory to the Curanet tree, with an optional French name. Use for "/add-category Science", "/add-category Technology / Robotics", "add a subcategory Robotics under Technology, in French Robotique".
+description: Add a category or a subcategory to the Curanet tree, with an optional French name. Use for "/add-category Podcasts", "/add-category Technology / Robotics", "add a subcategory Robotics under Technology, in French Robotique".
 ---
 
 Add to `data/categories.json`. Categories are shown in file order; new ones go last.
@@ -17,5 +17,6 @@ Arguments: `$ARGUMENTS` — a name, or `Parent / Name` for a subcategory, option
    ```
    The id is made from the English name (`Tech News` → `tech-news`). Duplicates are refused.
 2. To change the order, edit `data/categories.json` and move the block; validate afterwards.
-3. Follow the "After any data change" steps in `_shared.md`. The new category appears in the ribbon
-   even before it has sources; tell the owner they can now `/add-source` into it.
+3. Follow the "After any data change" steps in `_shared.md`. The new category appears as a tab in the
+   top bar (and as a row in Manage Following) even before it has sources; tell the owner they can
+   now `/add-source` into it.

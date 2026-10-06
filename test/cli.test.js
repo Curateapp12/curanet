@@ -55,7 +55,7 @@ after(() => {
 });
 
 test('add-source --check-only shows the feed and saves nothing', async () => {
-  const r = await cli('add-source.js', [`${base}/feed.xml`, '--category', 'News / Politics', '--country', 'ca', '--language', 'EN', '--check-only']);
+  const r = await cli('add-source.js', [`${base}/feed.xml`, '--category', 'Local / Politics', '--country', 'ca', '--language', 'EN', '--check-only']);
   assert.equal(r.code, 0, r.stderr);
   assert.match(r.stdout, /Latest titles/);
   assert.match(r.stdout, /First story: bold & brave/);
@@ -63,14 +63,14 @@ test('add-source --check-only shows the feed and saves nothing', async () => {
 });
 
 test('add-source refuses a web page but lists the feeds it advertises', async () => {
-  const r = await cli('add-source.js', [`${base}/page`, '--category', 'News / Politics', '--country', 'CA', '--language', 'en']);
+  const r = await cli('add-source.js', [`${base}/page`, '--category', 'Local / Politics', '--country', 'CA', '--language', 'en']);
   assert.equal(r.code, 1);
   assert.match(r.stderr, /not a feed/);
   assert.match(r.stderr, /\/feed\.xml/);
 });
 
 test('add-source reports a publisher refusal and does not save', async () => {
-  const r = await cli('add-source.js', [`${base}/forbidden`, '--category', 'News / Politics', '--country', 'CA', '--language', 'en']);
+  const r = await cli('add-source.js', [`${base}/forbidden`, '--category', 'Local / Politics', '--country', 'CA', '--language', 'en']);
   assert.equal(r.code, 1);
   assert.match(r.stderr, /refused/);
   assert.equal(readJson('sources.json').sources.length, 0);
@@ -80,22 +80,22 @@ test('add-source rejects a bad category, country or language with a helpful mess
   let r = await cli('add-source.js', [`${base}/feed.xml`, '--category', 'Nonsense / Nope', '--country', 'CA', '--language', 'en']);
   assert.equal(r.code, 1);
   assert.match(r.stderr, /News/);
-  r = await cli('add-source.js', [`${base}/feed.xml`, '--category', 'News / Politics', '--country', 'Canada', '--language', 'en']);
+  r = await cli('add-source.js', [`${base}/feed.xml`, '--category', 'Local / Politics', '--country', 'Canada', '--language', 'en']);
   assert.equal(r.code, 1);
   assert.match(r.stderr, /two-letter country/);
-  r = await cli('add-source.js', [`${base}/feed.xml`, '--category', 'News / Politics', '--country', 'CA', '--language', 'english']);
+  r = await cli('add-source.js', [`${base}/feed.xml`, '--category', 'Local / Politics', '--country', 'CA', '--language', 'english']);
   assert.equal(r.code, 1);
   assert.match(r.stderr, /two-letter language/);
 });
 
 test('add-source saves the source and fetches it once', async () => {
-  const r = await cli('add-source.js', [`${base}/feed.xml`, '--category', 'News / Politics', '--country', 'CA', '--language', 'en', '--name', 'Gazette']);
+  const r = await cli('add-source.js', [`${base}/feed.xml`, '--category', 'Local / Politics', '--country', 'CA', '--language', 'en', '--name', 'Gazette']);
   assert.equal(r.code, 0, r.stderr);
   const sources = readJson('sources.json').sources;
   assert.equal(sources.length, 1);
   assert.equal(sources[0].id, 'gazette');
   assert.equal(sources[0].name, 'Gazette');
-  assert.equal(sources[0].category, 'news');
+  assert.equal(sources[0].category, 'local');
   assert.equal(sources[0].subcategory, 'politics');
   assert.equal(sources[0].status, 'active');
   assert.equal(sources[0].fetch.lastResult, 'ok');
@@ -105,13 +105,13 @@ test('add-source saves the source and fetches it once', async () => {
 });
 
 test('add-source refuses a duplicate feed', async () => {
-  const r = await cli('add-source.js', [`${base}/feed.xml?utm_source=x`, '--category', 'News / World', '--country', 'CA', '--language', 'en']);
+  const r = await cli('add-source.js', [`${base}/feed.xml?utm_source=x`, '--category', 'World / Geopolitics', '--country', 'CA', '--language', 'en']);
   assert.equal(r.code, 1);
   assert.match(r.stderr, /already a source: gazette/);
 });
 
 test('add-source saves a YouTube channel as waiting_for_key without fetching', async () => {
-  const r = await cli('add-source.js', ['https://www.youtube.com/@ExampleNews', '--category', 'News / Top Stories', '--country', 'CA', '--language', 'en']);
+  const r = await cli('add-source.js', ['https://www.youtube.com/@ExampleNews', '--category', 'Local / News', '--country', 'CA', '--language', 'en']);
   assert.equal(r.code, 0, r.stderr);
   const yt = readJson('sources.json').sources.find((s) => s.type === 'youtube_channel');
   assert.ok(yt);
@@ -119,13 +119,13 @@ test('add-source saves a YouTube channel as waiting_for_key without fetching', a
   assert.equal(yt.handle, '@ExampleNews');
   assert.equal(yt.status, 'waiting_for_key');
   assert.ok(!existsSync(path.join(dataDir, 'items/yt-examplenews.json')));
-  const dup = await cli('add-source.js', ['https://www.youtube.com/@examplenews', '--category', 'News / Top Stories', '--country', 'CA', '--language', 'en']);
+  const dup = await cli('add-source.js', ['https://www.youtube.com/@examplenews', '--category', 'Local / News', '--country', 'CA', '--language', 'en']);
   assert.equal(dup.code, 1);
   assert.match(dup.stderr, /already a source/);
 });
 
 test('add-video rejects links that are not videos', async () => {
-  const r = await cli('add-video.js', ['https://www.youtube.com/@ExampleNews', '--category', 'News / Politics', '--country', 'CA', '--language', 'en']);
+  const r = await cli('add-video.js', ['https://www.youtube.com/@ExampleNews', '--category', 'Local / Politics', '--country', 'CA', '--language', 'en']);
   assert.equal(r.code, 1);
   assert.match(r.stderr, /does not look like a YouTube video link/);
 });
@@ -198,7 +198,7 @@ test('hide-item removes the item and records it; the next fetch skips it', async
 test('category.js list, add and rename', async () => {
   let r = await cli('category.js', ['list']);
   assert.equal(r.code, 0);
-  assert.match(r.stdout, /News \(news\)/);
+  assert.match(r.stdout, /Local \(local\)/);
 
   r = await cli('category.js', ['add', 'Robotics', '--parent', 'Technology', '--fr', 'Robotique']);
   assert.equal(r.code, 0, r.stderr);
@@ -213,10 +213,10 @@ test('category.js list, add and rename', async () => {
   assert.equal(r.code, 0, r.stderr);
   assert.ok(readJson('categories.json').categories.some((c) => c.id === 'science-nature'));
 
-  r = await cli('category.js', ['rename', 'Life', '--name', 'Lifestyle']);
+  r = await cli('category.js', ['rename', 'Lifestyle', '--name', 'Living']);
   assert.equal(r.code, 0, r.stderr);
-  const life = readJson('categories.json').categories.find((c) => c.id === 'life');
-  assert.equal(life.name.en, 'Lifestyle');
+  const lifestyle = readJson('categories.json').categories.find((c) => c.id === 'lifestyle');
+  assert.equal(lifestyle.name.en, 'Living');
 
   r = await cli('category.js', ['rename', 'Technology / Robotics', '--fr', 'Robots']);
   assert.equal(r.code, 0, r.stderr);

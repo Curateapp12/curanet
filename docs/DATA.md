@@ -11,10 +11,10 @@ typo is caught before it breaks the site.
   "version": 1,
   "categories": [
     {
-      "id": "news",
-      "name": { "en": "News", "fr": "Actualités" },
+      "id": "local",
+      "name": { "en": "Local", "fr": "Local" },
       "subcategories": [
-        { "id": "top-stories", "name": { "en": "Top Stories", "fr": "À la une" } }
+        { "id": "news", "name": { "en": "News", "fr": "Actualités" } }
       ]
     }
   ]
@@ -37,8 +37,8 @@ typo is caught before it breaks the site.
       "name": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/canada/",
       "siteUrl": "https://www.theglobeandmail.com",
-      "category": "news",
-      "subcategory": "top-stories",
+      "category": "local",
+      "subcategory": "news",
       "country": "CA",
       "language": "en",
       "status": "active",
@@ -60,8 +60,8 @@ typo is caught before it breaks the site.
       "url": "https://www.youtube.com/@CBCNews",
       "handle": "@CBCNews",
       "channelId": null,
-      "category": "news",
-      "subcategory": "top-stories",
+      "category": "local",
+      "subcategory": "news",
       "country": "CA",
       "language": "en",
       "status": "waiting_for_key",
@@ -76,7 +76,7 @@ typo is caught before it breaks the site.
 |---|---|
 | `id` | Slug, unique, also the item file name (`data/items/<id>.json`). YouTube channels start with `yt-`. |
 | `type` | `feed` (RSS/Atom) or `youtube_channel`. |
-| `name` | Short display name shown under each item ("BBC", "Le Devoir"). |
+| `name` | Short display name shown on each item's publisher line — above the title for articles, in the channel row for videos ("BBC", "Le Devoir"). |
 | `url` | Feed address, or the channel's page (for display and for resolving the channel). |
 | `siteUrl` | Publisher's homepage (feeds). |
 | `handle`, `channelId` | YouTube only. `channelId` is filled in by the first successful API fetch. |

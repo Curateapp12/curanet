@@ -12,14 +12,14 @@ the preview link.
 
 | Command | What it does | Example |
 |---|---|---|
-| `/add-source` | Adds a feed (or a YouTube channel) with its category, subcategory, country and language. Claude checks the address works, shows you the publisher's name and latest titles, refuses duplicates, fetches it once and rebuilds. | `/add-source https://thetyee.ca/rss2.xml News / Top Stories CA en` |
-| `/add-video` | Adds one YouTube video by link. | `/add-video https://youtu.be/dQw4w9WgXcQ Culture / Music GB en` |
+| `/add-source` | Adds a feed (or a YouTube channel) with its category, subcategory, country and language. Claude checks the address works, shows you the publisher's name and latest titles, refuses duplicates, fetches it once and rebuilds. | `/add-source https://globalnews.ca/politics/feed/ Local / Politics CA en` |
+| `/add-video` | Adds one YouTube video by link. | `/add-video https://youtu.be/dQw4w9WgXcQ Entertainment / Music GB en` |
 | `/remove-source` | Deletes a source and all of its items. | `/remove-source the-tyee` |
 | `/pause-source` | Stops fetching a source but keeps its items. `resume` turns it back on (also un-blocks a refused source). | `/pause-source rabble`, `/pause-source resume rabble` |
-| `/edit-source` | Moves a source to another category or subcategory, or changes its country, language or name. All of its items follow. | `/edit-source the-tyee --category "News / Local"` |
+| `/edit-source` | Moves a source to another category or subcategory, or changes its country, language or name. All of its items follow. | `/edit-source the-tyee --category "Knowledge / Opinion"` |
 | `/hide-item` | Removes one item from the feed by its link (or its 16-character id), for good. | `/hide-item https://example.com/story` |
 | `/add-category` | Adds a category, or a subcategory under an existing category, with an optional French name. | `/add-category Technology / Robotics --fr Robotique` |
-| `/rename-category` | Renames a category or subcategory. Everything stays in place. | `/rename-category Life --name Lifestyle` |
+| `/rename-category` | Renames a category or subcategory. Everything stays in place. | `/rename-category Knowledge --name Learning` |
 | `/fetch` | Downloads every active source, adds new items, removes items older than 90 days, rebuilds and republishes the preview. | `/fetch` |
 
 You can also just say "add the Halifax Examiner feed to Local news in Canada, English" and Claude
@@ -29,11 +29,25 @@ Every change goes on a branch and into a pull request. On GitHub's website, open
 and press **Merge pull request** to make it part of `main`. The checks on the pull request include
 a test of the data files, so a mistake is caught before it reaches the site.
 
+## What visitors see (since the redesign)
+
+The site follows your Figma design. The top bar lists **My Hub**, **Live**, **Home** and then the
+categories from `data/categories.json` in file order; the bar under it lists the subcategories.
+Visitors save and share items with the buttons under each item. They follow sections from
+**My Hub › Following** (the gear opens Manage Following). From the avatar at the top right they
+switch the theme (light by default), set a preferred language and location and, on phones, move the
+sections bar to the bottom of the screen. Saved items and followed sections live in their own
+browser; there is no account. **Live** shows the latest videos (All / News / Sports / Music) until
+the YouTube API key exists; real live streams come later. Like and Comment are shown but disabled
+until accounts exist. Adding a category with `/add-category` makes it appear in the top bar on the
+next build.
+
 ## Where things are
 
 - `data/sources.json` — every feed and channel: its name, address, category, subcategory, country,
   language and status.
-- `data/categories.json` — the category tree, in the order the ribbon shows it.
+- `data/categories.json` — the category tree, in the order the top bar shows it (after My Hub, Live
+  and Home).
 - `data/hidden.json` — items you removed.
 - `data/items/` — the collected items, one file per source.
 - `data/runs/` — one file per fetch run, saying when it ran, what it added and what failed.
@@ -46,8 +60,9 @@ If you prefer to change something directly:
 1. On GitHub, open the file (for example `data/sources.json`).
 2. Press the pencil icon (**Edit this file**) at the top right.
 3. Change the value. Keep the quotes and commas exactly as they are. Common edits:
-   - Move a source: change `"category": "news"` and `"subcategory": "politics"` to other ids from
-     `data/categories.json` (ids are the lower-case words with dashes, like `top-stories`).
+   - Move a source: change `"category": "local"` and `"subcategory": "politics"` to other ids from
+     `data/categories.json` (a category id and one of its own subcategory ids; ids are the
+     lower-case words with dashes, like `personal-finance`).
    - Pause a source: change `"status": "active"` to `"status": "paused"`. Resume: back to `"active"`.
    - Change the shown name: edit `"name"`.
 4. Press **Commit changes…**, choose **Create a new branch for this commit and start a pull

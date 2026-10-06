@@ -1,6 +1,6 @@
 ---
 name: rename-category
-description: Rename a category or subcategory (English and/or French display name). Ids never change, so sources keep working. Use for "/rename-category Life --name Lifestyle" or "call the Culture category Arts & Culture".
+description: Rename a category or subcategory (English and/or French display name). Ids never change, so sources keep working. Use for "/rename-category Knowledge --name Learning" or "call the Entertainment category Arts & Entertainment".
 ---
 
 Rename in `data/categories.json`. Only the display names change; the id stays, so every source and

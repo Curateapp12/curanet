@@ -57,17 +57,20 @@ data/hidden.json ───┘            │
 
 1. Load the data; attach each source's name, category, subcategory, country and language to its
    items; sort newest first (`published`, falling back to `addedAt`).
-2. **Hosted** (`dist/`): `index.html` with the data inlined as JSON, `app.js`, `styles.css`. Images
-   load from the publisher's address; videos play in `youtube-nocookie.com`; filters live in the
-   query string.
+2. **Hosted** (`dist/`): `index.html` with the data inlined as JSON, `strings.js`, `app.js`,
+   `styles.css`. Images load from the publisher's address; videos play in `youtube-nocookie.com`;
+   filters live in the query string.
 3. **Preview** (`preview/curanet-preview.html`): the same template rendered as an artifact fragment
    (no doctype/html/head/body, `<title>` and `<style>` first), with CSS and JS inlined. Thumbnails
    are downloaded (10 s each, a few at a time, cached in `.cache/thumbs/`), resized to 240 px wide
    WebP and embedded as data URIs, newest items first, until the file would pass 12 MB; older
    items then show without a thumbnail. Videos open on YouTube in a new tab. State stays in the page.
 
-The browser code is one script with a small `CONFIG` object injected by the build
-(`mode`, `urlState`, `thumbnails`, `video`). Everything else is identical in both outputs.
+The browser code is two scripts, `strings.js` (the English and French tables) and `app.js`, with a
+small `CONFIG` object injected by the build (`mode`, `urlState`, `thumbnails`, `video`, `uiLang`).
+Saved items, followed sections, the theme, the sections-bar position and the preferred language and
+location are kept in the visitor's browser (localStorage keys `curanet.*`; in memory for the visit
+when the browser refuses storage). Everything else is identical in both outputs.
 
 ## Why these choices
 
