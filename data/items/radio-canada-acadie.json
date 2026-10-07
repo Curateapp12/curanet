@@ -3,6 +3,193 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "0ebfd85258ceecae",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291395/inscriptions-etudiants-ccnb",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291395/inscriptions-etudiants-ccnb",
+      "title": "Léger déclin du nombre d’étudiants au CCNB",
+      "excerpt": "Le CCNB compte 78 étudiants de moins qu’en 2025, mais il s’en tire bien malgré tout, selon son PDG.",
+      "published": "2026-10-07T14:59:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ccnb-etudiants-etrangers-quota-atteint-maximum-nb.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "72499ba90eea73ea",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10778267/telejournal-acadie-6-octobre",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10778267/telejournal-acadie-6-octobre",
+      "title": "Le téléjournal Acadie du 6 octobre",
+      "excerpt": "Un compte TikTok dérange à la polyvalente Louis-Mailloux à Caraquet. Les femmes dénoncent un manque d'accès à des gynécologues en Nouvelle-Écosse. Et, les réactions aux résultats des élections québécoises.",
+      "published": "2026-10-07T14:08:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/telejournal-acadie-karine-godin-6-octobre.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "80c4b470c929b582",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10778648/un-compte-tiktok-derange-eleves-caraquet",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10778648/un-compte-tiktok-derange-eleves-caraquet",
+      "title": "Un compte TikTok dérange des élèves de Caraquet",
+      "excerpt": "Des publications d’un compte TikTok intitulé «PLM confession 2026» visent anonymement des élèves de la polyvalente Louis-Mailloux de Caraquet.",
+      "published": "2026-10-07T13:50:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-tiktok-caraquet.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "cc768ea6ca545b2f",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291302/nouveau-poste-police-grc-moncton",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291302/nouveau-poste-police-grc-moncton",
+      "title": "Le nouveau poste de police à Moncton inauguré",
+      "excerpt": "La région a un commissariat flambant neuf qui offre de meilleures commodités aux policiers.",
+      "published": "2026-10-07T10:49:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/inauguration-poste-police-moncton.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "9727d930a284289c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291234/polyvalente-louis-mailloux-plm-tiktok-cyberintimidation",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291234/polyvalente-louis-mailloux-plm-tiktok-cyberintimidation",
+      "title": "Propos dégradants envers des élèves : un compte TikTok dérange à Caraquet",
+      "excerpt": "Les messages publiés sont grossiers, voire violents, et répondent à la définition de cyberintimidation.",
+      "published": "2026-10-07T09:31:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ecole-louis-mailloux-caraquet-ete-automne.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "42ad6a120ee1e8df",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291227/parti-quebecois-victoire-reactions-nouveau-brunswick",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291227/parti-quebecois-victoire-reactions-nouveau-brunswick",
+      "title": "Victoire du PQ : des élus néo-brunswickois ne s’inquiètent pas outre mesure",
+      "excerpt": "Susan Holt dit vouloir travailler avec le Parti québécois au sein d’Équipe Canada.",
+      "published": "2026-10-06T22:20:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pspp-victoire-paul-st-pierre-plamondon-pq-soiree-electorale-elections-quebec-parti-quebecois.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "c554b89626e7e904",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291137/lepreau-mactaquac-batterie-electricite",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291137/lepreau-mactaquac-batterie-electricite",
+      "title": "L’avenir du Nouveau-Brunswick est nucléaire, selon Énergie NB",
+      "excerpt": "La centrale nucléaire de Point Lepreau a connu et connaît toujours de nombreux problèmes.",
+      "published": "2026-10-06T21:06:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/centrale-nucleaire-point-lepreau-60808.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "247c5fca13b1d142",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2495936/palc-2026-adapter-education-aux-changements-demographiques",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2495936/palc-2026-adapter-education-aux-changements-demographiques",
+      "title": "Éducation : les enjeux de la nouvelle PALC 2026",
+      "excerpt": "La nouvelle politique d’aménagement linguistique et culturel du Nouveau-Brunswick (PALC 2026) s'inscrit dans un projet plus large de société touchant le milieu de l'éducation.",
+      "published": "2026-10-06T19:06:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mathieu-lang-palc-2026-education.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "3305b3c63c1b9b3c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291181/proces-conspiration-meurtre-saulnier",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291181/proces-conspiration-meurtre-saulnier",
+      "title": "L’aide juridique retire son financement à cinq accusés de complot à Moncton",
+      "excerpt": "Les accusés doivent déposer une autre demande d'aide, ce qui retarde cette cause à Moncton.",
+      "published": "2026-10-06T18:45:59.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/palais-justice-moncton-nouveau-brunswick-91988.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "f59f5ec7ff878581",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291155/accident-mortel-berry-mills-zack-moncton",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291155/accident-mortel-berry-mills-zack-moncton",
+      "title": "Deux adolescents meurent dans un grave accident à Moncton",
+      "excerpt": "Un autre adolescent est dans un état critique à l’hôpital. Le conducteur de la voiture a été arrêté.",
+      "published": "2026-10-06T18:31:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/accident-moncton-98640.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "b4061da57d34882d",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291088/centre-donnees-lorneville-lac-spruce",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291088/centre-donnees-lorneville-lac-spruce",
+      "title": "Des résidents inquiets devant un deuxième projet de centre de données à Saint-Jean",
+      "excerpt": "Une autre entreprise propose de construire un complexe de traitement de données dans un parc industriel.",
+      "published": "2026-10-06T17:54:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/parc-industriel-lac-spruce-saint-jean-nb.png",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "1838e9059b7f061c",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2496018/transport-en-commun-en-milieu-rural-un-modele-viable-a-long-terme",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2496018/transport-en-commun-en-milieu-rural-un-modele-viable-a-long-terme",
+      "title": "Le transport en commun en région est-il viable à long terme?",
+      "excerpt": "Au cours des dernières années, le transport en commun s’est implanté dans plusieurs régions rurales du Nouveau-Brunswick, notamment dans le nord-ouest, dans la Péninsule acadienne et à Bathurst. La mise en place de ces services est rendue possible grâce au soutien financier du gouvernement…",
+      "published": "2026-10-06T15:32:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/emission/16x9/sens-large-emission-karine-godin-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "fefaf45333f41f26",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291103/reprise-livraison-campobello-etats-unis",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291103/reprise-livraison-campobello-etats-unis",
+      "title": "Les États-Unis autorisent la reprise des livraisons vers une île isolée du N.-B.",
+      "excerpt": "Un camion transportant des marchandises jusqu'à Campobello a été retenu à la frontière la semaine dernière.",
+      "published": "2026-10-06T14:40:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ile-campobello-poste-douane-etats-unis.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "0e30b08b55d65281",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2495822/criminalite-entrepreneurs-moncton-ne-voient-pas-amelioration",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2495822/criminalite-entrepreneurs-moncton-ne-voient-pas-amelioration",
+      "title": "Des entrepreneurs de Moncton ne voient pas d’amélioration concernant la criminalité",
+      "excerpt": "Un groupe d'entrepreneurs de Moncton, qui disent représenter plus de 4000 entreprises de la municipalité réunit sous la campagne Assez c'est assez , a offert une mise à jour au conseil municipal.",
+      "published": "2026-10-06T12:19:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sans-abri-itinerance-moncton-hiver-42165.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "cc80077f4166aa87",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2290630/erosion-fonds-urgence-peninsule",
+      "link": "https://ici.radio-canada.ca/nouvelle/2290630/erosion-fonds-urgence-peninsule",
+      "title": "Érosion : les municipalités demandent la création d’un fonds d’urgence spécial",
+      "excerpt": "L’AFMNB veut une enveloppe budgétaire prévisible et accessible pour toutes les municipalités touchées.",
+      "published": "2026-10-06T10:31:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/erosion-peninsule-acadienne-sainte-marie-saint-raphael.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "369a748040ce5fcf",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2290751/securite-publique-agents-moncton",
+      "link": "https://ici.radio-canada.ca/nouvelle/2290751/securite-publique-agents-moncton",
+      "title": "Sécurité publique : Moncton veut donner plus de pouvoir à ses agents communautaires",
+      "excerpt": "Les agents d’exécution des arrêtés municipaux recevront une formation de l’académie de police.",
+      "published": "2026-10-06T10:08:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/agents-communautaires-ville-de-moncton-bilan-positif-4668.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "305d78445a3a58a4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2290118/cameras-intervention-policier-grc-codiac-moncton",
+      "link": "https://ici.radio-canada.ca/nouvelle/2290118/cameras-intervention-policier-grc-codiac-moncton",
+      "title": "Pas de caméras d’intervention pour les policiers du Grand Moncton avant l’année prochaine",
+      "excerpt": "Le déploiement des caméras d’intervention pour ses policiers devait se faire en octobre.",
+      "published": "2026-10-06T09:32:15.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/camera-corporelle-police-ne-56433.png",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
       "id": "360bb4a2ac41b132",
       "guid": "https://ici.radio-canada.ca/nouvelle/2290195/legoulet-pancarte-mecontentement",
       "link": "https://ici.radio-canada.ca/nouvelle/2290195/legoulet-pancarte-mecontentement",
@@ -331,6 +518,17 @@
       "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/8d76ce67-d8c8-4e48-bd10-a444d2e65ef1/HR/2026-1001-1170_01.jpeg",
       "type": "article",
       "addedAt": "2026-10-05T23:58:13.599Z"
+    },
+    {
+      "id": "906985bc78bec4b8",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-grande-viree/segments/rattrapage/2493046/edmundston-vibre-au-rhytme-grande-grouille-automne",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-grande-viree/segments/rattrapage/2493046/edmundston-vibre-au-rhytme-grande-grouille-automne",
+      "title": "« Prendre son envol » : la Grande Grouille de retour à Edmundston",
+      "excerpt": "À chaque automne, la Grande Grouille d’automne du Jardin botanique du Nouveau-Brunswick à Saint-Jacques s'impose comme un événement phare dans la région d’Edmundston.",
+      "published": "2026-10-02T13:13:06.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/grande-grouille-jardin-botanique-edmundston.png",
+      "type": "article",
+      "addedAt": "2026-10-07T17:30:27.895Z"
     },
     {
       "id": "cef0a18ef563ed1e",
