@@ -156,6 +156,17 @@ describe('document loaders', () => {
 });
 
 describe('entryToItem', () => {
+  test('replaces a date more than 10 minutes after the fetch with the fetch time (world time labelled with a local offset)', () => {
+    const base = { title: 'Joly threatens full force of the law', link: 'https://news.example/joly', guid: null, summary: '', thumbnail: null };
+    const ahead = store.entryToItem({ ...base, published: new Date(NOW.getTime() + 4 * 3600e3).toISOString() }, { now: NOW });
+    assert.equal(ahead?.published, NOW.toISOString());
+    const skew = new Date(NOW.getTime() + 5 * 60e3).toISOString();
+    assert.equal(store.entryToItem({ ...base, published: skew }, { now: NOW })?.published, skew, 'a few minutes of clock difference is kept');
+    const past = new Date(NOW.getTime() - 3600e3).toISOString();
+    assert.equal(store.entryToItem({ ...base, published: past }, { now: NOW })?.published, past);
+    assert.equal(store.publishedOrNow('not a date', NOW), NOW.toISOString());
+  });
+
   const entry = {
     title: '  Hello, world  ',
     link: 'https://News.example/story?utm_source=rss&id=1#top',

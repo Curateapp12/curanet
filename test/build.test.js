@@ -4,7 +4,7 @@ import { mkdtempSync, readFileSync, existsSync, writeFileSync, readdirSync } fro
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 import vm from 'node:vm';
-import { assembleFeedData } from '../src/lib/build-data.js';
+import { assembleFeedData, compactItem } from '../src/lib/build-data.js';
 import { build, escapeJsonForScript, parseBuildArgs, DEFAULTS, THEME_SCRIPT } from '../scripts/build.js';
 
 const FIXTURE_DIR = new URL('./fixtures/build/', import.meta.url).pathname;
@@ -857,6 +857,16 @@ test('video items and a leading video match the live card', () => {
   assert.ok(/\.feed-card\.is-category \.item-video:first-child \{ padding-top: 0; \}/.test(css), 'on a category page a leading video sits flush with the card top');
   assert.ok(/\.feed-card\.is-category \.item-video:first-child \.video-box \{ border-radius: calc\(var\(--radius-lg\) - 1px\) calc\(var\(--radius-lg\) - 1px\) 0 0; \}/.test(css), 'and takes the card\'s inner corners');
   assert.ok(/feedPanel\.classList\.toggle\('is-category', view === 'feed' && Boolean\(state\.c\)\);/.test(app), 'only while a category is open');
+});
+
+test('the build never shows a date in the future: such items count from when they were added', () => {
+  const nowMs = Date.parse('2026-10-07T18:00:00.000Z');
+  /** @type {import('../src/lib/types.js').Item} */
+  const base = { id: 'a000000000000001', guid: null, link: 'https://news.example/a', title: 'T', excerpt: '', thumbnail: null, type: 'article', published: '2026-10-07T17:00:00.000Z', addedAt: '2026-10-07T17:30:27.000Z' };
+  assert.equal(compactItem({ ...base, published: '2026-10-07T21:27:51.000Z' }, 'ctv', nowMs).p, '2026-10-07T17:30:27.000Z', 'four hours ahead: the time it was added');
+  assert.equal(compactItem({ ...base, published: '2026-10-07T18:05:00.000Z' }, 'ctv', nowMs).p, '2026-10-07T18:05:00.000Z', 'within the clock tolerance: kept');
+  assert.equal(compactItem({ ...base, published: '2026-10-07T17:00:00.000Z' }, 'ctv', nowMs).p, '2026-10-07T17:00:00.000Z');
+  assert.equal(compactItem({ ...base, published: '2026-10-08T00:00:00.000Z', addedAt: '2026-10-08T00:00:00.000Z' }, 'ctv', nowMs).p, '2026-10-07T18:00:00.000Z', 'both in the future: the build time');
 });
 
 test('videos play in place on the hosted site: picture and headline, inline on phones, one at a time', () => {

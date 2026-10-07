@@ -128,7 +128,10 @@ typo is caught before it breaks the site.
 - Items are stored newest first. Items never carry category, country or language: those come from
   the source at build time, so editing a source re-tags all of its items.
 - Only these fields are stored. **Never full article text.**
-- `published` is the feed's date; for videos added by link it is the date they were added.
+- `published` is the feed's date; for videos added by link it is the date they were added. A feed
+  date more than 10 minutes after the fetch is replaced by the fetch time (some publishers label
+  world time with their local offset, which would put the story hours in the future), and the build
+  does the same for anything stored before that rule.
 
 ## `data/hidden.json` — items the owner removed
 
