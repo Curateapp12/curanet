@@ -2,7 +2,7 @@
 /**
  * Builds the site from the data files. Two outputs come from the same template and browser code:
  *
- *   hosted   dist/index.html + app.js + styles.css + strings.js — a full document; images load
+ *   hosted   dist/index.html + app.js + styles.css + strings.js + icon.svg — a full document; images load
  *            from the publishers' addresses, videos play in youtube-nocookie.com, filters live in
  *            the query string.
  *   preview  preview/curanet-preview.html — one self-contained artifact fragment (no doctype,
@@ -68,6 +68,7 @@ export const DEFAULTS = Object.freeze({
  * @property {string} css
  * @property {string} strings
  * @property {string} app
+ * @property {string} icon       The tab icon (src/site/icon.svg, the live logo filling its box).
  *
  * @typedef {Object} SiteConfig
  * @property {'hosted'|'preview'} mode
@@ -142,11 +143,13 @@ function renderConfigScript(config) {
  */
 function readAssets(dir) {
   const read = (name) => readFileSync(path.join(dir, name), 'utf8');
-  return { template: read('index.html'), css: read('styles.css'), strings: read('strings.js'), app: read('app.js') };
+  return { template: read('index.html'), css: read('styles.css'), strings: read('strings.js'), app: read('app.js'), icon: read('icon.svg') };
 }
 
 /**
- * The hosted page: a complete HTML document that links its assets.
+ * The hosted page: a complete HTML document that links its assets. Its head carries the live
+ * site's theme colour (#3B82F6, which tints phone address bars) and the logo as the tab icon; the
+ * live site's PWA manifest and PNG icon set belong to its install prompt, which is left out.
  * @param {FeedData} data
  * @param {SiteAssets} assets
  * @returns {string}
@@ -161,6 +164,8 @@ export function renderHosted(data, assets) {
     '<title>Curanet — Curate the internet</title>',
     `<meta name="description" content="${DESCRIPTION}">`,
     '<meta name="color-scheme" content="light dark">',
+    '<meta name="theme-color" content="#3B82F6">',
+    '<link rel="icon" type="image/svg+xml" href="icon.svg">',
     THEME_SCRIPT,
     '<link rel="stylesheet" href="styles.css">',
     '</head>',
@@ -230,8 +235,9 @@ function buildHosted(data, assets, outDir, log) {
   writeFileSync(path.join(outDir, 'styles.css'), assets.css);
   writeFileSync(path.join(outDir, 'strings.js'), assets.strings);
   writeFileSync(path.join(outDir, 'app.js'), assets.app);
+  writeFileSync(path.join(outDir, 'icon.svg'), assets.icon);
   const bytes = Buffer.byteLength(html);
-  log(`Hosted: ${data.items.length} items, ${formatSize(bytes)} → ${path.join(outDir, 'index.html')} (+ app.js, styles.css, strings.js)`);
+  log(`Hosted: ${data.items.length} items, ${formatSize(bytes)} → ${path.join(outDir, 'index.html')} (+ app.js, styles.css, strings.js, icon.svg)`);
   return { file, bytes, items: data.items.length };
 }
 

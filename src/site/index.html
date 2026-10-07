@@ -32,7 +32,10 @@
     menu row, the Manage Following accordion row and checkbox, and the icons app.js clones.
 -->
 <a class="skip-link" href="#main" data-t="skipToContent">Skip to the feed</a>
-<span id="new-tab-hint" class="visually-hidden" data-t="openInNewTab">Opens in a new tab</span>
+<!-- Descriptions that controls point at with aria-describedby: hidden, so they are never read as
+     page text, but still used as descriptions. -->
+<span id="new-tab-hint" hidden data-t="openInNewTab">Opens in a new tab</span>
+<span id="coming-later-hint" hidden data-t="comingLater">Coming later</span>
 <div class="page" id="page">
   <header class="site-header" id="site-header">
     <div class="topbar" id="topbar">
@@ -63,7 +66,7 @@
         </button>
 
         <div class="loc-picker" id="loc-picker">
-          <button type="button" id="loc-button" class="bar-button loc-button" aria-haspopup="true" aria-expanded="false" aria-controls="loc-menu">
+          <button type="button" id="loc-button" class="bar-button loc-button" aria-expanded="false" aria-controls="loc-menu">
             <svg class="icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
             <span class="visually-hidden" data-t="location">Location</span>
             <span class="loc-label" id="loc-label" data-t="world">World</span>
@@ -77,7 +80,7 @@
         </button>
 
         <div class="avatar-wrap" id="avatar-wrap">
-          <button type="button" id="avatar-button" class="avatar-button" aria-haspopup="true" aria-expanded="false" aria-controls="avatar-menu" aria-label="Account menu" data-t-aria-label="accountMenu" title="Account menu" data-t-title="accountMenu">
+          <button type="button" id="avatar-button" class="avatar-button" aria-expanded="false" aria-controls="avatar-menu" aria-label="Account menu" data-t-aria-label="accountMenu" title="Account menu" data-t-title="accountMenu">
             <span class="avatar-face" aria-hidden="true">
               <svg class="icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" focusable="false"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
             </span>
@@ -180,7 +183,6 @@
       <section id="feed-section" class="view" aria-labelledby="feed-heading">
         <h1 id="feed-heading" class="visually-hidden" data-t="feedHeading">Latest items</h1>
         <p id="result-count" class="visually-hidden" aria-live="polite" aria-atomic="true"></p>
-        <p id="action-status" class="visually-hidden" role="status" aria-live="polite"></p>
         <p id="storage-hint" class="hint" hidden data-t="storageUnavailable">Your browser does not allow saving this. It will be kept until you leave the page.</p>
         <div class="card feed-card" id="feed-panel">
           <ol id="feed-list" class="feed" role="list"></ol>
@@ -329,7 +331,8 @@
 <!-- Item templates. app.js clones them, runs its string routine on the clone, then fills the
      publisher name, title, link, thumbnail and time with textContent/setAttribute. The whole text
      block of an article (publisher, title, thumbnail) is one link to the original; the action row
-     is replaced by a clone of #tpl-actions. -->
+     is replaced by a clone of #tpl-actions. .item-text wraps the publisher's own words (publisher
+     and title) and gets the source's lang when it differs from the interface's. -->
 <template id="tpl-article">
   <li class="item item-article">
     <article class="item-inner">
@@ -355,8 +358,10 @@
     <article class="item-inner">
       <div class="video-box"></div>
       <div class="item-body">
-        <p class="publisher"><span class="publisher-name"></span></p>
-        <h2 class="item-title"><a class="item-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint"><span class="item-title-text"></span></a></h2>
+        <div class="item-text">
+          <p class="publisher"><span class="publisher-name"></span></p>
+          <h2 class="item-title"><a class="item-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint"><span class="item-title-text"></span></a></h2>
+        </div>
         <div class="item-foot">
           <time class="item-time"></time>
           <div class="actions"></div>
@@ -366,17 +371,19 @@
   </li>
 </template>
 
-<!-- The action row: Save (outline bookmark, filled when pressed), Share (opens a clone of
-     #tpl-share-menu inside .share-wrap) and the heart (icon only, disabled until accounts exist). -->
+<!-- The action row: Save (outline bookmark, filled once saved: data-saved, the label reads
+     "Saved"), Share (opens a clone of #tpl-share-menu inside .share-wrap; a disclosure, so
+     aria-expanded and aria-controls, no menu role) and the heart (icon only, disabled until
+     accounts exist). app.js describes each by the item's title (aria-describedby). -->
 <template id="tpl-actions">
   <div class="actions">
-    <button type="button" class="action action-save" aria-pressed="false">
+    <button type="button" class="action action-save" data-saved="false">
       <svg class="action-icon icon-outline" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
       <svg class="action-icon icon-filled" viewBox="0 0 24 24" width="16" height="16" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
       <span class="action-label" data-t="saveItem">Save</span>
     </button>
     <div class="share-wrap">
-      <button type="button" class="action action-share" aria-haspopup="true" aria-expanded="false">
+      <button type="button" class="action action-share" aria-expanded="false">
         <svg class="action-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.59 13.51 6.83 3.98"/><path d="m15.41 6.51-6.82 3.98"/></svg>
         <span class="action-label" data-t="share">Share</span>
       </button>

@@ -28,7 +28,7 @@ data/hidden.json ───┘            │
 | `scripts/fetch.js` | The run: a small pool fetches a few sources at a time, applies the rules, writes the run log. Exit code 0 even when sources fail. |
 | `scripts/build.js` | Assembles items with their source's tags, renders the hosted site and the preview from the same templates and browser code. |
 | `scripts/*.js` (add-source, add-video, source, category, hide-item, validate-data, serve) | Command-line helpers that the skills in `.claude/skills/` call. |
-| `src/site/` | The browser code: `index.html` template, `app.js`, `styles.css`, `strings.js` (English with French ready). |
+| `src/site/` | The browser code: `index.html` template, `app.js`, `styles.css`, `strings.js` (English with French ready), `icon.svg` (the tab icon). |
 | `test/` | Node test runner tests; fixtures in `test/fixtures/` stand in for the network. |
 | `.github/workflows/` | CI on pull requests; an hourly fetch-and-commit workflow that is switched off until the owner turns it on. |
 
@@ -58,10 +58,12 @@ data/hidden.json ───┘            │
 1. Load the data; attach each source's name, category, subcategory, country and language to its
    items; sort newest first (`published`, falling back to `addedAt`).
 2. **Hosted** (`dist/`): `index.html` with the data inlined as JSON, `strings.js`, `app.js`,
-   `styles.css`. Images load from the publisher's address; videos play in `youtube-nocookie.com`;
+   `styles.css` and the tab icon `icon.svg`; the head also carries a one-line script that applies
+   the saved theme before the first paint. Images load from the publisher's address; videos play in `youtube-nocookie.com`;
    filters live in the query string.
 3. **Preview** (`preview/curanet-preview.html`): the same template rendered as an artifact fragment
-   (no doctype/html/head/body, `<title>` and `<style>` first), with CSS and JS inlined. Thumbnails
+   (no doctype/html/head/body; `<title>`, then the same one-line theme script, then `<style>`),
+   with CSS and JS inlined. Thumbnails
    are downloaded (10 s each, a few at a time, cached in `.cache/thumbs/`), resized to 240 px wide
    WebP and embedded as data URIs, newest items first, until the file would pass 12 MB; older
    items then show without a thumbnail. Videos open on YouTube in a new tab. State stays in the page.
@@ -78,5 +80,6 @@ when the browser refuses storage). Everything else is identical in both outputs.
   to read, diff and fix on GitHub's website.
 - **One file per source:** a fetch changes only the files of the sources that changed, so commits
   stay small and the owner can delete a source by deleting its file.
-- **No framework:** the site is a few hundred lines of plain JavaScript, which keeps the preview
-  self-contained and the hosted site hostable anywhere.
+- **No framework:** the site is one plain JavaScript file (`app.js`, about 2,800 lines with
+  comments) plus a strings table, which keeps the preview self-contained and the hosted site
+  hostable anywhere.

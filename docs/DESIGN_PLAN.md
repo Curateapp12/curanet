@@ -21,12 +21,14 @@ How Curanet's own features were placed, where the live site has no counterpart:
 | Accounts, analytics, install prompt, social links | Left out (third-party services). |
 | Geist font (loaded but never applied) | The system font stack, which is what visitors of the live site actually see. |
 | Header slides away on scroll down | The same, except with reduced motion. |
+| Feed card clips its content (`overflow: hidden`; its share menu is drawn outside the card) | The card does not clip, so the share menu, drawn inside its item, can hang below the card; a category page's leading video takes the card's inner corners itself. |
 | Phones: 58 px search field | The location picker and toggle hide while the field is open so it gets the room. |
 
 Kept from the owner's earlier decisions: the sections bar (now the grey row) can be docked at the
 bottom on phones; both themes with light as the default; the single cycling article/video button;
-Like shown but disabled; monogram publisher icons are gone because the live design shows the name
-only.
+Like shown but disabled (the disabled Comment button of decision 7 is no longer shown, because the
+live design has no comment action; it returns with accounts, together with a working Like);
+monogram publisher icons are gone because the live design shows the name only.
 
 Still to come, as before: real Like and Comment (accounts and a server), real live streams (the
 YouTube API key), Saved and Following on the account side once sign-in exists.
@@ -44,7 +46,7 @@ Superseded by version 3 above on the same day; kept as the record of the Figma r
 Phases 1 to 6 of the plan below are **done**. They were built together and delivered in one pull
 request, Curateapp12/curanet#2 (commit 93e696e for the category tree and the re-filed sources,
 5436255 for the site, 61bd8e5 for the docs), rather than one pull request per phase.
-`docs/LAYOUT.md` now describes the built layout; the sections below are kept as the record of how
+`docs/LAYOUT.md` described the built layout until version 3; the sections below are kept as the record of how
 the design was read and what was decided.
 
 Still to come: **Like** and **Comment** (they need accounts and a server), real **live streams** in

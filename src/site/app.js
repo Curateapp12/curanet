@@ -189,7 +189,8 @@ var CURANET_HELPERS = (function () {
   var DRAG_THRESHOLD_PX = 4;
   var TOAST_MS = 5000;
   var TOAST_LEAVE_MS = 200;
-  var MAX_TOASTS = 2;
+  /** A new toast replaces the one showing, as on the live site (its toast store keeps one). */
+  var MAX_TOASTS = 1;
   var FOCUSABLE = 'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])';
   var fold = H.fold;
 
@@ -443,8 +444,17 @@ var CURANET_HELPERS = (function () {
   /** @type {Record<string, FeedCategory>} */
   var CATEGORIES = Object.create(null); // same: "?c=constructor" must not match
   DATA.categories.forEach(function (category) { CATEGORIES[category.id] = category; });
+  /**
+   * @param {unknown} value
+   * @returns {boolean} true for an http(s) address. The build already drops anything else; this
+   *   second check keeps a hand-edited data file from ever putting a script address in an href.
+   */
+  function isHttpAddress(value) {
+    return typeof value === 'string' && /^https?:\/\//i.test(value);
+  }
+
   /** @type {FeedItem[]} */
-  var ITEMS = DATA.items.filter(function (item) { return item && SOURCES[item.s]; });
+  var ITEMS = DATA.items.filter(function (item) { return item && SOURCES[item.s] && isHttpAddress(item.l); });
   /** @type {Record<string, FeedItem>} */
   var ITEM_BY_ID = Object.create(null);
   ITEMS.forEach(function (item) {
@@ -506,6 +516,25 @@ var CURANET_HELPERS = (function () {
       // Unknown code: fall back to the code itself.
     }
     return code;
+  }
+
+  /**
+   * A language named in itself, capitalised by that language's own rules ("Français", "Deutsch",
+   * "Español"); the avatar menu's Language list and hint use it. Falls back to the name in the
+   * interface language, then to the code.
+   * @param {string} code
+   * @returns {string}
+   */
+  function nativeLanguageName(code) {
+    try {
+      if (typeof Intl !== 'undefined' && Intl.DisplayNames) {
+        var name = new Intl.DisplayNames([code], { type: 'language' }).of(code);
+        if (name && name !== code) return name.charAt(0).toLocaleUpperCase(code) + name.slice(1);
+      }
+    } catch (e) {
+      // Unknown code or no support: use the interface-language name below.
+    }
+    return displayName('language', code);
   }
 
   /**
@@ -610,8 +639,12 @@ var CURANET_HELPERS = (function () {
   var searchWords = [];
   /** @type {View} */
   var view = 'feed';
-  /** Saved item ids, newest-saved first. */
-  var savedIds = stringList(readStorage(SAVED_KEY));
+  /**
+   * Saved item ids, newest-saved first, limited to items that still exist: items older than 90
+   * days leave the data, and a list of only those must read "Nothing saved yet.". The next save
+   * drops the dead ids from storage too.
+   */
+  var savedIds = stringList(readStorage(SAVED_KEY)).filter(function (id) { return Boolean(ITEM_BY_ID[id]); });
 
   /**
    * Keep only the "category/subcategory" ids that exist in today's tree, once each. A section
@@ -685,12 +718,15 @@ var CURANET_HELPERS = (function () {
     document.body.classList.toggle('subbar-bottom', bottom);
   }
 
-  /** @returns {boolean} true when the address carries any filter, valid or not. */
+  /**
+   * @returns {boolean} true when the address carries any filter, valid or not. The view is not a
+   *   filter: a bookmarked ?view=live still gets the visitor's preferred language and location.
+   */
   function hasFilterParams() {
     if (!CONFIG.urlState) return false;
     var params = new URLSearchParams(location.search);
     for (var i = 0; i < FILTER_PARAMS.length; i += 1) {
-      if (params.has(FILTER_PARAMS[i])) return true;
+      if (FILTER_PARAMS[i] !== 'view' && params.has(FILTER_PARAMS[i])) return true;
     }
     return false;
   }
@@ -720,7 +756,7 @@ var CURANET_HELPERS = (function () {
       if (view === 'live' && LIVE_SECTIONS.indexOf(s) >= 0) state.s = s;
       else if (view === 'feed' && state.c && subcategoryOf(state.c, s)) state.s = s;
     }
-    var lang = params.get('lang') || '';
+    var lang = (params.get('lang') || '').toLowerCase();
     if (lang && DATA.languages.indexOf(lang) >= 0) state.lang = lang;
     var loc = (params.get('loc') || '').toUpperCase();
     if (loc && DATA.countries.indexOf(loc) >= 0) state.loc = loc;
@@ -730,12 +766,17 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * Mirror the view and filters into the address, without adding history entries. Hosted site:
-   * the query string is the one address of a view, and no #hash is left behind. Preview: the
-   * state stays in the page and only a plain #anchor names the view (none at all for the feed
-   * until another view has been opened).
+   * Mirror the view and filters into the address. Hosted site: the query string is the one address
+   * of a view, and no #hash is left behind; a change of view, category or subcategory (or Live
+   * section) adds a history entry, so Back returns to it as on the live site, while the language,
+   * location, article/video and search changes replace the current one. Preview: the state stays
+   * in the page and only a plain #anchor names the view (none at all for the feed until another
+   * view has been opened), always replaced: the artifact has no Back handling and its entries would
+   * become extra Back steps on the page around it.
+   * @param {boolean} [forceReplace]   true when the address is only made canonical (start-up, a
+   *   #hash or Back/Forward), never a new place.
    */
-  function writeUrlState() {
+  function writeUrlState(forceReplace) {
     if (!window.history || typeof history.replaceState !== 'function') return;
     if (!CONFIG.urlState) {
       var token = view === 'feed' ? 'feed' : VIEW_TOKENS[view] || 'feed';
@@ -759,8 +800,14 @@ var CURANET_HELPERS = (function () {
     var query = params.toString();
     // The query is the one address of a view on the hosted site; a #hash only triggers a change.
     var url = location.pathname + (query ? '?' + query : '');
+    var push = false;
+    if (!forceReplace && typeof history.pushState === 'function') {
+      var currentParams = new URLSearchParams(location.search);
+      push = ['view', 'c', 's'].some(function (name) { return (currentParams.get(name) || '') !== (params.get(name) || ''); });
+    }
     try {
-      history.replaceState(history.state, '', url);
+      if (push) history.pushState(null, '', url);
+      else history.replaceState(history.state, '', url);
     } catch (e) {
       // Some embeddings refuse address changes; the page still works.
     }
@@ -794,7 +841,6 @@ var CURANET_HELPERS = (function () {
   var typeLabel = byId('type-label');
   var avatarButton = byId('avatar-button');
   var avatarMenu = byId('avatar-menu');
-  var menuFollowing = byId('menu-following');
   var langButton = byId('lang-button');
   var langCurrent = byId('lang-current');
   var langList = byId('lang-list');
@@ -814,11 +860,12 @@ var CURANET_HELPERS = (function () {
   var feedSection = byId('feed-section');
   var feedHeading = byId('feed-heading');
   var resultCount = byId('result-count');
-  var actionStatus = byId('action-status');
   var storageHint = byId('storage-hint');
+  var feedPanel = byId('feed-panel');
   var feedList = byId('feed-list');
   var emptyState = byId('empty-state');
   var emptyText = byId('empty-text');
+  var emptyActions = find(emptyState, '.empty-actions');
   var clearButton = byId('clear-filters');
   var manageFollowingButton = byId('manage-following-button');
   var feedEnd = byId('feed-end');
@@ -853,9 +900,11 @@ var CURANET_HELPERS = (function () {
 
   /**
    * The one dropdown open right now (location, avatar or a share menu); opening another closes
-   * it first. Escape, a click outside, Tab leaving the menu or choosing an item closes a menu;
-   * focus goes into the menu on open and back to its trigger on close (unless the choice takes
-   * the visitor somewhere else, which then takes the focus).
+   * it first, and so does opening one while the Menu panel is open (the panel would cover it). The
+   * popups are disclosures (aria-expanded + aria-controls), not ARIA menus: Tab moves through the
+   * rows. Escape, a click outside, Tab leaving the menu or choosing an item closes a menu; focus
+   * goes into the menu on open and back to its trigger on close (unless the choice takes the
+   * visitor somewhere else, which then takes the focus).
    * @type {Menu|null}
    */
   var openMenu = null;
@@ -874,6 +923,7 @@ var CURANET_HELPERS = (function () {
       isOpen: function () { return !menu.hidden; },
       open: function () {
         if (openMenu && openMenu !== controller) openMenu.close(false);
+        if (!menuPanel.hidden) closeMenuPanel(false);
         menu.hidden = false;
         trigger.setAttribute('aria-expanded', 'true');
         trigger.setAttribute('data-state', 'open');
@@ -886,6 +936,10 @@ var CURANET_HELPERS = (function () {
         var items = focusableIn(menu);
         var current = items.filter(function (item) { return item.getAttribute('aria-current') === 'true'; })[0];
         focusOn(current || items[0] || menu, true);
+        // A share menu opened near the bottom of the screen (or under the docked grey row) is
+        // brought into view, so the focused row is never hidden. The header's menus are capped to
+        // the screen height by the CSS instead.
+        if (!siteHeader.contains(menu) && typeof menu.scrollIntoView === 'function') menu.scrollIntoView({ block: 'nearest' });
       },
       close: function (returnFocus) {
         if (menu.hidden) return;
@@ -941,12 +995,26 @@ var CURANET_HELPERS = (function () {
     document.documentElement.style.setProperty('--header-h', height + 'px');
   }
 
-  /** @returns {boolean} true while the blue bar must stay in view whatever the scrolling. */
+  /**
+   * @returns {boolean} true while the blue bar must stay in view whatever the scrolling: reduced
+   *   motion, the search field or the Menu panel open, a header menu open, or keyboard focus on a
+   *   blue-bar control (a mouse click leaves focus there too, but not :focus-visible, so the bar
+   *   still slides for mouse users).
+   */
   function headerPinned() {
     if (prefersReducedMotion()) return true;
     var body = document.body.classList;
     if (body.contains('search-open') || body.contains('menu-open')) return true;
-    return Boolean(openMenu && siteHeader.contains(openMenu.menu));
+    if (openMenu && siteHeader.contains(openMenu.menu)) return true;
+    var active = document.activeElement;
+    if (active && topbar.contains(active)) {
+      try {
+        if (active.matches(':focus-visible')) return true;
+      } catch (e) {
+        return true; // no :focus-visible support: keep the bar while it holds focus
+      }
+    }
+    return false;
   }
 
   /** @param {boolean} hidden */
@@ -982,6 +1050,9 @@ var CURANET_HELPERS = (function () {
    * @param {boolean} [moveFocus]   default true: into the field on open, back to the magnifier on close.
    */
   function setSearchOpen(open, moveFocus) {
+    // Closing drops words that were typed but never applied: the field always shows the search
+    // that is in effect when it opens again.
+    if (!open) searchInput.value = state.q;
     searchForm.hidden = !open;
     searchToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
     var label = t(open ? 'closeSearch' : 'search');
@@ -996,10 +1067,21 @@ var CURANET_HELPERS = (function () {
     }
   }
 
+  /**
+   * Enter runs the search on the current view. Sources, About and Manage Following have no feed,
+   * so a search from there opens the whole feed with the results (emptying the field there only
+   * clears the words).
+   */
   function applySearch() {
     var words = searchInput.value.trim().slice(0, 200);
-    if (words === state.q) return;
+    var leave = words !== '' && !FEED_VIEWS[view];
+    if (words === state.q && !leave) return;
     state.q = words;
+    if (leave) {
+      state.c = '';
+      state.s = '';
+      showView('feed', false);
+    }
     refresh(true);
   }
 
@@ -1053,7 +1135,10 @@ var CURANET_HELPERS = (function () {
 
   function syncLocMenu() {
     markCurrentItem(locMenu, state.loc);
-    locLabel.textContent = state.loc ? displayName('region', state.loc) : t('world');
+    var label = state.loc ? displayName('region', state.loc) : t('world');
+    locLabel.textContent = label;
+    // A long name can be cut with an ellipsis on a narrow phone; the tooltip keeps it whole.
+    locButton.title = label;
   }
 
   /** @param {string} code */
@@ -1095,18 +1180,32 @@ var CURANET_HELPERS = (function () {
     langButton.setAttribute('aria-expanded', open ? 'true' : 'false');
   }
 
+  /**
+   * The Language list names every language in itself (Deutsch, English, Español, Français), each
+   * label marked with its language so screen readers pronounce it right.
+   */
   function buildLangList() {
     clear(langList);
     langList.appendChild(makeMenuItem('', t('allLanguages'), chooseLanguage));
-    namedCodes(DATA.languages, 'language').forEach(function (entry) {
-      langList.appendChild(makeMenuItem(entry.code, entry.label, chooseLanguage));
+    var entries = DATA.languages.map(function (code) { return { code: code, label: nativeLanguageName(code) }; });
+    entries.sort(function (a, b) { return a.label.localeCompare(b.label, UI_LANG); });
+    entries.forEach(function (entry) {
+      var item = makeMenuItem(entry.code, entry.label, chooseLanguage);
+      find(item, '.menu-item-label').setAttribute('lang', entry.code);
+      langList.appendChild(item);
     });
     syncLangList();
   }
 
   function syncLangList() {
     markCurrentItem(langList, state.lang);
-    langCurrent.textContent = state.lang ? displayName('language', state.lang) : t('all');
+    if (state.lang) {
+      langCurrent.textContent = nativeLanguageName(state.lang);
+      langCurrent.setAttribute('lang', state.lang);
+    } else {
+      langCurrent.textContent = t('all');
+      langCurrent.removeAttribute('lang');
+    }
   }
 
   /** @param {string} code */
@@ -1171,25 +1270,38 @@ var CURANET_HELPERS = (function () {
   // ------------------------------------------------------------------ header: category tabs
 
   /**
+   * Mark one item of a navigation set (a tab, a grey-row link) as the current one. These are
+   * buttons that open a place, not toggles, so the state is aria-current, set only on the current
+   * item.
+   * @param {Element} node
+   * @param {boolean} current
+   */
+  function setCurrent(node, current) {
+    if (current) node.setAttribute('aria-current', 'true');
+    else node.removeAttribute('aria-current');
+  }
+
+  /**
    * @param {string} id
    * @param {string} label
-   * @param {boolean} pressed
+   * @param {boolean} current
    * @param {() => void} onClick
    * @returns {HTMLButtonElement}
    */
-  function makeTab(id, label, pressed, onClick) {
+  function makeTab(id, label, current, onClick) {
     var tab = button('tab', label);
     tab.setAttribute('data-id', id);
-    tab.setAttribute('aria-pressed', pressed ? 'true' : 'false');
+    setCurrent(tab, current);
     tab.addEventListener('click', onClick);
     return tab;
   }
 
-  /** @returns {string|null} the data-id of the tab that reads as selected, or null for none. */
+  /**
+   * @returns {string} the data-id of the current tab: the category on a category page, Home
+   *   ('') on every other view, as the live site keeps Home active on its search and Terms pages.
+   */
   function activeTabId() {
-    if (view === 'feed') return state.c;
-    if (view === 'saved' || view === 'following' || view === 'manage') return '';
-    return null;
+    return view === 'feed' ? state.c : '';
   }
 
   function renderTabs() {
@@ -1208,9 +1320,9 @@ var CURANET_HELPERS = (function () {
     var activeTab = null;
     for (var i = 0; i < tabs.length; i += 1) {
       var tab = /** @type {HTMLElement} */ (tabs[i]);
-      var pressed = active !== null && (tab.getAttribute('data-id') || '') === active;
-      tab.setAttribute('aria-pressed', pressed ? 'true' : 'false');
-      if (pressed) activeTab = tab;
+      var current = (tab.getAttribute('data-id') || '') === active;
+      setCurrent(tab, current);
+      if (current) activeTab = tab;
     }
     revealTab(activeTab);
   }
@@ -1277,25 +1389,26 @@ var CURANET_HELPERS = (function () {
   /**
    * @param {string} id
    * @param {string} label
-   * @param {boolean} pressed
+   * @param {boolean} current
    * @param {() => void} onClick
    * @returns {HTMLButtonElement}
    */
-  function makeSectionLink(id, label, pressed, onClick) {
+  function makeSectionLink(id, label, current, onClick) {
     var link = button('section-link', label);
     link.setAttribute('data-id', id);
-    link.setAttribute('aria-pressed', pressed ? 'true' : 'false');
+    setCurrent(link, current);
     link.addEventListener('click', onClick);
     return link;
   }
 
   /**
-   * The grey row depends on the view: All · Saved · Following (· Manage) on Home, All + the
-   * subcategories on a category, All · News · Sports · Music in Live, nothing elsewhere.
+   * The grey row depends on the view: All + the subcategories on a category, All · News · Sports ·
+   * Music in Live, and All · Saved · Following everywhere else (· Manage while Following or Manage
+   * Following is open). On Sources and About none of them is current, as the live site shows its
+   * sort links with none active on its Terms and search pages, so the header keeps one height.
    */
   function renderSections() {
     clear(sectionsRow);
-    var show = true;
     var subcats = false;
     var category = view === 'feed' && state.c ? CATEGORIES[state.c] : null;
     if (category) {
@@ -1304,37 +1417,39 @@ var CURANET_HELPERS = (function () {
       (category.subcategories || []).forEach(function (sub) {
         sectionsRow.appendChild(makeSectionLink(sub.id, nameOf(sub), state.s === sub.id, function () { selectSubcategory(sub.id); }));
       });
-    } else if (view === 'feed' || view === 'saved' || view === 'following') {
-      sectionsRow.appendChild(makeSectionLink('', t('all'), view === 'feed', goHome));
-      sectionsRow.appendChild(makeSectionLink('saved', t('savedTab'), view === 'saved', function () { goToView('saved'); }));
-      sectionsRow.appendChild(makeSectionLink('following', t('followingTab'), view === 'following', function () { goToView('following'); }));
-      if (view === 'following') {
-        var manage = button('section-link section-manage');
-        manage.setAttribute('data-id', 'manage');
-        manage.appendChild(cloneTemplate('tpl-gear-icon'));
-        manage.appendChild(el('span', 'section-label', t('manage')));
-        manage.addEventListener('click', function () { goToView('manage'); });
-        sectionsRow.appendChild(manage);
-      }
     } else if (view === 'live') {
       sectionsRow.appendChild(makeSectionLink('', t('all'), state.s === '', function () { selectLiveSection(''); }));
       LIVE_SECTIONS.forEach(function (section) {
         sectionsRow.appendChild(makeSectionLink(section, t(LIVE_LABELS[section]), state.s === section, function () { selectLiveSection(section); }));
       });
     } else {
-      show = false;
+      sectionsRow.appendChild(makeSectionLink('', t('all'), view === 'feed', goHome));
+      sectionsRow.appendChild(makeSectionLink('saved', t('savedTab'), view === 'saved', function () { goToView('saved'); }));
+      sectionsRow.appendChild(makeSectionLink('following', t('followingTab'), view === 'following', function () { goToView('following'); }));
+      if (view === 'following' || view === 'manage') {
+        var manage = button('section-link section-manage');
+        manage.setAttribute('data-id', 'manage');
+        setCurrent(manage, view === 'manage');
+        manage.appendChild(cloneTemplate('tpl-gear-icon'));
+        manage.appendChild(el('span', 'section-label', t('manage')));
+        manage.addEventListener('click', function () { if (view !== 'manage') goToView('manage'); });
+        sectionsRow.appendChild(manage);
+      }
     }
-    subbar.hidden = !show;
+    subbar.hidden = false;
     subbar.classList.toggle('is-subcats', subcats);
   }
 
-  /** @param {string} activeId */
+  /**
+   * Move the current mark among a category's subcategories or Live's sections.
+   * @param {string} activeId
+   */
   function markActiveSection(activeId) {
     var links = sectionsRow.querySelectorAll('.section-link');
     for (var i = 0; i < links.length; i += 1) {
       var link = /** @type {HTMLElement} */ (links[i]);
-      if (!link.hasAttribute('aria-pressed')) continue;
-      link.setAttribute('aria-pressed', (link.getAttribute('data-id') || '') === activeId ? 'true' : 'false');
+      if (link.classList.contains('section-manage')) continue;
+      setCurrent(link, (link.getAttribute('data-id') || '') === activeId);
     }
   }
 
@@ -1454,8 +1569,59 @@ var CURANET_HELPERS = (function () {
   // ------------------------------------------------------------------ toasts
 
   /**
-   * A toast slides in at the bottom right (top on phones), goes away after 5 s or when its X is
-   * pressed; at most two are shown at a time. The region is aria-live, so it announces itself.
+   * @typedef {Object} ToastControl
+   * @property {() => void} pause
+   * @property {() => void} resume
+   * @property {() => void} dismiss   Slide out, then remove.
+   * @property {() => void} remove    Remove at once.
+   */
+
+  /** @type {ToastControl[]} the toasts on screen, oldest first. */
+  var liveToasts = [];
+
+  /**
+   * On desktop the toasts sit at the bottom right, over the right-aligned Save and Share buttons:
+   * the page keeps keyboard focus clear of them (scroll-padding through --toast-space, and an
+   * immediate scroll when the toast lands on the focused control).
+   */
+  function updateToastSpace() {
+    var space = liveToasts.length ? toastRegion.offsetHeight + 24 : 0;
+    document.documentElement.style.setProperty('--toast-space', space + 'px');
+  }
+
+  function keepFocusClearOfToasts() {
+    updateToastSpace();
+    var active = document.activeElement;
+    if (!liveToasts.length || !(active instanceof HTMLElement) || active === document.body || toastRegion.contains(active)) return;
+    try {
+      // Only keyboard focus: a mouse click also leaves focus on the button, but the page must not
+      // jump under the pointer.
+      if (!active.matches(':focus-visible')) return;
+    } catch (e) {
+      // No :focus-visible support: treat the focus as visible.
+    }
+    var region = toastRegion.getBoundingClientRect();
+    // Phones show the toast at the top, over the header; nothing focusable sits under it there.
+    if (region.height === 0 || region.top < window.innerHeight / 2) return;
+    var rect = active.getBoundingClientRect();
+    if (rect.bottom <= region.top || rect.top >= region.bottom || rect.right <= region.left || rect.left >= region.right) return;
+    window.scrollBy(0, rect.bottom - region.top + 8);
+  }
+
+  /** The tab or window went to the background: toasts wait; back in front, they carry on. */
+  function onVisibilityChange() {
+    liveToasts.slice().forEach(function (control) {
+      if (document.hidden) control.pause();
+      else control.resume();
+    });
+  }
+
+  /**
+   * A toast slides in at the bottom right (top on phones) and goes away after 5 s, when its X is
+   * pressed or on Escape; a new toast replaces the one showing. Like the live site's toasts, the
+   * timer waits while the pointer is over the toast, while focus is inside it, and while the page
+   * is in the background, then resumes with the time that was left. The region is aria-live, so
+   * it announces itself.
    * @param {string} title
    * @param {string} [description]
    */
@@ -1466,28 +1632,67 @@ var CURANET_HELPERS = (function () {
     if (description) desc.textContent = description;
     else if (desc.parentNode) desc.parentNode.removeChild(desc);
     var removed = false;
-    var remove = function () {
-      if (removed) return;
-      removed = true;
-      if (toast.parentNode) toast.parentNode.removeChild(toast);
+    var leaving = false;
+    var remaining = TOAST_MS;
+    var startedAt = 0;
+    var timer = 0;
+    /** @type {ToastControl} */
+    var control = {
+      pause: function () {
+        if (removed || leaving || !timer) return;
+        window.clearTimeout(timer);
+        timer = 0;
+        remaining -= Date.now() - startedAt;
+      },
+      resume: function () {
+        if (removed || leaving || timer || document.hidden) return;
+        startedAt = Date.now();
+        timer = window.setTimeout(control.dismiss, Math.max(remaining, 0));
+      },
+      dismiss: function () {
+        window.clearTimeout(timer);
+        timer = 0;
+        if (removed || leaving) return;
+        leaving = true;
+        // Focus on the X would fall to the page's top when the toast goes; keep it in the page.
+        if (toast.contains(document.activeElement)) focusOn(mainEl, true);
+        if (prefersReducedMotion()) { control.remove(); return; }
+        toast.classList.add('is-leaving');
+        window.setTimeout(control.remove, TOAST_LEAVE_MS);
+      },
+      remove: function () {
+        if (removed) return;
+        removed = true;
+        window.clearTimeout(timer);
+        timer = 0;
+        if (toast.contains(document.activeElement)) focusOn(mainEl, true);
+        var index = liveToasts.indexOf(control);
+        if (index >= 0) liveToasts.splice(index, 1);
+        if (toast.parentNode) toast.parentNode.removeChild(toast);
+        updateToastSpace();
+      },
     };
-    var timer = window.setTimeout(dismiss, TOAST_MS);
-    function dismiss() {
-      window.clearTimeout(timer);
-      if (removed || !toast.parentNode) return;
-      if (prefersReducedMotion()) { remove(); return; }
-      toast.classList.add('is-leaving');
-      window.setTimeout(remove, TOAST_LEAVE_MS);
-    }
-    find(toast, '.toast-close').addEventListener('click', function () {
-      var hadFocus = document.activeElement && toast.contains(document.activeElement);
-      dismiss();
-      if (hadFocus) focusOn(mainEl, true);
+    find(toast, '.toast-close').addEventListener('click', control.dismiss);
+    toast.addEventListener('mouseenter', control.pause);
+    toast.addEventListener('mouseleave', function () {
+      if (!toast.contains(document.activeElement)) control.resume();
     });
-    while (toastRegion.children.length >= MAX_TOASTS && toastRegion.firstElementChild) {
-      toastRegion.removeChild(toastRegion.firstElementChild);
-    }
+    toast.addEventListener('focusin', control.pause);
+    toast.addEventListener('focusout', function (event) {
+      var next = event.relatedTarget;
+      if (next instanceof Node && toast.contains(next)) return;
+      try {
+        if (toast.matches(':hover')) return;
+      } catch (e) {
+        // No :hover matching: resume.
+      }
+      control.resume();
+    });
+    while (liveToasts.length >= MAX_TOASTS) liveToasts[0].remove();
+    liveToasts.push(control);
     toastRegion.appendChild(toast);
+    control.resume();
+    keepFocusClearOfToasts();
   }
 
   // ------------------------------------------------------------------ items
@@ -1597,9 +1802,31 @@ var CURANET_HELPERS = (function () {
     fallback();
   }
 
+  /** Share menus are numbered so each Share button can name the menu it controls. */
+  var shareMenuSerial = 0;
+
+  /**
+   * The bottom of the visible area for a menu in the feed: the screen's bottom, or the top of the
+   * grey row when it is docked at the bottom of a phone screen.
+   * @returns {number}
+   */
+  function visibleBottom() {
+    var bottom = window.innerHeight;
+    if (!subbar.hidden && document.body.classList.contains('subbar-bottom')) {
+      try {
+        if (window.getComputedStyle(subbar).position === 'fixed') bottom = Math.min(bottom, subbar.getBoundingClientRect().top);
+      } catch (e) {
+        // No computed style: the screen's bottom.
+      }
+    }
+    return bottom;
+  }
+
   /**
    * The share menu of one item, built on first use inside .share-wrap: Copy Link and the five
-   * services as plain links to their share addresses with the original link and title.
+   * services as plain links to their share addresses with the original link and title. It opens
+   * below its button, or above it when there is more room there (.menu-up), like the live site's
+   * menus, which flip to stay on screen.
    * @param {HTMLElement} wrap
    * @param {HTMLElement} shareButton
    * @param {FeedItem} item
@@ -1608,6 +1835,9 @@ var CURANET_HELPERS = (function () {
   function createShareMenu(wrap, shareButton, item) {
     var menu = cloneTemplate('tpl-share-menu');
     menu.hidden = true;
+    shareMenuSerial += 1;
+    menu.id = 'share-menu-' + shareMenuSerial;
+    shareButton.setAttribute('aria-controls', menu.id);
     var url = shareUrl(item);
     /** @type {Record<string, string>} */
     var links = H.shareLinks(url, item.t);
@@ -1616,13 +1846,21 @@ var CURANET_HELPERS = (function () {
       link.href = links[service];
     }
     wrap.appendChild(menu);
-    var controller = createMenu(shareButton, menu);
+    var place = function () {
+      menu.classList.remove('menu-up');
+      var box = shareButton.getBoundingClientRect();
+      var height = menu.offsetHeight;
+      var below = visibleBottom() - box.bottom - 4;
+      // The sticky header (z 50) covers the share menu (z 40), so the room above ends at its bottom.
+      var above = box.top - 4 - Math.max(0, siteHeader.getBoundingClientRect().bottom);
+      if (height > below && above > below) menu.classList.add('menu-up');
+    };
+    var controller = createMenu(shareButton, menu, { onOpen: place });
     find(menu, '.share-copy').addEventListener('click', function () {
       controller.close(true);
       copyText(url, function (ok) {
         if (ok) showToast(t('linkCopied'), t('linkCopiedDesc'));
         else showToast(t('shareFailed'));
-        actionStatus.textContent = t(ok ? 'linkCopied' : 'shareFailed');
         if (document.activeElement === document.body) focusOn(shareButton, true);
       });
     });
@@ -1634,31 +1872,36 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
+   * The visible label carries the state ("Save" / "Saved"), so the button is not also a toggle
+   * (aria-pressed with a changing name would announce the state twice); data-saved fills the icon.
    * @param {HTMLElement} save
    * @param {boolean} saved
    */
   function paintSaveButton(save, saved) {
-    save.setAttribute('aria-pressed', saved ? 'true' : 'false');
+    save.setAttribute('data-saved', saved ? 'true' : 'false');
     find(save, '.action-label').textContent = t(saved ? 'savedItem' : 'saveItem');
   }
 
   /**
-   * Save, Share and the heart (disabled until accounts exist).
+   * Save, Share and the heart (disabled until accounts exist). Each is described by the item's
+   * title, so a list of buttons says which item a Save belongs to.
    * @param {HTMLElement} card
    * @param {FeedItem} item
+   * @param {string} titleId   The id of the item's title text.
    */
-  function fillActions(card, item) {
+  function fillActions(card, item, titleId) {
     var slot = find(card, '.actions');
     var actions = cloneTemplate('tpl-actions');
     var save = find(actions, '.action-save');
+    save.setAttribute('aria-describedby', titleId);
     paintSaveButton(save, isSaved(item.id));
     save.addEventListener('click', function () {
       var saved = toggleSaved(item.id);
       paintSaveButton(save, saved);
       storageHint.hidden = storageOk || !(view === 'saved' || view === 'following');
+      // The toast region is the one live region that announces the result.
       if (saved) showToast(t('savedToast'), t('savedToastDesc'));
       else showToast(t('removedToast'));
-      actionStatus.textContent = t(saved ? 'savedToast' : 'removedToast');
       if (view === 'saved' && !saved) {
         // Unsaving inside the Saved list removes the item from it. Focus was on the Save button
         // being removed, so it moves to the next item's title (or the feed itself).
@@ -1681,6 +1924,7 @@ var CURANET_HELPERS = (function () {
 
     var wrap = find(actions, '.share-wrap');
     var share = find(actions, '.action-share');
+    share.setAttribute('aria-describedby', titleId);
     /** @type {Menu|null} */
     var shareMenu = null;
     share.addEventListener('click', function () {
@@ -1690,9 +1934,32 @@ var CURANET_HELPERS = (function () {
     });
 
     var like = find(actions, '.action-like');
+    like.setAttribute('aria-describedby', titleId + ' coming-later-hint');
     like.addEventListener('click', function () { showToast(t('likesLater')); });
 
     if (slot.parentNode) slot.parentNode.replaceChild(actions, slot);
+  }
+
+  /** Rendered items are numbered so their buttons can point at their title (aria-describedby). */
+  var itemSerial = 0;
+
+  /**
+   * Fill the publisher line and the title, which are the publisher's own words: when the source's
+   * language differs from the interface's, .item-text (publisher and title only; the time and the
+   * buttons sit outside it) carries that language, so screen readers pronounce it right.
+   * @param {HTMLElement} card
+   * @param {FeedItem} item
+   * @param {FeedSource} source
+   * @returns {string} the id given to the title text.
+   */
+  function fillText(card, item, source) {
+    find(card, '.publisher-name').textContent = source.name;
+    var title = find(card, '.item-title-text');
+    title.textContent = item.t;
+    itemSerial += 1;
+    title.id = 'it-' + itemSerial;
+    if (source.language && source.language !== UI_LANG) find(card, '.item-text').setAttribute('lang', source.language);
+    return title.id;
   }
 
   /**
@@ -1705,8 +1972,7 @@ var CURANET_HELPERS = (function () {
     var card = cloneTemplate('tpl-article');
     var link = /** @type {HTMLAnchorElement} */ (find(card, '.item-link'));
     link.href = item.l;
-    find(card, '.publisher-name').textContent = source.name;
-    find(card, '.item-title-text').textContent = item.t;
+    var titleId = fillText(card, item, source);
     fillTime(find(card, '.item-time'), item.p, nowMs);
     var thumb = find(card, '.item-thumb');
     var img = /** @type {HTMLImageElement} */ (find(card, '.item-img'));
@@ -1721,7 +1987,7 @@ var CURANET_HELPERS = (function () {
     } else {
       removeThumb();
     }
-    fillActions(card, item);
+    fillActions(card, item, titleId);
     return card;
   }
 
@@ -1784,8 +2050,7 @@ var CURANET_HELPERS = (function () {
     var card = cloneTemplate('tpl-video');
     var link = /** @type {HTMLAnchorElement} */ (find(card, '.item-link'));
     link.href = watchUrl(item);
-    find(card, '.publisher-name').textContent = source.name;
-    find(card, '.item-title-text').textContent = item.t;
+    var titleId = fillText(card, item, source);
     fillTime(find(card, '.item-time'), item.p, nowMs);
     var box = find(card, '.video-box');
     if (CONFIG.video === 'embed' && item.v) {
@@ -1805,7 +2070,7 @@ var CURANET_HELPERS = (function () {
       fillPreview(box, anchor, item);
       box.appendChild(anchor);
     }
-    fillActions(card, item);
+    fillActions(card, item, titleId);
     return card;
   }
 
@@ -1838,17 +2103,30 @@ var CURANET_HELPERS = (function () {
   }
 
   function renderMore() {
+    var hadFocus = document.activeElement === showMore;
+    /** @type {HTMLElement|null} */
+    var firstNew = null;
     var slice = filtered.slice(shown, shown + PAGE_SIZE);
     if (slice.length) {
       var fragment = document.createDocumentFragment();
       var nowMs = Date.now();
-      slice.forEach(function (item) { fragment.appendChild(renderItem(item, nowMs)); });
+      for (var i = 0; i < slice.length; i += 1) {
+        var node = renderItem(slice[i], nowMs);
+        if (i === 0) firstNew = node;
+        fragment.appendChild(node);
+      }
       feedList.appendChild(fragment);
       shown += slice.length;
     }
     var more = shown < filtered.length;
     showMore.hidden = !more || Boolean(observer);
     updateFeedEnd();
+    // The "Show more" fallback disappears with the last batch while it has focus: focus moves to
+    // the first item it loaded, so the keyboard carries on in reading order.
+    if (hadFocus && showMore.hidden) {
+      var firstLink = firstNew ? /** @type {HTMLElement|null} */ (firstNew.querySelector('.item-link')) : null;
+      focusOn(firstLink || mainEl, true);
+    }
     if (more && observer) window.requestAnimationFrame(fillIfSentinelVisible);
   }
 
@@ -1883,23 +2161,28 @@ var CURANET_HELPERS = (function () {
     emptyText.textContent = t(key);
     clearButton.hidden = listEmpty;
     manageFollowingButton.hidden = !(view === 'following' && listEmpty);
+    // With neither button the row takes no room, so the text sits in the middle of the live block.
+    emptyActions.hidden = clearButton.hidden && manageFollowingButton.hidden;
   }
 
   /**
    * Recompute the list from the current view and filters and render the first page.
-   * @param {boolean} [scrollUp]   true when the visitor changed a filter.
+   * @param {boolean} [scrollUp]     true when the visitor changed a filter.
+   * @param {boolean} [replaceUrl]   true when the address is only made canonical (no history entry).
    */
-  function refresh(scrollUp) {
+  function refresh(scrollUp, replaceUrl) {
     searchWords = fold(state.q).split(/\s+/).filter(Boolean);
     filtered = FEED_VIEWS[view] ? collectItems() : [];
     shown = 0;
     clear(feedList);
+    // A category page's leading video sits flush with the card's top (styles.css).
+    feedPanel.classList.toggle('is-category', view === 'feed' && Boolean(state.c));
     emptyState.hidden = filtered.length > 0;
     updateEmptyState();
     storageHint.hidden = storageOk || !(view === 'saved' || view === 'following');
     renderMore();
     announceCount();
-    writeUrlState();
+    writeUrlState(replaceUrl);
     if (scrollUp) scrollToTop();
   }
 
@@ -2099,13 +2382,14 @@ var CURANET_HELPERS = (function () {
     DATA.sources.forEach(function (source) {
       var row = document.createElement('tr');
 
-      var nameLink = document.createElement('a');
-      nameLink.className = 'source-name';
-      nameLink.href = source.siteUrl || source.url;
-      nameLink.target = '_blank';
-      nameLink.rel = 'noopener';
-      nameLink.setAttribute('aria-describedby', 'new-tab-hint');
-      nameLink.textContent = source.name;
+      var address = isHttpAddress(source.siteUrl) ? source.siteUrl : isHttpAddress(source.url) ? source.url : '';
+      var nameLink = el(address ? 'a' : 'span', 'source-name', source.name);
+      if (address && nameLink instanceof HTMLAnchorElement) {
+        nameLink.href = address;
+        nameLink.target = '_blank';
+        nameLink.rel = 'noopener';
+        nameLink.setAttribute('aria-describedby', 'new-tab-hint');
+      }
       row.appendChild(cell(t('colName'), nameLink));
 
       row.appendChild(cell(t('colType'), t(source.type === 'youtube_channel' ? 'typeYoutubeChannel' : 'typeFeed')));
@@ -2194,15 +2478,16 @@ var CURANET_HELPERS = (function () {
   /**
    * Switch to a view from a grey-row link, a button or a menu link, and refresh the feed.
    * @param {View} next
+   * @param {boolean} [replaceUrl]   true when the address already names the view (a #hash).
    */
-  function goToView(next) {
+  function goToView(next, replaceUrl) {
     if (next !== 'feed') { state.c = ''; }
     if (next !== 'live' && next !== 'feed') state.s = '';
     // Entering Live always opens on All: a feed subcategory id such as "news" must not leak in
     // as a Live section. Section links inside Live keep their choice.
     if (next === 'live' && view !== 'live') state.s = '';
     showView(next, next === 'manage' || next === 'sources' || next === 'about');
-    refresh(true);
+    refresh(true, replaceUrl);
   }
 
   /** Home: the whole feed, no category. */
@@ -2226,8 +2511,8 @@ var CURANET_HELPERS = (function () {
       state.c = '';
       state.s = '';
     }
-    goToView(next);
-    if (CONFIG.urlState) writeUrlState();
+    goToView(next, true);
+    if (CONFIG.urlState) writeUrlState(true);
   }
 
   /**
@@ -2245,7 +2530,7 @@ var CURANET_HELPERS = (function () {
     readUrlState();
     syncControls();
     showView(view, false);
-    refresh(false);
+    refresh(false, true);
   }
 
   /** The header controls follow the state: location label, language hint, toggle glyph, search words. */
@@ -2309,9 +2594,20 @@ var CURANET_HELPERS = (function () {
     if (target && !dialog.contains(target) && target !== avatarButton && !avatarButton.contains(target)) closeDialog();
   }
 
+  /**
+   * Store the preferences and apply them to the open page at once, so the address follows: an
+   * address written from an earlier preference would otherwise keep it on every reload.
+   */
   function savePreferences() {
     var ok = writeStorage(PREFS_KEY, { lang: prefLang.value, loc: prefLoc.value });
     prefNote.textContent = ok ? t('saved') : t('prefsUnavailable');
+    var lang = DATA.languages.indexOf(prefLang.value) >= 0 ? prefLang.value : '';
+    var loc = DATA.countries.indexOf(prefLoc.value) >= 0 ? prefLoc.value : '';
+    if (lang === state.lang && loc === state.loc) return;
+    state.lang = lang;
+    state.loc = loc;
+    syncControls();
+    refresh(true);
   }
 
   /**
@@ -2336,7 +2632,11 @@ var CURANET_HELPERS = (function () {
 
   // ------------------------------------------------------------------ keyboard
 
-  /** Escape closes whatever is open: the Menu panel, a dropdown, then the search field. */
+  /**
+   * Escape closes whatever is open: the Menu panel, a dropdown, the search field (while it has
+   * focus), then the newest toast, which leaves focus where it is. The Settings dialog handles its
+   * own Escape.
+   */
   function onDocumentKeydown(event) {
     if (event.key !== 'Escape' && event.key !== 'Esc') return;
     if (!menuPanel.hidden) {
@@ -2352,7 +2652,24 @@ var CURANET_HELPERS = (function () {
     if (!searchForm.hidden && searchForm.contains(document.activeElement)) {
       event.preventDefault();
       setSearchOpen(false);
+      return;
     }
+    if (liveToasts.length && !dialog.hasAttribute('open')) {
+      event.preventDefault();
+      liveToasts[liveToasts.length - 1].dismiss();
+    }
+  }
+
+  /**
+   * A click on the dialog element itself is either on its backdrop or on its own 24px padding;
+   * only a click outside its box closes it.
+   * @param {MouseEvent} event
+   */
+  function onDialogClick(event) {
+    if (event.target !== dialog) return;
+    var box = dialog.getBoundingClientRect();
+    var outside = event.clientX < box.left || event.clientX > box.right || event.clientY < box.top || event.clientY > box.bottom;
+    if (outside) closeDialog();
   }
 
   // ------------------------------------------------------------------ wiring
@@ -2420,16 +2737,15 @@ var CURANET_HELPERS = (function () {
       avatarMenuController.close(false);
       openDialog();
     });
-    menuFollowing.addEventListener('click', function (event) {
-      event.preventDefault();
-      avatarMenuController.close(false);
-      openViewFromMenu('following');
-    });
     bindInPageLinks(avatarMenu);
+    // The blue bar stays usable above the Menu panel: any click in it closes the panel first, so
+    // a menu it opens is not hidden under the panel and a feed change is not made behind it.
+    topbar.addEventListener('click', function () { if (!menuPanel.hidden) closeMenuPanel(false); }, true);
     if (darkQuery && typeof darkQuery.addEventListener === 'function') darkQuery.addEventListener('change', syncThemeToggle);
     document.addEventListener('mousedown', onPointerDownOutside);
     document.addEventListener('touchstart', onPointerDownOutside, { passive: true });
     document.addEventListener('keydown', onDocumentKeydown);
+    document.addEventListener('visibilitychange', onVisibilityChange);
 
     // The tabs bar and the Menu panel.
     menuButton.addEventListener('click', function () {
@@ -2459,7 +2775,7 @@ var CURANET_HELPERS = (function () {
     profileClose.addEventListener('click', closeDialog);
     prefSave.addEventListener('click', savePreferences);
     dialog.addEventListener('close', onDialogClosed);
-    dialog.addEventListener('click', function (event) { if (event.target === dialog) closeDialog(); });
+    dialog.addEventListener('click', onDialogClick);
     dialog.addEventListener('change', function (event) {
       var target = /** @type {HTMLInputElement} */ (event.target);
       if (!target || target.type !== 'radio') return;
@@ -2483,8 +2799,8 @@ var CURANET_HELPERS = (function () {
 
     setupInfiniteScroll();
     showView(view, false);
-    refresh(false);
-    if (hashView && CONFIG.urlState) writeUrlState();
+    refresh(false, true);
+    if (hashView && CONFIG.urlState) writeUrlState(true);
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);

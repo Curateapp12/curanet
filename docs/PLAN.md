@@ -28,8 +28,24 @@
    preferred language and location; links to Saved, Following, Sources and About. ✅
 
 Left for later: Like and Comment (need accounts and a server), real live streams (need the YouTube
-API key), Saved and Following on the account side when sign-in arrives, and the exact hover colours
-and the logo vector from Figma.
+API key), Saved and Following on the account side when sign-in arrives (the Figma hover colours and
+logo vector were superseded by version 0.3).
+
+## Version 0.3 — the live curanet.io design (2026-10-06) ✅
+
+1. **Blue top bar** — the live logo, search, the location picker ("World" = all), the cycling
+   article/video button and the avatar menu (Saved, Following, Live, Language, Dark Mode,
+   Settings, Sources, About). ✅
+2. **Tabs and Menu panel** — Home plus the category tabs, and the ≡ Menu panel with every category
+   and Saved, Following, Live, Sources, About. ✅
+3. **Grey row** — All / Saved / Following on Home, All plus the subcategories on a category,
+   All / News / Sports / Music in Live; it can still dock at the bottom on phones. ✅
+4. **Feed card** — publisher name, title and thumbnail as one link to the original, Save, a Share
+   menu with plain share links carrying the original link, and the heart shown but disabled. ✅
+5. **System font** and `docs/LAYOUT.md` version 3, measured from the live site. ✅
+
+Left for later: Like and Comment (accounts and a server), real live streams (the YouTube API key),
+Saved and Following on the account side once sign-in exists.
 
 ## Next
 

@@ -29,25 +29,37 @@ Every change goes on a branch and into a pull request. On GitHub's website, open
 and press **Merge pull request** to make it part of `main`. The checks on the pull request include
 a test of the data files, so a mistake is caught before it reaches the site.
 
-## What visitors see (since the redesign)
+## What visitors see
 
-The site follows your Figma design. The top bar lists **My Hub**, **Live**, **Home** and then the
-categories from `data/categories.json` in file order; the bar under it lists the subcategories.
-Visitors save and share items with the buttons under each item. They follow sections from
-**My Hub › Following** (the gear opens Manage Following). From the avatar at the top right they
-switch the theme (light by default), set a preferred language and location and, on phones, move the
-sections bar to the bottom of the screen. Saved items and followed sections live in their own
-browser; there is no account. **Live** shows the latest videos (All / News / Sports / Music) until
-the YouTube API key exists; real live streams come later. Like and Comment are shown but disabled
-until accounts exist. Adding a category with `/add-category` makes it appear in the top bar on the
-next build.
+The site copies the look of your live site at curanet.io.
+
+- **The blue bar** at the top holds the Curanet logo (it goes back to Home), a search button, the
+  location picker ("World" means every country), the article/video button (each click switches
+  between both, videos only and articles only) and the round avatar button.
+- **The white bar** under it shows **Home** and then every category from `data/categories.json`,
+  in file order. The **≡** button at its right opens the Menu panel: every category as a tile,
+  and under "More" the tiles Saved, Following, Live, Sources and About.
+- **The grey row** under that changes with the page: **All · Saved · Following** on Home (plus
+  **Manage** while Following is open), **All** and the subcategories on a category, and
+  **All · News · Sports · Music** in Live.
+- **The avatar menu** has Saved, Following and Live; Language (which languages the feed shows);
+  Dark Mode / Light Mode; Settings; and links to Sources and About. In Settings a visitor chooses
+  the theme (light by default), where the grey row sits on a phone (top or bottom), and a
+  preferred language and location.
+- **Under each item** are **Save**, **Share** (copy the link, or share it on Facebook, Twitter,
+  LinkedIn, WhatsApp or Telegram, always with the original article's link) and a heart. The heart
+  (Like) is shown but does nothing yet; liking and commenting come later, with accounts.
+- Saved items and followed sections stay in each visitor's own browser; there is no account.
+  **Live** shows the latest videos until the YouTube API key exists; real live streams come later.
+- A category you add with `/add-category` appears as a tab in the white bar, as a tile in the
+  Menu panel and in Manage Following on the next build.
 
 ## Where things are
 
 - `data/sources.json` — every feed and channel: its name, address, category, subcategory, country,
   language and status.
-- `data/categories.json` — the category tree, in the order the top bar shows it (after My Hub, Live
-  and Home).
+- `data/categories.json` — the category tree, in the order the site shows it: the category tabs
+  (after Home) and the tiles of the ≡ Menu panel.
 - `data/hidden.json` — items you removed.
 - `data/items/` — the collected items, one file per source.
 - `data/runs/` — one file per fetch run, saying when it ran, what it added and what failed.

@@ -175,7 +175,8 @@ test('build renders the hosted site as a full document with remote thumbnails an
   assert.ok(html.includes('<title>Curanet — Curate the internet</title>'));
   assert.ok(html.includes('<meta name="description"'));
   assert.ok(html.includes('<link rel="stylesheet" href="styles.css">'));
-  assert.deepEqual(html.match(/<link[^>]*>/g), ['<link rel="stylesheet" href="styles.css">'], 'the local stylesheet is the only <link>');
+  assert.deepEqual(html.match(/<link[^>]*>/g), ['<link rel="icon" type="image/svg+xml" href="icon.svg">', '<link rel="stylesheet" href="styles.css">'], 'the local tab icon and stylesheet are the only <link>s');
+  assert.ok(html.includes('<meta name="theme-color" content="#3B82F6">'), 'the live site\'s theme colour tints phone address bars');
   assertNoWebFont(html, 'hosted');
   assert.ok(html.includes('<script src="strings.js"></script>'));
   assert.ok(html.includes('<script src="app.js"></script>'));
@@ -194,10 +195,15 @@ test('build renders the hosted site as a full document with remote thumbnails an
   assert.ok(!('images' in data), 'the hosted data has no embedded images table');
   for (const item of data.items) assert.ok(item.th === null || /^https?:\/\//.test(item.th), 'every thumbnail is a publisher address');
 
-  for (const file of ['styles.css', 'strings.js', 'app.js']) {
+  for (const file of ['styles.css', 'strings.js', 'app.js', 'icon.svg']) {
     assert.ok(existsSync(path.join(out, file)), file + ' copied');
     assert.equal(readFileSync(path.join(out, file), 'utf8'), readFileSync(path.join(SITE_DIR, file), 'utf8'));
   }
+  // The tab icon is the live logo filling its box, drawn with literal colours, loading nothing.
+  const icon = readFileSync(path.join(out, 'icon.svg'), 'utf8');
+  assert.ok(icon.startsWith('<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 10 60 60"'), 'the rounded square fills the tab icon');
+  assert.ok(icon.includes('fill="#3b82f6"') && !icon.includes('currentColor'), 'literal colours');
+  assert.ok(!/href=|<script|<image/i.test(icon), 'the icon loads nothing and runs nothing');
   assert.ok(result.hosted);
   assert.equal(result.hosted.items, 6);
   assert.ok(result.hosted.bytes > 1000);
@@ -292,7 +298,7 @@ test('build renders both targets by default and survives an empty data directory
 test('build copies nothing but the site assets into dist', async () => {
   const out = tempDir();
   await build({ target: 'hosted', dataDir: FIXTURE_DIR, outDir: out, thumbs: false, now: NOW, log: () => {} });
-  assert.deepEqual(readdirSync(out).sort(), ['app.js', 'index.html', 'strings.js', 'styles.css']);
+  assert.deepEqual(readdirSync(out).sort(), ['app.js', 'icon.svg', 'index.html', 'strings.js', 'styles.css']);
 });
 
 test('escapeJsonForScript keeps JSON valid and the script element unbreakable', () => {
@@ -395,9 +401,12 @@ test('the template is a body fragment that app.js can fill', () => {
   for (const cls of new Set([...app.matchAll(/find\([a-zA-Z]+, '\.([a-z0-9-]+)'\)/g)].map((m) => m[1]))) {
     assert.ok(new RegExp(`class="(?:[^"]* )?${cls}(?: [^"]*)?"`).test(template), 'template has an element with class .' + cls);
   }
-  // Menus and dialogs are announced as such.
-  assert.ok(/id="avatar-button"[^>]*aria-haspopup="true"[^>]*aria-expanded="false"[^>]*aria-controls="avatar-menu"/.test(template), 'the avatar button controls its menu');
-  assert.ok(/id="loc-button"[^>]*aria-haspopup="true"[^>]*aria-expanded="false"[^>]*aria-controls="loc-menu"/.test(template), 'the location button controls its menu');
+  // The popups are disclosures (they hold paragraphs, a nested list and links, which an ARIA menu
+  // cannot): the triggers say expanded/collapsed and which element they control, and claim no menu.
+  assert.ok(/id="avatar-button"[^>]*aria-expanded="false"[^>]*aria-controls="avatar-menu"/.test(template), 'the avatar button controls its menu');
+  assert.ok(/id="loc-button"[^>]*aria-expanded="false"[^>]*aria-controls="loc-menu"/.test(template), 'the location button controls its menu');
+  assert.ok(!template.includes('aria-haspopup'), 'no trigger announces a menu that has no menu role or arrow keys');
+  assert.ok(!/role="menu(?:item)?"/.test(template), 'and no menu roles');
   assert.ok(/id="menu-button"[^>]*aria-expanded="false"[^>]*aria-controls="menu-panel"/.test(template), 'the ≡ button controls the Menu panel');
   assert.ok(/id="menu-panel" role="dialog" aria-modal="true" aria-labelledby="menu-panel-heading" hidden/.test(template), 'the Menu panel is a labelled modal, hidden at first');
   assert.ok(/<dialog id="profile-panel"[^>]*aria-labelledby="profile-heading"/.test(template), 'Settings is a labelled <dialog>');
@@ -417,6 +426,12 @@ test('the template is a body fragment that app.js can fill', () => {
   // text block (publisher, title, picture) is one link, the video's title is its own link.
   assert.ok(/<a class="item-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint">\s*<div class="item-row">[\s\S]*?<span class="publisher-name"><\/span>[\s\S]*?<span class="item-title-text"><\/span>[\s\S]*?<div class="item-thumb">[\s\S]*?<\/a>/.test(template), 'the article link wraps publisher, title and picture');
   assert.ok(/<h2 class="item-title"><a class="item-link" target="_blank" rel="noopener" aria-describedby="new-tab-hint"><span class="item-title-text"><\/span><\/a><\/h2>/.test(template), 'the video title link wraps the clamped span');
+  for (const id of ['tpl-article', 'tpl-video']) {
+    const tpl = (new RegExp(`<template id="${id}">([\\s\\S]*?)</template>`).exec(template) || [])[1] || '';
+    assert.ok(/<div class="item-text">[\s\S]*?publisher-name[\s\S]*?item-title-text[\s\S]*?<\/h2>\s*<\/div>/.test(tpl), id + ': .item-text wraps exactly the publisher and the title');
+    const text = (/<div class="item-text">([\s\S]*?<\/h2>)\s*<\/div>/.exec(tpl) || [])[1] || '';
+    assert.ok(!/item-time|actions/.test(text), id + ': the time and the buttons stay outside .item-text (they are interface text)');
+  }
   // The share menu: Copy Link plus the five services, as links that open a new tab; app.js sets
   // their addresses.
   const share = (/<template id="tpl-share-menu">([\s\S]*?)<\/template>/.exec(template) || [])[1] || '';
@@ -785,4 +800,191 @@ test('index.html only uses string keys for the texts that app.js fills from the 
     untranslated.push(text);
   }
   assert.deepEqual(untranslated, [], 'hard-coded text in index.html');
+});
+
+// ------------------------------------------------------------------ review fixes (version 3)
+
+test('the build keeps every address that becomes an href or src to http(s), whatever the data says', async () => {
+  const dataDir = tempDir();
+  writeFileSync(path.join(dataDir, 'categories.json'), readFileSync(path.join(FIXTURE_DIR, 'categories.json')));
+  const sources = JSON.parse(readFileSync(path.join(FIXTURE_DIR, 'sources.json'), 'utf8'));
+  const gazette = sources.sources.find((s) => s.id === 'gazette');
+  gazette.siteUrl = 'javascript:alert(document.domain)';
+  writeFileSync(path.join(dataDir, 'sources.json'), JSON.stringify({ version: 1, sources: [gazette] }));
+  const { mkdirSync } = await import('node:fs');
+  mkdirSync(path.join(dataDir, 'items'));
+  const base = { guid: 'x', title: 'T', excerpt: 'E', published: '2026-10-05T09:00:00.000Z', type: 'article', addedAt: '2026-10-05T09:00:00.000Z' };
+  writeFileSync(path.join(dataDir, 'items', 'gazette.json'), JSON.stringify({ version: 1, sourceId: 'gazette', items: [
+    { ...base, id: 'a000000000000001', link: 'javascript:alert(1)', thumbnail: null },
+    { ...base, id: 'a000000000000002', link: 'https://gazette.example/ok', thumbnail: 'javascript:void 0' },
+    { ...base, id: 'a000000000000003', link: 'https://gazette.example/video', thumbnail: 'data:image/svg+xml,<svg/>', type: 'video', videoId: 'bad id"><x' },
+  ] }));
+  const data = assembleFeedData(dataDir, { now: NOW });
+  assert.deepEqual(data.items.map((i) => i.id), ['a000000000000002', 'a000000000000003'], 'the javascript: link never reaches the page');
+  assert.equal(data.items[0].th, null, 'a javascript: thumbnail is dropped');
+  assert.equal(data.items[1].th, null, 'only http(s) thumbnails come from the data (the preview embeds its own)');
+  assert.ok(!('v' in data.items[1]), 'a malformed video id is dropped, so the watch link falls back to the checked link');
+  assert.equal(data.sources[0].siteUrl, null, 'a javascript: siteUrl is dropped');
+  assert.equal(data.sources[0].url, 'https://gazette.example/feed.xml');
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  assert.ok(/var ITEMS = DATA\.items\.filter\(function \(item\) \{ return item && SOURCES\[item\.s\] && isHttpAddress\(item\.l\); \}\);/.test(app), 'app.js checks again before an item link becomes an href');
+  assert.ok(/isHttpAddress\(source\.siteUrl\) \? source\.siteUrl : isHttpAddress\(source\.url\)/.test(app), 'and before a source address does');
+});
+
+test('the blue bar fits at 360px whatever the country name, in English and French', () => {
+  const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  // The bar is logo 40 + search 36 + location + toggle 32 + avatar 40 with 16px gaps in 328px:
+  // "United Kingdom" (136px) pushed the avatar 20px off a 360px screen. The middle spacer gives up
+  // its room first, then the label shrinks and is cut with an ellipsis, in any language, with no
+  // fixed cap that would cut names that fit.
+  assert.ok(/\.topbar-middle \{ flex: 1 1 auto; min-width: 0; \}/.test(css), 'the empty middle shrinks first');
+  assert.ok(/\.loc-picker \{ position: relative; flex: 0 1 auto; min-width: 0; \}/.test(css), 'the picker may shrink');
+  assert.ok(/\.loc-button \{\s*max-width: 100%;\s*flex-shrink: 1;/.test(css), 'and its button with it');
+  assert.ok(/\.loc-button \.icon \{ flex: none;/.test(css), 'the globe keeps its 16px');
+  assert.ok(/\.loc-label \{ min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; \}/.test(css), 'the label is cut with an ellipsis');
+  assert.ok(!/\.loc-label \{[^}]*max-width:\s*\d+px/.test(css), 'no fixed width cap');
+  assert.ok(/locLabel\.textContent = label;\s*\/\/[^\n]*\n\s*locButton\.title = label;/.test(app), 'the full name stays readable as the button\'s tooltip');
+  // Manual check (Playwright, both outputs): at 360x800 with every country of the data (GB and US
+  // included) and uiLang en and fr, scrollWidth equals clientWidth and the avatar ends at x <= 344.
+});
+
+test('video items and a leading video match the live card', () => {
+  const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  assert.ok(/\.item-body \{ padding: 0 16px 16px; \}/.test(css) && /\.item-body \{ padding: 0 24px 16px; \}/.test(css), 'the text block under the player has the live 16px bottom padding (pb-4)');
+  assert.ok(!/\.feed-card \.item:first-child \.video-box/.test(css), 'no player rounds its corners 16px below the card edge');
+  assert.ok(/\.feed-card\.is-category \.item-video:first-child \{ padding-top: 0; \}/.test(css), 'on a category page a leading video sits flush with the card top');
+  assert.ok(/\.feed-card\.is-category \.item-video:first-child \.video-box \{ border-radius: calc\(var\(--radius-lg\) - 1px\) calc\(var\(--radius-lg\) - 1px\) 0 0; \}/.test(css), 'and takes the card\'s inner corners');
+  assert.ok(/feedPanel\.classList\.toggle\('is-category', view === 'feed' && Boolean\(state\.c\)\);/.test(app), 'only while a category is open');
+});
+
+test('menus: the share menu flips to stay on screen, header menus scroll, rows match the live spacing', () => {
+  const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  assert.ok(/\.menu\.menu-up \{\s*top: auto;\s*bottom: calc\(100% \+ 4px\);/.test(css), 'a flipped menu opens above its button');
+  assert.ok(/var controller = createMenu\(shareButton, menu, \{ onOpen: place \}\);/.test(app), 'the share menu places itself when it opens');
+  assert.ok(/menu\.classList\.remove\('menu-up'\);[\s\S]{0,400}if \(height > below && above > below\) menu\.classList\.add\('menu-up'\);/.test(app), 'it flips only when the other side has more room, and never stays flipped');
+  assert.ok(/if \(!siteHeader\.contains\(menu\) && typeof menu\.scrollIntoView === 'function'\) menu\.scrollIntoView\(\{ block: 'nearest' \}\);/.test(app), 'an opened share menu is scrolled into view, so its focused row is never off screen');
+  assert.ok(/\.share-menu \{ z-index: 40; scroll-margin: 16px 0; \}/.test(css), 'with room for the opening animation');
+  assert.ok(/\.site-header \.menu \{\s*max-height: calc\(100vh - 64px\);\s*max-height: calc\(100dvh - 64px\);\s*overflow-y: auto;/.test(css), 'the location and avatar menus scroll inside themselves on short screens');
+  assert.ok(/\n\.menu-item-icon \{ margin-right: 8px; \}/.test(css) && !css.includes('.share-menu .menu-item-icon'), 'every menu icon has the live mr-2: labels sit 16px after their icon');
+  assert.ok(/\.menu-sublist \.menu-item \{ padding-left: 40px; \}/.test(css), 'the language choices line up with the labels');
+  // Live menus are modal: while open, their trigger shows its resting look under the pointer.
+  assert.ok(/\.action-share:hover \{ color: var\(--share-hover\); background: var\(--share-hover-bg\); \}/.test(css), 'Share is green on hover only');
+  assert.ok(/\.action-share\[aria-expanded="true"\]:hover \{ color: var\(--action-ink\); background: var\(--outline-bg\); \}/.test(css));
+  assert.ok(/\.loc-button\[aria-expanded="true"\]:hover \{ background: transparent; color: var\(--on-bar\); \}/.test(css));
+  assert.ok(/\.avatar-button\[aria-expanded="true"\]:hover \{ background: transparent; \}/.test(css));
+  assert.ok(!/(search-toggle|menu-button)\[aria-expanded="true"\]:hover/.test(css), 'the search toggle and ≡ keep their hover (not modal menus on the live site)');
+  // The avatar's hover colour sits under its opaque face, as on the live site: no ring.
+  assert.ok(/\.avatar-button:hover \{ background: var\(--control-hover\); \}/.test(css) && !/\.avatar-button:hover \{[^}]*box-shadow/.test(css), 'no hover ring around the avatar');
+  // Opening a header menu while the Menu panel is open closes the panel (it would cover the menu).
+  assert.ok(/if \(openMenu && openMenu !== controller\) openMenu\.close\(false\);\s*if \(!menuPanel\.hidden\) closeMenuPanel\(false\);/.test(app), 'a menu never opens under the Menu panel');
+  assert.ok(/topbar\.addEventListener\('click', function \(\) \{ if \(!menuPanel\.hidden\) closeMenuPanel\(false\); \}, true\);/.test(app), 'any click in the blue bar closes the panel first');
+});
+
+test('tabs and the grey row: Home stays current except on a category, aria-current, a ring that clears the label', () => {
+  const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  assert.ok(/function activeTabId\(\) \{\s*return view === 'feed' \? state\.c : '';\s*\}/.test(app), 'Home is the current tab on every view but a category');
+  const sections = (/function renderSections\(\) \{([\s\S]*?)\n {2}\}\n/.exec(app) || [])[1] || '';
+  assert.ok(sections.includes('subbar.hidden = false;') && !sections.includes('show = false'), 'the grey row shows on every view (the header keeps its 143px)');
+  assert.ok(/if \(view === 'following' \|\| view === 'manage'\) \{[\s\S]*?setCurrent\(manage, view === 'manage'\);/.test(sections), 'Manage stays in the row, current while Manage Following is open');
+  // The tabs and grey-row links open places; they are not toggles.
+  assert.ok(/function setCurrent\(node, current\) \{\s*if \(current\) node\.setAttribute\('aria-current', 'true'\);\s*else node\.removeAttribute\('aria-current'\);/.test(app));
+  for (const fn of ['makeTab', 'markActiveTab', 'makeSectionLink', 'markActiveSection']) {
+    const body = (new RegExp(`function ${fn}\\([^)]*\\) \\{([\\s\\S]*?)\\n {2}\\}\\n`).exec(app) || [])[1] || '';
+    assert.ok(body.includes('setCurrent('), fn + ' marks the current item with aria-current');
+    assert.ok(!body.includes('aria-pressed'), fn + ' does not use aria-pressed');
+  }
+  assert.ok(/\.tab\[aria-current="true"\]/.test(css) && /\.section-link\[aria-current="true"\]/.test(css) && !/\.(tab|section-link)\[aria-pressed/.test(css), 'the CSS follows aria-current');
+  // The focus ring is drawn around the label, not over it.
+  assert.ok(/\.tab:focus-visible, \.section-link:focus-visible \{ outline: none; \}/.test(css));
+  assert.ok(/\.tab:focus-visible::after, \.section-link:focus-visible::after \{\s*content: "";\s*position: absolute;\s*inset: 0;\s*border: 3px solid var\(--focus\);/.test(css), 'a 3px ring (a border, so forced colours paint it)');
+  assert.ok(/\.section-link:focus-visible::after \{ inset: -4px -6px 2px; \}/.test(css), 'grey-row links: the ring clears the letters and the underline');
+  assert.ok(/\.tab:first-child:focus-visible::after \{ left: -6px; \}/.test(css), 'Home (no left padding from 640px) keeps its "H" clear');
+});
+
+test('toasts: one at a time, rising from the bottom, paused while in use, dismissed by Escape, never over focus', () => {
+  const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  assert.ok(/var MAX_TOASTS = 1;/.test(app), 'a new toast replaces the one showing (the live store keeps one)');
+  assert.ok(/@keyframes toast-in-bottom/.test(css) && /\.toast \{ animation-name: toast-in-bottom; \}/.test(css) && !css.includes('toast-in-right'), 'desktop toasts rise from the bottom');
+  const toast = (/function showToast\(title, description\) \{([\s\S]*?)\n {2}\}\n/.exec(app) || [])[1] || '';
+  for (const event of ['mouseenter', 'mouseleave', 'focusin', 'focusout']) assert.ok(toast.includes(`addEventListener('${event}'`), 'the timer reacts to ' + event);
+  assert.ok(/remaining -= Date\.now\(\) - startedAt;/.test(toast) && /window\.setTimeout\(control\.dismiss, Math\.max\(remaining, 0\)\)/.test(toast), 'it resumes with the time that was left');
+  assert.ok(/document\.addEventListener\('visibilitychange', onVisibilityChange\);/.test(app), 'and waits while the page is in the background');
+  assert.ok(/if \(toast\.contains\(document\.activeElement\)\) focusOn\(mainEl, true\);/.test(toast), 'focus on a toast that goes stays in the page');
+  assert.ok(/if \(liveToasts\.length && !dialog\.hasAttribute\('open'\)\) \{\s*event\.preventDefault\(\);\s*liveToasts\[liveToasts\.length - 1\]\.dismiss\(\);/.test(app), 'Escape dismisses the newest toast without moving focus');
+  assert.ok(/keepFocusClearOfToasts\(\);/.test(toast) && /window\.scrollBy\(0, rect\.bottom - region\.top \+ 8\);/.test(app), 'a toast landing on the focused control scrolls it clear');
+  assert.ok(/html \{ scroll-padding-bottom: var\(--toast-space, 0px\); \}/.test(css), 'and the next Tab stop is kept above the toast');
+});
+
+test('focus stays visible: in the header menus, in forced colours, and on the blue bar while scrolling', () => {
+  const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  assert.ok(/\.topbar \.menu :focus-visible \{ outline-color: var\(--focus\); \}/.test(css), 'the white bar ring does not reach the white menus inside the bar');
+  // Forced colours drop box-shadows and repaint borders: a transparent outline is what they paint.
+  for (const selector of ['.search-input:focus-visible, .manage-search-input:focus-visible', '.action:focus-visible', '.button:focus-visible', '.select:focus-visible', '.check-input:focus-visible + .check-box']) {
+    const rule = (new RegExp(selector.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ' \\{([^}]*)\\}').exec(css) || [])[1];
+    assert.ok(rule !== undefined, selector + ' is styled');
+    assert.ok(!/outline: none/.test(rule) && /outline: 3px solid transparent/.test(rule), selector + ' keeps an outline for forced colours');
+  }
+  assert.ok(/if \(active && topbar\.contains\(active\)\) \{\s*try \{\s*if \(active\.matches\(':focus-visible'\)\) return true;/.test(app), 'the blue bar does not slide away from a keyboard-focused control');
+  // The live bar, ≡ and outline buttons show the arrow; the avatar, tabs and menu rows the hand.
+  assert.ok(/\.bar-button \{[^}]*cursor: default;/.test(css) && /\.action \{[^}]*cursor: default;/.test(css), 'bar and action buttons use the default cursor');
+});
+
+test('the article/video glyph stays readable on its light hover', () => {
+  const { css, light, systemDark, dark } = themeBlocks();
+  assert.equal(tokensOf(light)['--control-hover-glyph'], 'brightness(0) opacity(0.91)', 'light: the white glyph turns #171717 like the other bar controls (white is 1.75:1 on #a7c4ff)');
+  assert.equal(tokensOf(systemDark)['--control-hover-glyph'], 'none', 'dark (system): white stays (5.6:1 on #3f64b9)');
+  assert.equal(tokensOf(dark)['--control-hover-glyph'], 'none', 'dark (chosen)');
+  assert.ok(/\.type-button:hover \.type-glyph \{ filter: var\(--control-hover-glyph\); \}/.test(css));
+});
+
+test('screen readers: no stray text, one announcement per action, item context, language of parts', () => {
+  const template = readTemplate();
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  assert.ok(template.includes('<span id="new-tab-hint" hidden data-t="openInNewTab">'), 'the new-tab description is hidden, not read as page text');
+  assert.ok(template.includes('<span id="coming-later-hint" hidden data-t="comingLater">'), 'the heart\'s "Coming later" description');
+  assert.ok(!template.includes('action-status') && !app.includes('actionStatus'), 'Save and Copy Link are announced once, by the toast region');
+  // Save's label carries its state, so it is not also a toggle; each action names its item.
+  assert.ok(/class="action action-save" data-saved="false"/.test(template) && !/action-save"[^>]*aria-pressed/.test(template), 'Save has no aria-pressed');
+  assert.ok(/save\.setAttribute\('data-saved', saved \? 'true' : 'false'\);/.test(app) && !/save\.setAttribute\('aria-pressed'/.test(app));
+  assert.ok(/save\.setAttribute\('aria-describedby', titleId\);/.test(app) && /share\.setAttribute\('aria-describedby', titleId\);/.test(app) && /like\.setAttribute\('aria-describedby', titleId \+ ' coming-later-hint'\);/.test(app), 'Save, Share and the heart are described by the item title');
+  assert.ok(/title\.id = 'it-' \+ itemSerial;/.test(app), 'every title gets a unique id');
+  assert.ok(/menu\.id = 'share-menu-' \+ shareMenuSerial;\s*shareButton\.setAttribute\('aria-controls', menu\.id\);/.test(app), 'each Share button names the menu it controls');
+  // A French headline on the English interface is marked as French (WCAG 3.1.2).
+  assert.ok(/if \(source\.language && source\.language !== UI_LANG\) find\(card, '\.item-text'\)\.setAttribute\('lang', source\.language\);/.test(app), '.item-text takes the source language');
+  // The Language list names each language in itself ("Français"), marked with its language.
+  assert.ok(/new Intl\.DisplayNames\(\[code\], \{ type: 'language' \}\)\.of\(code\)/.test(app) && /name\.charAt\(0\)\.toLocaleUpperCase\(code\)/.test(app), 'native names, capitalised by their own rules');
+  assert.ok(/find\(item, '\.menu-item-label'\)\.setAttribute\('lang', entry\.code\);/.test(app) && /langCurrent\.setAttribute\('lang', state\.lang\);/.test(app) && /langCurrent\.removeAttribute\('lang'\);/.test(app), 'list rows and the hint carry their lang');
+});
+
+test('state and navigation: search from any view, preferences that follow, Back, and focus that never drops', () => {
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  // A search from Sources, About or Manage Following opens the feed with the results.
+  assert.ok(/var leave = words !== '' && !FEED_VIEWS\[view\];\s*if \(words === state\.q && !leave\) return;[\s\S]*?if \(leave\) \{\s*state\.c = '';\s*state\.s = '';\s*showView\('feed', false\);/.test(app));
+  // Closing the field drops unapplied words.
+  assert.ok(/function setSearchOpen\(open, moveFocus\) \{[\s\S]{0,200}if \(!open\) searchInput\.value = state\.q;/.test(app));
+  // Saving preferences applies them at once; ?view= is not a filter.
+  assert.ok(/function savePreferences\(\) \{[\s\S]*?state\.lang = lang;\s*state\.loc = loc;\s*syncControls\(\);\s*refresh\(true\);/.test(app));
+  assert.ok(/if \(FILTER_PARAMS\[i\] !== 'view' && params\.has\(FILTER_PARAMS\[i\]\)\) return true;/.test(app));
+  assert.ok(/var lang = \(params\.get\('lang'\) \|\| ''\)\.toLowerCase\(\);/.test(app), '?lang=FR reads like ?loc=ca');
+  // Back returns to the previous view or category on the hosted site; canonical writes replace.
+  assert.ok(/push = \['view', 'c', 's'\]\.some\(/.test(app) && /if \(push\) history\.pushState\(null, '', url\);\s*else history\.replaceState\(history\.state, '', url\);/.test(app));
+  assert.ok(/refresh\(false, true\);\s*if \(hashView && CONFIG\.urlState\) writeUrlState\(true\);/.test(app), 'start-up only makes the address canonical');
+  assert.ok(/goToView\(next, true\);\s*if \(CONFIG\.urlState\) writeUrlState\(true\);/.test(app), 'so does a #hash');
+  assert.ok(/function onPopState\(\) \{[\s\S]*?refresh\(false, true\);/.test(app), 'and Back/Forward');
+  // Saved ids of items that left the data do not count.
+  assert.ok(/var savedIds = stringList\(readStorage\(SAVED_KEY\)\)\.filter\(function \(id\) \{ return Boolean\(ITEM_BY_ID\[id\]\); \}\);/.test(app));
+  // The avatar menu's Following row has one handler.
+  assert.ok(!app.includes("byId('menu-following')"), 'no second click handler on top of bindInPageLinks');
+  // The Settings dialog closes on its backdrop only, not on its own padding.
+  assert.ok(/function onDialogClick\(event\) \{\s*if \(event\.target !== dialog\) return;[\s\S]*?if \(outside\) closeDialog\(\);/.test(app));
+  // Show more's last batch moves focus to the first new item.
+  assert.ok(/if \(hadFocus && showMore\.hidden\) \{[\s\S]*?focusOn\(firstLink \|\| mainEl, true\);/.test(app));
+  // The empty block's button row takes no room when both buttons are hidden.
+  assert.ok(/emptyActions\.hidden = clearButton\.hidden && manageFollowingButton\.hidden;/.test(app));
 });

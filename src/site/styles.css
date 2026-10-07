@@ -6,9 +6,10 @@
    padding; 768px changes the title size and the Menu panel's grid.
    Colour: the live site's light and dark palettes, every colour a token defined on :root below
    in the artifact shape (light; dark when following the system; dark when chosen). Where a live
-   pair misses WCAG AA (the Save and Share hover inks, the grey action ink in dark, the focus
-   ring, the checkbox border) the nearest value of the same family that passes is used; the
-   list is in the token comments. Type: the system stack, nothing loaded. */
+   pair misses WCAG AA (the Save and Share hover inks; in dark the grey action ink, the bar-control
+   hover, the search field and the title hover; the focus ring, the checkbox border, the toggle
+   glyph on its light hover) the nearest value of the same family that passes is used; the list is
+   in the token comments. Type: the system stack, nothing loaded. */
 
 :root {
   --font: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -17,6 +18,7 @@
   --on-bar: #ffffff;
   --control-hover: #a7c4ff;
   --control-hover-ink: #171717;
+  --control-hover-glyph: brightness(0) opacity(0.91); /* the white toggle glyph is 1.75:1 on #a7c4ff; this is #171717 */
   --page: #f9fafb;
   --card: #ffffff;
   --card-border: #e5e7eb;
@@ -86,8 +88,9 @@
     --bar: #214fcc;
     --bar-dark-line: #214fcc;
     --on-bar: #ffffff;
-    --control-hover: #3f64b9;
+    --control-hover: #3f64b9;        /* live #214fcc is the bar itself, so the hover would not show */
     --control-hover-ink: #ffffff;
+    --control-hover-glyph: none;
     --page: #030712;
     --card: #101828;
     --card-border: #1e2939;
@@ -101,7 +104,7 @@
     --publisher: #f3f4f6;
     --label: #99a1af;
     --muted: #99a1af;
-    --action-ink: #99a1af;
+    --action-ink: #99a1af;           /* live #6a7282 is 3.7:1 on the card */
     --cell-ink: #f3f4f6;
     --menu-bg: #171717;
     --menu-ink: #fafafa;
@@ -112,15 +115,15 @@
     --menu-hint: #a1a1a1;
     --menu-title: #f3f4f6;
     --placeholder: #a1a1a1;
-    --input-bg: #101828;
+    --input-bg: #101828;            /* live translucent white leaves the placeholder at 2.5:1 */
     --outline-bg: rgba(255, 255, 255, 0.045);
     --outline-border: rgba(255, 255, 255, 0.15);
-    --primary: #6393ff;
+    --primary: #6393ff;             /* the live link and tab colour; the title hover uses it in place of the live #4677ed, 4.3:1 on the card */
     --primary-line: #4677ed;
     --primary-hover: #123bb7;
     --tab-hover-line: #4a5565;
     --row-hover-line: #4a5565;
-    --save-hover: #6393ff;
+    --save-hover: #6393ff;          /* live #4677ed is 4.3:1 on the card */
     --save-hover-bg: rgba(29, 78, 206, 0.1);
     --share-hover: #00c950;
     --share-hover-bg: rgba(10, 88, 39, 0.1);
@@ -148,8 +151,9 @@
   --bar: #214fcc;
   --bar-dark-line: #214fcc;
   --on-bar: #ffffff;
-  --control-hover: #3f64b9;
+  --control-hover: #3f64b9;        /* live #214fcc is the bar itself, so the hover would not show */
   --control-hover-ink: #ffffff;
+  --control-hover-glyph: none;
   --page: #030712;
   --card: #101828;
   --card-border: #1e2939;
@@ -163,7 +167,7 @@
   --publisher: #f3f4f6;
   --label: #99a1af;
   --muted: #99a1af;
-  --action-ink: #99a1af;
+  --action-ink: #99a1af;           /* live #6a7282 is 3.7:1 on the card */
   --cell-ink: #f3f4f6;
   --menu-bg: #171717;
   --menu-ink: #fafafa;
@@ -174,15 +178,15 @@
   --menu-hint: #a1a1a1;
   --menu-title: #f3f4f6;
   --placeholder: #a1a1a1;
-  --input-bg: #101828;
+  --input-bg: #101828;            /* live translucent white leaves the placeholder at 2.5:1 */
   --outline-bg: rgba(255, 255, 255, 0.045);
   --outline-border: rgba(255, 255, 255, 0.15);
-  --primary: #6393ff;
+  --primary: #6393ff;             /* the live link and tab colour; the title hover uses it in place of the live #4677ed, 4.3:1 on the card */
   --primary-line: #4677ed;
   --primary-hover: #123bb7;
   --tab-hover-line: #4a5565;
   --row-hover-line: #4a5565;
-  --save-hover: #6393ff;
+  --save-hover: #6393ff;          /* live #4677ed is 4.3:1 on the card */
   --save-hover-bg: rgba(29, 78, 206, 0.1);
   --share-hover: #00c950;
   --share-hover-bg: rgba(10, 88, 39, 0.1);
@@ -245,6 +249,9 @@ hr { margin: 0; border: 0; }
    the outline buttons swap their border to the ring colour and add the soft halo instead. */
 :focus-visible { outline: 3px solid var(--focus); outline-offset: 0; }
 .topbar :focus-visible, .menu-panel-bar :focus-visible { outline-color: var(--on-bar); }
+/* The location and avatar menus sit inside the blue bar's markup but on a white (dark: #171717)
+   menu, so they take the ordinary ring. */
+.topbar .menu :focus-visible { outline-color: var(--focus); }
 .main:focus, h1:focus, .menu-panel-title:focus { outline: none; }
 
 .visually-hidden {
@@ -388,7 +395,7 @@ body.menu-open .site-header, body.search-open .site-header { top: 0; }
 .search-input::-webkit-search-decoration, .manage-search-input::-webkit-search-decoration,
 .search-input::-webkit-search-cancel-button, .manage-search-input::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; display: none; }
 .search-input:focus-visible, .manage-search-input:focus-visible {
-  outline: none;
+  outline: 3px solid transparent; /* invisible, but forced colours paint it */
   border-color: var(--focus);
   box-shadow: var(--shadow-xs), 0 0 0 3px var(--ring);
 }
@@ -405,14 +412,20 @@ body.menu-open .site-header, body.search-open .site-header { top: 0; }
   background: transparent;
   color: var(--on-bar);
   white-space: nowrap;
+  cursor: default;
   transition: background-color 150ms var(--ease), color 150ms var(--ease);
 }
 .bar-button:hover { background: var(--control-hover); color: var(--control-hover-ink); }
 .bar-button-icon { width: 36px; height: 36px; }
 .bar-button-icon .icon { width: 16px; height: 16px; }
 
-.loc-picker { position: relative; flex: none; }
+/* A long country name ("United Kingdom") may not fit next to the other controls at 360px: the
+   empty middle gives up its room first, then the label is cut with an ellipsis (the button's
+   title and accessible name keep the full name). */
+.loc-picker { position: relative; flex: 0 1 auto; min-width: 0; }
 .loc-button {
+  max-width: 100%;
+  flex-shrink: 1;
   height: 32px;
   padding: 0 10px;
   gap: 4px;
@@ -420,10 +433,12 @@ body.menu-open .site-header, body.search-open .site-header { top: 0; }
   line-height: 16px;
   font-weight: 500;
 }
-.loc-button .icon { width: 16px; height: 16px; }
+.loc-button .icon { flex: none; width: 16px; height: 16px; }
+.loc-label { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .type-button { width: 32px; height: 32px; border-radius: 50%; transition: background-color 300ms var(--ease); }
-.type-glyph { display: block; width: 20px; height: 20px; }
+.type-glyph { display: block; width: 20px; height: 20px; transition: filter 150ms var(--ease); }
+.type-button:hover .type-glyph { filter: var(--control-hover-glyph); }
 body[data-view="live"] #type-button { display: none; }
 
 .avatar-wrap { position: relative; flex: none; }
@@ -435,9 +450,13 @@ body[data-view="live"] #type-button { display: none; }
   border: 0;
   border-radius: 50%;
   background: transparent;
-  transition: box-shadow 150ms var(--ease);
+  transition: background-color 150ms var(--ease);
 }
-.avatar-button:hover { box-shadow: 0 0 0 3px var(--control-hover); }
+/* As on the live site the hover colour sits under the opaque 40px face, so nothing visible changes. */
+.avatar-button:hover { background: var(--control-hover); }
+/* The live menus are modal: while one is open its trigger loses its hover look. */
+.loc-button[aria-expanded="true"]:hover { background: transparent; color: var(--on-bar); }
+.avatar-button[aria-expanded="true"]:hover { background: transparent; }
 .avatar-face {
   display: flex;
   align-items: center;
@@ -485,6 +504,26 @@ body[data-view="live"] #type-button { display: none; }
   from { opacity: 0; transform: translateY(-4px) scale(0.96); }
   to { opacity: 1; transform: none; }
 }
+/* A share menu with no room below its button opens above it (app.js adds .menu-up), as the live
+   site's menus flip to stay on screen. */
+.menu.menu-up {
+  top: auto;
+  bottom: calc(100% + 4px);
+  transform-origin: bottom right;
+  animation-name: menu-in-up;
+}
+@keyframes menu-in-up {
+  from { opacity: 0; transform: translateY(4px) scale(0.96); }
+  to { opacity: 1; transform: none; }
+}
+/* The location and avatar menus hang from the sticky header: on a short screen they scroll inside
+   themselves (52px is the menu's top, 12px a margin), so every row can be reached. */
+.site-header .menu {
+  max-height: calc(100vh - 64px);
+  max-height: calc(100dvh - 64px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
 
 .menu-item {
   display: flex;
@@ -517,10 +556,11 @@ body[data-view="live"] #type-button { display: none; }
 .menu-item:hover .menu-hint, .menu-item:focus-visible .menu-hint { color: inherit; }
 .menu-chevron { width: 16px; height: 16px; color: var(--menu-icon); transition: transform 150ms var(--ease); }
 #lang-button[aria-expanded="true"] .menu-chevron { transform: rotate(90deg); }
-.menu-sublist .menu-item { padding-left: 32px; }
+.menu-sublist .menu-item { padding-left: 40px; }
 .menu-sep { height: 1px; margin: 12px -4px; background: var(--menu-border); }
 .menu-sep-tight { margin: 4px -4px; }
-.share-menu .menu-item-icon { margin-right: 8px; }
+/* The live rows give their icon mr-2 on top of the 8px gap: the label starts 16px after the icon. */
+.menu-item-icon { margin-right: 8px; }
 
 .avatar-menu {
   width: 320px;
@@ -572,6 +612,7 @@ body[data-view="live"] #type-button { display: none; }
 .tabs-track::-webkit-scrollbar { display: none; }
 
 .tab {
+  position: relative;
   flex: none;
   padding: 12px 8px;
   border: 0;
@@ -585,8 +626,17 @@ body[data-view="live"] #type-button { display: none; }
   transition: color 150ms var(--ease), border-color 150ms var(--ease);
 }
 .tab:hover { border-color: var(--tab-hover-line); }
-.tab[aria-pressed="true"] { color: var(--primary); border-color: var(--primary-line); cursor: default; }
-.tab:focus-visible { outline-offset: -3px; }
+.tab[aria-current="true"] { color: var(--primary); border-color: var(--primary-line); cursor: default; }
+/* The focus ring is drawn by ::after against the padding box, so it stays clear of the label and
+   of the 4px underline (an inset outline would cover both); a border, so forced colours paint it. */
+.tab:focus-visible, .section-link:focus-visible { outline: none; }
+.tab:focus-visible::after, .section-link:focus-visible::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border: 3px solid var(--focus);
+  pointer-events: none;
+}
 
 .menu-button { margin: 0 8px; color: var(--tab-ink); }
 .menu-button:hover { background: var(--fill); color: var(--tab-ink); }
@@ -598,6 +648,7 @@ body[data-view="live"] #type-button { display: none; }
   .tabs-track { padding: 0 16px; }
   .tab { padding: 12px 16px; }
   .tab:first-child { padding-left: 0; }
+  .tab:first-child:focus-visible::after { left: -6px; }
 }
 
 /* ---------------------------------------------------------------- bar 3: the grey sections row */
@@ -623,6 +674,7 @@ body[data-view="live"] #type-button { display: none; }
 }
 
 .section-link {
+  position: relative;
   flex: none;
   display: inline-flex;
   align-items: center;
@@ -640,8 +692,10 @@ body[data-view="live"] #type-button { display: none; }
 }
 .subbar.is-subcats .section-link { padding-bottom: 8px; }
 .section-link:hover { color: var(--primary); border-color: var(--row-hover-line); }
-.section-link[aria-pressed="true"] { color: var(--primary); border-color: var(--primary-line); cursor: default; }
-.section-link:focus-visible { outline-offset: -3px; }
+.section-link[aria-current="true"] { color: var(--primary); border-color: var(--primary-line); cursor: default; }
+/* The links have no side padding: the ring reaches 6px into the gaps and 4px into the row's top
+   padding, and ends 2px above the padding box so the 2px underline stays visible. */
+.section-link:focus-visible::after { inset: -4px -6px 2px; }
 .section-manage .icon-gear { width: 12px; height: 12px; }
 
 @media (min-width: 640px) {
@@ -746,10 +800,13 @@ body[data-view="live"] #type-button { display: none; }
   overflow: hidden;
   min-width: 0;
 }
-/* The feed card stays open so the share menus can hang below their item; the first video's
-   player gets the card's top corners itself. */
+/* The feed card stays open (the live card clips) so the share menus can hang below their item.
+   On a category page the live site drops the first row's top padding when it is a video, so the
+   player sits flush with the card's top edge; it takes the card's inner corners itself (10px
+   minus the 1px border). Home, Live and "videos only" keep the padding, as the live home feed. */
 .feed-card { overflow: visible; }
-.feed-card .item:first-child .video-box { border-radius: var(--radius-lg) var(--radius-lg) 0 0; }
+.feed-card.is-category .item-video:first-child { padding-top: 0; }
+.feed-card.is-category .item-video:first-child .video-box { border-radius: calc(var(--radius-lg) - 1px) calc(var(--radius-lg) - 1px) 0 0; }
 
 .hint { margin: 0 0 12px; padding: 0 16px; font-size: 14px; line-height: 20px; color: var(--muted); text-align: center; }
 
@@ -806,11 +863,14 @@ body[data-view="live"] #type-button { display: none; }
 }
 .item-link:hover .item-img { transform: scale(1.05); }
 
+/* The time at the left, the actions at the right. Where both do not fit on one line (the French
+   labels at 360px) the actions move under the time, still at the right. */
 .item-foot {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  gap: 16px;
+  gap: 8px 16px;
   margin-top: 16px;
   min-width: 0;
   color: var(--muted);
@@ -858,7 +918,7 @@ body[data-view="live"] #type-button { display: none; }
 .video-box.is-playing .video-preview { display: none; }
 .video-frame { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
 
-.item-body { padding: 0 16px; }
+.item-body { padding: 0 16px 16px; }
 .item-video .publisher { margin-top: 12px; }
 .item-video .item-title { line-height: 1.25; }
 .item-video .item-title-text { display: inline; overflow: visible; -webkit-line-clamp: none; }
@@ -867,7 +927,7 @@ body[data-view="live"] #type-button { display: none; }
 @media (min-width: 640px) {
   .item-row { gap: 24px; }
   .item-thumb { width: 200px; height: 112px; }
-  .item-body { padding: 0 24px; }
+  .item-body { padding: 0 24px 16px; }
 }
 @media (min-width: 768px) {
   .item-title { font-size: 20px; }
@@ -875,7 +935,7 @@ body[data-view="live"] #type-button { display: none; }
 
 /* ---------------------------------------------------------------- the action row: Save, Share, heart */
 
-.actions { display: flex; align-items: center; gap: 8px; flex: none; }
+.actions { display: flex; align-items: center; gap: 8px; flex: none; margin-left: auto; }
 .action {
   display: inline-flex;
   align-items: center;
@@ -891,27 +951,31 @@ body[data-view="live"] #type-button { display: none; }
   line-height: 16px;
   font-weight: 500;
   white-space: nowrap;
+  cursor: default;
   box-shadow: var(--shadow-xs);
   transition: color 150ms var(--ease), background-color 150ms var(--ease), border-color 150ms var(--ease);
 }
 .action-icon { width: 16px; height: 16px; }
 .action:focus-visible {
-  outline: none;
+  outline: 3px solid transparent; /* invisible, but forced colours paint it */
   border-color: var(--focus);
   box-shadow: var(--shadow-xs), 0 0 0 3px var(--ring);
 }
 .action-save:hover { color: var(--save-hover); background: var(--save-hover-bg); }
 .action-save .icon-filled { display: none; }
-.action-save[aria-pressed="true"] .icon-filled { display: inline-block; }
-.action-save[aria-pressed="true"] .icon-outline { display: none; }
-.action-share:hover, .action-share[aria-expanded="true"] { color: var(--share-hover); background: var(--share-hover-bg); }
+.action-save[data-saved="true"] .icon-filled { display: inline-block; }
+.action-save[data-saved="true"] .icon-outline { display: none; }
+.action-share:hover { color: var(--share-hover); background: var(--share-hover-bg); }
+.action-share[aria-expanded="true"]:hover { color: var(--action-ink); background: var(--outline-bg); }
 .action-like { width: 38px; padding: 0; }
 .action-like[aria-disabled="true"] { cursor: default; }
 
 /* The share menu hangs inside .share-wrap, right-aligned 4px under the Share button; it stays
    under the sticky header (z 50) should the page scroll while it is open. */
 .share-wrap { position: relative; display: inline-flex; }
-.share-menu { z-index: 40; }
+/* The scroll margins cover what the opening animation takes off the menu's measured box when
+   app.js scrolls an opened menu into view. */
+.share-menu { z-index: 40; scroll-margin: 16px 0; }
 
 /* ---------------------------------------------------------------- toasts */
 
@@ -969,8 +1033,8 @@ body[data-view="live"] #type-button { display: none; }
 @keyframes toast-out-top {
   to { opacity: 0; transform: translateY(calc(-100% - 16px)); }
 }
-@keyframes toast-in-right {
-  from { opacity: 0; transform: translateX(calc(100% + 16px)); }
+@keyframes toast-in-bottom {
+  from { opacity: 0; transform: translateY(calc(100% + 16px)); }
   to { opacity: 1; transform: none; }
 }
 @keyframes toast-out-right {
@@ -985,8 +1049,10 @@ body[data-view="live"] #type-button { display: none; }
     bottom: 16px;
     width: min(388px, calc(100vw - 32px));
   }
-  .toast { animation-name: toast-in-right; }
+  .toast { animation-name: toast-in-bottom; }
   .toast.is-leaving { animation-name: toast-out-right; }
+  /* While a toast shows, keyboard focus is scrolled clear of it (app.js sets the height). */
+  html { scroll-padding-bottom: var(--toast-space, 0px); }
 }
 
 /* ---------------------------------------------------------------- end of feed, empty block, buttons */
@@ -1024,7 +1090,7 @@ body[data-view="live"] #type-button { display: none; }
 }
 .button:hover { background: var(--menu-hover); color: var(--menu-hover-ink); }
 .button:focus-visible {
-  outline: none;
+  outline: 3px solid transparent; /* invisible, but forced colours paint it */
   border-color: var(--focus);
   box-shadow: var(--shadow-xs), 0 0 0 3px var(--ring);
 }
@@ -1166,7 +1232,7 @@ body[data-view="live"] #type-button { display: none; }
 .check-box .icon-check { display: none; width: 12px; height: 12px; }
 .check-input:checked + .check-box { background: var(--primary-line); border-color: var(--primary-line); }
 .check-input:checked + .check-box .icon-check { display: block; }
-.check-input:focus-visible + .check-box { border-color: var(--focus); box-shadow: 0 0 0 3px var(--ring); }
+.check-input:focus-visible + .check-box { border-color: var(--focus); box-shadow: 0 0 0 3px var(--ring); outline: 3px solid transparent; }
 .check-label { min-width: 0; overflow-wrap: anywhere; }
 
 @media (min-width: 640px) {
@@ -1324,7 +1390,7 @@ body[data-view="live"] #type-button { display: none; }
   line-height: 20px;
   text-overflow: ellipsis;
 }
-.select:focus-visible { outline: none; border-color: var(--focus); box-shadow: 0 0 0 3px var(--ring); }
+.select:focus-visible { outline: 3px solid transparent; border-color: var(--focus); box-shadow: 0 0 0 3px var(--ring); }
 .select-chevron {
   position: absolute;
   right: 12px;
