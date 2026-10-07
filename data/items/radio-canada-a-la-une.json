@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "654c68de88a14e75",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291501/ukraine-frappes-russes-guerre-kiev",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291501/ukraine-frappes-russes-guerre-kiev",
+      "title": "Des frappes russes sur Kiev et d’autres villes ukrainiennes font au moins 24 morts",
+      "excerpt": "L’Ukraine peine à contrer les missiles balistiques russes et les nouveaux drones à réaction.",
+      "published": "2026-10-07T18:59:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/frappes-russes-ukraine.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T19:29:07.807Z"
+    },
+    {
       "id": "e813b6a9cbf7d695",
       "guid": "https://ici.radio-canada.ca/nouvelle/2291509/elon-musk-independance-quebec",
       "link": "https://ici.radio-canada.ca/nouvelle/2291509/elon-musk-independance-quebec",
@@ -23,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/stephane-boyer-maire-laval-operation-tumeur-cerveau.jpg",
       "type": "article",
       "addedAt": "2026-10-07T18:33:31.956Z"
+    },
+    {
+      "id": "14513e96a9e3234e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291493/fbi-enquete-armes-details-tumbler-ridge",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291493/fbi-enquete-armes-details-tumbler-ridge",
+      "title": "L’enquête du FBI dévoile des détails sur les armes de la tireuse de Tumbler Ridge",
+      "excerpt": "Ces détails se trouvent dans l'acte d'accusation déposé par la police fédérale américaine contre James Bryant.",
+      "published": "2026-10-07T18:05:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/tragedie-fussilade-a-tumbler-ridge-dsc08613photoemilioa.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T19:29:07.807Z"
     },
     {
       "id": "df690e2e8b470438",

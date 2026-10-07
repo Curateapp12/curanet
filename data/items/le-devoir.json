@@ -3,6 +3,39 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "78289cb139c3463c",
+      "guid": "https://www.ledevoir.com/actualites/science/1015214/exosatellite-ni-planete-ni-lune",
+      "link": "https://www.ledevoir.com/actualites/science/1015214/exosatellite-ni-planete-ni-lune",
+      "title": "L’«exosatellite», ni une planète ni une lune",
+      "excerpt": "Comment définir un objet plus massif que Jupiter tournant autour de quelque chose qui n’est pas vraiment une planète?",
+      "published": "2026-10-07T18:58:48.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-07T19:29:07.807Z"
+    },
+    {
+      "id": "64461fc86446593b",
+      "guid": "https://www.ledevoir.com/actualites/sante/1015211/coroner-gehane-kamel-penchera-cinq-suicides-recents-medecins",
+      "link": "https://www.ledevoir.com/actualites/sante/1015211/coroner-gehane-kamel-penchera-cinq-suicides-recents-medecins",
+      "title": "La coroner Géhane Kamel se penchera sur cinq suicides récents de médecins",
+      "excerpt": "L’objectif est d’identifier s’il existe des facteurs communs ayant contribué à ces décès.",
+      "published": "2026-10-07T18:58:08.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-07T19:29:07.807Z"
+    },
+    {
+      "id": "e900f922d476d7e4",
+      "guid": "https://www.ledevoir.com/politique/quebec/1015199/nouvelle-assemblee-nationale-est-peine-paritaire-mais-moins-2022",
+      "link": "https://www.ledevoir.com/politique/quebec/1015199/nouvelle-assemblee-nationale-est-peine-paritaire-mais-moins-2022",
+      "title": "L’Assemblée nationale sera à peine paritaire, mais avec une députée de moins qu’en 2022",
+      "excerpt": "L’égalité hommes-femmes a reculé au Salon bleu avec les dernières élections, tandis que la diversité stagne.",
+      "published": "2026-10-07T18:39:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-07T19:29:07.807Z"
+    },
+    {
       "id": "f124027e856f38a0",
       "guid": "https://www.ledevoir.com/actualites/sante/1015181/operation-cerveau-maire-laval-est-bien-deroulee",
       "link": "https://www.ledevoir.com/actualites/sante/1015181/operation-cerveau-maire-laval-est-bien-deroulee",
@@ -67,6 +100,17 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "f89daeca59df9175",
+      "guid": "https://www.ledevoir.com/monde/europe/1015133/frappes-russes-font-26-morts-ukraine-dont-19-meme-immeuble",
+      "link": "https://www.ledevoir.com/monde/europe/1015133/frappes-russes-font-26-morts-ukraine-dont-19-meme-immeuble",
+      "title": "Des frappes russes font 26 morts en Ukraine, dont 19 dans un même immeuble",
+      "excerpt": "«Les Russes savent très bien qu’ils frappent des villes ordinaires, la vie ordinaire», a déploré Volodymyr Zelensky.",
+      "published": "2026-10-07T16:14:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-07T19:29:07.807Z"
     },
     {
       "id": "1c94a6c21201335f",
