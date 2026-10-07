@@ -2020,15 +2020,52 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * One click replaces the preview with the privacy-enhanced YouTube player (hosted site only).
+   * The video playing in the page, if any. Starting another one puts this one back to its picture,
+   * so only one player makes sound at a time.
+   * @type {{box: HTMLElement, item: FeedItem}|null}
+   */
+  var playing = null;
+
+  /**
+   * The picture with the red play button (hosted site): one press plays the video right there.
+   * @param {HTMLElement} box
+   * @param {FeedItem} item
+   */
+  function mountPlayButton(box, item) {
+    var play = button('video-preview');
+    play.setAttribute('aria-label', t('playVideo', { title: item.t }));
+    play.addEventListener('click', function () { embedPlayer(box, item); });
+    fillPreview(box, play, item);
+    box.appendChild(play);
+  }
+
+  /** Put the video that is playing back to its picture (removing the player stops it). */
+  function stopPlaying() {
+    var current = playing;
+    playing = null;
+    if (!current || !current.box.isConnected) return;
+    clear(current.box);
+    current.box.classList.remove('is-playing');
+    mountPlayButton(current.box, current.item);
+  }
+
+  /**
+   * Replace the picture with the privacy-enhanced YouTube player, playing, in the same place
+   * (hosted site only). playsinline keeps phones from switching to their full-screen player.
    * @param {HTMLElement} box
    * @param {FeedItem} item
    */
   function embedPlayer(box, item) {
     if (!item.v) return;
+    if (playing && playing.box === box) {
+      var existing = box.querySelector('.video-frame');
+      if (existing) focusOn(/** @type {HTMLElement} */ (existing), true);
+      return;
+    }
+    stopPlaying();
     var frame = document.createElement('iframe');
     frame.className = 'video-frame';
-    frame.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(item.v) + '?autoplay=1';
+    frame.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(item.v) + '?autoplay=1&playsinline=1&rel=0';
     frame.title = t('videoPlayer', { title: item.t });
     frame.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
     frame.setAttribute('allowfullscreen', '');
@@ -2037,6 +2074,12 @@ var CURANET_HELPERS = (function () {
     box.classList.add('is-playing');
     clear(box);
     box.appendChild(frame);
+    playing = { box: box, item: item };
+    try {
+      box.scrollIntoView({ block: 'nearest', behavior: prefersReducedMotion() ? 'auto' : 'smooth' });
+    } catch (e) {
+      // older browsers: the player is already where the picture was
+    }
     focusOn(frame, true);
   }
 
@@ -2054,11 +2097,22 @@ var CURANET_HELPERS = (function () {
     fillTime(find(card, '.item-time'), item.p, nowMs);
     var box = find(card, '.video-box');
     if (CONFIG.video === 'embed' && item.v) {
-      var play = button('video-preview');
-      play.setAttribute('aria-label', t('playVideo', { title: item.t }));
-      play.addEventListener('click', function () { embedPlayer(box, item); });
-      fillPreview(box, play, item);
-      box.appendChild(play);
+      mountPlayButton(box, item);
+      // The headline plays the video in place too, never in a new tab. It keeps the YouTube
+      // address for copying and for a deliberate middle-click or modifier-click.
+      link.removeAttribute('target');
+      link.removeAttribute('aria-describedby');
+      link.setAttribute('role', 'button');
+      link.addEventListener('click', function (event) {
+        if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+        event.preventDefault();
+        embedPlayer(box, item);
+      });
+      link.addEventListener('keydown', function (event) {
+        if (event.key !== ' ' && event.key !== 'Spacebar') return;
+        event.preventDefault();
+        embedPlayer(box, item);
+      });
     } else {
       var anchor = document.createElement('a');
       anchor.className = 'video-preview';
