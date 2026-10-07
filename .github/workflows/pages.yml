@@ -5,7 +5,8 @@
 # Pages is switched on for this repository with the source "GitHub Actions":
 #   Settings → Pages → Build and deployment → Source: GitHub Actions
 # (on GitHub's free plan Pages needs the repository to be public). docs/ADMIN_GUIDE.md has the
-# steps. The address is https://curateapp12.github.io/curanet/
+# steps. The address is https://curateapp12.github.io/curanet/ , or the owner's own domain once it is
+# set under Settings → Pages → Custom domain (nothing in this file changes for that).
 #
 # The site loads publishers' pictures from their own addresses and plays videos in YouTube's
 # privacy-enhanced player when a visitor presses play; nothing is copied into the published files.

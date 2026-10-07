@@ -159,9 +159,51 @@ the website is public either way.
 4. Open https://curateapp12.github.io/curanet/ .
 
 To take the website offline again: **Settings** → **Pages** → **Unpublish site** (or set
-**Source** back to **Deploy from a branch** with no branch). The domain curanet.io currently shows
-another site; pointing it here is a later, separate step (**Settings** → **Pages** → **Custom
-domain**, plus a change at the company where the domain is registered).
+**Source** back to **Deploy from a branch** with no branch).
+
+### Using your own domain (sajidmahmud.com, registered at GoDaddy)
+
+Do the four steps above first, so the site already works at its github.io address. The website then
+moves to https://sajidmahmud.com and the github.io address forwards there. Nothing in the project
+files changes: the domain is set in GitHub's settings and in GoDaddy.
+
+Today the domain is parked: its DNS is run by a parking service (ParkLogic), so GoDaddy's record page
+has no effect until GoDaddy runs the DNS again. Switching ends the parking page. The domain has no
+working e-mail (its records say it sends none), so nothing else breaks.
+
+1. **Let GoDaddy run the DNS.** Sign in to GoDaddy → **Domain Portfolio** → **sajidmahmud.com** →
+   **DNS** → **Nameservers** → **Change Nameservers** → choose **GoDaddy Nameservers
+   (recommended)** → **Save** → **Continue**. GoDaddy may ask for a code sent by text or e-mail.
+   This usually takes effect within an hour, at most 48 hours.
+2. **Prove to GitHub that the domain is yours** (protects it from being claimed by someone else).
+   On GitHub, click your picture (top right) → **Settings** → **Pages** (left column, under "Code,
+   planning, and automation") → **Add a domain** → type `sajidmahmud.com` → **Add domain**. GitHub
+   shows a TXT record: a name starting with `_github-pages-challenge-` and a code. Keep that page
+   open. In another tab, in GoDaddy: **sajidmahmud.com** → **DNS** → **Add New Record** → Type
+   **TXT**, Name: the part before `.sajidmahmud.com` (for example
+   `_github-pages-challenge-curateapp12`), Value: the code → **Save**. Back on GitHub press
+   **Verify** (if it is too early, come back later: **⋯** next to the domain → **Continue
+   verifying**). Leave this TXT record in place for good.
+3. **Tell the website its address.** Repository → **Settings** → **Pages** → **Custom domain** →
+   type `sajidmahmud.com` → **Save**.
+4. **Point the domain at GitHub.** In GoDaddy: **sajidmahmud.com** → **DNS** (the records list):
+   - Delete the existing **A** record whose Name is **@** (it may show "Parked"): the pencil or
+     **⋯** next to it → **Delete**.
+   - **Add New Record** → Type **A**, Name `@`, Value `185.199.108.153` → **Add another value** →
+     `185.199.109.153`, `185.199.110.153`, `185.199.111.153` (four values in all) → **Save**.
+   - Optional, for newer networks: **Add New Record** → Type **AAAA**, Name `@`, values
+     `2606:50c0:8000::153`, `2606:50c0:8001::153`, `2606:50c0:8002::153`, `2606:50c0:8003::153` →
+     **Save**.
+   - The **CNAME** record with Name **www**: **Edit** → Value `curateapp12.github.io` (no
+     `/curanet`) → **Save**. If there is none, add it with **Add New Record** → Type **CNAME**.
+   - If GoDaddy shows a **Forwarding** section for the domain, make sure it is off.
+5. **Wait, then switch on the padlock.** Repository → **Settings** → **Pages**: once the line under
+   Custom domain says the DNS check succeeded (minutes to a day), GitHub prepares a certificate
+   (up to an hour, sometimes longer). Then tick **Enforce HTTPS**.
+6. Open https://sajidmahmud.com .
+
+To stop using the domain: **Settings** → **Pages** → **Custom domain** → **Remove**; the site goes
+back to its github.io address. The records at GoDaddy can then be deleted.
 
 ## Where the preview lives
 
