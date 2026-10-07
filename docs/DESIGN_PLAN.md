@@ -1,14 +1,52 @@
-# Design plan: applying the "New Design" Figma to Curanet
+# Design plan
+
+## Version 3 (2026-10-06): copying the live site at curanet.io
+
+The owner asked for the look of the site running at https://curanet.io (a separate Next.js app
+with its own server, not built from this repository) to be applied here. That site was measured
+element by element from its page code, in light and dark mode and at five widths, and
+`docs/LAYOUT.md` (version 3) now describes that design and replaces the Figma-based version 2.
+
+How Curanet's own features were placed, where the live site has no counterpart:
+
+| Live site | Curanet (version 3) |
+|---|---|
+| Blue bar: logo, wordmark, search, "World" country picker, article/video toggle, avatar | The same, with the live logo. The country picker is the location filter ("World" = all). The toggle is the single cycling button the owner chose. The avatar opens Curanet's menu. |
+| Avatar menu: Welcome, Google/Facebook sign-in, Language, Dark Mode, Terms/Privacy | Saved, Following, Live; Language (the content-language filter, in place); Dark Mode / Light Mode; Settings; footer with "Sign-in is coming later", Sources, About. |
+| Tabs: Home + categories filtered by country; ≡ opens a full-screen Menu panel | Home + all categories; the Menu panel lists the categories and, under "More", Saved, Following, Live, Sources, About. |
+| Grey row: All / Latest / Popular on Home; All + subcategories on a category | All / Saved / Following on Home (plus Manage while Following is open); All + subcategories on a category; All / News / Sports / Music in Live. Latest = All and Popular needs votes, so both are left out. |
+| Feed card with publisher name, 3-line title, thumbnail right, time, Save / Share / heart | The same; Save keeps the browser-side list, Share opens the live site's share menu (Copy Link, Facebook, Twitter, LinkedIn, WhatsApp, Telegram, with the original link), the heart is shown but disabled until accounts exist (the owner's earlier choice). |
+| Video: a YouTube player in the card | A preview picture with a red play button; one click starts the privacy-enhanced player (hosted) or opens YouTube (preview). |
+| Item detail page with the full description, votes | Not copied: items link to the original; no article text is stored or shown. |
+| Accounts, analytics, install prompt, social links | Left out (third-party services). |
+| Geist font (loaded but never applied) | The system font stack, which is what visitors of the live site actually see. |
+| Header slides away on scroll down | The same, except with reduced motion. |
+| Feed card clips its content (`overflow: hidden`; its share menu is drawn outside the card) | The card does not clip, so the share menu, drawn inside its item, can hang below the card; a category page's leading video takes the card's inner corners itself. |
+| Phones: 58 px search field | The location picker and toggle hide while the field is open so it gets the room. |
+
+Kept from the owner's earlier decisions: the sections bar (now the grey row) can be docked at the
+bottom on phones; both themes with light as the default; the single cycling article/video button;
+Like shown but disabled (the disabled Comment button of decision 7 is no longer shown, because the
+live design has no comment action; it returns with accounts, together with a working Like);
+monogram publisher icons are gone because the live design shows the name only.
+
+Still to come, as before: real Like and Comment (accounts and a server), real live streams (the
+YouTube API key), Saved and Following on the account side once sign-in exists.
+
+---
+
+# Version 2: applying the "New Design" Figma to Curanet
 
 Figma file: https://www.figma.com/design/4CdkN0M6fwlqPa685aB7Az/New-Design (page "Prototype").
 Written 2026-10-06 from the frames that could be read (see "What could not be read" at the end).
+Superseded by version 3 above on the same day; kept as the record of the Figma reading.
 
 ## Status (2026-10-06)
 
 Phases 1 to 6 of the plan below are **done**. They were built together and delivered in one pull
 request, Curateapp12/curanet#2 (commit 93e696e for the category tree and the re-filed sources,
 5436255 for the site, 61bd8e5 for the docs), rather than one pull request per phase.
-`docs/LAYOUT.md` now describes the built layout; the sections below are kept as the record of how
+`docs/LAYOUT.md` described the built layout until version 3; the sections below are kept as the record of how
 the design was read and what was decided.
 
 Still to come: **Like** and **Comment** (they need accounts and a server), real **live streams** in

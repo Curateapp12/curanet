@@ -18,7 +18,7 @@ const COUNTRY_RE = /^[A-Z]{2}$/;
 const LANGUAGE_RE = /^[a-z]{2}$/;
 const HANDLE_RE = /^@[\w.-]{3,}$/;
 const CHANNEL_ID_RE = /^UC[\w-]{22}$/;
-const VIDEO_ID_RE = /^[\w-]{11}$/;
+export const VIDEO_ID_RE = /^[\w-]{11}$/;
 const HTML_START_RE = /<[a-zA-Z/!]/;
 const ISO_RE = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d{1,3})?(Z|[+-]\d{2}:\d{2})$/;
 const ISO_EXAMPLE = '2026-10-05T23:00:00.000Z';
@@ -108,8 +108,12 @@ function parseUrl(value) {
   }
 }
 
-/** @param {unknown} value @returns {boolean} */
-function isHttpUrl(value) {
+/**
+ * True for an absolute http:// or https:// address (parsed, so "javascript:" and the like fail).
+ * @param {unknown} value
+ * @returns {boolean}
+ */
+export function isHttpUrl(value) {
   const url = parseUrl(value);
   return url !== null && (url.protocol === 'http:' || url.protocol === 'https:');
 }

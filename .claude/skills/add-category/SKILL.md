@@ -18,5 +18,6 @@ Arguments: `$ARGUMENTS` — a name, or `Parent / Name` for a subcategory, option
    The id is made from the English name (`Tech News` → `tech-news`). Duplicates are refused.
 2. To change the order, edit `data/categories.json` and move the block; validate afterwards.
 3. Follow the "After any data change" steps in `_shared.md`. The new category appears as a tab in the
-   top bar (and as a row in Manage Following) even before it has sources; tell the owner they can
-   now `/add-source` into it.
+   white category bar (after Home and the other categories), as a tile in the ≡ Menu panel's All
+   categories grid and as a row in Manage Following, even before it has sources; tell the owner
+   they can now `/add-source` into it.

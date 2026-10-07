@@ -7,6 +7,7 @@
 import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 import { truncate } from './sanitize.js';
+import { isHttpUrl, URL_MAX, VIDEO_ID_RE } from './validate.js';
 
 /** @typedef {import('./types.js').Source} Source */
 /** @typedef {import('./types.js').Item} Item */
@@ -110,6 +111,14 @@ function compactName(name) {
 }
 
 /**
+ * @param {unknown} value
+ * @returns {string|null} the address when it is an http(s) URL within the stored-field limit, else null.
+ */
+function safeUrl(value) {
+  return typeof value === 'string' && value.length <= URL_MAX && isHttpUrl(value) ? value : null;
+}
+
+/**
  * @param {Source} source
  * @returns {FeedSource}
  */
@@ -119,8 +128,10 @@ function compactSource(source) {
     id: source.id,
     name: source.name,
     type: source.type,
-    url: source.url,
-    siteUrl: typeof source.siteUrl === 'string' && source.siteUrl ? source.siteUrl : null,
+    // Addresses become links on the Sources page: anything but http(s) is dropped here, whatever
+    // the data check says, so nothing from a data file can run on the site.
+    url: safeUrl(source.url) || '',
+    siteUrl: safeUrl(source.siteUrl),
     category: source.category,
     subcategory: source.subcategory,
     country: source.country,
@@ -146,11 +157,11 @@ export function compactItem(item, sourceId) {
     t: typeof item.title === 'string' ? item.title : '',
     l: item.link,
     p: typeof item.published === 'string' && item.published ? item.published : item.addedAt,
-    th: typeof item.thumbnail === 'string' && item.thumbnail ? item.thumbnail : null,
+    th: safeUrl(item.thumbnail),
     ty: isVideo ? 'v' : 'a',
     x: truncate(typeof item.excerpt === 'string' ? item.excerpt : '', EXCERPT_MAX),
   };
-  if (isVideo && typeof item.videoId === 'string') compact.v = item.videoId;
+  if (isVideo && typeof item.videoId === 'string' && VIDEO_ID_RE.test(item.videoId)) compact.v = item.videoId;
   return compact;
 }
 
@@ -177,7 +188,8 @@ function hiddenMatcher(hidden) {
 function readItems(dataDir, sourceId) {
   const file = path.join(dataDir, 'items', sourceId + '.json');
   const doc = readJson(file, null);
-  return listOf(doc, 'items').filter((item) => typeof item.link === 'string' && typeof item.id === 'string');
+  // Only items whose link is an http(s) address reach the page: the link becomes an href.
+  return listOf(doc, 'items').filter((item) => typeof item.id === 'string' && safeUrl(item.link) !== null);
 }
 
 /**

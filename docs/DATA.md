@@ -76,7 +76,7 @@ typo is caught before it breaks the site.
 |---|---|
 | `id` | Slug, unique, also the item file name (`data/items/<id>.json`). YouTube channels start with `yt-`. |
 | `type` | `feed` (RSS/Atom) or `youtube_channel`. |
-| `name` | Short display name shown on each item's publisher line — above the title for articles, in the channel row for videos ("BBC", "Le Devoir"). |
+| `name` | Short display name shown on each item's publisher line, above the title (under the player for videos) ("BBC", "Le Devoir"). |
 | `url` | Feed address, or the channel's page (for display and for resolving the channel). |
 | `siteUrl` | Publisher's homepage (feeds). |
 | `handle`, `channelId` | YouTube only. `channelId` is filled in by the first successful API fetch. |

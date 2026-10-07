@@ -1,15 +1,21 @@
 /*
   Curanet browser app. One plain script shared by the hosted site and the private preview.
   It reads CURANET_CONFIG (injected by the build) and the JSON in #curanet-data, then renders
-  everything with createElement and textContent: no markup is ever built from feed data.
+  everything with createElement and textContent, or by cloning the <template>s of index.html: no
+  markup is ever built from feed data.
 
   CURANET_CONFIG: { mode: 'hosted'|'preview', urlState: boolean, thumbnails: 'remote'|'embedded',
                     video: 'embed'|'link', uiLang: 'en'|'fr' }
 
-  Views: 'feed' (Home or a category), 'saved' and 'following' (My Hub), 'manage' (the Manage
-  Following panel), 'live' (latest videos), 'sources', 'about'. Saved items, followed sections
-  and settings live in the visitor's browser (localStorage) and fall back to memory when storage
-  is refused.
+  Layout version 3 (docs/LAYOUT.md, the live curanet.io design): a three-bar header (the blue bar
+  with search, location picker, article/video toggle and avatar menu; the category tabs with the
+  ≡ Menu panel; the grey row with the sections of the open view), one feed card, and the Manage
+  Following, Sources and About pages.
+
+  Views: 'feed' (Home or a category), 'saved' and 'following' (the visitor's own lists, reached
+  from the grey row on Home), 'manage' (Manage Following), 'live' (latest videos), 'sources',
+  'about'. Saved items, followed sections and settings live in the visitor's browser
+  (localStorage) and fall back to memory when storage is refused.
 */
 
 /* == pure helpers begin ==
@@ -20,11 +26,11 @@
 var CURANET_HELPERS = (function () {
   'use strict';
 
-  var TYPE_CYCLE = ['both', 'articles', 'videos'];
+  var TYPE_CYCLE = ['both', 'videos', 'articles'];
   var RELATIVE_LIMIT_MS = 7 * 86400 * 1000;
 
   /**
-   * The next value of the article/video control: both → articles → videos → both.
+   * The next value of the article/video toggle: both → videos only → articles only → both.
    * @param {string} current
    * @returns {'both'|'articles'|'videos'}
    */
@@ -54,40 +60,23 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * The first user-perceived character of a text (a whole emoji or a letter with its accents),
-   * never half of a surrogate pair. Empty for an empty text.
-   * @param {string} text
-   * @returns {string}
+   * The share menu's five services, each a plain link to the service's public share address
+   * carrying the item's original link and title (encoded). Nothing is loaded from the services;
+   * the visitor's browser opens the address in a new tab.
+   * @param {string} url     The original article, or the YouTube watch page of a video.
+   * @param {string} title
+   * @returns {{facebook: string, twitter: string, linkedin: string, whatsapp: string, telegram: string}}
    */
-  function firstGrapheme(text) {
-    if (!text) return '';
-    try {
-      if (typeof Intl !== 'undefined' && typeof Intl.Segmenter === 'function') {
-        var first = new Intl.Segmenter(undefined, { granularity: 'grapheme' }).segment(text)[Symbol.iterator]().next();
-        if (!first.done && first.value && first.value.segment) return first.value.segment;
-      }
-    } catch (e) {
-      // Fall back to code points below.
-    }
-    var points = Array.from(text);
-    return points.length ? points[0] : '';
-  }
-
-  /**
-   * The publisher monogram: the name's first character and one of 8 colour tones picked by
-   * hashing the source id, so a source always gets the same colour. A name with nothing in it
-   * shows a dot.
-   * @param {string} sourceId
-   * @param {string} name
-   * @returns {{letter: string, tone: number}}
-   */
-  function monogramFor(sourceId, name) {
-    var hash = 0;
-    var id = String(sourceId || '');
-    for (var i = 0; i < id.length; i += 1) hash = (hash * 31 + id.charCodeAt(i)) >>> 0;
-    var first = firstGrapheme(String(name || '').trim());
-    var letter = first ? first.toUpperCase() : '•';
-    return { letter: letter, tone: hash % 8 };
+  function shareLinks(url, title) {
+    var u = encodeURIComponent(String(url || ''));
+    var text = encodeURIComponent(String(title || ''));
+    return {
+      facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + u,
+      twitter: 'https://twitter.com/intent/tweet?url=' + u + '&text=' + text,
+      linkedin: 'https://www.linkedin.com/shareArticle?mini=true&url=' + u + '&title=' + text,
+      whatsapp: 'https://wa.me/?text=' + text + '%20' + u,
+      telegram: 'https://t.me/share/url?url=' + u + '&text=' + text,
+    };
   }
 
   /**
@@ -105,7 +94,7 @@ var CURANET_HELPERS = (function () {
     return out;
   }
 
-  return { cycleTypeValue: cycleTypeValue, formatRelativeOrDate: formatRelativeOrDate, monogramFor: monogramFor, firstGrapheme: firstGrapheme, fold: fold, TYPE_CYCLE: TYPE_CYCLE };
+  return { cycleTypeValue: cycleTypeValue, formatRelativeOrDate: formatRelativeOrDate, shareLinks: shareLinks, fold: fold, TYPE_CYCLE: TYPE_CYCLE };
 })();
 /* == pure helpers end == */
 
@@ -162,6 +151,16 @@ var CURANET_HELPERS = (function () {
    * @property {string} q        Search words.
    *
    * @typedef {{theme: 'light'|'dark'|'system', subcatBar: 'top'|'bottom'}} Settings
+   *
+   * @typedef {Object} Menu       A dropdown (location, avatar, share) and its trigger.
+   * @property {HTMLElement} trigger
+   * @property {HTMLElement} menu
+   * @property {() => boolean} isOpen
+   * @property {() => void} open
+   * @property {(returnFocus: boolean) => void} close
+   *
+   * @typedef {{input: HTMLInputElement, label: HTMLElement, sub: Named}} ManageBox
+   * @typedef {{category: FeedCategory, row: HTMLElement, button: HTMLElement, body: HTMLElement, badge: HTMLElement, badgeText: HTMLElement, boxes: ManageBox[]}} ManageRow
    */
 
   var H = window['CURANET_HELPERS'];
@@ -170,21 +169,29 @@ var CURANET_HELPERS = (function () {
   /** The translation table from strings.js (loaded before this script). */
   var STRINGS = window['CURANET_STRINGS'] || { en: {}, fr: {} };
   var UI_LANG = typeof CONFIG.uiLang === 'string' && CONFIG.uiLang ? CONFIG.uiLang : 'en';
-  var PAGE_SIZE = 30;
+  var PAGE_SIZE = 20;
   var PREFS_KEY = 'curanet.prefs';
   var SAVED_KEY = 'curanet.saved';
   var FOLLOWING_KEY = 'curanet.following';
   var SETTINGS_KEY = 'curanet.settings';
-  var TYPE_LABELS = { both: 'typeBoth', articles: 'typeArticles', videos: 'typeVideos' };
+  var TYPE_LABELS = { both: 'showingBoth', articles: 'showingArticles', videos: 'showingVideos' };
   var STATUS_LABELS = { active: 'statusActive', paused: 'statusPaused', blocked: 'statusBlocked', waiting_for_key: 'statusWaitingForKey' };
   var FILTER_PARAMS = ['view', 'c', 's', 'lang', 'loc', 'type', 'q'];
   var LIVE_SECTIONS = ['news', 'sports', 'music'];
   var LIVE_LABELS = { news: 'liveNews', sports: 'liveSports', music: 'liveMusic' };
-  /** Views that show the feed column. */
+  /** Views that show the feed card. */
   var FEED_VIEWS = { feed: true, saved: true, following: true, live: true };
   /** URL tokens (hash or ?view=) for the views that have one. */
   var VIEW_TOKENS = { saved: 'saved', following: 'following', manage: 'following-manage', live: 'live', sources: 'sources', about: 'about' };
-  var PHONE_QUERY = '(max-width: 920px)';
+  /** The header slides away once the page is scrolled down past this many pixels. */
+  var HEADER_HIDE_AFTER = 100;
+  /** A mouse drag on the tabs track shorter than this is a click. */
+  var DRAG_THRESHOLD_PX = 4;
+  var TOAST_MS = 5000;
+  var TOAST_LEAVE_MS = 200;
+  /** A new toast replaces the one showing, as on the live site (its toast store keeps one). */
+  var MAX_TOASTS = 1;
+  var FOCUSABLE = 'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])';
   var fold = H.fold;
 
   // ------------------------------------------------------------------ strings
@@ -208,7 +215,8 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * Fill every element under `root` that carries data-t (text) or data-t-<attribute>.
+   * Fill every element under `root` that carries data-t (text) or data-t-<attribute>. Template
+   * content is not reached from the document, so cloneTemplate runs this on every clone.
    * @param {ParentNode} root
    */
   function applyStrings(root) {
@@ -267,6 +275,19 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
+   * @param {string} className
+   * @param {string} [text]
+   * @returns {HTMLButtonElement}
+   */
+  function button(className, text) {
+    var node = document.createElement('button');
+    node.type = 'button';
+    node.className = className;
+    if (text !== undefined) node.textContent = text;
+    return node;
+  }
+
+  /**
    * @param {string} id
    * @returns {HTMLElement}
    */
@@ -288,15 +309,6 @@ var CURANET_HELPERS = (function () {
     }
   }
 
-  /** @returns {boolean} true on phones and small tablets (the mobile layout). */
-  function isPhone() {
-    try {
-      return window.matchMedia(PHONE_QUERY).matches;
-    } catch (e) {
-      return false;
-    }
-  }
-
   /**
    * @param {HTMLElement} target
    * @param {boolean} [preventScroll]
@@ -306,6 +318,44 @@ var CURANET_HELPERS = (function () {
       target.focus({ preventScroll: Boolean(preventScroll) });
     } catch (e) {
       target.focus();
+    }
+  }
+
+  /**
+   * @param {Element|null} node
+   * @returns {boolean} true when the node or one of its ancestors carries the hidden attribute.
+   */
+  function isHiddenAway(node) {
+    for (var current = node; current; current = current.parentElement) {
+      if (current.hasAttribute('hidden')) return true;
+    }
+    return false;
+  }
+
+  /**
+   * The elements inside `root` that the Tab key can reach, in document order.
+   * @param {HTMLElement} root
+   * @returns {HTMLElement[]}
+   */
+  function focusableIn(root) {
+    var nodes = root.querySelectorAll(FOCUSABLE);
+    /** @type {HTMLElement[]} */
+    var out = [];
+    for (var i = 0; i < nodes.length; i += 1) {
+      var node = /** @type {HTMLElement} */ (nodes[i]);
+      if (isHiddenAway(node) || node.getAttribute('aria-hidden') === 'true') continue;
+      if (node.getClientRects().length === 0) continue;
+      out.push(node);
+    }
+    return out;
+  }
+
+  function scrollToTop() {
+    if (window.scrollY <= 0) return;
+    try {
+      window.scrollTo({ top: 0, behavior: 'auto' });
+    } catch (e) {
+      window.scrollTo(0, 0);
     }
   }
 
@@ -394,8 +444,17 @@ var CURANET_HELPERS = (function () {
   /** @type {Record<string, FeedCategory>} */
   var CATEGORIES = Object.create(null); // same: "?c=constructor" must not match
   DATA.categories.forEach(function (category) { CATEGORIES[category.id] = category; });
+  /**
+   * @param {unknown} value
+   * @returns {boolean} true for an http(s) address. The build already drops anything else; this
+   *   second check keeps a hand-edited data file from ever putting a script address in an href.
+   */
+  function isHttpAddress(value) {
+    return typeof value === 'string' && /^https?:\/\//i.test(value);
+  }
+
   /** @type {FeedItem[]} */
-  var ITEMS = DATA.items.filter(function (item) { return item && SOURCES[item.s]; });
+  var ITEMS = DATA.items.filter(function (item) { return item && SOURCES[item.s] && isHttpAddress(item.l); });
   /** @type {Record<string, FeedItem>} */
   var ITEM_BY_ID = Object.create(null);
   ITEMS.forEach(function (item) {
@@ -457,6 +516,37 @@ var CURANET_HELPERS = (function () {
       // Unknown code: fall back to the code itself.
     }
     return code;
+  }
+
+  /**
+   * A language named in itself, capitalised by that language's own rules ("Français", "Deutsch",
+   * "Español"); the avatar menu's Language list and hint use it. Falls back to the name in the
+   * interface language, then to the code.
+   * @param {string} code
+   * @returns {string}
+   */
+  function nativeLanguageName(code) {
+    try {
+      if (typeof Intl !== 'undefined' && Intl.DisplayNames) {
+        var name = new Intl.DisplayNames([code], { type: 'language' }).of(code);
+        if (name && name !== code) return name.charAt(0).toLocaleUpperCase(code) + name.slice(1);
+      }
+    } catch (e) {
+      // Unknown code or no support: use the interface-language name below.
+    }
+    return displayName('language', code);
+  }
+
+  /**
+   * The codes with their display names, sorted by name.
+   * @param {string[]} codes
+   * @param {'language'|'region'} kind
+   * @returns {{code: string, label: string}[]}
+   */
+  function namedCodes(codes, kind) {
+    var out = codes.map(function (code) { return { code: code, label: displayName(kind, code) }; });
+    out.sort(function (a, b) { return a.label.localeCompare(b.label, UI_LANG); });
+    return out;
   }
 
   /** @type {Intl.DateTimeFormat|null} */
@@ -549,8 +639,12 @@ var CURANET_HELPERS = (function () {
   var searchWords = [];
   /** @type {View} */
   var view = 'feed';
-  /** Saved item ids, newest-saved first. */
-  var savedIds = stringList(readStorage(SAVED_KEY));
+  /**
+   * Saved item ids, newest-saved first, limited to items that still exist: items older than 90
+   * days leave the data, and a list of only those must read "Nothing saved yet.". The next save
+   * drops the dead ids from storage too.
+   */
+  var savedIds = stringList(readStorage(SAVED_KEY)).filter(function (id) { return Boolean(ITEM_BY_ID[id]); });
 
   /**
    * Keep only the "category/subcategory" ids that exist in today's tree, once each. A section
@@ -587,6 +681,25 @@ var CURANET_HELPERS = (function () {
     return out;
   }
 
+  function saveSettings() {
+    writeStorage(SETTINGS_KEY, settings);
+  }
+
+  /** @type {MediaQueryList|null} */
+  var darkQuery = null;
+  try {
+    darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  } catch (e) {
+    // No media queries: "follow system" reads as light.
+  }
+
+  /** @returns {boolean} true when the page is dark right now (chosen, or following a dark device). */
+  function effectiveDark() {
+    if (settings.theme === 'dark') return true;
+    if (settings.theme === 'light') return false;
+    return Boolean(darkQuery && darkQuery.matches);
+  }
+
   /**
    * Theme at start-up and on change: an explicit light or dark attribute, or none for "system".
    * The build puts the same decision in a tiny inline script at the top of the page so the first
@@ -596,18 +709,24 @@ var CURANET_HELPERS = (function () {
     var root = document.documentElement;
     if (settings.theme === 'system') root.removeAttribute('data-theme');
     else root.setAttribute('data-theme', settings.theme);
+    syncThemeToggle();
   }
 
+  /** The grey row docked at the bottom on phones (the CSS limits the class to phone widths). */
   function applySubcatBarSetting() {
-    document.body.classList.toggle('subbar-bottom', settings.subcatBar === 'bottom');
+    var bottom = settings.subcatBar === 'bottom';
+    document.body.classList.toggle('subbar-bottom', bottom);
   }
 
-  /** @returns {boolean} true when the address carries any filter, valid or not. */
+  /**
+   * @returns {boolean} true when the address carries any filter, valid or not. The view is not a
+   *   filter: a bookmarked ?view=live still gets the visitor's preferred language and location.
+   */
   function hasFilterParams() {
     if (!CONFIG.urlState) return false;
     var params = new URLSearchParams(location.search);
     for (var i = 0; i < FILTER_PARAMS.length; i += 1) {
-      if (params.has(FILTER_PARAMS[i])) return true;
+      if (FILTER_PARAMS[i] !== 'view' && params.has(FILTER_PARAMS[i])) return true;
     }
     return false;
   }
@@ -637,7 +756,7 @@ var CURANET_HELPERS = (function () {
       if (view === 'live' && LIVE_SECTIONS.indexOf(s) >= 0) state.s = s;
       else if (view === 'feed' && state.c && subcategoryOf(state.c, s)) state.s = s;
     }
-    var lang = params.get('lang') || '';
+    var lang = (params.get('lang') || '').toLowerCase();
     if (lang && DATA.languages.indexOf(lang) >= 0) state.lang = lang;
     var loc = (params.get('loc') || '').toUpperCase();
     if (loc && DATA.countries.indexOf(loc) >= 0) state.loc = loc;
@@ -647,12 +766,17 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * Mirror the view and filters into the address, without adding history entries. Hosted site:
-   * the query string is the one address of a view, and no #hash is left behind. Preview: the
-   * state stays in the page and only a plain #anchor names the view (none at all for the feed
-   * until another view has been opened).
+   * Mirror the view and filters into the address. Hosted site: the query string is the one address
+   * of a view, and no #hash is left behind; a change of view, category or subcategory (or Live
+   * section) adds a history entry, so Back returns to it as on the live site, while the language,
+   * location, article/video and search changes replace the current one. Preview: the state stays
+   * in the page and only a plain #anchor names the view (none at all for the feed until another
+   * view has been opened), always replaced: the artifact has no Back handling and its entries would
+   * become extra Back steps on the page around it.
+   * @param {boolean} [forceReplace]   true when the address is only made canonical (start-up, a
+   *   #hash or Back/Forward), never a new place.
    */
-  function writeUrlState() {
+  function writeUrlState(forceReplace) {
     if (!window.history || typeof history.replaceState !== 'function') return;
     if (!CONFIG.urlState) {
       var token = view === 'feed' ? 'feed' : VIEW_TOKENS[view] || 'feed';
@@ -676,8 +800,14 @@ var CURANET_HELPERS = (function () {
     var query = params.toString();
     // The query is the one address of a view on the hosted site; a #hash only triggers a change.
     var url = location.pathname + (query ? '?' + query : '');
+    var push = false;
+    if (!forceReplace && typeof history.pushState === 'function') {
+      var currentParams = new URLSearchParams(location.search);
+      push = ['view', 'c', 's'].some(function (name) { return (currentParams.get(name) || '') !== (params.get(name) || ''); });
+    }
     try {
-      history.replaceState(history.state, '', url);
+      if (push) history.pushState(null, '', url);
+      else history.replaceState(history.state, '', url);
     } catch (e) {
       // Some embeddings refuse address changes; the page still works.
     }
@@ -698,46 +828,47 @@ var CURANET_HELPERS = (function () {
   // ------------------------------------------------------------------ elements
 
   var siteHeader = byId('site-header');
+  var topbar = byId('topbar');
   var brandLink = byId('brand-link');
-  var ribbonCategories = byId('ribbon-categories');
-  var ribbonSubcategories = byId('ribbon-subcategories');
-  var subbar = byId('subbar');
-  var navArrows = byId('nav-arrows');
-  var navPrev = byId('nav-prev');
-  var navNext = byId('nav-next');
-  var searchToggle = byId('search-toggle');
-  var mobileSearch = byId('mobile-search');
-  var tools = byId('tools');
-  var toolsSearch = byId('tools-search');
-  var toolsFilters = byId('tools-filters');
-  var panelFilters = byId('panel-filters');
-  var panelFilterSlot = byId('panel-filter-slot');
-  var langWrap = byId('filter-lang-wrap');
-  var locWrap = byId('filter-loc-wrap');
-  var langSelect = /** @type {HTMLSelectElement} */ (byId('filter-lang'));
-  var locSelect = /** @type {HTMLSelectElement} */ (byId('filter-loc'));
-  var typeButton = byId('type-button');
-  var typeLabel = byId('type-label');
   var searchForm = /** @type {HTMLFormElement} */ (byId('search-form'));
   var searchInput = /** @type {HTMLInputElement} */ (byId('search-input'));
-  var profileButton = byId('profile-button');
-  var panel = /** @type {HTMLDialogElement} */ (byId('profile-panel'));
-  var prefLang = /** @type {HTMLSelectElement} */ (byId('pref-lang'));
-  var prefLoc = /** @type {HTMLSelectElement} */ (byId('pref-loc'));
-  var prefSave = byId('pref-save');
-  var prefNote = byId('pref-note');
-  var profileClose = byId('profile-close');
+  var searchToggle = byId('search-toggle');
+  var locButton = byId('loc-button');
+  var locLabel = byId('loc-label');
+  var locMenu = byId('loc-menu');
+  var typeButton = byId('type-button');
+  var typeGlyph = /** @type {HTMLImageElement} */ (byId('type-glyph'));
+  var typeLabel = byId('type-label');
+  var avatarButton = byId('avatar-button');
+  var avatarMenu = byId('avatar-menu');
+  var langButton = byId('lang-button');
+  var langCurrent = byId('lang-current');
+  var langList = byId('lang-list');
+  var themeToggle = byId('theme-toggle');
+  var themeToggleLabel = byId('theme-toggle-label');
+  var settingsButton = byId('settings-button');
+  var tabsTrack = byId('tabs-track');
+  var menuButton = byId('menu-button');
+  var subbar = byId('subbar');
+  var sectionsRow = byId('sections-row');
+  var menuPanel = byId('menu-panel');
+  var menuPanelHeading = byId('menu-panel-heading');
+  var menuPanelClose = byId('menu-panel-close');
+  var panelCategories = byId('panel-categories');
+  var panelMore = byId('panel-more');
+  var mainEl = byId('main');
   var feedSection = byId('feed-section');
   var feedHeading = byId('feed-heading');
+  var resultCount = byId('result-count');
+  var storageHint = byId('storage-hint');
   var feedPanel = byId('feed-panel');
   var feedList = byId('feed-list');
   var emptyState = byId('empty-state');
   var emptyText = byId('empty-text');
+  var emptyActions = find(emptyState, '.empty-actions');
   var clearButton = byId('clear-filters');
   var manageFollowingButton = byId('manage-following-button');
-  var storageHint = byId('storage-hint');
-  var actionStatus = byId('action-status');
-  var resultCount = byId('result-count');
+  var feedEnd = byId('feed-end');
   var sentinel = byId('feed-sentinel');
   var showMore = byId('show-more');
   var manageSection = byId('manage-section');
@@ -750,249 +881,285 @@ var CURANET_HELPERS = (function () {
   var manageList = byId('manage-list');
   var manageEmpty = byId('manage-empty');
   var sourcesSection = byId('sources-section');
+  var sourcesHeading = byId('sources-heading');
   var sourcesBody = byId('sources-body');
   var sourcesEmpty = byId('sources-empty');
   var aboutSection = byId('about-section');
+  var aboutHeading = byId('about-heading');
   var generatedAt = byId('generated-at');
-  var mainEl = byId('main');
+  var toastRegion = byId('toast-region');
+  var dialog = /** @type {HTMLDialogElement} */ (byId('profile-panel'));
+  var prefLang = /** @type {HTMLSelectElement} */ (byId('pref-lang'));
+  var prefLoc = /** @type {HTMLSelectElement} */ (byId('pref-loc'));
+  var prefSave = byId('pref-save');
+  var prefNote = byId('pref-note');
+  var profileClose = byId('profile-close');
   var skipLink = find(document, '.skip-link');
 
-  // ------------------------------------------------------------------ tabs (both bars)
+  // ------------------------------------------------------------------ dropdown menus
 
   /**
-   * @param {string} label
-   * @param {boolean} pressed
-   * @param {() => void} onClick
-   * @returns {HTMLButtonElement}
+   * The one dropdown open right now (location, avatar or a share menu); opening another closes
+   * it first, and so does opening one while the Menu panel is open (the panel would cover it). The
+   * popups are disclosures (aria-expanded + aria-controls), not ARIA menus: Tab moves through the
+   * rows. Escape, a click outside, Tab leaving the menu or choosing an item closes a menu; focus
+   * goes into the menu on open and back to its trigger on close (unless the choice takes the
+   * visitor somewhere else, which then takes the focus).
+   * @type {Menu|null}
    */
-  function makeTab(label, pressed, onClick) {
-    var tab = document.createElement('button');
-    tab.type = 'button';
-    tab.className = 'tab';
-    tab.setAttribute('aria-pressed', pressed ? 'true' : 'false');
-    tab.appendChild(el('span', 'tab-label', label));
-    tab.addEventListener('click', onClick);
-    return tab;
-  }
+  var openMenu = null;
 
   /**
-   * @param {HTMLElement} ribbon
-   * @param {string} activeId   data-id of the tab to mark.
+   * @param {HTMLElement} trigger
+   * @param {HTMLElement} menu
+   * @param {{onOpen?: () => void, onClose?: () => void}} [hooks]
+   * @returns {Menu}
    */
-  function markActiveTab(ribbon, activeId) {
-    var tabs = ribbon.querySelectorAll('.tab');
-    /** @type {HTMLElement|null} */
-    var active = null;
-    for (var i = 0; i < tabs.length; i += 1) {
-      var tab = /** @type {HTMLElement} */ (tabs[i]);
-      var pressed = (tab.getAttribute('data-id') || '') === activeId;
-      tab.setAttribute('aria-pressed', pressed ? 'true' : 'false');
-      if (pressed) active = tab;
-    }
-    revealTab(ribbon, active);
-  }
-
-  /**
-   * The ribbon's end padding: on phones the top ribbon keeps 100px free under the pinned
-   * avatar/magnifier block, so that strip is not usable space.
-   * @param {HTMLElement} ribbon
-   * @returns {number}
-   */
-  function ribbonEndPadding(ribbon) {
-    try {
-      var style = window.getComputedStyle(ribbon);
-      return parseFloat(style.paddingInlineEnd || style.paddingRight) || 0;
-    } catch (e) {
-      return 0;
-    }
-  }
-
-  /**
-   * Scroll the ribbon sideways so the active (or focused) tab is fully in view, outside the
-   * padding under the pinned block. Never scrolls the page.
-   * @param {HTMLElement} ribbon
-   * @param {HTMLElement|null} tab
-   */
-  function revealTab(ribbon, tab) {
-    if (!tab) return;
-    var ribbonRect = ribbon.getBoundingClientRect();
-    var tabRect = tab.getBoundingClientRect();
-    var usableWidth = ribbonRect.width - ribbonEndPadding(ribbon);
-    if (tabRect.left >= ribbonRect.left && tabRect.right <= ribbonRect.left + usableWidth) return;
-    var left = tabRect.left - ribbonRect.left + ribbon.scrollLeft - (usableWidth - tabRect.width) / 2;
-    var target = Math.max(0, left);
-    try {
-      ribbon.scrollTo({ left: target, behavior: prefersReducedMotion() ? 'auto' : 'smooth' });
-    } catch (e) {
-      ribbon.scrollLeft = target;
-    }
-  }
-
-  /** @returns {string} the data-id of the top tab that should read as selected. */
-  function activeTopId() {
-    if (view === 'saved' || view === 'following' || view === 'manage') return '__hub';
-    if (view === 'live') return '__live';
-    if (view === 'feed') return state.c || '__home';
-    return '__none';
-  }
-
-  function renderCategoryRibbon() {
-    clear(ribbonCategories);
-    var fixed = [
-      { id: '__hub', label: t('myHub'), go: function () { goToView('saved'); } },
-      { id: '__live', label: t('live'), go: function () { goToView('live'); } },
-      { id: '__home', label: t('home'), go: function () { selectCategory(''); } },
-    ];
-    var active = activeTopId();
-    fixed.forEach(function (entry) {
-      var tab = makeTab(entry.label, active === entry.id, entry.go);
-      tab.setAttribute('data-id', entry.id);
-      ribbonCategories.appendChild(tab);
+  function createMenu(trigger, menu, hooks) {
+    /** @type {Menu} */
+    var controller = {
+      trigger: trigger,
+      menu: menu,
+      isOpen: function () { return !menu.hidden; },
+      open: function () {
+        if (openMenu && openMenu !== controller) openMenu.close(false);
+        if (!menuPanel.hidden) closeMenuPanel(false);
+        menu.hidden = false;
+        trigger.setAttribute('aria-expanded', 'true');
+        trigger.setAttribute('data-state', 'open');
+        menu.setAttribute('data-state', 'open');
+        openMenu = controller;
+        if (hooks && hooks.onOpen) hooks.onOpen();
+        if (siteHeader.contains(menu)) setHeaderHidden(false);
+        // Focus the current choice when it is visible (the avatar menu's current language sits in
+        // the collapsed Language list), otherwise the first row.
+        var items = focusableIn(menu);
+        var current = items.filter(function (item) { return item.getAttribute('aria-current') === 'true'; })[0];
+        focusOn(current || items[0] || menu, true);
+        // A share menu opened near the bottom of the screen (or under the docked grey row) is
+        // brought into view, so the focused row is never hidden. The header's menus are capped to
+        // the screen height by the CSS instead.
+        if (!siteHeader.contains(menu) && typeof menu.scrollIntoView === 'function') menu.scrollIntoView({ block: 'nearest' });
+      },
+      close: function (returnFocus) {
+        if (menu.hidden) return;
+        menu.hidden = true;
+        trigger.setAttribute('aria-expanded', 'false');
+        trigger.setAttribute('data-state', 'closed');
+        menu.setAttribute('data-state', 'closed');
+        if (openMenu === controller) openMenu = null;
+        if (hooks && hooks.onClose) hooks.onClose();
+        if (returnFocus) focusOn(trigger, true);
+      },
+    };
+    trigger.setAttribute('data-state', 'closed');
+    menu.setAttribute('data-state', 'closed');
+    trigger.addEventListener('click', function () {
+      if (controller.isOpen()) controller.close(true);
+      else controller.open();
     });
-    DATA.categories.forEach(function (category) {
-      var tab = makeTab(nameOf(category), active === category.id, function () { selectCategory(category.id); });
-      tab.setAttribute('data-id', category.id);
-      ribbonCategories.appendChild(tab);
-    });
-    updateArrows();
-  }
-
-  /** The second bar depends on the view: subcategories, My Hub tabs, Live sections, or nothing. */
-  function renderSubcategoryRibbon() {
-    clear(ribbonSubcategories);
-    var show = true;
-    if (view === 'feed') {
-      var category = state.c ? CATEGORIES[state.c] : null;
-      if (!category) {
-        show = false;
-      } else {
-        var all = makeTab(t('all'), state.s === '', function () { selectSubcategory(''); });
-        all.setAttribute('data-id', '');
-        ribbonSubcategories.appendChild(all);
-        (category.subcategories || []).forEach(function (sub) {
-          var tab = makeTab(nameOf(sub), state.s === sub.id, function () { selectSubcategory(sub.id); });
-          tab.setAttribute('data-id', sub.id);
-          ribbonSubcategories.appendChild(tab);
-        });
+    menu.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' || event.key === 'Esc') {
+        event.preventDefault();
+        event.stopPropagation();
+        controller.close(true);
       }
-    } else if (view === 'saved' || view === 'following' || view === 'manage') {
-      var savedTab = makeTab(t('savedTab'), view === 'saved', function () { goToView('saved'); });
-      savedTab.setAttribute('data-id', 'saved');
-      ribbonSubcategories.appendChild(savedTab);
-      // "Following ⚙": the tab opens the Following feed, the gear beside it is its own button
-      // and opens Manage Following from any My Hub state.
-      var group = el('span', 'tab-group');
-      var followingTab = makeTab(t('followingTab'), view !== 'saved', function () { goToView('following'); });
-      followingTab.setAttribute('data-id', 'following');
-      group.appendChild(followingTab);
-      var gear = document.createElement('button');
-      gear.type = 'button';
-      gear.className = 'tab-gear';
-      gear.setAttribute('aria-label', t('manageFollowing'));
-      gear.title = t('manageFollowing');
-      gear.setAttribute('aria-pressed', view === 'manage' ? 'true' : 'false');
-      gear.appendChild(cloneTemplate('tpl-gear-icon'));
-      gear.addEventListener('click', function () { goToView('manage'); });
-      group.appendChild(gear);
-      ribbonSubcategories.appendChild(group);
-    } else if (view === 'live') {
-      var liveAll = makeTab(t('all'), state.s === '', function () { selectLiveSection(''); });
-      liveAll.setAttribute('data-id', '');
-      ribbonSubcategories.appendChild(liveAll);
-      LIVE_SECTIONS.forEach(function (section) {
-        var tab = makeTab(t(LIVE_LABELS[section]), state.s === section, function () { selectLiveSection(section); });
-        tab.setAttribute('data-id', section);
-        ribbonSubcategories.appendChild(tab);
-      });
-    } else {
-      show = false;
-    }
-    subbar.hidden = !show;
-    document.body.classList.toggle('has-subbar', show);
+    });
+    // Tab (or a click on another control) moves focus out: the menu closes and focus stays
+    // where the visitor sent it. A blur with no destination (window switch) leaves it open.
+    menu.addEventListener('focusout', function (event) {
+      var next = event.relatedTarget;
+      if (next instanceof Node && !menu.contains(next) && !trigger.contains(next)) controller.close(false);
+    });
+    return controller;
   }
 
-  /** @param {string} categoryId */
-  function selectCategory(categoryId) {
-    var changed = view !== 'feed' || state.c !== categoryId || state.s !== '';
-    state.c = CATEGORIES[categoryId] ? categoryId : '';
-    state.s = '';
-    view = 'feed';
-    showView('feed', false);
-    if (changed) refresh(true);
+  /** @param {Event} event   A mousedown or touchstart anywhere: closes the open menu when it is outside. */
+  function onPointerDownOutside(event) {
+    if (!openMenu) return;
+    var target = event.target;
+    if (!(target instanceof Node)) return;
+    if (openMenu.menu.contains(target) || openMenu.trigger.contains(target)) return;
+    openMenu.close(false);
   }
 
-  /** @param {string} subcategoryId */
-  function selectSubcategory(subcategoryId) {
-    var changed = state.s !== subcategoryId;
-    state.s = subcategoryOf(state.c, subcategoryId) ? subcategoryId : '';
-    markActiveTab(ribbonSubcategories, state.s);
-    if (changed) refresh(true);
+  // ------------------------------------------------------------------ header: slide on scroll
+
+  var headerHidden = false;
+  var lastScrollY = 0;
+
+  /** Keeps --header-h equal to the visible sticky bars' height so focused items scroll out from under them. */
+  function updateHeaderHeight() {
+    var height = siteHeader.offsetHeight;
+    if (headerHidden) height = Math.max(0, height - topbar.offsetHeight);
+    document.documentElement.style.setProperty('--header-h', height + 'px');
   }
-
-  /** @param {string} section */
-  function selectLiveSection(section) {
-    var changed = state.s !== section;
-    state.s = LIVE_SECTIONS.indexOf(section) >= 0 ? section : '';
-    markActiveTab(ribbonSubcategories, state.s);
-    if (changed) refresh(true);
-  }
-
-  // ------------------------------------------------------------------ arrows
-
-  /** Grey the prev/next buttons at the ends; hide both when every tab fits. */
-  function updateArrows() {
-    var overflow = ribbonCategories.scrollWidth - ribbonCategories.clientWidth;
-    navArrows.hidden = overflow <= 1 || isPhone();
-    if (navArrows.hidden) return;
-    var left = ribbonCategories.scrollLeft;
-    navPrev.setAttribute('aria-disabled', left <= 1 ? 'true' : 'false');
-    navNext.setAttribute('aria-disabled', left >= overflow - 1 ? 'true' : 'false');
-  }
-
-  /** @param {number} direction  -1 or 1 */
-  function scrollRibbon(direction) {
-    var target = ribbonCategories.scrollLeft + direction * ribbonCategories.clientWidth;
-    try {
-      ribbonCategories.scrollTo({ left: Math.max(0, target), behavior: prefersReducedMotion() ? 'auto' : 'smooth' });
-    } catch (e) {
-      ribbonCategories.scrollLeft = Math.max(0, target);
-    }
-  }
-
-  // ------------------------------------------------------------------ controls
 
   /**
-   * @param {HTMLSelectElement} select
-   * @param {string[]} codes
-   * @param {'language'|'region'} kind
-   * @param {string} allLabel
+   * @returns {boolean} true while the blue bar must stay in view whatever the scrolling: reduced
+   *   motion, the search field or the Menu panel open, a header menu open, or keyboard focus on a
+   *   blue-bar control (a mouse click leaves focus there too, but not :focus-visible, so the bar
+   *   still slides for mouse users).
    */
-  function fillSelect(select, codes, kind, allLabel) {
-    clear(select);
-    var all = document.createElement('option');
-    all.value = '';
-    all.textContent = allLabel;
-    select.appendChild(all);
-    var options = codes.map(function (code) { return { code: code, label: displayName(kind, code) }; });
-    options.sort(function (a, b) { return a.label.localeCompare(b.label, UI_LANG); });
-    options.forEach(function (entry) {
-      var option = document.createElement('option');
-      option.value = entry.code;
-      option.textContent = entry.label;
-      select.appendChild(option);
-    });
+  function headerPinned() {
+    if (prefersReducedMotion()) return true;
+    var body = document.body.classList;
+    if (body.contains('search-open') || body.contains('menu-open')) return true;
+    if (openMenu && siteHeader.contains(openMenu.menu)) return true;
+    var active = document.activeElement;
+    if (active && topbar.contains(active)) {
+      try {
+        if (active.matches(':focus-visible')) return true;
+      } catch (e) {
+        return true; // no :focus-visible support: keep the bar while it holds focus
+      }
+    }
+    return false;
   }
 
-  function syncControls() {
-    langSelect.value = state.lang;
-    locSelect.value = state.loc;
-    syncTypeButton();
-    searchInput.value = state.q;
+  /** @param {boolean} hidden */
+  function setHeaderHidden(hidden) {
+    if (hidden && headerPinned()) hidden = false;
+    if (hidden === headerHidden) return;
+    headerHidden = hidden;
+    siteHeader.classList.toggle('is-hidden', hidden);
+    updateHeaderHeight();
   }
+
+  /** Scrolling down past 100 px slides the blue bar away; any scroll up, or the top, brings it back. */
+  function onScroll() {
+    var y = window.scrollY || window.pageYOffset || 0;
+    var delta = y - lastScrollY;
+    lastScrollY = y;
+    if (y <= 0 || delta < 0) setHeaderHidden(false);
+    else if (delta > 0 && y > HEADER_HIDE_AFTER) setHeaderHidden(true);
+  }
+
+  function trackHeaderHeight() {
+    updateHeaderHeight();
+    if (typeof ResizeObserver === 'function') new ResizeObserver(updateHeaderHeight).observe(siteHeader);
+    window.addEventListener('resize', updateHeaderHeight);
+    lastScrollY = window.scrollY || 0;
+    window.addEventListener('scroll', onScroll, { passive: true });
+  }
+
+  // ------------------------------------------------------------------ header: search
+
+  /**
+   * @param {boolean} open
+   * @param {boolean} [moveFocus]   default true: into the field on open, back to the magnifier on close.
+   */
+  function setSearchOpen(open, moveFocus) {
+    // Closing drops words that were typed but never applied: the field always shows the search
+    // that is in effect when it opens again.
+    if (!open) searchInput.value = state.q;
+    searchForm.hidden = !open;
+    searchToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    var label = t(open ? 'closeSearch' : 'search');
+    searchToggle.setAttribute('aria-label', label);
+    searchToggle.title = label;
+    document.body.classList.toggle('search-open', open);
+    if (open) {
+      setHeaderHidden(false);
+      if (moveFocus !== false) focusOn(searchInput, true);
+    } else if (moveFocus !== false && (document.activeElement === searchInput || isHiddenAway(document.activeElement))) {
+      focusOn(searchToggle, true);
+    }
+  }
+
+  /**
+   * Enter runs the search on the current view. Sources, About and Manage Following have no feed,
+   * so a search from there opens the whole feed with the results (emptying the field there only
+   * clears the words).
+   */
+  function applySearch() {
+    var words = searchInput.value.trim().slice(0, 200);
+    var leave = words !== '' && !FEED_VIEWS[view];
+    if (words === state.q && !leave) return;
+    state.q = words;
+    if (leave) {
+      state.c = '';
+      state.s = '';
+      showView('feed', false);
+    }
+    refresh(true);
+  }
+
+  // ------------------------------------------------------------------ header: location picker
+
+  var locMenuController = createMenu(locButton, locMenu);
+
+  /**
+   * One row of the location menu or the language list.
+   * @param {string} value
+   * @param {string} label
+   * @param {(value: string) => void} choose
+   * @returns {HTMLElement}
+   */
+  function makeMenuItem(value, label, choose) {
+    var item = cloneTemplate('tpl-menu-item');
+    item.setAttribute('data-value', value);
+    find(item, '.menu-item-label').textContent = label;
+    item.addEventListener('click', function () { choose(value); });
+    return item;
+  }
+
+  /**
+   * Put the check on the row whose data-value is `current` and take it off the others.
+   * @param {HTMLElement} list
+   * @param {string} current
+   */
+  function markCurrentItem(list, current) {
+    var items = list.querySelectorAll('.menu-item');
+    for (var i = 0; i < items.length; i += 1) {
+      var item = /** @type {HTMLElement} */ (items[i]);
+      var check = find(item, '.menu-item-check');
+      clear(check);
+      if ((item.getAttribute('data-value') || '') === current) {
+        item.setAttribute('aria-current', 'true');
+        check.appendChild(cloneTemplate('tpl-check-icon'));
+      } else {
+        item.removeAttribute('aria-current');
+      }
+    }
+  }
+
+  function buildLocMenu() {
+    clear(locMenu);
+    locMenu.appendChild(makeMenuItem('', t('world'), chooseLocation));
+    namedCodes(DATA.countries, 'region').forEach(function (entry) {
+      locMenu.appendChild(makeMenuItem(entry.code, entry.label, chooseLocation));
+    });
+    syncLocMenu();
+  }
+
+  function syncLocMenu() {
+    markCurrentItem(locMenu, state.loc);
+    var label = state.loc ? displayName('region', state.loc) : t('world');
+    locLabel.textContent = label;
+    // A long name can be cut with an ellipsis on a narrow phone; the tooltip keeps it whole.
+    locButton.title = label;
+  }
+
+  /** @param {string} code */
+  function chooseLocation(code) {
+    locMenuController.close(true);
+    var next = code && DATA.countries.indexOf(code) >= 0 ? code : '';
+    if (next === state.loc) return;
+    state.loc = next;
+    syncLocMenu();
+    refresh(true);
+  }
+
+  // ------------------------------------------------------------------ header: article/video toggle
 
   function syncTypeButton() {
-    typeLabel.textContent = t(TYPE_LABELS[state.type]);
     typeButton.setAttribute('data-type', state.type);
+    var src = typeGlyph.getAttribute('data-src-' + state.type);
+    if (src) typeGlyph.setAttribute('src', src);
+    var label = t(TYPE_LABELS[state.type]);
+    typeButton.title = label;
+    typeLabel.textContent = label;
   }
 
   function cycleType() {
@@ -1001,70 +1168,372 @@ var CURANET_HELPERS = (function () {
     refresh(true);
   }
 
-  function applySearch() {
-    var words = searchInput.value.trim().slice(0, 200);
-    if (words === state.q) return;
-    state.q = words;
-    refresh(true);
-  }
+  // ------------------------------------------------------------------ header: avatar menu
 
-  function clearFilters() {
-    state.c = '';
-    state.s = '';
-    state.lang = '';
-    state.loc = '';
-    state.type = 'both';
-    state.q = '';
-    renderCategoryRibbon();
-    markActiveTab(ribbonCategories, activeTopId());
-    renderSubcategoryRibbon();
-    syncControls();
-    setFeedHeading();
-    refresh(true);
-    // The button that was pressed disappears with the empty message; keep focus in the page.
-    if (emptyState.hidden) focusOn(mainEl, true);
+  var avatarMenuController = createMenu(avatarButton, avatarMenu, {
+    onClose: function () { setLangListOpen(false); },
+  });
+
+  /** @param {boolean} open */
+  function setLangListOpen(open) {
+    langList.hidden = !open;
+    langButton.setAttribute('aria-expanded', open ? 'true' : 'false');
   }
 
   /**
-   * The tools row shows the article/video bar and, on desktop, the filters and search. In Live
-   * the bar is hidden, and on phones (where the filters live elsewhere) that leaves the row empty,
-   * so the whole row goes and the first video sits 16px under the bars like every other view.
+   * The Language list names every language in itself (Deutsch, English, Español, Français), each
+   * label marked with its language so screen readers pronounce it right.
    */
-  function updateToolsRow() {
-    var feedVisible = Boolean(FEED_VIEWS[view]);
-    typeButton.hidden = view === 'live';
-    tools.hidden = !feedVisible || (view === 'live' && isPhone());
+  function buildLangList() {
+    clear(langList);
+    langList.appendChild(makeMenuItem('', t('allLanguages'), chooseLanguage));
+    var entries = DATA.languages.map(function (code) { return { code: code, label: nativeLanguageName(code) }; });
+    entries.sort(function (a, b) { return a.label.localeCompare(b.label, UI_LANG); });
+    entries.forEach(function (entry) {
+      var item = makeMenuItem(entry.code, entry.label, chooseLanguage);
+      find(item, '.menu-item-label').setAttribute('lang', entry.code);
+      langList.appendChild(item);
+    });
+    syncLangList();
   }
 
-  /**
-   * Move the search form and the two filter selects between their desktop slots (tools row) and
-   * their phone slots (under the bars, and inside the settings panel). One set of controls, one
-   * set of ids, whatever the width.
-   */
-  function placeControls() {
-    var phone = isPhone();
-    if (phone) {
-      if (searchForm.parentNode !== mobileSearch) mobileSearch.appendChild(searchForm);
-      if (langWrap.parentNode !== panelFilterSlot) { panelFilterSlot.appendChild(langWrap); panelFilterSlot.appendChild(locWrap); }
-      panelFilters.hidden = false;
-      mobileSearch.hidden = !(searchToggle.getAttribute('aria-expanded') === 'true' || state.q !== '');
-      searchToggle.setAttribute('aria-expanded', mobileSearch.hidden ? 'false' : 'true');
+  function syncLangList() {
+    markCurrentItem(langList, state.lang);
+    if (state.lang) {
+      langCurrent.textContent = nativeLanguageName(state.lang);
+      langCurrent.setAttribute('lang', state.lang);
     } else {
-      if (searchForm.parentNode !== toolsSearch) toolsSearch.appendChild(searchForm);
-      if (langWrap.parentNode !== toolsFilters) { toolsFilters.insertBefore(locWrap, toolsSearch); toolsFilters.insertBefore(langWrap, locWrap); }
-      panelFilters.hidden = true;
-      mobileSearch.hidden = true;
+      langCurrent.textContent = t('all');
+      langCurrent.removeAttribute('lang');
     }
-    updateToolsRow();
-    updateArrows();
   }
 
-  function toggleMobileSearch() {
-    var open = mobileSearch.hidden;
-    mobileSearch.hidden = !open;
-    searchToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
-    if (open) focusOn(searchInput, true);
-    else if (state.q) { searchInput.value = ''; applySearch(); }
+  /** @param {string} code */
+  function chooseLanguage(code) {
+    avatarMenuController.close(true);
+    var next = code && DATA.languages.indexOf(code) >= 0 ? code : '';
+    if (next === state.lang) return;
+    state.lang = next;
+    syncLangList();
+    refresh(true);
+  }
+
+  /** The theme row reads "Dark Mode" with a moon on a light page and "Light Mode" with a sun on a dark one. */
+  function syncThemeToggle() {
+    var dark = effectiveDark();
+    themeToggle.classList.toggle('is-dark', dark);
+    themeToggleLabel.textContent = t(dark ? 'lightMode' : 'darkMode');
+  }
+
+  function toggleTheme() {
+    settings.theme = effectiveDark() ? 'light' : 'dark';
+    applyTheme();
+    saveSettings();
+    avatarMenuController.close(true);
+  }
+
+  /**
+   * An in-page link (avatar menu rows and footer, Menu panel cells, back links, the logo): the
+   * click handler opens the view; the #href stays as a fallback without scripts.
+   * @param {Element} link
+   * @returns {View|null}
+   */
+  function viewFromLink(link) {
+    var href = link.getAttribute('href') || '';
+    return href.charAt(0) === '#' ? viewFromToken(href.slice(1)) : null;
+  }
+
+  /**
+   * @param {View} next
+   */
+  function openViewFromMenu(next) {
+    if (next === 'following' && followingIds.length === 0) next = 'manage';
+    if (next === 'feed') { state.c = ''; state.s = ''; }
+    goToView(next);
+    // Sources, About and Manage focus their heading; a feed view starts at the top of the page.
+    if (FEED_VIEWS[next]) focusOn(mainEl, true);
+  }
+
+  /**
+   * @param {Event} event
+   * @param {Element} link
+   */
+  function onMenuLinkClick(event, link) {
+    var next = viewFromLink(link);
+    if (!next) return;
+    event.preventDefault();
+    if (avatarMenuController.isOpen()) avatarMenuController.close(false);
+    if (menuPanel.hidden === false) closeMenuPanel(false);
+    openViewFromMenu(next);
+  }
+
+  // ------------------------------------------------------------------ header: category tabs
+
+  /**
+   * Mark one item of a navigation set (a tab, a grey-row link) as the current one. These are
+   * buttons that open a place, not toggles, so the state is aria-current, set only on the current
+   * item.
+   * @param {Element} node
+   * @param {boolean} current
+   */
+  function setCurrent(node, current) {
+    if (current) node.setAttribute('aria-current', 'true');
+    else node.removeAttribute('aria-current');
+  }
+
+  /**
+   * @param {string} id
+   * @param {string} label
+   * @param {boolean} current
+   * @param {() => void} onClick
+   * @returns {HTMLButtonElement}
+   */
+  function makeTab(id, label, current, onClick) {
+    var tab = button('tab', label);
+    tab.setAttribute('data-id', id);
+    setCurrent(tab, current);
+    tab.addEventListener('click', onClick);
+    return tab;
+  }
+
+  /**
+   * @returns {string} the data-id of the current tab: the category on a category page, Home
+   *   ('') on every other view, as the live site keeps Home active on its search and Terms pages.
+   */
+  function activeTabId() {
+    return view === 'feed' ? state.c : '';
+  }
+
+  function renderTabs() {
+    clear(tabsTrack);
+    var active = activeTabId();
+    tabsTrack.appendChild(makeTab('', t('home'), active === '', goHome));
+    DATA.categories.forEach(function (category) {
+      tabsTrack.appendChild(makeTab(category.id, nameOf(category), active === category.id, function () { selectCategory(category.id); }));
+    });
+  }
+
+  function markActiveTab() {
+    var active = activeTabId();
+    var tabs = tabsTrack.querySelectorAll('.tab');
+    /** @type {HTMLElement|null} */
+    var activeTab = null;
+    for (var i = 0; i < tabs.length; i += 1) {
+      var tab = /** @type {HTMLElement} */ (tabs[i]);
+      var current = (tab.getAttribute('data-id') || '') === active;
+      setCurrent(tab, current);
+      if (current) activeTab = tab;
+    }
+    revealTab(activeTab);
+  }
+
+  /**
+   * Scroll the track sideways so the active tab is fully in view (the live site leaves it cut
+   * off). Never scrolls the page.
+   * @param {HTMLElement|null} tab
+   */
+  function revealTab(tab) {
+    if (!tab) return;
+    var trackRect = tabsTrack.getBoundingClientRect();
+    var tabRect = tab.getBoundingClientRect();
+    if (trackRect.width === 0) return;
+    if (tabRect.left >= trackRect.left && tabRect.right <= trackRect.right) return;
+    var left = tabRect.left - trackRect.left + tabsTrack.scrollLeft - (trackRect.width - tabRect.width) / 2;
+    var target = Math.max(0, left);
+    try {
+      tabsTrack.scrollTo({ left: target, behavior: prefersReducedMotion() ? 'auto' : 'smooth' });
+    } catch (e) {
+      tabsTrack.scrollLeft = target;
+    }
+  }
+
+  /** Mouse drag-to-scroll on the tabs track (touch and wheel scroll natively); the click that ends a drag is dropped. */
+  function setupDragScroll() {
+    var dragging = false;
+    var moved = false;
+    var startX = 0;
+    var startLeft = 0;
+    var suppressClick = false;
+    tabsTrack.addEventListener('mousedown', function (event) {
+      if (event.button !== 0) return;
+      dragging = true;
+      moved = false;
+      startX = event.clientX;
+      startLeft = tabsTrack.scrollLeft;
+    });
+    document.addEventListener('mousemove', function (event) {
+      if (!dragging) return;
+      var dx = event.clientX - startX;
+      if (!moved && Math.abs(dx) < DRAG_THRESHOLD_PX) return;
+      moved = true;
+      tabsTrack.scrollLeft = startLeft - dx;
+      event.preventDefault();
+    });
+    document.addEventListener('mouseup', function () {
+      if (!dragging) return;
+      dragging = false;
+      if (!moved) return;
+      suppressClick = true;
+      window.setTimeout(function () { suppressClick = false; }, 0);
+    });
+    tabsTrack.addEventListener('click', function (event) {
+      if (!suppressClick) return;
+      suppressClick = false;
+      event.preventDefault();
+      event.stopPropagation();
+    }, true);
+  }
+
+  // ------------------------------------------------------------------ header: the grey row
+
+  /**
+   * @param {string} id
+   * @param {string} label
+   * @param {boolean} current
+   * @param {() => void} onClick
+   * @returns {HTMLButtonElement}
+   */
+  function makeSectionLink(id, label, current, onClick) {
+    var link = button('section-link', label);
+    link.setAttribute('data-id', id);
+    setCurrent(link, current);
+    link.addEventListener('click', onClick);
+    return link;
+  }
+
+  /**
+   * The grey row depends on the view: All + the subcategories on a category, All · News · Sports ·
+   * Music in Live, and All · Saved · Following everywhere else (· Manage while Following or Manage
+   * Following is open). On Sources and About none of them is current, as the live site shows its
+   * sort links with none active on its Terms and search pages, so the header keeps one height.
+   */
+  function renderSections() {
+    clear(sectionsRow);
+    var subcats = false;
+    var category = view === 'feed' && state.c ? CATEGORIES[state.c] : null;
+    if (category) {
+      subcats = true;
+      sectionsRow.appendChild(makeSectionLink('', t('all'), state.s === '', function () { selectSubcategory(''); }));
+      (category.subcategories || []).forEach(function (sub) {
+        sectionsRow.appendChild(makeSectionLink(sub.id, nameOf(sub), state.s === sub.id, function () { selectSubcategory(sub.id); }));
+      });
+    } else if (view === 'live') {
+      sectionsRow.appendChild(makeSectionLink('', t('all'), state.s === '', function () { selectLiveSection(''); }));
+      LIVE_SECTIONS.forEach(function (section) {
+        sectionsRow.appendChild(makeSectionLink(section, t(LIVE_LABELS[section]), state.s === section, function () { selectLiveSection(section); }));
+      });
+    } else {
+      sectionsRow.appendChild(makeSectionLink('', t('all'), view === 'feed', goHome));
+      sectionsRow.appendChild(makeSectionLink('saved', t('savedTab'), view === 'saved', function () { goToView('saved'); }));
+      sectionsRow.appendChild(makeSectionLink('following', t('followingTab'), view === 'following', function () { goToView('following'); }));
+      if (view === 'following' || view === 'manage') {
+        var manage = button('section-link section-manage');
+        manage.setAttribute('data-id', 'manage');
+        setCurrent(manage, view === 'manage');
+        manage.appendChild(cloneTemplate('tpl-gear-icon'));
+        manage.appendChild(el('span', 'section-label', t('manage')));
+        manage.addEventListener('click', function () { if (view !== 'manage') goToView('manage'); });
+        sectionsRow.appendChild(manage);
+      }
+    }
+    subbar.hidden = false;
+    subbar.classList.toggle('is-subcats', subcats);
+  }
+
+  /**
+   * Move the current mark among a category's subcategories or Live's sections.
+   * @param {string} activeId
+   */
+  function markActiveSection(activeId) {
+    var links = sectionsRow.querySelectorAll('.section-link');
+    for (var i = 0; i < links.length; i += 1) {
+      var link = /** @type {HTMLElement} */ (links[i]);
+      if (link.classList.contains('section-manage')) continue;
+      setCurrent(link, (link.getAttribute('data-id') || '') === activeId);
+    }
+  }
+
+  /** @param {string} categoryId */
+  function selectCategory(categoryId) {
+    var changed = view !== 'feed' || state.c !== categoryId || state.s !== '';
+    state.c = CATEGORIES[categoryId] ? categoryId : '';
+    state.s = '';
+    showView('feed', false);
+    if (changed) refresh(true);
+  }
+
+  /** @param {string} subcategoryId */
+  function selectSubcategory(subcategoryId) {
+    var changed = state.s !== subcategoryId;
+    state.s = subcategoryOf(state.c, subcategoryId) ? subcategoryId : '';
+    markActiveSection(state.s);
+    if (changed) refresh(true);
+  }
+
+  /** @param {string} section */
+  function selectLiveSection(section) {
+    var changed = state.s !== section;
+    state.s = LIVE_SECTIONS.indexOf(section) >= 0 ? section : '';
+    markActiveSection(state.s);
+    if (changed) refresh(true);
+  }
+
+  // ------------------------------------------------------------------ the Menu panel (≡)
+
+  function buildMenuPanel() {
+    clear(panelCategories);
+    DATA.categories.forEach(function (category) {
+      var cell = button('cell', nameOf(category));
+      cell.setAttribute('data-id', category.id);
+      cell.addEventListener('click', function () {
+        closeMenuPanel(false);
+        selectCategory(category.id);
+        focusOn(mainEl, true);
+      });
+      panelCategories.appendChild(cell);
+    });
+  }
+
+  function openMenuPanel() {
+    if (openMenu) openMenu.close(false);
+    menuPanel.hidden = false;
+    menuButton.setAttribute('aria-expanded', 'true');
+    menuButton.setAttribute('aria-label', t('closeMenu'));
+    menuButton.title = t('closeMenu');
+    // The class on both elements stops the page behind from scrolling (styles.css).
+    document.body.classList.add('menu-open');
+    document.documentElement.classList.add('menu-open');
+    setHeaderHidden(false);
+    focusOn(menuPanelHeading, true);
+  }
+
+  /** @param {boolean} returnFocus   false when a choice is taking the visitor to a view. */
+  function closeMenuPanel(returnFocus) {
+    if (menuPanel.hidden) return;
+    menuPanel.hidden = true;
+    menuButton.setAttribute('aria-expanded', 'false');
+    menuButton.setAttribute('aria-label', t('menu'));
+    menuButton.title = t('menu');
+    document.body.classList.remove('menu-open');
+    document.documentElement.classList.remove('menu-open');
+    if (returnFocus) focusOn(menuButton, true);
+  }
+
+  /** Tab wraps inside the panel while it is open (it covers everything but the blue bar). */
+  function onMenuPanelKeydown(event) {
+    if (event.key !== 'Tab') return;
+    var items = focusableIn(menuPanel);
+    if (!items.length) return;
+    var first = items[0];
+    var last = items[items.length - 1];
+    var active = document.activeElement;
+    if (event.shiftKey && (active === first || active === menuPanelHeading)) {
+      event.preventDefault();
+      focusOn(last, true);
+    } else if (!event.shiftKey && active === last) {
+      event.preventDefault();
+      focusOn(first, true);
+    }
   }
 
   // ------------------------------------------------------------------ saved + following
@@ -1096,6 +1565,135 @@ var CURANET_HELPERS = (function () {
     followingIds.forEach(function (id) { followingSet[id] = true; });
   }
   rebuildFollowingSet();
+
+  // ------------------------------------------------------------------ toasts
+
+  /**
+   * @typedef {Object} ToastControl
+   * @property {() => void} pause
+   * @property {() => void} resume
+   * @property {() => void} dismiss   Slide out, then remove.
+   * @property {() => void} remove    Remove at once.
+   */
+
+  /** @type {ToastControl[]} the toasts on screen, oldest first. */
+  var liveToasts = [];
+
+  /**
+   * On desktop the toasts sit at the bottom right, over the right-aligned Save and Share buttons:
+   * the page keeps keyboard focus clear of them (scroll-padding through --toast-space, and an
+   * immediate scroll when the toast lands on the focused control).
+   */
+  function updateToastSpace() {
+    var space = liveToasts.length ? toastRegion.offsetHeight + 24 : 0;
+    document.documentElement.style.setProperty('--toast-space', space + 'px');
+  }
+
+  function keepFocusClearOfToasts() {
+    updateToastSpace();
+    var active = document.activeElement;
+    if (!liveToasts.length || !(active instanceof HTMLElement) || active === document.body || toastRegion.contains(active)) return;
+    try {
+      // Only keyboard focus: a mouse click also leaves focus on the button, but the page must not
+      // jump under the pointer.
+      if (!active.matches(':focus-visible')) return;
+    } catch (e) {
+      // No :focus-visible support: treat the focus as visible.
+    }
+    var region = toastRegion.getBoundingClientRect();
+    // Phones show the toast at the top, over the header; nothing focusable sits under it there.
+    if (region.height === 0 || region.top < window.innerHeight / 2) return;
+    var rect = active.getBoundingClientRect();
+    if (rect.bottom <= region.top || rect.top >= region.bottom || rect.right <= region.left || rect.left >= region.right) return;
+    window.scrollBy(0, rect.bottom - region.top + 8);
+  }
+
+  /** The tab or window went to the background: toasts wait; back in front, they carry on. */
+  function onVisibilityChange() {
+    liveToasts.slice().forEach(function (control) {
+      if (document.hidden) control.pause();
+      else control.resume();
+    });
+  }
+
+  /**
+   * A toast slides in at the bottom right (top on phones) and goes away after 5 s, when its X is
+   * pressed or on Escape; a new toast replaces the one showing. Like the live site's toasts, the
+   * timer waits while the pointer is over the toast, while focus is inside it, and while the page
+   * is in the background, then resumes with the time that was left. The region is aria-live, so
+   * it announces itself.
+   * @param {string} title
+   * @param {string} [description]
+   */
+  function showToast(title, description) {
+    var toast = cloneTemplate('tpl-toast');
+    find(toast, '.toast-title').textContent = title;
+    var desc = find(toast, '.toast-desc');
+    if (description) desc.textContent = description;
+    else if (desc.parentNode) desc.parentNode.removeChild(desc);
+    var removed = false;
+    var leaving = false;
+    var remaining = TOAST_MS;
+    var startedAt = 0;
+    var timer = 0;
+    /** @type {ToastControl} */
+    var control = {
+      pause: function () {
+        if (removed || leaving || !timer) return;
+        window.clearTimeout(timer);
+        timer = 0;
+        remaining -= Date.now() - startedAt;
+      },
+      resume: function () {
+        if (removed || leaving || timer || document.hidden) return;
+        startedAt = Date.now();
+        timer = window.setTimeout(control.dismiss, Math.max(remaining, 0));
+      },
+      dismiss: function () {
+        window.clearTimeout(timer);
+        timer = 0;
+        if (removed || leaving) return;
+        leaving = true;
+        // Focus on the X would fall to the page's top when the toast goes; keep it in the page.
+        if (toast.contains(document.activeElement)) focusOn(mainEl, true);
+        if (prefersReducedMotion()) { control.remove(); return; }
+        toast.classList.add('is-leaving');
+        window.setTimeout(control.remove, TOAST_LEAVE_MS);
+      },
+      remove: function () {
+        if (removed) return;
+        removed = true;
+        window.clearTimeout(timer);
+        timer = 0;
+        if (toast.contains(document.activeElement)) focusOn(mainEl, true);
+        var index = liveToasts.indexOf(control);
+        if (index >= 0) liveToasts.splice(index, 1);
+        if (toast.parentNode) toast.parentNode.removeChild(toast);
+        updateToastSpace();
+      },
+    };
+    find(toast, '.toast-close').addEventListener('click', control.dismiss);
+    toast.addEventListener('mouseenter', control.pause);
+    toast.addEventListener('mouseleave', function () {
+      if (!toast.contains(document.activeElement)) control.resume();
+    });
+    toast.addEventListener('focusin', control.pause);
+    toast.addEventListener('focusout', function (event) {
+      var next = event.relatedTarget;
+      if (next instanceof Node && toast.contains(next)) return;
+      try {
+        if (toast.matches(':hover')) return;
+      } catch (e) {
+        // No :hover matching: resume.
+      }
+      control.resume();
+    });
+    while (liveToasts.length >= MAX_TOASTS) liveToasts[0].remove();
+    liveToasts.push(control);
+    toastRegion.appendChild(toast);
+    control.resume();
+    keepFocusClearOfToasts();
+  }
 
   // ------------------------------------------------------------------ items
 
@@ -1146,151 +1744,13 @@ var CURANET_HELPERS = (function () {
     return item.v ? 'https://www.youtube.com/watch?v=' + encodeURIComponent(item.v) : item.l;
   }
 
-  /** @returns {HTMLElement} */
-  function playIcon() {
-    return cloneTemplate('tpl-play-icon');
-  }
-
   /**
-   * @param {HTMLElement} card
-   * @param {FeedSource} source
-   */
-  function fillPublisher(card, source) {
-    var mono = H.monogramFor(source.id, source.name);
-    var monogram = find(card, '.monogram');
-    monogram.textContent = mono.letter;
-    monogram.classList.add('tone-' + mono.tone);
-    find(card, '.publisher-name').textContent = source.name;
-  }
-
-  /**
-   * Share through the browser's own sheet when it has one, otherwise copy the link.
+   * The address shared for an item: the original article, or the YouTube watch page of a video.
    * @param {FeedItem} item
-   * @param {HTMLElement} button
+   * @returns {string}
    */
-  function shareItem(item, button) {
-    var url = item.ty === 'v' ? watchUrl(item) : item.l;
-    var label = find(button, '.action-label');
-    var original = t('share');
-    var flash = function (text) {
-      label.textContent = text;
-      button.setAttribute('aria-label', text);
-      actionStatus.textContent = text;
-      window.setTimeout(function () {
-        label.textContent = original;
-        button.setAttribute('aria-label', original);
-      }, 2000);
-    };
-    var copy = function () {
-      if (navigator.clipboard && typeof navigator.clipboard.writeText === 'function') {
-        navigator.clipboard.writeText(url).then(function () { flash(t('linkCopied')); }, function () { flash(t('shareFailed')); });
-      } else {
-        flash(t('shareFailed'));
-      }
-    };
-    if (typeof navigator.share === 'function') {
-      try {
-        navigator.share({ title: item.t, url: url }).then(function () {}, function (error) {
-          if (!error || error.name !== 'AbortError') copy();
-        });
-        return;
-      } catch (e) {
-        // fall through to copying
-      }
-    }
-    copy();
-  }
-
-  /**
-   * @param {HTMLElement} button
-   * @param {boolean} saved
-   */
-  function paintSaveButton(button, saved) {
-    button.setAttribute('aria-pressed', saved ? 'true' : 'false');
-    var text = t(saved ? 'savedItem' : 'saveItem');
-    find(button, '.action-label').textContent = text;
-    button.setAttribute('aria-label', text);
-  }
-
-  /**
-   * Like, Comment (both disabled until accounts exist), Share and Save.
-   * @param {HTMLElement} card
-   * @param {FeedItem} item
-   */
-  function fillActions(card, item) {
-    var slot = find(card, '.actions');
-    var actions = cloneTemplate('tpl-actions');
-    var like = find(actions, '.action-like');
-    find(like, '.action-label').textContent = t('like');
-    find(like, '.action-hint').textContent = t('comingLater');
-    like.title = t('comingLater');
-    var comment = find(actions, '.action-comment');
-    find(comment, '.action-label').textContent = t('comment');
-    find(comment, '.action-hint').textContent = t('comingLater');
-    comment.title = t('comingLater');
-    var share = find(actions, '.action-share');
-    find(share, '.action-label').textContent = t('share');
-    share.setAttribute('aria-label', t('share'));
-    share.addEventListener('click', function () { shareItem(item, share); });
-    var save = find(actions, '.action-save');
-    paintSaveButton(save, isSaved(item.id));
-    save.addEventListener('click', function () {
-      var saved = toggleSaved(item.id);
-      paintSaveButton(save, saved);
-      storageHint.hidden = storageOk || !(view === 'saved' || view === 'following');
-      if (view === 'saved' && !saved) {
-        // Unsaving inside the Saved list removes the item from it. Focus was on the Save button
-        // being removed, so it moves to the next item's title (or the feed itself).
-        var li = card.parentNode ? card : null;
-        /** @type {Element|null} */
-        var nextFocus = null;
-        if (li && li.parentNode) {
-          var neighbour = li.nextElementSibling || li.previousElementSibling;
-          nextFocus = neighbour ? neighbour.querySelector('.item-link') : null;
-          li.parentNode.removeChild(li);
-        }
-        filtered = filtered.filter(function (entry) { return entry.id !== item.id; });
-        shown = Math.max(0, shown - 1);
-        emptyState.hidden = filtered.length > 0;
-        updateEmptyState();
-        announceCount();
-        focusOn(/** @type {HTMLElement} */ (nextFocus || mainEl), true);
-      }
-    });
-    if (slot.parentNode) slot.parentNode.replaceChild(actions, slot);
-  }
-
-  /**
-   * @param {FeedItem} item
-   * @param {FeedSource} source
-   * @param {number} nowMs
-   * @returns {HTMLElement}
-   */
-  function renderArticle(item, source, nowMs) {
-    var card = cloneTemplate('tpl-article');
-    var link = /** @type {HTMLAnchorElement} */ (find(card, '.item-link'));
-    link.href = item.l;
-    find(link, '.item-title-text').textContent = item.t;
-    fillPublisher(card, source);
-    fillTime(find(card, '.item-time'), item.p, nowMs);
-    var thumb = /** @type {HTMLAnchorElement} */ (find(card, '.item-thumb'));
-    var img = /** @type {HTMLImageElement} */ (find(card, '.item-img'));
-    if (thumbSrc(item)) {
-      thumb.href = item.l;
-      // The title link already leads there, so the image link stays out of the tab order and the
-      // screen-reader flow; the alt still describes the picture for everyone else.
-      img.alt = item.t;
-      img.addEventListener('error', function () {
-        card.classList.add('no-thumb');
-        if (thumb.parentNode) thumb.parentNode.removeChild(thumb);
-      });
-      img.src = thumbSrc(item);
-    } else {
-      card.classList.add('no-thumb');
-      if (thumb.parentNode) thumb.parentNode.removeChild(thumb);
-    }
-    fillActions(card, item);
-    return card;
+  function shareUrl(item) {
+    return item.ty === 'v' ? watchUrl(item) : item.l;
   }
 
   /**
@@ -1305,21 +1765,242 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * Put the preview image (or a compact play row when there is none) and the play badge into the
-   * element that reacts to the click (a link or a button).
+   * Copy through the asynchronous clipboard when the browser has it, otherwise through a hidden
+   * text area and execCommand.
+   * @param {string} text
+   * @param {(ok: boolean) => void} done
+   */
+  function copyText(text, done) {
+    var fallback = function () {
+      var ok;
+      try {
+        var area = document.createElement('textarea');
+        area.value = text;
+        area.setAttribute('readonly', '');
+        area.setAttribute('aria-hidden', 'true');
+        area.style.position = 'fixed';
+        area.style.top = '0';
+        area.style.left = '0';
+        area.style.opacity = '0';
+        document.body.appendChild(area);
+        area.select();
+        ok = document.execCommand('copy');
+        document.body.removeChild(area);
+      } catch (e) {
+        ok = false;
+      }
+      done(ok);
+    };
+    if (navigator.clipboard && typeof navigator.clipboard.writeText === 'function') {
+      try {
+        navigator.clipboard.writeText(text).then(function () { done(true); }, fallback);
+        return;
+      } catch (e) {
+        // Some embeddings throw instead of rejecting; try the text area.
+      }
+    }
+    fallback();
+  }
+
+  /** Share menus are numbered so each Share button can name the menu it controls. */
+  var shareMenuSerial = 0;
+
+  /**
+   * The bottom of the visible area for a menu in the feed: the screen's bottom, or the top of the
+   * grey row when it is docked at the bottom of a phone screen.
+   * @returns {number}
+   */
+  function visibleBottom() {
+    var bottom = window.innerHeight;
+    if (!subbar.hidden && document.body.classList.contains('subbar-bottom')) {
+      try {
+        if (window.getComputedStyle(subbar).position === 'fixed') bottom = Math.min(bottom, subbar.getBoundingClientRect().top);
+      } catch (e) {
+        // No computed style: the screen's bottom.
+      }
+    }
+    return bottom;
+  }
+
+  /**
+   * The share menu of one item, built on first use inside .share-wrap: Copy Link and the five
+   * services as plain links to their share addresses with the original link and title. It opens
+   * below its button, or above it when there is more room there (.menu-up), like the live site's
+   * menus, which flip to stay on screen.
+   * @param {HTMLElement} wrap
+   * @param {HTMLElement} shareButton
+   * @param {FeedItem} item
+   * @returns {Menu}
+   */
+  function createShareMenu(wrap, shareButton, item) {
+    var menu = cloneTemplate('tpl-share-menu');
+    menu.hidden = true;
+    shareMenuSerial += 1;
+    menu.id = 'share-menu-' + shareMenuSerial;
+    shareButton.setAttribute('aria-controls', menu.id);
+    var url = shareUrl(item);
+    /** @type {Record<string, string>} */
+    var links = H.shareLinks(url, item.t);
+    for (var service in links) {
+      var link = /** @type {HTMLAnchorElement} */ (find(menu, '.share-' + service));
+      link.href = links[service];
+    }
+    wrap.appendChild(menu);
+    var place = function () {
+      menu.classList.remove('menu-up');
+      var box = shareButton.getBoundingClientRect();
+      var height = menu.offsetHeight;
+      var below = visibleBottom() - box.bottom - 4;
+      // The sticky header (z 50) covers the share menu (z 40), so the room above ends at its bottom.
+      var above = box.top - 4 - Math.max(0, siteHeader.getBoundingClientRect().bottom);
+      if (height > below && above > below) menu.classList.add('menu-up');
+    };
+    var controller = createMenu(shareButton, menu, { onOpen: place });
+    find(menu, '.share-copy').addEventListener('click', function () {
+      controller.close(true);
+      copyText(url, function (ok) {
+        if (ok) showToast(t('linkCopied'), t('linkCopiedDesc'));
+        else showToast(t('shareFailed'));
+        if (document.activeElement === document.body) focusOn(shareButton, true);
+      });
+    });
+    menu.addEventListener('click', function (event) {
+      var target = /** @type {Element|null} */ (event.target instanceof Element ? event.target : null);
+      if (target && target.closest('a.menu-item')) controller.close(true);
+    });
+    return controller;
+  }
+
+  /**
+   * The visible label carries the state ("Save" / "Saved"), so the button is not also a toggle
+   * (aria-pressed with a changing name would announce the state twice); data-saved fills the icon.
+   * @param {HTMLElement} save
+   * @param {boolean} saved
+   */
+  function paintSaveButton(save, saved) {
+    save.setAttribute('data-saved', saved ? 'true' : 'false');
+    find(save, '.action-label').textContent = t(saved ? 'savedItem' : 'saveItem');
+  }
+
+  /**
+   * Save, Share and the heart (disabled until accounts exist). Each is described by the item's
+   * title, so a list of buttons says which item a Save belongs to.
+   * @param {HTMLElement} card
+   * @param {FeedItem} item
+   * @param {string} titleId   The id of the item's title text.
+   */
+  function fillActions(card, item, titleId) {
+    var slot = find(card, '.actions');
+    var actions = cloneTemplate('tpl-actions');
+    var save = find(actions, '.action-save');
+    save.setAttribute('aria-describedby', titleId);
+    paintSaveButton(save, isSaved(item.id));
+    save.addEventListener('click', function () {
+      var saved = toggleSaved(item.id);
+      paintSaveButton(save, saved);
+      storageHint.hidden = storageOk || !(view === 'saved' || view === 'following');
+      // The toast region is the one live region that announces the result.
+      if (saved) showToast(t('savedToast'), t('savedToastDesc'));
+      else showToast(t('removedToast'));
+      if (view === 'saved' && !saved) {
+        // Unsaving inside the Saved list removes the item from it. Focus was on the Save button
+        // being removed, so it moves to the next item's title (or the feed itself).
+        /** @type {Element|null} */
+        var nextFocus = null;
+        if (card.parentNode) {
+          var neighbour = card.nextElementSibling || card.previousElementSibling;
+          nextFocus = neighbour ? neighbour.querySelector('.item-link') : null;
+          card.parentNode.removeChild(card);
+        }
+        filtered = filtered.filter(function (entry) { return entry.id !== item.id; });
+        shown = Math.max(0, shown - 1);
+        emptyState.hidden = filtered.length > 0;
+        updateEmptyState();
+        updateFeedEnd();
+        announceCount();
+        focusOn(/** @type {HTMLElement} */ (nextFocus || mainEl), true);
+      }
+    });
+
+    var wrap = find(actions, '.share-wrap');
+    var share = find(actions, '.action-share');
+    share.setAttribute('aria-describedby', titleId);
+    /** @type {Menu|null} */
+    var shareMenu = null;
+    share.addEventListener('click', function () {
+      if (shareMenu) return; // the controller's own click handler toggles it from now on
+      shareMenu = createShareMenu(wrap, share, item);
+      shareMenu.open();
+    });
+
+    var like = find(actions, '.action-like');
+    like.setAttribute('aria-describedby', titleId + ' coming-later-hint');
+    like.addEventListener('click', function () { showToast(t('likesLater')); });
+
+    if (slot.parentNode) slot.parentNode.replaceChild(actions, slot);
+  }
+
+  /** Rendered items are numbered so their buttons can point at their title (aria-describedby). */
+  var itemSerial = 0;
+
+  /**
+   * Fill the publisher line and the title, which are the publisher's own words: when the source's
+   * language differs from the interface's, .item-text (publisher and title only; the time and the
+   * buttons sit outside it) carries that language, so screen readers pronounce it right.
+   * @param {HTMLElement} card
+   * @param {FeedItem} item
+   * @param {FeedSource} source
+   * @returns {string} the id given to the title text.
+   */
+  function fillText(card, item, source) {
+    find(card, '.publisher-name').textContent = source.name;
+    var title = find(card, '.item-title-text');
+    title.textContent = item.t;
+    itemSerial += 1;
+    title.id = 'it-' + itemSerial;
+    if (source.language && source.language !== UI_LANG) find(card, '.item-text').setAttribute('lang', source.language);
+    return title.id;
+  }
+
+  /**
+   * @param {FeedItem} item
+   * @param {FeedSource} source
+   * @param {number} nowMs
+   * @returns {HTMLElement}
+   */
+  function renderArticle(item, source, nowMs) {
+    var card = cloneTemplate('tpl-article');
+    var link = /** @type {HTMLAnchorElement} */ (find(card, '.item-link'));
+    link.href = item.l;
+    var titleId = fillText(card, item, source);
+    fillTime(find(card, '.item-time'), item.p, nowMs);
+    var thumb = find(card, '.item-thumb');
+    var img = /** @type {HTMLImageElement} */ (find(card, '.item-img'));
+    // No picture, or one that fails to load: the box goes and the title takes the full width.
+    var removeThumb = function () {
+      if (thumb.parentNode) thumb.parentNode.removeChild(thumb);
+    };
+    var src = thumbSrc(item);
+    if (src) {
+      img.addEventListener('error', removeThumb);
+      img.src = src;
+    } else {
+      removeThumb();
+    }
+    fillActions(card, item, titleId);
+    return card;
+  }
+
+  /**
+   * The preview picture and the red play button inside the element that reacts to the click (a
+   * button on the hosted site, a link in the preview). Without a picture the box stays black.
    * @param {HTMLElement} box
    * @param {HTMLElement} control
    * @param {FeedItem} item
-   * @param {string} textWhenNoImage
    */
-  function fillPreview(box, control, item, textWhenNoImage) {
-    var label = document.createElement('span');
-    label.textContent = textWhenNoImage;
-    var showTextRow = function () {
-      box.classList.add('no-thumb');
-      if (!label.parentNode) control.appendChild(label);
-    };
-    if (thumbSrc(item)) {
+  function fillPreview(box, control, item) {
+    var src = thumbSrc(item);
+    if (src) {
       var img = document.createElement('img');
       img.className = 'video-img';
       img.alt = '';
@@ -1328,19 +2009,18 @@ var CURANET_HELPERS = (function () {
       img.setAttribute('referrerpolicy', 'no-referrer');
       img.addEventListener('error', function () {
         if (img.parentNode) img.parentNode.removeChild(img);
-        showTextRow();
+        box.classList.add('no-thumb');
       });
-      img.src = thumbSrc(item);
+      img.src = src;
       control.appendChild(img);
-      control.appendChild(el('span', 'video-scrim'));
-      control.appendChild(playIcon());
     } else {
-      control.appendChild(playIcon());
-      showTextRow();
+      box.classList.add('no-thumb');
     }
+    control.appendChild(cloneTemplate('tpl-play-button'));
   }
 
   /**
+   * One click replaces the preview with the privacy-enhanced YouTube player (hosted site only).
    * @param {HTMLElement} box
    * @param {FeedItem} item
    */
@@ -1350,14 +2030,14 @@ var CURANET_HELPERS = (function () {
     frame.className = 'video-frame';
     frame.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(item.v) + '?autoplay=1';
     frame.title = t('videoPlayer', { title: item.t });
-    frame.setAttribute('allow', 'autoplay; encrypted-media; picture-in-picture');
+    frame.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
     frame.setAttribute('allowfullscreen', '');
-    frame.setAttribute('loading', 'lazy');
     frame.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
     box.classList.remove('no-thumb');
+    box.classList.add('is-playing');
     clear(box);
     box.appendChild(frame);
-    frame.focus();
+    focusOn(frame, true);
   }
 
   /**
@@ -1370,20 +2050,15 @@ var CURANET_HELPERS = (function () {
     var card = cloneTemplate('tpl-video');
     var link = /** @type {HTMLAnchorElement} */ (find(card, '.item-link'));
     link.href = watchUrl(item);
-    find(link, '.item-title-text').textContent = item.t;
-    fillPublisher(card, source);
-    // One <time> sits beside the channel name (desktop), one in the bottom row (phones); CSS shows one.
-    fillTime(find(card, '.item-time-inline'), item.p, nowMs);
-    fillTime(find(card, '.item-time-foot'), item.p, nowMs);
+    var titleId = fillText(card, item, source);
+    fillTime(find(card, '.item-time'), item.p, nowMs);
     var box = find(card, '.video-box');
     if (CONFIG.video === 'embed' && item.v) {
-      var button = document.createElement('button');
-      button.type = 'button';
-      button.className = 'video-preview';
-      button.setAttribute('aria-label', t('playVideo', { title: item.t }));
-      button.addEventListener('click', function () { embedPlayer(box, item); });
-      fillPreview(box, button, item, t('play'));
-      box.appendChild(button);
+      var play = button('video-preview');
+      play.setAttribute('aria-label', t('playVideo', { title: item.t }));
+      play.addEventListener('click', function () { embedPlayer(box, item); });
+      fillPreview(box, play, item);
+      box.appendChild(play);
     } else {
       var anchor = document.createElement('a');
       anchor.className = 'video-preview';
@@ -1392,10 +2067,10 @@ var CURANET_HELPERS = (function () {
       anchor.rel = 'noopener';
       anchor.setAttribute('aria-describedby', 'new-tab-hint');
       anchor.setAttribute('aria-label', t('watchOnYouTubeTitle', { title: item.t }));
-      fillPreview(box, anchor, item, t('watchOnYouTube'));
+      fillPreview(box, anchor, item);
       box.appendChild(anchor);
     }
-    fillActions(card, item);
+    fillActions(card, item, titleId);
     return card;
   }
 
@@ -1422,17 +2097,36 @@ var CURANET_HELPERS = (function () {
     resultCount.textContent = n === 1 ? t('resultsOne') : t('resultsMany', { n: formatNumber(n) });
   }
 
+  /** "You've reached the end." once every item of a non-empty list is on the page. */
+  function updateFeedEnd() {
+    feedEnd.hidden = !(filtered.length > 0 && shown >= filtered.length);
+  }
+
   function renderMore() {
+    var hadFocus = document.activeElement === showMore;
+    /** @type {HTMLElement|null} */
+    var firstNew = null;
     var slice = filtered.slice(shown, shown + PAGE_SIZE);
     if (slice.length) {
       var fragment = document.createDocumentFragment();
       var nowMs = Date.now();
-      slice.forEach(function (item) { fragment.appendChild(renderItem(item, nowMs)); });
+      for (var i = 0; i < slice.length; i += 1) {
+        var node = renderItem(slice[i], nowMs);
+        if (i === 0) firstNew = node;
+        fragment.appendChild(node);
+      }
       feedList.appendChild(fragment);
       shown += slice.length;
     }
     var more = shown < filtered.length;
     showMore.hidden = !more || Boolean(observer);
+    updateFeedEnd();
+    // The "Show more" fallback disappears with the last batch while it has focus: focus moves to
+    // the first item it loaded, so the keyboard carries on in reading order.
+    if (hadFocus && showMore.hidden) {
+      var firstLink = firstNew ? /** @type {HTMLElement|null} */ (firstNew.querySelector('.item-link')) : null;
+      focusOn(firstLink || mainEl, true);
+    }
     if (more && observer) window.requestAnimationFrame(fillIfSentinelVisible);
   }
 
@@ -1460,34 +2154,52 @@ var CURANET_HELPERS = (function () {
   /** The empty message depends on why the list is empty. */
   function updateEmptyState() {
     var listEmpty = (view === 'saved' && savedIds.length === 0) || (view === 'following' && followingIds.length === 0);
-    emptyText.textContent = t(view === 'saved' && listEmpty ? 'nothingSaved' : view === 'following' && listEmpty ? 'notFollowing' : 'emptyTitle');
+    var key = 'nothingHere';
+    if (view === 'saved' && listEmpty) key = 'nothingSaved';
+    else if (view === 'following' && listEmpty) key = 'notFollowing';
+    else if (searchWords.length) key = 'noResults';
+    emptyText.textContent = t(key);
     clearButton.hidden = listEmpty;
     manageFollowingButton.hidden = !(view === 'following' && listEmpty);
-    feedPanel.hidden = filtered.length === 0;
+    // With neither button the row takes no room, so the text sits in the middle of the live block.
+    emptyActions.hidden = clearButton.hidden && manageFollowingButton.hidden;
   }
 
   /**
    * Recompute the list from the current view and filters and render the first page.
-   * @param {boolean} [scrollUp]   true when the visitor changed a filter.
+   * @param {boolean} [scrollUp]     true when the visitor changed a filter.
+   * @param {boolean} [replaceUrl]   true when the address is only made canonical (no history entry).
    */
-  function refresh(scrollUp) {
+  function refresh(scrollUp, replaceUrl) {
     searchWords = fold(state.q).split(/\s+/).filter(Boolean);
     filtered = FEED_VIEWS[view] ? collectItems() : [];
     shown = 0;
     clear(feedList);
+    // A category page's leading video sits flush with the card's top (styles.css).
+    feedPanel.classList.toggle('is-category', view === 'feed' && Boolean(state.c));
     emptyState.hidden = filtered.length > 0;
     updateEmptyState();
     storageHint.hidden = storageOk || !(view === 'saved' || view === 'following');
     renderMore();
     announceCount();
-    writeUrlState();
-    if (scrollUp && window.scrollY > 0) {
-      try {
-        window.scrollTo({ top: 0, behavior: 'auto' });
-      } catch (e) {
-        window.scrollTo(0, 0);
-      }
-    }
+    writeUrlState(replaceUrl);
+    if (scrollUp) scrollToTop();
+  }
+
+  function clearFilters() {
+    state.c = '';
+    state.s = '';
+    state.lang = '';
+    state.loc = '';
+    state.type = 'both';
+    state.q = '';
+    syncControls();
+    markActiveTab();
+    renderSections();
+    setFeedHeading();
+    refresh(true);
+    // The button that was pressed disappears with the empty message; keep focus in the page.
+    if (emptyState.hidden) focusOn(mainEl, true);
   }
 
   function setupInfiniteScroll() {
@@ -1509,7 +2221,7 @@ var CURANET_HELPERS = (function () {
   /** The edits in progress: "category/subcategory" → true. Discarded by Cancel. */
   /** @type {Record<string, boolean>} */
   var draft = Object.create(null);
-  /** @type {{category: FeedCategory, row: HTMLElement, button: HTMLElement, body: HTMLElement, badge: HTMLElement, boxes: {input: HTMLInputElement, label: HTMLElement, sub: Named}[]}[]} */
+  /** @type {ManageRow[]} */
   var manageRows = [];
   var manageShowOnlyFollowing = false;
 
@@ -1525,13 +2237,13 @@ var CURANET_HELPERS = (function () {
     manageRows.forEach(function (row) {
       var n = 0;
       row.boxes.forEach(function (box) { if (draft[box.input.value]) n += 1; });
-      row.badge.textContent = String(n);
-      row.badge.setAttribute('aria-label', t('followedInCategory', { n: formatNumber(n) }));
+      row.badge.textContent = formatNumber(n);
+      row.badgeText.textContent = t('followedInCategory', { n: formatNumber(n) });
     });
   }
 
   /**
-   * @param {{category: FeedCategory, row: HTMLElement, button: HTMLElement, body: HTMLElement, badge: HTMLElement, boxes: {input: HTMLInputElement, label: HTMLElement, sub: Named}[]}} row
+   * @param {ManageRow} row
    * @param {boolean} open
    */
   function setRowOpen(row, open) {
@@ -1540,7 +2252,7 @@ var CURANET_HELPERS = (function () {
     row.row.classList.toggle('is-open', open);
   }
 
-  /** Apply the search words and the All / Following toggle to the accordion. */
+  /** Apply the search words and the All / Following pills to the accordion. */
   function filterManageRows() {
     var query = fold(manageSearch.value.trim());
     var visible = 0;
@@ -1562,91 +2274,75 @@ var CURANET_HELPERS = (function () {
     manageEmpty.hidden = visible > 0;
   }
 
+  /**
+   * @param {FeedCategory} category
+   * @param {number} index
+   * @returns {ManageRow}
+   */
+  function buildManageRow(category, index) {
+    var row = cloneTemplate('tpl-acc-row');
+    var toggle = find(row, '.acc-button');
+    var body = find(row, '.acc-body');
+    var bodyId = 'acc-' + String(category.id).replace(/[^a-z0-9_-]/gi, '') + '-' + index;
+    body.id = bodyId;
+    toggle.setAttribute('aria-controls', bodyId);
+    find(row, '.acc-name').textContent = nameOf(category);
+    var grid = find(row, '.check-grid');
+    /** @type {ManageBox[]} */
+    var boxes = [];
+    (category.subcategories || []).forEach(function (sub) {
+      var label = cloneTemplate('tpl-check-item');
+      var input = /** @type {HTMLInputElement} */ (find(label, '.check-input'));
+      input.value = category.id + '/' + sub.id;
+      input.checked = Boolean(draft[input.value]);
+      input.addEventListener('change', function () {
+        draft[input.value] = input.checked;
+        updateManageCounts();
+      });
+      find(label, '.check-label').textContent = nameOf(sub);
+      grid.appendChild(label);
+      boxes.push({ input: input, label: label, sub: sub });
+    });
+    // Twelve categories mean twelve pairs of these buttons; the accessible name says which one.
+    var selectAll = find(row, '.acc-select-all');
+    selectAll.setAttribute('aria-label', t('selectAllIn', { category: nameOf(category) }));
+    selectAll.addEventListener('click', function () {
+      boxes.forEach(function (box) { if (!box.label.hidden) { box.input.checked = true; draft[box.input.value] = true; } });
+      updateManageCounts();
+    });
+    var clearAll = find(row, '.acc-clear');
+    clearAll.setAttribute('aria-label', t('clearSelectionIn', { category: nameOf(category) }));
+    clearAll.addEventListener('click', function () {
+      boxes.forEach(function (box) { if (!box.label.hidden) { box.input.checked = false; draft[box.input.value] = false; } });
+      updateManageCounts();
+      if (manageShowOnlyFollowing) filterManageRows();
+    });
+    /** @type {ManageRow} */
+    var entry = { category: category, row: row, button: toggle, body: body, badge: find(row, '.acc-badge'), badgeText: find(row, '.acc-badge-text'), boxes: boxes };
+    toggle.addEventListener('click', function () { setRowOpen(entry, toggle.getAttribute('aria-expanded') !== 'true'); });
+    setRowOpen(entry, index < 2);
+    return entry;
+  }
+
   function buildManageList() {
     clear(manageList);
-    manageRows = [];
-    DATA.categories.forEach(function (category, index) {
-      var row = el('div', 'acc');
-      var heading = el('h2', 'acc-heading');
-      var button = document.createElement('button');
-      button.type = 'button';
-      button.className = 'acc-button';
-      var bodyId = 'acc-' + String(category.id).replace(/[^a-z0-9_-]/gi, '');
-      button.setAttribute('aria-expanded', 'false');
-      button.setAttribute('aria-controls', bodyId);
-      button.appendChild(el('span', 'acc-name', nameOf(category)));
-      var badge = el('span', 'acc-badge', '0');
-      button.appendChild(badge);
-      button.appendChild(cloneTemplate('tpl-chevron-icon'));
-      heading.appendChild(button);
-      row.appendChild(heading);
-
-      var body = el('div', 'acc-body');
-      body.id = bodyId;
-      body.hidden = true;
-      var grid = el('div', 'check-grid');
-      /** @type {{input: HTMLInputElement, label: HTMLElement, sub: Named}[]} */
-      var boxes = [];
-      (category.subcategories || []).forEach(function (sub) {
-        var label = el('label', 'check');
-        var input = document.createElement('input');
-        input.type = 'checkbox';
-        input.className = 'check-input';
-        input.value = category.id + '/' + sub.id;
-        input.checked = Boolean(draft[input.value]);
-        input.addEventListener('change', function () {
-          draft[input.value] = input.checked;
-          updateManageCounts();
-        });
-        label.appendChild(input);
-        label.appendChild(el('span', 'check-box'));
-        label.appendChild(el('span', 'check-label', nameOf(sub)));
-        grid.appendChild(label);
-        boxes.push({ input: input, label: label, sub: sub });
-      });
-      body.appendChild(grid);
-      var foot = el('div', 'acc-foot');
-      // Twelve categories mean twelve pairs of these buttons; the accessible name says which one.
-      var selectAll = document.createElement('button');
-      selectAll.type = 'button';
-      selectAll.className = 'text-button';
-      selectAll.textContent = t('selectAll');
-      selectAll.setAttribute('aria-label', t('selectAllIn', { category: nameOf(category) }));
-      selectAll.addEventListener('click', function () {
-        boxes.forEach(function (box) { if (!box.label.hidden) { box.input.checked = true; draft[box.input.value] = true; } });
-        updateManageCounts();
-      });
-      var clearAll = document.createElement('button');
-      clearAll.type = 'button';
-      clearAll.className = 'text-button';
-      clearAll.textContent = t('clearSelection');
-      clearAll.setAttribute('aria-label', t('clearSelectionIn', { category: nameOf(category) }));
-      clearAll.addEventListener('click', function () {
-        boxes.forEach(function (box) { if (!box.label.hidden) { box.input.checked = false; draft[box.input.value] = false; } });
-        updateManageCounts();
-        if (manageShowOnlyFollowing) filterManageRows();
-      });
-      foot.appendChild(selectAll);
-      foot.appendChild(clearAll);
-      body.appendChild(foot);
-      row.appendChild(body);
-      manageList.appendChild(row);
-
-      var entry = { category: category, row: row, button: button, body: body, badge: badge, boxes: boxes };
-      button.addEventListener('click', function () { setRowOpen(entry, button.getAttribute('aria-expanded') !== 'true'); });
-      setRowOpen(entry, index < 2);
-      manageRows.push(entry);
-    });
+    manageRows = DATA.categories.map(buildManageRow);
+    manageRows.forEach(function (entry) { manageList.appendChild(entry.row); });
     updateManageCounts();
     filterManageRows();
+  }
+
+  /** @param {boolean} onlyFollowing */
+  function setManagePill(onlyFollowing) {
+    manageShowOnlyFollowing = onlyFollowing;
+    manageShowAll.setAttribute('aria-pressed', onlyFollowing ? 'false' : 'true');
+    manageShowFollowing.setAttribute('aria-pressed', onlyFollowing ? 'true' : 'false');
   }
 
   function openManage() {
     draft = Object.create(null);
     followingIds.forEach(function (id) { draft[id] = true; });
-    manageShowOnlyFollowing = false;
-    manageShowAll.setAttribute('aria-pressed', 'true');
-    manageShowFollowing.setAttribute('aria-pressed', 'false');
+    setManagePill(false);
     manageSearch.value = '';
     buildManageList();
   }
@@ -1662,6 +2358,7 @@ var CURANET_HELPERS = (function () {
     writeStorage(FOLLOWING_KEY, followingIds);
     rebuildFollowingSet();
     goToView('following');
+    focusOn(mainEl, true);
   }
 
   // ------------------------------------------------------------------ sources + about
@@ -1685,13 +2382,14 @@ var CURANET_HELPERS = (function () {
     DATA.sources.forEach(function (source) {
       var row = document.createElement('tr');
 
-      var nameLink = document.createElement('a');
-      nameLink.className = 'source-name';
-      nameLink.href = source.siteUrl || source.url;
-      nameLink.target = '_blank';
-      nameLink.rel = 'noopener';
-      nameLink.setAttribute('aria-describedby', 'new-tab-hint');
-      nameLink.textContent = source.name;
+      var address = isHttpAddress(source.siteUrl) ? source.siteUrl : isHttpAddress(source.url) ? source.url : '';
+      var nameLink = el(address ? 'a' : 'span', 'source-name', source.name);
+      if (address && nameLink instanceof HTMLAnchorElement) {
+        nameLink.href = address;
+        nameLink.target = '_blank';
+        nameLink.rel = 'noopener';
+        nameLink.setAttribute('aria-describedby', 'new-tab-hint');
+      }
       row.appendChild(cell(t('colName'), nameLink));
 
       row.appendChild(cell(t('colType'), t(source.type === 'youtube_channel' ? 'typeYoutubeChannel' : 'typeFeed')));
@@ -1732,7 +2430,7 @@ var CURANET_HELPERS = (function () {
   // ------------------------------------------------------------------ views
 
   /**
-   * The feed column's heading (hidden, but it names the landmark and the h1 for screen readers)
+   * The feed's heading (hidden, but it names the landmark and the h1 for screen readers)
    * follows the open view: Latest items, the category, Saved, Following or Live.
    */
   function setFeedHeading() {
@@ -1745,18 +2443,7 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * @param {Element|null} node
-   * @returns {boolean} true when the node or one of its ancestors carries the hidden attribute.
-   */
-  function isHiddenAway(node) {
-    for (var current = node; current; current = current.parentElement) {
-      if (current.hasAttribute('hidden')) return true;
-    }
-    return false;
-  }
-
-  /**
-   * Show one view: toggles the sections, the bars and the tools row, and marks the tabs.
+   * Show one view: toggles the sections and the bars, marks the tabs and the grey row.
    * @param {View} next
    * @param {boolean} moveFocus   true to put focus on the view's heading; otherwise focus only
    *                              moves (to the feed) when the element that had it is now hidden,
@@ -1766,22 +2453,20 @@ var CURANET_HELPERS = (function () {
     view = next;
     var feedVisible = Boolean(FEED_VIEWS[next]);
     var hadFocus = document.activeElement;
+    document.body.setAttribute('data-view', next);
     feedSection.hidden = !feedVisible;
     manageSection.hidden = next !== 'manage';
     sourcesSection.hidden = next !== 'sources';
     aboutSection.hidden = next !== 'about';
-    updateToolsRow();
+    typeButton.hidden = next === 'live';
     setFeedHeading();
     if (next === 'sources') renderSources();
     if (next === 'about') renderAbout();
     if (next === 'manage') openManage();
-    markActiveTab(ribbonCategories, activeTopId());
-    renderSubcategoryRibbon();
-    if (next === 'feed') markActiveTab(ribbonSubcategories, state.s);
-    else if (next === 'live') markActiveTab(ribbonSubcategories, state.s);
-    else if (next === 'saved' || next === 'following' || next === 'manage') markActiveTab(ribbonSubcategories, next === 'saved' ? 'saved' : 'following');
+    markActiveTab();
+    renderSections();
     if (moveFocus) {
-      var heading = next === 'sources' ? byId('sources-heading') : next === 'about' ? byId('about-heading') : next === 'manage' ? manageHeading : mainEl;
+      var heading = next === 'sources' ? sourcesHeading : next === 'about' ? aboutHeading : next === 'manage' ? manageHeading : mainEl;
       focusOn(heading, true);
       window.scrollTo(0, 0);
     } else if (hadFocus && hadFocus !== document.body && isHiddenAway(hadFocus)) {
@@ -1791,29 +2476,24 @@ var CURANET_HELPERS = (function () {
   }
 
   /**
-   * Switch to a view from a tab, a button or a panel link, and refresh the feed.
+   * Switch to a view from a grey-row link, a button or a menu link, and refresh the feed.
    * @param {View} next
+   * @param {boolean} [replaceUrl]   true when the address already names the view (a #hash).
    */
-  function goToView(next) {
+  function goToView(next, replaceUrl) {
     if (next !== 'feed') { state.c = ''; }
     if (next !== 'live' && next !== 'feed') state.s = '';
     // Entering Live always opens on All: a feed subcategory id such as "news" must not leak in
-    // as a Live section. Section tabs inside Live keep their choice.
+    // as a Live section. Section links inside Live keep their choice.
     if (next === 'live' && view !== 'live') state.s = '';
     showView(next, next === 'manage' || next === 'sources' || next === 'about');
-    refresh(true);
+    refresh(true, replaceUrl);
   }
 
   /** Home: the whole feed, no category. */
   function goHome() {
     selectCategory('');
-    if (window.scrollY > 0) {
-      try {
-        window.scrollTo({ top: 0, behavior: 'auto' });
-      } catch (e) {
-        window.scrollTo(0, 0);
-      }
-    }
+    scrollToTop();
   }
 
   /** "Back to the feed" from Sources or About. */
@@ -1831,8 +2511,8 @@ var CURANET_HELPERS = (function () {
       state.c = '';
       state.s = '';
     }
-    goToView(next);
-    if (CONFIG.urlState) writeUrlState();
+    goToView(next, true);
+    if (CONFIG.urlState) writeUrlState(true);
   }
 
   /**
@@ -1850,24 +2530,23 @@ var CURANET_HELPERS = (function () {
     readUrlState();
     syncControls();
     showView(view, false);
-    refresh(false);
+    refresh(false, true);
   }
 
-  /**
-   * A link's #token (a panel link or a back link), as a view.
-   * @param {Element} link
-   * @returns {View|null}
-   */
-  function viewFromLink(link) {
-    var href = link.getAttribute('href') || '';
-    return href.charAt(0) === '#' ? viewFromToken(href.slice(1)) : null;
+  /** The header controls follow the state: location label, language hint, toggle glyph, search words. */
+  function syncControls() {
+    syncLocMenu();
+    syncLangList();
+    syncTypeButton();
+    searchInput.value = state.q;
+    if (state.q && searchForm.hidden) setSearchOpen(true, false);
   }
 
-  // ------------------------------------------------------------------ settings panel
+  // ------------------------------------------------------------------ settings dialog
 
-  var supportsDialog = typeof panel.showModal === 'function';
+  var supportsDialog = typeof dialog.showModal === 'function';
 
-  function openPanel() {
+  function openDialog() {
     /** @type {{lang?: string, loc?: string}} */
     var prefs = loadPrefs() || {};
     prefLang.value = typeof prefs.lang === 'string' && DATA.languages.indexOf(prefs.lang) >= 0 ? prefs.lang : '';
@@ -1878,92 +2557,146 @@ var CURANET_HELPERS = (function () {
     var barRadio = /** @type {HTMLInputElement} */ (byId('subcat-' + settings.subcatBar));
     barRadio.checked = true;
     if (supportsDialog) {
-      if (!panel.open) panel.showModal();
+      if (!dialog.open) dialog.showModal();
     } else {
-      panel.classList.add('panel-fallback');
-      panel.setAttribute('open', '');
+      dialog.classList.add('dialog-fallback');
+      dialog.setAttribute('open', '');
       document.addEventListener('keydown', onFallbackKeydown);
       document.addEventListener('click', onFallbackOutsideClick, true);
     }
-    profileButton.setAttribute('aria-expanded', 'true');
     focusOn(themeRadio, true);
   }
 
-  function closePanel() {
+  function closeDialog() {
     if (supportsDialog) {
-      if (panel.open) panel.close();
+      if (dialog.open) dialog.close();
       return;
     }
-    panel.removeAttribute('open');
+    dialog.removeAttribute('open');
     document.removeEventListener('keydown', onFallbackKeydown);
     document.removeEventListener('click', onFallbackOutsideClick, true);
-    onPanelClosed();
+    onDialogClosed();
   }
 
-  /** True while a panel link is taking the visitor to a view, so focus goes there and not back to the avatar. */
-  var leavingPanelForView = false;
-
-  function onPanelClosed() {
-    profileButton.setAttribute('aria-expanded', 'false');
-    if (!leavingPanelForView) profileButton.focus();
-    leavingPanelForView = false;
-  }
-
-  /**
-   * A Settings link (Saved, Following, Sources, About): close the panel and open the view directly.
-   * @param {Event} event
-   * @param {Element} link
-   */
-  function onPanelLinkClick(event, link) {
-    var next = viewFromLink(link);
-    if (!next) { closePanel(); return; }
-    event.preventDefault();
-    // With a real <dialog> the close event (which returns focus to the avatar) is still to come
-    // after close(); without one, closePanel runs onPanelClosed right away.
-    var closeEventPending = supportsDialog && panel.open;
-    leavingPanelForView = true;
-    closePanel();
-    leavingPanelForView = closeEventPending;
-    goToView(next);
-    if (next === 'saved' || next === 'following') focusOn(mainEl, true);
+  /** The Settings row that opened the dialog sits in the closed avatar menu, so focus returns to the avatar. */
+  function onDialogClosed() {
+    focusOn(avatarButton, true);
   }
 
   /** @param {KeyboardEvent} event */
   function onFallbackKeydown(event) {
-    if (event.key === 'Escape' || event.key === 'Esc') closePanel();
+    if (event.key === 'Escape' || event.key === 'Esc') closeDialog();
   }
 
   /** @param {MouseEvent} event */
   function onFallbackOutsideClick(event) {
-    var target = /** @type {Node|null} */ (event.target);
-    if (target && !panel.contains(target) && target !== profileButton && !profileButton.contains(target)) closePanel();
+    var target = /** @type {Node|null} */ (event.target instanceof Node ? event.target : null);
+    if (target && !dialog.contains(target) && target !== avatarButton && !avatarButton.contains(target)) closeDialog();
   }
 
+  /**
+   * Store the preferences and apply them to the open page at once, so the address follows: an
+   * address written from an earlier preference would otherwise keep it on every reload.
+   */
   function savePreferences() {
     var ok = writeStorage(PREFS_KEY, { lang: prefLang.value, loc: prefLoc.value });
     prefNote.textContent = ok ? t('saved') : t('prefsUnavailable');
+    var lang = DATA.languages.indexOf(prefLang.value) >= 0 ? prefLang.value : '';
+    var loc = DATA.countries.indexOf(prefLoc.value) >= 0 ? prefLoc.value : '';
+    if (lang === state.lang && loc === state.loc) return;
+    state.lang = lang;
+    state.loc = loc;
+    syncControls();
+    refresh(true);
   }
 
-  function saveSettings() {
-    writeStorage(SETTINGS_KEY, settings);
+  /**
+   * @param {HTMLSelectElement} select
+   * @param {string[]} codes
+   * @param {'language'|'region'} kind
+   * @param {string} allLabel
+   */
+  function fillSelect(select, codes, kind, allLabel) {
+    clear(select);
+    var all = document.createElement('option');
+    all.value = '';
+    all.textContent = allLabel;
+    select.appendChild(all);
+    namedCodes(codes, kind).forEach(function (entry) {
+      var option = document.createElement('option');
+      option.value = entry.code;
+      option.textContent = entry.label;
+      select.appendChild(option);
+    });
+  }
+
+  // ------------------------------------------------------------------ keyboard
+
+  /**
+   * Escape closes whatever is open: the Menu panel, a dropdown, the search field (while it has
+   * focus), then the newest toast, which leaves focus where it is. The Settings dialog handles its
+   * own Escape.
+   */
+  function onDocumentKeydown(event) {
+    if (event.key !== 'Escape' && event.key !== 'Esc') return;
+    if (!menuPanel.hidden) {
+      event.preventDefault();
+      closeMenuPanel(true);
+      return;
+    }
+    if (openMenu) {
+      event.preventDefault();
+      openMenu.close(true);
+      return;
+    }
+    if (!searchForm.hidden && searchForm.contains(document.activeElement)) {
+      event.preventDefault();
+      setSearchOpen(false);
+      return;
+    }
+    if (liveToasts.length && !dialog.hasAttribute('open')) {
+      event.preventDefault();
+      liveToasts[liveToasts.length - 1].dismiss();
+    }
+  }
+
+  /**
+   * A click on the dialog element itself is either on its backdrop or on its own 24px padding;
+   * only a click outside its box closes it.
+   * @param {MouseEvent} event
+   */
+  function onDialogClick(event) {
+    if (event.target !== dialog) return;
+    var box = dialog.getBoundingClientRect();
+    var outside = event.clientX < box.left || event.clientX > box.right || event.clientY < box.top || event.clientY > box.bottom;
+    if (outside) closeDialog();
   }
 
   // ------------------------------------------------------------------ wiring
 
-  /** Keeps --header-h equal to the sticky bars' height so focused items scroll out from under them. */
-  function trackHeaderHeight() {
-    var apply = function () { document.documentElement.style.setProperty('--header-h', siteHeader.offsetHeight + 'px'); };
-    apply();
-    if (typeof ResizeObserver === 'function') new ResizeObserver(apply).observe(siteHeader);
-    else window.addEventListener('resize', apply);
+  /**
+   * Bind the in-page links under `root` (href="#view") to click handlers. In-page navigation never
+   * relies on the #hash: a fragment navigation would be swallowed by popstate on the hosted site
+   * and does nothing in the preview once the hash already matches.
+   * @param {ParentNode} root
+   */
+  function bindInPageLinks(root) {
+    var links = root.querySelectorAll('a[href^="#"]');
+    for (var i = 0; i < links.length; i += 1) {
+      (function (link) {
+        link.addEventListener('click', function (event) { onMenuLinkClick(event, link); });
+      })(links[i]);
+    }
   }
 
   function init() {
+    // Strings first: everything below may replace a data-t text with a state-dependent one (the
+    // theme row reads "Light Mode" on a dark page), and must not be overwritten afterwards.
+    if (!document.documentElement.lang) document.documentElement.lang = UI_LANG;
+    applyStrings(document);
     applyTheme();
     applySubcatBarSetting();
     trackHeaderHeight();
-    if (!document.documentElement.lang) document.documentElement.lang = UI_LANG;
-    applyStrings(document);
 
     var hadFilters = hasFilterParams();
     readUrlState();
@@ -1982,59 +2715,68 @@ var CURANET_HELPERS = (function () {
       }
     }
 
-    fillSelect(langSelect, DATA.languages, 'language', t('allLanguages'));
-    fillSelect(locSelect, DATA.countries, 'region', t('allLocations'));
+    buildLocMenu();
+    buildLangList();
     fillSelect(prefLang, DATA.languages, 'language', t('allLanguages'));
-    fillSelect(prefLoc, DATA.countries, 'region', t('allLocations'));
-    renderCategoryRibbon();
+    fillSelect(prefLoc, DATA.countries, 'region', t('world'));
+    renderTabs();
+    buildMenuPanel();
+    setupDragScroll();
     syncControls();
-    placeControls();
 
-    langSelect.addEventListener('change', function () { state.lang = langSelect.value; refresh(true); });
-    locSelect.addEventListener('change', function () { state.loc = locSelect.value; refresh(true); });
-    typeButton.addEventListener('click', cycleType);
+    // The blue bar.
+    brandLink.addEventListener('click', function (event) { event.preventDefault(); goHome(); });
+    searchToggle.addEventListener('click', function () { setSearchOpen(searchForm.hidden); });
     searchForm.addEventListener('submit', function (event) { event.preventDefault(); applySearch(); });
     searchInput.addEventListener('search', applySearch);
     searchInput.addEventListener('input', function () { if (searchInput.value === '' && state.q) applySearch(); });
-    searchToggle.addEventListener('click', toggleMobileSearch);
+    typeButton.addEventListener('click', cycleType);
+    langButton.addEventListener('click', function () { setLangListOpen(langList.hidden); });
+    themeToggle.addEventListener('click', toggleTheme);
+    settingsButton.addEventListener('click', function () {
+      avatarMenuController.close(false);
+      openDialog();
+    });
+    bindInPageLinks(avatarMenu);
+    // The blue bar stays usable above the Menu panel: any click in it closes the panel first, so
+    // a menu it opens is not hidden under the panel and a feed change is not made behind it.
+    topbar.addEventListener('click', function () { if (!menuPanel.hidden) closeMenuPanel(false); }, true);
+    if (darkQuery && typeof darkQuery.addEventListener === 'function') darkQuery.addEventListener('change', syncThemeToggle);
+    document.addEventListener('mousedown', onPointerDownOutside);
+    document.addEventListener('touchstart', onPointerDownOutside, { passive: true });
+    document.addEventListener('keydown', onDocumentKeydown);
+    document.addEventListener('visibilitychange', onVisibilityChange);
+
+    // The tabs bar and the Menu panel.
+    menuButton.addEventListener('click', function () {
+      if (menuPanel.hidden) openMenuPanel();
+      else closeMenuPanel(true);
+    });
+    menuPanelClose.addEventListener('click', function () { closeMenuPanel(true); });
+    menuPanel.addEventListener('keydown', onMenuPanelKeydown);
+    bindInPageLinks(panelMore);
+
+    // The feed.
     clearButton.addEventListener('click', clearFilters);
     manageFollowingButton.addEventListener('click', function () { goToView('manage'); });
-    navPrev.addEventListener('click', function () { if (navPrev.getAttribute('aria-disabled') !== 'true') scrollRibbon(-1); });
-    navNext.addEventListener('click', function () { if (navNext.getAttribute('aria-disabled') !== 'true') scrollRibbon(1); });
-    ribbonCategories.addEventListener('scroll', updateArrows, { passive: true });
-    window.addEventListener('resize', function () { placeControls(); });
-    try {
-      var mq = window.matchMedia(PHONE_QUERY);
-      if (typeof mq.addEventListener === 'function') mq.addEventListener('change', placeControls);
-    } catch (e) {
-      // resize covers it
+    var backLinks = document.querySelectorAll('.back-link');
+    for (var b = 0; b < backLinks.length; b += 1) {
+      backLinks[b].addEventListener('click', function (event) { event.preventDefault(); backToFeed(); });
     }
 
-    manageCancel.addEventListener('click', function () { goToView('following'); });
+    // Manage Following.
+    manageCancel.addEventListener('click', function () { goToView('following'); focusOn(mainEl, true); });
     manageSave.addEventListener('click', saveManage);
     manageSearch.addEventListener('input', filterManageRows);
-    manageShowAll.addEventListener('click', function () {
-      manageShowOnlyFollowing = false;
-      manageShowAll.setAttribute('aria-pressed', 'true');
-      manageShowFollowing.setAttribute('aria-pressed', 'false');
-      filterManageRows();
-    });
-    manageShowFollowing.addEventListener('click', function () {
-      manageShowOnlyFollowing = true;
-      manageShowAll.setAttribute('aria-pressed', 'false');
-      manageShowFollowing.setAttribute('aria-pressed', 'true');
-      filterManageRows();
-    });
+    manageShowAll.addEventListener('click', function () { setManagePill(false); filterManageRows(); });
+    manageShowFollowing.addEventListener('click', function () { setManagePill(true); filterManageRows(); });
 
-    profileButton.addEventListener('click', function () {
-      if (profileButton.getAttribute('aria-expanded') === 'true') closePanel();
-      else openPanel();
-    });
-    profileClose.addEventListener('click', closePanel);
+    // The Settings dialog.
+    profileClose.addEventListener('click', closeDialog);
     prefSave.addEventListener('click', savePreferences);
-    panel.addEventListener('close', onPanelClosed);
-    panel.addEventListener('click', function (event) { if (event.target === panel) closePanel(); });
-    panel.addEventListener('change', function (event) {
+    dialog.addEventListener('close', onDialogClosed);
+    dialog.addEventListener('click', onDialogClick);
+    dialog.addEventListener('change', function (event) {
       var target = /** @type {HTMLInputElement} */ (event.target);
       if (!target || target.type !== 'radio') return;
       if (target.name === 'theme' && (target.value === 'light' || target.value === 'dark' || target.value === 'system')) {
@@ -2047,26 +2789,6 @@ var CURANET_HELPERS = (function () {
         saveSettings();
       }
     });
-    // In-page navigation goes through click handlers, never through the #hash: a fragment
-    // navigation would be swallowed by popstate on the hosted site and does nothing in the preview
-    // once the hash already matches. The hrefs stay as a fallback without scripts.
-    var panelLinks = panel.querySelectorAll('.panel-link');
-    for (var i = 0; i < panelLinks.length; i += 1) {
-      (function (link) {
-        link.addEventListener('click', function (event) { onPanelLinkClick(event, link); });
-      })(panelLinks[i]);
-    }
-    var backLinks = document.querySelectorAll('.back-link');
-    for (var b = 0; b < backLinks.length; b += 1) {
-      backLinks[b].addEventListener('click', function (event) { event.preventDefault(); backToFeed(); });
-    }
-    brandLink.addEventListener('click', function (event) { event.preventDefault(); goHome(); });
-    // A tab reached with the keyboard must not sit under the pinned avatar block on phones.
-    ribbonCategories.addEventListener('focusin', function (event) {
-      var target = /** @type {Element|null} */ (event.target instanceof Element ? event.target : null);
-      var tab = target ? target.closest('.tab') : null;
-      if (tab) revealTab(ribbonCategories, /** @type {HTMLElement} */ (tab));
-    });
 
     skipLink.addEventListener('click', function (event) {
       event.preventDefault();
@@ -2077,8 +2799,8 @@ var CURANET_HELPERS = (function () {
 
     setupInfiniteScroll();
     showView(view, false);
-    refresh(false);
-    if (hashView && CONFIG.urlState) writeUrlState();
+    refresh(false, true);
+    if (hashView && CONFIG.urlState) writeUrlState(true);
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
