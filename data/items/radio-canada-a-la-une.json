@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "6b3b95172e182408",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291582/espagne-retraitee-expulsee-origine-protestations-logement-morte",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291582/espagne-retraitee-expulsee-origine-protestations-logement-morte",
+      "title": "Espagne : la retraitée expulsée à l’origine des protestations sur le logement est morte",
+      "excerpt": "Maricarmen était devenue un symbole de la crise du logement.",
+      "published": "2026-10-07T21:31:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/maricarmen-abascal-espagne.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T22:26:42.262Z"
+    },
+    {
+      "id": "a0f5759060803903",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291565/soupcon-peste-russie-oms",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291565/soupcon-peste-russie-oms",
+      "title": "Soupçon de peste en Russie : l’OMS « pas en mesure » d’évaluer complètement les risques",
+      "excerpt": "La peste pulmonaire est très contagieuse et peut être mortelle si elle n'est pas traitée rapidement.",
+      "published": "2026-10-07T21:06:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/tedros-adhanom-ghebreyesus-60472.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T22:26:42.262Z"
+    },
+    {
       "id": "7079b618218157a8",
       "guid": "https://ici.radio-canada.ca/nouvelle/2291544/etats-unis-execution-ratee-christa-pike-debranchee-hopital",
       "link": "https://ici.radio-canada.ca/nouvelle/2291544/etats-unis-execution-ratee-christa-pike-debranchee-hopital",
@@ -56,6 +78,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/frappes-russes-ukraine.jpg",
       "type": "article",
       "addedAt": "2026-10-07T19:29:07.807Z"
+    },
+    {
+      "id": "51570bf5f1873809",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291514/benadryl-deces-drummondville-coroner",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291514/benadryl-deces-drummondville-coroner",
+      "title": "Un décès par surdose de Benadryl à Drummondville",
+      "excerpt": "Michel Richard, 61 ans, a été retrouvé sans vie dans une toilette de l’organisme l’Ensoleilvent le 24 juin.",
+      "published": "2026-10-07T18:59:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/allee-medicaments-pharmacie-tylenol-london-drug-3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T22:26:42.262Z"
     },
     {
       "id": "e813b6a9cbf7d695",

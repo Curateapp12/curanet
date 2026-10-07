@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "1f8b08c4d8caacd6",
+      "guid": "https://globalnews.ca/?p=12089659",
+      "link": "https://globalnews.ca/news/12089659/usask-professor-recognized-for-pediatric-stem-cell-research/",
+      "title": "USask professor recognized for pediatric stem cell research",
+      "excerpt": "Big strides in children's healthcare as USask's Dr. Tyler Wenzel is awarded for rethinking treatments for rare pediatric diseases.",
+      "published": "2026-10-07T22:12:37.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/ped-brain-disease-web-payton.png",
+      "type": "article",
+      "addedAt": "2026-10-07T22:26:42.262Z"
+    },
+    {
+      "id": "1a2f6a80fa596085",
+      "guid": "https://globalnews.ca/?p=12090870",
+      "link": "https://globalnews.ca/news/12090870/ford-government-used-leverage-over-taxpayer-funded-company-to-extract-political-benefit-legal-letter/",
+      "title": "Ford government used “leverage” over taxpayer-funded company to extract political benefit: legal letter",
+      "excerpt": "In January 2025, as Premier Ford was preparing to call a snap election, Ford’s then chief of staff placed a phone call to discuss provincial funding along with a “favour.”",
+      "published": "2026-10-07T22:00:30.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2022/07/20220728110740-62e2ae22d49b497192101f48jpeg.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-07T22:26:42.262Z"
+    },
+    {
+      "id": "ecf46a6efae85a84",
+      "guid": "https://globalnews.ca/?p=12091241",
+      "link": "https://globalnews.ca/news/12091241/manitoba-pc-dedicated-crown-property-crime/",
+      "title": "Manitoba PCs propose dedicated Crown unit for property crime",
+      "excerpt": "Manitoba's Opposition PC party said it will form a Crown attorney division to prosecute property crime. In response, the governing NDP said the PCs have 'no leg to stand on.'",
+      "published": "2026-10-07T21:59:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/manitoba-pc-property-crime-prosecutors.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-07T22:26:42.262Z"
+    },
+    {
+      "id": "3011270ea59b5a22",
+      "guid": "https://globalnews.ca/?p=12091811",
+      "link": "https://globalnews.ca/news/12091811/lawyer-quebec-legislature-oath-king/",
+      "title": "Lawyer seeks order forcing Quebec legislature members to swear oath to the King",
+      "excerpt": "Lawyers are seeking an emergency order from Quebec Superior Court that would require newly elected members of the provincial legislature to swear an oath of allegiance to the King.",
+      "published": "2026-10-07T21:45:52.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/2656a052d8a73f504ff414176fc26aa7692c2104c1fbff1740b4d14ad4f6c0a9.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-07T22:26:42.262Z"
+    },
+    {
+      "id": "037729a63cc062df",
+      "guid": "https://globalnews.ca/?p=12091495",
+      "link": "https://globalnews.ca/news/12091495/toronto-mayoral-race-narrows-to-chow-bradford-showdown/",
+      "title": "Toronto mayoral race narrows to Chow-Bradford showdown",
+      "excerpt": "A head-to-head battle between the two has been brewing for weeks, as no other clear front-runners have managed to break through to voters, according to recent polling.",
+      "published": "2026-10-07T21:43:35.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/bradford_chow.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-07T22:26:42.262Z"
+    },
+    {
       "id": "4866041bc4f923f2",
       "guid": "https://globalnews.ca/?p=12091569",
       "link": "https://globalnews.ca/news/12091569/saskatoon-tribal-council-child-family-reform/",
