@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "89079de9ee9609a2",
+      "guid": "5cd06812-b68d-4d0f-8b46-5f536629bf27",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-nowaja-gaseta-politkowskaja-100.html",
+      "title": "20 Jahre Mord an Politkowskaja: \"In Russland gibt es keine Presse\"",
+      "excerpt": "Auch 20 Jahre nach dem Mord an ihrer Journalistin Anna Politkowskaja versucht die Nowaja Gaseta, weiter in Russland zu berichten. Trotz Zensur, Lizenzentzug - und der ständigen Gefahr für das eigene Leben. Von Norbert Hahn.",
+      "published": "2026-10-07T17:42:13.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ca057122-06ea-4cb7-b0e1-731659a7cf6e/AAABoRdDMlw/AAABnSSvrFg/16x9-big/politkowskaja-bildschirm-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-07T18:33:31.956Z"
+    },
+    {
+      "id": "77ebc873950bf639",
+      "guid": "b2f8ff73-ea5f-49ef-9300-b2a62e723364",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-ueberfall-hamas-zikim-100.html",
+      "title": "Hamas-Überfall auf Israel: Der Strand, an dem der 7. Oktober begann",
+      "excerpt": "In Zikim griff die Hamas am 7. Oktober 2023 Israel vom Meer aus an. 18 Menschen starben dort, doch der Versuch der Terroristen, in den Kibbuz vorzudringen, scheiterte. Wie schaut man heute auf die dramatischen Stunden? Von B. Meier.",
+      "published": "2026-10-07T17:31:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b021ebad-2e98-4227-bb08-040c732b961b/AAABoRYAt5w/AAABnSSvrFg/16x9-big/strand-zikim-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-07T18:33:31.956Z"
+    },
+    {
       "id": "49a6c1184df9cc6a",
       "guid": "tagesschau_fm-story-rbb_berlin-gedenken-terroranschlag-7-oktober-israel-hamas",
       "link": "https://www.tagesschau.de/inland/gesellschaft/hamas-anschlag-auf-israel-gedenken-in-berlin-100.html",
