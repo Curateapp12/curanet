@@ -137,6 +137,32 @@ From then on the **Hourly fetch** workflow (in the **Actions** tab) runs every h
 items to `main` and shows a green check or a red cross for each run. To pause it, delete the
 variable. You can also run it once by hand: **Actions** → **Hourly fetch** → **Run workflow**.
 
+## Putting the website online (GitHub Pages)
+
+The website can be published by GitHub itself, with no other service, at
+https://curateapp12.github.io/curanet/ . Once it is on, it updates on its own after every merge and
+after every hourly fetch, and videos play inside the page. The website is public: anyone with the
+address can open it. Your private preview stays private.
+
+On GitHub's free plan, Pages only works for a **public** repository. Making the repository public
+lets anyone read its files (code, data, documents) and its history, which includes the e-mail
+address `curateapp12@gmail.com` on the merges you made. Secrets such as `YOUTUBE_API_KEY` stay
+secret. The other way is a paid GitHub plan (GitHub Pro), which keeps the repository private;
+the website is public either way.
+
+1. Repository → **Settings** → **General** → scroll to **Danger Zone** → **Change visibility** →
+   **Change to public**, then confirm. (Skip this if you have a paid plan.)
+2. Repository → **Settings** → **Pages** → under **Build and deployment**, set **Source** to
+   **GitHub Actions**. Nothing else on that page needs changing.
+3. Repository → **Actions** → **Publish website** (left column) → **Run workflow** → green **Run
+   workflow** button. After a minute or two the run shows a green check.
+4. Open https://curateapp12.github.io/curanet/ .
+
+To take the website offline again: **Settings** → **Pages** → **Unpublish site** (or set
+**Source** back to **Deploy from a branch** with no branch). The domain curanet.io currently shows
+another site; pointing it here is a later, separate step (**Settings** → **Pages** → **Custom
+domain**, plus a change at the company where the domain is registered).
+
 ## Where the preview lives
 
 The preview is a private artifact in Claude. Its address is recorded in `docs/PREVIEW.md` so that

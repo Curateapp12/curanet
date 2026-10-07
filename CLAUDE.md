@@ -26,6 +26,8 @@ exactly when touching the site.
   fetch). `docs/ADMIN_GUIDE.md` explains them in plain language.
 - The preview is a single HTML file published as a **private** artifact for the owner only. It
   contains copies of publishers' images, so it is never committed (`preview/` is git-ignored).
+- The website (the hosted build, `dist/`) is published only through GitHub Pages from this
+  repository (`.github/workflows/pages.yml`), and only once the owner has switched Pages on.
 
 ## YouTube
 
