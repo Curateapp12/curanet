@@ -3,6 +3,61 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "de3fdd5b6716431b",
+      "guid": "21c2603a-c2a3-11f1-946f-d3c7eae583c0",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261007-etats-unis-d%C3%A9mocrates-poursuivent-plainte-donald-trump-publicites-payees-par-contribuables-propagande-dnc-fonds-publics-midterms",
+      "title": "États-Unis : les démocrates poursuivent Trump pour des publicités payées par les contribuables",
+      "excerpt": "Le Comité national du Parti démocrate (DNC) a déposé une plainte, mercredi, contre le président américain Donald Trump. Il l'accuse de \"violation flagrante\" de l'interdiction de s'approprier des fonds publics pour des publicités à sa gloire, et notamment en période électorale.",
+      "published": "2026-10-07T23:22:02.000Z",
+      "thumbnail": "https://s.france24.com/media/display/261b49f2-9f5e-11f1-9aa4-005056bfb2b6/w:1024/p:16x9/AFP-20260814-C4PM77A-v3-MidRes-TopshotUsPoliticsTrump.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T23:24:54.005Z"
+    },
+    {
+      "id": "9f94ccc2b27b7e4f",
+      "guid": "5a52d23c-c29d-11f1-a44a-9378367df39c",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261007-plus-jamais-bolsonaro-des-milliers-de-manifestants-mobilis%C3%A9s-avant-le-second-tour-au-br%C3%A9sil",
+      "title": "\"Plus jamais Bolsonaro\" : des milliers de manifestants mobilisés avant le second tour au Brésil",
+      "excerpt": "Portant des autocollants proclamant par exemple \"Non au père, non au fils\", des milliers de Brésiliens ont participé mercredi à la manifestation convoquée à Rio de Janeiro par des organisations étudiantes. Ils appellent à faire barrage au sénateur conservateur Flavio Bolsonaro, arrivé en tête au…",
+      "published": "2026-10-07T22:20:49.000Z",
+      "thumbnail": "https://s.france24.com/media/display/593f6180-c29d-11f1-a399-27c2853ad5a5/w:1024/p:16x9/f9e712e4c94183179d3b7387b3b51445572c4a74.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T23:24:54.005Z"
+    },
+    {
+      "id": "019f7a2048cc2ea8",
+      "guid": "08574206-c29d-11f1-9652-899d15690a48",
+      "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261007-gaza-plus-de-8-b%C3%A2timents-sur-10-endommag%C3%A9s-ou-d%C3%A9truits",
+      "title": "Gaza : plus de 8 bâtiments sur 10 endommagés ou détruits",
+      "excerpt": "Après l’attaque menée par le Hamas le 7 octobre 2023, Israël a lancé une offensive avec plusieurs objectifs affichés : ramener les otages, démanteler les capacités militaires du Hamas et faire en sorte que Gaza ne puisse plus constituer une menace pour Israël. Trois ans après, le moins que l'on…",
+      "published": "2026-10-07T22:18:30.000Z",
+      "thumbnail": "https://s.france24.com/media/display/d3ec99ea-c29b-11f1-bc38-ef6152f87623/w:1024/p:16x9/FRAN261007-2339-Live-CS2339.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T23:24:54.005Z"
+    },
+    {
+      "id": "3213f6f12bb17057",
+      "guid": "5aa8c1cc-c295-11f1-a7b6-8d4d5b582ba2",
+      "link": "https://www.france24.com/fr/moyen-orient/20261007-nostalgie-resilience-hommage-commemoration-7-octobre-israel-netanyahu-benyamin-elections-legislatives-gaza-hamas",
+      "title": "Nostalgie, résilience et tensions politiques : Israël rend hommage aux victimes du 7-Octobre",
+      "excerpt": "Israël a commémoré mercredi les attaques du Hamas survenues sur son territoire le 7 octobre 2023, dont le souvenir pèse sur la campagne des élections législatives. Civils et proches des victimes se sont recueillis sur le site du festival de musique électronique Nova, où 348 jeunes gens avaient été…",
+      "published": "2026-10-07T21:37:27.000Z",
+      "thumbnail": "https://s.france24.com/media/display/e1f2533c-c295-11f1-a6e3-27c2853ad5a5/w:1024/p:16x9/2026-10-07T201700Z-641476812-RC2JYNANODBH-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA-CEREMONY.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T23:24:54.005Z"
+    },
+    {
+      "id": "244c4d55f15d15fd",
+      "guid": "08738248-c28b-11f1-b82d-59aac4d2b4ca",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261007-russie-les-soup%C3%A7ons-de-peste-contaminent-les-r%C3%A9seaux-sociaux",
+      "title": "Russie : les soupçons de peste contaminent les réseaux sociaux",
+      "excerpt": "La Russie est appelée, de la part de l'OMS, de l'Union européenne et des Etats-Unis, à plus de transparence après la mort d'une technicienne de laboratoire en Sibérie. Daria Shipilova, qui travaillait à l'institut de lutte contre la peste d'Irkutsk, est décédée d'une pneumonie dont l'origine est…",
+      "published": "2026-10-07T20:49:50.000Z",
+      "thumbnail": "https://s.france24.com/media/display/f8f8ffaa-c28a-11f1-8758-ef6152f87623/w:1024/p:16x9/FRAN261007-2115-Live-CS2115.jpg",
+      "type": "article",
+      "addedAt": "2026-10-07T23:24:54.005Z"
+    },
+    {
       "id": "d7d0c0f1cf40a21d",
       "guid": "2c6a7cb8-c28d-11f1-91b2-bd8f6e6f5a78",
       "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261007-%C3%A9thiopie-des-troupes-%C3%A9rythr%C3%A9ennes-se-d%C3%A9ploient-dans-le-nord-du-tigr%C3%A9",

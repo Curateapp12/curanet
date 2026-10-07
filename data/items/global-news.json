@@ -3,6 +3,50 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "4642fabc7a6bcc66",
+      "guid": "https://globalnews.ca/?p=12091911&preview=true&preview_id=12091911",
+      "link": "https://globalnews.ca/news/12091911/alberta-voter-list-new-legislation/",
+      "title": "Premier Smith brushes off NDP’s Alberta voter list court battle, says legislation coming",
+      "excerpt": "Prior to new rules released last month, Elections Alberta was allowed to provide political parties lists with full names, addresses, phone numbers and unique voter I.D. numbers.",
+      "published": "2026-10-07T23:12:58.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP177050551.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-07T23:24:54.005Z"
+    },
+    {
+      "id": "149f36354d4fd6ac",
+      "guid": "https://globalnews.ca/?p=12090053",
+      "link": "https://globalnews.ca/news/12090053/university-of-regina-studies-new-concussion-treatment-option-cbd/",
+      "title": "University of Regina studies new concussion treatment option: CBD",
+      "excerpt": "Concerns about prevention and treatment of concussions have been growing within the last several years. Five to ten per cent of competitive student-athletes will sustain a concussion; this doesn’t include any undiagnosed head injuries. The University of Regina has been working to solve this issue…",
+      "published": "2026-10-07T22:58:06.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CBD-SS.png",
+      "type": "article",
+      "addedAt": "2026-10-07T23:24:54.005Z"
+    },
+    {
+      "id": "3a7a3db6e7d3237a",
+      "guid": "https://globalnews.ca/?p=12091011",
+      "link": "https://globalnews.ca/news/12091011/farmers-behind-on-harvest-but-optimistic-about-catching-up/",
+      "title": "Manitoba farmers behind on harvest, but optimistic about catching up",
+      "excerpt": "The most recent Manitoba Crop Report found 65 per cent of all crops have been harvested. That's 21 per cent lower than last year, and 20 per cent below the same mark in 2024.",
+      "published": "2026-10-07T22:54:15.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/09/FARMER-CHECK-IN.1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-07T23:24:54.005Z"
+    },
+    {
+      "id": "efe72d0dc8da47d9",
+      "guid": "https://globalnews.ca/?p=12091732",
+      "link": "https://globalnews.ca/news/12091732/food-insecurity-more-canadians-struggling/",
+      "title": "1 in 3 food banks, shelters forced to turn away people due to demand: survey",
+      "excerpt": "The federal government says it is reviewing the survey and said it will be responsive as Canadians navigate uncertainty in food costs.",
+      "published": "2026-10-07T22:40:13.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/food-insecurity.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-07T23:24:54.005Z"
+    },
+    {
       "id": "1f8b08c4d8caacd6",
       "guid": "https://globalnews.ca/?p=12089659",
       "link": "https://globalnews.ca/news/12089659/usask-professor-recognized-for-pediatric-stem-cell-research/",
