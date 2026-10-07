@@ -66,7 +66,12 @@ data/hidden.json ───┘            │
    with CSS and JS inlined. Thumbnails
    are downloaded (10 s each, a few at a time, cached in `.cache/thumbs/`), resized to 240 px wide
    WebP and embedded as data URIs, newest items first, until the file would pass 12 MB; older
-   items then show without a thumbnail. Videos open on YouTube in a new tab. State stays in the page.
+   items then show without a thumbnail. Videos open on YouTube in a new tab (the artifact viewer
+   forbids players from other sites). State stays in the page.
+4. **Publishing**: `.github/workflows/pages.yml` builds the hosted output on GitHub and publishes it
+   with GitHub Pages after every push to `main`, after each hourly fetch and on demand. It skips
+   itself while Pages is switched off for the repository (`docs/ADMIN_GUIDE.md` has the owner's
+   steps); the preview is never published there.
 
 The browser code is two scripts, `strings.js` (the English and French tables) and `app.js`, with a
 small `CONFIG` object injected by the build (`mode`, `urlState`, `thumbnails`, `video`, `uiLang`).
