@@ -877,7 +877,7 @@ body[data-view="live"] #type-button { display: none; }
 }
 .item-time { font-size: 12px; line-height: 16px; font-weight: 500; white-space: nowrap; font-variant-numeric: tabular-nums; }
 
-.item, .item-link, .video-preview, .action, .button { scroll-margin-top: calc(var(--header-h, 143px) + 8px); }
+.item, .item-link, .video-box, .video-preview, .action, .button { scroll-margin-top: calc(var(--header-h, 143px) + 8px); }
 
 /* Video: the player area spans the card, then the text block with its own side padding. */
 .video-box {

@@ -279,11 +279,15 @@ container edge plus 16 px padding) and a 36 px X button at the right. Body paddi
 - No side padding: the **player area** spans the card's full inner width at 16:9 (black behind
   it, shadow sm). On the hosted site it shows the video's preview picture with a red rounded play
   button (68 × 48, white triangle) in the middle, like YouTube's own; one click replaces it with
-  the privacy-enhanced YouTube player. In the preview file it is a link that opens the video on
-  YouTube in a new tab. No tint, no custom overlay.
+  the privacy-enhanced YouTube player, playing right there (inline on phones too, never in a new
+  tab). Starting another video puts the one that was playing back to its picture, so only one
+  plays at a time. In the private preview file the viewer forbids players from other sites, so
+  there the picture is a link that opens the video on YouTube in a new tab. No tint, no custom
+  overlay.
 - Under it, inside 24 px side padding (16 px on phones) and 16 px bottom padding: the publisher
   line 12 px below the player, the title (20 px / 25 px from 768 px up, 18 px / 22.5 px below, no
-  clamp, hover `#305dd2` (dark `#6393ff`), a link to the video on YouTube in a new tab) 8 px below,
+  clamp, hover `#305dd2` (dark `#6393ff`); on the hosted site pressing it plays the video in place
+  like the picture does, in the preview it opens YouTube in a new tab) 8 px below,
   then the bottom row 16 px below. A one-line video item is 638.88 px tall at 1280.
 - The player has square corners and keeps the item's 16 px top padding, as in the live home feed
   (Home, Live, "videos only"). On a category page the live site drops that padding when the first

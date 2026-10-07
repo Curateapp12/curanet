@@ -859,6 +859,25 @@ test('video items and a leading video match the live card', () => {
   assert.ok(/feedPanel\.classList\.toggle\('is-category', view === 'feed' && Boolean\(state\.c\)\);/.test(app), 'only while a category is open');
 });
 
+test('videos play in place on the hosted site: picture and headline, inline on phones, one at a time', () => {
+  const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
+  const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
+  assert.ok(app.includes("'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(item.v) + '?autoplay=1&playsinline=1&rel=0'"), 'the privacy-enhanced player starts playing, inline on phones');
+  const render = app.slice(app.indexOf('function renderVideo'), app.indexOf('function renderItem'));
+  const embedBranch = render.slice(render.indexOf("if (CONFIG.video === 'embed' && item.v) {"), render.indexOf('} else {'));
+  assert.ok(embedBranch.includes('mountPlayButton(box, item);'), 'the picture is a play button');
+  assert.ok(embedBranch.includes("link.removeAttribute('target');") && embedBranch.includes("link.removeAttribute('aria-describedby');"), 'the headline no longer opens a new tab');
+  assert.ok(/event\.preventDefault\(\);\s*embedPlayer\(box, item\);/.test(embedBranch), 'pressing the headline plays the video in place');
+  assert.ok(embedBranch.includes("link.setAttribute('role', 'button');") && embedBranch.includes("event.key !== ' '"), 'it is announced and operated as a button (Space too)');
+  assert.ok(/if \(event\.button !== 0 \|\| event\.metaKey \|\| event\.ctrlKey \|\| event\.shiftKey \|\| event\.altKey\) return;/.test(embedBranch), 'a deliberate middle- or modifier-click still reaches YouTube');
+  const embed = app.slice(app.indexOf('function embedPlayer'), app.indexOf('function renderVideo'));
+  assert.ok(/stopPlaying\(\);\s*var frame = document\.createElement\('iframe'\);/.test(embed), 'starting a video stops the one already playing');
+  assert.ok(/function stopPlaying\(\) \{[\s\S]*?mountPlayButton\(current\.box, current\.item\);/.test(app), 'which goes back to its picture and play button');
+  assert.ok(/\.video-box, \.video-preview,[^{]*\{ scroll-margin-top: calc\(var\(--header-h, 143px\) \+ 8px\); \}/.test(css), 'a player started from its headline is scrolled into view below the header');
+  // Manual check (Playwright, hosted build, 1280 and 390): pressing the picture or the headline
+  // opens no new page, the player appears in the same box, and a second video stops the first.
+});
+
 test('menus: the share menu flips to stay on screen, header menus scroll, rows match the live spacing', () => {
   const css = readFileSync(path.join(SITE_DIR, 'styles.css'), 'utf8');
   const app = readFileSync(path.join(SITE_DIR, 'app.js'), 'utf8');
