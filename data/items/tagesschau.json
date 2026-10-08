@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "8aef4bfc7a6be0c1",
+      "guid": "f3a01903-761d-4406-8032-07163820f528",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsgespraeche-100.html",
+      "title": "Berlin-Wahl: Linke, Grüne und SPD kündigen Sondierungsgespräche an",
+      "excerpt": "Nach der Abgeordnetenhauswahl in Berlin haben sich Linke, Grüne und SPD auf Sondierungsgespräche verständigt. Zum Umgang mit Antisemitismus, für den Teile der Linkspartei in der Kritik stehen, einigten sich die Parteien auf eine Erklärung.",
+      "published": "2026-10-08T12:22:14.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ca0baa68-2e28-47c7-ab2f-3948f5b6efa7/AAABoGL_We0/AAABnSSvrFg/16x9-big/berlin-abgeordnetenhaus-126.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-08T12:37:09.729Z"
+    },
+    {
+      "id": "1127b19b7a47817b",
+      "guid": "a735b476-a622-41c6-9c9e-4376a3a1ecfc",
+      "link": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
+      "title": "Italiens Parlament billigt umstrittene Wahlrechtsreform von Meloni",
+      "excerpt": "Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen. Zudem gibt es verfassungsrechtliche Bedenken.",
+      "published": "2026-10-08T12:18:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/cf080010-c867-4e84-811b-f155b62c0cf6/AAABoRtKTjw/AAABnSSvrFg/16x9-big/schlein-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-08T12:37:09.729Z"
+    },
+    {
+      "id": "ecdab483b1d75834",
+      "guid": "f1c89512-59ff-4405-ad46-092da91abc71",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-samsung-100.html",
+      "title": "Marktbericht: Samsung setzt mit Rekordgewinn neue Maßstäbe",
+      "excerpt": "Fast 72 Milliarden Euro in einem Quartal - noch nie hat ein Tech-Unternehmen so viel verdient wie jetzt Samsung. Für den südkoreanischen Konzern war es der vierte Rekordgewinn in Folge, angetrieben vom Chip-Geschäft",
+      "published": "2026-10-08T12:02:09.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/230f0357-cbcf-475c-8b75-335945eed329/AAABoRrPfcc/AAABnSSvrFg/16x9-big/samsung-240.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-08T12:37:09.729Z"
+    },
+    {
+      "id": "f8fb2d830b9e86cc",
+      "guid": "6a49a239-8d6b-489f-aa88-60631349a6c8",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/krankheitskosten-destatis-100.html",
+      "title": "Statistisches Bundesamt: Krankheitskosten in Deutschland weiter gestiegen",
+      "excerpt": "Die direkten Kosten für Krankheiten und Gesundheitsprobleme sind in Deutschland im Jahr 2024 um mehr als 7,6 Prozent gestiegen. Laut Statistischem Bundesamt lagen sie damit erstmals über einer halben Billion Euro.",
+      "published": "2026-10-08T11:50:37.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/8e30e283-7d25-4a77-8009-7b347d4175eb/AAABoRs0WLs/AAABnSSvrFg/16x9-big/arzt-258.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-08T12:37:09.729Z"
+    },
+    {
       "id": "f898afbf1aac7b43",
       "guid": "2d112001-8c75-4f03-b2b9-b6f5bee10b2d",
       "link": "https://www.tagesschau.de/kultur/literatur-nobelpreis-116.html",

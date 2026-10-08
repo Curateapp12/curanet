@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "6c1f2b8a5948d5e3",
+      "guid": "https://globalnews.ca/?p=12092479",
+      "link": "https://globalnews.ca/news/12092479/b-c-conservatives-back-in-battleground-surrey-on-election-trail/",
+      "title": "B.C. Conservatives back in battleground Surrey on election trail",
+      "excerpt": "The B.C. Conservatives will spend their second consecutive day campaigning in Surrey, a critical battleground in the provincial election.",
+      "published": "2026-10-08T12:29:31.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/eec6ee106c520c0d3648a347825cd6e6708f69190d1b60b98451fb5c9027c6a4.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T12:37:09.729Z"
+    },
+    {
+      "id": "fd8c1a52a4b6e050",
+      "guid": "https://globalnews.ca/?p=12092471",
+      "link": "https://globalnews.ca/news/12092471/oilpatch-profits-vastly-outpacing-spending-at-least-for-now-deloitte/",
+      "title": "Oilpatch profits vastly outpacing spending — at least for now: Deloitte",
+      "excerpt": "High prices have created a windfall for Canada's oil producers, with that sector the biggest contributor to non-financial industry profits during the second quarter.",
+      "published": "2026-10-08T12:23:26.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/c259456b6e3ae86f1fdff0eb997d5c72f5242cab1a485ff33d0c6aafdcd241dc.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T12:37:09.729Z"
+    },
+    {
+      "id": "565f0deccf337a8f",
+      "guid": "https://globalnews.ca/?p=12092466",
+      "link": "https://globalnews.ca/news/12092466/canadian-poet-anne-carson-nobel-prize-literature/",
+      "title": "Canadian poet Anne Carson wins Nobel Prize in literature",
+      "excerpt": "A poet, essayist, classical scholar and translator, Anne Carson is renowned as a master of esoterica whose body of work constitutes a genre unto itself.",
+      "published": "2026-10-08T12:12:52.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Anne-Carson-Nobel-prize.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T12:37:09.729Z"
+    },
+    {
       "id": "673ba61056b62d05",
       "guid": "https://globalnews.ca/?p=12091271",
       "link": "https://globalnews.ca/news/12091271/jeff-rath-litigation-funder-lawsuit/",
@@ -12,6 +45,17 @@
       "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/01/rath_1.jpg?quality=65&strip=all",
       "type": "article",
       "addedAt": "2026-10-08T10:31:46.577Z"
+    },
+    {
+      "id": "1cc32d0f1713e869",
+      "guid": "https://globalnews.ca/?p=12091956",
+      "link": "https://globalnews.ca/news/12091956/christine-frechette-glass-cliff-women-politics/",
+      "title": "Did Christine Frechette face a ‘glass cliff’? Expert points to broader political pattern",
+      "excerpt": "Research suggests women are more likely to lead political parties during times of crisis, while facing higher expectations and greater scrutiny than men.",
+      "published": "2026-10-08T09:00:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/9be5c4bf20ebb60b0c386f44e2812fed8bb977b44d50cafec0cfd64e9d15cc55.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T12:37:09.729Z"
     },
     {
       "id": "1f95b20e05d78a78",
