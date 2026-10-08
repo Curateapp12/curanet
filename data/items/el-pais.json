@@ -3,6 +3,39 @@
   "sourceId": "el-pais",
   "items": [
     {
+      "id": "6a687240cc6e3ff4",
+      "guid": "https://elpais.com/espana/2026-10-08/reacciones-tras-la-muerte-de-maricarmen-y-ultima-hora-de-las-elecciones-del-29-n-en-directo.html",
+      "link": "https://elpais.com/espana/2026-10-08/reacciones-tras-la-muerte-de-maricarmen-y-ultima-hora-de-las-elecciones-del-29-n-en-directo.html",
+      "title": "Reacciones tras la muerte de Maricarmen y última hora de las elecciones del 29-N, en directo | La muerte de Maricarmen sacude la precampaña electoral",
+      "excerpt": "El Ayuntamiento de Madrid no guardará un minuto de silencio en el pleno | Noche de indignación en Sol: “Le han trastocado su tranquilidad y no ha podido más”",
+      "published": "2026-10-08T06:33:41.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/YY5ZTOLMQ5EEHPZBYR6WEY6N5A.jpg?auth=f9625f7b405d468cffbccf00b0f60b7852b03b77b4cc87dd8360d0a968bf9d24",
+      "type": "article",
+      "addedAt": "2026-10-08T06:36:11.082Z"
+    },
+    {
+      "id": "836e9f04badc691c",
+      "guid": "https://elpais.com/espana/catalunya/2026-10-08/los-cortes-siguen-en-rodalies-este-jueves-en-una-jornada-de-paros-en-el-bus-de-barcelona.html",
+      "link": "https://elpais.com/espana/catalunya/2026-10-08/los-cortes-siguen-en-rodalies-este-jueves-en-una-jornada-de-paros-en-el-bus-de-barcelona.html",
+      "title": "Los cortes siguen en Rodalies este jueves en una jornada de paros en el bus de Barcelona",
+      "excerpt": "Los maquinistas retoman la circulación tras el plante del miércoles, aunque todavía se mantienen cortes en varias líneas por los daños del temporal",
+      "published": "2026-10-08T05:45:12.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/POGJT24ECNGRLKWIDAYZS2QYBA.jpg?auth=4d1dcb0466697692eb31a482190a467d5fcaa3c1da404bac8d6b94a0b8878b75",
+      "type": "article",
+      "addedAt": "2026-10-08T06:36:11.082Z"
+    },
+    {
+      "id": "fc74e78147d93819",
+      "guid": "https://elpais.com/espana/madrid/2026-10-08/javier-y-las-154-velas-para-maricarmen.html",
+      "link": "https://elpais.com/espana/madrid/2026-10-08/javier-y-las-154-velas-para-maricarmen.html",
+      "title": "Javier y las 154 velas para Maricarmen",
+      "excerpt": "Cientos de vecinos y curiosos pasan durante la noche por delante de la casa de la mujer para dejar velas y mensajes en recuerdo de la mujer, fallecida a los 15 días de su desahucio",
+      "published": "2026-10-08T05:42:59.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/H6IARTZUENBJNCR2TOYSE3FM6E.jpeg?auth=edad92b07ae09541992af88fef85f97236b79138dae1d48a82cd5990d64b26b6",
+      "type": "article",
+      "addedAt": "2026-10-08T06:36:11.082Z"
+    },
+    {
       "id": "eb70cbd490610c16",
       "guid": "https://elpais.com/escaparate/estilo-de-vida/aireador-de-grifo.html",
       "link": "https://elpais.com/escaparate/estilo-de-vida/aireador-de-grifo.html",
@@ -100,6 +133,28 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/SRFL72EJY5GAZIX33U5V3LZIFI.jpg?auth=666fe2f92aaa794cd886f4652c08e4309f7181b57dd87f3ae236eef73a5c1a33",
       "type": "article",
       "addedAt": "2026-10-08T04:29:58.215Z"
+    },
+    {
+      "id": "1bc7be9f8b915945",
+      "guid": "https://elpais.com/espana/catalunya/2026-10-08/natalia-zakharova-desahucio-en-barcelona-a-una-victima-de-violencia-de-genero-que-huyo-de-la-rusia-de-putin.html",
+      "link": "https://elpais.com/espana/catalunya/2026-10-08/natalia-zakharova-desahucio-en-barcelona-a-una-victima-de-violencia-de-genero-que-huyo-de-la-rusia-de-putin.html",
+      "title": "Natalia Zakharova: desahucio en Barcelona a una víctima de violencia de género que huyó de la Rusia de Putin",
+      "excerpt": "La mujer y sus dos hijos, declarados vulnerables, se enfrentan a un lanzamiento que los deja sin alternativa habitacional en plena crisis de vivienda",
+      "published": "2026-10-08T03:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/KS5QAQJKJZA7ZIIC4TKQJTV65E.jpg?auth=3c7d82e7a02c21af4c859c81953f118f2f625f6ef0170d4b0ccbd671eecbe631",
+      "type": "article",
+      "addedAt": "2026-10-08T06:36:11.082Z"
+    },
+    {
+      "id": "e8f7ed30512491c3",
+      "guid": "https://elpais.com/babelia/2026-10-08/pablo-castilla-donde-termina-lo-visible.html",
+      "link": "https://elpais.com/babelia/2026-10-08/pablo-castilla-donde-termina-lo-visible.html",
+      "title": "Lo que no se ve en la geografía de Granada",
+      "excerpt": "La exposición ‘Un lugar dentro de otro lugar’ reúne dos proyectos realizados por el fotógrafo Pablo Castilla en territorios muy distintos de la provincia andaluza: convierte la exploración del paisaje en un prospección poética que desplaza lo conocido",
+      "published": "2026-10-08T03:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/KARYTPVZPBGYVB7BQZ6LED42XM.jpg?auth=547f2b50189120f826506f962037bc62af1cea25a26fd7d420b3330c448bdcd8",
+      "type": "article",
+      "addedAt": "2026-10-08T06:36:11.082Z"
     },
     {
       "id": "0be4b8a3f8c794a7",
@@ -4214,6 +4269,28 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/HNA7GNQPARAMJHZWAW2Y3PH5YY.JPG?auth=04debf827df282a602496f1a92c261450821e3b65bdac1a6b8a588fba0aabe31",
       "type": "article",
       "addedAt": "2026-10-05T23:58:13.599Z"
+    },
+    {
+      "id": "042a4ccf0dab511e",
+      "guid": "https://elpais.com/ideas/2026-10-03/llaves-arriba-esto-es-un-atraco-historia-del-pp-contra-un-pais.html",
+      "link": "https://elpais.com/ideas/2026-10-03/llaves-arriba-esto-es-un-atraco-historia-del-pp-contra-un-pais.html",
+      "title": "Llaves arriba, esto es un atraco: historia del PP contra un país",
+      "excerpt": "Escribo esto con la ilusión de que el partido de Feijóo deje algún día de negar la realidad",
+      "published": "2026-10-03T03:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/OGSYJFTVXBF7FNOQ5Y7LHZTPDM.jpg?auth=1914e0d7a5ce937275f3676cb7dbdcde38fd387fad6d4a3787c57d5e38daceed",
+      "type": "article",
+      "addedAt": "2026-10-08T06:36:11.082Z"
+    },
+    {
+      "id": "a42f9a363927b4b7",
+      "guid": "https://elpais.com/ideas/2026-10-03/mariana-mazzucato-economista-la-vivienda-es-un-derecho-humano-y-la-base-de-todo-lo-demas.html",
+      "link": "https://elpais.com/ideas/2026-10-03/mariana-mazzucato-economista-la-vivienda-es-un-derecho-humano-y-la-base-de-todo-lo-demas.html",
+      "title": "Mariana Mazzucato, economista: “La vivienda es un derecho humano y la base de todo lo demás”",
+      "excerpt": "La respetada profesora italoestadounidense afirma que si priorizáramos el bien común —al que dedica su último libro—, impondríamos frenos a promotores y especuladores",
+      "published": "2026-10-03T03:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/EIRSQ2NR3JGANHQXF4HWYQQ4PY.jpg?auth=95f3a212e4a3d53aa6ad85b6b9bed4bd56e3c600d080ce64ca324ed2d0e5cc8c",
+      "type": "article",
+      "addedAt": "2026-10-08T06:36:11.082Z"
     },
     {
       "id": "389c9db42b26ff22",
