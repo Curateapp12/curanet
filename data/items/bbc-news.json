@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "bcde128cad3ebd0d",
+      "guid": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o",
+      "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
+      "excerpt": "Police say the suspects are Latvian nationals aged 36 and 32.",
+      "published": "2026-10-08T15:31:39.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8282/live/3732d960-c32d-11f1-9981-cf94ea240e40.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T15:32:01.915Z"
+    },
+    {
+      "id": "841f33b7d1537fda",
+      "guid": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "excerpt": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "published": "2026-10-08T15:07:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd9/live/df938ae0-c329-11f1-9981-cf94ea240e40.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T15:32:01.915Z"
+    },
+    {
+      "id": "69b268991bba4875",
+      "guid": "https://www.bbc.co.uk/news/articles/cm0ldg95j034o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm0ldg95j034o",
+      "title": "Birmingham Airport announces £2bn expansion",
+      "excerpt": "The first stage of development, upgrading baggage systems and terminals, could start in 2027.",
+      "published": "2026-10-08T15:01:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7900/live/24d91d00-c329-11f1-9981-cf94ea240e40.png",
+      "type": "article",
+      "addedAt": "2026-10-08T15:32:01.915Z"
+    },
+    {
+      "id": "0d618b01889969a8",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o#8",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o",
+      "title": "Cummins not worried about potential Khawaja revelations",
+      "excerpt": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations.",
+      "published": "2026-10-08T14:38:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db5/live/2f51aeb0-c323-11f1-bd97-fbe5a3482cde.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T15:32:01.915Z"
+    },
+    {
       "id": "268da84ecb196757",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cmn4ex2y53l8o#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmn4ex2y53l8o",
@@ -25,6 +69,17 @@
       "addedAt": "2026-10-08T14:33:18.213Z"
     },
     {
+      "id": "5e997c821f903c07",
+      "guid": "https://www.bbc.co.uk/news/articles/crlyknx14731o#4",
+      "link": "https://www.bbc.co.uk/news/articles/crlyknx14731o",
+      "title": "Hate crimes rise after more offences motivated by religion and race",
+      "excerpt": "Figures supplied by police forces suggest nearly 150,000 hate crimes were recorded between April 2025 and March 2026",
+      "published": "2026-10-08T14:02:42.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d6/live/857a2560-c30a-11f1-8f04-85217d686658.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T15:32:01.915Z"
+    },
+    {
       "id": "8a9cadbbabe7a06a",
       "guid": "https://www.bbc.co.uk/news/articles/c39wzrdj7157o#4",
       "link": "https://www.bbc.co.uk/news/articles/c39wzrdj7157o",
@@ -34,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/8fae2670-c324-11f1-bc2e-018d645d8d21.jpg",
       "type": "article",
       "addedAt": "2026-10-08T14:33:18.213Z"
+    },
+    {
+      "id": "bd424262e6796cca",
+      "guid": "https://www.bbc.co.uk/news/articles/c3ewex45rgvpo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewex45rgvpo",
+      "title": "Stabbed schoolgirl in 'panic mode', court told",
+      "excerpt": "The girl told police there was \"blood all over my hands\" following the attack, a court hears.",
+      "published": "2026-10-08T13:52:53.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f508/live/319e6af0-1d79-11f1-a77a-39b849d4606b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T15:32:01.915Z"
     },
     {
       "id": "56ce2f4d894ac3d8",

@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "ec58741183e9e0f0",
+      "guid": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+      "excerpt": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+      "published": "2026-10-08T15:26:33.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-08T15:32:01.915Z"
+    },
+    {
       "id": "3e91a99d59020928",
       "guid": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
       "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
