@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "e03acd2bf4eccf98",
+      "guid": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+      "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+      "excerpt": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
+      "published": "2026-10-08T17:10:55.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-08T17:29:38.475Z"
+    },
+    {
       "id": "ec58741183e9e0f0",
       "guid": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
