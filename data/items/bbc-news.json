@@ -3,6 +3,83 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "6f982583b5280cc9",
+      "guid": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "excerpt": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\".",
+      "published": "2026-10-08T10:24:26.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3198/live/821569d0-c2fa-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T10:31:46.577Z"
+    },
+    {
+      "id": "5658e531ccb02d55",
+      "guid": "https://www.bbc.co.uk/news/articles/c875pwq134l3o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o",
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "excerpt": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+      "published": "2026-10-08T10:16:33.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T10:31:46.577Z"
+    },
+    {
+      "id": "ec05cad835edffd7",
+      "guid": "https://www.bbc.co.uk/news/articles/c60qk0p043kdo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk0p043kdo",
+      "title": "Seventh man bailed in connection with RAF Fairford incident",
+      "excerpt": "A 22 year-old British national was arrested on Tuesday as part of the investigation into the incident near the airbase in Gloucestershire in September.",
+      "published": "2026-10-08T10:16:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "type": "article",
+      "addedAt": "2026-10-08T10:31:46.577Z"
+    },
+    {
+      "id": "df669251be981ffa",
+      "guid": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro#4",
+      "link": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro",
+      "title": "'Bendy tree' named UK Tree of the Year",
+      "excerpt": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014.",
+      "published": "2026-10-08T10:11:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9653/live/b249d4d0-c302-11f1-9955-5d2e13ff2bea.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T10:31:46.577Z"
+    },
+    {
+      "id": "4719a682cebceaea",
+      "guid": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o",
+      "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
+      "excerpt": "The Shaun of the Dead and Mission: Impossible films star had previously put symptoms down to \"character fault\".",
+      "published": "2026-10-08T09:35:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9529/live/29b19700-c2f0-11f1-89a3-9b445bfcfe23.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T10:31:46.577Z"
+    },
+    {
+      "id": "5f81dff74b9b691c",
+      "guid": "https://www.bbc.co.uk/news/articles/ck5yn8j8ge43o#4",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn8j8ge43o",
+      "title": "At least five arrested over Renoir museum theft",
+      "excerpt": "The two paintings by the French artist stolen in last month's heist have yet to be recovered.",
+      "published": "2026-10-08T09:31:13.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2637/live/3d9d95d0-ab7f-11f1-b109-879e35c24276.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T10:31:46.577Z"
+    },
+    {
+      "id": "1090b97521266445",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo#1",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo",
+      "title": "Clubs fear political interference in Man City appeal",
+      "excerpt": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments.",
+      "published": "2026-10-08T09:16:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c127/live/c855ee70-c290-11f1-a13a-652a29dd7204.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T10:31:46.577Z"
+    },
+    {
       "id": "5f1b3fb61fa17400",
       "guid": "https://www.bbc.co.uk/sport/netball/articles/ckrey7v24zr8o#8",
       "link": "https://www.bbc.co.uk/sport/netball/articles/ckrey7v24zr8o",
