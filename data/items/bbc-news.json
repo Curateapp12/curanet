@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "bcd290d348a9660e",
+      "guid": "https://www.bbc.co.uk/news/articles/cm3el33kvn3wo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm3el33kvn3wo",
+      "title": "The Papers: 'Kemi's family home pledge' and 'Badenoch invokes core Tory values'",
+      "excerpt": "Conservative party leader Kemi Badenoch's speech at the Tory conference dominates Thursday's papers.",
+      "published": "2026-10-08T01:06:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f931/live/f8dacf20-c2b3-11f1-bc2e-018d645d8d21.png",
+      "type": "article",
+      "addedAt": "2026-10-08T01:29:21.120Z"
+    },
+    {
       "id": "91b34921a05827f1",
       "guid": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo#2",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo",
@@ -12,6 +23,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bf3/live/3fc23000-c227-11f1-b7d8-6f930589c871.jpg",
       "type": "article",
       "addedAt": "2026-10-08T00:38:26.736Z"
+    },
+    {
+      "id": "5d572e54c648c84a",
+      "guid": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o",
+      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+      "excerpt": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
+      "published": "2026-10-07T23:18:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19cd/live/9e6a0ef0-c2a1-11f1-b3a5-abc2b328c8d1.png",
+      "type": "article",
+      "addedAt": "2026-10-08T01:29:21.120Z"
     },
     {
       "id": "42b26f9551eae1f6",
