@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "ed799029e8915773",
+      "guid": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o",
+      "title": "Trump wants a new Camp David retreat at his posh Florida golf club",
+      "excerpt": "Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.",
+      "published": "2026-10-08T03:00:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/237f/live/5f366290-c2a8-11f1-92d1-3fefaece76c0.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T03:29:42.858Z"
+    },
+    {
       "id": "ca10c70fbb8a5a0d",
       "guid": "https://www.bbc.co.uk/news/articles/c687z8127302o#1",
       "link": "https://www.bbc.co.uk/news/articles/c687z8127302o",
@@ -23,6 +34,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f931/live/f8dacf20-c2b3-11f1-bc2e-018d645d8d21.png",
       "type": "article",
       "addedAt": "2026-10-08T01:29:21.120Z"
+    },
+    {
+      "id": "8c3b0878175b54df",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o",
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "excerpt": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.",
+      "published": "2026-10-08T00:53:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adce/live/8f5568b0-c21f-11f1-b7d8-6f930589c871.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T03:29:42.858Z"
+    },
+    {
+      "id": "ccee84188777b278",
+      "guid": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo#4",
+      "link": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo",
+      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newsnight",
+      "excerpt": "Thomas Giuffra is representing a woman, known in legal documents as Jane Doe, who alleges she was raped at a frat house on campus in 2024.",
+      "published": "2026-10-08T00:46:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1da/live/5bc03880-c2b1-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T03:29:42.858Z"
     },
     {
       "id": "91b34921a05827f1",
