@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "018d796bf4217866",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291832/hegseth-fusillade-fort-hood-execution-publique-hasan",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291832/hegseth-fusillade-fort-hood-execution-publique-hasan",
+      "title": "Fusillade sur une base militaire en 2009 : Hegseth annonce un peloton d’exécution public",
+      "excerpt": "Le Pentagone a déjà annoncé cette semaine que Nidal Malik Hasan ferait face à un peloton d'exécution.",
+      "published": "2026-10-08T21:58:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pete-hegseth-36135.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T22:29:04.090Z"
+    },
+    {
+      "id": "8d4bde864fd1bf53",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291818/france-mobilisation-lyceens-professeurs-remplacants",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291818/france-mobilisation-lyceens-professeurs-remplacants",
+      "title": "France : mobilisation des lycéens, le gouvernement promet des professeurs remplaçants",
+      "excerpt": "Le ministre de l'Éducation a annoncé 3000 professeurs remplaçants dans plus de 500 lycées.",
+      "published": "2026-10-08T21:52:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/marseille-mobilisation-lyceenne.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T22:29:04.090Z"
+    },
+    {
       "id": "c0e9487f67322a21",
       "guid": "https://ici.radio-canada.ca/nouvelle/2291813/trump-iran-elections-mi-mandat",
       "link": "https://ici.radio-canada.ca/nouvelle/2291813/trump-iran-elections-mi-mandat",
@@ -23,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/louise-arbour-80593.jpg",
       "type": "article",
       "addedAt": "2026-10-08T21:29:38.066Z"
+    },
+    {
+      "id": "e572f526709aacf3",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291785/mahad-farrah-reconnu-coupable-meurtre-deux-femmes",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291785/mahad-farrah-reconnu-coupable-meurtre-deux-femmes",
+      "title": "Mahad Farrah reconnu coupable du meurtre de Jade Racette Beaulieu et de sa grand-mère",
+      "excerpt": "Mahad Farrah pourrait être condamné à une peine de prison à vie.",
+      "published": "2026-10-08T20:31:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jade-racette-beaulieu-victime.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-08T22:29:04.090Z"
     },
     {
       "id": "94acb9bbb5cace6a",
