@@ -3,6 +3,39 @@
   "sourceId": "le-figaro",
   "items": [
     {
+      "id": "58d4907ae5c6df14",
+      "guid": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-des-lyceens-de-nouvelles-manifestations-prevues-ce-jeudi-partout-en-france-des-syndicats-de-l-education-appellent-a-la-greve-20261008",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-des-lyceens-de-nouvelles-manifestations-prevues-ce-jeudi-partout-en-france-des-syndicats-de-l-education-appellent-a-la-greve-20261008",
+      "title": "EN DIRECT - Mobilisation des lycéens : de nouvelles manifestations prévues ce jeudi partout en France, des syndicats de l’Éducation appellent à la grève",
+      "excerpt": "Faute de «mesure concrète», les représentants lycéens et étudiants maintiennent la pression : un «acte IV» de la mobilisation est prévu ce jeudi à Paris et dans d’autres villes.",
+      "published": "2026-10-08T04:28:52.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/08/32604725b3d9554a7754a63c63b148644fb872715e0514b92ed735c05c831760.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T04:29:58.215Z"
+    },
+    {
+      "id": "6ab8e7ccbce0f807",
+      "guid": "https://immobilier.lefigaro.fr/article/ce-n-est-pas-une-liste-noire-les-proprietaires-peuvent-desormais-ficher-leur-locataire-mauvais-payeur-20261008",
+      "link": "https://immobilier.lefigaro.fr/article/ce-n-est-pas-une-liste-noire-les-proprietaires-peuvent-desormais-ficher-leur-locataire-mauvais-payeur-20261008",
+      "title": "«Ce n’est pas une liste noire» : les propriétaires peuvent désormais ficher leur locataire mauvais payeur",
+      "excerpt": "EXCLUSIF - Le sujet a longtemps fait jaser car non conforme à la protection des données. Une plateforme, conforme au RGPD, permet de savoir si un candidat à la location a un impayé ou pas. Quelles données sont visibles ? Qui a accès au site ? Le Figaro fait le point.",
+      "published": "2026-10-08T04:15:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/07/3a779c8a8ab97dbf175d09ca79ea445db7fefa975cb00ff9284f9b9a30b6eaac.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T04:29:58.215Z"
+    },
+    {
+      "id": "288efd485d59bea5",
+      "guid": "https://www.lefigaro.fr/vox/societe/stephane-azihari-qui-menace-vraiment-les-juifs-20261008",
+      "link": "https://www.lefigaro.fr/vox/societe/stephane-azihari-qui-menace-vraiment-les-juifs-20261008",
+      "title": "Stéphane Azihari : «Qui menace vraiment les Juifs ?»",
+      "excerpt": "CHRONIQUE - Comment s’étonner que la condition des Juifs se dégrade en France à mesure que l’Europe s’islamise ?",
+      "published": "2026-10-08T04:00:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/07/8eb6b7280cabbbaac91bd5eac2803f70032023f1909d10a5454c618e006af8d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T04:29:58.215Z"
+    },
+    {
       "id": "0d4545c69d95f7e2",
       "guid": "https://www.lefigaro.fr/international/le-japon-demande-a-la-chine-de-respecter-la-premiere-ministre-sanae-takaichi-20261008",
       "link": "https://www.lefigaro.fr/international/le-japon-demande-a-la-chine-de-respecter-la-premiere-ministre-sanae-takaichi-20261008",
@@ -476,6 +509,17 @@
       "addedAt": "2026-10-07T17:30:27.895Z"
     },
     {
+      "id": "c4620a40adacba38",
+      "guid": "https://www.lefigaro.fr/international/j-ai-perdu-toute-confiance-dans-le-peuple-palestinien-la-solution-a-deux-etats-est-elle-encore-possible-20261007",
+      "link": "https://www.lefigaro.fr/international/j-ai-perdu-toute-confiance-dans-le-peuple-palestinien-la-solution-a-deux-etats-est-elle-encore-possible-20261007",
+      "title": "«J’ai perdu toute confiance dans le peuple palestinien» : la solution à deux États est-elle encore possible ?",
+      "excerpt": "SONDAGE – Trois ans après les attaques terroristes du 7-Octobre, une enquête du Pew Research Center montre qu’Israéliens et Palestiniens ne croient plus en une coexistence pacifique entre les deux peuples.",
+      "published": "2026-10-07T15:14:23.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2250_crop/2026/10/07/7b36540e6aa6f9f2559dc924c5cdb6073dde445b9c0d3e325936adbf6b7578dc.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T04:29:58.215Z"
+    },
+    {
       "id": "d6ea3f310a15260b",
       "guid": "https://www.lefigaro.fr/vox/societe/chantal-delsol-les-lyceens-sont-les-victimes-du-mensonge-egalitaire-de-l-ecole-20261007",
       "link": "https://www.lefigaro.fr/vox/societe/chantal-delsol-les-lyceens-sont-les-victimes-du-mensonge-egalitaire-de-l-ecole-20261007",
@@ -496,6 +540,17 @@
       "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/07/89906b501c320546df569012383cc42d4226d7db7419a1edec2b7d64bc4200e9.jpg",
       "type": "article",
       "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "2af1614688da6608",
+      "guid": "https://www.lefigaro.fr/vox/politique/le-sort-des-juifs-d-europe-se-degrade-a-mesure-que-le-continent-s-islamise-l-alerte-de-5-personnalites-trois-ans-apres-le-7-octobre-20261007",
+      "link": "https://www.lefigaro.fr/vox/politique/le-sort-des-juifs-d-europe-se-degrade-a-mesure-que-le-continent-s-islamise-l-alerte-de-5-personnalites-trois-ans-apres-le-7-octobre-20261007",
+      "title": "« Le sort des juifs d’Europe se dégrade à mesure que le continent s’islamise » : l’alerte de 5 personnalités trois ans après le 7 Octobre",
+      "excerpt": "EXCLUSIF - Les écologistes britanniques ont adopté une motion qui assimile le sionisme à une forme de racisme, au risque de favoriser la montée du nouvel antisémitisme. La lutte contre la judéophobie d’extrême droite ne doit pas masquer la menace que fait peser l’islam radical sur les Juifs en…",
+      "published": "2026-10-07T13:16:41.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/06/4214f6945b8e020f4c6f97be3a8f9c4bc888c2afda9df79b0b687bf648a79bc8.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T04:29:58.215Z"
     },
     {
       "id": "a672fd1eb1dc48f2",
@@ -562,6 +617,17 @@
       "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/06/c9eb4b4310c56b2b029819b5ebb0b86df093e24a162e92087d7c9770aaf43500.jpg",
       "type": "article",
       "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "d8fd76338661a55e",
+      "guid": "https://www.lefigaro.fr/international/les-confidences-d-omer-shem-tov-ex-otage-du-hamas-au-figaro-chaque-israelien-a-combattu-pour-moi-a-sa-facon-20261007",
+      "link": "https://www.lefigaro.fr/international/les-confidences-d-omer-shem-tov-ex-otage-du-hamas-au-figaro-chaque-israelien-a-combattu-pour-moi-a-sa-facon-20261007",
+      "title": "Les confidences d’Omer Shem Tov, ex-otage du Hamas, au Figaro : « Chaque Israélien a combattu pour moi à sa façon »",
+      "excerpt": "ENTRETIEN - Enlevé au festival Nova le 7 octobre 2023, Omer Shem Tov raconte avoir été « l’esclave » du Hamas pendant 505 jours. Trois ans après l’attaque, il raconte les souvenirs qui le rattrapent, la foi qui l’a tenu debout et son désir d’exister au-delà de son histoire d’otage.",
+      "published": "2026-10-07T07:02:29.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/07/32cd39df4209e1dc4dc6c0a5f0c42becab90121a6e25424be582a4f2647b387b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T04:29:58.215Z"
     },
     {
       "id": "4c718218acb766cf",
