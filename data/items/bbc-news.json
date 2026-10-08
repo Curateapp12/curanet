@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "5f1b3fb61fa17400",
+      "guid": "https://www.bbc.co.uk/sport/netball/articles/ckrey7v24zr8o#8",
+      "link": "https://www.bbc.co.uk/sport/netball/articles/ckrey7v24zr8o",
+      "title": "England to host 2031 Netball World Cup",
+      "excerpt": "England will host the Netball World Cup for the fourth time in 2031, when the sport's pinnacle event is held at Manchester's Co-op Live arena.",
+      "published": "2026-10-08T09:00:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb5d/live/0900b590-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T09:30:33.812Z"
+    },
+    {
+      "id": "8e6632f863f24057",
+      "guid": "https://www.bbc.co.uk/news/articles/cmlyknj8wj30o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyknj8wj30o",
+      "title": "BBC to cut raft of Radio 4 programmes including You and Yours",
+      "excerpt": "The corporation said it would be investing in a new consumer programme, while announcing more cuts.",
+      "published": "2026-10-08T08:30:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cb0/live/be8e86e0-c2ef-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T09:30:33.812Z"
+    },
+    {
       "id": "49118b36c229c717",
       "guid": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo#1",
       "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo",
@@ -177,6 +199,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb5/live/5f9aaa00-c2a5-11f1-979a-a7b535522d35.png",
       "type": "article",
       "addedAt": "2026-10-08T04:29:58.215Z"
+    },
+    {
+      "id": "1f9aa9080f2ce330",
+      "guid": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo",
+      "title": "Outspoken Indian actor Nana Patekar suddenly dies at 75",
+      "excerpt": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "published": "2026-10-08T03:41:34.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b982/live/ad6e1830-c2c7-11f1-a761-c59b3c40da47.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T09:30:33.812Z"
     },
     {
       "id": "d84d014277869c82",

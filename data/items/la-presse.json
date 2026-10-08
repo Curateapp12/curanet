@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "0b6aed82cc149cba",
+      "guid": "797ff39f55cd374da7956e3f2b3c5dad",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-08/itinerance/montreal-veut-faire-fermer-une-maison-de-chambres.php",
+      "title": "Itinérance | Montréal veut faire fermer une maison de chambres",
+      "excerpt": "La Ville de Montréal tente de faire fermer l’une des plus importantes maisons de chambres de la métropole, au risque de fragiliser des dizaines de locataires vulnérables et de les pousser dans la rue.",
+      "published": "2026-10-08T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/748156edcd823976b7861fffa6867131.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T09:30:33.812Z"
+    },
+    {
+      "id": "2f3764edda28179e",
+      "guid": "4f0ea578e9d3305aa45018c475d2de43",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-08/le-referendum-attendra.php",
+      "title": "Le référendum attendra",
+      "excerpt": "La victoire de Paul St-Pierre Plamondon cache des lendemains difficiles pour le rêve de son parti.",
+      "published": "2026-10-08T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/14ee1466a0f039abaa3160308e9d1a65.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T09:30:33.812Z"
+    },
+    {
+      "id": "4f72d53bc4f82fb5",
+      "guid": "443a1d7b91123b7f99c6b20b8ae4a51e",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-08/violence-verbale/petit-village-grandes-gueules.php",
+      "title": "Violence verbale | Petit village, grandes gueules",
+      "excerpt": "Vous savez, ces petites affiches qui nous préviennent qu’aucune violence verbale ne sera tolérée ? C’est rendu qu’il y en a chez Canadian Tire, bien en vue sur les caisses libre-service.",
+      "published": "2026-10-08T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/6fe0431ac2e03c2db67fdbfe7afc2b6e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T09:30:33.812Z"
+    },
+    {
+      "id": "701428d36b97dad1",
+      "guid": "2ae8b37733b134709bd2791d4e1a2c32",
+      "link": "https://www.lapresse.ca/actualites/editoriaux/2026-10-08/dans-la-rue-du-berceau-jusqu-au-lit-de-mort.php",
+      "title": "Dans la rue, du berceau jusqu’au lit de mort",
+      "excerpt": "",
+      "published": "2026-10-08T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T09:30:33.812Z"
+    },
+    {
+      "id": "bdfe43f0d4c0494b",
+      "guid": "0a31351c924337bb9373d033e0b95322",
+      "link": "https://www.lapresse.ca/actualites/education/2026-10-08/une-petition-pour-legaliser-le-viol-dans-une-ecole-secondaire.php",
+      "title": "Une « pétition pour légaliser le viol » dans une école secondaire",
+      "excerpt": "Une « pétition pour légaliser le viol » a été interceptée lorsqu’un élève a voulu la passer à un camarade de classe, dans une école secondaire du centre de services scolaire de Saint-Hyacinthe (CSSSH). Ce qui se voulait « une mauvaise blague de mauvais goût », selon ce qu’en a conclu le CSSSH…",
+      "published": "2026-10-08T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/05e8fbb3cceb318093d8e5eb5e7889a2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T09:30:33.812Z"
+    },
+    {
       "id": "8d2f3dc5f88d07c5",
       "guid": "132d15a03da2339996d637bf7b696ada",
       "link": "https://www.lapresse.ca/actualites/environnement/2026-10-08/changements-climatiques/les-emissions-de-gaz-a-effet-de-serre-deja-en-hausse.php",
