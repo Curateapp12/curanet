@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "3dea69801f3216ca",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291559/festival-huitres-maisonnette-maladie",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291559/festival-huitres-maisonnette-maladie",
+      "title": "Tant qu’il y aura des huîtres, il y aura un festival à Maisonnette",
+      "excerpt": "Des cultures d'huitres ont été décimées un peu partout en Atlantique, mais pas dans la baie de Caraquet.",
+      "published": "2026-10-08T17:36:56.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/festival-huitres-maisonnette-maladie.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-08T18:33:05.854Z"
+    },
+    {
       "id": "6fce10f56734bad0",
       "guid": "https://ici.radio-canada.ca/nouvelle/2291699/salon-livre-peninsule-acadienne-auteurs",
       "link": "https://ici.radio-canada.ca/nouvelle/2291699/salon-livre-peninsule-acadienne-auteurs",
@@ -12,6 +23,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/livres-jeunesse-salon-livre-peninsule-51898.jpg",
       "type": "article",
       "addedAt": "2026-10-08T17:29:38.475Z"
+    },
+    {
+      "id": "a3348b6758e940d9",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2498169/un-revenu-minimum-garanti-un-reve-impossible",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2498169/un-revenu-minimum-garanti-un-reve-impossible",
+      "title": "Qu’est-ce que ça prend pour contrer la pauvreté en Atlantique?",
+      "excerpt": "En Atlantique, le taux de pauvreté tourne autour de 10 %, mais près d’un citoyen sur 3 aurait un niveau de vie inférieur au seuil de pauvreté, selon Banque alimentaire Canada. Avec la hausse du coût de la vie, la mise en place d’un revenu minimum garanti est citée comme solution…",
+      "published": "2026-10-08T15:33:33.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/emission/16x9/sens-large-emission-karine-godin-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T18:33:05.854Z"
     },
     {
       "id": "0b928f37ed89c2d3",

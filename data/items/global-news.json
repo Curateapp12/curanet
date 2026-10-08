@@ -3,6 +3,94 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "ce92c8ef05003f03",
+      "guid": "https://globalnews.ca/?p=12092741",
+      "link": "https://globalnews.ca/news/12092741/hamilton-rocked-by-2-suspected-home-explosions-3-people-hospitalized/",
+      "title": "Hamilton rocked by 2 suspected home explosions, 3 people hospitalized",
+      "excerpt": "One victim who was in a garage at the time of the first blast suffered serious burns and was taken to hospital in serious condition.",
+      "published": "2026-10-08T18:28:26.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Image.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T18:33:05.854Z"
+    },
+    {
+      "id": "df6ba2a18c84e3bd",
+      "guid": "https://globalnews.ca/?p=12093015",
+      "link": "https://globalnews.ca/news/12093015/cold-lake-first-nations-pacific-link-pipeline-judicial-review/",
+      "title": "Cold Lake First Nations seeks judicial review of Pacific Link pipeline designation",
+      "excerpt": "The Cold Lake First Nations has requested a judicial review in Federal Court, challenging the decision to designate the Pacific Link pipeline a project in the national interest.",
+      "published": "2026-10-08T18:26:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP177015510.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T18:33:05.854Z"
+    },
+    {
+      "id": "feb7f57624ab104a",
+      "guid": "https://globalnews.ca/?p=12093005",
+      "link": "https://globalnews.ca/news/12093005/ice-arrests-detentions-canadians/",
+      "title": "Arrests, detentions of Canadians in U.S. up 60 per cent, Ottawa says",
+      "excerpt": "The department's annual report on consular cases, published Thursday, tracks an increase in arrests between April 2025 and March 2026.",
+      "published": "2026-10-08T18:14:22.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/ICE-arrests-detentions-Canadians.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T18:33:05.854Z"
+    },
+    {
+      "id": "5eeb95b272a35fb5",
+      "guid": "https://globalnews.ca/?p=12092790",
+      "link": "https://globalnews.ca/news/12092790/halle-berrys-daughter-responds-child-abuse-allegations/",
+      "title": "Halle Berry’s daughter responds to child abuse allegations against mom",
+      "excerpt": "Halle Berry has denied the child abuse allegations by her ex-husband Olivier Martinez, referring to them as 'entirely meritless and deliberately misleading.'",
+      "published": "2026-10-08T18:13:56.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/halle-berry-daughter-speaks-out.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T18:33:05.854Z"
+    },
+    {
+      "id": "65f9fd26007bde1c",
+      "guid": "https://globalnews.ca/?p=12092959",
+      "link": "https://globalnews.ca/news/12092959/air-canada-rebuked-over-english-only-message/",
+      "title": "Air Canada CEO Michael Rousseau rebuked over English-only message",
+      "excerpt": "The commissioner's annual report says the office received a large number of complaints after Michael Rousseau posted a four-minute video that only included two French words.",
+      "published": "2026-10-08T18:09:47.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/air-canada-ceo-michael-rousseau-rebuked-english-only.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T18:33:05.854Z"
+    },
+    {
+      "id": "d4d2a88db3454c64",
+      "guid": "https://globalnews.ca/?p=12092915",
+      "link": "https://globalnews.ca/news/12092915/will-kingston-get-alto-station-2027/",
+      "title": "‘Very large question mark’: Decision on Kingston Alto rail stop won’t come until 2027",
+      "excerpt": "Kingston remains “promising” as a potential stop on the Alto high-speed rail corridor, but an official decision may have to wait until spring, the crown corporation said.",
+      "published": "2026-10-08T17:53:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Alto-rail-e1791481281751.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T18:33:05.854Z"
+    },
+    {
+      "id": "b737d57257a05c2a",
+      "guid": "https://globalnews.ca/?p=12092820",
+      "link": "https://globalnews.ca/news/12092820/saskatoon-encampment-cleanup-resumes/",
+      "title": "Saskatoon encampment removal resumes to address ‘safety concerns,’ city says",
+      "excerpt": "After being paused in early-August, the cleanup of an encampment at 20th Street and Avenue K South in Saskatoon resumed Thursday morning, according to the city.",
+      "published": "2026-10-08T17:44:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/saskatoon-encampment-removal-resumes.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T18:33:05.854Z"
+    },
+    {
+      "id": "b539e7650e424705",
+      "guid": "https://globalnews.ca/?p=12092059",
+      "link": "https://globalnews.ca/news/12092059/saskatchewan-mlas-racked-up-10-9-million-in-expenses-last-year/",
+      "title": "Saskatchewan MLAs racked up $10.9 million in expenses last year",
+      "excerpt": "Saskatchewan MLAs are opening up their books to share their expenses from the last fiscal year on everything from phone bills to travel.",
+      "published": "2026-10-08T17:30:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/saskatchewan-50-million-special-warrant.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T18:33:05.854Z"
+    },
+    {
       "id": "6bd4f8bde6887c14",
       "guid": "https://globalnews.ca/?p=12092865",
       "link": "https://globalnews.ca/news/12092865/kelly-knopf-saskatchewan-crash-bail/",
