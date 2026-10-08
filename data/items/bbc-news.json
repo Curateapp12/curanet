@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "0087b66e092715b8",
+      "guid": "https://www.bbc.co.uk/news/articles/cqe9l0r105l8o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9l0r105l8o",
+      "title": "Up to 50 Scottish police officers suspended over alleged crimes against women",
+      "excerpt": "Chief constable Jo Farrell says more officers are likely to be suspended as officers are re-vetted.",
+      "published": "2026-10-08T13:12:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+      "type": "article",
+      "addedAt": "2026-10-08T13:33:44.121Z"
+    },
+    {
+      "id": "61648d9cda686d35",
+      "guid": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o",
+      "title": "'Ominous signs' of winter pressures as NHS waiting list grows",
+      "excerpt": "NHS winter pressures appear to be building already, with rises in waiting times for planned surgery.",
+      "published": "2026-10-08T12:42:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7dd/live/02c21880-c30a-11f1-8f04-85217d686658.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T13:33:44.121Z"
+    },
+    {
       "id": "484dd6ca71f5a7f1",
       "guid": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo#4",
       "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo",
@@ -991,6 +1013,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e7d/live/3002b9d0-c260-11f1-bc2e-018d645d8d21.jpg",
       "type": "article",
       "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "e9ca884df0b1a1db",
+      "guid": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo#2",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo",
+      "title": "What can I do to protect myself after 'Asos hacked' message?",
+      "excerpt": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
+      "published": "2026-10-07T10:23:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e2d/live/e029b770-c218-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T13:33:44.121Z"
     },
     {
       "id": "0454eff904ce2431",
