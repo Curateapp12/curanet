@@ -3,6 +3,72 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "dae9377f2e7f7dce",
+      "guid": "https://globalnews.ca/?p=12092782",
+      "link": "https://globalnews.ca/news/12092782/university-of-guelph-homecoming-group/",
+      "title": "University of Guelph, police to join ‘homecoming working group’ after chaotic party",
+      "excerpt": "Police in Guelph say they're establishing a \"homecoming working group\" to manage large unsanctioned gatherings after a chaotic University of Guelph party made headlines last week.",
+      "published": "2026-10-08T16:20:34.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/3fbf8f87f08472083c9d6282c89be410b292c018782ae093afb2866d1bad6c55.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T16:33:31.554Z"
+    },
+    {
+      "id": "5d9eaaf00cc8b11b",
+      "guid": "https://globalnews.ca/?p=12092598",
+      "link": "https://globalnews.ca/news/12092598/prince-harry-reveals-he-slipped-into-depression-after-moving-to-canada/",
+      "title": "Prince Harry reveals he ‘slipped into depression’ after moving to Canada",
+      "excerpt": "'It was myself, my wife and our son Archie, and we moved to Canada to get some space away from everything just to be able to think,' Prince Harry said.",
+      "published": "2026-10-08T16:17:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/prince-harry-depression-canada-masterclass.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T16:33:31.554Z"
+    },
+    {
+      "id": "da96aa01e746a9d6",
+      "guid": "https://globalnews.ca/?p=12092770",
+      "link": "https://globalnews.ca/news/12092770/hydro-quebec-energy-costs-data-centres/",
+      "title": "Consultants for Hydro-Québec defend proposal to double energy costs for data centres",
+      "excerpt": "The analysts from energy and climate consulting firm Dunsky delivered this message at a public hearing reviewing Hydro-Québec's proposal to hike rates charged to data centres.",
+      "published": "2026-10-08T16:17:26.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/8f7bb0c10a8cb5fa0250b442c34479ab3db9d4fcd896fe534e923c8b12e92f82.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T16:33:31.554Z"
+    },
+    {
+      "id": "8886729e3f209e0b",
+      "guid": "https://globalnews.ca/?p=12092755",
+      "link": "https://globalnews.ca/news/12092755/ali-assakereh-halifax-court-appearance/",
+      "title": "Confusion in Halifax courtroom over U.S. consulate bomb threat case",
+      "excerpt": "The man accused of threatening to bomb the U.S. consulate in Halifax in August made a court appearance Thursday morning via video link, but the hearing was quickly derailed.",
+      "published": "2026-10-08T16:13:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/ed08fa5b4649ff4737ce8bc71a0c2f4cb8446fe91c851544b370750ff821cad4.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T16:33:31.554Z"
+    },
+    {
+      "id": "3858f68a648cff27",
+      "guid": "https://globalnews.ca/?p=12092747",
+      "link": "https://globalnews.ca/news/12092747/heat-pump-rebate-program-carney/",
+      "title": "Ottawa launching heat pump rebate program, Carney says",
+      "excerpt": "The federal government is budgeting $2 billion over eight years with a target of retrofitting one million homes, Prime Minister Mark Carney said.",
+      "published": "2026-10-08T16:12:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/heat-pump-Carney.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-08T16:33:31.554Z"
+    },
+    {
+      "id": "c6b977f2aa86eab5",
+      "guid": "https://globalnews.ca/?p=12092684",
+      "link": "https://globalnews.ca/news/12092684/halifax-police-investigate-2020-homicide/",
+      "title": "Halifax police continue to investigate 2020 homicide of Shelia Madore",
+      "excerpt": "Shelia Madore, who was 48 at the time, was last seen on July 23, 2020 in the Gottingen Street area of Halifax, police said.",
+      "published": "2026-10-08T15:35:21.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Shelia-Madore.png",
+      "type": "article",
+      "addedAt": "2026-10-08T16:33:31.554Z"
+    },
+    {
       "id": "96bf1eb0cd376116",
       "guid": "https://globalnews.ca/?p=12092625",
       "link": "https://globalnews.ca/news/12092625/donald-trump-steel-tariffs-industry-impact/",
