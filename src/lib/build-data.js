@@ -8,6 +8,7 @@ import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 import { truncate } from './sanitize.js';
 import { isHttpUrl, URL_MAX, VIDEO_ID_RE } from './validate.js';
+import { FUTURE_TOLERANCE_MS } from './store.js';
 
 /** @typedef {import('./types.js').Source} Source */
 /** @typedef {import('./types.js').Item} Item */
@@ -143,12 +144,29 @@ function compactSource(source) {
 }
 
 /**
+ * The date the page shows and sorts by: the stored date, or when the item was added if the stored
+ * date lies more than FUTURE_TOLERANCE_MS after the build (items stored before the fetcher replaced
+ * such dates), or the build time if both do.
+ * @param {Item} item
+ * @param {number} nowMs
+ * @returns {string}
+ */
+function shownDate(item, nowMs) {
+  const limit = nowMs + FUTURE_TOLERANCE_MS;
+  const notFuture = (/** @type {unknown} */ value) => typeof value === 'string' && value !== '' && !(Date.parse(value) > limit);
+  if (notFuture(item.published)) return /** @type {string} */ (item.published);
+  if (notFuture(item.addedAt)) return item.addedAt;
+  return new Date(nowMs).toISOString();
+}
+
+/**
  * Shrink a stored item to what the browser needs. Nothing else from the item is kept.
  * @param {Item} item
  * @param {string} sourceId
+ * @param {number} [nowMs]  The build time; a date after it (beyond FUTURE_TOLERANCE_MS) is not shown.
  * @returns {FeedItem}
  */
-export function compactItem(item, sourceId) {
+export function compactItem(item, sourceId, nowMs = Date.now()) {
   const isVideo = item.type === 'video';
   /** @type {FeedItem} */
   const compact = {
@@ -156,7 +174,7 @@ export function compactItem(item, sourceId) {
     s: sourceId,
     t: typeof item.title === 'string' ? item.title : '',
     l: item.link,
-    p: typeof item.published === 'string' && item.published ? item.published : item.addedAt,
+    p: shownDate(item, nowMs),
     th: safeUrl(item.thumbnail),
     ty: isVideo ? 'v' : 'a',
     x: truncate(typeof item.excerpt === 'string' ? item.excerpt : '', EXCERPT_MAX),
@@ -220,7 +238,7 @@ export function assembleFeedData(dataDir, { now = new Date() } = {}) {
     if (stored.length === 0) continue;
     if (typeof source.language === 'string' && source.language) languages.add(source.language);
     if (typeof source.country === 'string' && source.country) countries.add(source.country);
-    for (const item of stored) items.push(compactItem(item, source.id));
+    for (const item of stored) items.push(compactItem(item, source.id, now.getTime()));
   }
   items.sort((a, b) => (a.p < b.p ? 1 : a.p > b.p ? -1 : 0));
 

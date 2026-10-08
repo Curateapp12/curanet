@@ -372,6 +372,30 @@ export function listItemFiles(dataDir) {
 // ------------------------------------------------------------------ items
 
 /**
+ * How far after the fetch a feed's date may lie before it is treated as wrong. Some publishers write
+ * world time but label it with their local offset (CTV and Noovo give "17:27 -0400" for a story
+ * published at 17:27 UTC), which puts the story hours in the future and pins it to the top of the
+ * feed. A few minutes of clock difference between servers is normal, so only dates beyond this are
+ * replaced.
+ */
+export const FUTURE_TOLERANCE_MS = 10 * 60 * 1000;
+
+/**
+ * The date an item is stored with: the feed's date, or the fetch time when the feed gave none or
+ * gave one more than FUTURE_TOLERANCE_MS after the fetch.
+ * @param {string|null|undefined} published  An ISO date from the feed, if any.
+ * @param {Date} now                        The fetch time.
+ * @returns {string}
+ */
+export function publishedOrNow(published, now) {
+  const nowIso = now.toISOString();
+  if (!published) return nowIso;
+  const time = Date.parse(published);
+  if (Number.isNaN(time) || time > now.getTime() + FUTURE_TOLERANCE_MS) return nowIso;
+  return published;
+}
+
+/**
  * Turn a parsed feed entry (or a YouTube video entry) into a stored item.
  * @param {ParsedEntry & {videoId?: string}} entry
  * @param {{now?: Date, type?: 'article'|'video', videoId?: string}} [options]
@@ -393,7 +417,7 @@ export function entryToItem(entry, { now = new Date(), type = 'article', videoId
     link,
     title,
     excerpt: truncate(String(entry.summary || ''), EXCERPT_MAX),
-    published: entry.published || nowIso,
+    published: publishedOrNow(entry.published, now),
     thumbnail,
     type,
     ...(resolvedVideoId ? { videoId: resolvedVideoId } : {}),
