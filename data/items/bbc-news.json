@@ -3,6 +3,94 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "1a816e62cfe69fa2",
+      "guid": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo",
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "excerpt": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+      "published": "2026-10-08T23:14:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T23:27:48.803Z"
+    },
+    {
+      "id": "c1f8f4ca64f8b801",
+      "guid": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo",
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "excerpt": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "published": "2026-10-08T23:11:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094f/live/d71eb240-c34c-11f1-a323-895aa67440d0.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T23:27:48.803Z"
+    },
+    {
+      "id": "68f8d5bc76c62630",
+      "guid": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo",
+      "title": "Olivia Colman on viral Wicker memes: 'This has never happened to me before'",
+      "excerpt": "Steamy jokes have flooded social media ahead of the release of the actress's latest film.",
+      "published": "2026-10-08T23:08:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e1/live/b73fb250-c2ff-11f1-9955-5d2e13ff2bea.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T23:27:48.803Z"
+    },
+    {
+      "id": "47ad8708d5ce0cf5",
+      "guid": "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo",
+      "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
+      "excerpt": "Viewers watched to see whether Richard E Grant could save himself at the first round table of the series.",
+      "published": "2026-10-08T23:08:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f8/live/7ff21200-c365-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T23:27:48.803Z"
+    },
+    {
+      "id": "b6e0499d187d334c",
+      "guid": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo",
+      "title": "'Add me to WhatsApp' scam calls to be investigated",
+      "excerpt": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+      "published": "2026-10-08T23:05:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c7c/live/774c4850-c31a-11f1-bd97-fbe5a3482cde.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T23:27:48.803Z"
+    },
+    {
+      "id": "ce82c60dc0228459",
+      "guid": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o#2",
+      "link": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o",
+      "title": "Will El Niño and the polar vortex bring snow to the UK this winter?",
+      "excerpt": "The developing El Niño may impact the UK's weather prospects this autumn and winter but cold conditions are far from guaranteed.",
+      "published": "2026-10-08T23:03:33.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6b/live/1cb3a850-c259-11f1-8b25-57b2b04e8d85.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T23:27:48.803Z"
+    },
+    {
+      "id": "d52585d4383355ab",
+      "guid": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o#1",
+      "link": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o",
+      "title": "ADHD and autism at risk of over-diagnosis, says government review",
+      "excerpt": "The review, which focuses on younger age groups, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis or mis-diagnosis.",
+      "published": "2026-10-08T23:01:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e5/live/8f4de9c0-c33f-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T23:27:48.803Z"
+    },
+    {
+      "id": "6e670e5350bc3ae9",
+      "guid": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo#2",
+      "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo",
+      "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+      "excerpt": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+      "published": "2026-10-08T23:01:16.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc3/live/94309dd0-b36c-11f1-b1d1-571ed4d7ff2c.png",
+      "type": "article",
+      "addedAt": "2026-10-08T23:27:48.803Z"
+    },
+    {
       "id": "9fa08626106962cc",
       "guid": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#1",
       "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o",
@@ -23,6 +111,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a3b/live/5d8fb500-c338-11f1-9981-cf94ea240e40.jpg",
       "type": "article",
       "addedAt": "2026-10-08T21:29:38.066Z"
+    },
+    {
+      "id": "6bfc31faf74414f7",
+      "guid": "https://www.bbc.co.uk/news/articles/ckpdgn2l04dwo#2",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgn2l04dwo",
+      "title": "Weekly quiz: How long did it take for Glastonbury tickets to sell out?",
+      "excerpt": "How much attention did you pay to what happened in the world over the past seven days?",
+      "published": "2026-10-08T19:15:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f37e/live/f878ecb0-c33a-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T23:27:48.803Z"
     },
     {
       "id": "e641b0eab6034dfa",
