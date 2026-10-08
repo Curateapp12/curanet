@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "04b9c6af0b0524c1",
+      "guid": "https://www.bbc.co.uk/news/articles/cw203n6emde8o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cw203n6emde8o",
+      "title": "Royal Navy service member charged with spying",
+      "excerpt": "The 24-year-old man is due to appear at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.",
+      "published": "2026-10-08T07:18:13.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "type": "article",
+      "addedAt": "2026-10-08T07:32:39.680Z"
+    },
+    {
+      "id": "3b63a0b48b61732d",
+      "guid": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno#1",
+      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno",
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' will continue",
+      "excerpt": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "published": "2026-10-08T07:06:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1af2/live/5079a140-c2df-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T07:32:39.680Z"
+    },
+    {
+      "id": "a7f391ceb0ea8f65",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/cm5yng71qpngo#8",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm5yng71qpngo",
+      "title": "F1 heat hazard declared for fourth time this season",
+      "excerpt": "The Singapore Grand Prix has been declared a heat-hazard race, the second weekend in a row that the designation has been used in Formula 1 and the fourth time this year.",
+      "published": "2026-10-08T06:50:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f2/live/0f9cb910-c2e3-11f1-89a3-9b445bfcfe23.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T07:32:39.680Z"
+    },
+    {
       "id": "48d65c2a3531b458",
       "guid": "https://www.bbc.co.uk/news/articles/ck24059mlzm8o#4",
       "link": "https://www.bbc.co.uk/news/articles/ck24059mlzm8o",
@@ -199,6 +232,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1da/live/5bc03880-c2b1-11f1-bc2e-018d645d8d21.jpg",
       "type": "article",
       "addedAt": "2026-10-08T03:29:42.858Z"
+    },
+    {
+      "id": "e6a5e8aa0969588c",
+      "guid": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo#4",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo",
+      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+      "excerpt": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+      "published": "2026-10-07T23:50:29.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e42/live/60b35020-c25c-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-08T07:32:39.680Z"
     },
     {
       "id": "91b34921a05827f1",
