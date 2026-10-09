@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "95b28fa8c5ecafac",
+      "guid": "8d74a444-9147-40ea-8d93-1c3ccb186452",
+      "link": "https://www.tagesschau.de/ausland/ukraine-eisenbahn-100.html",
+      "title": "Arbeiten für die ukrainische Bahn - in ständiger Gefahr",
+      "excerpt": "Für die ukrainische Eisenbahn sind Fahrten ein gefährlicher Spießrutenlauf: Es gilt, den Zug sicher ans Ziel zu bringen - trotz Drohnen- und Raketenangriffen. Wie geht es den Mitarbeitenden der Bahn dabei? Von Marc Dugge.",
+      "published": "2026-10-09T07:00:09.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a5eb8166-6adb-421e-8154-7f1bd910ed9e/AAABoR9kPTY/AAABnSSvrFg/16x9-big/sendungsbild-1808830.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T07:31:56.610Z"
+    },
+    {
+      "id": "564391da244c6a54",
+      "guid": "751dcf8d-6bc3-4f71-9edb-2894a478fb6d",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/ki-anhoerung-australien-100.html",
+      "title": "KI-Firmen müssen sich nach KI-Angriff in Australien erklären",
+      "excerpt": "KI-Firmen wie OpenAI und Anthropic haben großes Interesse an Australien, etwa um Rechenzentren zu bauen. Doch ein Übergriff eines KI-Agenten auf ein Regierungsportal wirft Fragen auf. Die Regierung will Gesetze verschärfen. Von J. Johnston.",
+      "published": "2026-10-09T06:59:55.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/11398fab-d83f-4e13-87f3-77babfc7fbb5/AAABoR92Flw/AAABnSSvrFg/16x9-big/ki-ausschuss-australien-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T07:31:56.610Z"
+    },
+    {
+      "id": "9afde794a5872efc",
+      "guid": "6c06f936-222d-405a-8ae2-6ffc5f169206",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/betriebsrente-deutschland-100.html",
+      "title": "Warum Deutschland bei Betriebsrenten Nachholbedarf hat",
+      "excerpt": "Betriebsrenten sind in anderen Ländern viel stärker verbreitet als in Deutschland. Für Arbeitgeber werden sie angesichts des Fachkräftemangels immer wichtiger, um Mitarbeiter zu gewinnen. Von Claudia Wehrle.",
+      "published": "2026-10-09T06:43:59.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/33d5a64f-15e5-4dc6-a8ab-90120c08cf9c/AAABoRW3FJU/AAABnSSvrFg/16x9-big/betriebsrente-120.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T07:31:56.610Z"
+    },
+    {
       "id": "136baf7504bb08bd",
       "guid": "3831c8c8-a525-4638-9c85-b14f3050d447",
       "link": "https://www.tagesschau.de/ausland/amerika/newyork-ice-schuesse-100.html",
