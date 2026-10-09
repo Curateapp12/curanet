@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "9ea66a2afb29bd27",
+      "guid": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo",
+      "title": "US immigration officials defend ICE agents who shot man while his child was in the car",
+      "excerpt": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+      "published": "2026-10-09T17:20:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/619e/live/0f3f8390-c404-11f1-838e-6d1d6d701264.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T17:27:33.263Z"
+    },
+    {
+      "id": "0901472719c66cf7",
+      "guid": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro#4",
+      "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "excerpt": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "published": "2026-10-09T17:14:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e67c/live/c75f8690-c3fb-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T17:27:33.263Z"
+    },
+    {
+      "id": "25fcf325b078bba6",
+      "guid": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo",
+      "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+      "excerpt": "The European Union described the move against the International Criminal Court as \"deeply regrettable\".",
+      "published": "2026-10-09T17:12:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T17:27:33.263Z"
+    },
+    {
       "id": "ebaa04c232001846",
       "guid": "https://www.bbc.co.uk/news/articles/ck3r5qrlp7w5o#1",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5qrlp7w5o",
@@ -47,6 +80,17 @@
       "addedAt": "2026-10-09T16:30:07.690Z"
     },
     {
+      "id": "2558343a8dd79e17",
+      "guid": "https://www.bbc.co.uk/news/videos/c6m2477r45e0o#2",
+      "link": "https://www.bbc.co.uk/news/videos/c6m2477r45e0o",
+      "title": "Watch: 'This has never happened before!' Olivia Colman on viral Wicker memes",
+      "excerpt": "Olivia Colman stars alongside Alexander Skarsgård in the upcoming film Wicker which has prompted many memes.",
+      "published": "2026-10-09T16:06:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c1/live/d7d4b330-c3f9-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T17:27:33.263Z"
+    },
+    {
       "id": "0be4f33f255d63ff",
       "guid": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo#1",
       "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo",
@@ -89,6 +133,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb32/live/50872bb0-4ac3-11f1-b55d-0f258dce1735.jpg",
       "type": "article",
       "addedAt": "2026-10-09T16:30:07.690Z"
+    },
+    {
+      "id": "7ada6044e53a7fb7",
+      "guid": "https://www.bbc.co.uk/news/articles/cj040n79wk94o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cj040n79wk94o",
+      "title": "Dad and son remain critical after masked men attack",
+      "excerpt": "Leicestershire Police say the attack at the family home appeared \"completely unprovoked\".",
+      "published": "2026-10-09T15:07:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3907/live/6beca660-c3ee-11f1-913a-eb4b8e15ad15.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T17:27:33.263Z"
     },
     {
       "id": "4b32e954070ac1ce",

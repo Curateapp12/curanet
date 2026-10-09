@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "14225bdacc0ea199",
+      "guid": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "excerpt": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+      "published": "2026-10-09T17:17:23.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-09T17:27:33.263Z"
+    },
+    {
+      "id": "3e81c73975d205ef",
+      "guid": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "excerpt": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+      "published": "2026-10-09T17:02:29.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-09T17:27:33.263Z"
+    },
+    {
       "id": "a107c9394b7b5ab5",
       "guid": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
       "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
