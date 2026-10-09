@@ -3,6 +3,94 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "3e7cf2152bff7d5b",
+      "guid": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o",
+      "title": "Thousands of security personnel deployed as Delhi braces for cockroach protest",
+      "excerpt": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+      "published": "2026-10-09T23:02:07.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d433/live/d30d8e00-c3d4-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "84cf53ccb40eeabe",
+      "guid": "https://www.bbc.co.uk/news/articles/cx30en32gd39o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cx30en32gd39o",
+      "title": "Ashe was too scared to cancel her wedding - the story became a hit song",
+      "excerpt": "US singer-songwriter Ashe reveals the story behind her international smash hit, Stop The Wedding.",
+      "published": "2026-10-09T23:01:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f1/live/a7071220-c304-11f1-9955-5d2e13ff2bea.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "eaeb8000c808d0f8",
+      "guid": "https://www.bbc.co.uk/news/articles/c63djxry8124o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o",
+      "title": "Boots has a new owner: Three ways it could affect you",
+      "excerpt": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+      "published": "2026-10-09T23:01:14.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cf/live/7e917260-c32a-11f1-9981-cf94ea240e40.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "9778588beed056cf",
+      "guid": "https://www.bbc.co.uk/news/articles/crvg9pl3zd5zo#4",
+      "link": "https://www.bbc.co.uk/news/articles/crvg9pl3zd5zo",
+      "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show",
+      "excerpt": "The Nigerian star will become the first African artist to headline the show at an international NFL game.",
+      "published": "2026-10-09T23:01:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b67/live/b9b86680-c3db-11f1-95ba-dba767ffba7e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "39ef1a8a6f459e00",
+      "guid": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po#1",
+      "link": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po",
+      "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
+      "excerpt": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
+      "published": "2026-10-09T23:00:53.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb4/live/31b6e570-c400-11f1-838e-6d1d6d701264.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "18798fe212f1ee6f",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o",
+      "title": "Man City whistleblower to remain in witness protection",
+      "excerpt": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
+      "published": "2026-10-09T22:59:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/90b2c580-c432-11f1-ba89-3b6b48238d10.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "ed6666fe435bb2b0",
+      "guid": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o",
+      "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+      "excerpt": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.",
+      "published": "2026-10-09T22:51:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a98/live/4fdebb20-c42f-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "4778e4b99b8db9c1",
+      "guid": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "excerpt": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "published": "2026-10-09T22:30:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
       "id": "4ec20acd7d01c46e",
       "guid": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o#1",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o",

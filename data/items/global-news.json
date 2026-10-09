@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "a80c0c9d35c4112a",
+      "guid": "https://globalnews.ca/?p=12098018",
+      "link": "https://globalnews.ca/news/12098018/marineland-whale-dies-in-chicago/",
+      "title": "Another Marineland whale dies at Shedd Aquarium in Chicago",
+      "excerpt": "It's the sixth animal from the closed Niagara Falls, Ont., theme park to die after a massive relocation of whales and dolphins over the summer.",
+      "published": "2026-10-09T22:55:14.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/beluga-transfer-e1791586464994.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "8c5a78a4bf19bad0",
+      "guid": "https://globalnews.ca/?p=12097979",
+      "link": "https://globalnews.ca/news/12097979/vancouver-bayside-lounge-closing/",
+      "title": "Bayside Lounge to close after 47 years as costs rise in Vancouver",
+      "excerpt": "The Bayside Lounge has been a West End staple, supporting local musicians and artists and welcoming visitors from around the world.",
+      "published": "2026-10-09T22:53:26.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/bayside-lounge.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "474e44e3722a27be",
+      "guid": "https://globalnews.ca/?p=12097977",
+      "link": "https://globalnews.ca/news/12097977/pq-leader-asks-caucus-to-stay-ready-for-next-election-after-minority-win/",
+      "title": "PQ leader asks caucus to stay ready for next election after minority win",
+      "excerpt": "St-Pierre Plamondon and his fellow elected members of the Parti Québécois will be sworn in on Oct. 15, and his cabinet will be announced on Oct. 21.",
+      "published": "2026-10-09T22:43:47.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/fe8cb893ff0f5d39cf8b27c11b8e2935c51e4c100cf245e887808489ab9b5dc8_8f1252.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "bc6753b4bf96ce4d",
+      "guid": "https://globalnews.ca/?p=12097974",
+      "link": "https://globalnews.ca/news/12097974/alberta-ndp-voter-list-court-challenge-rejected/",
+      "title": "Judge rejects NDP court challenge on Alberta’s ‘temporary’ voter list changes",
+      "excerpt": "The Court of King's Bench judge said the province was acting within its authority, particularly in 'preventing unauthorized use and disclosure of personal information of electors.'",
+      "published": "2026-10-09T22:34:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/Elections-Alberta-Referendum-ballot-7.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
+      "id": "1bf1aedb50e0f1bd",
+      "guid": "https://globalnews.ca/?p=12097807",
+      "link": "https://globalnews.ca/news/12097807/manitoba-farmer-whose-animals-were-stolen-hails-new-rcmp-cattle-cops/",
+      "title": "Manitoba farmer whose animals were stolen hails new RCMP cattle cops",
+      "excerpt": "A farmer. whose sheep were allegedly stolen at the end of September, welcomes the new RCMP investigation unit dedicated for livestock theft and fraud.",
+      "published": "2026-10-09T22:34:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CATTLE-COP-Courtesy-Frank-Russo-2-rotated.jpeg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T23:27:05.733Z"
+    },
+    {
       "id": "7db91d3507bfebe2",
       "guid": "https://globalnews.ca/?p=12097726",
       "link": "https://globalnews.ca/news/12097726/bc-leaders-campaign-trail-health-care-supporting-seniors-october-9/",
