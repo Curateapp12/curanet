@@ -3,6 +3,50 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "33afb6890a833801",
+      "guid": "https://globalnews.ca/?p=12097012",
+      "link": "https://globalnews.ca/news/12097012/bc-joachim-agou-apologizes/",
+      "title": "Ousted B.C. Conservative candidate Joachim Agou apologizes for posts deemed racist",
+      "excerpt": "Victoria-Beacon Hill candidate Joachim Agou says on social media that he takes responsibility for his words but rejects any accusation of racism.",
+      "published": "2026-10-09T13:30:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-flag-e1791552610252.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T13:32:53.672Z"
+    },
+    {
+      "id": "ce27d0a3dfe30c76",
+      "guid": "https://globalnews.ca/?p=12096989",
+      "link": "https://globalnews.ca/news/12096989/bc-election-take-on-taxes/",
+      "title": "Taxes — hike them or hold them — become theme in B.C. election campaign",
+      "excerpt": "Whether it's taxing the wealthy or suggesting that tax cuts will \"supercharge\" the economy, whoever becomes premier will face a projected deficit of about $13.8 billion.",
+      "published": "2026-10-09T13:20:54.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Lorne-Doerkson-e1791552017484.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T13:32:53.672Z"
+    },
+    {
+      "id": "695ea79bfa96160b",
+      "guid": "https://globalnews.ca/?p=12096975",
+      "link": "https://globalnews.ca/news/12096975/google-hydro-quebec-data-centres/",
+      "title": "Google and environmental group to question Hydro-Québec consultants on data centres",
+      "excerpt": "Quebec's energy regulator, the Régie de l'énergie, will also question the experts as part of the public hearing on proposed rate hikes for data centres.",
+      "published": "2026-10-09T13:11:09.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Hydro-Quebec-e1791551440865.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T13:32:53.672Z"
+    },
+    {
+      "id": "98fa775e88aef08e",
+      "guid": "https://globalnews.ca/?p=12075123",
+      "link": "https://globalnews.ca/news/12075123/the-ongoing-history-of-new-music-episode-1089-1976-the-birth-year-of-alt-rock-part-1/",
+      "title": "The Ongoing History of New Music, episode 1089: 1976-The birth year of alt-rock, part 1",
+      "excerpt": "Only a few people realized what was happening to music in 1976. A series of developments changed everything.",
+      "published": "2026-10-09T13:00:15.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2023/09/20230920090948-650af86a672009b76ea60329jpeg.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T13:32:53.672Z"
+    },
+    {
       "id": "cb496089e8937027",
       "guid": "https://globalnews.ca/?p=12094093",
       "link": "https://globalnews.ca/news/12094093/canada-jobs-september-2026/",

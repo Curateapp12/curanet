@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "423a631d1f2c1b0f",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291913/enquete-population-active-chomage-septembre-canada",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291913/enquete-population-active-chomage-septembre-canada",
+      "title": "L’économie a perdu 68 000 emplois en septembre, tandis que le chômage grimpe à 6,5 %",
+      "excerpt": "Ce sont les jeunes et les femmes qui ont été les plus touchés par les pertes d'emplois le mois dernier.",
+      "published": "2026-10-09T13:21:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/emploi-canada-travailleur-bois-meuble-usine.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T13:32:53.672Z"
+    },
+    {
+      "id": "f0cffb2ac809eedf",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291902/ouragan-isaias-menace-sud-etats-unis",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291902/ouragan-isaias-menace-sud-etats-unis",
+      "title": "L’ouragan Isaias se renforce et menace le sud des États-Unis",
+      "excerpt": "Il devrait toucher terre en Floride, en Alabama ou au Mississippi dans la nuit de vendredi à samedi.",
+      "published": "2026-10-09T12:49:33.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ouragan-isaias-preparatifs-alabama-sud-etats-unis.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T13:32:53.672Z"
+    },
+    {
       "id": "97a22b21b8b12d76",
       "guid": "https://ici.radio-canada.ca/nouvelle/2291896/mathieu-lacombe-expulse-conseil-ministres-pq",
       "link": "https://ici.radio-canada.ca/nouvelle/2291896/mathieu-lacombe-expulse-conseil-ministres-pq",
