@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "20b164c89d6db3ad",
+      "guid": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+      "excerpt": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+      "published": "2026-10-09T12:32:16.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
       "id": "fda7c383ea620e0d",
       "guid": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",

@@ -3,6 +3,61 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "f3e0b85ed051620e",
+      "guid": "https://www.bbc.co.uk/news/articles/c8040nl9q24do#1",
+      "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do",
+      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+      "excerpt": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
+      "published": "2026-10-09T12:29:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
+      "id": "4e375ce04cd6f268",
+      "guid": "https://www.bbc.co.uk/news/articles/c6lye90xj478o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye90xj478o",
+      "title": "Drought declared in Yorkshire after dry weather",
+      "excerpt": "Environment Agency says Yorkshire saw its fifth driest period on record between April and September.",
+      "published": "2026-10-09T12:22:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d198/live/0642ea30-b8eb-11f1-8e38-ff13e96f88b3.png",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
+      "id": "95dceb9c606acbe0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck20wpg18w19o#8",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck20wpg18w19o",
+      "title": "33 balls, 0 runs - Maddinson's record-breaking duck on Australia return",
+      "excerpt": "Opener Nic Maddinson makes the longest duck by a Test opener this century as Australia struggle on his return against South Africa.",
+      "published": "2026-10-09T12:21:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55c3/live/0c901140-c3d3-11f1-95ba-dba767ffba7e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
+      "id": "42cdf617da0892d4",
+      "guid": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo#2",
+      "link": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo",
+      "title": "Autism, ADHD and mental health review: What you need to know",
+      "excerpt": "It contains big lessons for the NHS, welfare, education and employment policies. What are the key takeaways?",
+      "published": "2026-10-09T12:16:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4041/live/d819d250-c3d4-11f1-95ba-dba767ffba7e.png",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
+      "id": "1b675c0e6c44ba04",
+      "guid": "https://www.bbc.co.uk/news/articles/c6vg98lw017po#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po",
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "excerpt": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
+      "published": "2026-10-09T11:35:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d12a/live/cfc0d0d0-c3d0-11f1-8cee-d9704951662c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
       "id": "217f44a118214404",
       "guid": "https://www.bbc.co.uk/sport/tennis/articles/crly0n5j79n5o#8",
       "link": "https://www.bbc.co.uk/sport/tennis/articles/crly0n5j79n5o",
@@ -12,6 +67,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d6e/live/de31a1f0-c3ce-11f1-8fc5-335d62f6730b.jpg",
       "type": "article",
       "addedAt": "2026-10-09T11:28:10.246Z"
+    },
+    {
+      "id": "0eb9707ce3f2cc24",
+      "guid": "https://www.bbc.co.uk/news/videos/c95yn70e678po#1",
+      "link": "https://www.bbc.co.uk/news/videos/c95yn70e678po",
+      "title": "'Deeply personal moment': Watch Sagal Abdi-Wali's by-election victory speech",
+      "excerpt": "Labour beat the Green Party with 45% of the vote in the Holborn and St Pancras by-election.",
+      "published": "2026-10-09T11:15:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5787/live/091cc3d0-c3d0-11f1-8cee-d9704951662c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
     },
     {
       "id": "9cf8e2022e5870ac",
@@ -25,6 +91,17 @@
       "addedAt": "2026-10-09T11:28:10.246Z"
     },
     {
+      "id": "f7c5db55b244c694",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o",
+      "title": "Crazy Rich Asians to return as TV show with original film's stars",
+      "excerpt": "The show will pick up after the hit 2018 film, and will also star Michelle Yeoh and Ronny Chieng.",
+      "published": "2026-10-09T10:54:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b16/live/28721870-c3bc-11f1-9798-abffda1e61e7.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
       "id": "8ada414b2d205e0c",
       "guid": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo#1",
       "link": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo",
@@ -34,6 +111,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d2/live/2852f9e0-c3cb-11f1-8fc5-335d62f6730b.jpg",
       "type": "article",
       "addedAt": "2026-10-09T11:28:10.246Z"
+    },
+    {
+      "id": "5bcca6786b9b0a79",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo",
+      "title": "Man City titles 'absolutely not' tainted - Maresca",
+      "excerpt": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League.",
+      "published": "2026-10-09T10:24:13.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/843a2b40-c3ce-11f1-8fc5-335d62f6730b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
     },
     {
       "id": "de1844e2bd19d8bd",
@@ -67,6 +155,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d0/live/b8bcb880-c3c7-11f1-bc2e-018d645d8d21.png",
       "type": "article",
       "addedAt": "2026-10-09T10:31:13.290Z"
+    },
+    {
+      "id": "a0d86c4315ed2be2",
+      "guid": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo#2",
+      "link": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo",
+      "title": "Watch: Fleeing Kyiv for the countryside ahead of winter",
+      "excerpt": "A Kyiv resident told the BBC she has moved away from \"everything that can be a Russian target\" as Ukraine braces for another cold winter under intense attacks.",
+      "published": "2026-10-09T10:00:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b6c/live/88ff1b40-c3ab-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
     },
     {
       "id": "2ad35578b76726eb",

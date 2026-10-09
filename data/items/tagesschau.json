@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "e225a2284aef43d8",
+      "guid": "d83d2cc5-746e-4a41-9d7c-ada9c2c7c3cc",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html",
+      "title": "Große Empörung über Putin-Besuch von Altkanzler Schröder",
+      "excerpt": "Vor wenigen Tagen war Altkanzler Schröder zu Gast beim russischen Präsidenten Putin. Anlass war der Geburtstag des Kremlchefs. Die Reise ruft parteiübergreifend Kritik hervor und empört auch Bundeskanzler Merz.",
+      "published": "2026-10-09T12:19:02.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e4009594-a546-4422-a5e1-05a9365ec49e/AAABoSBoICY/AAABnSSvrFg/16x9-big/schroeder-putin-122.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
+      "id": "6f9afadab16dea68",
+      "guid": "6ac42237-1cd0-43fd-8865-3fbab0ad280d",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/telekom-starlink-mittags-mb-100.html",
+      "title": "Marktbericht: Elon Musk kauft US-Mobilfunklizenzen",
+      "excerpt": "Der Milliardär Elon Musk erwirbt landesweit US-Frequenzen und drängt in den Mobilfunkmarkt. Das bedroht das Geschäft nicht nur der Telekom-Tochter T-Mobile US. Die T-Aktie gerät massiv unter Druck.",
+      "published": "2026-10-09T11:40:49.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/80b3b96b-edec-4f62-b78e-dc5afb06f4c1/AAABoR_SNm4/AAABnSSvrFg/16x9-big/starlink-140.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
+      "id": "4aa80e09ba434c93",
+      "guid": "d36687d4-2ae5-4351-b568-dfaececfb01e",
+      "link": "https://www.tagesschau.de/kultur/literatur-nobelpreis-effekt-100.html",
+      "title": "So fordert die Verleihung des Literaturnobelpreises die Buchbranche",
+      "excerpt": "Ist der Literaturnobelpreis verliehen, steigt die Nachfrage nach den Büchern. Der sogenannte Nobelpreis-Effekt stellt Buchhandlungen regelmäßig vor Herausforderungen. Doch nicht alle Preisträger profitieren gleich viel. Von V. Kleber und F. Walser",
+      "published": "2026-10-09T11:37:15.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/67c046b5-37ad-429c-8b8a-17cc7abaa068/AAABoR_-2zk/AAABnSSvrFg/16x9-big/carson-buch-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
       "id": "5176ea0926f04400",
       "guid": "5dc2349e-5eb0-4cc1-9bb8-e4a3c8ae74e1",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umsatzeinbruch-shein-temu-zoll-100.html",
