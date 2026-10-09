@@ -3,6 +3,50 @@
   "sourceId": "el-pais",
   "items": [
     {
+      "id": "28dbeca489420055",
+      "guid": "https://elpais.com/television/2026-10-09/shakira-protagoniza-la-entrevista-mas-breve-incomoda-y-extrana-de-la-revuelta.html",
+      "link": "https://elpais.com/television/2026-10-09/shakira-protagoniza-la-entrevista-mas-breve-incomoda-y-extrana-de-la-revuelta.html",
+      "title": "Shakira protagoniza la entrevista más breve, incómoda y extraña de ‘La revuelta’",
+      "excerpt": "A pesar de las risas, la cosa no fluía; era lo más parecido a ver la incomodidad de dos desconocidos atrapados en un ascensor. En ‘First Dates’ no habría habido una segunda cita; serían la pareja que ni se mira cuando abona la cuenta a medias",
+      "published": "2026-10-09T05:15:06.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/QUPM2LLGUNAFDLJEFLSFCQW53E.jpg?auth=b76777586674ae8e88544f16583663c7b347c8cb3f931117eb25387e302610ef",
+      "type": "article",
+      "addedAt": "2026-10-09T05:29:53.560Z"
+    },
+    {
+      "id": "9d32b9aef526994f",
+      "guid": "https://elpais.com/escaparate/estilo-de-vida/dispensador-automatico.html",
+      "link": "https://elpais.com/escaparate/estilo-de-vida/dispensador-automatico.html",
+      "title": "El dispensador automático de pasta de dientes que triunfa en baños pequeños",
+      "excerpt": "Su práctico sistema de presión con el cepillo reduce los gérmenes, evita las manchas y optimiza el espacio del lavabo",
+      "published": "2026-10-09T05:00:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/ABHYIARSM5GQDJX6ZL5LOK4F5Y.png?auth=baef2a55167b50437af964910f92e41c97607eb596b2127ab3dc0e2230089d83",
+      "type": "article",
+      "addedAt": "2026-10-09T05:29:53.560Z"
+    },
+    {
+      "id": "381f8f9e6cb64729",
+      "guid": "https://elpais.com/escaparate/estilo-de-vida/gadgets-mejor-valorados-para-dormir-mejor.html",
+      "link": "https://elpais.com/escaparate/estilo-de-vida/gadgets-mejor-valorados-para-dormir-mejor.html",
+      "title": "Los productos mejor valorados para dormir mejor sin gastar una fortuna",
+      "excerpt": "Un antifaz, unos tapones, un ‘topper’ viscoelástico y un humidificador son algunos de los fichajes que forman parte de esta selección",
+      "published": "2026-10-09T04:45:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/K57K42GT4RFRHC3BFX6OXJPS64.png?auth=da66b87e6282188390259ee23ad2da1bd0762c6058b0e215bc09431170a55390",
+      "type": "article",
+      "addedAt": "2026-10-09T05:29:53.560Z"
+    },
+    {
+      "id": "a243fdf1c0e46ff4",
+      "guid": "https://elpais.com/escaparate/ofertas-y-descuentos/chollos-semana-amazon-9-octubre.html",
+      "link": "https://elpais.com/escaparate/ofertas-y-descuentos/chollos-semana-amazon-9-octubre.html",
+      "title": "Los 20 chollos de Amazon que más merecen la pena esta semana",
+      "excerpt": "Una selección muy variada de descuentos con ahorros de hasta cientos de euros",
+      "published": "2026-10-09T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/V2A5U4QJNJD37HMZWLDC5EE7OI.png?auth=d0844c733b4eb32bf0dbbbc7903ec6e41d05f52bc522f4e210f1b509c4834759",
+      "type": "article",
+      "addedAt": "2026-10-09T05:29:53.560Z"
+    },
+    {
       "id": "17fbc09444b918e7",
       "guid": "https://elpais.com/escaparate/estilo-de-vida/movistar-plus-real-madrid.html",
       "link": "https://elpais.com/escaparate/estilo-de-vida/movistar-plus-real-madrid.html",
@@ -804,6 +848,39 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/D33IWSHNKNIHLBXIP5FJP5LXM4.jpg?auth=4a42f6fc8819230d566b11dbe10ddae34f2e62bf287f066dcdde13a5b3d16e8b",
       "type": "article",
       "addedAt": "2026-10-09T04:30:39.744Z"
+    },
+    {
+      "id": "fe06da0e766a2c8b",
+      "guid": "https://elpais.com/us/2026-10-09/maria-corina-machado-entra-en-las-midterms-de-estados-unidos-con-su-apoyo-a-la-republicana-maria-elvira-salazar-enemistada-con-trump.html",
+      "link": "https://elpais.com/us/2026-10-09/maria-corina-machado-entra-en-las-midterms-de-estados-unidos-con-su-apoyo-a-la-republicana-maria-elvira-salazar-enemistada-con-trump.html",
+      "title": "María Corina Machado entra en las ‘midterms’ de Estados Unidos con su apoyo a la republicana María Elvira Salazar, enemistada con Trump",
+      "excerpt": "La líder opositora venezolana respalda la reelección de la congresista por Florida en medio de las tensiones de esta con el presidente por su política migratoria",
+      "published": "2026-10-09T01:35:46.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/QKCCNFXPYJE5ZJCAE2PNLRFHCM.jpg?auth=6fbe480636ce23c7c3830aacdf8a0a1dbffa53814e3e44a680fdb8822ddadd3e",
+      "type": "article",
+      "addedAt": "2026-10-09T05:29:53.560Z"
+    },
+    {
+      "id": "93ce2af5dee4f3a4",
+      "guid": "https://elpais.com/america/2026-10-08/los-sondeos-dan-a-flavio-bolsonaro-una-ventaja-de-cuatro-puntos-frente-a-lula-en-la-segunda-vuelta.html",
+      "link": "https://elpais.com/america/2026-10-08/los-sondeos-dan-a-flavio-bolsonaro-una-ventaja-de-cuatro-puntos-frente-a-lula-en-la-segunda-vuelta.html",
+      "title": "Lula roza el empate técnico con Bolsonaro en la primera encuesta tras la primera vuelta",
+      "excerpt": "El candidato ultra obtendría un 52% frente al 48% del presidente izquierdista. Un juez ordena detener a Eduardo Bolsonaro, que reside en Estados Unidos",
+      "published": "2026-10-08T23:52:32.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/OO5CWFQ63ZNSJIMMHXYTTGZKLU.jpg?auth=06efd2fe36e920ae516104f99614c1cf7d83a9c5df55ad353fff91aaec1eaee2",
+      "type": "article",
+      "addedAt": "2026-10-09T05:29:53.560Z"
+    },
+    {
+      "id": "fc8fd7e1c7b93c6c",
+      "guid": "https://elpais.com/us/2026-10-08/christa-pike-desarrolla-neumonia-tras-sobrevivir-a-dos-inyecciones-letales-en-tennessee.html",
+      "link": "https://elpais.com/us/2026-10-08/christa-pike-desarrolla-neumonia-tras-sobrevivir-a-dos-inyecciones-letales-en-tennessee.html",
+      "title": "Christa Pike desarrolla neumonía tras sobrevivir a dos inyecciones letales en Tennessee",
+      "excerpt": "Tras recuperar la consciencia el martes, la mujer todavía presenta cierta confusión mental, según sus abogados",
+      "published": "2026-10-08T23:08:02.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/KQW6AJF7KZLFFA3DHUMJHPSB4Y.jpg?auth=c082f46de2f4824779a4fa7715adedc186eaf05fc009b1cada5f6c481feaacf5",
+      "type": "article",
+      "addedAt": "2026-10-09T05:29:53.560Z"
     },
     {
       "id": "eaa48b693f3d18d6",
@@ -4304,6 +4381,17 @@
       "addedAt": "2026-10-07T17:30:27.895Z"
     },
     {
+      "id": "a8140dcae8c5a34c",
+      "guid": "https://elpais.com/ideas/2026-10-07/irina-scherbakova-activista-no-creo-en-la-onu-ni-en-las-organizaciones-de-derechos-humanos-ni-en-las-organizaciones-de-mujeres.html",
+      "link": "https://elpais.com/ideas/2026-10-07/irina-scherbakova-activista-no-creo-en-la-onu-ni-en-las-organizaciones-de-derechos-humanos-ni-en-las-organizaciones-de-mujeres.html",
+      "title": "Irina Scherbakova, activista: “No creo en la ONU, ni en las organizaciones de derechos humanos, ni en las organizaciones de mujeres”",
+      "excerpt": "La historiadora y premio Nobel de la Paz rusa, que ha luchado por recuperar la memoria de los crímenes de Stalin, lleva en el exilio forzado desde 2022. Confiesa que se siente “increíblemente decepcionada” con el paraguas político internacional",
+      "published": "2026-10-07T03:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/REPYJETKJBFF3OJFEUC2R5B7AY.jpg?auth=f74fb650c9db7661d01423f17ee90069d466968f067b4f122c7ded3e5a63dbe3",
+      "type": "article",
+      "addedAt": "2026-10-09T05:29:53.560Z"
+    },
+    {
       "id": "adc4de655463bfe6",
       "guid": "https://elpais.com/elviajero/escapadas/espana/2026-10-07/por-los-lugares-de-goya-de-fuendetodos-a-madrid-pasando-por-zaragoza.html",
       "link": "https://elpais.com/elviajero/escapadas/espana/2026-10-07/por-los-lugares-de-goya-de-fuendetodos-a-madrid-pasando-por-zaragoza.html",
@@ -6359,6 +6447,17 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/YA2ZNMRMWZDX7LHMTBSGJ7AYLI.jpg?auth=6931512ee673a6fdcb6ee26e409c1e14a8cf3c415d5dc4119f5602790c647186",
       "type": "article",
       "addedAt": "2026-10-05T23:58:13.599Z"
+    },
+    {
+      "id": "a98a9d1c4227a05b",
+      "guid": "https://elpais.com/ideas/2026-10-02/obsesion-por-el-crecimiento-rapido-la-ia-puede-caer-en-el-mismo-error-que-las-redes-sociales.html",
+      "link": "https://elpais.com/ideas/2026-10-02/obsesion-por-el-crecimiento-rapido-la-ia-puede-caer-en-el-mismo-error-que-las-redes-sociales.html",
+      "title": "Obsesión por el crecimiento rápido: la IA puede caer en el mismo error que las redes sociales",
+      "excerpt": "Las empresas punteras del sector están entrenando a sus modelos de un modo que conduce a una inteligencia distorsionada cada vez más peligrosa",
+      "published": "2026-10-02T03:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/3VSGGYMVOFCE5MFY7ERYWSGMNI.jpg?auth=1f03815768d8b02859c700cc4248aca627df32d1bb8a0797b2963ee81f02e62e",
+      "type": "article",
+      "addedAt": "2026-10-09T05:29:53.560Z"
     },
     {
       "id": "1557ce291233ed2e",
