@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "a7df3a487a259723",
+      "guid": "dd6d5992-7db4-4d42-8c24-f22bb4f49034",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-millionenstrafe-bafin-veroeffentlichungspflicht-100.html",
+      "title": "Finanzaufsicht verhängt 1,2-Millionen-Euro-Strafe gegen Volkswagen",
+      "excerpt": "Die Finanzaufsicht BaFin hat Volkswagen wegen eines mutmaßlichen Verstoßes gegen Veröffentlichungspflichten mit einer millionenschweren Geldbuße belegt. Es geht um die Regeln zu Insider-Informationen.",
+      "published": "2026-10-09T08:00:22.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5f892207-0c5f-47b6-808d-e0bbd5edf4f7/AAABoR9rnW4/AAABnSSvrFg/16x9-big/vw-1602.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T08:32:02.693Z"
+    },
+    {
+      "id": "a1f5696d03a36ca8",
+      "guid": "dc386d89-e315-4996-aea6-131a22d26456",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
+      "title": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
+      "excerpt": "Unterhändler aus der Ukraine und den USA treffen sich zu Gesprächen über den Krieg. Die vergangenen Tage in der Ukraine waren geprägt von massiven russischen Angriffen mit vielen Toten. Außenminister Wadephul verschärft seinen Ton gegenüber Putin.",
+      "published": "2026-10-09T07:57:06.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/26d69c80-f0b6-4586-b3e1-5e77b7d86096/AAABoR9xg9U/AAABnSSvrFg/16x9-big/autowracks-ukraine-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T08:32:02.693Z"
+    },
+    {
       "id": "95b28fa8c5ecafac",
       "guid": "8d74a444-9147-40ea-8d93-1c3ccb186452",
       "link": "https://www.tagesschau.de/ausland/ukraine-eisenbahn-100.html",

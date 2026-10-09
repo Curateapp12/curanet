@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "32035cdf444db9d3",
+      "guid": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "excerpt": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+      "published": "2026-10-09T08:27:42.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-09T08:32:02.693Z"
+    },
+    {
       "id": "ca5ab3cf48f5df8e",
       "guid": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
