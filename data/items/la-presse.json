@@ -3,6 +3,50 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "2f88597f29be78b5",
+      "guid": "ad131c6dfdeb3b8ca3bc72de9c3c9772",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-09/le-scandale-de-l-itinerance.php",
+      "title": "Le scandale de l’itinérance",
+      "excerpt": "Il y a très longtemps, j’ai visité le Québec du bout du monde pour une série dans La Presse, série qui m’avait emmené à Radisson, au pied de l’aménagement Robert-Bourassa, la centrale hydroélectrique LG-2.",
+      "published": "2026-10-09T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/aefed4b2318e333a80e109da33cd7e1f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
+      "id": "5e72239ecbfdbced",
+      "guid": "e75b89f6f4cc30d08c6f5de73210ad1d",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-09/du-viol-collectif-a-l-indignation-collective.php",
+      "title": "Du viol collectif à l’indignation collective",
+      "excerpt": "Sept hommes, sept heures, sept ans après le scandale Weinstein… Dans le scandale du viol collectif allégué à l’Université Cornell, chaque jour qui passe amène un nouveau motif d’indignation collective. Il faudrait plus qu’une chronique pour dresser la liste de ces motifs qui s’accumulent et…",
+      "published": "2026-10-09T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/0f2cdd9cfbab314a9cf0331240a585ff.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
+      "id": "d1034711c757ef43",
+      "guid": "25e4d7f38177372583b17f15349ba9be",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-10-09/la-presse-en-alberta/au-coeur-du-champ-de-bataille-sur-la-route-du-referendum.php",
+      "title": "La Presse en Alberta | Au cœur du champ de bataille sur la route du référendum",
+      "excerpt": "Dans le sud de l’Alberta, le référendum imminent sur l’avenir de la province déchaîne les passions dans les camps fédéraliste et séparatiste. Un reportage d’Antoine Trépanier",
+      "published": "2026-10-09T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/8771572764473364a0744f3359b99302.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
+      "id": "eb873c443c1bbcfe",
+      "guid": "d94cee1c2c553441900ec1368d0783ce",
+      "link": "https://www.lapresse.ca/actualites/environnement/2026-10-09/demystifier-l-environnement/habiter-pres-d-une-route-passante-nuit-il-a-la-sante.php",
+      "title": "Démystifier l’environnement | Habiter près d’une route passante nuit-il à la santé ?",
+      "excerpt": "Chaque mois, nos journalistes répondent à des questions environnementales posées par des lecteurs.",
+      "published": "2026-10-09T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/53ee8a10d8033d0c946b14b01f55430e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
       "id": "9fd02a8eecdc69b9",
       "guid": "429598d636d7393aaeab4f8dc65bcda2",
       "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-08/montreal/des-coups-de-feu-entendus-dans-saint-leonard.php",

@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "0f494cc0f24b7d45",
+      "guid": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko#4",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko",
+      "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
+      "excerpt": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+      "published": "2026-10-09T09:09:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7cf/live/3ede9ef0-c3b5-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
       "id": "96aed4c4fee6f7d1",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo#1",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo",
@@ -12,6 +23,50 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1b/live/b994bd10-bdf3-11ef-b3ff-2979052719d0.jpg",
       "type": "article",
       "addedAt": "2026-10-09T08:32:02.693Z"
+    },
+    {
+      "id": "2342e49d9ce9cc24",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo",
+      "title": "Is £70m Baleba ready for his Man Utd exam?",
+      "excerpt": "Manchester United's £70m summer signing Carlos Baleba is expected to make his debut against Tottenham Hotspur at Old Trafford",
+      "published": "2026-10-09T07:57:23.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/440f/live/1d2280c0-c34b-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
+      "id": "23261bec2aec3aed",
+      "guid": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o",
+      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
+      "excerpt": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
+      "published": "2026-10-09T07:19:24.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b3/live/d4f32e10-c2fc-11f1-b8c6-6d610e41a5d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
+      "id": "09bd5efb968417df",
+      "guid": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o",
+      "title": "'Careless use of AI is the real threat - not the ghost stories'",
+      "excerpt": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
+      "published": "2026-10-09T07:05:01.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/208feab0-bc0f-11f1-a430-4d16ee157c41.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
+      "id": "cd445bb377154416",
+      "guid": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo",
+      "title": "Why Elon Musk is taking on India's richest man over Starlink",
+      "excerpt": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
+      "published": "2026-10-09T06:42:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be51/live/230c4570-c39b-11f1-842b-391996d37e08.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
     },
     {
       "id": "f747d8ee1d863654",
@@ -133,6 +188,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b2b/live/fbfce8e0-c372-11f1-a64c-550be9e3c66b.png",
       "type": "article",
       "addedAt": "2026-10-09T00:41:42.516Z"
+    },
+    {
+      "id": "1dd109cb3d200014",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#8",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997",
+      "title": "Australia's Smith in early on return to South Africa - scorecard",
+      "excerpt": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
+      "published": "2026-10-09T00:00:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d54/live/4a863590-c3c1-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
     },
     {
       "id": "2f4251ab93dfe394",

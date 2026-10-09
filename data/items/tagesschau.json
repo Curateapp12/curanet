@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "883a335916b6a9df",
+      "guid": "44977787-8bad-4f8c-b8c5-58731c1ce239",
+      "link": "https://www.tagesschau.de/ausland/europa/eilmeldung-friedensnobelpreis-navi-pillay-100.html",
+      "title": "Friedensnobelpreis geht an Navanethem \"Navi\" Pillay",
+      "excerpt": "Der Friedensnobelpreis geht in diesem Jahr an die südafrikanische Juristin Navanethem \"Navi\" Pillay. Sie werde für ihren mutigen Einsatz für das Völkerrecht und ihren Einsatz gegen Kriegsverbrechen und Genozid gewürdigt, erklärte die Jury in Oslo.",
+      "published": "2026-10-09T09:18:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f4238afb-f4ac-48e0-8ac2-19e989505063/AAABoR_qUNQ/AAABnSSvrFg/16x9-big/pillay-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
+      "id": "757d60a5b77ebc41",
+      "guid": "25b6b6a5-0df4-4ea3-b34a-7e8fd8218e09",
+      "link": "https://www.tagesschau.de/ausland/amerika/machado-venezuela-100.html",
+      "title": "Nobelpreisträgerin Machado: Weiter im Exil - mit wenig Einfluss",
+      "excerpt": "Die Verleihung des Friedensnobelpreises an die Oppositionsführerin Machado galt in Venezuela als Zeichen der Hoffnung. Davon ist nach einem Jahr jedoch nicht mehr viel geblieben - auch wegen der mangelnden Unterstützung Trumps. Von Jenny Barke.",
+      "published": "2026-10-09T08:49:03.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c616a65c-c99f-4f31-a5f0-457ca968ae97/AAABoR_aAbM/AAABnSSvrFg/16x9-big/machado-128.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
+      "id": "5ec7ac4693c538e4",
+      "guid": "85cc67de-bafc-4c21-9428-45f991821728",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fuehrerschein-kosten-156.html",
+      "title": "Führerschein könnte laut Verkehrsminister Bilger viel billiger werden",
+      "excerpt": "Der Führerschein soll billiger werden. Einen entsprechenden Gesetzentwurf hatte das Bundeskabinett im Mai auf den Weg gebracht. Nun hat Verkehrsminister Bilger erstmals konkrete Zahlen genannt. Von Jasper Ruppert.",
+      "published": "2026-10-09T08:32:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/80a0c2c1-df0d-464d-8638-609344a9de4c/AAABoR_K0os/AAABnSSvrFg/16x9-big/fuehrerschein-250.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
+      "id": "815710f2c0b915d2",
+      "guid": "d07dc871-2e81-44fc-91b6-4c667c32ce74",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
+      "title": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
+      "excerpt": "Der DAX kehrt zurück über die Marke von 25.000 Punkten. Aber wie nachhaltig ist der Kursanstieg? An der Börse gibt es weiterhin viele Unsicherheitsfaktoren - auch mit Blick auf den Rohölmarkt, wo die Preise zuletzt nachgaben.",
+      "published": "2026-10-09T08:32:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/68dbb183-1517-4291-a260-61dfdc68e500/AAABnLJS29A/AAABnSSvrFg/16x9-big/boerse-490.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-09T09:31:12.622Z"
+    },
+    {
       "id": "a7df3a487a259723",
       "guid": "dd6d5992-7db4-4d42-8c24-f22bb4f49034",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-millionenstrafe-bafin-veroeffentlichungspflicht-100.html",
