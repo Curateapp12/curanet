@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "d5a3c4e7972133c1",
+      "guid": "https://globalnews.ca/?p=12097610",
+      "link": "https://globalnews.ca/news/12097610/russia-diesel-trump-putin/",
+      "title": "Trump says Russia will supply 300K tons of diesel despite global sanctions",
+      "excerpt": "U.S. President Donald Trump added that Russia would then deliver 3 million tons of diesel fuel within a short period of time, based on the condition of its diesel refineries",
+      "published": "2026-10-09T19:18:10.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Trump-Putin-call.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T19:28:31.240Z"
+    },
+    {
+      "id": "a0ff000b096c0630",
+      "guid": "https://globalnews.ca/?p=12097509",
+      "link": "https://globalnews.ca/news/12097509/hoax-threat-call-halifax-high-school/",
+      "title": "Fake threat call to Halifax high school came from outside Canada: Police",
+      "excerpt": "In an update Friday, police said they had determined the call originated outside of Canada and were working with Florida law enforcement.",
+      "published": "2026-10-09T18:54:46.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Halifax-school-threat-e1791570364774.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T19:28:31.240Z"
+    },
+    {
+      "id": "1d577e8f0f23f303",
+      "guid": "https://globalnews.ca/?p=12097356",
+      "link": "https://globalnews.ca/news/12097356/man-arrested-miami-airport-smuggling-birds-in-underwear/",
+      "title": "Man arrested at Miami airport after allegedly smuggling birds in underwear",
+      "excerpt": "Officers performed a pat-down on the man and discovered six plastic tubes that were sewn into his underwear with live birds inside.",
+      "published": "2026-10-09T18:52:27.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/man-caught-smuggling-birds-miami-airport.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T19:28:31.240Z"
+    },
+    {
+      "id": "6b473f83dc07f022",
+      "guid": "https://globalnews.ca/?p=12097208",
+      "link": "https://globalnews.ca/news/12097208/hellebuycks-lost-salary-website-tracker/",
+      "title": "Winnipeg Jets fan tracks Hellebuyck’s lost salary with ‘funny, informative’ site",
+      "excerpt": "A new website is tracking exactly how much money Winnipeg Jets goaltender Connor Hellebuyck has lost since the season opened without him in net.",
+      "published": "2026-10-09T18:49:14.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/hellebuyck-money-loss-website.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T19:28:31.240Z"
+    },
+    {
+      "id": "3ca79e9583d28fc7",
+      "guid": "https://globalnews.ca/?p=12093745",
+      "link": "https://globalnews.ca/news/12093745/okanagan-growers-crop-insurance-not-keeping-up-changing-climate/",
+      "title": "Okanagan growers say crop insurance isn’t keeping up with a changing climate",
+      "excerpt": "The weather can bring extreme heat, cold, drought, hail or wildfire smoke, and any one of those can wipe out a crop or make grapes impossible to sell.",
+      "published": "2026-10-09T18:42:20.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Screenshot-2026-10-08-180039.png",
+      "type": "article",
+      "addedAt": "2026-10-09T19:28:31.240Z"
+    },
+    {
+      "id": "f4aca5a195a61fd2",
+      "guid": "https://globalnews.ca/?p=12097505",
+      "link": "https://globalnews.ca/news/12097505/homicide-arrest-june-killing-winnipeg/",
+      "title": "Woman arrested in connection with killing of 73-year-old in Winnipeg: police",
+      "excerpt": "A woman was arrested Wednesday and is facing a second-degree murder charge in connection to the killing of a 73-year-old woman, Winnipeg police said.",
+      "published": "2026-10-09T18:39:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/woman-arrested-homicide.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T19:28:31.240Z"
+    },
+    {
+      "id": "277b04585c8c36cc",
+      "guid": "https://globalnews.ca/?p=12097342&preview=true&preview_id=12097342",
+      "link": "https://globalnews.ca/news/12097342/openai-fires-safety-researchers-risks/",
+      "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+      "excerpt": "OpenAI said Friday that it fired three safety researchers for a 'breach of trust,' defending the dismissals after the trio accused the company of putting interests before safety.",
+      "published": "2026-10-09T18:33:01.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/dc77c56f1cb4b3f2cff66e8d011e6443b1be9a76868318707ee27251a1ce4f15.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T19:28:31.240Z"
+    },
+    {
       "id": "dec08b196e33d390",
       "guid": "https://globalnews.ca/?p=12097339&preview=true&preview_id=12097339",
       "link": "https://globalnews.ca/news/12097339/us-federal-reserve-wealthiest-age-group/",
