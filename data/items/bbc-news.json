@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "0627226f7e2df468",
+      "guid": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo",
+      "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
+      "excerpt": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
+      "published": "2026-10-09T15:18:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c55/live/40cd86c0-c3ee-11f1-913a-eb4b8e15ad15.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T15:30:07.194Z"
+    },
+    {
+      "id": "4b32e954070ac1ce",
+      "guid": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po",
+      "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
+      "excerpt": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
+      "published": "2026-10-09T14:35:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea5f/live/df9f5520-c241-11f1-babe-4199b0e7ccea.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T15:30:07.194Z"
+    },
+    {
+      "id": "60c7674731dcc9c7",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo",
+      "title": "I've got my own questions on Man City case - Carrick",
+      "excerpt": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
+      "published": "2026-10-09T14:30:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c67/live/e425d740-c3b8-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T15:30:07.194Z"
+    },
+    {
       "id": "920f135c2d32123e",
       "guid": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro#8",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro",
@@ -12,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98e4/live/d4af98b0-c3e9-11f1-badc-154546719036.jpg",
       "type": "article",
       "addedAt": "2026-10-09T14:34:02.666Z"
+    },
+    {
+      "id": "9508e775f1e672f2",
+      "guid": "https://www.bbc.co.uk/news/articles/ckly04vdqz9yo#4",
+      "link": "https://www.bbc.co.uk/news/articles/ckly04vdqz9yo",
+      "title": "Man who kept wife's body in freezer jailed for life",
+      "excerpt": "David Barraclough is jailed for at least 22 years for killing Carolann Barraclough.",
+      "published": "2026-10-09T14:21:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f4/live/f65222c0-c192-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T15:30:07.194Z"
     },
     {
       "id": "1e44f84ceaae544f",
@@ -34,6 +78,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d8/live/3efd73f0-c3e9-11f1-badc-154546719036.jpg",
       "type": "article",
       "addedAt": "2026-10-09T14:34:02.666Z"
+    },
+    {
+      "id": "b4c6f0eef745e356",
+      "guid": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "excerpt": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "published": "2026-10-09T14:00:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T15:30:07.194Z"
     },
     {
       "id": "1114a5dc0e2cfc3a",
