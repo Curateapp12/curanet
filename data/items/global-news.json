@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "970e040e8f317df7",
+      "guid": "https://globalnews.ca/?p=12097851",
+      "link": "https://globalnews.ca/news/12097851/hamilton-anti-encampment-bylaw-open-to-new-challenge/",
+      "title": "Ontario’s top court paves way to reopen challenge of Hamilton’s anti-encampment law",
+      "excerpt": "The Ontario Court of Appeal left the constitutionality of the bylaw and the city’s enforcement practices for a new trial judge to decide.",
+      "published": "2026-10-09T21:09:53.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Hamilton-encampment-e1791580157969.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T21:28:28.896Z"
+    },
+    {
+      "id": "943b15b22f83c118",
+      "guid": "https://globalnews.ca/?p=12097711",
+      "link": "https://globalnews.ca/news/12097711/siu-clears-toronto-police-shooting-involving-marc-pinizzotto/",
+      "title": "SIU clears Toronto police officer who shot suspected killer of Const. Marc Pinizzotto",
+      "excerpt": "Ontario’s police watchdog says Toronto police had “no alternative” but to shoot a man accused of killing Const. Marc Pinizzotto during a raid at a North York apartment.",
+      "published": "2026-10-09T21:02:20.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/06/tps-fallen-officer-e1781792629261.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T21:28:28.896Z"
+    },
+    {
+      "id": "4d16608440b91ef3",
+      "guid": "https://globalnews.ca/?p=12097686",
+      "link": "https://globalnews.ca/news/12097686/child-sex-abuse-investigation-winnipeg-man/",
+      "title": "International child sex abuse investigation prompts charges for Winnipeg man",
+      "excerpt": "A 50-year-old man is facing numerous charges for allegedly accessing, importing and distributing child sexual abuse and exploitation material, according to the Winnipeg police.",
+      "published": "2026-10-09T20:56:47.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/winnipeg-man-child-porn-charges.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T21:28:28.896Z"
+    },
+    {
+      "id": "923549d6709ba8c3",
+      "guid": "https://globalnews.ca/?p=12097751&preview=true&preview_id=12097751",
+      "link": "https://globalnews.ca/news/12097751/alberta-referendum-poilievre-unity-campaign/",
+      "title": "Poilievre to campaign for Canadian unity in Alberta next week ahead of referendum",
+      "excerpt": "Pierre Poilievre is scheduled to deliver his speech during the Canada Strong and Free Network conference in Calgary on Oct. 16, followed by an address from Premier Danielle Smith.",
+      "published": "2026-10-09T20:44:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/06/60f1eb98bf13a7432c59514bdcacb41013af92830c9d7e1a519785bc7850db31.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T21:28:28.896Z"
+    },
+    {
+      "id": "978f323139b95b63",
+      "guid": "https://globalnews.ca/?p=12097761",
+      "link": "https://globalnews.ca/news/12097761/halton-police-911-ai/",
+      "title": "Ontario police service using AI in hiring, training 911 call takers",
+      "excerpt": "Halton police said an American firm provides the technology to simulate emergency calls to help 911 applicants improve decision-making, communication and crisis management skills.",
+      "published": "2026-10-09T20:29:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Halton-police-e1791577732881.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T21:28:28.896Z"
+    },
+    {
       "id": "80a93c2f4c644599",
       "guid": "https://globalnews.ca/?p=12097658",
       "link": "https://globalnews.ca/news/12097658/alberta-calgary-edmonton-infill-housing-rules/",
