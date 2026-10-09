@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "6dba107635c05114",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292076/conseil-des-ministres-deputes-assermentation",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292076/conseil-des-ministres-deputes-assermentation",
+      "title": "Le Conseil des ministres du PQ sera présenté le 21 octobre",
+      "excerpt": "Les 127 députés de l'Assemblée nationale du Québec seront quant à eux assermentés jeudi prochain.",
+      "published": "2026-10-09T20:07:53.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/assemblee-nationale-photo-prise-a-lassemblee-nationale-quebec-canada-le-19-fevrier-2026_02172026-photo-sylvain-roy-roussel-cbc-radio-canada-assnat001.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T20:27:37.057Z"
+    },
+    {
+      "id": "b5df998329d397b3",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292034/rem-panne-temoignage-securite-communication",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292034/rem-panne-temoignage-securite-communication",
+      "title": "Panne du REM en raison de la foudre : des usagers évacués à pied sur les rails",
+      "excerpt": "Un utilisateur du REM se dit choqué par le manque d’accompagnement quand les passagers ont dû sortir du train.",
+      "published": "2026-10-09T19:40:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rem-panne-foudre-pulsar-transport-33625.png",
+      "type": "article",
+      "addedAt": "2026-10-09T20:27:37.057Z"
+    },
+    {
+      "id": "b79066e362d70938",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291969/action-collective-prets-rapides-alterfina-fairstone-easyfinanciere",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291969/action-collective-prets-rapides-alterfina-fairstone-easyfinanciere",
+      "title": "Taux de crédit de plus de 35 % : des prêteurs visés par une action collective",
+      "excerpt": "La poursuite, qui n’a pas encore été autorisée, a été déposée par l’Union des consommateurs.",
+      "published": "2026-10-09T19:39:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/alterfina-creditmatik-fairstone-easyfinancial.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T20:27:37.057Z"
+    },
+    {
       "id": "f234d5ab965a9aac",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292033/cartes-credit-desjardins-operations-inaccessibles",
       "link": "https://ici.radio-canada.ca/nouvelle/2292033/cartes-credit-desjardins-operations-inaccessibles",
