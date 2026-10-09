@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "9d9607d0b7911d80",
+      "guid": "https://globalnews.ca/?p=12093707",
+      "link": "https://globalnews.ca/news/12093707/montreal-3000-spots-emergency-shelters-winter/",
+      "title": "Montreal mayor says city will offer 3,000 spots in emergency shelters for unhoused",
+      "excerpt": "The mayor says homelessness is the biggest humanitarian crisis the city is facing.",
+      "published": "2026-10-09T00:39:25.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/06/58fbcdc4105386f30aabee12efb42fbd87d479f3a85dd87ccf02a53731b0b85b.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T00:41:42.516Z"
+    },
+    {
+      "id": "1faab9a0141019c6",
+      "guid": "https://globalnews.ca/?p=12093686",
+      "link": "https://globalnews.ca/news/12093686/quebec-election-false-information-ai-chatbots/",
+      "title": "Many Quebec voters got false election information from chatbot, MPs hear",
+      "excerpt": "Because Quebec news outlets don't allow chatbots to access their content, voters couldn’t obtain the most accurate and up-to-date information, a McGill political scientist said.",
+      "published": "2026-10-09T00:30:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/07/710128aad6ea9b4101e208e73dd481f996cee1a10e07acf466dca17eb02659a1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T00:41:42.516Z"
+    },
+    {
+      "id": "9f90d7e872106194",
+      "guid": "https://globalnews.ca/?p=12093646",
+      "link": "https://globalnews.ca/news/12093646/fort-hood-execution-livestreamed/",
+      "title": "Pentagon says Fort Hood shooter’s execution will be livestreamed",
+      "excerpt": "The Army announced this week that the execution would take place at Fort Hood on Dec. 3.",
+      "published": "2026-10-08T23:51:10.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2013/08/txtg201-821_2013_102140_high2.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T00:41:42.516Z"
+    },
+    {
+      "id": "83393ad598dfbe65",
+      "guid": "https://globalnews.ca/?p=12093506",
+      "link": "https://globalnews.ca/news/12093506/homicide-investigator-tory-dunn-homicide-trial-surrey/",
+      "title": "Homicide investigator testifies at Tori Dunn homicide trial",
+      "excerpt": "Const. Ryan Gerlinski took the stand on Thursday. He has been a member of the Integrated Homicide Investigation Team for 4.5 years.",
+      "published": "2026-10-08T23:31:37.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2024/06/6P-TORI-DUNN-VIGIL-JUNE_WEB.png",
+      "type": "article",
+      "addedAt": "2026-10-09T00:41:42.516Z"
+    },
+    {
+      "id": "f167aec2c32212c6",
+      "guid": "https://globalnews.ca/?p=12093537",
+      "link": "https://globalnews.ca/news/12093537/climate-driven-wildfires-cost-trillions/",
+      "title": "Climate-driven wildfires in Canada could cost future generations trillions: study",
+      "excerpt": "\"A motivation of this study was to put it into economic terms that the general public could grasp a little bit better,\" researcher Sian Kou-Giesbrecht said.",
+      "published": "2026-10-08T23:29:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/08/36af082b2cee0e0b021e9350a5af96466c7026a525e16d965dc8f28209122383_03c942.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T00:41:42.516Z"
+    },
+    {
       "id": "9fd5f3cf005e43d0",
       "guid": "https://globalnews.ca/?p=12093519",
       "link": "https://globalnews.ca/news/12093519/manitoba-livestock-theft-officer/",

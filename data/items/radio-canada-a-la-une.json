@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "4b6e46e125be96d9",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291778/giuliano-da-empoli-ecrivain-fondateur",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291778/giuliano-da-empoli-ecrivain-fondateur",
+      "title": "« Pas besoin d’aller dans le futur pour vivre une dystopie », dit Giuliano da Empoli",
+      "excerpt": "Patrice Roy a discuté avec l'écrivain à l’occasion de la parution de son roman Le fondateur.",
+      "published": "2026-10-08T23:40:56.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/giuliano-da-empoli-entrevue-patrice-roy.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T00:41:42.516Z"
+    },
+    {
+      "id": "968e3e7bdc52ed7d",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291816/avion-detourne-air-liaison-romaine",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291816/avion-detourne-air-liaison-romaine",
+      "title": "Atterrissage d’urgence à La Romaine : des accusations seront déposées",
+      "excerpt": "Il doit comparaître vendredi sous des chefs d’accusation d’atteinte à la sécurité des aéronefs.",
+      "published": "2026-10-08T22:19:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/air-liaison-avion-basse-cote-nord.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T00:41:42.516Z"
+    },
+    {
       "id": "018d796bf4217866",
       "guid": "https://ici.radio-canada.ca/nouvelle/2291832/hegseth-fusillade-fort-hood-execution-publique-hasan",
       "link": "https://ici.radio-canada.ca/nouvelle/2291832/hegseth-fusillade-fort-hood-execution-publique-hasan",
@@ -56,6 +78,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jade-racette-beaulieu-victime.jpeg",
       "type": "article",
       "addedAt": "2026-10-08T22:29:04.090Z"
+    },
+    {
+      "id": "fcf5c2a4e56ab373",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291696/recours-collectif-spa-nordik-chelsea-agression-sexuelle-massage",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291696/recours-collectif-spa-nordik-chelsea-agression-sexuelle-massage",
+      "title": "L’action collective contre le Nordik Spa Village de Chelsea sera entendue",
+      "excerpt": "Plus de 140 personnes disent avoir été agressées sexuellement lors de massages.",
+      "published": "2026-10-08T20:31:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/nordik-spa-nature-chelsea-2.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-09T00:41:42.516Z"
     },
     {
       "id": "94acb9bbb5cace6a",
