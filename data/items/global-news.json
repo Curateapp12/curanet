@@ -3,6 +3,28 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "1874b029047424d6",
+      "guid": "https://globalnews.ca/?p=12097061",
+      "link": "https://globalnews.ca/news/12097061/montreal-rescue-highrise-platform-malfunction/",
+      "title": "Workers rescued from Montreal highrise after platform malfunction",
+      "excerpt": "Two people repairing windows are safely on the ground after hanging multiple storeys in the air when their platform malfunctioned.",
+      "published": "2026-10-09T14:31:31.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Highrise-rescue-e1791555813855.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T14:34:02.666Z"
+    },
+    {
+      "id": "41f9a0ccd4e7b288",
+      "guid": "https://globalnews.ca/?p=12097004&preview=true&preview_id=12097004",
+      "link": "https://globalnews.ca/news/12097004/nobel-peace-prize-navi-pillay/",
+      "title": "Nobel Peace Prize goes to Navi Pillay, former UN human rights chief",
+      "excerpt": "The committee said Pillay's award was a message to those seeking to undermine 'the international rules-based system and the institutions.'",
+      "published": "2026-10-09T13:33:00.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/afbe35d8ab24e2c1c3058d74b45ed97b4fada03cf9419c4cca794ad068f5fbe9.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-09T14:34:02.666Z"
+    },
+    {
       "id": "33afb6890a833801",
       "guid": "https://globalnews.ca/?p=12097012",
       "link": "https://globalnews.ca/news/12097012/bc-joachim-agou-apologizes/",

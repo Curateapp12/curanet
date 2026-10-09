@@ -3,6 +3,61 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "920f135c2d32123e",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro#8",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro",
+      "title": "Verstappen on sprint pole after another settings issue",
+      "excerpt": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
+      "published": "2026-10-09T14:28:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98e4/live/d4af98b0-c3e9-11f1-badc-154546719036.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T14:34:02.666Z"
+    },
+    {
+      "id": "1e44f84ceaae544f",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o",
+      "title": "What reception awaits Man City at Anfield?",
+      "excerpt": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
+      "published": "2026-10-09T14:02:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dfb/live/55b72350-c3d2-11f1-95ba-dba767ffba7e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T14:34:02.666Z"
+    },
+    {
+      "id": "02b8e9741510fcb5",
+      "guid": "https://www.bbc.co.uk/news/articles/cw1m45l17n7no#4",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m45l17n7no",
+      "title": "Ofsted faces fresh calls to halt graded school inspections in England",
+      "excerpt": "A second head teachers' union says it is \"increasingly concerned\" about members' \"welfare and morale\".",
+      "published": "2026-10-09T14:01:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d8/live/3efd73f0-c3e9-11f1-badc-154546719036.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T14:34:02.666Z"
+    },
+    {
+      "id": "1114a5dc0e2cfc3a",
+      "guid": "https://www.bbc.co.uk/sport/articles/cm79pdw50y7wo#8",
+      "link": "https://www.bbc.co.uk/sport/articles/cm79pdw50y7wo",
+      "title": "'Good value in pub' - ex-NFL star Kelce tries rugby",
+      "excerpt": "Former Philadelphia Eagles Super Bowl winner Jason Kelce stuns amateur London rugby players by showing up for a practice game.",
+      "published": "2026-10-09T13:40:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0859/live/b71e5550-c3c8-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T14:34:02.666Z"
+    },
+    {
+      "id": "7c872542b78cb99b",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/cmje5x0enkxqo#8",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmje5x0enkxqo",
+      "title": "Mercedes critics think I'm Satan - Wolff",
+      "excerpt": "Mercedes Formula 1 boss Toto Wolff rejects accusations of team of bias against George Russell, calling critics \"brainless\".",
+      "published": "2026-10-09T13:24:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc98/live/71cbc180-c3e2-11f1-badc-154546719036.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T14:34:02.666Z"
+    },
+    {
       "id": "9abf5d2b766b8384",
       "guid": "https://www.bbc.co.uk/news/articles/c6n041dq7qd4o#4",
       "link": "https://www.bbc.co.uk/news/articles/c6n041dq7qd4o",
@@ -12,6 +67,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c835/live/d4d088d0-c3d6-11f1-a64c-550be9e3c66b.jpg",
       "type": "article",
       "addedAt": "2026-10-09T13:32:53.672Z"
+    },
+    {
+      "id": "a6e5f858d2bdefff",
+      "guid": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo",
+      "title": "Burnham promises to curb non-compete rules in job contracts",
+      "excerpt": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+      "published": "2026-10-09T13:02:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887d/live/a06cb1b0-c3de-11f1-95ba-dba767ffba7e.png",
+      "type": "article",
+      "addedAt": "2026-10-09T14:34:02.666Z"
     },
     {
       "id": "8441a304d4837e8b",
