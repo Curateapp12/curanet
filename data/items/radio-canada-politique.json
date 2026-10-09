@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-politique",
   "items": [
     {
+      "id": "b0acad2c5345a2b3",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10780878/apres-vague-conservatrice-pari-risque-eric-duhaime",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10780878/apres-vague-conservatrice-pari-risque-eric-duhaime",
+      "title": "Après la vague conservatrice, le pari risqué d'Éric Duhaime",
+      "excerpt": "Le Québec se retrouve avec un gouvernement minoritaire du Parti québécois sans député dans la Capitale-Nationale ou dans Chaudière-Appalaches. Quel sera le poids de notre région dans le prochain gouvernement?",
+      "published": "2026-10-09T18:07:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/16x9/balado-quebec-levis-9-octobre-47572.png",
+      "type": "article",
+      "addedAt": "2026-10-09T18:31:27.147Z"
+    },
+    {
+      "id": "f984affc06d1f4f0",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10780893/a-quoi-ressemblera-relation-entre-carney-et-pspp",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10780893/a-quoi-ressemblera-relation-entre-carney-et-pspp",
+      "title": "À quoi ressemblera la relation entre Carney et PSPP ?",
+      "excerpt": "Du train à grande vitesse à la monarchie, en passant par les questions constitutionnelles, l’arrivée du Parti québécois au pouvoir pourrait redéfinir les relations entre Québec et Ottawa. Comment Mark Carney réagira-t-il aux demandes de Paul St-Pierre Plamondon? La réponse de Chantal Hébert et de…",
+      "published": "2026-10-09T17:55:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/lagenda.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T18:31:27.147Z"
+    },
+    {
+      "id": "0fbb431436e04abd",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10780875/reconquete-territoriale-kahnawake",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10780875/reconquete-territoriale-kahnawake",
+      "title": "La reconquête territoriale de Kahnawà:ke",
+      "excerpt": "À Kahnawà:ke, près de Montréal, les Mohawks travaillent à reprendre possession de leur territoire, un projet qui pourrait s’étendre sur plusieurs générations. On vous explique comment ça fonctionne.",
+      "published": "2026-10-09T17:45:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cody-diabo-kahnawake-19459.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-09T18:31:27.147Z"
+    },
+    {
+      "id": "ae7a5380d1ce53e9",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10780860/voyez-demolition-usine-difco",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10780860/voyez-demolition-usine-difco",
+      "title": "Voyez la démolition de l’usine Difco",
+      "excerpt": "Voyez du haut des airs la reconversion du complexe industriel de la rue Principale Est à Magog.",
+      "published": "2026-10-09T17:32:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/demolition-difco-magog-quartier-tisserands.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-09T18:31:27.147Z"
+    },
+    {
       "id": "5d1d740c3bc26e9a",
       "guid": "https://ici.radio-canada.ca/en-bref/1-10780781/reconquete-territoriale-kahnawake",
       "link": "https://ici.radio-canada.ca/en-bref/1-10780781/reconquete-territoriale-kahnawake",

@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "3b3be3ef38442b63",
+      "guid": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "excerpt": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "published": "2026-10-09T18:24:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T18:31:27.147Z"
+    },
+    {
       "id": "9ea66a2afb29bd27",
       "guid": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo#1",
       "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo",
@@ -342,6 +353,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d12a/live/cfc0d0d0-c3d0-11f1-8cee-d9704951662c.jpg",
       "type": "article",
       "addedAt": "2026-10-09T12:33:55.994Z"
+    },
+    {
+      "id": "774aa30eef838afe",
+      "guid": "https://www.bbc.co.uk/news/articles/c6n8dg8kgjgko#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dg8kgjgko",
+      "title": "Teen's life transformed by gene editing",
+      "excerpt": "Vian, 16, has thalassemia and had to have monthly blood transfusions throughout her childhood.",
+      "published": "2026-10-09T11:23:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d29/live/4f05bc90-c2f8-11f1-b8c6-6d610e41a5d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T18:31:27.147Z"
     },
     {
       "id": "217f44a118214404",

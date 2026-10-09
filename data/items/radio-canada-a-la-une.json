@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "40e0c2a06b3fddad",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292015/copilote-attentat-flydubai-intention-attaque",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292015/copilote-attentat-flydubai-intention-attaque",
+      "title": "Le copilote de Flydubai planifiait d’attaquer l’aéroport de Tel-Aviv, selon l’enquête",
+      "excerpt": "L'homme aurait agi seul et se serait inspiré des attentats du 11 Septembre, selon un procureur émirati.",
+      "published": "2026-10-09T18:01:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/flydubai-israel-diverted-saudi-arabia.png",
+      "type": "article",
+      "addedAt": "2026-10-09T18:31:27.147Z"
+    },
+    {
+      "id": "513e184c5da365e3",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292016/usine-ryam-temiscaming-relance-syndicat",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292016/usine-ryam-temiscaming-relance-syndicat",
+      "title": "RYAM à Témiscaming : l’usine pourrait être rachetée par des intérêts canadiens",
+      "excerpt": "Des gestionnaires locaux de l’usine, des syndiqués et des Premières Nations veulent reprendre les rênes.",
+      "published": "2026-10-09T17:51:29.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ryam-drone-usine-temiscaming.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T18:31:27.147Z"
+    },
+    {
       "id": "40c3a1395e0fb856",
       "guid": "https://ici.radio-canada.ca/nouvelle/2291980/trump-lisa-cook-fed-convocation-maison-blanche",
       "link": "https://ici.radio-canada.ca/nouvelle/2291980/trump-lisa-cook-fed-convocation-maison-blanche",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/lisa-cook-fed-reserve-federale-americaine.jpg",
       "type": "article",
       "addedAt": "2026-10-09T17:27:33.263Z"
+    },
+    {
+      "id": "f42ea11165da4d68",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291770/vaccin-influenza-covid-ontario-avantages",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291770/vaccin-influenza-covid-ontario-avantages",
+      "title": "La grippe pourrait frapper fort cette année; devriez-vous vous faire vacciner?",
+      "excerpt": "La saison de la grippe est hâtive cette année. La vaccination est « vraiment importante », affirme un expert.",
+      "published": "2026-10-09T16:21:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vaccin-influenza-grippe.jpg",
+      "type": "article",
+      "addedAt": "2026-10-09T18:31:27.147Z"
     },
     {
       "id": "9b103785113de10e",
