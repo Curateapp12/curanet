@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "ed905e9836878076",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292182/christa-pike-retour-prison-execution-ratee",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292182/christa-pike-retour-prison-execution-ratee",
+      "title": "Christa Pike est de retour en prison après avoir survécu à une tentative d’exécution",
+      "excerpt": "Christa Pike a survécu à deux doses de pentobarbital alors que l’État tentait de l’exécuter le 30 septembre.",
+      "published": "2026-10-10T18:08:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/christa-pike-execution-tennessee.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T18:30:32.723Z"
+    },
+    {
+      "id": "b4f4ab02044b2e48",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292175/blesses-aeroport-riyad-tir-missile-houthis",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292175/blesses-aeroport-riyad-tir-missile-houthis",
+      "title": "Une attaque imputée aux Houthis contre l’aéroport de Riyad fait des dizaines de blessés",
+      "excerpt": "Les autorités saoudiennes ont annoncé la suspension temporaire des opérations de l'aéroport.",
+      "published": "2026-10-10T17:42:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/aeroport-riyad.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T18:30:32.723Z"
+    },
+    {
+      "id": "2cffc1029994a677",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292173/fusillade-maison-pennsylvanie-etats-unis",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292173/fusillade-maison-pennsylvanie-etats-unis",
+      "title": "Un tireur fait huit morts dans une maison en Pennsylvanie",
+      "excerpt": "Deux enfants font partie des victimes de la tragédie.",
+      "published": "2026-10-10T16:30:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/fusillade-erie-pennsylvanie-morts.png",
+      "type": "article",
+      "addedAt": "2026-10-10T18:30:32.723Z"
+    },
+    {
       "id": "b6d3e950d649318a",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292162/onu-liberation-manifestants-detenus-inde",
       "link": "https://ici.radio-canada.ca/nouvelle/2292162/onu-liberation-manifestants-detenus-inde",
