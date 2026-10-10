@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "2ab227331bbdde55",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292125/texas-fracture-senat-etats-unis",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292125/texas-fracture-senat-etats-unis",
+      "title": "Élections au Texas : des fractures dans le camp républicain",
+      "excerpt": "Les démocrates tentent d’arracher une victoire lors des élections de mi-mandat au Texas.",
+      "published": "2026-10-10T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ken-paxton-candidat-republicain-senat-texas-waco.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T08:28:20.149Z"
+    },
+    {
+      "id": "67ffa58071e1668d",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291517/langue-maternelle-allophones-immigration",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291517/langue-maternelle-allophones-immigration",
+      "title": "Transmettre sa langue maternelle pour favoriser la « connexion » et l’« appartenance »",
+      "excerpt": "Des parents issus de l’immigration expliquent ce qui les pousse à enseigner leur langue à leurs enfants.",
+      "published": "2026-10-10T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/langue-maternelle-felipe-gurdian.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T08:28:20.149Z"
+    },
+    {
+      "id": "8a3bf3fe467e4a68",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291752/climat-budget-carbone-pq-inspiration-royaume-uni",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291752/climat-budget-carbone-pq-inspiration-royaume-uni",
+      "title": "Et si le Québec gérait ses émissions de GES comme un budget?",
+      "excerpt": "Cette approche, qui a été testée avec succès au Royaume-Uni, est inscrite dans la plateforme du PQ.",
+      "published": "2026-10-10T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pspp-sante-annonce-campagne-st-pierre-plamondon.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T08:28:20.149Z"
+    },
+    {
+      "id": "ecf7e01acb3601ac",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291236/mit-pile-comestible-tube-digestif",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291236/mit-pile-comestible-tube-digestif",
+      "title": "Une pile comestible qui se dissout dans le tube digestif",
+      "excerpt": "Pour le moment, ces toutes petites sources d'énergie n'ont été testées que sur des porcs.",
+      "published": "2026-10-10T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/batterie-bioresorbable-mit.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T08:28:20.149Z"
+    },
+    {
       "id": "1f9891d88571a36e",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292132/partis-politiques-electcions-cb",
       "link": "https://ici.radio-canada.ca/nouvelle/2292132/partis-politiques-electcions-cb",
