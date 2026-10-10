@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "c206bf3fe79060d2",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10781386/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10781386/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-10T03:14:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T03:28:43.787Z"
+    },
+    {
+      "id": "dd14255128c1cc59",
+      "guid": "https://ici.radio-canada.ca/sports/2292143/les-jets-sinclinent-devant-les-ducks",
+      "link": "https://ici.radio-canada.ca/sports/2292143/les-jets-sinclinent-devant-les-ducks",
+      "title": "Les Jets s’inclinent devant les Ducks",
+      "excerpt": "Les Jets ont subi leur premier revers en temps réglementaire en cinq matchs cette saison.",
+      "published": "2026-10-10T02:58:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/jets-ducks.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T03:28:43.787Z"
+    },
+    {
       "id": "2ecf912dabee66e1",
       "guid": "https://ici.radio-canada.ca/sports/2292141/canadiennes-verdict-nul-danoises-soccer",
       "link": "https://ici.radio-canada.ca/sports/2292141/canadiennes-verdict-nul-danoises-soccer",
