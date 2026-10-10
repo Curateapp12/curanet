@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "12ef7829a7615b87",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292150/ouragan-isais-cyclone-etats-unis-cyclone",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292150/ouragan-isais-cyclone-etats-unis-cyclone",
+      "title": "États-Unis : l’ouragan Isaias rétrogradé en cyclone post-tropical",
+      "excerpt": "Une personne est morte lors de la chute d'un arbre, selon CNN.",
+      "published": "2026-10-10T12:48:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ouragan-cyclone-isaias-floride.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T13:28:13.534Z"
+    },
+    {
       "id": "8253cb62409e9f5c",
       "guid": "https://ici.radio-canada.ca/sports/2291845/amanda-tam-sla-marathon-montreal",
       "link": "https://ici.radio-canada.ca/sports/2291845/amanda-tam-sla-marathon-montreal",
@@ -12,6 +23,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/amanda-tam-spencer-levine-marathon-montreal.png",
       "type": "article",
       "addedAt": "2026-10-10T09:27:38.873Z"
+    },
+    {
+      "id": "8c183cb9d91c589e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292088/quebec-projet-tramway-cout-travaux",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292088/quebec-projet-tramway-cout-travaux",
+      "title": "Coûts, travaux et acceptabilité : déboulonnage de mythes sur le projet de tramway",
+      "excerpt": "Voici le vrai du faux sur quelques idées qui ont circulé par rapport aux informations actuellement disponibles",
+      "published": "2026-10-10T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/esquisse-projet-tramway-quebec-automne-rene-levesque.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T13:28:13.534Z"
     },
     {
       "id": "2ab227331bbdde55",
