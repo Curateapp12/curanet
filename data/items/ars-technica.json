@@ -3,6 +3,61 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "c16ef37659298f7a",
+      "guid": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "title": "Neanderthal wooden tools from Spain found preserved in stone",
+      "excerpt": "Dissolved rock precipitated around the tools, which then decayed.",
+      "published": "2026-10-09T22:34:03.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-1152x648.png",
+      "type": "article",
+      "addedAt": "2026-10-10T00:39:45.490Z"
+    },
+    {
+      "id": "5df45c5813134c05",
+      "guid": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "excerpt": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "published": "2026-10-09T22:04:07.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T00:39:45.490Z"
+    },
+    {
+      "id": "8bf4a74a0b163a55",
+      "guid": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "excerpt": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+      "published": "2026-10-09T21:51:12.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Cray-1_Vertical_Chassis-1-810x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T00:39:45.490Z"
+    },
+    {
+      "id": "45f81eceed5bb20c",
+      "guid": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "title": "NASA issues long-awaited call to industry for private space stations",
+      "excerpt": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+      "published": "2026-10-09T21:34:09.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T00:39:45.490Z"
+    },
+    {
+      "id": "0c26cd5d6f26f02c",
+      "guid": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+      "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+      "title": "What's been driving Hawaii's lava fountains?",
+      "excerpt": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+      "published": "2026-10-09T21:05:01.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2243092854-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T00:39:45.490Z"
+    },
+    {
       "id": "9f4f46039e3dc6c1",
       "guid": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
       "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",

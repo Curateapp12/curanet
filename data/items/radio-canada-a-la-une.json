@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "b09319a86670a3c9",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292128/coeur-bete-effets-visuels-framestore",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292128/coeur-bete-effets-visuels-framestore",
+      "title": "Au cœur de la bête : l’expertise montréalaise derrière le chien de Brad Pitt",
+      "excerpt": "Le chien qui joue Odin a bénéficié d'un coup de pouce du studio montréalais d'effets visuels Framestore.",
+      "published": "2026-10-10T00:32:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/brad-pitt-heart-beast.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T00:39:45.490Z"
+    },
+    {
+      "id": "e3d42c7ace4e4521",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292134/anthropic-ia-faux-signalement-meurtre-philadelphie",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292134/anthropic-ia-faux-signalement-meurtre-philadelphie",
+      "title": "Une IA d’Anthropic a envoyé un faux signalement de meurtre à la police de Philadelphie",
+      "excerpt": "Les autorités locales reprochent à l'entreprise américaine d'avoir mis deux mois à détecter l'incident.",
+      "published": "2026-10-10T00:20:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/anthropic.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T00:39:45.490Z"
+    },
+    {
+      "id": "7e5152d15d2fe3ca",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292121/discussions-etats-unis-ukraine-ombre-accord-trump-poutine",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292121/discussions-etats-unis-ukraine-ombre-accord-trump-poutine",
+      "title": "Discussions entre les États-Unis et l’Ukraine, à l’ombre de l’accord Trump-Poutine",
+      "excerpt": "La réunion a été éclipsée par l'annonce, de Donald Trump, de l'achat de millions de tonnes de diesel russe.",
+      "published": "2026-10-09T23:30:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/steve-witkoff-et-jared-kushner.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T00:39:45.490Z"
+    },
+    {
+      "id": "5953f70913ebd765",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292123/balaine-dauphin-marineland-shedd-transfert",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292123/balaine-dauphin-marineland-shedd-transfert",
+      "title": "Un 5e béluga de Marineland meurt après son transfert",
+      "excerpt": "Un dauphin provenant de l'ancien parc d'attractions de Niagara Falls est également mort après son transfert.",
+      "published": "2026-10-09T23:25:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/belugas-marineland-niagara-falls-ontario-85998.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T00:39:45.490Z"
+    },
+    {
+      "id": "9940b4ae127f14c7",
+      "guid": "https://ici.radio-canada.ca/sports/2292127/jayden-struble-predators-nashville-canadien",
+      "link": "https://ici.radio-canada.ca/sports/2292127/jayden-struble-predators-nashville-canadien",
+      "title": "Jayden Struble prend la direction de Nashville",
+      "excerpt": "Le Canadien acquiert en retour un choix de 2e tour en 2027 des Predators de Nashville.",
+      "published": "2026-10-09T23:23:33.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/jayden-struble-93479.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T00:39:45.490Z"
+    },
+    {
       "id": "f30a387575388633",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292075/reactions-elus-pentagone-diffusion-execution",
       "link": "https://ici.radio-canada.ca/nouvelle/2292075/reactions-elus-pentagone-diffusion-execution",
