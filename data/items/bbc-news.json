@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "f9c37e1733027a14",
+      "guid": "https://www.bbc.co.uk/news/articles/c6jrw8g1123vo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrw8g1123vo",
+      "title": "'Serious incident' at tiger enclosure closes Yorkshire Wildlife Park",
+      "excerpt": "The attraction near Doncaster says emergency response procedures were \"immediately activated\".",
+      "published": "2026-10-10T14:57:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7075/live/1ed86570-c4bc-11f1-9ce9-55293bd7f0d9.png",
+      "type": "article",
+      "addedAt": "2026-10-10T15:26:59.109Z"
+    },
+    {
+      "id": "0056c9f0db823573",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o#9",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o",
+      "title": "Verstappen beats Ferraris to Singapore pole",
+      "excerpt": "Red Bull's Max Verstappen beats the Ferraris of Charles Leclerc and Lewis Hamilton to pole position in qualifying at the Singapore Grand Prix.",
+      "published": "2026-10-10T14:50:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2084/live/95f182b0-c4ba-11f1-9ce9-55293bd7f0d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T15:26:59.109Z"
+    },
+    {
+      "id": "e6daa4c4278f99be",
+      "guid": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo",
+      "title": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "excerpt": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
+      "published": "2026-10-10T14:13:13.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb93/live/333ba0b0-c4b0-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T15:26:59.109Z"
+    },
+    {
       "id": "cf1a93f3e1af620e",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o#9",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o",

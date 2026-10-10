@@ -3,6 +3,61 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "800efb3c6515b91a",
+      "guid": "12771cbc-c4bd-11f1-91b2-298d12568cc0",
+      "link": "https://www.france24.com/fr/sports/20261010-cyclisme-fran%C3%A7ais-paul-seixas-devient-plus-jeune-vainqueur-tour-lombardie",
+      "title": "🔴 Cyclisme : à 20 ans, le Français Paul Seixas devient le plus jeune vainqueur du Tour de Lombardie",
+      "excerpt": "",
+      "published": "2026-10-10T15:12:55.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-10T15:26:59.109Z"
+    },
+    {
+      "id": "5497dbe0c77811f3",
+      "guid": "edd5f9a6-c4b6-11f1-8b51-633371886075",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-le-cnes-lance-son-programme-d-%C3%A9tude-en-apesanteur-au-d%C3%A9fi-de-la-gravit%C3%A9",
+      "title": "Le CNES lance son programme d'étude en apesanteur, au défi de la gravité",
+      "excerpt": "Un reportage signé Sylvain Rousseau et James André.",
+      "published": "2026-10-10T14:32:22.000Z",
+      "thumbnail": "https://s.france24.com/media/display/e96e9dbe-c4b6-11f1-804d-29a2e29ae696/w:1024/p:16x9/FR-20261010-160641-160839-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T15:26:59.109Z"
+    },
+    {
+      "id": "406ffc459e57b09e",
+      "guid": "e36b7e6c-c4b3-11f1-995c-e722fbc278fa",
+      "link": "https://www.france24.com/fr/sports/20261010-f%C3%A9d%C3%A9ration-portugaise-football-ouvre-proc%C3%A9dure-disciplinaire-contre-ronaldo",
+      "title": "La Fédération portugaise de football ouvre une procédure disciplinaire contre Ronaldo",
+      "excerpt": "Une procédure disciplinaire a été ouverte contre Cristiano Ronaldo après son départ d'un rassemblement de l'équipe nationale le 30 septembre, a annoncé samedi la Fédération portugaise de football. D'après les médias portugais, selon le règlement, un joueur ayant manqué un entraînement, un match ou…",
+      "published": "2026-10-10T14:31:57.000Z",
+      "thumbnail": "https://s.france24.com/media/display/a852fd72-c4af-11f1-9559-29a2e29ae696/w:1024/p:16x9/AP26272841554245.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T15:26:59.109Z"
+    },
+    {
+      "id": "1146beb70b0748ce",
+      "guid": "a0154f50-c4b6-11f1-84b2-41bb94b7751d",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-guerre-en-ukraine-15-morts-dans-des-frappes-russes-sur-zaporijjia",
+      "title": "Guerre en Ukraine : 15 morts dans des frappes russes sur Zaporijjia",
+      "excerpt": "Des frappes russes sur Zaporijjia, dans le sud est de l'Ukraine, ont fait 15 morts samedi, Kiev dénonçant les \"remerciements\" meurtriers de la Russie après l'annonce d'un accord controversé entre Moscou et Washington sur des livraisonmassives de diesel.",
+      "published": "2026-10-10T14:30:24.000Z",
+      "thumbnail": "https://s.france24.com/media/display/9b3f2cbc-c4b6-11f1-b860-77317c09f325/w:1024/p:16x9/FR-20261010-160110-160308-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T15:26:59.109Z"
+    },
+    {
+      "id": "f500f495d8a8a1a5",
+      "guid": "451c7b7e-c4b5-11f1-b3fe-3d0e57cb28d7",
+      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261010-lens-renoue-victoire-contre-lyon-retour-ligue-1",
+      "title": "Lens renoue avec la victoire contre Lyon pour le retour de la Ligue 1",
+      "excerpt": "Avec sa victoire à domicile contre Lyon (2-1) pour le retour de la Ligue 1 après trois semaines, Lens a mis fin à une série de quatre rencontres sans victoire. Le Paris Saint-Germain affrontera Le Mans samedi soir sans Ousmane Dembélé ni Nuno Mendes, laissés au repos après la trêve internationale.",
+      "published": "2026-10-10T14:17:47.000Z",
+      "thumbnail": "https://s.france24.com/media/display/bbc81080-c488-11f1-a4ab-e362370cce2e/w:1024/p:16x9/F24-LENS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T15:26:59.109Z"
+    },
+    {
       "id": "616dfbcfabe19da4",
       "guid": "f97d2a8c-c4b0-11f1-9c8d-0557b47b3a21",
       "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-l-astronaute-fran%C3%A7aise-sophie-adenot-fait-son-grand-retour-sur-terre",
