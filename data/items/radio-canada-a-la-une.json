@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "b6d3e950d649318a",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292162/onu-liberation-manifestants-detenus-inde",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292162/onu-liberation-manifestants-detenus-inde",
+      "title": "L’ONU réclame la libération de tous les manifestants détenus « arbitrairement » en Inde",
+      "excerpt": "Une mobilisation est en cours depuis que des millions de personnes ont été retirées de la liste électorale.",
+      "published": "2026-10-10T15:55:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/inde-manifestation-liste-electorale.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T16:27:07.357Z"
+    },
+    {
+      "id": "b6a9ce6ada87860c",
+      "guid": "https://ici.radio-canada.ca/sports/2292166/paul-seixas-remporte-le-tour-de-lombardie-son-premier-monument",
+      "link": "https://ici.radio-canada.ca/sports/2292166/paul-seixas-remporte-le-tour-de-lombardie-son-premier-monument",
+      "title": "Paul Seixas remporte le Tour de Lombardie, son premier Monument",
+      "excerpt": "Le prodige français est le plus jeune vainqueur en 120 éditions de la classique des feuilles mortes.",
+      "published": "2026-10-10T15:24:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/paul-seixas-victoire-lombardie-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T16:27:07.357Z"
+    },
+    {
       "id": "a8cff2d4966cd996",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292158/dirigeant-taiwan-augmenter-depenses-militaires-pour-eviter-guerre",
       "link": "https://ici.radio-canada.ca/nouvelle/2292158/dirigeant-taiwan-augmenter-depenses-militaires-pour-eviter-guerre",
@@ -23,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mahmoud-abbas-18302.jpg",
       "type": "article",
       "addedAt": "2026-10-10T14:26:41.075Z"
+    },
+    {
+      "id": "98a70cf5092f8fb9",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291909/campagne-electorale-npd-conservateurs-course",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291909/campagne-electorale-npd-conservateurs-course",
+      "title": "À mi-campagne en C.-B., le pari d’élections anticipées de David Eby s’avère incertain",
+      "excerpt": "Plusieurs analystes estiment que la course sera très serrée entre le NPD et les conservateurs.",
+      "published": "2026-10-10T13:32:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/david-eby-npd-colombie-britannique-10221.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T16:27:07.357Z"
     },
     {
       "id": "dfd7ae41a1fc5055",
