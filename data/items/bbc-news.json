@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "e4f4e8c86f03b968",
+      "guid": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "excerpt": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "published": "2026-10-10T10:06:23.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T10:26:53.009Z"
+    },
+    {
+      "id": "88aa0be9aa679f15",
+      "guid": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo",
+      "title": "Green Party wants to make sure it is 'not vulnerable to extremists'",
+      "excerpt": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.",
+      "published": "2026-10-10T09:57:19.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/010f/live/acd54390-c488-11f1-a915-a1cdb09cbaf6.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T10:26:53.009Z"
+    },
+    {
+      "id": "1af8eb9749d1be8b",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno",
+      "title": "Palmer signs new Chelsea contract until 2034",
+      "excerpt": "Cole Palmer signs a new Chelsea contract on improved terms until 2034, one of the longest active deals in the Premier League.",
+      "published": "2026-10-10T09:51:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a8/live/a94e41f0-c3d3-11f1-95ba-dba767ffba7e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T10:26:53.009Z"
+    },
+    {
       "id": "debc595fa576a0b7",
       "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/c9zrdl4028mko#9",
       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c9zrdl4028mko",
@@ -12,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae49/live/2dfadb80-c487-11f1-a915-a1cdb09cbaf6.jpg",
       "type": "article",
       "addedAt": "2026-10-10T09:27:38.873Z"
+    },
+    {
+      "id": "829adcd001bc1e31",
+      "guid": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo",
+      "title": "Met's Special Constabulary head fired after AI tool found deleted intimate images on work phone",
+      "excerpt": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.",
+      "published": "2026-10-10T09:19:53.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a5/live/6eb9b460-c483-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T10:26:53.009Z"
     },
     {
       "id": "c91fc1fe3bfb6519",
