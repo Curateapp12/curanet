@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "ff3f6f0ad86439ea",
+      "guid": "b49c3dd0-559d-4fcc-841e-7b93b8cfe62f",
+      "link": "https://www.tagesschau.de/inland/mittendrin/ehrenamt-wegbegleitung-kinder-100.html",
+      "title": "Aufwachsen ohne Eltern: Wie Ehrenamtliche eine Lücke schließen",
+      "excerpt": "Kinder, die ohne Eltern aufwachsen, kennen Erwachsene oft nur als Betreuer, Erzieher oder Lehrer. Ein Kölner Verein will ihnen Erwachsene an die Seite stellen, die bleiben - und damit eine Lücke schließen. Von Rupert Wiederwald.",
+      "published": "2026-10-10T06:16:51.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/31908849-0b1e-4a54-90a8-36702c8b9667/AAABoSAKhW4/AAABnSSvrFg/16x9-big/sendungsbild-1808916.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-10T06:33:04.198Z"
+    },
+    {
+      "id": "d47a57a4805d7b78",
+      "guid": "f09723af-4f02-444b-aca8-0460c8d98e3f",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
+      "title": "Anthropic-KI stellt Visa-Anträge bei US-Außenministerium",
+      "excerpt": "Erneut hat das US-Techunternehmen Anthropic gemeldet, dass eines seiner KI-Modelle eigenmächtige gehandelt hat. Die KI erstellte eigenständig Visaanträge und gab der Polizei einen falschen Tipp. Von Gabi Biesinger.",
+      "published": "2026-10-10T05:48:52.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/867d9f35-4721-4345-b40a-78a5cb382176/AAABn7a04Gk/AAABnSSvrFg/16x9-big/anthropic-logo-tastatur-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-10T06:33:04.198Z"
+    },
+    {
+      "id": "e2218ac13ec0fe30",
+      "guid": "74a7b6a5-8b0b-431a-8c20-dd4bf31955eb",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
+      "title": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
+      "excerpt": "Vor zwei Jahren begannen die Studentenproteste gegen Serbiens Regierung unter Vucic - und für Neuwahlen. Jetzt, da es Ende des Monats tatsächlich Wahlen geben wird, haben die Studierenden eine echte Chance. Von A. Herz.",
+      "published": "2026-10-10T05:44:11.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2e197229-0719-4ef3-b210-24f9289cfc8b/AAABoSCLYa0/AAABnSSvrFg/16x9-big/studierende-anhaenger-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-10T06:33:04.198Z"
+    },
+    {
       "id": "d418be05ca99137c",
       "guid": "ade38547-ac01-4f74-82e1-b4d7aa88f37d",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
