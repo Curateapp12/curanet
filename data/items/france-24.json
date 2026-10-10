@@ -3,6 +3,61 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "46c1bccd42109566",
+      "guid": "9f97d042-c485-11f1-b451-6fed8d2a1039",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-nobel-de-la-paix-2026-la-sud-africaine-navi-pillay-r%C3%A9compens%C3%A9e",
+      "title": "Nobel de la paix 2026 : la sud-africaine Navi Pillay récompensée",
+      "excerpt": "Caroline Dumay est en direct du Cap, en Afrique du Sud.",
+      "published": "2026-10-10T09:10:50.000Z",
+      "thumbnail": "https://s.france24.com/media/display/8de5b158-c40c-11f1-8abc-77317c09f325/w:1024/p:16x9/2026-10-09T091256Z-2108488287-RC2LZNANWBG4-RTRMADP-3-NOBEL-PRIZE-PEACE.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T09:27:38.873Z"
+    },
+    {
+      "id": "516c0cffd0b364bf",
+      "guid": "b8d8fbde-c486-11f1-a42e-e383dd9fbd6e",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-les-revendications-des-lyc%C3%A9ens-doivent-%C3%AAtre-traduits-en-actes-en-d%C3%A9cisions",
+      "title": "Les revendications des lycéens doivent être \"traduits en actes, en décisions\"",
+      "excerpt": "Nicolas Duvoux, professeur de sociologie à l'université Paris-VIII, est notre invité.",
+      "published": "2026-10-10T09:08:18.000Z",
+      "thumbnail": "https://s.france24.com/media/display/b3b122bc-c486-11f1-9261-e362370cce2e/w:1024/p:16x9/FR-20261010-081152-082049-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T09:27:38.873Z"
+    },
+    {
+      "id": "d4d393b3f673a420",
+      "guid": "13f4ba82-c485-11f1-b4fa-2f4db72be28e",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-trump-scelle-un-accord-surprise-avec-poutine-sur-le-diesel-zelensky-s-indigne",
+      "title": "Trump scelle un accord surprise avec Poutine sur le diesel, Zelensky s'indigne",
+      "excerpt": "Donald Trump a annoncé vendredi avoir négocié la livraison de quantités massives de diesel russe aux marchés américain et mondial, levant pour ce faire des sanctions qui pèsent sur Moscou, au grand dam de Volodymyr Zelensky qui a dénoncé une décision \"indigne\".",
+      "published": "2026-10-10T09:05:00.000Z",
+      "thumbnail": "https://s.france24.com/media/display/0ec37b2a-c485-11f1-af74-3774aeac812a/w:1024/p:16x9/FR-20261010-080234-080433-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T09:27:38.873Z"
+    },
+    {
+      "id": "8cc55a8f1e8dec7b",
+      "guid": "de7e6c52-c486-11f1-975a-a5c6557debb0",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-inde-le-chef-du-parti-des-cafards-arr%C3%AAt%C3%A9-avant-une-manifestation",
+      "title": "Inde : le chef du parti des \"cafards\" arrêté avant une manifestation",
+      "excerpt": "Jeanne Hutin est en direct de New Dehli.",
+      "published": "2026-10-10T08:57:14.000Z",
+      "thumbnail": "https://s.france24.com/media/display/d9cf6eae-c486-11f1-b915-e362370cce2e/w:1024/p:16x9/FR-20261010-082054-082412-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T09:27:38.873Z"
+    },
+    {
+      "id": "754ce39a5576cdd2",
+      "guid": "917f5316-c487-11f1-9728-972cd6171070",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-l-astronaute-fran%C3%A7aise-sophie-adenot-de-retour-sur-terre-ferme",
+      "title": "L'astronaute française Sophie Adenot, de retour sur terre ferme",
+      "excerpt": "L'astronaute française Sophie Adenot est passée par \"toutes les émotions humaines, des plus joyeuses aux plus difficiles\" pendant ses huit mois dans l'espace, a-t-elle dit lors de sa première apparition publique sur terre ferme, samedi à Cologne en Allemagne.",
+      "published": "2026-10-10T08:53:23.000Z",
+      "thumbnail": "https://s.france24.com/media/display/8ca7da66-c487-11f1-8390-53993c5f1f18/w:1024/p:16x9/FR-20261010-082522-082624-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T09:27:38.873Z"
+    },
+    {
       "id": "005c0439a20e5316",
       "guid": "c653c31a-c473-11f1-9bbc-9f941adb22b2",
       "link": "https://www.france24.com/fr/am%C3%A9riques/20261010-un-puissant-s%C3%A9isme-au-panama-fait-des-bless%C3%A9s-et-d-importants-d%C3%A9g%C3%A2ts",
