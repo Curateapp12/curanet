@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "0180f0ce29beb039",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292155/president-palestinien-reporte-legislatives-septembre-2027",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292155/president-palestinien-reporte-legislatives-septembre-2027",
+      "title": "Le président palestinien reporte les législatives de près d’un an, à septembre 2027",
+      "excerpt": "Les élections législatives devaient avoir lieu le 28 novembre.",
+      "published": "2026-10-10T13:37:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mahmoud-abbas-18302.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T14:26:41.075Z"
+    },
+    {
+      "id": "dfd7ae41a1fc5055",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292151/j-d-vance-campagne-midterms-partisans-2028",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292151/j-d-vance-campagne-midterms-partisans-2028",
+      "title": "J.D. Vance en campagne pour les élections de mi-mandat : ses partisans rêvent de 2028",
+      "excerpt": "Le jeune vice-président de 42 ans n'a encore fait aucune annonce officielle, et rien n'est joué.",
+      "published": "2026-10-10T12:56:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jd-vance-27161.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T14:26:41.075Z"
+    },
+    {
       "id": "12ef7829a7615b87",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292150/ouragan-isais-cyclone-etats-unis-cyclone",
       "link": "https://ici.radio-canada.ca/nouvelle/2292150/ouragan-isais-cyclone-etats-unis-cyclone",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ouragan-cyclone-isaias-floride.jpg",
       "type": "article",
       "addedAt": "2026-10-10T13:28:13.534Z"
+    },
+    {
+      "id": "66089a8fc34c6d50",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292147/allemagne-ue-sanctions-russie-diesel-trump",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292147/allemagne-ue-sanctions-russie-diesel-trump",
+      "title": "Berlin travaille avec l’UE pour établir de « nouvelles sanctions » contre Moscou",
+      "excerpt": "Vendredi, Donald Trump annonçait un accord avec Vladimir Poutine sur la livraison de diesel russe.",
+      "published": "2026-10-10T11:42:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/friedrich-merz-95978.jpg",
+      "type": "article",
+      "addedAt": "2026-10-10T14:26:41.075Z"
     },
     {
       "id": "8253cb62409e9f5c",
