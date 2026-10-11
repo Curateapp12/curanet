@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "28dac8e904c18aff",
+      "guid": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+      "title": "Ukraine strikes Russian data centre again despite Trump warning",
+      "excerpt": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "published": "2026-10-11T12:50:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T13:28:52.661Z"
+    },
+    {
       "id": "3081a68bc207675b",
       "guid": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o#3",
       "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o",
@@ -56,6 +67,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/231d/live/873e7e90-c563-11f1-bc2e-018d645d8d21.jpg",
       "type": "article",
       "addedAt": "2026-10-11T11:27:01.113Z"
+    },
+    {
+      "id": "38b3b1f2bee73284",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo#3",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo",
+      "title": "Russo named England player of the year",
+      "excerpt": "Arsenal forward Alessia Russo is named England women's player of the year after scoring five goals in 10 games.",
+      "published": "2026-10-11T10:35:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c3/live/088b06d0-c55f-11f1-9cae-455625013d45.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T13:28:52.661Z"
     },
     {
       "id": "d67a8a94296f91b2",
