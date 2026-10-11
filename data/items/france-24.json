@@ -3,6 +3,61 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "015edb9f2e900a52",
+      "guid": "a125b98c-c544-11f1-83cd-5989a80caa7a",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261011-accord-diesel-entre-poutine-et-trump-bruxelles-redit-son-soutien-%C3%A0-l-ukraine",
+      "title": "Guerre en Ukraine : lâché par les Etats-Unis, Bruxelles redit son soutien",
+      "excerpt": "Gulliver Cragg, en direct de Kiev, analyse la situation.",
+      "published": "2026-10-11T08:04:00.000Z",
+      "thumbnail": "https://s.france24.com/media/display/9bffc6fa-c544-11f1-832d-53993c5f1f18/w:1024/p:16x9/FR-20261011-080130-080623-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T08:29:25.631Z"
+    },
+    {
+      "id": "e6c3e6bb740175db",
+      "guid": "a4bdd0a4-c547-11f1-9b0e-2df8309c7e21",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261011-environnement-mobilisation-contre-le-projet-europ%C3%A9en-omnibus-x",
+      "title": "Environnement : mobilisation contre le projet européen Omnibus X",
+      "excerpt": "Un reportage signé Alice Brogat.",
+      "published": "2026-10-11T08:01:41.000Z",
+      "thumbnail": "https://s.france24.com/media/display/9f9275f8-c547-11f1-952c-3774aeac812a/w:1024/p:16x9/FR-20261011-082302-082423-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T08:29:25.631Z"
+    },
+    {
+      "id": "e78c5ac378af8121",
+      "guid": "a6079342-c546-11f1-88d3-312b3ad6fc3b",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261011-attaque-meurtri%C3%A8re-%C3%A0-l-a%C3%A9roport-de-ryad-l-onu-d%C3%A9nonce-une-grave-escalade",
+      "title": "Attaque meurtrière à l'aéroport de Ryad : l'ONU dénonce une \"grave escalade\"",
+      "excerpt": "Au moins 12 personnes ont été tuées et 309 blessés dans une attaque samedi contre l'aéroport de Ryad, la plus meurtrière en plus de dix ans dans le royaume, ont annoncé les autorités saoudiennes, accusant les Houthis du Yémen.",
+      "published": "2026-10-11T07:56:36.000Z",
+      "thumbnail": "https://s.france24.com/media/display/a088286e-c546-11f1-9ca1-e362370cce2e/w:1024/p:16x9/FR-20261011-080657-080845-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T08:29:25.631Z"
+    },
+    {
+      "id": "c5f4547414e2073c",
+      "guid": "d7fb64b8-c547-11f1-9809-2df8309c7e21",
+      "link": "https://www.france24.com/fr/europe/20261011-espagne-pedro-s%C3%A1nchez-met-crise-logement-coeur-campagne-maricarmen-vox",
+      "title": "Espagne : Pedro Sanchez met la crise du logement au coeur de sa campagne",
+      "excerpt": "Le Premier ministre espagnol Pedro Sánchez a promis samedi de \"renforcer\" la législation sur le logement s'il obtient une majorité absolue aux élections législatives prévues le 29 novembre. La crise du logement suscite une forte mobilisation à travers l'Espagne.",
+      "published": "2026-10-11T07:46:56.000Z",
+      "thumbnail": "https://s.france24.com/media/display/68eca72c-c546-11f1-885a-77317c09f325/w:1024/p:16x9/2026-10-06T113625Z-1212583340-RC2NXNA0AMSF-RTRMADP-3-SPAIN-ELECTION-SANCHEZ.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T08:29:25.631Z"
+    },
+    {
+      "id": "0fc4b72f85c9e68b",
+      "guid": "c07080ae-c4ce-11f1-b617-41cfe3e51049",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261011-mobilisations-lyc%C3%A9ennes-la-police-a-t-elle-tous-les-droits",
+      "title": "Mobilisations lycéennes : la police a-t-elle tous les droits ?",
+      "excerpt": "Juliette Beigelman, co-responsable commission droits des enfants au Syndicat Avocats de France, est notre invitée.",
+      "published": "2026-10-11T07:14:10.000Z",
+      "thumbnail": "https://s.france24.com/media/display/8967a69e-c543-11f1-83c9-3774aeac812a/w:1024/p:16x9/2026-10-08T132611Z-285843879-RC2ZYNAS0606-RTRMADP-3-FRANCE-PROTEST.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T08:29:25.631Z"
+    },
+    {
       "id": "6cab9b43ec29d029",
       "guid": "1e55761c-c537-11f1-aa77-8f5fca5c8453",
       "link": "https://www.france24.com/fr/asie-pacifique/20261011-inde-les-leaders-des-cafards-remis-en-libert%C3%A9-appels-%C3%A0-de-nouvelles-manifestations",
@@ -36,6 +91,17 @@
       "addedAt": "2026-10-11T05:27:58.093Z"
     },
     {
+      "id": "3e915387005e470d",
+      "guid": "10332d58-c52e-11f1-b6b9-51185e120c7f",
+      "link": "https://www.france24.com/fr/france/20261011-primaire-sociale-d%C3%A9mocrate-qui-arrivera-en-t%C3%AAte-%C3%A0-l-issue-du-premier-tour",
+      "title": "Primaire sociale-démocrate : qui arrivera en tête à l'issue du premier tour ?",
+      "excerpt": "Quelque 140 000 votants ont jusqu'à 18 h, dimanche, pour choisir parmi les cinq prétendants de la primaire sociale-démocrate : Jérôme Guedj, Emmanuel Maurel, Ségolène Royal, Olivier Faure ou Raphaël Glucksmann. Ce dernier, donné favori, espère être élu dès le premier tour après une cyberattaque…",
+      "published": "2026-10-11T04:41:45.000Z",
+      "thumbnail": "https://s.france24.com/media/display/cd8b7d34-c546-11f1-b702-29a2e29ae696/w:1024/p:16x9/000-D2T44G3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T08:29:25.631Z"
+    },
+    {
       "id": "776a16d249ddfae2",
       "guid": "7b318898-c4f2-11f1-b538-c987faa73e88",
       "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261010-les-violences-anti-migrants-reprennent-en-afrique-du-sud",
@@ -45,6 +111,28 @@
       "thumbnail": "https://s.france24.com/media/display/82551064-c4f1-11f1-9368-29a2e29ae696/w:1024/p:16x9/DN197477-A-01-20261005-01-1.jpg",
       "type": "article",
       "addedAt": "2026-10-11T00:38:21.200Z"
+    },
+    {
+      "id": "d9e5935b17787e3d",
+      "guid": "76fe88ac-c4ed-11f1-adf9-7b4a76351b54",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-la-r%C3%A9volte-cadenass%C3%A9e-en-inde-l-onu-r%C3%A9agit-le-parti-du-peuple-cafard-promet-de-continuer",
+      "title": "En Inde, de nombreuses arrestations dont celle du chef du parti des \"cafards\"",
+      "excerpt": "Le gouvernement indien a procédé samedi à de très nombreuses arrestations – dont celle du chef du mouvement des \"cafards\", fer de lance de la révolte étudiante en Inde – pour empêcher la manifestation à New Delhi exigeant la démission du président de la Commission électorale. Le Haut-commissariat…",
+      "published": "2026-10-10T21:02:14.000Z",
+      "thumbnail": "https://s.france24.com/media/display/9bd82c12-c4b8-11f1-bf73-3774aeac812a/w:1024/p:16x9/2026-10-10T130134Z-1370249502-RC280OAT8E3W-RTRMADP-3-INDIA-POLITICS-GEN-Z.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T08:29:25.631Z"
+    },
+    {
+      "id": "d87c0d29fbb0d395",
+      "guid": "0d214442-c4ed-11f1-a000-b5ae16190b7e",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-nouvelle-attaque-russe-dans-le-sud-de-l-ukraine-au-moins-20-morts-%C3%A0-zaporijjia",
+      "title": "Ukraine : 20 morts à Zaporijjia, passe d'armes entre Trump et Zelensky",
+      "excerpt": "Une attaque russe à Zaporijjia a fait au moins 20 morts, samedi, dont trois enfants, au lendemain de l'annonce par le président américain Donald Trump d'un accord levant les sanctions sur le diesel russe. Dans la soirée, Donald Trump a ⁠critiqué les frappes ukrainiennes sur des raffineries russes…",
+      "published": "2026-10-10T20:58:13.000Z",
+      "thumbnail": "https://s.france24.com/media/display/26ff454a-c4e7-11f1-aefb-53993c5f1f18/w:1024/p:16x9/2026-10-10T133052Z-429571011-RC2A0OAJ7LMI-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T08:29:25.631Z"
     },
     {
       "id": "112b4d8ed2df0cec",
@@ -78,6 +166,17 @@
       "thumbnail": "https://s.france24.com/media/display/a9e83a22-c4e0-11f1-b1ad-77317c09f325/w:1024/p:16x9/Francais-2026-10-10T18-11-49-828Z.jpg",
       "type": "article",
       "addedAt": "2026-10-10T21:26:25.820Z"
+    },
+    {
+      "id": "c0be9e40a7ba8e2e",
+      "guid": "61e7c720-c4df-11f1-be14-bdce77e40d14",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-arnaud-fontanet-la-recherche-%C3%A9tant-un-investissement-de-long-terme-passe-souvent-au-second-plan",
+      "title": "Arnaud Fontanet : \"la recherche étant un investissement de long terme, passe souvent au second plan\"",
+      "excerpt": "Le Pasteurdon, grande opération d'appel aux dons qui permet à l'Institut Pasteur de faire progresser la médecine, fête ses 20 ans. Une campagne cruciale pour faire avancer la recherche à l'heure de l'austérité budgétaire, que ce soit pour de nouveaux traitements contre le VIH, pour lutter contre…",
+      "published": "2026-10-10T19:34:02.000Z",
+      "thumbnail": "https://s.france24.com/media/display/a9e83a22-c4e0-11f1-b1ad-77317c09f325/w:1024/p:16x9/Francais-2026-10-10T18-11-49-828Z.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T08:29:25.631Z"
     },
     {
       "id": "5a060bd4ae517270",
@@ -133,6 +232,17 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-10-10T15:26:59.109Z"
+    },
+    {
+      "id": "1e18282e87e334b5",
+      "guid": "5d07f6b8-c4bb-11f1-be97-8b42f20fc95c",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-semaine-en-france",
+      "title": "Mobilisation lycéenne : l'ONU \"inquiète\" face aux violences policières",
+      "excerpt": "Dans ce magazine, nous revenons sur la mobilisation lycéenne, avec une question essentielle sur le maintien de l'ordre tel qu’il existe aujourd’hui dans notre pays. Le recours à des armes intermédiaires comme les grenades ou les tireurs de balle de défense, questionne. Les blessures infligées à…",
+      "published": "2026-10-10T15:04:48.000Z",
+      "thumbnail": "https://s.france24.com/media/display/d078353a-c4bc-11f1-96be-77317c09f325/w:1024/p:16x9/Francais-2026-10-10T12-26-01-364Z.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T08:29:25.631Z"
     },
     {
       "id": "5497dbe0c77811f3",
