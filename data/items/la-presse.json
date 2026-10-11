@@ -3,6 +3,72 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "4927ba125f936743",
+      "guid": "1755cc46d5703561b838a71828e3cc3f",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-10-11/demystifier-la-science/quand-la-hausse-du-niveau-des-oceans-rallonge-les-journees.php",
+      "title": "Démystifier la science | Quand la hausse du niveau des océans rallonge les journées",
+      "excerpt": "Chaque semaine, notre journaliste répond aux questions scientifiques de lecteurs.",
+      "published": "2026-10-11T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/a417367f7ac63c7e83053860070e087c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T09:28:32.565Z"
+    },
+    {
+      "id": "7f35f48809e78bd5",
+      "guid": "fd1d4b50432b3edf9e3186946f805a74",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-10-11/alberta/des-quebecois-replonges-dans-un-referendum.php",
+      "title": "Alberta | Des Québécois replongés dans un référendum",
+      "excerpt": "Ils ont quitté le Québec pour l’Alberta et pensaient ne plus jamais vivre un référendum sur l’indépendance de leur province. Des Franco-Albertains sont aujourd’hui replongés dans un débat à saveur constitutionnelle dans lequel leur apport pourrait s’avérer crucial.",
+      "published": "2026-10-11T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/3491ed98955434e984cd17fb6859a950.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T09:28:32.565Z"
+    },
+    {
+      "id": "aa7379f034f64b75",
+      "guid": "2926436fb399393b972b87901d11c273",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-10-11/a-quoi-ressemblerait-une-mission-sur-mars.php",
+      "title": "À quoi ressemblerait une mission sur Mars ?",
+      "excerpt": "La NASA a lancé cet l’été le recrutement de sa troisième simulation de mission martienne. Pendant plus d’un an, les volontaires vivront isolés dans un environnement ressemblant à Mars. Une expérience névralgique, explique une Canadienne ayant participé à la première simulation, en 2023.",
+      "published": "2026-10-11T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/1138bdf5ac4e314491b13a42a04ffc7a.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T09:28:32.565Z"
+    },
+    {
+      "id": "cd4f71ad8d6f9e5c",
+      "guid": "6625d7942914322fa001b925814b073e",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-11/dans-le-calepin-de-l-editeur-adjoint/combattre-l-ia-en-lui-obeissant.php",
+      "title": "Dans le calepin de l’éditeur adjoint | Combattre l’IA… en lui obéissant ?",
+      "excerpt": "Il y aura eu un avant et un après, avec l’affaire Orélien. On le voit bien dans vos courriels, dans vos attentes, dans vos critiques.",
+      "published": "2026-10-11T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/bbad7c4c/158c2ae91b8039e0ae231727edcd136b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T09:28:32.565Z"
+    },
+    {
+      "id": "e2bfc0e332c53051",
+      "guid": "1318c9f53ff63e2d831ef3869d3575e5",
+      "link": "https://www.lapresse.ca/actualites/2026-10-11/immersion-a-la-ville-de-montreal/enqueteur-canin-metier-imprevisible-et-risque.php",
+      "title": "Immersion à la Ville de Montréal | Enquêteur canin, métier imprévisible et risqué",
+      "excerpt": "La Presse a accompagné le temps d’une journée l’une des personnes chargées d’enquêter sur les signalements de chiens dangereux. Un métier qui n’est pas sans risques : La Presse a accepté de ne pas dévoiler le nom de famille de « Gilbert » à la demande de son employeur, qui craint les représailles…",
+      "published": "2026-10-11T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/13dd2b6be8e93c7081d0006ede2d6141.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T09:28:32.565Z"
+    },
+    {
+      "id": "efc99fbadbc65126",
+      "guid": "88f240b3900134e5afe950d61e97d44a",
+      "link": "https://www.lapresse.ca/actualites/2026-10-11/jamais-sans-mon-chien-dangereux.php",
+      "title": "Jamais sans mon chien (dangereux)",
+      "excerpt": "« C’est la faute des p’tits jeunes qui l’écœuraient. »",
+      "published": "2026-10-11T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/84095847404e370f93a6f4a3d283b919.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T09:28:32.565Z"
+    },
+    {
       "id": "88443d7d37dbcdcb",
       "guid": "ffbd060ac12f3c2aa553fa999212090e",
       "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-10/ahuntsic-cartierville/un-homme-de-21-ans-victime-d-une-agression-armee.php",
