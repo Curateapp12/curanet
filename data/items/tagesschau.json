@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "0dd8ccfd41adf994",
+      "guid": "885cfe9a-66a5-4816-8fbd-9fafb34b9814",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
+      "title": "\"Die Stromsteuer muss für alle gesenkt werden\"",
+      "excerpt": "Die CDU will raus aus der Krise und wieder näher an die Lebenswirklichkeit der Menschen. Als konkrete Maßnahme schlägt der rheinland-pfälzische Regierungschef Schnieder im ARD-Bericht aus Berlin vor, die Stromsteuer für alle zu senken.",
+      "published": "2026-10-11T18:05:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2b4bc4c2-a221-4ce0-9195-80a06046f252/AAABoSv1uag/AAABnSSvrFg/16x9-big/sendungsbild-1809912.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-11T18:30:53.606Z"
+    },
+    {
+      "id": "853688929b52c616",
+      "guid": "edefb831-9799-46f8-ad31-e02f753d8491",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
+      "title": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
+      "excerpt": "Nach dem schweren Angriff auf den Flughafen von Riad droht die Huthi-Miliz mit einer weiteren Eskalation. Saudi-Arabien fühlt sich vom Partner USA im Stich gelassen und sucht neue Verbündete. Von Anna Osius.",
+      "published": "2026-10-11T17:50:11.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/25da5b7b-b3a8-4539-a20a-1ab7298a3e65/AAABoSwWJCY/AAABnSSvrFg/16x9-big/huthi-drohung-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-11T18:30:53.606Z"
+    },
+    {
+      "id": "70e17c594b1cfc65",
+      "guid": "6448209e-c6b5-4065-82fe-5d9536a2e2e7",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
+      "title": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
+      "excerpt": "Reformstau, schwindende Zustimmung in der Bevölkerung, desaströse Wahlergebnisse - die schwarz-rote Koalition steht unter Druck. Jetzt muss sie unter Beweis stellen, dass sie noch handlungsfähig ist. Von Ilanit Spinner.",
+      "published": "2026-10-11T17:36:32.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7fc41d8e-5439-4418-a651-b4e8a08741bd/AAABoSwJp-U/AAABnSSvrFg/16x9-big/bundeskanzleramt-222.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-11T18:30:53.606Z"
+    },
+    {
       "id": "232e481fad4f3b49",
       "guid": "59f6759f-9e48-4fa1-92f2-0d929d0276d3",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
