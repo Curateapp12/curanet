@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "014acb320e60e79e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292244/houthis-reiterent-menaces-contre-aeroports-saoudiens",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292244/houthis-reiterent-menaces-contre-aeroports-saoudiens",
+      "title": "Arabie saoudite : nouvelle attaque contre l’aéroport de Riyad",
+      "excerpt": "Plus tôt dimanche, les Houthis du Yémen ont réitéré, leurs menaces contre les aéroports saoudiens.",
+      "published": "2026-10-11T15:22:29.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/houthis-attaquent-aeroport-riyadh.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T15:27:30.215Z"
+    },
+    {
+      "id": "8e1f0983d8197c8d",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292260/cessez-feu-energetiques-kiev-moscou-trump-truth-social",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292260/cessez-feu-energetiques-kiev-moscou-trump-truth-social",
+      "title": "Cessez-le-feu sur les infrastructures énergétiques entre Kiev et Moscou, selon Trump",
+      "excerpt": "Zelensky a dit ne pas être au courant d'un accord, mais avait déclaré plus tôt être prêt à une telle trêve.",
+      "published": "2026-10-11T15:04:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/donald-trump-25536.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T15:27:30.215Z"
+    },
+    {
       "id": "a2c2f1421efe0873",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292251/ceuta-demantelement-camp-de-migrants-roi-despagne",
       "link": "https://ici.radio-canada.ca/nouvelle/2292251/ceuta-demantelement-camp-de-migrants-roi-despagne",
@@ -925,6 +947,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-61868.jpg",
       "type": "article",
       "addedAt": "2026-10-08T20:31:28.293Z"
+    },
+    {
+      "id": "abae5c1bc3f5660c",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10746914/donald-trump-revolutionnaire-ou-insignifiant-analyse-rafael-jacob",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10746914/donald-trump-revolutionnaire-ou-insignifiant-analyse-rafael-jacob",
+      "title": "Donald Trump, révolutionnaire ou insignifiant? L’analyse de Rafael Jacob",
+      "excerpt": "Patrice Roy en discute avec son collaborateur de longue date, Rafael Jacob.",
+      "published": "2026-10-08T19:46:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/essentiels-info/16x9/rafael-jacob-donald-trump-hors-des-ondes-balado-patrice-roy-68040.jpg",
+      "type": "article",
+      "addedAt": "2026-10-11T15:27:30.215Z"
     },
     {
       "id": "1688ffdbb9533a66",
