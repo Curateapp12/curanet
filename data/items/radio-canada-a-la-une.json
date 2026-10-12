@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "9f63596d9c5849c0",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292401/yemen-houthis-riposte-etats-unis",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292401/yemen-houthis-riposte-etats-unis",
+      "title": "Yémen : les Houthis menacent de riposte « douloureuse » en cas d’intervention américaine",
+      "excerpt": "Les hostilités ont repris en juillet entre les Houthis et le gouvernement yéménite, appuyé par Riyad.",
+      "published": "2026-10-12T21:41:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/yemen-houthis-53772.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T22:28:47.864Z"
+    },
+    {
       "id": "da87b3a0fdd65e63",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292409/jean-luc-mongrain-deces-hommages",
       "link": "https://ici.radio-canada.ca/nouvelle/2292409/jean-luc-mongrain-deces-hommages",
@@ -12,6 +23,28 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/jean-luc-mongrain-vie-5-mots-animateur-commentateur.jpg",
       "type": "article",
       "addedAt": "2026-10-12T21:28:28.552Z"
+    },
+    {
+      "id": "99c8bf3a01aafcb9",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292397/airbnb-photo-retouche-intelligence-artificielle",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292397/airbnb-photo-retouche-intelligence-artificielle",
+      "title": "Airbnb : peut-on encore se fier aux annonces à l’ère de l’IA?",
+      "excerpt": "L'IA floute la frontière entre embellissement et tromperie, rendant le choix d'un Airbnb plus complexe.",
+      "published": "2026-10-12T19:56:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/airbnb-voyageur-entree-vacances.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T22:28:47.864Z"
+    },
+    {
+      "id": "1091502e973b0618",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292398/david-eby-referendum-alberta",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292398/david-eby-referendum-alberta",
+      "title": "La Colombie-Britannique et l’Alberta sont « plus fortes ensemble », déclare David Eby",
+      "excerpt": "Les Albertains doivent se prononcer le 19 octobre sur la place que doit tenir l’Alberta au sein du Canada.",
+      "published": "2026-10-12T19:38:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/david-eby-discours-campagne.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T22:28:47.864Z"
     },
     {
       "id": "6fffeac64492f0a0",

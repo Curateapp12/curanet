@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "81f358d245095d19",
+      "guid": "https://ici.radio-canada.ca/sports/2292418/marathon-montreal-course-popularite-grandissante",
+      "link": "https://ici.radio-canada.ca/sports/2292418/marathon-montreal-course-popularite-grandissante",
+      "title": "La course à pied et sa popularité grandissante",
+      "excerpt": "Le marathon Beneva de Montréal a réuni quelque 35 000 participants cette année pour l'ensemble des courses.",
+      "published": "2026-10-12T22:17:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/popularite-course-a-pied-quebec.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T22:28:47.864Z"
+    },
+    {
       "id": "c989a9b4f5f8eff5",
       "guid": "https://ici.radio-canada.ca/sports/2292384/alouettes-alouettes-roughriders-parfaite-domicile",
       "link": "https://ici.radio-canada.ca/sports/2292384/alouettes-alouettes-roughriders-parfaite-domicile",
@@ -12,6 +23,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/davis-alexander-alouettes-montreal-roughriders.jpg",
       "type": "article",
       "addedAt": "2026-10-12T20:31:44.159Z"
+    },
+    {
+      "id": "0ce2e9ab67476ed3",
+      "guid": "https://ici.radio-canada.ca/sports/2292399/trio-francophone-canadien-danault-bolduc-texier",
+      "link": "https://ici.radio-canada.ca/sports/2292399/trio-francophone-canadien-danault-bolduc-texier",
+      "title": "Le trio francophone qui a trouvé sa voix",
+      "excerpt": "Le trio tout francophone Texier-Danault-Bolduc rend de fiers services au Canadien.",
+      "published": "2026-10-12T19:59:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/phillip-danault-16830.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T22:28:47.864Z"
     },
     {
       "id": "e37e6dc378319c25",
