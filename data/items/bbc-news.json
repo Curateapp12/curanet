@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "66873080fd6dc3df",
+      "guid": "https://www.bbc.co.uk/news/articles/c68jz0282re9o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c68jz0282re9o",
+      "title": "Sinn Féin ministers facing no-confidence vote after Drumcree dispute",
+      "excerpt": "The motion against Michelle O'Neill and three other Sinn Féin ministers will be debated after receiving the backing of unionist parties last week.",
+      "published": "2026-10-12T09:13:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/604a/live/1a8ecb00-c613-11f1-aae8-850c1751d51d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T09:34:09.505Z"
+    },
+    {
+      "id": "4ef5cb27e2bb906c",
+      "guid": "https://www.bbc.co.uk/sport/golf/articles/cmz7xvpgdz4yo#8",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cmz7xvpgdz4yo",
+      "title": "DP World Tour to refuse LIV players in 2027 season",
+      "excerpt": "The DP World Tour will not allow LIV Golf players to compete at its events in the 2027 season.",
+      "published": "2026-10-12T08:30:48.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ca/live/332d9410-c5ba-11f1-a3d7-4f09811ef5f5.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T09:34:09.505Z"
+    },
+    {
       "id": "48699ac4d0b1f79c",
       "guid": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o#1",
       "link": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o",
@@ -23,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a41/live/ef8cdbe0-c608-11f1-8c6a-67b23d88bdb7.jpg",
       "type": "article",
       "addedAt": "2026-10-12T08:35:34.709Z"
+    },
+    {
+      "id": "1bffce0351a42826",
+      "guid": "https://www.bbc.co.uk/news/articles/c39wzpegqgd9o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c39wzpegqgd9o",
+      "title": "AI spots nearly 19,000 'shocking' road offences",
+      "excerpt": "Captured images include a front-seat passenger holding a small child on her lap without a seatbelt.",
+      "published": "2026-10-12T08:02:08.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb72/live/e3b59b00-c602-11f1-9a72-a1408ec457e8.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T09:34:09.505Z"
     },
     {
       "id": "35e80d6836c2ca21",
@@ -146,6 +179,17 @@
       "addedAt": "2026-10-12T00:41:18.940Z"
     },
     {
+      "id": "8dc5dc8942eb6205",
+      "guid": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o",
+      "title": "Roofing scammers con homeowners out of thousands of pounds",
+      "excerpt": "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
+      "published": "2026-10-11T23:19:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da61/live/bdf1b350-c3ef-11f1-913a-eb4b8e15ad15.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T09:34:09.505Z"
+    },
+    {
       "id": "2326466bca152177",
       "guid": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo#2",
       "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo",
@@ -177,6 +221,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef78/live/3cd40f10-c34b-11f1-9ef0-9f3abff8feb9.jpg",
       "type": "article",
       "addedAt": "2026-10-11T23:27:01.226Z"
+    },
+    {
+      "id": "80d12ce0ebbe317b",
+      "guid": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do#4",
+      "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do",
+      "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "excerpt": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "published": "2026-10-11T23:13:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a584/live/517b3620-c308-11f1-bc2e-018d645d8d21.png",
+      "type": "article",
+      "addedAt": "2026-10-12T09:34:09.505Z"
     },
     {
       "id": "8424fb9459d6a974",
