@@ -3,6 +3,39 @@
   "sourceId": "el-pais",
   "items": [
     {
+      "id": "69650ef5f9ab540e",
+      "guid": "https://elpais.com/economia/2026-10-12/la-ue-importara-como-maximo-350000-coches-hibridos-chinos-al-ano.html",
+      "link": "https://elpais.com/economia/2026-10-12/la-ue-importara-como-maximo-350000-coches-hibridos-chinos-al-ano.html",
+      "title": "La UE importará como máximo 350.000 coches híbridos chinos al año",
+      "excerpt": "El compromiso alcanzado entre Bruselas y Pekín prevé reducir más de la mitad la cantidad de vehículos de este tipo que llegan desde el gigante asiático",
+      "published": "2026-10-12T16:20:08.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/5AMQVS64AZJCXPH2EVKCS2D4ZU.jpg?auth=d4e11a5950f78910bb8e060c3b2b71288c4704ebf8a87bcc0cf7058044a61ba0",
+      "type": "article",
+      "addedAt": "2026-10-12T16:31:22.509Z"
+    },
+    {
+      "id": "230ae4c24dc2e2cf",
+      "guid": "https://elpais.com/espana/2026-10-12/sanchez-confirma-la-entrada-de-buques-de-guerra-marroquies-en-aguas-espanolas-el-dia-de-la-entrada-masiva-fueron-dias-intensos.html",
+      "link": "https://elpais.com/espana/2026-10-12/sanchez-confirma-la-entrada-de-buques-de-guerra-marroquies-en-aguas-espanolas-el-dia-de-la-entrada-masiva-fueron-dias-intensos.html",
+      "title": "Sánchez confirma la entrada de buques de guerra marroquíes en aguas españolas el día de la entrada masiva: “Fueron días intensos”",
+      "excerpt": "El presidente admite el episodio desvelado por EL PAÍS y señala que se arregló con un contacto “al máximo nivel” entre las armadas",
+      "published": "2026-10-12T16:07:52.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/3RSSAO5G7ZLW5K22ULQX5JSS2Y.jpg?auth=5913e139672146e7297ff4cd16d8b7123624713fed7db7ce0e6f2a9c640dacc1",
+      "type": "article",
+      "addedAt": "2026-10-12T16:31:22.509Z"
+    },
+    {
+      "id": "a043346652af69f6",
+      "guid": "https://elpais.com/economia/2026-10-12/la-averia-de-un-tren-interrumpe-la-circulacion-en-la-linea-de-alta-velocidad-madrid-barcelona.html",
+      "link": "https://elpais.com/economia/2026-10-12/la-averia-de-un-tren-interrumpe-la-circulacion-en-la-linea-de-alta-velocidad-madrid-barcelona.html",
+      "title": "Un incendio en un AVE de Renfe interrumpe la circulación en la línea de alta velocidad Madrid-Barcelona",
+      "excerpt": "La incidencia se ha registrado a la altura de la localidad zaragozana de Ricla poco después de las 16.00 horas, siendo evacuados 283 viajeros",
+      "published": "2026-10-12T15:45:10.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/KRSHVYGE2FAVRPA7BKWPDPYZ34.jpg?auth=8b3e888f6f3ec48d238fa8018bcd3d673211d95f7bd348930b786e9772401fe8",
+      "type": "article",
+      "addedAt": "2026-10-12T16:31:22.509Z"
+    },
+    {
       "id": "5930c9d6d1526134",
       "guid": "https://elpais.com/salud-y-bienestar/2026-10-12/la-menopausia-no-es-una-cuesta-suave-es-un-precipicio-las-consecuencias-de-la-ultima-regla-son-mucho-peores-de-lo-que-se-sabia.html",
       "link": "https://elpais.com/salud-y-bienestar/2026-10-12/la-menopausia-no-es-una-cuesta-suave-es-un-precipicio-las-consecuencias-de-la-ultima-regla-son-mucho-peores-de-lo-que-se-sabia.html",
@@ -113,6 +146,17 @@
       "addedAt": "2026-10-12T14:36:37.904Z"
     },
     {
+      "id": "4c2bb1d9e5dda9ec",
+      "guid": "https://elpais.com/espana/2026-10-12/la-ue-cierra-ahora-filas-con-espana-sobre-ceuta-dos-meses-despues-de-la-crisis-migratoria.html",
+      "link": "https://elpais.com/espana/2026-10-12/la-ue-cierra-ahora-filas-con-espana-sobre-ceuta-dos-meses-despues-de-la-crisis-migratoria.html",
+      "title": "La UE cierra ahora filas con España sobre Ceuta dos meses después de la crisis migratoria",
+      "excerpt": "Los Veintisiete lanzan un mensaje hacia Marruecos de que las ciudades autónomas son parte de la Unión",
+      "published": "2026-10-12T13:49:52.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/GCFDULT7PRM7TCFNJDKJHJ4HSU.jpg?auth=3513b798f053d263e153dc2d8150d87807aa2455cd355f3c34bde3f8c1f4ccb1",
+      "type": "article",
+      "addedAt": "2026-10-12T16:31:22.509Z"
+    },
+    {
       "id": "a38ed28b3ffe0ec1",
       "guid": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-supremo-mantiene-para-el-29-n-la-suspension-del-derecho-al-voto-de-los-nacionalizados-por-la-ley-de-nietos.html",
       "link": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-supremo-mantiene-para-el-29-n-la-suspension-del-derecho-al-voto-de-los-nacionalizados-por-la-ley-de-nietos.html",
@@ -177,6 +221,17 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/4WX5CDLLGA5TZ3IEJJO2QJ7ARU.jpg?auth=23ee9d335ac32040dc7e16151f27a8c949278eed960cdd362c03d5a05d57439e",
       "type": "article",
       "addedAt": "2026-10-12T12:50:56.346Z"
+    },
+    {
+      "id": "af9f837e49404fdc",
+      "guid": "https://elpais.com/internacional/2026-10-12/europa-eleva-la-presion-sobre-rusia-mientras-arrecian-las-amenazas-de-trump-contra-ucrania.html",
+      "link": "https://elpais.com/internacional/2026-10-12/europa-eleva-la-presion-sobre-rusia-mientras-arrecian-las-amenazas-de-trump-contra-ucrania.html",
+      "title": "Europa eleva la presión sobre Rusia mientras arrecian las amenazas de Trump contra Ucrania",
+      "excerpt": "La UE incluye en su lista negra a cientos de nuevos nombres de la órbita del Kremlin en un nuevo intento de atenazar la maquinaria de guerra de Moscú",
+      "published": "2026-10-12T11:40:57.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/BYAX2HIEABKVVMXNTP6DCOQNEU.jpg?auth=4b3fe56ad80066a1151c99e35a79796cbf1fe8d9597426a9ed6e2a9a97881292",
+      "type": "article",
+      "addedAt": "2026-10-12T16:31:22.509Z"
     },
     {
       "id": "fa2e03cc02aeaaed",
