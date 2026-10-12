@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "1ad06aef5da6bc05",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292318/elections-alberta-referendum",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292318/elections-alberta-referendum",
+      "title": "Élections Alberta est prête pour le vote en personne pour le référendum",
+      "excerpt": "Un taux de participation d'environ 85 % est anticipé pour ce scrutin historique.",
+      "published": "2026-10-12T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/alberta-referendum-october-elections-vote.png",
+      "type": "article",
+      "addedAt": "2026-10-12T08:35:34.709Z"
+    },
+    {
+      "id": "2b6091fa069296a2",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291905/coeurs-transplantes-age-adaptation-hote",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291905/coeurs-transplantes-age-adaptation-hote",
+      "title": "Les cœurs transplantés s’adaptent à l’âge de leur hôte",
+      "excerpt": "La signature moléculaire d’un cœur greffé semble s’ajuster à l’âge du receveur.",
+      "published": "2026-10-12T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/coeur-medecin-concept-illustration.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T08:35:34.709Z"
+    },
+    {
+      "id": "3bb5f87b909176b9",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291808/tecfee-test-examen-francais-enseignement-etudiants",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291808/tecfee-test-examen-francais-enseignement-etudiants",
+      "title": "Le nouveau test de français pour les futurs profs se fait toujours attendre",
+      "excerpt": "Annoncée il y a quatre ans, la nouvelle version ne sera pas implantée avant 2027.",
+      "published": "2026-10-12T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/langue-francaise-ecrite-quebec-examen-5e-secondaire-gouvernement.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T08:35:34.709Z"
+    },
+    {
+      "id": "5e8843f5e5ffe0fa",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292319/seisme-panama-canadiens-quebecois",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292319/seisme-panama-canadiens-quebecois",
+      "title": "Séisme au Panama : des Canadiens se disent laissés à eux-mêmes",
+      "excerpt": "Ils dénoncent l’inaction du gouvernement fédéral pour les rapatrier au pays.",
+      "published": "2026-10-12T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/panama-seisme.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T08:35:34.709Z"
+    },
+    {
+      "id": "675fe69847ed145e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292148/refection-usine-eaux-usees-montreal-epuration",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292148/refection-usine-eaux-usees-montreal-epuration",
+      "title": "Traitement des eaux usées : « On construit une cathédrale moderne que personne ne verra »",
+      "excerpt": "La facture du projet de désinfection des eaux usées est passée de 200 millions $ à 1,15 milliard $.",
+      "published": "2026-10-12T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/station-epuration-jean-r-marcotte-riviere-des-prairies.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T08:35:34.709Z"
+    },
+    {
+      "id": "68d95eea0405cd24",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292275/pierre-poilievre-visite-etats-unis-tarifs",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292275/pierre-poilievre-visite-etats-unis-tarifs",
+      "title": "Pierre Poilievre en visite au Michigan mardi pour défendre le libre-échange",
+      "excerpt": "Le chef conservateur ira à la rencontre d'entreprises et de médias américains.",
+      "published": "2026-10-12T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pierre-poilievre-new-york.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T08:35:34.709Z"
+    },
+    {
+      "id": "f76edbf1a27988d5",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292290/dpj-criminalite-peine-reinsertion-jeunesse",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292290/dpj-criminalite-peine-reinsertion-jeunesse",
+      "title": "Le programme RAD, « de l’or » pour les jeunes hébergés au Centre de réadaptation de Laval",
+      "excerpt": "L'initiative permet aux jeunes qui ont commis un délit de découvrir différents loisirs et métiers.",
+      "published": "2026-10-12T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/john-laval-delinquance-centre-jeunesse.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T08:35:34.709Z"
+    },
+    {
       "id": "71fb784ce05d1e7b",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292312/stelco-pertes-emploi-cleveland-cliffs",
       "link": "https://ici.radio-canada.ca/nouvelle/2292312/stelco-pertes-emploi-cleveland-cliffs",
