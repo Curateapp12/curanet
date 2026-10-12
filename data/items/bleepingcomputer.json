@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "7a7fbf93e11c89ab",
+      "guid": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "excerpt": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]",
+      "published": "2026-10-12T14:00:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-12T14:36:37.904Z"
+    },
+    {
+      "id": "8bf2f9414a620fba",
+      "guid": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "excerpt": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
+      "published": "2026-10-12T13:51:07.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-12T14:36:37.904Z"
+    },
+    {
       "id": "175a7df5c5ccb15a",
       "guid": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
       "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
