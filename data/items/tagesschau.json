@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "f0861d1b3ea288c5",
+      "guid": "18f0fe5f-86eb-4423-a24a-ae8280617bda",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-bas-100.html",
+      "title": "Bärbel Bas tritt als Arbeitsministerin und SPD-Vorsitzende zurück",
+      "excerpt": "Dieser Schritt dürfte für die meisten überraschend kommen: Arbeitsministerin und SPD-Co-Chefin Bas hat angekündigt, ihre Ämter abzulegen. Sie begründete ihre Entscheidung mit persönlichen Gründen und öffentlichen Angriffen.",
+      "published": "2026-10-12T06:36:46.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e09b5f53-bfaf-46cd-88b6-d35c64b76397/AAABoS64aTk/AAABnSSvrFg/16x9-big/bas-228.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-12T06:40:23.177Z"
+    },
+    {
+      "id": "1c33f1f4693badd6",
+      "guid": "e5519e45-da4e-4c66-84d1-d23b7abc6b02",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-cdu-landesminister-protestbrief-100.html",
+      "title": "Landwirtschaftsminister protestieren bei Merz gegen Zuckersteuer",
+      "excerpt": "Im Streit über die Zuckersteuer wächst der Widerstand innerhalb der Union. Neun Landesminister haben sich in einem Brief an Kanzler Merz gegen die Abgabe ausgesprochen - und warnen vor den Folgen der geplanten Abgabe.",
+      "published": "2026-10-12T06:24:01.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-12T06:40:23.177Z"
+    },
+    {
+      "id": "cee316f00d3f8b19",
+      "guid": "22df2aff-e77b-45bf-a145-07514671d4ac",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
+      "title": "Marktbericht: DAX höher erwartet",
+      "excerpt": "Der DAX bleibt auch in der neuen Woche im Spannungsfeld hoher Ölpreise und Anleiherenditen. Etwas Entspannung kommt von der Wall Street, wo die Anleger den Beginn der Berichtssaison erwarten.",
+      "published": "2026-10-12T05:43:18.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1cd7783b-220b-4d14-9b74-536f856c926b/AAABnjsd-94/AAABnSSvrFg/16x9-big/dax-220.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-12T06:40:23.177Z"
+    },
+    {
+      "id": "fa83a945fa2fbf24",
+      "guid": "de8412f0-77e8-4f67-b930-000b9a263044",
+      "link": "https://www.tagesschau.de/ausland/amerika/kritik-diesellieferung-russland-trump-100.html",
+      "title": "US-Senatoren kritisieren Trumps Diesel-Pläne als rechtswidrig",
+      "excerpt": "Der von Präsident Trump angekündigte Import von russischem Diesel in die USA hat weltweit für harsche Kritik gesorgt. Auch im US-Kongress regt sich zunehmend Widerstand - nicht nur auf Seiten der Demokraten.",
+      "published": "2026-10-12T05:40:02.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4064ddf5-03d5-4087-ac48-e7217bf7916e/AAABm5QNp7c/AAABnSSvrFg/16x9-big/us-kapitol-154.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-12T06:40:23.177Z"
+    },
+    {
       "id": "e48f4d694322c428",
       "guid": "9fde1378-5dd0-428d-954a-b3a2b9dd121a",
       "link": "https://www.tagesschau.de/ausland/asien/suedkorea-nordkorea-raketen-100.html",
