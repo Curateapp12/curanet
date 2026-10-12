@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "8d0ac34c06d57d46",
+      "guid": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "excerpt": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+      "published": "2026-10-12T19:23:01.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-12T19:29:32.684Z"
+    },
+    {
+      "id": "8ba9b8e7a12a6c3d",
+      "guid": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "excerpt": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+      "published": "2026-10-12T18:51:59.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-12T19:29:32.684Z"
+    },
+    {
       "id": "28da8c245f5dca44",
       "guid": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
