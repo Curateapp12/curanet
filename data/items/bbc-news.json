@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "b58786ca93e0b5b3",
+      "guid": "https://www.bbc.co.uk/news/articles/cqx28950p253o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cqx28950p253o",
+      "title": "Schoolboy knife attacker texted 'sorry' to mum",
+      "excerpt": "The mother of a boy accused of attempted murder at a high school gives evidence at his trial.",
+      "published": "2026-10-12T13:12:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35b8/live/93c691e0-1d41-11f1-8a7a-4725a6287ab3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T13:42:38.951Z"
+    },
+    {
+      "id": "626c7912331fef26",
+      "guid": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo",
+      "title": "PM believes Brexit vote was legitimate despite Russia claims, No 10 says",
+      "excerpt": "It is \"inconceivable\" that Russia did not try to use the referendum to its advantage, No 10 said, but the PM believed it did not succeed in influencing the result.",
+      "published": "2026-10-12T12:53:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e62/live/7be55730-c635-11f1-b99d-0127a94fa1d0.png",
+      "type": "article",
+      "addedAt": "2026-10-12T13:42:38.951Z"
+    },
+    {
       "id": "665f786ad6a54248",
       "guid": "https://www.bbc.co.uk/news/articles/cq0k0gl81yr2o#4",
       "link": "https://www.bbc.co.uk/news/articles/cq0k0gl81yr2o",
@@ -67,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542a/live/901f4640-c62e-11f1-9a39-31b474234113.jpg",
       "type": "article",
       "addedAt": "2026-10-12T12:50:56.346Z"
+    },
+    {
+      "id": "4b5283a7e9ec4ff9",
+      "guid": "https://www.bbc.co.uk/news/articles/c60e0g39rj9go#4",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0g39rj9go",
+      "title": "Daniel Kinahan's lawyers to apply for bail in due course, court hears",
+      "excerpt": "He is charged with directing the activities of a criminal organisation between 18 October 2015 and 6 April 2017.",
+      "published": "2026-10-12T11:42:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1027/live/e32bbb10-c0df-11f1-8cf3-7dbc6a5861dd.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T13:42:38.951Z"
     },
     {
       "id": "2f4c18013873d60d",
