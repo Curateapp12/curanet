@@ -3,6 +3,83 @@
   "sourceId": "el-pais",
   "items": [
     {
+      "id": "8aeb86263a741db8",
+      "guid": "https://elpais.com/deportes/tenis/2026-10-12/zizou-bergs-carlos-alcaraz-en-directo-el-open-de-shanghai-en-vivo.html",
+      "link": "https://elpais.com/deportes/tenis/2026-10-12/zizou-bergs-carlos-alcaraz-en-directo-el-open-de-shanghai-en-vivo.html",
+      "title": "Zizou Bergs - Carlos Alcaraz, en directo; el Open de Shanghai, en vivo",
+      "excerpt": "El murciano se mide en segunda ronda al tenista belga tras superar a Cerúndolo en su estreno",
+      "published": "2026-10-12T10:29:05.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/YXGEFTIJRJJ5BCAF7E3H4CUX3Y.jpg?auth=1ec22d21ec1ffdbcb404916bfa80419ffc5ebd8fb961221ec6cc586968f063be",
+      "type": "article",
+      "addedAt": "2026-10-12T10:32:49.162Z"
+    },
+    {
+      "id": "e12bda5f8bf4bf17",
+      "guid": "https://elpais.com/economia/2026-10-12/premio-nobel-de-economia-2026-en-directo-para.html",
+      "link": "https://elpais.com/economia/2026-10-12/premio-nobel-de-economia-2026-en-directo-para.html",
+      "title": "Premio Nobel de Economía 2026 para Michael Woodford y Robert E. Hall",
+      "excerpt": "La Academia Sueca entrega en Estocolmo el galardón que reconoce los trabajos en estabilización monetaria",
+      "published": "2026-10-12T10:26:57.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/XTG5VTY475BR5DDYVRGMLRA3IE.jpg?auth=902a1631339bca910035387ce28ab5e2d7e1667daab5edfc5c34d9243dc43b56",
+      "type": "article",
+      "addedAt": "2026-10-12T10:32:49.162Z"
+    },
+    {
+      "id": "9da886e13a294206",
+      "guid": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
+      "title": "Podemos y ERC oficializan el acuerdo por el que Rufián y Montero harán campaña juntos",
+      "excerpt": "El partido de Ione Belarra “contribuirá” a la candidatura de ERC en Cataluña",
+      "published": "2026-10-12T10:18:16.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/SO7TGTUA6FCMTHNMBI7WIMTHR4.jpeg?auth=ef18313a10a82775820f7b489e1f472850fe06bf6d4cfd7ae63f0f3996b623de",
+      "type": "article",
+      "addedAt": "2026-10-12T10:32:49.162Z"
+    },
+    {
+      "id": "9e16e9782449ae93",
+      "guid": "https://elpais.com/espana/2026-10-12/el-desfile-del-12-de-octubre-por-el-dia-de-la-hispanidad-en-imagenes.html",
+      "link": "https://elpais.com/espana/2026-10-12/el-desfile-del-12-de-octubre-por-el-dia-de-la-hispanidad-en-imagenes.html",
+      "title": "El desfile del 12 de octubre por el Día de la Hispanidad 2026, en imágenes",
+      "excerpt": "Madrid acoge este lunes el tradicional desfile militar del Día de la Fiesta Nacional, presidido por el rey Felipe VI, capitán general de los ejércitos de Tierra, Armada y Aire",
+      "published": "2026-10-12T10:16:58.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/X3WTUB6GXNKDRFO757GBDEEWVI.jpg?auth=fe9cfff2d1cfe17751d943ecfe7fb83f9467b5199d0d8eebe04dbaa0e227b6e1",
+      "type": "article",
+      "addedAt": "2026-10-12T10:32:49.162Z"
+    },
+    {
+      "id": "af2780bf9cc3cb68",
+      "guid": "https://elpais.com/sociedad/2026-10-12/varios-intoxicados-por-salmonela-en-espana-por-huevos-contaminados-con-la-bacteria.html",
+      "link": "https://elpais.com/sociedad/2026-10-12/varios-intoxicados-por-salmonela-en-espana-por-huevos-contaminados-con-la-bacteria.html",
+      "title": "Al menos 13 intoxicados por salmonela en España por huevos contaminados con la bacteria",
+      "excerpt": "El Sistema de Alerta Rápida para Alimentos de la Unión Europea califica de “grave” el brote, causado por un lote ya retirado del mercado",
+      "published": "2026-10-12T09:59:25.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/WMTHPLY2EREP7ED5KHKDGGDE3E.jpg?auth=bcdff4a1ae7a8970386f076f9c5432b88cd5d5ca60ea3fd232639ea124c8131d",
+      "type": "article",
+      "addedAt": "2026-10-12T10:32:49.162Z"
+    },
+    {
+      "id": "0eb545f968367e26",
+      "guid": "https://elpais.com/gente/2026-10-12/meghan-markle-y-malala-yousafzai-revelan-el-motivo-de-su-encuentro-privado-en-londres.html",
+      "link": "https://elpais.com/gente/2026-10-12/meghan-markle-y-malala-yousafzai-revelan-el-motivo-de-su-encuentro-privado-en-londres.html",
+      "title": "Meghan Markle y Malala Yousafzai revelan el motivo de su encuentro privado en Londres",
+      "excerpt": "La duquesa de Sussex y la Premio Nobel de la Paz han unido fuerzas para apoyar la educación de las niñas. Con el mismo objetivo, la esposa de Enrique de Inglaterra, con quien tiene previsto su primer acto público este jueves desde su vuelta al Reino Unido, ha lanzado una sudadera que se ha agotado…",
+      "published": "2026-10-12T09:40:29.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/EDKD4TUVO5CSFIOPGTRO3HCICE.jpg?auth=d36892394f39072e8c22b5d9734c1d2afa83eb3ad585ed703397f6513edf5bab",
+      "type": "article",
+      "addedAt": "2026-10-12T10:32:49.162Z"
+    },
+    {
+      "id": "2321a125e9dc3d73",
+      "guid": "https://elpais.com/espana/comunidad-valenciana/2026-10-12/pilar-bernabe-delegada-del-gobierno-cabeza-de-lista-del-psoe-por-valencia-por-delante-de-arcadi-espana-y-rebeca-torro.html",
+      "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-12/pilar-bernabe-delegada-del-gobierno-cabeza-de-lista-del-psoe-por-valencia-por-delante-de-arcadi-espana-y-rebeca-torro.html",
+      "title": "Pilar Bernabé encabezará la lista del PSOE por Valencia, por delante de Arcadi España y Rebeca Torró",
+      "excerpt": "La idea es que la secretaria de Igualdad del PSOE mantenga su futura candidatura a la alcaldía de Valencia",
+      "published": "2026-10-12T09:25:55.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/TCIII75WNNCSHNEQKE2UOUKK5E.JPG?auth=8fd9989e912278494f28bb5ef7f5533cf49ab9fb4c353b0186ffc3a03c0b4be7",
+      "type": "article",
+      "addedAt": "2026-10-12T10:32:49.162Z"
+    },
+    {
       "id": "c9d6ca48cda45c22",
       "guid": "https://elpais.com/gente/2026-10-12/eugenia-silva-rescata-una-emotiva-carta-de-su-expareja-pau-dones-en-el-que-habria-sido-su-60-cumpleanos-el-miedo-te-jode-la-vida.html",
       "link": "https://elpais.com/gente/2026-10-12/eugenia-silva-rescata-una-emotiva-carta-de-su-expareja-pau-dones-en-el-que-habria-sido-su-60-cumpleanos-el-miedo-te-jode-la-vida.html",
