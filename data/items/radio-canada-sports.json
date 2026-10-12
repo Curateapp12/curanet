@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "8308b51fa421f24a",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10782086/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10782086/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-12T03:23:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T03:32:48.249Z"
+    },
+    {
+      "id": "90ec1fdc6cff65a9",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10782084/sports-express-11-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10782084/sports-express-11-octobre",
+      "title": "Sports Express - 11 octobre",
+      "excerpt": "Les nouvelles du sport avec Ismaël Sy",
+      "published": "2026-10-12T03:22:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/sports-express.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T03:32:48.249Z"
+    },
+    {
       "id": "c610763991ce37a8",
       "guid": "https://ici.radio-canada.ca/sports/2292313/canucks-vancouver-rangers-new-york",
       "link": "https://ici.radio-canada.ca/sports/2292313/canucks-vancouver-rangers-new-york",
