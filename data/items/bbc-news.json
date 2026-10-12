@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "f3e70cc1571616f0",
+      "guid": "https://www.bbc.co.uk/sport/cycling/articles/cmpwgdw0p1d5o#8",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/cmpwgdw0p1d5o",
+      "title": "GB's Richardson withdrawn from World Championships",
+      "excerpt": "Matt Richardson is withdrawn from the Great Britain squad for next week's World Track Cycling Championships amid reports he is under investigation for misconduct.",
+      "published": "2026-10-12T17:39:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf4/live/603c30f0-c665-11f1-8b8f-ddd45afdc2fc.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T18:34:16.142Z"
+    },
+    {
+      "id": "4b0e9e9de7cad7bb",
+      "guid": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo",
+      "title": "Burnham to push for new post-Brexit deals at EU summit",
+      "excerpt": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
+      "published": "2026-10-12T17:38:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d80/live/977c9f50-c656-11f1-8600-efb62b613ab5.png",
+      "type": "article",
+      "addedAt": "2026-10-12T18:34:16.142Z"
+    },
+    {
       "id": "7b0f0f3e1df54df2",
       "guid": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o#4",
       "link": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o",
@@ -23,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caca/live/ab917b30-c644-11f1-b47f-e3f9cf703bc3.jpg",
       "type": "article",
       "addedAt": "2026-10-12T17:31:00.402Z"
+    },
+    {
+      "id": "80dd643c84a24c07",
+      "guid": "https://www.bbc.co.uk/news/articles/ck0j0g0yl699o#4",
+      "link": "https://www.bbc.co.uk/news/articles/ck0j0g0yl699o",
+      "title": "Plans to tackle violence after Southport attack shelved due to costs, inquiry told",
+      "excerpt": "Responses set out by the Home Office in the wake of the Southport attack would need more money, the inquiry hears.",
+      "published": "2026-10-12T17:10:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9f/live/593b0970-c0de-11f1-a64c-550be9e3c66b.png",
+      "type": "article",
+      "addedAt": "2026-10-12T18:34:16.142Z"
     },
     {
       "id": "6d8ecf36abe5ebfa",

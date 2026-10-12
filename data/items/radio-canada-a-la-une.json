@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "6fffeac64492f0a0",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292362/jean-luc-mongrain-deces-animateur-biographie",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292362/jean-luc-mongrain-deces-animateur-biographie",
+      "title": "L’animateur et journaliste Jean-Luc Mongrain s’éteint à l’âge de 75 ans",
+      "excerpt": "L'homme, qui a baigné dans l'univers des médias toute sa carrière, est décédé des suites d'un cancer.",
+      "published": "2026-10-12T18:22:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/jean-luc-mongrain-bonsoir-bonsoir.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T18:34:16.142Z"
+    },
+    {
+      "id": "9d491316086e65dc",
+      "guid": "https://ici.radio-canada.ca/sports/2292379/cyclisme-magdeleine-vallieres-chute-recuperation",
+      "link": "https://ici.radio-canada.ca/sports/2292379/cyclisme-magdeleine-vallieres-chute-recuperation",
+      "title": "« À 70 km/h, tu ne peux rien faire » : Magdeleine Vallières Mill raconte sa chute",
+      "excerpt": "La championne du monde de 2025 prend du repos chez elle, à Andorre, en attendant la nouvelle saison.",
+      "published": "2026-10-12T17:38:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/magdeleine-vallieres-mill-championne-monde-montreal.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T18:34:16.142Z"
+    },
+    {
+      "id": "d4df48a50b256f71",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292370/ouragan-simon-mort-degats-mexique",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292370/ouragan-simon-mort-degats-mexique",
+      "title": "L’ouragan Simon fait un mort et des dégâts sur la côte pacifique du Mexique",
+      "excerpt": "On redoutait des dégâts plus importants, mais les vents ont faibli au contact de reliefs montagneux.",
+      "published": "2026-10-12T17:33:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ouragan-simon-58075.jpg",
+      "type": "article",
+      "addedAt": "2026-10-12T18:34:16.142Z"
+    },
+    {
       "id": "ea27f8d9dbcd071d",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292354/perquisition-domicile-elue-democrate-somalienne",
       "link": "https://ici.radio-canada.ca/nouvelle/2292354/perquisition-domicile-elue-democrate-somalienne",
