@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "7f8bfa85645c9c74",
+      "guid": "e247e912-94aa-4472-8bf4-691fc8541245",
+      "link": "https://www.tagesschau.de/inland/sperrung-flughafen-nuernberg-100.html",
+      "title": "Flughafen Nürnberg wegen \"unbestätigter Luftnotlage\" gesperrt",
+      "excerpt": "Wegen einer \"unbestätigten Luftnotlage\" ist der Flughafen Nürnberg gesperrt worden. Laut eines Flughafensprechers wurde ein Flieger aus Korfu vor der Landung von \"Eurofightern\" begleitet. Inzwischen hat die Polizei Entwarnung gegeben.",
+      "published": "2026-10-13T11:25:24.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3fc14751-3a2e-4852-b185-38b570deb7a8/AAABoTTpfu0/AAABnSSvrFg/16x9-big/flughafen-nuernberg-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T11:32:07.352Z"
+    },
+    {
+      "id": "26ff7c544b51046a",
+      "guid": "798521f2-c5c4-4c18-915f-3dee2a1728ee",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-fahrplan-zugverkehr-100.html",
+      "title": "Bahn-Fahrplan: Neue ICE-Sprinter, aber weiter viele Baustellen",
+      "excerpt": "Ab diesem Mittwoch lassen sich Tickets für den neuen Bahn-Fahrplan buchen. Zum Wechsel im Dezember fährt ein neuer ICE-Sprinter zwischen Hamburg und München. Baustellen werden weiter für längere Fahrzeiten sorgen.",
+      "published": "2026-10-13T11:06:11.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/cf65f41d-12e2-4bdb-b947-27db2d841265/AAABoTS1u-A/AAABnSSvrFg/16x9-big/bahn-1414.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T11:32:07.352Z"
+    },
+    {
+      "id": "b7179b444e41857b",
+      "guid": "5318ddc4-494d-4218-b3c5-dbc47f9a52b5",
+      "link": "https://www.tagesschau.de/ausland/asien/internetsperren-tuerkei-100.html",
+      "title": "Türkische Regierung erhöht Druck auf Medien im Internet",
+      "excerpt": "Die türkische Regierung erhöht den Druck auf Medien im Internet. Allein im September ordnete sie Sperren gegen knapp 1.300 X-Accounts an. Betroffene Redaktionen kämpfen darum, ihre Leser weiter zu erreichen. Von Antonia Rüller.",
+      "published": "2026-10-13T10:45:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0590ccf4-8b54-4ef0-bc23-ddd63aae57c2/AAABoTS1kuU/AAABnSSvrFg/16x9-big/t24-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T11:32:07.352Z"
+    },
+    {
       "id": "2d95c1d36e6f1a0a",
       "guid": "882258fe-54ce-4e85-a90e-d1b50b62ac48",
       "link": "https://www.tagesschau.de/ausland/afrika/spanien-marokko-besuch-felipe-ceuta-100.html",

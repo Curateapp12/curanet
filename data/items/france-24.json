@@ -3,6 +3,61 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "fc2f2252f6d49dd4",
+      "guid": "493a9142-c6e4-11f1-b59b-2fff32970eed",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261013-s%C3%A9n%C3%A9gal-les-enfants-de-retour-en-classe-apr%C3%A8s-les-inondations",
+      "title": "Sénégal : les enfants de retour en classe après les inondations",
+      "excerpt": "Au Sénégal, les élèves retrouvent enfin le chemin de l'école ce lundi 12 octobre. Les cours avaient été reportés à cause de inondations qui ont secoué le pays. Notre correspondant Élimane Ndao nous en dit plus.",
+      "published": "2026-10-13T10:27:29.000Z",
+      "thumbnail": "https://s.france24.com/media/display/4455bc1a-c6e4-11f1-8edf-e362370cce2e/w:1024/p:16x9/FR-20261012-214303-214500-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T11:32:07.352Z"
+    },
+    {
+      "id": "38537db4216d4401",
+      "guid": "79d99f64-c6e4-11f1-9a3b-69fda98dd4e9",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261013-djibouti-au-moins-139-morts-et-84-disparus-en-mer-apr%C3%A8s-un-naufrage",
+      "title": "Djibouti : au moins 139 morts et 84 disparus en mer après un naufrage",
+      "excerpt": "Un nouveau drame impliquant des migrants au large de Djibouti. Dimanche l'Organisation Internationale pour les Migrations a rapporté qu'un bateau a chaviré, faisant 139 morts et 84 disparus... à bord, une très grande majorité d'Ethiopiens.",
+      "published": "2026-10-13T10:22:12.000Z",
+      "thumbnail": "https://s.france24.com/media/display/74d484fc-c6e4-11f1-a743-53993c5f1f18/w:1024/p:16x9/FR-20261012-214502-214650-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T11:32:07.352Z"
+    },
+    {
+      "id": "eb65d4aa16541d88",
+      "guid": "ecefd75a-c6eb-11f1-be6b-6dd9473d495f",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261013-le-roi-d-espagne-%C3%A0-ceuta-pour-une-visite-sous-haute-tension-diplomatique",
+      "title": "Le roi d'Espagne à Ceuta pour une visite sous haute tension diplomatique",
+      "excerpt": "Le roi d'Espagne Felipe VI se rend à Ceuta mardi 13 octobre pour une visite rarissime et diplomatiquement très sensible, deux mois et demi après l'afflux massif de migrants dans cette enclave espagnole du nord de l'Afrique, dont la souveraineté est revendiquée par le Maroc.",
+      "published": "2026-10-13T10:18:57.000Z",
+      "thumbnail": "https://s.france24.com/media/display/e7983bee-c6eb-11f1-b739-53993c5f1f18/w:1024/p:16x9/FR-20261013-110624-110802-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T11:32:07.352Z"
+    },
+    {
+      "id": "da39f858207cceee",
+      "guid": "bb6f822a-c6eb-11f1-af2f-3388308399ba",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261013-la-russie-condamne-la-saisie-par-la-france-d-un-p%C3%A9trolier-au-large-de-la-r%C3%A9union",
+      "title": "La Russie condamne la saisie par la France d'un pétrolier au large de la Réunion",
+      "excerpt": "L'ambassade ⁠de Russie ​à Paris a condamné mardi 13 octobre la saisie ​par la France du navire pétrolier DF Peak à 450 milles nautiques au large ​de ‌la Réunion, annoncée la veille ⁠par Emmanuel Macron, la qualifiant d'acte de piraterie et ‌de violation du droit international.",
+      "published": "2026-10-13T10:17:01.000Z",
+      "thumbnail": "https://s.france24.com/media/display/b6a23396-c6eb-11f1-b036-29a2e29ae696/w:1024/p:16x9/FR-20261013-110431-110544-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T11:32:07.352Z"
+    },
+    {
+      "id": "2447a53775ab72fb",
+      "guid": "66641cfa-c6eb-11f1-b3fd-7bd9166f6b42",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261013-les-lyc%C3%A9ens-de-nouveau-dans-la-rue-mardi-pour-un-acte-v-du-mouvement",
+      "title": "Les lycéens de nouveau dans la rue mardi pour un acte V du mouvement",
+      "excerpt": "Estimant n'avoir reçu \"que des miettes\", des lycéens et étudiants ont repris des blocages mardi 13 octobre au matin, avant une nouvelle journée nationale de manifestations, alors que le gouvernement espère, lui, une décélération du mouvement.",
+      "published": "2026-10-13T10:15:12.000Z",
+      "thumbnail": "https://s.france24.com/media/display/61abb650-c6eb-11f1-837d-3774aeac812a/w:1024/p:16x9/FR-20261013-110201-110333-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T11:32:07.352Z"
+    },
+    {
       "id": "1ed688daaaa2d5a1",
       "guid": "56796258-c6e8-11f1-a728-8f7aa4e86188",
       "link": "https://www.france24.com/fr/vid%C3%A9o/20261013-%C3%A9thiopie-les-r%C3%A9seaux-sociaux-un-terrain-propice-%C3%A0-la-propagande-et-la-d%C3%A9sinformation",
