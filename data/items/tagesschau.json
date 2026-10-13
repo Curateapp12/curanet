@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "e7e6b25a9c2bf305",
+      "guid": "1aabc230-dc79-4031-a39f-6466279e2239",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-istgh-us-sanktionen-100.html",
+      "title": "Wehrt sich Europa gegen die US-Sanktionen gegen das Weltstrafgericht?",
+      "excerpt": "Die US-Sanktionen gegen den IStGH in Den Haag werden als Angriff auf das Völkerrecht kritisiert. Sie wirken sich auch direkt auf Tätigkeiten in der EU aus. In Europa wächst die Forderung, das nicht länger zu tolerieren. Von Jean-Marie Magro.",
+      "published": "2026-10-13T06:36:11.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bf15d8c9-9431-4551-b23e-07ee40b0a12f/AAABoTP1tpU/AAABnSSvrFg/16x9-big/istgh-122.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T06:39:12.583Z"
+    },
+    {
+      "id": "9a9eef8f98641066",
+      "guid": "c797a982-0432-4f59-98f0-3c5f887a221d",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
+      "title": "Marktbericht: Anleger warten ab",
+      "excerpt": "Zum Handelsstart dürften sich die DAX-Anleger mit neuen Engagements erst einmal bedeckt halten. Weiterhin hohe Ölpreise, aber auch das Warten auf den Beginn der US-Berichtssaison, sorgen für Zurückhaltung.",
+      "published": "2026-10-13T05:40:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/85918134-74fc-42bf-b695-1f93756f4f76/AAABleXAi8s/AAABnSSvrFg/16x9-big/boerse-frankfurt-192.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T06:39:12.583Z"
+    },
+    {
+      "id": "19c59956c77b5bf9",
+      "guid": "f078fe8d-4298-4e71-b2ba-5716f14e07fe",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-haushaltsdebatte-100.html",
+      "title": "Auftakt der Haushaltsdebatte: \"Frankreich steht finanziell mit dem Rücken zur Wand\"",
+      "excerpt": "In Frankreich beginnen heute die Haushaltsberatungen für das kommende Jahr. Die Regierung will kräftig sparen, um das Defizit zu reduzieren. Ein halbes Jahr vor der Präsidentenwahl dürfte die Debatte hitzig werden. Von C. Dylla.",
+      "published": "2026-10-13T05:37:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5d0efb1c-30be-422f-8af6-94c7c66e44fe/AAABoTFFW6A/AAABnSSvrFg/16x9-big/nationalversammlung-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T06:39:12.583Z"
+    },
+    {
+      "id": "024acaa4c833cd32",
+      "guid": "d60ca99f-f014-4f1e-8652-d3ca031475d6",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
+      "title": "Neue Schülerproteste: Wie ein Brandbeschleuniger in Frankreichs Krise",
+      "excerpt": "Dass Demonstrationen eskalieren, kennt Frankreich. Doch das Ausmaß der Schülerproteste übertrifft frühere Bewegungen deutlich. Das zeigt, wie tief das Land gespalten ist. Heute soll erneut protestiert werden. Von Julia Borutta.",
+      "published": "2026-10-13T05:37:06.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1c81321c-4b7d-42aa-8f14-8d4383ae40fe/AAABoTAq0Ek/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-110.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T06:39:12.583Z"
+    },
+    {
       "id": "eb5bfe8743ae27d4",
       "guid": "ef26d8c3-02b8-4fbd-a27e-1c1eaac5217a",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/spionage-china-satellit-100.html",
