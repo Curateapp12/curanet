@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "086c3b6cf7ab2e7b",
+      "guid": "https://globalnews.ca/?p=12100447",
+      "link": "https://globalnews.ca/news/12100447/mark-carney-thanksgiving-alberta/",
+      "title": "Carney addresses Alberta separation referendum in Thanksgiving message",
+      "excerpt": "Prime Minister Mark Carney focused his Thanksgiving Day message on Alberta’s upcoming separation referendum, saying Canada is \"worth fighting for.\"",
+      "published": "2026-10-13T14:25:34.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP177015511-e1791901095637.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T14:35:15.763Z"
+    },
+    {
+      "id": "da6e2d861d6c88f6",
+      "guid": "https://globalnews.ca/?p=12100381",
+      "link": "https://globalnews.ca/news/12100381/breaking-bad-actor-rj-mitte-dead/",
+      "title": "‘Breaking Bad’ actor RJ Mitte dead at 34",
+      "excerpt": "'Born with Cerebral Palsy, he never - ever - allowed that challenge to be an excuse for anything,' 'Breaking Bad' star Bryan Cranston said of his late TV son.",
+      "published": "2026-10-13T14:24:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/rj-mitte-breaking-bad-dead.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T14:35:15.763Z"
+    },
+    {
+      "id": "62e57734de7eb443",
+      "guid": "https://globalnews.ca/?p=12100422",
+      "link": "https://globalnews.ca/news/12100422/canada-uk-iran-air-base-plot/",
+      "title": "Canada joins other nations denouncing Iran’s air base attack plot in the UK",
+      "excerpt": "Canada has joined more than two dozen other countries in denouncing Iran’s apparent involvement in a planned attack on an air base in England.",
+      "published": "2026-10-13T14:09:40.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP176992633-e1791899726124.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T14:35:15.763Z"
+    },
+    {
+      "id": "7be2e41eec4e9ca2",
+      "guid": "https://globalnews.ca/?p=12100390",
+      "link": "https://globalnews.ca/news/12100390/ontario-quebec-heavy-rainfall-storm-warnings/",
+      "title": "Storm to bring up to 60 millimetres of rain to parts of Ontario, Quebec",
+      "excerpt": "A weather system moving into Ontario and Quebec could bring heavy rainfall through much of Tuesday with thunderstorms also possible.",
+      "published": "2026-10-13T14:02:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/mtl-rain.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T14:35:15.763Z"
+    },
+    {
+      "id": "7b2b5a259f357732",
+      "guid": "https://globalnews.ca/?p=12100409",
+      "link": "https://globalnews.ca/news/12100409/ai-hacking-warning-scientists/",
+      "title": "AI hacking will be more common if changes aren’t made, scientists warn",
+      "excerpt": "Dozens of Canadian academics are among an international group of scientists calling for better containment measures for AI models.",
+      "published": "2026-10-13T13:49:35.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP176926067-e1791899144954.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T14:35:15.763Z"
+    },
+    {
       "id": "ae977c15704338b5",
       "guid": "https://globalnews.ca/?p=12100373",
       "link": "https://globalnews.ca/news/12100373/character-ai-bankrupt-disney/",

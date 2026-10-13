@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "46e66f8ca65c698d",
+      "guid": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+      "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+      "title": "The MFA Gaps Attackers are Still Exploiting",
+      "excerpt": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
+      "published": "2026-10-13T14:01:11.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-13T14:35:15.763Z"
+    },
+    {
+      "id": "36d6c42e8fe81aae",
+      "guid": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
+      "excerpt": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
+      "published": "2026-10-13T13:51:02.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-13T14:35:15.763Z"
+    },
+    {
       "id": "d0137ba408daed3e",
       "guid": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
       "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
