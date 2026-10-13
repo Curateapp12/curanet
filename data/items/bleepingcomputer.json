@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "c63069ba1c8d6650",
+      "guid": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "excerpt": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+      "published": "2026-10-13T15:45:50.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-13T16:32:37.853Z"
+    },
+    {
       "id": "cd001c5faa80bfeb",
       "guid": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
       "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",

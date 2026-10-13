@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "a559fe406e50dd77",
+      "guid": "https://globalnews.ca/?p=12100544",
+      "link": "https://globalnews.ca/news/12100544/charlottetown-cold-case-murder-withdrawn-byron-carr/",
+      "title": "Lost evidence in 1988 cold case leads to murder charge being withdrawn",
+      "excerpt": "The Crown Attorney's Office says police lost crucial evidence from the investigation into Byron Carr's 1988 death, meaning there is no longer a reasonable likelihood of conviction.",
+      "published": "2026-10-13T16:22:51.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/todd-gallant.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T16:32:37.853Z"
+    },
+    {
+      "id": "28504452da811f64",
+      "guid": "https://globalnews.ca/?p=12100476",
+      "link": "https://globalnews.ca/news/12100476/selma-blair-delta-flight-alleged-assault-flight-attendants/",
+      "title": "Selma Blair charged with assault after allegedly attacking flight attendants",
+      "excerpt": "The 54-year-old actor is also accused of kicking a police officer taking her to the hospital and kicking a nurse once she got there.",
+      "published": "2026-10-13T16:07:47.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/selma-blair-flight.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T16:32:37.853Z"
+    },
+    {
+      "id": "68472a6c46bf15dc",
+      "guid": "https://globalnews.ca/?p=12100590",
+      "link": "https://globalnews.ca/news/12100590/bike-lane-advocates-to-challenge-ford-governments-removal-plans-at-supreme-court/",
+      "title": "Bike lane advocates to challenge Ford government’s removal plans at Supreme Court",
+      "excerpt": "Ahead of the lane removal, CycleTO and EcoJustice, two groups that launched the charter challenge, revealed they are appealing the case to Canada's highest court.",
+      "published": "2026-10-13T16:06:49.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/654bba09d2b979957fac523a8868a7b387237b4a8559418534735d71f9e25ed6.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T16:32:37.853Z"
+    },
+    {
+      "id": "235acc8a19f36ec1",
+      "guid": "https://globalnews.ca/?p=12100578",
+      "link": "https://globalnews.ca/news/12100578/ontario-northwest-regions-no-time-change/",
+      "title": "Part of Ontario to move to permanent daylight time. Here’s why",
+      "excerpt": "The move comes after most of Canada's western provinces and territories have made the shift, with clocks no longer changing next month.",
+      "published": "2026-10-13T15:40:49.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/f8767f086a7e821f434c2aefe33f77260bb80748269319dd97b6774b91b63559.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T16:32:37.853Z"
+    },
+    {
+      "id": "4144307805479683",
+      "guid": "https://globalnews.ca/?p=12100412",
+      "link": "https://globalnews.ca/news/12100412/filip-grkovski-appeal-court-new-trial/",
+      "title": "Appeal court orders new trial for man acquitted in double fatal boat crash",
+      "excerpt": "The Court of Appeal has ordered a new trial for a Mississauga man acquitted of a double fatal boat crash on Lake Ontario after a judge-alone trial.",
+      "published": "2026-10-13T15:36:47.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/04/Image-4.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T16:32:37.853Z"
+    },
+    {
       "id": "45638a37a6f3fb29",
       "guid": "https://globalnews.ca/?p=12100552",
       "link": "https://globalnews.ca/news/12100552/quebec-author-plagiarism-denies-ai-use/",
