@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "d25b7fdc2307057f",
+      "guid": "https://www.bbc.co.uk/news/articles/c94g12rl57l0o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c94g12rl57l0o",
+      "title": "Military police prevented from following evidence in SAS murder probe, inquiry hears",
+      "excerpt": "Military police investigator tells an inquiry that the probe into suspected murders was \"dictated\" from above.",
+      "published": "2026-10-13T02:54:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725f/live/9f0c3580-cd2b-11ef-9fd6-0be88a764111.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T03:31:39.347Z"
+    },
+    {
+      "id": "8a4bb6f6eacf9904",
+      "guid": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o",
+      "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+      "excerpt": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+      "published": "2026-10-13T02:26:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b306/live/b194c5e0-c695-11f1-8021-954f6228d0be.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T03:31:39.347Z"
+    },
+    {
       "id": "cdd52e4bee534109",
       "guid": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo#1",
       "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo",
@@ -12,6 +34,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac3/live/cdd68a00-c662-11f1-8600-efb62b613ab5.jpg",
       "type": "article",
       "addedAt": "2026-10-13T02:31:15.182Z"
+    },
+    {
+      "id": "34e3643232f207a8",
+      "guid": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo",
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "excerpt": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "published": "2026-10-13T01:50:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3e/live/9d1f7420-c69f-11f1-8a85-c72eae042e5a.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T03:31:39.347Z"
     },
     {
       "id": "c2038312456cd737",
