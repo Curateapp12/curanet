@@ -3,6 +3,83 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "b88537de5199b7e2",
+      "guid": "https://www.bbc.co.uk/news/articles/cq073814llkjo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cq073814llkjo",
+      "title": "Two children among four dead after Waterford house fire",
+      "excerpt": "A man, a woman and two children are confirmed dead and two other children are critically ill.",
+      "published": "2026-10-13T10:23:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5260/live/f08c7e40-c6dc-11f1-bf38-57dc5cd42af2.png",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
+      "id": "c60c07ebc7f5cfda",
+      "guid": "https://www.bbc.co.uk/news/articles/cvj6j812dg4no#4",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j812dg4no",
+      "title": "Fortnite-maker Epic Games confirms 'huge pivot' towards using AI",
+      "excerpt": "The US firm's boss responds to critics, saying \"much of the room wants it to be 2016, but it's not\".",
+      "published": "2026-10-13T10:20:08.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4415/live/d40ba720-1c9e-11f1-bcb6-d5b9a36c13b4.png",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
+      "id": "6d0cff5dc703ceec",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqe8lg3xpmr3o#8",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqe8lg3xpmr3o",
+      "title": "Bethell returns as England call up youngsters Jack and Rew",
+      "excerpt": "Jacob Bethell will return for England's white-ball tour of Australia, while there are also first international call-ups for exciting prospects Thomas Rew and Eddie Jack.",
+      "published": "2026-10-13T10:00:26.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/770c/live/9137dcc0-c6df-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
+      "id": "01358d2d6eea81d3",
+      "guid": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo",
+      "title": "Poundland in rescue talks as owners seek buyer",
+      "excerpt": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+      "published": "2026-10-13T09:52:13.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
+      "id": "d9dde253e482cbcb",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/c875pdrq4rx4o#8",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c875pdrq4rx4o",
+      "title": "Boulter beaten by Shnaider in Wuhan",
+      "excerpt": "British number one Katie Boulter loses to Diana Shnaider in the Wuhan Open first round.",
+      "published": "2026-10-13T09:49:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86be/live/e66c3b30-c6e1-11f1-bf38-57dc5cd42af2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
+      "id": "08f07a5f3ca00a27",
+      "guid": "https://www.bbc.co.uk/news/articles/cwly38gjkejko#4",
+      "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko",
+      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+      "excerpt": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
+      "published": "2026-10-13T09:34:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca77/live/ea185dd0-c6e2-11f1-bf38-57dc5cd42af2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
+      "id": "884a54289fdcbf3c",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro",
+      "title": "Ronaldo scores after match delayed by missile alert",
+      "excerpt": "Cristiano Ronaldo scores as Al-Nassr win an AFC Champions League match which is delayed by an hour because of a missile alert in Riyadh.",
+      "published": "2026-10-13T09:23:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35fa/live/264b2210-c6e3-11f1-bf38-57dc5cd42af2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
       "id": "eaa55460e3adbec6",
       "guid": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo#1",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo",
@@ -23,6 +100,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a08/live/000a1cc0-c6e1-11f1-bf38-57dc5cd42af2.jpg",
       "type": "article",
       "addedAt": "2026-10-13T09:33:13.681Z"
+    },
+    {
+      "id": "39e27a4211a4a75a",
+      "guid": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o",
+      "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
+      "excerpt": "Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.",
+      "published": "2026-10-13T08:52:48.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/811bb020-c6e2-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
     },
     {
       "id": "08cb2faa3407fcd6",

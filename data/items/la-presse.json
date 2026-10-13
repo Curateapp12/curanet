@@ -3,6 +3,50 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "3e3f6fd7a08d40fb",
+      "guid": "43b901dc14e33937b872b535769fba58",
+      "link": "https://www.lapresse.ca/actualites/2026-10-13/ce-qu-on-suit-ce-mardi/canadien-metro-de-montreal-vaccination.php",
+      "title": "Ce qu’on suit ce mardi | Canadien, métro de Montréal, vaccination",
+      "excerpt": "Voici les évènements au programme aujourd’hui.",
+      "published": "2026-10-13T10:11:38.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/f249d8e96bea3a71844b39cc8efe64a2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
+      "id": "5cbc0958a0c0e49d",
+      "guid": "db1a6524b2c83cfa92383109381fd9a8",
+      "link": "https://www.lapresse.ca/actualites/2026-10-13/la-revue-de-presse-de-paul-arcand/jean-luc-mongrain-hockey-mineur-un-detective-suit-des-enfants-et-france-cyberattaque-contre-des-frigos.php",
+      "title": "La revue de presse de Paul Arcand | Jean-Luc Mongrain, hockey mineur : un détective suit des enfants et France : cyberattaque contre des frigos",
+      "excerpt": "À l’occasion de sa revue de presse, mardi matin, l’animateur Paul Arcand aborde le décès de Jean-Luc Mongrain. Il rend un vibrant hommage à son ancien collègue et monument de la télévision québécoise, qui est mort des suites d’un cancer à l’âge de 75 ans.",
+      "published": "2026-10-13T10:03:40.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/af5002d52e043fe692ad53450eec76e4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
+      "id": "caa37259f9e21e51",
+      "guid": "58500ed094423a0592c5f92579968a1a",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-10-13/invention-montrealaise/revolution-sur-tablette-pour-la-sclerose-en-plaques.php",
+      "title": "Invention montréalaise | Révolution sur tablette pour la sclérose en plaques",
+      "excerpt": "Les patients atteints de la sclérose en plaques peuvent désormais avoir un ajustement de médication plus fréquent, grâce à une invention montréalaise. Ce test sur tablette est offert dans de plus en plus de pharmacies.",
+      "published": "2026-10-13T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/8652c03df64a3f278a62199a05dd0ef7.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
+      "id": "c0d1bfcac06ec67b",
+      "guid": "ac6b50ca6ec93d91b8696ea1f84be912",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-13/transports-en-direct/les-voyants-au-vert.php",
+      "title": "Transports en direct | Les voyants au vert",
+      "excerpt": "Quelque chose à signaler sur les routes ou sur les rails ? La Presse examine le réseau en cette heure de pointe matinale et précise la couleur des feux de circulation.",
+      "published": "2026-10-13T09:50:18.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/cd910863868f3b66a8bdf4812e205e48.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
       "id": "1ab6ee975c4ecb20",
       "guid": "c3838d94739031ee963a96fec72dbc01",
       "link": "https://www.lapresse.ca/actualites/environnement/2026-10-13/consigne-sur-les-contenants-de-verre/une-usine-financee-par-les-consommateurs.php",
