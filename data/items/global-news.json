@@ -3,6 +3,50 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "45638a37a6f3fb29",
+      "guid": "https://globalnews.ca/?p=12100552",
+      "link": "https://globalnews.ca/news/12100552/quebec-author-plagiarism-denies-ai-use/",
+      "title": "Quebec author admits to plagiarism in earlier work, denies AI use",
+      "excerpt": "In a statement released by his publisher, Éditions du Boréal, Orélien apologized for making what he described as unacceptable mistakes in his youth.",
+      "published": "2026-10-13T15:33:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/mtl-author.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T15:33:37.055Z"
+    },
+    {
+      "id": "b7090c6e80ad4e3b",
+      "guid": "https://globalnews.ca/?p=12100474",
+      "link": "https://globalnews.ca/news/12100474/new-brunswick-elsipogtog-homicide-suspect/",
+      "title": "Man’s death ruled a homicide on Elsipogtog First Nation as search for suspect continues",
+      "excerpt": "RCMP continue their search for a suspect after a man was found dead on Elsipogtog First Nation, which prompted an emergency alert warning residents to lock their doors.",
+      "published": "2026-10-13T14:45:14.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/d9a21b83f8ba8f6080de35e4502a5d641e724c1d5ebf2422e0f29a3ae96e2a7a_dd0c8a.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T15:33:37.055Z"
+    },
+    {
+      "id": "79e257ba4da1a6c2",
+      "guid": "https://globalnews.ca/?p=12100411",
+      "link": "https://globalnews.ca/news/12100411/what-is-the-com-youth-online-coercion-network/",
+      "title": "Online predators coercing children to commit violence, Durham police warn",
+      "excerpt": "In some cases, the activities can result in violent and/or criminal behaviour, Durham Regional Police said in a social media post.",
+      "published": "2026-10-13T14:43:37.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/07/Internet-child-exploitation-e1784814533333.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T15:33:37.055Z"
+    },
+    {
+      "id": "5274c888b11f0cb3",
+      "guid": "https://globalnews.ca/?p=12100015",
+      "link": "https://globalnews.ca/news/12100015/new-norm-election-signs-missing-and-vandalized-across-manitoba/",
+      "title": "‘New norm’: election signs missing and vandalized across Manitoba",
+      "excerpt": "More campaign signs are being vandalized and going missing in Winnipeg and Portage la Prairie for this year's election, council candidates say.",
+      "published": "2026-10-13T14:42:16.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/VANDALIZED-ELECTION-SIGNS-1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T15:33:37.055Z"
+    },
+    {
       "id": "086c3b6cf7ab2e7b",
       "guid": "https://globalnews.ca/?p=12100447",
       "link": "https://globalnews.ca/news/12100447/mark-carney-thanksgiving-alberta/",

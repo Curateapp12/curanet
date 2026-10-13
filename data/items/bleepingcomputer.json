@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "cd001c5faa80bfeb",
+      "guid": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+      "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
+      "excerpt": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
+      "published": "2026-10-13T15:20:20.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-13T15:33:37.055Z"
+    },
+    {
       "id": "46e66f8ca65c698d",
       "guid": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
       "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",

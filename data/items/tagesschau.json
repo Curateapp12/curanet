@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "43c18d9ff3f20774",
+      "guid": "ece891b0-82d4-41b8-807b-6621a143c04d",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-kippt-umstrittenes-anti-lgbtq-gesetz-100.html",
+      "title": "Ungarn streicht Anti-LGBTQ-Regeln aus Orbans Kinderschutzgesetz",
+      "excerpt": "Bücher in schwarzer Folie, bestimmte Filme und Pride-Paraden verboten: Jahrelang schränkte Ungarn die Rechte sexueller Minderheiten ein. Nun vollzieht die neue Regierung eine Kehrtwende.",
+      "published": "2026-10-13T15:10:25.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1eb6fbe4-7c08-4800-b6de-619aa376b7ab/AAABoTUQyAw/AAABnSSvrFg/16x9-big/pride-marsch-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T15:33:37.055Z"
+    },
+    {
+      "id": "c914e03b05ce5cb6",
+      "guid": "cc440382-846c-4b55-83a2-173d5fe5a9d8",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html",
+      "title": "Alexander Schweitzer: Vom Wahlverlierer zum Bundesminister",
+      "excerpt": "Im März wurde Alexander Schweitzer als Ministerpräsident von Rheinland-Pfalz abgewählt. Jetzt soll er als Bundesarbeitsminister dabei helfen, Deutschland aus der Krise zu führen. Von T. Peters und A. Koark.",
+      "published": "2026-10-13T15:09:23.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f1bc49a1-2c61-40e1-acc3-e2b487cf6afe/AAABoTXdz4s/AAABnSSvrFg/16x9-big/merz-steinmeier-schweitzer-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T15:33:37.055Z"
+    },
+    {
+      "id": "56e6c028bb78535b",
+      "guid": "e328fbca-25b9-4c31-8b8d-4e07fd126d7e",
+      "link": "https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html",
+      "title": "Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker",
+      "excerpt": "Ihre Forderungen sind bekannt: bessere Lernbedingungen. Wieder sind in Frankreich deswegen Schulen blockiert, wieder sind Zehntausende Schüler zum Protest auf der Straße. Die Zugeständnisse der Politik sind ihnen bislang zu gering.",
+      "published": "2026-10-13T14:35:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f13a2394-6315-4e5f-9fa2-94cb6dfa6b4a/AAABoTWc5ac/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-112.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T15:33:37.055Z"
+    },
+    {
       "id": "66a4ce5f939c5cc7",
       "guid": "0d3f306d-40c8-4ca4-84ac-0b22aa6e238e",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
