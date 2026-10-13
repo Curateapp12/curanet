@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "5d5d52d490fee0fa",
+      "guid": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "excerpt": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+      "published": "2026-10-13T21:33:26.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-13T21:39:10.554Z"
+    },
+    {
+      "id": "1a0763123a1d11fa",
+      "guid": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "excerpt": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+      "published": "2026-10-13T21:16:34.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-13T21:39:10.554Z"
+    },
+    {
       "id": "21edffe120823d4e",
       "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
