@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "b036390b044e475d",
+      "guid": "7b331471-5f9e-494e-924b-5a9d017821d8",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-berichtssaison-q3-100.html",
+      "title": "Kann es die Berichtssaison richten?",
+      "excerpt": "Zuletzt konnten sich die Börsen in einem schwierigen Umfeld gut behaupten. Wesentlich dafür waren die starken Unternehmensgewinne. Die Zahlen zum dritten Quartal sind der nächste wichtige Prüfstein.",
+      "published": "2026-10-13T12:39:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d5be8945-9b39-4cec-967d-ef12fb706d71/AAABoTSnqEk/AAABnSSvrFg/16x9-big/new-york-418.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T12:40:04.576Z"
+    },
+    {
+      "id": "57f70c887431e058",
+      "guid": "02185d64-4422-43eb-84fb-03b2359b5899",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-empfehlungen-knackpunkte-100.html",
+      "title": "Bei diesen drei Themen stockt die Rentenreform",
+      "excerpt": "Nach dem überraschenden Rücktritt von Bundesarbeitsministerin Bas muss ihr Nachfolger Schweitzer die Rentenreform voranbringen - ausgerechnet er, der die Pläne bisher kritisiert hatte. Drei Knackpunkte gilt es zu lösen.",
+      "published": "2026-10-13T12:26:15.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b43d21c1-43ea-45c3-ba85-2ae3dd0f33a9/AAABmsCCUAo/AAABnSSvrFg/16x9-big/rente-382.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T12:40:04.576Z"
+    },
+    {
+      "id": "6707a7e62af6ede9",
+      "guid": "8691a525-6733-4626-9de2-271521de9138",
+      "link": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html",
+      "title": "Missbrauchsbeauftragte Claus: \"Risiken im digitalen Raum explodieren\"",
+      "excerpt": "Die Gefahr für Kinder und Jugendliche, sexualisierte Gewalt zu erleben, sei so hoch wie nie zuvor, warnt die Missbrauchsbeauftragte Claus. Das Netz gilt als \"zentraler Tatort\" - nun noch verstärkt durch Künstliche Intelligenz.",
+      "published": "2026-10-13T12:22:05.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/34e791ad-1074-45f3-b14a-9ad8e3bb6c4a/AAABoTUIhlE/AAABnSSvrFg/16x9-big/claus-114.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T12:40:04.576Z"
+    },
+    {
+      "id": "af450790509001b9",
+      "guid": "db17f93f-4c9b-4f52-a95d-3fab0df08819",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-operation-100.html",
+      "title": "Papst Leo XIV. für Lungenoperation im Krankenhaus eingetroffen",
+      "excerpt": "Das Oberhaupt der Katholischen Kirche hat sich ins Krankenhaus begeben. Papst Leo XIV. soll bereits am Nachmittag ein Knoten aus der Lunge entfernt werden. Seine Audienzen wurden vorerst bis zum 20. Oktober abgesagt.",
+      "published": "2026-10-13T11:57:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7c9bd027-e9bc-43f7-b5e8-f689b07472ce/AAABoTUml9M/AAABnSSvrFg/16x9-big/papst-1148.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T12:40:04.576Z"
+    },
+    {
       "id": "7f8bfa85645c9c74",
       "guid": "e247e912-94aa-4472-8bf4-691fc8541245",
       "link": "https://www.tagesschau.de/inland/sperrung-flughafen-nuernberg-100.html",
