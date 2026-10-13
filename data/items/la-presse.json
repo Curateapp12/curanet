@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "1ab6ee975c4ecb20",
+      "guid": "c3838d94739031ee963a96fec72dbc01",
+      "link": "https://www.lapresse.ca/actualites/environnement/2026-10-13/consigne-sur-les-contenants-de-verre/une-usine-financee-par-les-consommateurs.php",
+      "title": "Consigne sur les contenants de verre | Une usine financée par les consommateurs",
+      "excerpt": "Une nouvelle usine de 60 millions de dollars sera construite par Consignaction pour traiter les contenants de verre consignés, malgré l’opposition du gouvernement, et sera financée par les consommateurs québécois, qui verront les écofrais augmenter considérablement.",
+      "published": "2026-10-13T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/58133576e8623bc8866d9a3640ad0db5.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T09:33:13.681Z"
+    },
+    {
+      "id": "7642a8636f55f483",
+      "guid": "7ffbc01b7273335a8f6ceb7c0ffab873",
+      "link": "https://www.lapresse.ca/actualites/education/2026-10-13/bulletin-modifie/une-commission-scolaire-rappelee-a-l-ordre.php",
+      "title": "Bulletin modifié | Une commission scolaire rappelée à l’ordre",
+      "excerpt": "Un enfant présentant des difficultés scolaires a été privé à tort d’une évaluation normale et des apprentissages auxquels il avait droit, conclut le Protecteur de l’élève, qui a enjoint une école de l’ouest de l’île de Montréal de corriger le tir. La décision révèle aussi à quel point les notes ne…",
+      "published": "2026-10-13T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/74f1772e3b16388786555512ce2f69da.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T09:33:13.681Z"
+    },
+    {
+      "id": "d73209dcf517bad5",
+      "guid": "c337121c691f3c7eab7add18297fa254",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-13/gouvernement-du-pq/rassembler-ou-tomber.php",
+      "title": "Gouvernement du PQ | Rassembler ou tomber",
+      "excerpt": "Un peu comme le dieu romain Janus, un gouvernement minoritaire est condamné à avoir deux visages.",
+      "published": "2026-10-13T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/14ee1466a0f039abaa3160308e9d1a65.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T09:33:13.681Z"
+    },
+    {
+      "id": "dfdfb5fe03433531",
+      "guid": "159af600af333eb2a29377c6f3c0b7d8",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-13/tribunal-unifie-de-la-famille/quebec-cachait-un-rapport-compromettant.php",
+      "title": "Tribunal unifié de la famille | Québec cachait un rapport compromettant",
+      "excerpt": "Québec a tenté de garder secret un rapport qu’il a lui-même commandé et qui soulève des doutes sur la constitutionnalité du nouveau Tribunal unifié de la famille (TUF), a appris La Presse.",
+      "published": "2026-10-13T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/3b965ee432023234a446ea1f119b09fc.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T09:33:13.681Z"
+    },
+    {
+      "id": "f162c632bdc10213",
+      "guid": "68d39772425b32fc8d2903eb6042a344",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-13/gaz-naturel/du-bac-brun-a-votre-cuisiniere.php",
+      "title": "Gaz naturel | Du bac brun à votre cuisinière",
+      "excerpt": "Si vous cuisinez au gaz, vous faites peut-être cuire votre repas grâce aux restes de la veille. Sans tambour ni trompette, Montréal a récemment commencé à injecter le gaz naturel issu des bacs bruns de la métropole dans le réseau de gaz naturel d’Energir, a appris La Presse.",
+      "published": "2026-10-13T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/e4f1ca40648e3301b4a4b62442501c74.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T09:33:13.681Z"
+    },
+    {
       "id": "0db2e708298381fd",
       "guid": "418aff21b45431c39c002b4ed76252af",
       "link": "https://www.lapresse.ca/actualites/environnement/2026-10-12/montreal-et-monteregie/de-40-a-60-mm-de-pluie-attendus-mardi.php",

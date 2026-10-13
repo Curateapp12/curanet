@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "2d95c1d36e6f1a0a",
+      "guid": "882258fe-54ce-4e85-a90e-d1b50b62ac48",
+      "link": "https://www.tagesschau.de/ausland/afrika/spanien-marokko-besuch-felipe-ceuta-100.html",
+      "title": "Spaniens König in Ceuta: Spuren beseitigt, Problem weggeschoben",
+      "excerpt": "Der spanische König besucht für zwei Tage die Enklave Ceuta. Vor seiner Anreise wurden Strände und Straßen geräumt, wo Migranten über Wochen ausgeharrt hatten. Was also wird Felipe VI. in Ceuta sehen können? Von F. Welz.",
+      "published": "2026-10-13T09:24:42.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5e72507e-abad-4d04-8ae3-a8908b09c667/AAABoTRig9c/AAABnSSvrFg/16x9-big/aufraeumarbeiten-ceuta-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T09:33:13.681Z"
+    },
+    {
+      "id": "63287d8efc3c6298",
+      "guid": "66fec54d-a409-496f-83e4-94b6cf0964d2",
+      "link": "https://www.tagesschau.de/ausland/europa/drohnenangriff-frachter-schwarzes-meer-100.html",
+      "title": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
+      "excerpt": "Vor Bulgariens Küste sind wieder Handelsschiffe von Drohnen getroffen worden. Bei dem Angriff sank ein Frachter, mehrere Seeleute werden vermisst. Die bulgarische Regierung verdächtigt Russland und schaltet die NATO ein.",
+      "published": "2026-10-13T09:17:24.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5ff393af-03ff-428e-992f-0953bad87cf3/AAABoTRngOY/AAABnSSvrFg/16x9-big/bulgarien-264.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T09:33:13.681Z"
+    },
+    {
+      "id": "381e82fe655ed0d6",
+      "guid": "e7424591-4b1e-4e38-ac97-5edb2d9c3a50",
+      "link": "https://www.tagesschau.de/wirtschaft/weinlese-2026-deutschland-100.html",
+      "title": "Weinlese: Winzer rechnen mit kleinster Ernte seit 2010",
+      "excerpt": "Rund 20 Prozent weniger als im Durchschnitt: Nach dem Ende der Weinlese rechnen die deutschen Winzer mit weniger Wein für dieses Jahr. \"Spitze\" sei hingegen die diesjährige Qualität.",
+      "published": "2026-10-13T08:46:32.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4e69de55-5852-4369-ada8-fc8b035845ba/AAABoTQRIyM/AAABnSSvrFg/16x9-big/weinlese-198.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T09:33:13.681Z"
+    },
+    {
+      "id": "e5208aceeb4987a4",
+      "guid": "36ce70a5-9265-4e66-ad5f-3f51932a9010",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/menopause-koerper-veraenderungen-100.html",
+      "title": "Wechseljahre verändern Körper laut neuer Studie früher als gedacht",
+      "excerpt": "Hitzewallungen, Schlafstörungen oder Gewichtszunahme - die Symptome der Wechseljahre sind vielfältig. Eine neue Studie zeigt nun: Diese Phase beginnt viel früher als gedacht und bringt massive Veränderungen mit sich. Von Veronika Simon.",
+      "published": "2026-10-13T08:34:21.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7a1099b6-c762-4be2-8402-0527b3663748/AAABoTRS0qc/AAABnSSvrFg/16x9-big/frau-arzt-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T09:33:13.681Z"
+    },
+    {
       "id": "7e69c12c546a6bba",
       "guid": "f2cbe7db-1767-4256-a9cb-06e8d3aa6fef",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-tempo-reformen-koalition-100.html",
