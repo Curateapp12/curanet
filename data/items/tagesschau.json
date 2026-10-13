@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "d0d03e43c032144d",
+      "guid": "73f83bdd-5071-4ebd-8295-b14a13c9617b",
+      "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
+      "title": "Lungen-Operation bei Papst Leo erfolgreich verlaufen",
+      "excerpt": "Auf Anraten der Ärzte hat sich Papst Leo XIV. am Nachmittag einer Lungenoperation unterzogen. Wie der Vatikan mitteilte, hat der Heilige Vater den Eingriff gut überstanden.",
+      "published": "2026-10-13T18:47:28.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3ae7f386-4661-4b83-ba08-3d01ee6b782f/AAABoTaXT1g/AAABnSSvrFg/16x9-big/papst-gemelli-klinik-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T19:42:15.518Z"
+    },
+    {
+      "id": "ba54e2249a90af92",
+      "guid": "e0676511-6179-4487-a5df-f1191999f386",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
+      "title": "Cyberattacken auf Hunderte französische Supermärkte",
+      "excerpt": "Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\". Auch das deutsche Bundesamt für Sicherheit ist alarmiert.",
+      "published": "2026-10-13T18:37:01.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/51bd5ecf-61dd-4281-96e7-63250752a769/AAABoTaNjtU/AAABnSSvrFg/16x9-big/frankreich-supermarkt-kuehlregale-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T19:42:15.518Z"
+    },
+    {
       "id": "7eecf33aec8aeee1",
       "guid": "95374c6d-e041-4cc1-a0ab-3f2fbabfb8df",
       "link": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
