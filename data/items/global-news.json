@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "175a56a01f17e0c8",
+      "guid": "https://globalnews.ca/?p=12100654",
+      "link": "https://globalnews.ca/news/12100654/1-dead-others-injured-six-flags-roller-coaster-georgia/",
+      "title": "1 dead, others injured on Six Flags roller coaster in Georgia",
+      "excerpt": "Police said that preliminary information gathered through interviews indicates the man was ejected from the ride and struck other patrons before falling beneath roller coaster.",
+      "published": "2026-10-13T17:25:49.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/six-flags-over-georgia-roller-coaster-death.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T17:31:06.499Z"
+    },
+    {
+      "id": "60a2228dc2d288d4",
+      "guid": "https://globalnews.ca/?p=12100619",
+      "link": "https://globalnews.ca/news/12100619/rbc-charities-survey/",
+      "title": "Canadians with children more likely to rely on charities, non-profits: survey",
+      "excerpt": "Two out of five Canadians said they relied on the service of a charity or a non-profit in the last 12 months, an Ipsos survey conducted for the RBC found on Tuesday.",
+      "published": "2026-10-13T17:22:28.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Parents-RBC-survey.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T17:31:06.499Z"
+    },
+    {
+      "id": "1b322a5f098ccffd",
+      "guid": "https://globalnews.ca/?p=12100740",
+      "link": "https://globalnews.ca/news/12100740/new-brunswick-loan-hydroelectric-dam-repair/",
+      "title": "New Brunswick gets $219 million loan from Ottawa for hydroelectric dam repair work",
+      "excerpt": "The bulk of the money is a $219-million loan from the Canada Infrastructure Bank to extend the life of the province's largest hydroelectric dam.",
+      "published": "2026-10-13T17:06:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/8b7aece1384e07a5f249ca604f9c6ea645fee0b5db4478659efc0ee970b0cc8c.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T17:31:06.499Z"
+    },
+    {
+      "id": "3b0da2c2d27b177f",
+      "guid": "https://globalnews.ca/?p=12100710",
+      "link": "https://globalnews.ca/news/12100710/pearson-gold-heist-trial/",
+      "title": "Key figure in Pearson airport gold heist testifying at trial of another accused man",
+      "excerpt": "A man who admitted his role in the gold heist says he took 30 per cent of the gold and started melting and selling it before travelling to Pakistan.",
+      "published": "2026-10-13T16:55:21.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/fc0e7801e7d7da079e6d912b133eb7c056999a67f94f4392918b8ec5639c84f9.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T17:31:06.499Z"
+    },
+    {
+      "id": "a6c5c6416e2b9a78",
+      "guid": "https://globalnews.ca/?p=12099844",
+      "link": "https://globalnews.ca/news/12099844/parking-prices-set-rise-penticton-airport/",
+      "title": "Parking prices are set to rise 400% to 500% at Penticton airport",
+      "excerpt": "Parking at Penticton Regional Airport is about to get significantly more expensive, with rates set to increase between 400 and 500 per cent starting Nov. 1.",
+      "published": "2026-10-13T16:38:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2020/12/airport-1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-13T17:31:06.499Z"
+    },
+    {
       "id": "a559fe406e50dd77",
       "guid": "https://globalnews.ca/?p=12100544",
       "link": "https://globalnews.ca/news/12100544/charlottetown-cold-case-murder-withdrawn-byron-carr/",
