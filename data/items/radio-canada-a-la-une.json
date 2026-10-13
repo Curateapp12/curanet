@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "462b90f273bb8917",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2291817/place-marche-walmart-vendeurs-tiers",
+      "link": "https://ici.radio-canada.ca/nouvelle/2291817/place-marche-walmart-vendeurs-tiers",
+      "title": "Quand vous magasinez en ligne, de qui achetez-vous vraiment?",
+      "excerpt": "Des géants du détail autorisent des commerçants indépendants à vendre sur leurs plateformes en ligne.",
+      "published": "2026-10-13T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/robert-lheureux-walmart.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T08:34:49.375Z"
+    },
+    {
+      "id": "594cd7b9972878db",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres",
+      "title": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+      "excerpt": "La société d'État veut qu'un centre de données puisse offrir de payer plus cher pour obtenir des mégawatts.",
+      "published": "2026-10-13T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/amazon-web-services-infrastructure.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T08:34:49.375Z"
+    },
+    {
+      "id": "9f53e42b2e06e5f1",
+      "guid": "https://ici.radio-canada.ca/sports/2292374/hockey-quebec-mineur-martin-leclerc",
+      "link": "https://ici.radio-canada.ca/sports/2292374/hockey-quebec-mineur-martin-leclerc",
+      "title": "Quand le hockey mineur épie la famille d’une gardienne de 8 ans",
+      "excerpt": "« Est-ce vraiment le genre de système sportif que nous voulons? », se demande le chroniqueur Martin Leclerc.",
+      "published": "2026-10-13T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/hockey-mineur-hockey-outaouais-jeunes-joueurs.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T08:34:49.375Z"
+    },
+    {
+      "id": "a458459ce8bc26f0",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292425/crise-logement-espagne-election-anticipee-manifestations",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292425/crise-logement-espagne-election-anticipee-manifestations",
+      "title": "Espagne : comment la crise du logement a-t-elle mené à des élections anticipées?",
+      "excerpt": "Prévue pour le 29 novembre, l’élection devance de six mois la date d’échéance du mandat de Pedro Sánchez.",
+      "published": "2026-10-13T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pedro-sanchez-ceuta-crise-migratoire-espagne-premier-ministre.jpg",
+      "type": "article",
+      "addedAt": "2026-10-13T08:34:49.375Z"
+    },
+    {
+      "id": "cb2e8fd6cde784ee",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292113/transport-commun-rive-sud-montreal",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292113/transport-commun-rive-sud-montreal",
+      "title": "Les élus pressés d’en faire plus pour le transport sur la Rive-Sud",
+      "excerpt": "Le fait que les autobus et les stationnements du REM soient bondés complique les déplacements dans la région.",
+      "published": "2026-10-13T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bus-exo-beloeuil.png",
+      "type": "article",
+      "addedAt": "2026-10-13T08:34:49.375Z"
+    },
+    {
       "id": "cd40376450d98865",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292443/france-manifestations-lycee-eleves-etudiants",
       "link": "https://ici.radio-canada.ca/nouvelle/2292443/france-manifestations-lycee-eleves-etudiants",
