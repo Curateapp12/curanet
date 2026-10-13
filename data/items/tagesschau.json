@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "7eecf33aec8aeee1",
+      "guid": "95374c6d-e041-4cc1-a0ab-3f2fbabfb8df",
+      "link": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
+      "title": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
+      "excerpt": "Chinesische Autohersteller gewinnen in Europa massiv an Gewicht. Die EU will die Konkurrenz eindämmen. Ein Import-Deckel für Hybridfahrzeuge soll heimische Hersteller stützen. Kann das funktionieren? Von Sebastian Schreiber.",
+      "published": "2026-10-13T18:03:27.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d76e03cd-c665-4ac8-bc2a-76aebfb884f6/AAABoTRZ7vM/AAABnSSvrFg/16x9-big/byd-hybrid-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T18:37:45.747Z"
+    },
+    {
+      "id": "d34f62793ebb21bf",
+      "guid": "e4268dc9-b927-4d56-b874-539a5d407d9f",
+      "link": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
+      "title": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
+      "excerpt": "Die US-Botschafterin in Athen, Guilfoyle, ist zurückgetreten. Zuvor hatte die US-Regierung sie wegen angeblichen Fehlverhaltens dazu aufgefordert. Es geht unter anderem um Kreditkartenschulden von 100.000 US-Dollar.",
+      "published": "2026-10-13T18:02:23.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f32e022c-1cd7-44f4-bc05-1c9c3f9123cd/AAABoTZtFs0/AAABnSSvrFg/16x9-big/guilfoyle-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T18:37:45.747Z"
+    },
+    {
+      "id": "10cba3508d463789",
+      "guid": "59b45da6-50c3-4ad3-bde5-77b51f0d2ebc",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html",
+      "title": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
+      "excerpt": "Der Krieg im Jemen bedroht nicht nur eine der wichtigsten Handelsrouten der Welt, sondern auch die lokale Wirtschaft. Viele Existenzen sind bedroht, die mögliche Teilung des Landes in Nord und Süd wird diskutiert. Von Ramin Sina.",
+      "published": "2026-10-13T18:00:34.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b239d864-e3cd-4cb5-92fe-c8dddb2d4851/AAABoTZsYHo/AAABnSSvrFg/16x9-big/fischerboot-jemen-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T18:37:45.747Z"
+    },
+    {
+      "id": "d07ce71448f2b556",
+      "guid": "tagesschau_fm-story-rbb_berlin-linke-fraktion-vanessa-emde-israel",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-sondierungen-unterbrochen-102.html",
+      "title": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei",
+      "excerpt": "In Berlin hat die Linkspartei die wegen ihrer Israel-Kritik umstrittene Abgeordnete Emde in die Fraktion aufgenommen. SPD und Grüne unterbrechen deshalb die Sondierungsgespräche für eine mögliche rot-rot-grüne Koalition.",
+      "published": "2026-10-13T17:49:07.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/30812d7f-f4a5-4b62-b27d-e27ad86b6faf/AAABoTaLA60/AAABnSSvrFg/16x9-big/rbb-krach-wolter-graf-623935825-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T18:37:45.747Z"
+    },
+    {
+      "id": "d6de7434feeaedb6",
+      "guid": "dc56adec-036f-4125-937e-2ac5062cf622",
+      "link": "https://www.tagesschau.de/ausland/schwarzes-meer-schiffe-drohnen-100.html",
+      "title": "Schwarzes Meer: Bulgarien nennt Drohnenangriffe \"absolut inakzeptabel\"",
+      "excerpt": "Es ist der zweite Vorfall innerhalb einer Woche: Wieder wurden Schiffe vor Bulgariens Küste von Drohnen attackiert. Die Regierung bestellte die russische Botschafterin ein. Experten sehen eine konkrete Gefahr für Europas Sicherheit. Von Silke Hahne.",
+      "published": "2026-10-13T17:34:06.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4ccbeeb1-e646-4389-bed0-da26094dcab6/AAABoTZiIBY/AAABnSSvrFg/16x9-big/schiff-truemmer-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-13T18:37:45.747Z"
+    },
+    {
       "id": "d124b48a610e9835",
       "guid": "7480c053-a706-4656-bcd3-799e6d5dfeab",
       "link": "https://www.tagesschau.de/inland/gesellschaft/suizide-deutschland-100.html",
