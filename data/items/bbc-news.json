@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "6a04bcec17cbbd1c",
+      "guid": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do",
+      "title": "Saudi Arabia overturns death sentence for man over Facebook comment",
+      "excerpt": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency.",
+      "published": "2026-10-14T06:11:08.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23b6/live/874d66c0-c794-11f1-82aa-013df2d771f8.png",
+      "type": "article",
+      "addedAt": "2026-10-14T06:51:56.066Z"
+    },
+    {
+      "id": "6586874e42275539",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cx054n684g7do#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx054n684g7do",
+      "title": "'No excuses' - but is Villa's stadium rebuild affecting team?",
+      "excerpt": "With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?",
+      "published": "2026-10-14T05:41:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4f/live/5fa81060-c6eb-11f1-bc1b-8dfa7c975faa.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T06:51:56.066Z"
+    },
+    {
       "id": "d1ce815f4d3d5184",
       "guid": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko#2",
       "link": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko",
@@ -56,6 +78,39 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/645d/live/6faaea30-c74c-11f1-a64c-550be9e3c66b.jpg",
       "type": "article",
       "addedAt": "2026-10-14T05:40:31.376Z"
+    },
+    {
+      "id": "199f8a3518e38871",
+      "guid": "https://www.bbc.co.uk/news/articles/c8040531w45eo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c8040531w45eo",
+      "title": "Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments",
+      "excerpt": "BBC director general Matt Brittin said he had seen a \"pretty good\" AI-generated episode of the show.",
+      "published": "2026-10-14T04:58:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd57/live/99daefe0-c741-11f1-9085-f95bdc648acc.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T06:51:56.066Z"
+    },
+    {
+      "id": "fa2293df82a0a533",
+      "guid": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "excerpt": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "published": "2026-10-14T04:36:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T06:51:56.066Z"
+    },
+    {
+      "id": "643302d08630f889",
+      "guid": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo",
+      "title": "Lena Dunham's Girls to return for limited HBO run",
+      "excerpt": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
+      "published": "2026-10-14T02:09:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243d/live/cb0a4af0-c770-11f1-ab87-2bb7c0d2443c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T06:51:56.066Z"
     },
     {
       "id": "22b4bfba7f4a500b",

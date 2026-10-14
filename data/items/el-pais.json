@@ -3,6 +3,28 @@
   "sourceId": "el-pais",
   "items": [
     {
+      "id": "4a0d1c0875fd3c84",
+      "guid": "https://elpais.com/tecnologia/2026-10-14/una-grabadora-oculta-en-openai-el-fbi-detiene-a-un-empleado-acusado-de-espiar-reuniones-confidenciales.html",
+      "link": "https://elpais.com/tecnologia/2026-10-14/una-grabadora-oculta-en-openai-el-fbi-detiene-a-un-empleado-acusado-de-espiar-reuniones-confidenciales.html",
+      "title": "Una grabadora oculta en OpenAI: el FBI detiene a un empleado por espiar reuniones confidenciales",
+      "excerpt": "El Departamento de Justicia de Estados Unidos asegura que este ciudadano saudí pretendía captar “comunicaciones sensibles” sobre inteligencia artificial",
+      "published": "2026-10-14T06:45:45.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/QQKX3OUFPBLGTGJBPP6GCACPBY.jpg?auth=36035dfb7a29e82b9b1944d28574fbf2934cd393e1ea0ce099699c778ac52bcf",
+      "type": "article",
+      "addedAt": "2026-10-14T06:51:56.066Z"
+    },
+    {
+      "id": "2eb3b8712e3755ab",
+      "guid": "https://elpais.com/videos/2026-10-14/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "link": "https://elpais.com/videos/2026-10-14/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "title": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "excerpt": "Aimar Bretos dirige el análisis de los temas de actualidad en las mañanas de la Cadena SER, acompañado por Ignacio Escolar, Pablo A. Iglesias y Lola García",
+      "published": "2026-10-14T06:28:42.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896",
+      "type": "article",
+      "addedAt": "2026-10-14T06:51:56.066Z"
+    },
+    {
       "id": "2addb7564e8f6128",
       "guid": "https://elpais.com/escaparate/estilo-de-vida/chaleco-acolchado-mas-vendido.html",
       "link": "https://elpais.com/escaparate/estilo-de-vida/chaleco-acolchado-mas-vendido.html",
@@ -1002,6 +1024,17 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/HYUJII47JBJGNMRXLR3C4XCBSQ.jpg?auth=3b3fde641e7ceebd6c7a458b5104f02a210680b77539a7ec30d5627f79eb84cc",
       "type": "article",
       "addedAt": "2026-10-13T16:32:37.853Z"
+    },
+    {
+      "id": "c445afd2ddd3b6ab",
+      "guid": "https://elpais.com/tecnologia/branded/ocurrio-en-internet/2026-10-13/como-crear-contrasenas-que-protejan-nuestra-vida-digital.html",
+      "link": "https://elpais.com/tecnologia/branded/ocurrio-en-internet/2026-10-13/como-crear-contrasenas-que-protejan-nuestra-vida-digital.html",
+      "title": "Cómo crear contraseñas que protejan nuestra vida digital",
+      "excerpt": "El uso de claves débiles en dispositivos, programas y aplicaciones y el repetirlas en varias cuentas facilita el trabajo a los ciberdelincuentes. Pero hay maneras de no ponérselo fácil",
+      "published": "2026-10-13T15:40:42.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-14T06:51:56.066Z"
     },
     {
       "id": "4e8f1ea26a707396",
