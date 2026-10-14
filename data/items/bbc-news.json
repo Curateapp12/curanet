@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "edb5a0ef1093f691",
+      "guid": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo#2",
+      "link": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo",
+      "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
+      "excerpt": "With few details so far, it is unclear what might need to change for a Pope who has been focused on stability.",
+      "published": "2026-10-14T12:22:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8044/live/25c10ed0-c7c5-11f1-993a-152cbb068da1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T12:50:28.211Z"
+    },
+    {
+      "id": "69617cfc65b35ee2",
+      "guid": "https://www.bbc.co.uk/sport/articles/cqvgr7530085o#8",
+      "link": "https://www.bbc.co.uk/sport/articles/cqvgr7530085o",
+      "title": "Quiz: Do you remember the big names who took aim at football club chiefs?",
+      "excerpt": "As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out leadership figures?",
+      "published": "2026-10-14T12:13:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e4f/live/a02d3990-c7c1-11f1-9a39-31b474234113.png",
+      "type": "article",
+      "addedAt": "2026-10-14T12:50:28.211Z"
+    },
+    {
+      "id": "9d29d16e25516df4",
+      "guid": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo",
+      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+      "excerpt": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+      "published": "2026-10-14T11:57:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2437/live/04805c60-c7c2-11f1-993a-152cbb068da1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T12:50:28.211Z"
+    },
+    {
       "id": "7914b4ca937b6456",
       "guid": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo#4",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo",
@@ -23,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31bf/live/83599ee0-c7b6-11f1-b41f-d7a6cb474575.jpg",
       "type": "article",
       "addedAt": "2026-10-14T11:42:55.094Z"
+    },
+    {
+      "id": "833f1fbfc004e6a4",
+      "guid": "https://www.bbc.co.uk/news/articles/cvlydwygdkz4o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cvlydwygdkz4o",
+      "title": "Mechanic who falsified MOT before crash that killed three given community order",
+      "excerpt": "Eve Smith, Darcy Ross and Rafel Jeanne died when the car crashed into woodland in Cardiff in 2023.",
+      "published": "2026-10-14T10:57:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfcf/live/c0bb0f60-c7c7-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T12:50:28.211Z"
     },
     {
       "id": "841adc6ba98ab308",

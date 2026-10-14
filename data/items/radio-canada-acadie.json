@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "668fd80cd6b9d51c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292688/sechoir-usine-homard-odeurs-cap-acadie",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292688/sechoir-usine-homard-odeurs-cap-acadie",
+      "title": "Le projet controversé de séchage de coquilles de crustacés abandonné à Cap-Acadie",
+      "excerpt": "La Municipalité et l'entreprise Pêcheries Westmorland craignent des dérapages.",
+      "published": "2026-10-14T11:40:56.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/camion-carapace-homard.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T12:50:28.211Z"
+    },
+    {
       "id": "b8f11ef82f2867c3",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10783241/telejournal-acadie-13-octobre",
       "link": "https://ici.radio-canada.ca/info/videos/1-10783241/telejournal-acadie-13-octobre",
@@ -34,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/hockey-87058.jpg",
       "type": "article",
       "addedAt": "2026-10-14T09:42:10.099Z"
+    },
+    {
+      "id": "10114e93ad62b863",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10783071/pourquoi-reseau-cellulaire-est-si-difficile-a-capter-au-nouveau-brunswick",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10783071/pourquoi-reseau-cellulaire-est-si-difficile-a-capter-au-nouveau-brunswick",
+      "title": "Pourquoi le réseau cellulaire est si difficile à capter au Nouveau-Brunswick?",
+      "excerpt": "Pourquoi c’est si compliqué d’avoir une bonne connexion cellulaire au Nouveau-Brunswick? On vous explique les défis des tours et de la 5G.",
+      "published": "2026-10-14T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/vignette-cellulaire-tour-probleme-connexion-reseau-nouveau-brunswick.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T12:50:28.211Z"
     },
     {
       "id": "99ab24241ffa4a05",
