@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "92289f1671985419",
+      "guid": "https://globalnews.ca/news/12101655/blues-cool-off-hot-senators-with-7-2-road-win/",
+      "link": "https://globalnews.ca/news/12101655/blues-cool-off-hot-senators-with-7-2-road-win/",
+      "title": "Blues cool off hot Senators with 7-2 road win",
+      "excerpt": "Pius Suter, Jake Neighbours and Mason McTavish each had a pair of goals Tuesday night to lead the St. Louis Blues to a 7-2 win over the Ottawa Senators.",
+      "published": "2026-10-14T02:21:07.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/f94c6c25379a57296bd62ed58f802ab89d41bbb99bb5aff9b20b415de85defab.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T02:41:03.203Z"
+    },
+    {
+      "id": "14210043dfcc7c51",
+      "guid": "https://globalnews.ca/?p=12101194",
+      "link": "https://globalnews.ca/news/12101194/guilty-plea-connection-kelowna-teens-death/",
+      "title": "Guilty plea in connection with Kelowna teen’s death",
+      "excerpt": "Brandon Kazakoff’s defence lawyer, Glenn Verdurmen, described the incident in court on Tuesday as “one horrendous, horrible mistake.”",
+      "published": "2026-10-14T02:10:52.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/court-oct-13.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T02:41:03.203Z"
+    },
+    {
+      "id": "4137d395b907350d",
+      "guid": "https://globalnews.ca/?p=12101370",
+      "link": "https://globalnews.ca/news/12101370/quebec-incoming-outgoing-premiers-meet/",
+      "title": "Quebec’s incoming, outgoing premiers meet as transition of power begins",
+      "excerpt": "Quebec’s transition of power is underway as Paul St-Pierre Plamondon prepares to lead a minority PQ government after meeting outgoing premier Christine Fréchette.",
+      "published": "2026-10-14T02:03:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP177080630.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T02:41:03.203Z"
+    },
+    {
+      "id": "6119eb6359a248e9",
+      "guid": "https://globalnews.ca/?p=12101437",
+      "link": "https://globalnews.ca/news/12101437/kelowna-residents-costly-damage-fuel-tanks-drilled/",
+      "title": "Kelowna residents left with costly damage after fuel tanks drilled",
+      "excerpt": "Fuel theft is leaving Kelowna vehicle owners facing more than an empty tank, with some discovering holes drilled directly into their vehicles’ fuel tanks.",
+      "published": "2026-10-14T02:02:46.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/unnamed-8.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T02:41:03.203Z"
+    },
+    {
+      "id": "23421b3d484ea4c4",
+      "guid": "https://globalnews.ca/?p=12101310",
+      "link": "https://globalnews.ca/the-curator/12101310/12-last-minute-amazon-halloween-finds-that-will-arrive-on-time/",
+      "title": "The Curator: 12 last-minute Amazon Halloween finds that will arrive on time",
+      "excerpt": "Whether you’re setting the scene for spooky-season hosting or still searching for a last-minute costume, these Amazon finds make getting ready a little easier.",
+      "published": "2026-10-14T02:00:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/halloween-2.png",
+      "type": "article",
+      "addedAt": "2026-10-14T02:41:03.203Z"
+    },
+    {
+      "id": "396ee8cce1a07438",
+      "guid": "https://globalnews.ca/?p=12101259",
+      "link": "https://globalnews.ca/news/12101259/nanaimo-most-prolific-criminal-back-on-the-street-again/",
+      "title": "‘Nanaimo’s most prolific criminal’ back on the street again",
+      "excerpt": "He now has 174 criminal convictions - 81 of them involving violence - including an incident where he threw a brick at a pregnant woman.",
+      "published": "2026-10-14T01:47:04.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/01/PIC-AIDEN-TYE.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T02:41:03.203Z"
+    },
+    {
+      "id": "09448ca6fde8e5b6",
+      "guid": "https://globalnews.ca/?p=12101239",
+      "link": "https://globalnews.ca/news/12101239/transit-troubles-a-key-issue-for-winnipeg-voters-as-civic-election-looms/",
+      "title": "Transit troubles a key issue for Winnipeg voters as civic election looms",
+      "excerpt": "Since Winnipeg Transit's new routes, many Winnipeggers are feeling mixed about the new changes with some wanting to go back to how it was One Winnipegger plans to buy a car.",
+      "published": "2026-10-14T01:44:24.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/FATIMA.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T02:41:03.203Z"
+    },
+    {
       "id": "f75177de005348fa",
       "guid": "https://globalnews.ca/?p=12101156",
       "link": "https://globalnews.ca/news/12101156/canadian-astronaut-joshua-kutryk-iss-interview/",
