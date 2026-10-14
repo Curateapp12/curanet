@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "16c1250c77d0702a",
+      "guid": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo",
+      "title": "Swimmer Archie Goodburn thanks prime minister as brain cancer review announced",
+      "excerpt": "The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.",
+      "published": "2026-10-14T17:49:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0123/live/f5d6f8d0-c7f4-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T18:49:45.456Z"
+    },
+    {
+      "id": "0a8a574e052dd76b",
+      "guid": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro",
+      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+      "excerpt": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+      "published": "2026-10-14T17:46:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T18:49:45.456Z"
+    },
+    {
       "id": "69a9ec80b5693da5",
       "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/c6j472xqk5kro#8",
       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6j472xqk5kro",
@@ -12,6 +34,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/835b/live/9e8df690-c7c3-11f1-993a-152cbb068da1.jpg",
       "type": "article",
       "addedAt": "2026-10-14T17:41:53.426Z"
+    },
+    {
+      "id": "78f986c85a760f4f",
+      "guid": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do",
+      "title": "We are behind you and that will not change, PM tells Zelensky",
+      "excerpt": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+      "published": "2026-10-14T17:20:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2be/live/2e4043e0-c7f3-11f1-9909-8f8db2b4c4ac.png",
+      "type": "article",
+      "addedAt": "2026-10-14T18:49:45.456Z"
     },
     {
       "id": "0a5dd84aa555ef63",
