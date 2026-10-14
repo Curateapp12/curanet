@@ -3,6 +3,83 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "5bfa674871e44fc2",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/c59vzgnj9p2wo#8",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c59vzgnj9p2wo",
+      "title": "Star-studded Saudi exhibition postponed after deadly attacks",
+      "excerpt": "The Six Kings Slam exhibition event - featuring Carlos Alcaraz and Novak Djokovic - is postponed following a series of deadly attacks on Saudi Arabia.",
+      "published": "2026-10-14T16:25:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9c/live/6d1958b0-c7e2-11f1-b712-6f93dfe07e87.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T16:43:54.078Z"
+    },
+    {
+      "id": "c9f60b89370c5c20",
+      "guid": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo",
+      "title": "Kenya confirms second Ebola case as relative of country's first victim",
+      "excerpt": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "published": "2026-10-14T16:23:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa15/live/cb6ea3e0-c7e5-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T16:43:54.078Z"
+    },
+    {
+      "id": "08e2e59d8d04bdf1",
+      "guid": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo",
+      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+      "excerpt": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
+      "published": "2026-10-14T16:00:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ade/live/73ec5110-c7d3-11f1-9e10-4dcbd31d4273.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T16:43:54.078Z"
+    },
+    {
+      "id": "296d09aaf65c0f27",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo#1",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo",
+      "title": "Fifa to offer extra £2.6bn for football development",
+      "excerpt": "Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.",
+      "published": "2026-10-14T15:59:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df77/live/a0001370-c7df-11f1-b712-6f93dfe07e87.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T16:43:54.078Z"
+    },
+    {
+      "id": "8a8b230a3f8795b5",
+      "guid": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "excerpt": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "published": "2026-10-14T15:54:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T16:43:54.078Z"
+    },
+    {
+      "id": "156f6764b4eb9eda",
+      "guid": "https://www.bbc.co.uk/news/articles/crkg7q97z078o#1",
+      "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o",
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "excerpt": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+      "published": "2026-10-14T15:34:19.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638b/live/5f02caa0-c7e6-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T16:43:54.078Z"
+    },
+    {
+      "id": "35d88949634a8f46",
+      "guid": "https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo",
+      "title": "I do not have confidence UK is safe from Russian threats, says Swinney",
+      "excerpt": "The first minister speaks to BBC Scotland News ahead of the SNP's annual conference in Aberdeen.",
+      "published": "2026-10-14T15:30:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf7/live/48a3be30-c7d8-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T16:43:54.078Z"
+    },
+    {
       "id": "656b74dbd48464fa",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo",
@@ -34,6 +111,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb6e/live/8adf3a10-c7d6-11f1-9671-5b70c6e774ea.jpg",
       "type": "article",
       "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "e759e3d56a04ccdf",
+      "guid": "https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o",
+      "title": "Footballer Semenyo 'froze' after alleged racist abuse, court told",
+      "excerpt": "A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.",
+      "published": "2026-10-14T14:16:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T16:43:54.078Z"
     },
     {
       "id": "d1595aee4f0d1d9d",
