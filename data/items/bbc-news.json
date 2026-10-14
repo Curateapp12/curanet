@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "dc6c472b6bc862cc",
+      "guid": "https://www.bbc.co.uk/news/articles/crx23y3d970vo#4",
+      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "excerpt": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
+      "published": "2026-10-14T08:17:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e70f/live/ab877350-c7a8-11f1-a624-a3d8608fc192.png",
+      "type": "article",
+      "addedAt": "2026-10-14T08:43:32.002Z"
+    },
+    {
       "id": "b4429adddfc8814b",
       "guid": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do#1",
       "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do",
@@ -276,6 +287,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/6f952e60-c743-11f1-b4d5-87f9c6c95a29.jpg",
       "type": "article",
       "addedAt": "2026-10-13T22:39:47.942Z"
+    },
+    {
+      "id": "7bb451f7a03b70a8",
+      "guid": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo",
+      "title": "Why the lonely in China are hiring 'temporary children'",
+      "excerpt": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+      "published": "2026-10-13T22:00:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a9d/live/c0c4d690-be07-11f1-babe-4199b0e7ccea.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T08:43:32.002Z"
+    },
+    {
+      "id": "70cedc6a3f6472b4",
+      "guid": "https://www.bbc.co.uk/sport/american-football/articles/c5zjxnwm8dzpo#8",
+      "link": "https://www.bbc.co.uk/sport/american-football/articles/c5zjxnwm8dzpo",
+      "title": "Rams player suspended for punch & kicker cut by club",
+      "excerpt": "The fallout from the Los Angeles Rams' defeat by the Buffalo Bills continues as offensive lineman Alaric Jackson is suspended for punching an opponent while kicker Harrison Mevis is released.",
+      "published": "2026-10-13T21:47:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dbc/live/aa138050-c74d-11f1-b4d5-87f9c6c95a29.png",
+      "type": "article",
+      "addedAt": "2026-10-14T08:43:32.002Z"
     },
     {
       "id": "72655eef520abef1",
@@ -5633,6 +5666,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70b1/live/90d63660-bcbb-11f1-babe-4199b0e7ccea.jpg",
       "type": "article",
       "addedAt": "2026-10-07T17:30:27.895Z"
+    },
+    {
+      "id": "3ffdfeb97a49b606",
+      "guid": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo#3",
+      "link": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo",
+      "title": "Sign up now",
+      "excerpt": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
+      "published": "2026-09-09T10:24:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a71/live/3d86bbd0-c641-11f1-a64c-550be9e3c66b.png",
+      "type": "article",
+      "addedAt": "2026-10-14T08:43:32.002Z"
     }
   ]
 }
