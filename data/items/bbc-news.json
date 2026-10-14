@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "223e4b33c31ff3e1",
+      "guid": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "excerpt": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "published": "2026-10-14T20:17:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T20:42:14.857Z"
+    },
+    {
+      "id": "35d2ef9f276df665",
+      "guid": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "excerpt": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "published": "2026-10-14T19:52:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/109c/live/7b3da5c0-c807-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T20:42:14.857Z"
+    },
+    {
+      "id": "0a9bbe0df644ba77",
+      "guid": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po#2",
+      "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po",
+      "title": "What if you could turn off your algorithm? Australia is about to try",
+      "excerpt": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
+      "published": "2026-10-14T18:00:54.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/1c61d100-c7fa-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T20:42:14.857Z"
+    },
+    {
       "id": "16c1250c77d0702a",
       "guid": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo#4",
       "link": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo",

@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "66d066c2e9ec5d1e",
+      "guid": "https://globalnews.ca/?p=12102619",
+      "link": "https://globalnews.ca/news/12102619/albertas-referendum-draws-174k-ballots-advance-polls/",
+      "title": "Alberta’s referendum draws 174K ballots in the 1st day of advance polls",
+      "excerpt": "'When polling indicates that you’re on the winning side, complacency sets in. We saw that with Brexit, we saw that in elections,' Lukaszuk said.",
+      "published": "2026-10-14T20:41:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Alberta-vote-e1791825996408.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T20:42:14.857Z"
+    },
+    {
+      "id": "43576a51b5a0df93",
+      "guid": "https://globalnews.ca/?p=12102513",
+      "link": "https://globalnews.ca/news/12102513/new-brunswick-digtial-forestry-centre/",
+      "title": "AI-driven project to modernize New Brunswick forestry getting $50M boost from Ottawa",
+      "excerpt": "Ottawa is offering up to $50 million to help build a digital forestry centre to better manage the province's wood supply, in part with artificial intelligence.",
+      "published": "2026-10-14T20:19:53.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2018/12/logs2.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T20:42:14.857Z"
+    },
+    {
+      "id": "e3de946505d86144",
+      "guid": "https://globalnews.ca/?p=12102291",
+      "link": "https://globalnews.ca/news/12102291/kelly-clarkson-art-of-play-brooklyn-molly-bird-automaton/",
+      "title": "Kelly Clarkson says she got the ‘Pretty Woman’ treatment at Brooklyn store",
+      "excerpt": "'But y’all should go check out Art of Play in Brooklyn if you enjoy being treated like Julia Roberts character in 'Pretty Woman,'' Kelly Clarkson wrote after visiting the shop.",
+      "published": "2026-10-14T19:54:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/kelly-clarkson-brooklyn-shop-dispute.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T20:42:14.857Z"
+    },
+    {
+      "id": "81ad3b68305f0d5b",
+      "guid": "https://globalnews.ca/?p=12102385",
+      "link": "https://globalnews.ca/news/12102385/strait-of-hormuz-oil-market-forecast/",
+      "title": "Oil markets ‘far’ from normal even as some Strait of Hormuz issues ease: TD",
+      "excerpt": "The TD Bank report warns of the risk of further disruptions in the oil market supply chain 'remains materially higher than before the war.'",
+      "published": "2026-10-14T19:48:37.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Oil-barrel-Hormuz.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T20:42:14.857Z"
+    },
+    {
+      "id": "10412e370c0f4256",
+      "guid": "https://globalnews.ca/?p=12102293",
+      "link": "https://globalnews.ca/news/12102293/clavicular-accuser-drops-rape-accusations-in-civil-case/",
+      "title": "Clavicular rape accusations dropped in civil case amid criminal proceedings",
+      "excerpt": "Clavicular is charged with one count of rape, one count of drugging someone for sexual intercourse and one count of procuring alcohol for someone under the age of 21.",
+      "published": "2026-10-14T19:42:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/04/braden-peters-clavicular-mugshot.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T20:42:14.857Z"
+    },
+    {
       "id": "f8e653869e99948e",
       "guid": "https://globalnews.ca/?p=12102433",
       "link": "https://globalnews.ca/news/12102433/person-injured-tsawwassen-mills-crash-dies-injuries/",
