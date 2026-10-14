@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "a7632caf16a4605d",
+      "guid": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+      "excerpt": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
+      "published": "2026-10-14T17:29:14.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-14T17:41:53.426Z"
+    },
+    {
       "id": "fac7cd6e29f5b58e",
       "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
