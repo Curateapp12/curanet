@@ -3,6 +3,28 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "f8e653869e99948e",
+      "guid": "https://globalnews.ca/?p=12102433",
+      "link": "https://globalnews.ca/news/12102433/person-injured-tsawwassen-mills-crash-dies-injuries/",
+      "title": "Person injured in Tsawwassen Mills crash dies from her injuries",
+      "excerpt": "Based on the evidence reviewed to date, investigators have not identified evidence indicating that the collision was targeted or ideologically motivated.",
+      "published": "2026-10-14T19:42:08.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/IMG_4158.jpeg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T19:42:31.259Z"
+    },
+    {
+      "id": "d6b478b0c55c24f7",
+      "guid": "https://globalnews.ca/?p=12102462",
+      "link": "https://globalnews.ca/news/12102462/farm-boy-cheese-recall-listeria/",
+      "title": "Farm Boy cheeses, 2 other brands recalled for listeria risk across Canada",
+      "excerpt": "Health Canada issued a recall notice for various cheese products sold in stores across Canada for a risk of listeria contamination, which it says could cause illness if ingested",
+      "published": "2026-10-14T19:35:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Farm-Boy-Swiss.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T19:42:31.259Z"
+    },
+    {
       "id": "e4826910aaf1512b",
       "guid": "https://globalnews.ca/?p=12102504&preview=true&preview_id=12102504",
       "link": "https://globalnews.ca/news/12102504/emergency-backups-getting-2nd-crack-at-nhl-dream/",
