@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "dcc8c539f67e046d",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292694/toronto-piste-cyclable-bloor-ouest-manifestation",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292694/toronto-piste-cyclable-bloor-ouest-manifestation",
+      "title": "Des manifestants bloquent le démantèlement d’une piste cyclable à Toronto",
+      "excerpt": "« Ne vous méprenez pas : nous allons éliminer ces pistes cyclables », dit le ministre ontarien des Transports.",
+      "published": "2026-10-14T14:35:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/toronto-piste-cyclable-bloor-ouest.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "b1e37b8489785b5c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292585/poste-commandement-recherche-police-levis",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292585/poste-commandement-recherche-police-levis",
+      "title": "Des renforts déployés pour retrouver l’adolescent disparu à Lévis",
+      "excerpt": "Des agents de la Sûreté du Québec et des bénévoles sont mobilisés pour participer aux recherches.",
+      "published": "2026-10-14T14:23:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/poste-commandement-recherche-levis-police-adolescent.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "365d83674cb0f3d4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292718/inflation-etats-unis-acceleration-septembre-2026",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292718/inflation-etats-unis-acceleration-septembre-2026",
+      "title": "L’inflation est passée à 3,7 % aux États-Unis en septembre",
+      "excerpt": "La flambée des prix de l'énergie est en bonne partie responsable de la hausse des prix.",
+      "published": "2026-10-14T14:15:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/colonial-pipeline-penurie-essence.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "8ee42c0408d9896b",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292626/sentier-transcanadien-financement-federal",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292626/sentier-transcanadien-financement-federal",
+      "title": "Le Sentier Transcanadien réclame 55 millions $ à Ottawa pour entretenir son réseau",
+      "excerpt": "Selon une étude, près de 11 000 km du Sentier transcanadien pourraient se détériorer d'ici 2045.",
+      "published": "2026-10-14T12:53:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/sentier-transcanadien-30-ans.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
       "id": "6f3bcf166200e49c",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292699/boreal-thelyson-orelien-reaction",
       "link": "https://ici.radio-canada.ca/nouvelle/2292699/boreal-thelyson-orelien-reaction",
@@ -23,6 +67,28 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/felix-auger-aliassime-casper-ruud-shanghai.jpg",
       "type": "article",
       "addedAt": "2026-10-14T11:42:55.094Z"
+    },
+    {
+      "id": "f8287c186a9c45b4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292664/lnh-prioriser-environnement-classique-heritage",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292664/lnh-prioriser-environnement-classique-heritage",
+      "title": "À l’approche de la Classique Héritage, la LNH dit prioriser l’environnement",
+      "excerpt": "La LNH dit avoir à cœur l'environnement, même si son unique match extérieur demande beaucoup de ressources.",
+      "published": "2026-10-14T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/preparation-classique-heritage-winnipeg-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "2028c907bbb68e3a",
+      "guid": "https://ici.radio-canada.ca/info/long-format/2292637/remorqueurs-groupe-ocean-sept-iles-photos",
+      "link": "https://ici.radio-canada.ca/info/long-format/2292637/remorqueurs-groupe-ocean-sept-iles-photos",
+      "title": "Dans le sillage des remorqueurs de la baie de Sept-Îles",
+      "excerpt": "Les remorqueurs du Groupe Océan effectuent jusqu'à 1200 manœuvres par an pour faire accoster les vraquiers.",
+      "published": "2026-10-14T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/remorqueurs-groupe-ocean-sept-iles.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
     },
     {
       "id": "43ebaba0282b71db",

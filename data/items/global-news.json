@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "a11f8bd706feb736",
+      "guid": "https://globalnews.ca/?p=12102002",
+      "link": "https://globalnews.ca/news/12102002/missing-dog-yellowstone/",
+      "title": "Search for dog still missing in Yellowstone pressured as winter approaches",
+      "excerpt": "A small dog that's been on the loose in Yellowstone National Park for a month has been spotted crossing intersections, strolling through employee housing and entering lodges.",
+      "published": "2026-10-14T14:35:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP149216571-e1791988119859.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "c0ca16af5e6dfa86",
+      "guid": "https://globalnews.ca/?p=12101894",
+      "link": "https://globalnews.ca/news/12101894/housing-market-multigenerational-homes/",
+      "title": "A tough housing market could revive multigenerational homes, poll suggests",
+      "excerpt": "More than half (53 per cent) of respondents looking to buy a home within the next two years said they would consider living in a multi-generational home, a new poll said.",
+      "published": "2026-10-14T14:30:42.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/RBC-homeownership-poll.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "f7df3b70ad9946c8",
+      "guid": "https://globalnews.ca/?p=12101943",
+      "link": "https://globalnews.ca/news/12101943/katie-zacharia-white-house-press-secretary/",
+      "title": "Katie Zacharia makes her debut as White House press secretary",
+      "excerpt": "In her first briefing Zacharia read directly from a script. She paused and grinned when she uttered the words “Department of War\" and mixed up the words “husband” and “president.”",
+      "published": "2026-10-14T14:29:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Katie-Zacharia-new-White-House-Press-Secretary.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "68c22ca4145a41ca",
+      "guid": "https://globalnews.ca/?p=12101939",
+      "link": "https://globalnews.ca/news/12101939/joni-mitchell-becomes-u-s-citizen/",
+      "title": "Canadian musician Joni Mitchell becomes U.S. citizen",
+      "excerpt": "'A journey that began 62 years ago,' Canadian folk legend Joni Mitchell captioned an Instagram post, while holding an American flag.",
+      "published": "2026-10-14T14:29:25.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/joni-mitchell-us-citizen.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "ff55070de79d5a61",
+      "guid": "https://globalnews.ca/?p=12101951",
+      "link": "https://globalnews.ca/news/12101951/record-lotto-max-jackpot-draw/",
+      "title": "Lotto Max hits $90M, biggest lottery prize in Canadian history",
+      "excerpt": "There were a number of winners of Maxmillions, Maxplus and Encore in Tuesday's draw, but no one has yet to snag the big Lotto Max jackpot.",
+      "published": "2026-10-14T14:26:25.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2024/12/Lotto-Max.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "648b66ebdb0cbecc",
+      "guid": "https://globalnews.ca/?p=12101977",
+      "link": "https://globalnews.ca/news/12101977/russia-ukraine-energy-strikes/",
+      "title": "Russia targeting energy sites despite Trump’s ceasefire, Ukraine says",
+      "excerpt": "Ukrainian President Volodymyr Zelenskyy voiced outrage Wednesday over Russia’s continuing aerial bombardment of Ukraine’s energy infrastructure in apparent defiance of a ceasefire.",
+      "published": "2026-10-14T14:10:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP177086698-e1791986862112.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "67ffd3fcd1db9a72",
+      "guid": "https://globalnews.ca/?p=12101985",
+      "link": "https://globalnews.ca/news/12101985/rogue-ai-models-self-replicate-anthropic/",
+      "title": "Rogue AI models could self-replicate in your smart ovens or TVs: Anthropic",
+      "excerpt": "The report adds to broader concerns about the security risks tied to increasingly capable AI systems, including their potential to automate cyberattacks.",
+      "published": "2026-10-14T14:06:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Smart-TV-AI-1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
       "id": "4c0f63c0649e13e5",
       "guid": "https://globalnews.ca/?p=12101916",
       "link": "https://globalnews.ca/news/12101916/toronto-police-canadian-soldiers-charges/",

@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "6dd74a9046138764",
+      "guid": "6bf54b37-2130-4eac-ad85-3bbddc00ef3e",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
+      "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
+      "excerpt": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
+      "published": "2026-10-14T14:31:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5143a525-21e5-46df-9fa5-5dbc12418a09/AAABoTp-FG4/AAABnSSvrFg/16x9-big/iwf-176.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "038815d8193db1bc",
+      "guid": "tagesschau_fm-story-WDR-a03abc30-56b0-4e01-b86a-4631572a979c",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
+      "title": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
+      "excerpt": "In Essen sollen zwei Männer JVA-Beamte überwältigt und einen Häftling während eines Arztbesuches zur Flucht verholfen haben. Die Polizei ist im Großeinsatz und warnt, die Männer könnten bewaffnet sein.",
+      "published": "2026-10-14T14:25:41.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/62720308-0609-4a5b-8939-b309e19e177a/AAABoTrDW9s/AAABnSSvrFg/16x9-big/wdr-die-polizei-sucht-in-der-essener-innenstadt-nach-dem-fluechtigen-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "923ff88fb5623f57",
+      "guid": "fda45ddb-48fb-4bdd-8885-6f3e9b9c6734",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-neue-flut-waehrend-des-wiederaufbaus-100.html",
+      "title": "Nepal: Erneut schwere Überschwemmungen nach Unwettern",
+      "excerpt": "Erst vor wenigen Wochen erlebte Nepal eine verheerende Flutkatastrophe. Jetzt hat eine neue Flutwelle Häuser und Brücken mitgerissen. Rettungskräfte suchen nach Vermissten, ob es Tote gibt, ist bislang noch unklar. Von Bo Hyun Kim.",
+      "published": "2026-10-14T14:18:13.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a4a3a8a6-ae9d-45d3-92a8-7532d8adb87d/AAABoTqc-yg/AAABnSSvrFg/16x9-big/erdrutsch-nepal-138.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
+      "id": "6d521e105afd39d1",
+      "guid": "d6d8bce9-2585-4262-8748-12b89b034dde",
+      "link": "https://www.tagesschau.de/ausland/europa/haushalt-frankreich-102.html",
+      "title": "Haushaltsdebatte in Frankreich: Die politische Quadratur des Kreises",
+      "excerpt": "In Frankreich haben die Beratungen über den Haushalt begonnen. Angesichts hoher Schulden will Finanzminister Lescure deutlich sparen. Aber die Regierung hat keine eigene Mehrheit - und stößt auf Widerstand. Von C. Dylla.",
+      "published": "2026-10-14T14:17:03.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3d8f194c-01c7-4071-8dcb-dc72a018707a/AAABoTrGGRI/AAABnSSvrFg/16x9-big/parlament-frankreich-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T14:41:56.384Z"
+    },
+    {
       "id": "370c486f0ddf9c09",
       "guid": "0973c9a0-cc6e-4599-b2c7-6cc35b91bc87",
       "link": "https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html",
