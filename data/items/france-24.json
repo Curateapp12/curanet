@@ -3,6 +3,61 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "49e7436669077292",
+      "guid": "e7789cd0-c81c-11f1-acd2-31ecc3d59c7e",
+      "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261014-elon-musk-peut-il-paralyser-l-arm%C3%A9e-ukrainienne",
+      "title": "Elon Musk peut-il paralyser l'armée ukrainienne ?",
+      "excerpt": "C'est un réseau invisible mais devenu indispensable à l'armée ukrainienne. Dans la nuit de mardi à mercredi, certaines connexions Starlink ont été restreintes, perturbant plusieurs missions de drones ukrainiens. Derrière cette technologie, il y a SpaceX, l'entreprise américaine du milliardaire…",
+      "published": "2026-10-14T22:16:28.000Z",
+      "thumbnail": "https://s.france24.com/media/display/4391820e-c81b-11f1-a7a6-2d1c143cdef3/w:1024/p:16x9/FRAN261014-2339-Live-CS2339.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T22:39:33.939Z"
+    },
+    {
+      "id": "942c4c17ba6eaff2",
+      "guid": "a23291e6-c81a-11f1-9272-0b49e14daa0c",
+      "link": "https://www.france24.com/fr/asie-pacifique/20261014-pyongyang-coree-nord-procede-essais-tir-de-missiles-croisiere-depuis-sous-marins-kcna-kim-jong-un-mer-japon",
+      "title": "Pyongyang procède à des essais de tir de missiles de croisière depuis des sous-marins, dit KCNA",
+      "excerpt": "Des missiles de croisière stratégiques ont été tirés depuis des sous-marins par la Corée du Nord, mercredi en direction de la mer du Japon, a annoncé jeudi KCNA. Ces essais n'ont pas eu d'\"impact négatif sur la sécurité des pays voisins\", précise l'agence officielle.",
+      "published": "2026-10-14T22:15:53.000Z",
+      "thumbnail": "https://s.france24.com/media/display/6cdbe0a4-c81c-11f1-9f21-2d1c143cdef3/w:1024/p:16x9/2026-10-14T220456Z-1512815080-RC293OA83D0C-RTRMADP-3-NORTHKOREA-MISSILES.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T22:39:33.939Z"
+    },
+    {
+      "id": "2127bb5eb6c2637f",
+      "guid": "8487200a-c813-11f1-85d7-0bf2451fa3e7",
+      "link": "https://www.france24.com/fr/sports/20261014-ligue-champions-psg-remporte-nouveau-choc-europeen-face-manchester-city-fc-barcelone-football-desire-doue-ousmane-dembele-vitinha",
+      "title": "Ligue des champions : le PSG remporte un nouveau choc européen face à Manchester City",
+      "excerpt": "Au terme d'une rencontre haletante, le Paris SG s'est imposé à Manchester City (4-2), mercredi lors de la deuxième journée de Ligue des champions. Les doubles champions d'Europe accueilleront mardi prochain le Barça, vainqueur de tous ses matchs depuis le début de saison toutes compétitions…",
+      "published": "2026-10-14T21:43:50.000Z",
+      "thumbnail": "https://s.france24.com/media/display/3b5e936e-c817-11f1-ab9c-d1d2c32ebb87/w:1024/p:16x9/2026-10-14T192325Z-1970960909-UP1EMAE1HROMZ-RTRMADP-3-SOCCER-CHAMPIONS-MCI-PSG.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T22:39:33.939Z"
+    },
+    {
+      "id": "987037fbb99d76e6",
+      "guid": "59af3d88-c811-11f1-80ac-b3491a10e8e5",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261014-gazole-russe-aux-etats-unis-les-livraisons-n-ont-pas-commenc%C3%A9",
+      "title": "Gazole russe aux Etats-Unis : déjà des livraisons ?",
+      "excerpt": "Dans la foulée de l'accord avec Vladimir Poutine annoncé par Donald Trump pour importer du gazole russe, des comptes pro-russes ont affirmé que les livraisons avaient déjà commencé. Elles prennent le cas d'un navire qui a quitté Saint-Pétersbourg pour Wilmington. Qu'en est-il ?",
+      "published": "2026-10-14T21:02:08.000Z",
+      "thumbnail": "https://s.france24.com/media/display/4afc8d18-c811-11f1-8f0b-d1d2c32ebb87/w:1024/p:16x9/FRAN261014-2115-Live-CS2115.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T22:39:33.939Z"
+    },
+    {
+      "id": "c78ef384d442a278",
+      "guid": "d451a98c-c80b-11f1-aa5e-bd011f494216",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261014-ebola-le-kenya-annonce-un-deuxi%C3%A8me-cas-mais-aucune-propagation-%C3%A0-grande-%C3%A9chelle",
+      "title": "Ebola : le Kenya annonce un deuxième cas, mais \"aucune propagation\" à grande échelle",
+      "excerpt": "Au Kenya, le ministère de la santé vient de l’annoncer ce mercredi soir : il y a une deuxième cas d’Ebola dans le pays, et cette fois-ci il ne s’agit pas d’une personne ayant voyagé. Depuis une semaine les autorités sanitaires travaillent d’arrache pied pour éviter qu’une épidémie ne se déclenche…",
+      "published": "2026-10-14T20:22:17.000Z",
+      "thumbnail": "https://s.france24.com/media/display/e889e648-c80c-11f1-8fd2-4dd8ac2cf3bf/w:1024/p:16x9/capture-14c3e171-1.png",
+      "type": "article",
+      "addedAt": "2026-10-14T22:39:33.939Z"
+    },
+    {
       "id": "464631ba15ea2334",
       "guid": "7889f82a-c806-11f1-845c-2f01ed65c37b",
       "link": "https://www.france24.com/fr/europe/20261014-depuis-londres-zelensky-exprime-son-amertume-apr%C3%A8s-avoir-%C3%A9t%C3%A9-trahi-par-trump-et-musk",
