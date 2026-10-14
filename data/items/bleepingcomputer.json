@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "0602ed16425a9a84",
+      "guid": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "excerpt": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+      "published": "2026-10-14T11:41:20.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-14T11:42:55.094Z"
+    },
+    {
+      "id": "0aa13b1d83699b9d",
+      "guid": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "excerpt": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+      "published": "2026-10-14T10:48:09.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-14T11:42:55.094Z"
+    },
+    {
       "id": "ff21bb8aab0186af",
       "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",

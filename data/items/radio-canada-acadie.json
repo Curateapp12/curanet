@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "b8f11ef82f2867c3",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10783241/telejournal-acadie-13-octobre",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10783241/telejournal-acadie-13-octobre",
+      "title": "Le téléjournal Acadie du 13 octobre",
+      "excerpt": "Un homme accusé de meurtre à l’Î.-P.-É. ne subira pas de procès, Ottawa prête 219 M $ pour la réfection du barrage de Mactaquac et un médecin prend le volant et rejoint ses patients pour briser les inégalités d'accès aux soins.",
+      "published": "2026-10-14T11:22:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/telejournal-acadie-margaud-castadere-13-octobre.png",
+      "type": "article",
+      "addedAt": "2026-10-14T11:42:55.094Z"
+    },
+    {
+      "id": "68e667586ed08079",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10783225/une-neo-brunswickoise-demande-reconnaissance-deuil-perinatal-precoce",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10783225/une-neo-brunswickoise-demande-reconnaissance-deuil-perinatal-precoce",
+      "title": "Une Néo-Brunswickoise demande la reconnaissance du deuil périnatal précoce",
+      "excerpt": "En cette Journée de sensibilisation au deuil périnatal, Allison Roy lance un appel à un meilleur soutien dans ce deuil. Nouemsi Njiké l’a rencontrée.",
+      "published": "2026-10-14T11:07:25.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/b70ebfbc-87a2-4ac4-884d-921d9cf7910e/HR/2026-1013-1160_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-14T11:42:55.094Z"
+    },
+    {
       "id": "05d77ac20a069295",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292539/initiation-hockey-victimes-agression",
       "link": "https://ici.radio-canada.ca/nouvelle/2292539/initiation-hockey-victimes-agression",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/hockey-87058.jpg",
       "type": "article",
       "addedAt": "2026-10-14T09:42:10.099Z"
+    },
+    {
+      "id": "99ab24241ffa4a05",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10783071/pourquoi-connexion-cellulaire-est-si-difficile-a-capter-au-nouveau-brunswick",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10783071/pourquoi-connexion-cellulaire-est-si-difficile-a-capter-au-nouveau-brunswick",
+      "title": "Pourquoi la connexion cellulaire est si difficile à capter au Nouveau-Brunswick?",
+      "excerpt": "Pourquoi c’est si compliqué d’avoir une bonne connexion cellulaire au Nouveau-Brunswick? On vous explique les défis des tours et de la 5G.",
+      "published": "2026-10-14T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/vignette-cellulaire-tour-probleme-connexion-reseau-nouveau-brunswick.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T11:42:55.094Z"
     },
     {
       "id": "83f9de37b61658ea",
