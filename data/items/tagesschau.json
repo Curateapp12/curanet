@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "6bd4dee2836b43d0",
+      "guid": "b7352782-529d-4cfa-b2d7-a64ba26be320",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
+      "title": "Einigung in der Koalition: So soll die Zuckersteuer aussehen",
+      "excerpt": "Der Streit in der schwarz-roten Koalition über die Steuer auf zuckergesüßte Getränke ist beigelegt. Das Kabinett hat einen Regelungsvorschlag beschlossen. Was geplant ist und was die Regierung damit erreichen will.",
+      "published": "2026-10-14T10:32:28.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/06101728-7650-439e-b730-871770edf9ba/AAABndgM06Q/AAABnSSvrFg/16x9-big/kiosk-zucker-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T10:43:08.235Z"
+    },
+    {
+      "id": "b0fa76cdd319b84d",
+      "guid": "e87b1648-cd91-4a29-91d7-b1c0cb45fb40",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-handelsueberschuss-100.html",
+      "title": "Chinas Handelsüberschuss nähert sich der Billionen-Dollar-Marke",
+      "excerpt": "Chinas Exporte sind im September überraschend stark gestiegen. Der Handelsüberschuss der Volksrepublik nähert sich einem Rekordwert. Vor allem Halbleiter und Autos treiben das Wachstum an.",
+      "published": "2026-10-14T10:24:16.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/56af497a-b8ea-4634-9893-b8215461e3ae/AAABoTl9lOI/AAABnSSvrFg/16x9-big/china-1324.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T10:43:08.235Z"
+    },
+    {
+      "id": "427ba8afa3578abe",
+      "guid": "4ed153a2-fe30-46ee-b22a-3ac23450d55a",
+      "link": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html",
+      "title": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
+      "excerpt": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können.",
+      "published": "2026-10-14T09:48:39.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3ea5770a-cfd1-4128-b9dc-b888f4f662c3/AAABoTnQXe8/AAABnSSvrFg/16x9-big/rene-benko-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T10:43:08.235Z"
+    },
+    {
       "id": "43500eaa9b85a4b8",
       "guid": "31b7f153-f18f-45e6-a2ef-63140e3bed55",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ilhan-omar-100.html",
