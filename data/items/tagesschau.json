@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "370c486f0ddf9c09",
+      "guid": "0973c9a0-cc6e-4599-b2c7-6cc35b91bc87",
+      "link": "https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html",
+      "title": "Studentenproteste in albanischer Hauptstadt Tirana eskalieren",
+      "excerpt": "Die albanische Hauptstadt Tirana ist erneut Schauplatz von gewaltsamen Protesten geworden. Neben Studenten demonstrierten auch andere Kritiker der Regierung von Premier Rama. Zahlreiche Menschen wurden festgenommen.",
+      "published": "2026-10-14T13:14:44.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0143876e-0154-4550-90e6-75836841029d/AAABoTp6gDk/AAABnSSvrFg/16x9-big/tirana-proteste-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
+      "id": "aa99eaddcbdbab2b",
+      "guid": "d2f3be25-1448-4ec8-9a13-eb774029f168",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
+      "title": "Marktbericht: Europa wertvollster Konzern ASML macht KI-Boom möglich",
+      "excerpt": "Ob Samsung, Apple oder Nvidia: Alle großen Chiphersteller sind Kunden bei ASML. Dessen Maschinen zur Produktion von Halbleitern machen den KI-Boom erst möglich - und die Aktie zur wertvollsten in Europa.",
+      "published": "2026-10-14T13:14:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1dfb91a9-6219-4894-ac5c-8948454d68bb/AAABoTqDIcY/AAABnSSvrFg/16x9-big/asml-110.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
+      "id": "f91723b96dc4c0c3",
+      "guid": "c2652adc-bc1b-446c-bcd9-b02e1258387b",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/foerdertopf-ausreisen-abgelehnte-asylbewerber-100.html",
+      "title": "Trotz Warnungen: EU-Fördertopf für freiwillige Ausreisen ist leer",
+      "excerpt": "Finanzielle Hilfe gilt als ein Schlüssel, damit abgelehnte Asylbewerber in ihre Herkunftsländer zurückkehren. Doch nach Informationen von WDR und NDR ist einer der wichtigsten Fördertöpfe jetzt leer.",
+      "published": "2026-10-14T13:00:31.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b517ed77-b2b9-4256-912e-9a8960660976/AAABoTnHEi8/AAABnSSvrFg/16x9-big/flughafen-anzeigetafel-passagiere-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
+      "id": "5a3a302ad5b7227a",
+      "guid": "5c3e3678-a003-4c8a-98ac-f92e558d0c25",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
+      "title": "Pflegekommission eingesetzt: Was Experten jetzt klären sollen",
+      "excerpt": "Die Bundesregierung hat sich auf die Einsetzung der Pflegestrukturkommission geeinigt. Sie soll Lösungen für eine große Reform finden. Im Zentrum stehen Eigenanteile, sozialer Ausgleich und die langfristige Finanzierung. Von Ilanit Spinner.",
+      "published": "2026-10-14T12:55:39.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6192713a-9dc8-49c8-acff-3c41ee298bc2/AAABoToJay0/AAABnSSvrFg/16x9-big/pflege-krankenhaus-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
+      "id": "867e2d29baa8557a",
+      "guid": "bf3fded0-efdf-4a73-9868-3c3eaee1b8be",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-tap-lufthansa-100.html",
+      "title": "Portugal erlaubt Einstieg der Lufthansa bei staatlicher Airline TAP",
+      "excerpt": "Die portugiesische Regierung treibt die Teilprivatisierung der verstaatlichten Fluggesellschaft TAP voran. Im Kampf um 44,9 Prozent der Anteile setzte sich die Lufthansa gegen Air France-KLM durch. Der Einstieg dauert aber noch.",
+      "published": "2026-10-14T12:53:13.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3a3dd043-955d-4fb1-93a1-fde01137f5ce/AAABoTpTvGE/AAABnSSvrFg/16x9-big/flugzeug-tap-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
       "id": "a31d4115c5389c3e",
       "guid": "8dfe8746-db68-49c8-b416-2d6286d3f72c",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-beschluss-jugendschutz-social-media-100.html",

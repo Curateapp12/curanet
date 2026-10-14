@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "91795601b1ffd249",
+      "guid": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "title": "Global takedown hits network behind 1 billion phishing messages",
+      "excerpt": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
+      "published": "2026-10-14T13:12:52.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
+      "id": "835a57efab96f424",
+      "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+      "published": "2026-10-14T12:58:07.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
       "id": "0602ed16425a9a84",
       "guid": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
       "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",

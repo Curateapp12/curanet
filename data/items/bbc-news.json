@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "040ccce204530648",
+      "guid": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o",
+      "title": "Russell Brand was a 'sexual predator', says prosecution as rape trial begins",
+      "excerpt": "The comedian and actor faces charges including rape and sexual assault, which he denies.",
+      "published": "2026-10-14T13:42:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a64/live/28983df0-c7b5-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
+      "id": "4c87d88682370250",
+      "guid": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
+      "title": "US inflation rises more than expected ahead of midterm elections",
+      "excerpt": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "published": "2026-10-14T13:40:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
+      "id": "7e7027ddb7cf7432",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo",
+      "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
+      "excerpt": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
+      "published": "2026-10-14T13:25:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c7/live/eb28dd30-c7c3-11f1-993a-152cbb068da1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
+      "id": "27ed1086c1a85aa0",
+      "guid": "https://www.bbc.co.uk/news/articles/c3vgx720r577o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgx720r577o",
+      "title": "'Dark day for Lewis' as one fisherman dead and two missing",
+      "excerpt": "The alarm was raised after the men's fishing boat failed to return as planned to Lewis.",
+      "published": "2026-10-14T12:25:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e1/live/d923cd50-c7bb-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
+    },
+    {
       "id": "edb5a0ef1093f691",
       "guid": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo#2",
       "link": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo",
@@ -12,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8044/live/25c10ed0-c7c5-11f1-993a-152cbb068da1.jpg",
       "type": "article",
       "addedAt": "2026-10-14T12:50:28.211Z"
+    },
+    {
+      "id": "4fcee18c96da072e",
+      "guid": "https://www.bbc.co.uk/news/articles/c3x2we8yjj1go#4",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2we8yjj1go",
+      "title": "Hidden video recording device found in cabin of Australian navy ship",
+      "excerpt": "Australia's military confirms the device had been discovered, after a senator reports being contacted with allegations of concealed cameras on the ship.",
+      "published": "2026-10-14T12:20:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d7/live/942bfe50-c7c2-11f1-993a-152cbb068da1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T13:46:14.403Z"
     },
     {
       "id": "69617cfc65b35ee2",
