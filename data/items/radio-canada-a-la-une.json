@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "972a354f537c04a8",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292704/pape-leon-xiv-convalescence-poumon",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292704/pape-leon-xiv-convalescence-poumon",
+      "title": "Le pape entame sa convalescence dans l’incertitude après le retrait d’un nodule cancéreux",
+      "excerpt": "Des examens complémentaires sont en cours pour détecter d'éventuels signes de propagation du cancer.",
+      "published": "2026-10-14T15:21:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pape-leon-xiv-operation-poumon-12850.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T15:47:21.226Z"
+    },
+    {
+      "id": "4856b31ca5acb8bd",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292739/luciano-frattolin-prison-vie-meurtre-melina-fille-new-york",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292739/luciano-frattolin-prison-vie-meurtre-melina-fille-new-york",
+      "title": "Luciano Frattolin condamné aux États-Unis à la prison à vie pour avoir tué sa fille",
+      "excerpt": "Il purgera aussi d’un à trois ans de prison, de façon consécutive, pour avoir dissimulé le corps de sa fille.",
+      "published": "2026-10-14T15:10:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/luciano-frattolin-proces-new-york-melina.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T15:47:21.226Z"
+    },
+    {
       "id": "dcc8c539f67e046d",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292694/toronto-piste-cyclable-bloor-ouest-manifestation",
       "link": "https://ici.radio-canada.ca/nouvelle/2292694/toronto-piste-cyclable-bloor-ouest-manifestation",
@@ -56,6 +78,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/thelyson-orelien-8466.jpg",
       "type": "article",
       "addedAt": "2026-10-14T12:50:28.211Z"
+    },
+    {
+      "id": "0c32ed895d17a253",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292634/crime-negligence-mere-emacie-ottawa",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292634/crime-negligence-mere-emacie-ottawa",
+      "title": "L’école sonne l’alerte et sauve un jeune « à deux doigts de la mort »",
+      "excerpt": "Sa mère plaide coupable et écope de 9 ans de prison pour négligence criminelle.",
+      "published": "2026-10-14T12:15:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/palais-justice-ottawa-emacie-alite.png",
+      "type": "article",
+      "addedAt": "2026-10-14T15:47:21.226Z"
     },
     {
       "id": "e50ac5b65aa026d7",
