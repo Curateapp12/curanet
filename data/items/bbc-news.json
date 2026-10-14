@@ -3,6 +3,83 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "6a728affe9be8377",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go",
+      "title": "Our memorial garden helps us grieve - a cemetery felt too far away",
+      "excerpt": "Emma Moore shares how creating a special place at home has helped her family.",
+      "published": "2026-10-14T00:06:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f2/live/acc20ab0-c6ee-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T00:52:16.710Z"
+    },
+    {
+      "id": "66329a245c5441a8",
+      "guid": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o#1",
+      "link": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o",
+      "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+      "excerpt": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
+      "published": "2026-10-13T23:55:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T00:52:16.710Z"
+    },
+    {
+      "id": "0bdabc4337ffb9db",
+      "guid": "https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o#4",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o",
+      "title": "Robot seized by German police after allegedly groping teenage girl",
+      "excerpt": "Police have launched an investigation on suspicion of sexual harassment after the robot's owner, 16, and his companion are said to have streamed the incident.",
+      "published": "2026-10-13T23:50:23.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8156/live/62cbcee0-c749-11f1-b4d5-87f9c6c95a29.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T00:52:16.710Z"
+    },
+    {
+      "id": "2e40a7030ca678b3",
+      "guid": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "excerpt": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "published": "2026-10-13T23:42:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8583/live/42414480-c72f-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T00:52:16.710Z"
+    },
+    {
+      "id": "d7c869d94b19e8d0",
+      "guid": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o",
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "excerpt": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
+      "published": "2026-10-13T23:26:54.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39ef/live/bdb3fce0-c6f6-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T00:52:16.710Z"
+    },
+    {
+      "id": "cdcfdccb98321a00",
+      "guid": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo#2",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo",
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "excerpt": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "published": "2026-10-13T23:04:39.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T00:52:16.710Z"
+    },
+    {
+      "id": "6de63423a5570dc9",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o",
+      "title": "Royal Mail losing 400 postal workers a week, says union",
+      "excerpt": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+      "published": "2026-10-13T23:03:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6236/live/4d710eb0-c71d-11f1-a82f-35874a3aae81.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T00:52:16.710Z"
+    },
+    {
       "id": "90f0c0010a370cb9",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko",
@@ -12,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0cddb1d0-c751-11f1-b4d5-87f9c6c95a29.jpg",
       "type": "article",
       "addedAt": "2026-10-13T23:37:26.524Z"
+    },
+    {
+      "id": "e8a21de2d7d39027",
+      "guid": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo",
+      "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
+      "excerpt": "The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.",
+      "published": "2026-10-13T22:59:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1604/live/01ecf900-c74e-11f1-b4d5-87f9c6c95a29.jpg",
+      "type": "article",
+      "addedAt": "2026-10-14T00:52:16.710Z"
     },
     {
       "id": "46f30fd2afcef0a4",
