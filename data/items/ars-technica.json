@@ -3,6 +3,50 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "0b391494f3723eea",
+      "guid": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+      "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+      "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+      "excerpt": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
+      "published": "2026-10-15T16:57:24.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/53194639182_2982a6d6de_h-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T17:39:14.198Z"
+    },
+    {
+      "id": "1cc24ddce8a425aa",
+      "guid": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "excerpt": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "published": "2026-10-15T15:43:24.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2277824748-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T17:39:14.198Z"
+    },
+    {
+      "id": "a112a9fc3278612d",
+      "guid": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+      "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "excerpt": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
+      "published": "2026-10-15T15:12:58.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/youtube-music-gen-ai-labels-fill2-1152x648.png",
+      "type": "article",
+      "addedAt": "2026-10-15T17:39:14.198Z"
+    },
+    {
+      "id": "78ecdcfafc2b9a76",
+      "guid": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+      "link": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+      "title": "Rewilding could help vulnerable islands keep pace with rising seas",
+      "excerpt": "Seabirds, native plants, and healthy reefs can help atolls build as seas rise.",
+      "published": "2026-10-15T15:05:40.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/researchersatoll-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T17:39:14.198Z"
+    },
+    {
       "id": "e0c7d4aa37e1b26a",
       "guid": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
       "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",

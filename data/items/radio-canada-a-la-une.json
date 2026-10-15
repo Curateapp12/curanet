@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "03ba00d194f97f05",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293003/torture-maduro-femme-plaident-non-coupable-tribunal-new-york",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293003/torture-maduro-femme-plaident-non-coupable-tribunal-new-york",
+      "title": "Maduro et sa femme plaident non coupables à des accusations de torture, à New York",
+      "excerpt": "Le couple est accusé d'avoir conspiré pour commettre des actes de torture contre des opposants politiques.",
+      "published": "2026-10-15T17:19:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/new-york-proces-maduro.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T17:39:14.198Z"
+    },
+    {
+      "id": "1c63d9988f830e09",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292991/syrie-arrestation-principal-suspect-massacres-guerre-civile",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292991/syrie-arrestation-principal-suspect-massacres-guerre-civile",
+      "title": "Syrie : arrestation du principal suspect d’un des pires massacres de la guerre civile",
+      "excerpt": "Ali Kayali, connu sous le nom de Mihrac Ural, tentait de fuir le pays, a annoncé l'agence officielle Sana.",
+      "published": "2026-10-15T17:08:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mazhar-alwais.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T17:39:14.198Z"
+    },
+    {
+      "id": "4e84527cc0313b9f",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292967/pont-honore-mercier-travaux-traffic",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292967/pont-honore-mercier-travaux-traffic",
+      "title": "Un nouveau pont Honoré-Mercier réclamé par des maires de la Rive-Sud",
+      "excerpt": "Selon le maire de Delson, les travaux de réparation de la structure vieillissante ne suffisent plus.",
+      "published": "2026-10-15T16:18:59.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/fermeture-dune-voie-sur-la-partie-centrale-vers-mtl-du-pont-honore-mercier-la-fermeture-a-cause-un-embouteillage-monstre-sur-la-rive-sud-sur-la-photo-congestion-monstre-ce-matin-photo-prise-a-pr-26367.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T17:39:14.198Z"
+    },
+    {
       "id": "384f2b0ab4702e80",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292970/interdiction-plastiques-usage-unique-examinee-cour-supreme",
       "link": "https://ici.radio-canada.ca/nouvelle/2292970/interdiction-plastiques-usage-unique-examinee-cour-supreme",
@@ -12,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/plastique-usage-unique-feuvert.jpg",
       "type": "article",
       "addedAt": "2026-10-15T16:43:23.374Z"
+    },
+    {
+      "id": "3513e6163b15e737",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292976/bbq-quebec-fermeture-magasins",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292976/bbq-quebec-fermeture-magasins",
+      "title": "BBQ Québec ferme temporairement ses succursales et sa boutique en ligne",
+      "excerpt": "BBQ Québec dit être en discussion avec des investisseurs pour la restructuration de l'entreprise.",
+      "published": "2026-10-15T15:28:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/max-lavoie-president-et-fondateur-de-bbq-quebec.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T17:39:14.198Z"
     },
     {
       "id": "e3c0e1fc49ac8749",
@@ -34,6 +78,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/donald-trump-44127.jpg",
       "type": "article",
       "addedAt": "2026-10-15T15:44:51.292Z"
+    },
+    {
+      "id": "7965d33a2b46ea3e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292951/quart-montrealais-pauvrete-etude-inrs",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292951/quart-montrealais-pauvrete-etude-inrs",
+      "title": "Le quart des Montréalais a vécu la pauvreté dans les dernières années",
+      "excerpt": "L’étude de l’Institut national de la recherche scientifique a été commandée par Centraide du Grand Montréal.",
+      "published": "2026-10-15T14:26:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mendiant-itinerance-economie-montreal-pauvrete.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T17:39:14.198Z"
     },
     {
       "id": "f56dc3c8ab4fb78a",
