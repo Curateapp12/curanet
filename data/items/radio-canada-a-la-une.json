@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "ca923ddb12b7e711",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293130/fusillade-primaire-oregon-etats-unis",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293130/fusillade-primaire-oregon-etats-unis",
+      "title": "Un tireur fait « plusieurs victimes » dans une école primaire de l’Oregon, aux États-Unis",
+      "excerpt": "Le tireur a été abattu.",
+      "published": "2026-10-15T22:06:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/crime-law-enforcement-23903.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T22:40:04.542Z"
+    },
+    {
+      "id": "d204b621e161a6a5",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293111/albanie-violences-manifestants-policiers",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293111/albanie-violences-manifestants-policiers",
+      "title": "Nouvelles violences entre policiers et manifestants en Albanie",
+      "excerpt": "Le premier ministre, Edi Rama, a condamné le « chaos » provoqué, selon lui, par l'opposition.",
+      "published": "2026-10-15T21:38:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/albanie-manifestations-violence.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T22:40:04.542Z"
+    },
+    {
+      "id": "8c6ba61aa84ea9fd",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293116/liberal-poissons-hydro-quebec-barrages",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293116/liberal-poissons-hydro-quebec-barrages",
+      "title": "Normes sur les barrages : des « zones d’ombre », reconnaît le ministre Joël Lightbound",
+      "excerpt": "Les nouvelles normes de protection des poissons pourraient avoir des impacts financiers sur les barrages.",
+      "published": "2026-10-15T21:38:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rio-tinto-isle-maligne-turbine-34910.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T22:40:04.542Z"
+    },
+    {
       "id": "7cb553d1d753e30f",
       "guid": "https://ici.radio-canada.ca/nouvelle/2293078/accident-autobus-calgary-morts",
       "link": "https://ici.radio-canada.ca/nouvelle/2293078/accident-autobus-calgary-morts",
@@ -12,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/accident-autobus-calgary.jpeg",
       "type": "article",
       "addedAt": "2026-10-15T21:41:57.447Z"
+    },
+    {
+      "id": "cccf96669e38c235",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293058/mark-carney-alberta-referendum",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293058/mark-carney-alberta-referendum",
+      "title": "Mark Carney veut que l’Alberta reste au Canada, mais s’oppose aux 9 autres questions",
+      "excerpt": "Le premier ministre est à Calgary jeudi, et il se rendra à Red Deer et à Edmonton vendredi.",
+      "published": "2026-10-15T21:14:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-calgary-alberta-referendum.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T22:40:04.542Z"
     },
     {
       "id": "d3c35aa9de8e08c5",

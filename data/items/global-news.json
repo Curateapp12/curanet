@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "c6a8c145d61d1359",
+      "guid": "https://globalnews.ca/?p=12104400",
+      "link": "https://globalnews.ca/news/12104400/winnipeg-zoo-polar-bear-cub-name/",
+      "title": "The poll-ar bear results are in, Winnipeg zoo reveals cub’s new name",
+      "excerpt": "After a record-setting number of votes, the Assiniboine Park Zoo said it has determined its new polar bear cub's name. His name is an homage to where he was found, Churchill, Man.",
+      "published": "2026-10-15T22:35:11.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/winnipeg-polar-bear-cub-.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T22:40:04.542Z"
+    },
+    {
+      "id": "87439e3102f481fb",
+      "guid": "https://globalnews.ca/?p=12104370",
+      "link": "https://globalnews.ca/news/12104370/ev-sales-grow-q3/",
+      "title": "Canada’s EV sales are growing, but not fast enough: expert",
+      "excerpt": "Electric vehicle sales grew substantially in Q3 but one expert says they still are not on pace to reach the federal government’s updated EV and emissions targets.",
+      "published": "2026-10-15T22:26:40.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/electric-vehicles-e1792101423169.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T22:40:04.542Z"
+    },
+    {
+      "id": "f81ef8b07132be9e",
+      "guid": "https://globalnews.ca/?p=12104419&preview=true&preview_id=12104419",
+      "link": "https://globalnews.ca/news/12104419/maple-leafs-acquire-raty-in-trade-with-canucks/",
+      "title": "Maple Leafs acquire Raty in trade with Canucks",
+      "excerpt": "The Toronto Maple Leafs have acquired Finnish forward Aatu Raty from the Vancouver Canucks in exchange for forwards Brandon Buhr and Jacob Quillan.",
+      "published": "2026-10-15T22:25:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/2835303d1a16c37a1868dde175155ce337373083e61ee1aff99d76c628d2f120_2f734a.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T22:40:04.542Z"
+    },
+    {
+      "id": "dee293e804b883c6",
+      "guid": "https://globalnews.ca/?p=12104394",
+      "link": "https://globalnews.ca/news/12104394/rcmp-dangerous-person-alert-red-earth-cree-nation/",
+      "title": "RCMP issue dangerous person alert for Red Earth Cree Nation area",
+      "excerpt": "Saskatchewan RCMP have issued a dangerous person alert for Red Earth Cree Nation and the surrounding area amid reports of an armed man.",
+      "published": "2026-10-15T22:20:20.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/d9a21b83f8ba8f6080de35e4502a5d641e724c1d5ebf2422e0f29a3ae96e2a7a_dd0c8a.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T22:40:04.542Z"
+    },
+    {
+      "id": "79fa0508f7d04cf0",
+      "guid": "https://globalnews.ca/?p=12104369",
+      "link": "https://globalnews.ca/news/12104369/investigation-fatal-collision-roughriders/",
+      "title": "RCMP won’t reveal toxicology results in crash that killed 2, including Roughrider Captain",
+      "excerpt": "The Saskatchewan RCMP has concluded its collision reconstruction investigation into a crash outside of Regina that killed a 22-year-old man and a Roughriders linebacker.",
+      "published": "2026-10-15T22:12:09.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/dalke-investigation-toxicology-update.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T22:40:04.542Z"
+    },
+    {
       "id": "3e34adc195fcea89",
       "guid": "https://globalnews.ca/?p=12104232",
       "link": "https://globalnews.ca/news/12104232/northeast-calgary-bus-fire/",
