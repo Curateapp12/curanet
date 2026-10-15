@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "2ecb8d468309655c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292894/terminal-conteneurs-assemblee-publique-qsl-quebec",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292894/terminal-conteneurs-assemblee-publique-qsl-quebec",
+      "title": "Terminal de conteneurs de QSL : des inquiétudes de Beauport à Saint-Roch",
+      "excerpt": "Le Port de Québec et QSL tenaient une assemblée publique dans Limoilou, mercredi.",
+      "published": "2026-10-15T09:26:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/qsl-terminal-conteneurs-beauport-quebec.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T10:42:48.728Z"
+    },
+    {
+      "id": "9633efa29aa38eda",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292911/beluga-dauphin-oceanografic-valence-marineland",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292911/beluga-dauphin-oceanografic-valence-marineland",
+      "title": "Marineland : les cétacés morts en Espagne auraient souffert de maladies préexistantes",
+      "excerpt": "L'Oceanogràfic de Valence indique qu'elle poursuit son enquête sur les décès de Jelly Bean et d'Echo.",
+      "published": "2026-10-15T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/beluga-marineland-30242.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T10:42:48.728Z"
+    },
+    {
       "id": "2a9446c793db27e2",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292458/ottawa-hydro-barrages-poissons-norme",
       "link": "https://ici.radio-canada.ca/nouvelle/2292458/ottawa-hydro-barrages-poissons-norme",
@@ -45,6 +67,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/berengere-deveaux-cattino.jpg",
       "type": "article",
       "addedAt": "2026-10-15T08:44:29.737Z"
+    },
+    {
+      "id": "f5a1f3007ad75fd5",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292873/debats-chefs-colombiebritannique-elections",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292873/debats-chefs-colombiebritannique-elections",
+      "title": "Élections provinciales en C.-B. : Eby défend son bilan, Lowan et Doerkson tentent de se démarquer",
+      "excerpt": "Les trois chefs se sont surtout concentrés sur la relance de l'économie et les impôts.",
+      "published": "2026-10-15T05:10:53.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/david-eby-lorne-doerkson-emily-lowan-61952.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T10:42:48.728Z"
     },
     {
       "id": "ec8f2e6effe4abbc",

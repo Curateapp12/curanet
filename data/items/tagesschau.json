@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "d6592a64368a964c",
+      "guid": "tagesschau_fm-story-id-d0109a8e-80f3-475f-afb4-f39b2f87c3f2",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-lufthansa-kerosin-versorgung-100.html",
+      "title": "Flughafen Frankfurt: Lufthansa bereitet sich auf Kerosin-Mangel vor",
+      "excerpt": "Am Frankfurter Flughafen kommt es derzeit zu Einschränkungen bei der Kerosinversorgung. Grund ist unter anderem die Wartung einer Pipeline. Die Lufthansa hat vorsorglich Maßnahmen ergriffen, Flüge sollen aber nicht gestrichen werden.",
+      "published": "2026-10-15T10:26:46.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a67272f0-4282-426a-aa94-a8ba96b609b9/AAABoT8VLMs/AAABnSSvrFg/16x9-big/lufthansa-frankfurt-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-15T10:42:48.728Z"
+    },
+    {
+      "id": "912ab2909d9aa3c9",
+      "guid": "f574d554-4a40-4256-918e-8cc9b1027166",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html",
+      "title": "Viele Tote bei Einsturz von Schuldach in Pakistan",
+      "excerpt": "In Pakistan sind bei dem Einsturz eines Schuldachs mindestens 28 Menschen gestorben. Unter den Toten befinden sich vor allem Schüler, die gerade im Unterricht saßen. Die Polizei meldete bereits eine Festnahme.",
+      "published": "2026-10-15T10:10:33.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/76596099-4b37-4734-bb75-44a6a7356a3c/AAABoT7CTzc/AAABnSSvrFg/16x9-big/schule-pakistan-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-15T10:42:48.728Z"
+    },
+    {
+      "id": "d343c0800f0d2093",
+      "guid": "dae2074c-9261-4c8e-9e6a-3ffa6b47b12f",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/spionage-software-werbung-100.html",
+      "title": "Spyware-Methode aufgedeckt: Spionagesoftware per Onlinewerbung",
+      "excerpt": "Eine israelische Firma soll Onlinewerbung genutzt haben, um Spionagesoftware zu verbreiten. Das geht aus einem Bericht hervor, den BR und netzpolitik.org vorab einsehen konnten. Im Visier standen mutmaßlich internationale Organisationen, Staaten, Medien und Unternehmen.",
+      "published": "2026-10-15T10:00:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4d82790e-d5f9-4cd3-9dc6-3c7cbb149c83/AAABnSo5Ggc/AAABnSSvrFg/16x9-big/haende-smartphone-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-15T10:42:48.728Z"
+    },
+    {
+      "id": "dac1e7560dfb04d5",
+      "guid": "62ae32ed-d236-423a-b2c7-eb152d1610ba",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
+      "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
+      "excerpt": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Mehrere Seeleute werden noch vermisst. Ob der Brand durch eine Drohne ausgelöst wurde, ist unklar. Zuletzt kam es hier häufiger zu Drohnenangriffen.",
+      "published": "2026-10-15T09:52:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a464ef9e-d97b-4108-b9d4-e84b2214cc06/AAABoT7wW3s/AAABnSSvrFg/16x9-big/sendungsbild-1811876.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-15T10:42:48.728Z"
+    },
+    {
       "id": "fe35a140257e630c",
       "guid": "144abb4b-32c5-4b17-b9cd-d8c694b811b4",
       "link": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
