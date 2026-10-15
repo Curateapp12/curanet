@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "bceeb30dd9710cb8",
+      "guid": "https://ici.radio-canada.ca/sports/2292965/ski-alpin-blessure-aleksander-aamodt-kilde-rupture-tendon-achille",
+      "link": "https://ici.radio-canada.ca/sports/2292965/ski-alpin-blessure-aleksander-aamodt-kilde-rupture-tendon-achille",
+      "title": "Aleksander Aamodt Kilde victime d’une rupture du tendon d’Achille",
+      "excerpt": "Le Norvégien s’est blessé à l’entraînement au Chili.",
+      "published": "2026-10-15T14:21:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/aleksander-aamodt-kilde-val-gardena.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T14:43:48.101Z"
+    },
+    {
+      "id": "350fa0d0eb30059e",
+      "guid": "https://ici.radio-canada.ca/tele/on-va-se-le-dire/site/segments/entrevue/2503768/alouettes-montreal-football",
+      "link": "https://ici.radio-canada.ca/tele/on-va-se-le-dire/site/segments/entrevue/2503768/alouettes-montreal-football",
+      "title": "Des cours de français pour les Alouettes de Montréal",
+      "excerpt": "Les joueurs se dépassement dans les salles de classes avant les matchs.",
+      "published": "2026-10-15T14:01:21.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/on-va-se-le-dire-geoffrey-cantin-arku.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T14:43:48.101Z"
+    },
+    {
       "id": "41c6b92e382a1e56",
       "guid": "https://ici.radio-canada.ca/en-bref/1-10784561/myriam-djouaher-sera-sur-equipe-quebec-jeux-canada",
       "link": "https://ici.radio-canada.ca/en-bref/1-10784561/myriam-djouaher-sera-sur-equipe-quebec-jeux-canada",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/myriam-djouaher-patineuse-vitesse-76053.jpg",
       "type": "article",
       "addedAt": "2026-10-15T13:49:33.543Z"
+    },
+    {
+      "id": "50fc32c1676e6fb2",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2503380/william-dandjinou-et-meilleurs-patineurs-longue-piste-au-centre-glaces",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2503380/william-dandjinou-et-meilleurs-patineurs-longue-piste-au-centre-glaces",
+      "title": "William Dandjinou au Centre de glaces Intact Assurances",
+      "excerpt": "Dans le cadre du début des Championnats canadiens de patinage de vitesse sur longue piste à Québec, William Dandjinou, double récipiendaire du Globe de cristal en tant que meilleur patineur de vitesse sur courte piste au monde, était sur les ondes de Première heure pour partager ses sensations…",
+      "published": "2026-10-15T13:09:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/16x9/william-dandjinou-ph-premiere-heure.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T14:43:48.101Z"
     },
     {
       "id": "9dc1bea1f611fdf6",
