@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "3e34adc195fcea89",
+      "guid": "https://globalnews.ca/?p=12104232",
+      "link": "https://globalnews.ca/news/12104232/northeast-calgary-bus-fire/",
+      "title": "3 dead, at least 10 injured in Calgary transit bus fire",
+      "excerpt": "Three people are dead and at least 10 others were injured in northeast Calgary, where two transit busses appeared to have been involved in a collision and caught fire.",
+      "published": "2026-10-15T21:25:37.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Image-29.jpeg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T21:41:57.447Z"
+    },
+    {
+      "id": "e209dd604ed42e7e",
+      "guid": "https://globalnews.ca/?p=12104278",
+      "link": "https://globalnews.ca/news/12104278/bc-ndp-defends-actions-reports-secret-land-deal/",
+      "title": "BC NDP defends actions after reports about a secret land deal",
+      "excerpt": "According to confidential documents obtained by Northern Beat, the NDP government has been in negotiations to transfer some 400 parcels of Crown land to First Nations.",
+      "published": "2026-10-15T21:19:53.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/37db51c348f4019a8189b0292d9af2d3ac0a622e50c62a02ddc6a494dcb9db5d_c98e41.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T21:41:57.447Z"
+    },
+    {
+      "id": "26a639bd2e5eed80",
+      "guid": "https://globalnews.ca/?p=12104075",
+      "link": "https://globalnews.ca/news/12104075/alberta-referendum-scrutineers-fact-check/",
+      "title": "Fact Check: Elections Alberta restricts referendum scrutineers due to limited space",
+      "excerpt": "Political scientist Lori Williams said the decision reflects the challenges Elections Alberta faces when overseeing a provincewide referendum with such high stakes.",
+      "published": "2026-10-15T21:17:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/5917b4155e43198b8639ace623bfd5b160b552ce4f4b6ba36b38d4b9c504c67d.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T21:41:57.447Z"
+    },
+    {
+      "id": "d63298f7b2fca6fd",
+      "guid": "https://globalnews.ca/?p=12104119",
+      "link": "https://globalnews.ca/news/12104119/helium-purification-opens-stewart-valley-saskatchewan/",
+      "title": "Canada’s largest helium purification hub opens in southwestern Saskatchewan",
+      "excerpt": "Helium production is expected to boom after a facility began operating near in Saskatchewan Thursday. It is anticipated to increase the province's helium production by 40 per cent.",
+      "published": "2026-10-15T21:17:30.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/saskatchewan-helium-purification-site.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T21:41:57.447Z"
+    },
+    {
+      "id": "cac3c8ce14b72e8e",
+      "guid": "https://globalnews.ca/?p=12104076",
+      "link": "https://globalnews.ca/news/12104076/alberta-referendum-mail-in-ballot-barriers/",
+      "title": "Mail-in ballot delivery rules posing barriers: Alberta’s former top election official",
+      "excerpt": "Alberta's former top election official says there's a clause that would permit in-person mail deliveries, but the current chief electoral officer is refusing to use that power.",
+      "published": "2026-10-15T21:11:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/Mail-ballot-7.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T21:41:57.447Z"
+    },
+    {
       "id": "e03b1175d71f9b99",
       "guid": "https://globalnews.ca/?p=12104060",
       "link": "https://globalnews.ca/news/12104060/property-crime-a-key-issue-for-winnipeggers-in-upcoming-election/",
