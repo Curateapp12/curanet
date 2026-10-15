@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "2ece75b9a900cc8d",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292929/cv-la-nouvelle-porte-parole-maison-blanche-controverse",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292929/cv-la-nouvelle-porte-parole-maison-blanche-controverse",
+      "title": "Le CV de la nouvelle porte-parole de la Maison-Blanche remis en question",
+      "excerpt": "Katie Zacharia, ancienne consultante sur la chaîne Fox News, a été plusieurs fois présentée comme avocate.",
+      "published": "2026-10-15T11:22:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/katie-zacharia.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T11:42:24.411Z"
+    },
+    {
       "id": "2ecb8d468309655c",
       "guid": "https://ici.radio-canada.ca/nouvelle/2292894/terminal-conteneurs-assemblee-publique-qsl-quebec",
       "link": "https://ici.radio-canada.ca/nouvelle/2292894/terminal-conteneurs-assemblee-publique-qsl-quebec",
@@ -111,6 +122,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/td-bmo-banques-canada-rapport.jpg",
       "type": "article",
       "addedAt": "2026-10-15T02:41:31.171Z"
+    },
+    {
+      "id": "01082389c8261201",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292858/arbres-coupe-sepaq-abattage",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292858/arbres-coupe-sepaq-abattage",
+      "title": "Des milliers d’arbres doivent être abattus au parc national du Lac-Témiscouata",
+      "excerpt": "Ces arbres menacent la sécurité des utilisateurs du parc, selon la Sépaq.",
+      "published": "2026-10-14T22:51:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/arbres-coupes-temiscouata-sepaq-parc-national-52614.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-15T11:42:24.411Z"
     },
     {
       "id": "2e8a30bc55a3063a",

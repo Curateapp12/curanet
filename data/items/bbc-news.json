@@ -3,6 +3,61 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "e7ad6fd56a7f657d",
+      "guid": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo",
+      "title": "Severe drought declared in parts of southern England",
+      "excerpt": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+      "published": "2026-10-15T11:37:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7106/live/b9cf8280-c871-11f1-971b-634f423608e9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T11:42:24.411Z"
+    },
+    {
+      "id": "62390e7d5c5f49be",
+      "guid": "https://www.bbc.co.uk/sport/rugby-league/articles/crn8w411gj1yo#8",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crn8w411gj1yo",
+      "title": "Australia edge New Zealand in epic World Cup opener",
+      "excerpt": "Jack Bostock scores a hat-trick of tries as Australia fight back to win the opening game of the Rugby League World Cup against New Zealand.",
+      "published": "2026-10-15T11:32:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f95/live/593307a0-c888-11f1-a2e8-f71844f8002e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T11:42:24.411Z"
+    },
+    {
+      "id": "5e57631f48920181",
+      "guid": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo",
+      "title": "Watch: Harry and Meghan at first joint engagement since UK return",
+      "excerpt": "The Duke and Duchess of Sussex are making several public appearances in Nottingham.",
+      "published": "2026-10-15T11:10:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e34/live/18eb8c30-c88d-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T11:42:24.411Z"
+    },
+    {
+      "id": "8e2a56fb90255159",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o",
+      "title": "Man Utd a circus after Martinez comments - Keane",
+      "excerpt": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
+      "published": "2026-10-15T10:57:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4964/live/e36c9e90-c888-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T11:42:24.411Z"
+    },
+    {
+      "id": "be0e8f926ce142b2",
+      "guid": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo#4",
+      "link": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo",
+      "title": "Watch: Emotional TV plea for cancer research leads to meeting with PM",
+      "excerpt": "Scottish athlete, Archie Goodburn, who was diagnosed with three inoperable brain tumours two years ago, met Andy Burnham after an appeal for more investment into brain cancer research.",
+      "published": "2026-10-15T10:56:25.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11a9/live/dc91f1f0-c87f-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T11:42:24.411Z"
+    },
+    {
       "id": "a5a76998372542ed",
       "guid": "https://www.bbc.co.uk/news/articles/cxnv012jy04eo#4",
       "link": "https://www.bbc.co.uk/news/articles/cxnv012jy04eo",
@@ -23,6 +78,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/676d/live/4c848760-c7c3-11f1-993a-152cbb068da1.jpg",
       "type": "article",
       "addedAt": "2026-10-15T10:42:48.728Z"
+    },
+    {
+      "id": "8a514cd85e4bc69c",
+      "guid": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo",
+      "title": "Brazil's Congress approves shorter working week in win for Lula",
+      "excerpt": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
+      "published": "2026-10-15T10:05:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de61/live/a7661b70-c87d-11f1-8101-e3c2ed61ec71.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T11:42:24.411Z"
+    },
+    {
+      "id": "b1aafcf931008e70",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjv9872xg3o#8",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjv9872xg3o",
+      "title": "Spain bids for Rugby World Cup with Nou Camp final",
+      "excerpt": "Barcelona's Nou Camp, Madrid's Bernabeu and the Mestalla in Valencia are all on a list of possible venues as Spain bids to host the Rugby World Cup in 2035.",
+      "published": "2026-10-15T10:01:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d87/live/3d614200-c87c-11f1-bf46-d13a9e06695d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T11:42:24.411Z"
     },
     {
       "id": "3932accc23f27125",
