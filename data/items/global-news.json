@@ -3,6 +3,50 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "035edeba7e3d73fb",
+      "guid": "https://globalnews.ca/?p=12103614",
+      "link": "https://globalnews.ca/news/12103614/royal-caribbean-cruise-passenger-rescued-overboard/",
+      "title": "Royal Caribbean cruise passenger rescued 20 hours after going overboard",
+      "excerpt": "A cargo ship that participated in the search located the 44-year-old woman and she found conscious while floating inside a lifebuoy, according to the Hellenic Coast Guard.",
+      "published": "2026-10-15T16:24:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/passenger-rescued-overboard-royal-caribbean.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T16:43:23.374Z"
+    },
+    {
+      "id": "e0e1289001bea0fd",
+      "guid": "https://globalnews.ca/?p=12103643",
+      "link": "https://globalnews.ca/news/12103643/bond-yields-mortgages-variable-vs-fixed-rates/",
+      "title": "As bond yields rise, how to pick between a variable or fixed rate mortgage?",
+      "excerpt": "Canada is currently in the midst of the largest wave of mortgage renewals, with more than a million households either renewing or close to renewing their mortgages this year.",
+      "published": "2026-10-15T16:21:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Bond-yield-mortgage-rates.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T16:43:23.374Z"
+    },
+    {
+      "id": "2ea26176bc106397",
+      "guid": "https://globalnews.ca/?p=12103725",
+      "link": "https://globalnews.ca/news/12103725/albania-anti-government-protests-swell/",
+      "title": "Anti-government protests sparked by Kushner-linked project swell in Albania",
+      "excerpt": "Youths protesting Albania's long-serving Socialist government hurled rocks at a police cordon outside the Education Ministry. Riot police responded with tear gas and water cannons.",
+      "published": "2026-10-15T16:12:54.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Albania-protests-e1792080697592.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T16:43:23.374Z"
+    },
+    {
+      "id": "e5775664e02cd00f",
+      "guid": "https://globalnews.ca/?p=12103696",
+      "link": "https://globalnews.ca/news/12103696/suspicious-sunstances-sent-us-congress/",
+      "title": "Authorities investigate letters with ‘suspicious substances’ sent to congressional, election offices",
+      "excerpt": "The mailings come just three weeks before Election Day and are reminiscent of a similar threat in 2023, when several election offices received envelopes containing fentanyl.",
+      "published": "2026-10-15T16:02:17.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/753b0a37-4870-4059-8ae4-fd7374cc2261-e1792080098726.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T16:43:23.374Z"
+    },
+    {
       "id": "8c05e08b83bea363",
       "guid": "https://globalnews.ca/?p=12103641",
       "link": "https://globalnews.ca/news/12103641/mark-carney-alberta-referendum-foreign-interference/",
