@@ -3,6 +3,72 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "0b5a34658ecfb754",
+      "guid": "https://globalnews.ca/?p=12103468",
+      "link": "https://globalnews.ca/news/12103468/vancouver-mayoral-debate/",
+      "title": "Fry and Sim face off in Vancouver, but other mayoral candidates reject spoiler label",
+      "excerpt": "Interest in the Vancouver race appears high. The City of Vancouver says more than 103,000 people have voted in advance, up 60 per cent from roughly 65,000 voters in 2022.",
+      "published": "2026-10-15T12:43:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/5f825bd525b1c8745d25da7808e5725574ddb71efe2fc10ddf719fbcec65869c.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T12:53:13.196Z"
+    },
+    {
+      "id": "eebe2844c43056da",
+      "guid": "https://globalnews.ca/?p=12103465",
+      "link": "https://globalnews.ca/news/12103465/burnaby-school-district-says-cyberattack-may-have-leaked-student-parent-info/",
+      "title": "Burnaby school district says cyberattack may have leaked student, parent info",
+      "excerpt": "The Burnaby School District says in a notice that the ransomware attack it suffered on Sept. 21 affected school websites and portals, internal network services and phone lines.",
+      "published": "2026-10-15T12:39:51.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/fdbfb34c33ba427467415e049ec748cb652f0efed35dc1a667e1fdd92551a40d.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T12:53:13.196Z"
+    },
+    {
+      "id": "99ca8d8d1c6f78e0",
+      "guid": "https://globalnews.ca/?p=12103461",
+      "link": "https://globalnews.ca/news/12103461/hardly-surprising-many-alberta-business-leaders-staying-mum-on-separation-expert/",
+      "title": "‘Hardly surprising’ many Alberta business leaders staying mum on separation: expert",
+      "excerpt": "The silence from many Alberta business leaders on the upcoming provincial referendum comes as no surprise to one corporate leadership expert.",
+      "published": "2026-10-15T12:28:01.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/f7c32091987f482a84986371fc843a2b704cfc42429c93d129e927a93640b8f2.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T12:53:13.196Z"
+    },
+    {
+      "id": "f1935cda28095587",
+      "guid": "https://globalnews.ca/?p=12103460",
+      "link": "https://globalnews.ca/news/12103460/canada-midterms-interference-hoekstra/",
+      "title": "U.S. watching for Canadian ‘interference’ in midterms, Hoekstra says",
+      "excerpt": "During an interview on a podcast, Hoekstra said political ads run by the province of Ontario last year could be interpreted as political interference.",
+      "published": "2026-10-15T12:27:24.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Canada-midterms-interference-Hoekstra.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T12:53:13.196Z"
+    },
+    {
+      "id": "d38a8693e31a5433",
+      "guid": "https://globalnews.ca/?p=12103457",
+      "link": "https://globalnews.ca/news/12103457/ontario-place-redevelopment-supreme-court-challenge/",
+      "title": "Supreme Court hears challenge of law clearing path for Ontario Place redevelopment",
+      "excerpt": "The Supreme Court of Canada plans to hear arguments from a coalition challenging the constitutionality of legislation that smooths the way for major changes at Ontario Place.",
+      "published": "2026-10-15T12:22:26.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/8fb12c1f5172e4cf8b315b4eee0faf95db1d78cbcaf819f6fa291c34a6658d1a.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T12:53:13.196Z"
+    },
+    {
+      "id": "a98708c65b5fceb3",
+      "guid": "https://globalnews.ca/?p=12103450",
+      "link": "https://globalnews.ca/news/12103450/ships-ablaze-romania-black-sea/",
+      "title": "2 ships ablaze off Romanian Black Sea coast, search on for missing sailors",
+      "excerpt": "Romanian President Nicusor Dan said the two ships had been struck by drones in the Black Sea but declined to say whether they were Russian.",
+      "published": "2026-10-15T12:10:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Romanian-president.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T12:53:13.196Z"
+    },
+    {
       "id": "149a459c1dacf673",
       "guid": "https://globalnews.ca/?p=12102665",
       "link": "https://globalnews.ca/news/12102665/northwestern-ontario-no-more-time-change/",
