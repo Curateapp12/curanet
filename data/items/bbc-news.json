@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "24ecc6dbcf8b10f4",
+      "guid": "https://www.bbc.co.uk/weather/articles/c6d7qv73nldgo#1",
+      "link": "https://www.bbc.co.uk/weather/articles/c6d7qv73nldgo",
+      "title": "UK temperatures to rise to 23C before autumn chill sets in",
+      "excerpt": "Warm air will bring unseasonable warmth to the south and east of the UK on Thursday but chillier conditions are set to spread to all areas by the weekend.",
+      "published": "2026-10-15T04:27:23.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6d0/live/97152170-c7f7-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T04:40:35.122Z"
+    },
+    {
       "id": "fc8318609dfba872",
       "guid": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo#1",
       "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo",
@@ -12,6 +23,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7f/live/f7333c90-c838-11f1-b2e8-93da8301514e.jpg",
       "type": "article",
       "addedAt": "2026-10-15T03:41:19.305Z"
+    },
+    {
+      "id": "e876fa5f366b87d2",
+      "guid": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o",
+      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+      "excerpt": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
+      "published": "2026-10-15T02:26:07.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/491e/live/40de5ca0-c841-11f1-afe1-c9348bd7f501.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T04:40:35.122Z"
     },
     {
       "id": "7505c01e13f6bb7c",
