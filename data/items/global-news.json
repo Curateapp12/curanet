@@ -3,6 +3,28 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "8db7b552082309c4",
+      "guid": "https://globalnews.ca/?p=12103103",
+      "link": "https://globalnews.ca/news/12103103/vancouver-aquatic-centre-rebuild-first-nations-land-claim-issue/",
+      "title": "Vancouver Aquatic Centre 25m rebuild a First Nation’s land claim issue: Park Board chair",
+      "excerpt": "The Park Board has previously stated that in order to rebuild a 50 metre pool, the facility’s footprint would need to be expanded to meet modern safety and competition rules.",
+      "published": "2026-10-15T00:46:11.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/08/8a864b73e58973e70500b28b69145cf2d5ce46f5918a5732d679e1274a00423f.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T00:50:05.625Z"
+    },
+    {
+      "id": "1077e4a6105ede5d",
+      "guid": "https://globalnews.ca/?p=12103092",
+      "link": "https://globalnews.ca/news/12103092/bc-ndp-election-costings-deficit-fall-two-years/",
+      "title": "BC NDP election costings would see deficit fall to $12B in two years",
+      "excerpt": "The costings released hours ahead of the campaign's only leaders' debate show a deficit of about $12 billion by 2028/29, down from a forecast of $14 billion this fiscal year.",
+      "published": "2026-10-15T00:36:38.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/874946b0721a0f95ad801115c25f98516b76d5fc26e60a136cb1d9a2851f4de3_ab5102.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T00:50:05.625Z"
+    },
+    {
       "id": "6bdb0213c616f9c5",
       "guid": "https://globalnews.ca/?p=12102995",
       "link": "https://globalnews.ca/news/12102995/edmonton-motorcycle-collision-bus-shelter-death/",
@@ -23,6 +45,17 @@
       "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/39e8889f74c495e68e3e1849c5673f6cfbf9532435295ae054cc4f084e845f4f.jpg?quality=65&strip=all",
       "type": "article",
       "addedAt": "2026-10-14T23:35:54.405Z"
+    },
+    {
+      "id": "d9a604ec5f318d98",
+      "guid": "https://globalnews.ca/?p=12102675",
+      "link": "https://globalnews.ca/news/12102675/celine-dion-barbie/",
+      "title": "Céline Dion gets her own Barbie inspired by iconic 1998 Oscars look",
+      "excerpt": "A new Céline Dion Barbie recreates the Quebec superstar’s memorable 1998 Oscars look, complete with a navy gown and blue diamond necklace.",
+      "published": "2026-10-14T22:53:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Screenshot-2026-10-14-190743-e1792021136652.png",
+      "type": "article",
+      "addedAt": "2026-10-15T00:50:05.625Z"
     },
     {
       "id": "5ab245099fb07bcc",
