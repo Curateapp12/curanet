@@ -3,6 +3,50 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "cce4711334fce328",
+      "guid": "b10f4104-c8d4-11f1-abe8-c757ad6d99b1",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261015-perquisition-chez-des-proches-de-f%C3%A9lix-tshisekedi-en-belgique",
+      "title": "Perquisition chez des proches de Félix Tshisekedi en Belgique",
+      "excerpt": "Plusieurs perquisitions menées par le parquet fédéral belge, à Bruxelles et dans ses environs, ont visé des résidences appartenant à des membres de la famille de Félix Tshisekedi. Selon la plateforme DESC/RDC à l’origine de la plainte, les membres du clan présidentiel auraient mis la main…",
+      "published": "2026-10-15T20:21:26.000Z",
+      "thumbnail": "https://s.france24.com/media/display/bb0521aa-c8d5-11f1-93e2-638c1c1f5fd6/w:1024/p:16x9/capture-6ac7ad97-1.png",
+      "type": "article",
+      "addedAt": "2026-10-15T20:40:47.903Z"
+    },
+    {
+      "id": "7c51ba81bf210587",
+      "guid": "034c085a-c8d3-11f1-8e69-89bdf55d8b96",
+      "link": "https://www.france24.com/fr/france/20261015-manifestation-17-octobre-paris-pr%C3%A9fet-police-interdit-parcours-et-propose-alternative",
+      "title": "Manifestation du 17 octobre à Paris : le préfet interdit un parcours et propose une alternative",
+      "excerpt": "La préfecture de police interdit le trajet demandé par l’assemblée générale Interfac IDF pour sa manifestation de samedi à Paris. En raison des \"risques sérieux de troubles à l'ordre public\", elle propose un parcours alternatif.",
+      "published": "2026-10-15T20:12:52.000Z",
+      "thumbnail": "https://s.france24.com/media/display/97cb398e-c8d2-11f1-99ea-d1d2c32ebb87/w:1024/p:16x9/AP26286415891083.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T20:40:47.903Z"
+    },
+    {
+      "id": "b528f3b6c9adfaa8",
+      "guid": "da313c7c-c8cf-11f1-94f5-b1e56fccfabe",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261015-manifestation-du-17-octobre-gare-%C3%A0-ces-fausses-citations-officielles",
+      "title": "Manifestation du 17 octobre : Gare à ces fausses citations \"officielles\" !",
+      "excerpt": "A l’approche d’une nouvelle journée de mobilisation en France prévue samedi, plusieurs membres du gouvernement se sont vu attribuer des propos menaçants sur les réseaux sociaux. Ces fausses déclarations volontairement choquantes et incendiaires jouent sur un climat social tendu pour engranger de…",
+      "published": "2026-10-15T19:55:28.000Z",
+      "thumbnail": "https://s.france24.com/media/display/cc865148-c8cf-11f1-9181-d1d2c32ebb87/w:1024/p:16x9/FRAN261015-2115-Live-CS2115.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T20:40:47.903Z"
+    },
+    {
+      "id": "f4e9d638327593a1",
+      "guid": "f2cd0614-c8cd-11f1-aab6-1fa1aaa38d5c",
+      "link": "https://www.france24.com/fr/europe/20261015-manifestations-albanie-premier-ministre-edi-rama-condamne-chaos-imput%C3%A9-opposition",
+      "title": "Manifestations en Albanie : le Premier ministre Edi Rama condamne un \"chaos\" imputé à l'opposition",
+      "excerpt": "En Albanie, des centaines de manifestants ont réclamé, jeudi, de meilleures conditions d'enseignement et de santé et ont appelé le Premier ministre, Edi Rama, à démissionner. Depuis trois jours, de violents affrontements les opposent aux forces de l'ordre. Selon le chef du gouvernement, ce \"chaos\"…",
+      "published": "2026-10-15T19:39:23.000Z",
+      "thumbnail": "https://s.france24.com/media/display/2b7d0ff0-c80f-11f1-979c-4dd8ac2cf3bf/w:1024/p:16x9/2026-10-14T202423Z-672776165-RC243OAZMXW5-RTRMADP-3-ALBANIA-PROTESTS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T20:40:47.903Z"
+    },
+    {
       "id": "6a0ed74af1d97429",
       "guid": "3a67b82e-c8b6-11f1-9978-5f225d6c37ca",
       "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261015-dette-la-france-au-pied-du-mur",

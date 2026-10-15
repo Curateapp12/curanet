@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "a094aa58c0daa305",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "excerpt": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+      "published": "2026-10-15T20:25:04.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-15T20:40:47.903Z"
+    },
+    {
+      "id": "6c8051f534fec6ac",
+      "guid": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "excerpt": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+      "published": "2026-10-15T19:48:43.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-15T20:40:47.903Z"
+    },
+    {
       "id": "b14fd868476bffef",
       "guid": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",

@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "98c83364c04f3a72",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10785048/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10785048/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-15T20:30:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T20:40:47.903Z"
+    },
+    {
+      "id": "11854eab185330bc",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10785038/sports-express-14-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10785038/sports-express-14-octobre",
+      "title": "Sports Express - 14 octobre",
+      "excerpt": "L'actualité sportive du jour avec Jérémie Turbide.",
+      "published": "2026-10-15T20:25:59.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T20:40:47.903Z"
+    },
+    {
       "id": "4ce8d6e71253a42c",
       "guid": "https://ici.radio-canada.ca/sports/2293059/cf-montreal-championnat-canadien",
       "link": "https://ici.radio-canada.ca/sports/2293059/cf-montreal-championnat-canadien",
