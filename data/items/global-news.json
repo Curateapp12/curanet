@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "c7ddc1bffdd4ce41",
+      "guid": "https://globalnews.ca/?p=12103972",
+      "link": "https://globalnews.ca/news/12103972/martin-short-says-pain-of-daughter-katherine-death-will-always-be-present/",
+      "title": "Martin Short says ‘pain’ of daughter’s death will ‘always be present’",
+      "excerpt": "'The great Dolly Parton once said, 'Grief is love with no place to go.' My pain about losing my daughter will always be present in my heart,\" Martin Short said.",
+      "published": "2026-10-15T19:36:01.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/martin-short-honours-daughter-katherine.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T19:39:04.592Z"
+    },
+    {
+      "id": "22bc24388d64c96a",
+      "guid": "https://globalnews.ca/?p=12103949",
+      "link": "https://globalnews.ca/news/12103949/donald-trump-51st-state-midterms/",
+      "title": "Why Trump is reviving 51st state rhetoric with midterms in less than 3 weeks",
+      "excerpt": "During a campaign rally in Arizona on Wednesday, U.S. President Donald Trump revived his rhetoric on wanting Canada to be '51st state' of the United States.",
+      "published": "2026-10-15T19:22:39.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Trump-51st-state-midterms.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T19:39:04.592Z"
+    },
+    {
+      "id": "c77143515a9d273d",
+      "guid": "https://globalnews.ca/?p=12103883",
+      "link": "https://globalnews.ca/news/12103883/new-charges-hessam-aldin-sahrapour-saskatoon/",
+      "title": "New charges laid against Saskatoon school staffer accused of sexual assault",
+      "excerpt": "Hessam Aldin Sahrapour now faces six assault charges and six counts of sexual assault after an additional student came forward, alleging that they were sexually assaulted.",
+      "published": "2026-10-15T18:59:15.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/saskatoon-school-staff-sexual-assault.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-15T19:39:04.592Z"
+    },
+    {
       "id": "3015784eeccca288",
       "guid": "https://globalnews.ca/?p=12103807",
       "link": "https://globalnews.ca/news/12103807/winnipeg-police-headquarters-report-kinew/",

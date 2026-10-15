@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "0aaa73265e15b386",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293023/centre-innovation-strategique-foresterie-nb",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293023/centre-innovation-strategique-foresterie-nb",
+      "title": "Ottawa appuie un centre qui doit transformer la foresterie au Nouveau-Brunswick",
+      "excerpt": "Le fédéral offre jusqu’à 50 millions de dollars pour appuyer ce projet prévu sur cinq ans.",
+      "published": "2026-10-15T19:36:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bois-billes-billots-industrie-forestiere-nb-nouveau-brunswick.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T19:39:04.592Z"
+    },
+    {
+      "id": "f49efd302dfc1d98",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293056/pecheries-lebreton-travailleurs-etrangers-compensation",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293056/pecheries-lebreton-travailleurs-etrangers-compensation",
+      "title": "Deux anciens travailleurs étrangers obtiennent 11 500 $ d’une usine de la Péninsule",
+      "excerpt": "Ils recevront une compensation de Pêcheries LeBreton & Fils, qu’ils accusaient de rupture de contrat.",
+      "published": "2026-10-15T19:27:38.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/juan-pablo-lerma-lopez-adriana-de-leon-silva-travailleurs.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T19:39:04.592Z"
+    },
+    {
       "id": "016fef7e01ecb60f",
       "guid": "https://ici.radio-canada.ca/nouvelle/2293017/elsipogtog-hayven-francis-meurtre",
       "link": "https://ici.radio-canada.ca/nouvelle/2293017/elsipogtog-hayven-francis-meurtre",
@@ -34,6 +56,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/diane-carmel-leger-acmaq-lutin-marais-salon-livre-peninsule.png",
       "type": "article",
       "addedAt": "2026-10-15T14:43:48.101Z"
+    },
+    {
+      "id": "883d99145768a17a",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2503621/aucun-risque-fermeture-pour-hopital-stella-maris-dit-benoit-bourque",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2503621/aucun-risque-fermeture-pour-hopital-stella-maris-dit-benoit-bourque",
+      "title": "Pas de risque de fermeture pour l’hôpital Stella-Maris, dit Benoît Bourque",
+      "excerpt": "Le 14 octobre 2025, une réduction temporaire des services prenait effet à l'Hôpital Stella-Maris-de-Kent. Les admissions au service des urgences étaient alors restreintes, une mesure attribuable à une pénurie de personnel selon le Réseau de santé Vitalité. Un an plus tard, cette réduction des…",
+      "published": "2026-10-15T12:05:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/benoit-bourque-hopitaux-ruraux-elections-nb.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T19:39:04.592Z"
     },
     {
       "id": "07b140def5e5a278",
