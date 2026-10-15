@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "3932accc23f27125",
+      "guid": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o",
+      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+      "excerpt": "The Ukrainian president says a three-day pause is over after fresh Russian attacks and US attempts to pressure Kyiv.",
+      "published": "2026-10-15T08:36:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7090/live/c840c9d0-c864-11f1-971b-634f423608e9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T08:44:29.737Z"
+    },
+    {
+      "id": "c2089e363901c3e7",
+      "guid": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo",
+      "title": "Eight crew missing in tanker fire off Romania's coast",
+      "excerpt": "Eight of 12 crew members are missing after a ship reported a fire and explosion in the Black Sea off Romania.",
+      "published": "2026-10-15T08:22:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78d5/live/08c4db40-c86f-11f1-971b-634f423608e9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T08:44:29.737Z"
+    },
+    {
+      "id": "d4c6d9ae30bb1419",
+      "guid": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o#1",
+      "link": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o",
+      "title": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
+      "excerpt": "The Since U Been Gone singer claims she was \"looked at as if I couldn't afford\" an item in the store.",
+      "published": "2026-10-15T08:19:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c9/live/daf720f0-c86f-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T08:44:29.737Z"
+    },
+    {
       "id": "66c7d45c3e8c58b8",
       "guid": "https://www.bbc.co.uk/news/articles/ck8dz1me439no#1",
       "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no",
@@ -67,6 +100,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e2c/live/c3f3ac40-c863-11f1-a64c-550be9e3c66b.jpg",
       "type": "article",
       "addedAt": "2026-10-15T06:52:06.092Z"
+    },
+    {
+      "id": "3f2fd5e5372936ae",
+      "guid": "https://www.bbc.co.uk/news/articles/cr2keqxggx0wo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cr2keqxggx0wo",
+      "title": "First birth of tiny rare frogs at London Zoo",
+      "excerpt": "The Afia Birago’s puddle frogs are a recently identified species from a single Ghanaian forest.",
+      "published": "2026-10-15T05:03:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/533f/live/b24d0f80-c7ec-11f1-a64c-550be9e3c66b.png",
+      "type": "article",
+      "addedAt": "2026-10-15T08:44:29.737Z"
     },
     {
       "id": "c929e4c15c6b654b",
@@ -210,6 +254,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg",
       "type": "article",
       "addedAt": "2026-10-15T00:50:05.625Z"
+    },
+    {
+      "id": "8edba248aa3b56cd",
+      "guid": "https://www.bbc.co.uk/news/articles/cwr7yz5x7pj0o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cwr7yz5x7pj0o",
+      "title": "Warning to women after shortages of some HRT products in Northern Ireland",
+      "excerpt": "Two brands of HRT patches, including Estradot transdermal and FemSeven Conti patches, have been affected, the Department of Health has said.",
+      "published": "2026-10-14T23:01:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f08/live/af862a80-c7f0-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-15T08:44:29.737Z"
     },
     {
       "id": "59e45d1980030e20",
