@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "fe0e6117565f89e6",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10786298/marche-immobilier-au-ralenti-a-montreal",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10786298/marche-immobilier-au-ralenti-a-montreal",
+      "title": "Le marché immobilier au ralenti à Montréal",
+      "excerpt": "Le marché immobilier connaît un ralentissement au Canada, un phénomène particulièrement visible sur l'île de Montréal. Conséquence : les acheteurs profitent d'un choix plus vaste et se retrouvent en position de force pour négocier les prix à la baisse. Le point avec Marie-Claude Morin.",
+      "published": "2026-10-16T22:28:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/letelejournalmontreal.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T22:40:17.683Z"
+    },
+    {
       "id": "143fdbfeb0b42370",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10786228/trois-succursales-banque-nationale-fermeront-au-n-b",
       "link": "https://ici.radio-canada.ca/info/videos/1-10786228/trois-succursales-banque-nationale-fermeront-au-n-b",
@@ -89,6 +100,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/telejournal-acadie-karine-godin-janic-godin.jpg",
       "type": "article",
       "addedAt": "2026-10-15T21:41:57.447Z"
+    },
+    {
+      "id": "5a8d2be3f0c3f964",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/ca-vaut-le-retour/segments/rattrapage/2504038/timbermax-devoile-son-tout-premier-vehicule-mobile-telecommande",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/ca-vaut-le-retour/segments/rattrapage/2504038/timbermax-devoile-son-tout-premier-vehicule-mobile-telecommande",
+      "title": "Un premier véhicule télécommandé pour l’entreprise rouynorandienne TimberMAX",
+      "excerpt": "L’entreprise rouynorandienne TimberMAX dévoile son premier véhicule mobile entièrement télécommandé et sa nouvelle gamme d’équipements TRAKX.",
+      "published": "2026-10-15T21:10:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/equipements-timbermax-mathieu-lavoie.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T22:40:17.683Z"
     },
     {
       "id": "a4361ae47220e469",
