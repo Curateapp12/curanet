@@ -3,6 +3,72 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "a9eb94ad851bf01d",
+      "guid": "https://globalnews.ca/?p=12105190",
+      "link": "https://globalnews.ca/news/12105190/teenage-arrest-taxi-driver-stabbed-winnipeg/",
+      "title": "Teenage passenger arrested after taxi driver stabbed in Winnipeg: police",
+      "excerpt": "A 16-year-old was arrested after riding in a taxi when an altercation started, prompting the teen to allegedly stab the driver, according to police.",
+      "published": "2026-10-16T15:37:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/taxi-driver-stabbed-teen-arrested.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T15:40:51.263Z"
+    },
+    {
+      "id": "6d9601d4e7b7651e",
+      "guid": "https://globalnews.ca/news/12105229/raptors-sign-canadian-guard-jalen-celestine/",
+      "link": "https://globalnews.ca/news/12105229/raptors-sign-canadian-guard-jalen-celestine/",
+      "title": "Raptors sign Canadian guard Jalen Celestine",
+      "excerpt": "The Toronto Raptors have signed Canadian guard Jalen Celestine, the NBA club announced Friday.",
+      "published": "2026-10-16T15:26:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/d20bc062ba9420557fc971d0f2d0b1c17874590a5c9104e1a75e2d441fdee3d6.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T15:40:51.263Z"
+    },
+    {
+      "id": "7be50859d382318c",
+      "guid": "https://globalnews.ca/?p=12105032",
+      "link": "https://globalnews.ca/news/12105032/tesla-roadster-2-flying-car/",
+      "title": "Tesla says its newly unveiled Roadster 2 vehicle ‘can fly’",
+      "excerpt": "Tesla just unveiled its latest vehicle, the Roadster 2, which it says will be available with performance options that will allow it to 'fly.'",
+      "published": "2026-10-16T15:24:30.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP170633758-e1792160660731.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T15:40:51.263Z"
+    },
+    {
+      "id": "b183da125f06eebf",
+      "guid": "https://globalnews.ca/?p=12105155",
+      "link": "https://globalnews.ca/news/12105155/southern-california-brush-fires-evacuation-orders/",
+      "title": "Brush fires spark in Southern California, prompting evacuation orders",
+      "excerpt": "Firefighters worked to contain two other fires that had sparked Thursday and triggered evacuation orders in the city of Azusa, north of LA, and Camp Pendleton, near San Diego.",
+      "published": "2026-10-16T15:11:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/malibu-brush-fire.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T15:40:51.263Z"
+    },
+    {
+      "id": "d62c59f4f5147bc7",
+      "guid": "https://globalnews.ca/?p=12105166",
+      "link": "https://globalnews.ca/news/12105166/red-earth-cree-nation-rcmp-alert/",
+      "title": "RCMP end dangerous person alert for Red Earth Cree Nation area",
+      "excerpt": "Saskatchewan RCMP ended a dangerous person alert Thursday night, saying it no longer believes there’s an imminent public safety risk.",
+      "published": "2026-10-16T15:03:15.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/d9a21b83f8ba8f6080de35e4502a5d641e724c1d5ebf2422e0f29a3ae96e2a7a_dd0c8a.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T15:40:51.263Z"
+    },
+    {
+      "id": "ba625af7fb08a2c9",
+      "guid": "https://globalnews.ca/?p=12105026",
+      "link": "https://globalnews.ca/news/12105026/guelph-homecoming-party-police-cost-report/",
+      "title": "Guelph homecoming drew up to 15,000 people, generated $91K in policing costs",
+      "excerpt": "A University of Guelph homecoming party that became unruly last month drew up to 15,000 people and resulted in roughly $91,000 in policing costs, a new report indicates.",
+      "published": "2026-10-16T15:01:00.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/3fbf8f87f08472083c9d6282c89be410b292c018782ae093afb2866d1bad6c55_8ec1c8.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T15:40:51.263Z"
+    },
+    {
       "id": "1ff2ea385ff56d5c",
       "guid": "https://globalnews.ca/?p=12105128",
       "link": "https://globalnews.ca/news/12105128/iea-diesel-barrels/",
