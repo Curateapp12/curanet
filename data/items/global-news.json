@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "a7a8ae54503f36c6",
+      "guid": "https://globalnews.ca/?p=12105034",
+      "link": "https://globalnews.ca/news/12105034/oregon-school-shooting-3-children-1-teacher-dead/",
+      "title": "3 children, 1 teacher dead in Oregon elementary school shooting, police say",
+      "excerpt": "The attacker, who police identified as a Bend resident, was shot and went down inside the school shortly after officers arrived, police spokesperson Sheila Miller said.",
+      "published": "2026-10-16T13:30:57.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Oregon-School-Shooting.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T13:48:08.177Z"
+    },
+    {
+      "id": "c3b44284db3d7795",
+      "guid": "https://globalnews.ca/?p=12098433",
+      "link": "https://globalnews.ca/news/12098433/the-ongoing-history-of-new-music-episode-1090-1976-the-birth-year-of-alt-rock-part-2/",
+      "title": "The Ongoing History of New Music, episode 1090: 1976-The birth year of alt-rock, part 2",
+      "excerpt": "Look back, 1976 was a pivotal year in music. Those twelve months birthed what we now call alternative music.",
+      "published": "2026-10-16T13:00:13.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2019/04/ongoing-history-logo.png",
+      "type": "article",
+      "addedAt": "2026-10-16T13:48:08.177Z"
+    },
+    {
+      "id": "61efd8e029fe7a0e",
+      "guid": "https://globalnews.ca/?p=12105018",
+      "link": "https://globalnews.ca/news/12105018/alberta-referendum-what-to-know/",
+      "title": "What Albertans need to know about voting in the referendum",
+      "excerpt": "Get familiar with the ballot questions ahead of time, which are on the Elections Alberta website. Officials say it will help avoid confusion and delays.",
+      "published": "2026-10-16T12:57:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/66448dec2477783b245bd24907a89f6317d195d18d4c2661fb7704f9003f50e2_a43a0b.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T13:48:08.177Z"
+    },
+    {
       "id": "9a478553c8530b8b",
       "guid": "https://globalnews.ca/?p=12105011",
       "link": "https://globalnews.ca/news/12105011/moose-jaw-saskatchewan-final-show/",

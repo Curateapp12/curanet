@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "17da4914c4d09e1b",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno",
+      "title": "'I am telling you the truth' - Carrick on Martinez fallout",
+      "excerpt": "Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.",
+      "published": "2026-10-16T13:36:23.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1307/live/63565910-c961-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T13:48:08.177Z"
+    },
+    {
       "id": "b43a6b8e80eb5c12",
       "guid": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o#1",
       "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o",
@@ -309,6 +320,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png",
       "type": "article",
       "addedAt": "2026-10-16T05:40:06.971Z"
+    },
+    {
+      "id": "dd92baf0bfb3918f",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0032x9b?at_mid=5Ey2ExaRnm&at_campaign=Wildfire_A_Warning_from_the_Midlands_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032x9b&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Wildfire_A_Warning_from_the_Midlands_news_rail&at_bbc_team=BBC&at_creation=News#6",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032x9b?at_audience_id=SS&at_bbc_team=BBC&at_brand=m0032x9b&at_campaign_type=owned&at_creation=News&at_format=image&at_link_title=Wildfire_A_Warning_from_the_Midlands_news_rail&at_mid=5Ey2ExaRnm&at_nation=NET&at_objective=consumption&at_product=iplayer&at_ptr_name=bbc&at_ptr_type=media",
+      "title": "Wildfire: A Warning from the Midlands",
+      "excerpt": "What can we learn from wildfires that destroyed 38 homes in the Midlands in August 2026?",
+      "published": "2026-10-16T05:00:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dec4/live/b6283de0-c89c-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T13:48:08.177Z"
     },
     {
       "id": "1c4a8fae1051287b",
