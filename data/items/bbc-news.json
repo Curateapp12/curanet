@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "53c7c2f4588968f6",
+      "guid": "https://www.bbc.co.uk/news/articles/cwg7x1prldedo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7x1prldedo",
+      "title": "Doctor regrets not going to police earlier about Lucy Letby",
+      "excerpt": "Dr Stephen Brearey was the lead neonatal consultant at the hospital where the nurse worked.",
+      "published": "2026-10-16T08:28:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec38/live/80ede660-a694-11ef-af82-a143be9f8804.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T08:43:44.930Z"
+    },
+    {
+      "id": "9e4a7dfcf5e2f50d",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/cmpwgq52y22zo#8",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cmpwgq52y22zo",
+      "title": "Kartal upsets Svitolina to reach Wuhan semi-finals",
+      "excerpt": "Sonay Kartal's winning streak following a long injury lay-off continues as she seals a hard-fought victory over fifth seed Elina Svitolina in the quarter-finals of the Wuhan Open.",
+      "published": "2026-10-16T08:12:19.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d38a/live/c6ea2ee0-c932-11f1-bcc7-a3638a736ce9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T08:43:44.930Z"
+    },
+    {
+      "id": "3111ab4b24db8ee3",
+      "guid": "https://www.bbc.co.uk/weather/articles/cw0731j8gxd2o#4",
+      "link": "https://www.bbc.co.uk/weather/articles/cw0731j8gxd2o",
+      "title": "Temperatures to drop for weekend as stormy weather could return next week",
+      "excerpt": "A sunnier but chillier weekend is on the way, ahead of some potentially stormy weather next week.",
+      "published": "2026-10-16T07:23:48.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/166a/live/cc310740-c89a-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T08:43:44.930Z"
+    },
+    {
       "id": "c68283049cdd147e",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cmde8l07569no#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmde8l07569no",
@@ -210,6 +243,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ebf/live/9cc98cc0-c8e0-11f1-aed7-153a8dff3c2e.jpg",
       "type": "article",
       "addedAt": "2026-10-16T02:40:49.937Z"
+    },
+    {
+      "id": "9c63cc5368bee9ac",
+      "guid": "https://www.bbc.co.uk/news/articles/cwm243x4my4zo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cwm243x4my4zo",
+      "title": "'Massive challenge' to protect Donaldson from harm in jail",
+      "excerpt": "The former DUP leader was sentenced to 15 years for committing sex abuse, including one of rape, against two women when they were children.",
+      "published": "2026-10-15T23:01:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68d5/live/7ccaf270-c939-11f1-bcc7-a3638a736ce9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T08:43:44.930Z"
     },
     {
       "id": "df9fc6a23eb25d53",
