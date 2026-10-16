@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "0add26dac11c60ad",
+      "guid": "ee3c53d9-388e-4f95-86da-a15cbaf9c3d3",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-vermoegen-deutscher-firmen-staatliche-kontrolle-100.html",
+      "title": "Noch mehr Eigentum westlicher Firmen unter Kreml-Kontrolle",
+      "excerpt": "Unmittelbar vor Wolodymyr Selenskyjs Auftritt beim Europäischen Rat stellt Russland weitere europäische Unternehmen im Land unter staatliche Zwangsverwaltung - darunter einen deutschen Verpackungshersteller.",
+      "published": "2026-10-16T12:38:24.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a6914b41-4c67-4adf-9cd0-2b455a58fa15/AAABoD1ZAWo/AAABnSSvrFg/16x9-big/kreml-220.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T12:51:53.153Z"
+    },
+    {
+      "id": "b71ad8763af9acec",
+      "guid": "41b71ebb-effb-47fb-855b-28c44ab45367",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
+      "title": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
+      "excerpt": "Deutschland und Frankreich haben sich auf die Lockerung des eigentlich beschlossenen Verbrenner-Aus geeinigt. Das lässt die Aktien der Autobauer nach oben springen. Und auch der DAX kann am Mittag zulegen.",
+      "published": "2026-10-16T12:17:39.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f55caa6d-3600-43c0-a969-a94996254d7e/AAABoUQNC4w/AAABnSSvrFg/16x9-big/verkehr-stau-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T12:51:53.153Z"
+    },
+    {
+      "id": "9084e0aace7d2ec5",
+      "guid": "tagesschau_fm-story-rbb_linke-fraktion-sondersitzung-emde-sondierung",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/beratungen-vorstand-linksfraktion-berlin-100.html",
+      "title": "Vorstand der Berliner Linksfraktion trifft sich zu Sondersitzung",
+      "excerpt": "Nach neuen Äußerungen der Berliner Linken-Politikerin Emde schaltet sich der Vorstand der Fraktion heute zu einer Sondersitzung zusammen. Anlass ist ein Instagram-Video, in dem Emde israel-kritische Positionen wiederholt.",
+      "published": "2026-10-16T11:59:27.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/db7a78f1-503e-474b-a06a-2957e5365c85/AAABoUR0msY/AAABnSSvrFg/16x9-big/rbb-vanessa-emde-kommt-zur-fraktionssitzung-der-berliner-linken-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T12:51:53.153Z"
+    },
+    {
       "id": "85b9b8ee1a7fe173",
       "guid": "dc425912-cdc3-42a9-b8ae-1f8d8aaa992c",
       "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-deutschlandtag-112.html",
