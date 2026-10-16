@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "968f8c0d859a47a5",
+      "guid": "37cfdf16-3e13-48d5-8e88-2314060fec7c",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html",
+      "title": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
+      "excerpt": "Immer wieder verletzen sich Jugendliche bei Challenges, die in Sozialen Medien kursieren. Der Bundesrat will Erwachsene bestrafen, die Minderjährige dazu verleiten. Eine Wissenschaftlerin warnt vor Symbolpolitik. Von L. Pfeuffer-Rooschüz.",
+      "published": "2026-10-16T18:42:07.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d9953858-0526-4af7-a09f-328068fc7118/AAABoUYFfyE/AAABnSSvrFg/16x9-big/smartphone-314.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T18:46:06.928Z"
+    },
+    {
+      "id": "6cdb7b6a35c490ef",
+      "guid": "75746388-1394-419e-afeb-0d5464436369",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html",
+      "title": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
+      "excerpt": "Die Gräben zwischen den USA und der Ukraine scheinen immer größer zu werden. Selenskyj wendet sich mit einer Grundsatzfrage an die EU-Staaten - die haben militärische, finanzielle und politische Probleme. Von S. Stuchlik.",
+      "published": "2026-10-16T18:07:15.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/709f2e0f-8243-4132-a52b-e1fc7dd6422e/AAABoUXgTvQ/AAABnSSvrFg/16x9-big/selenskyj-1226.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T18:46:06.928Z"
+    },
+    {
       "id": "791938ca64660e32",
       "guid": "1a17a703-c247-4778-bd10-8a1741da291d",
       "link": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.tagesschau.de/image/ef2364fd-6c61-4ccb-8e49-4d7695c9dafe/AAABoUXAqbY/AAABnSSvrFg/16x9-big/papst-leo-204.jpg?width=1920",
       "type": "article",
       "addedAt": "2026-10-16T17:38:27.251Z"
+    },
+    {
+      "id": "9784432b1c2bcb48",
+      "guid": "tagesschau_fm-story-WDR-5d7e5236-c9af-4766-adf0-5cf3530bc503",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/angriff-auf-ns-dokumentationszentrum-in-koeln-100.html",
+      "title": "Angriff auf NS-Dokumentationszentrum in Köln",
+      "excerpt": "In Köln ist das NS-Dokumentationszentrum mit einer stinkenden Flüssigkeit verunreinigt worden. Die Polizei geht von einem Buttersäure-Angriff aus. Das Haus gilt als Kölns größte Gedenkstätte für Opfer des Nationalsozialismus.",
+      "published": "2026-10-16T17:12:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e249ed55-ff7e-437a-ab8b-dbf3d59d45f1/AAABoUXbToE/AAABnSSvrFg/16x9-big/wdr-nationalsozialismus-dokumentationszentrum-der-stadt-koeln-geschlossen-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T18:46:06.928Z"
     },
     {
       "id": "ac8d2558374f4469",

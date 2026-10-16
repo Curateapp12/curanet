@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "9a9549f8fd47a486",
+      "guid": "https://globalnews.ca/?p=12105395",
+      "link": "https://globalnews.ca/news/12105395/saskatoon-cancer-lodge-home-families/",
+      "title": "Saskatoon cancer lodge to offer temporary ‘home’ for patients and families",
+      "excerpt": "The governments of Canada and Saskatchewan are spending around $7 million each to build a new cancer lodge in Saskatoon. It is expected to be ready to house patients in 2028.",
+      "published": "2026-10-16T18:29:40.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/sask-cancer-lodge-funding.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T18:46:06.928Z"
+    },
+    {
+      "id": "bca1a4e85e468471",
+      "guid": "https://globalnews.ca/?p=12105479&preview=true&preview_id=12105479",
+      "link": "https://globalnews.ca/news/12105479/alberta-referendum-pierre-poilievre-friday/",
+      "title": "Pierre Poilievre urges Albertans not to ‘quit’ on Canada ahead of separation vote",
+      "excerpt": "Conservative Leader Pierre Poilievre says he understands the disillusionment with the state of affairs in Canada, but quitting is the easy way out and Albertans are not quitters.",
+      "published": "2026-10-16T18:27:58.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/4fa8944cfe973fef9da5e69ab92d290704e3855f1d8e0157aa5651f4381a3797.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T18:46:06.928Z"
+    },
+    {
+      "id": "a36cd5196b549cd7",
+      "guid": "https://globalnews.ca/?p=12105448",
+      "link": "https://globalnews.ca/news/12105448/burnaby-man-sentenced-cross-canada-sextortion/",
+      "title": "Burnaby man receives 3.5 years in jail for cross-Canada sextortion",
+      "excerpt": "Crown and defence counsel said the online communications Anwer Jelassi had with the teen girls he demanded money from were “insulting, demeaning and hostile.”",
+      "published": "2026-10-16T18:11:14.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/5P-ANWER-JELASSI-IN-COU_OM022IZR.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T18:46:06.928Z"
+    },
+    {
+      "id": "f6f086a44206fc00",
+      "guid": "https://globalnews.ca/?p=12105305",
+      "link": "https://globalnews.ca/news/12105305/jon-gosselin-speaks-out-support-son-collin-amid-allegations-against-kate-gosselin/",
+      "title": "Jon Gosselin speaks out to support son Collin amid allegations against Kate",
+      "excerpt": "Collin Gosselin recently released his memoir and spoke about what he alleged took place behind the scenes of the popular reality TV show, 'Jon and Kate Plus 8.'",
+      "published": "2026-10-16T18:08:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/jon-gosselin-collin-gosselin-kate-plus-8.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T18:46:06.928Z"
+    },
+    {
+      "id": "974b7fe491be8ffb",
+      "guid": "https://globalnews.ca/?p=12105452",
+      "link": "https://globalnews.ca/news/12105452/stelco-legal-challenge-timeline/",
+      "title": "Stelco layoff legal challenge timeline is in ‘days,’ Joly says",
+      "excerpt": "Approximately 90 workers received notices last week, and the first layoffs took effect Sunday, the president of United Steelworkers local 1005 previously told Global News.",
+      "published": "2026-10-16T18:05:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Stelco-Joly-timeline.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T18:46:06.928Z"
+    },
+    {
+      "id": "485f194167205e6e",
+      "guid": "https://globalnews.ca/?p=12105431",
+      "link": "https://globalnews.ca/news/12105431/hitachi-announces-479m-plan-to-build-transformer-insulation-factory-in-london-ont/",
+      "title": "Hitachi announces $479M plan to build transformer insulation factory in London, Ont.",
+      "excerpt": "The 21,000-square-metre facility would be the first in Canada to produce pressboard — a material made from paper pulp that's key to keeping transformers cool.",
+      "published": "2026-10-16T17:50:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/05372fbb5c66ca3169f4ea9e9daa633bf75499a5a1b5ba0218c08beb8190054c_873c3a.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T18:46:06.928Z"
+    },
+    {
+      "id": "e3d3de125688b9c3",
+      "guid": "https://globalnews.ca/?p=12104840",
+      "link": "https://globalnews.ca/news/12104840/court-documents-show-fsin-knew-isc-audit-decision-months-before-informing-members/",
+      "title": "Court documents show FSIN knew ISC audit decision months before informing members",
+      "excerpt": "Documents show the FSIN applied for a judicial review in August, alleging procedural unfairness following ISC’s decision that the organization owes $12.4 million.",
+      "published": "2026-10-16T17:44:42.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/05/FSIN-logo.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T18:46:06.928Z"
+    },
+    {
       "id": "e43bc9074a9c65b6",
       "guid": "https://globalnews.ca/?p=12105393",
       "link": "https://globalnews.ca/news/12105393/jonathan-black-branch-extradition-hearing/",
