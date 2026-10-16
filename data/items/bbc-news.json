@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "ba00d5971f36b319",
+      "guid": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo",
+      "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+      "excerpt": "The suspect was shot dead by a local community member who followed him into the school, said police.",
+      "published": "2026-10-16T02:32:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc6/live/40d818d0-c8f6-11f1-977f-01c60c7120c0.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T02:40:49.937Z"
+    },
+    {
+      "id": "c6a9fe227d18776d",
+      "guid": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o#2",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o",
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "excerpt": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "published": "2026-10-16T01:36:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d2/live/c1615dd0-c901-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T02:40:49.937Z"
+    },
+    {
       "id": "48d0b725503a4f92",
       "guid": "https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o#2",
       "link": "https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o",
@@ -100,6 +122,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e93/live/d56cced0-b75f-11f1-8e7f-6f99c81f3136.jpg",
       "type": "article",
       "addedAt": "2026-10-16T01:39:22.655Z"
+    },
+    {
+      "id": "99d786afcfbcf755",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo",
+      "title": "O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test",
+      "excerpt": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.",
+      "published": "2026-10-15T23:04:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ebf/live/9cc98cc0-c8e0-11f1-aed7-153a8dff3c2e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T02:40:49.937Z"
     },
     {
       "id": "df9fc6a23eb25d53",

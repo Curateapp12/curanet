@@ -3,6 +3,72 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "0b8534d017d76375",
+      "guid": "https://globalnews.ca/news/12104750/raptors-fall-short-against-knicks-in-pre-season/",
+      "link": "https://globalnews.ca/news/12104750/raptors-fall-short-against-knicks-in-pre-season/",
+      "title": "Raptors fall short against Knicks in pre-season",
+      "excerpt": "Scottie Barnes led the way with 23 points, Canadian RJ Barrett had 21 but the Toronto Raptors narrowly lost 122-120 to the New York Knicks on Thursday in NBA pre-season action.",
+      "published": "2026-10-16T02:37:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/be515cbbb72b095d2fdaec89b7548c608d0cd9e0de49e2078c4c747cc6cc70b1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T02:40:49.937Z"
+    },
+    {
+      "id": "c0c64ff4ac9d5372",
+      "guid": "https://globalnews.ca/?p=12104723",
+      "link": "https://globalnews.ca/news/12104723/recipe-baan-laos-chor-chompoo-thai-flower-dumplings/",
+      "title": "Recipe: Baan Lao’s Chor Chompoo (Thai Flower Dumplings)",
+      "excerpt": "Delicate, pale pink steamed dumplings with a sweet and savoury chicken, preserved radish and peanut filling. Use the recipe to make them at home!",
+      "published": "2026-10-16T02:22:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/14e0563dc43ac56dfde1b79969bc89f32105b111c6ce905a084ced71102b59db.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T02:40:49.937Z"
+    },
+    {
+      "id": "ec28117e38b27aea",
+      "guid": "https://globalnews.ca/news/12104724/pintos-shootout-winner-lifts-sens-past-isles-2-1/",
+      "link": "https://globalnews.ca/news/12104724/pintos-shootout-winner-lifts-sens-past-isles-2-1/",
+      "title": "Pinto’s shootout winner lifts Sens past Isles 2-1",
+      "excerpt": "Shane Pinto's shootout winner lifted the Ottawa Senators to a 2-1 win over the New York Islanders on Thursday night.",
+      "published": "2026-10-16T02:11:40.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/74e4abdd7794dae6bf36f551f3fc5f9ea7836ef7dc88cf7e86f4f339aa98ff35.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T02:40:49.937Z"
+    },
+    {
+      "id": "94eca47c4d987f1a",
+      "guid": "https://globalnews.ca/?p=12104462",
+      "link": "https://globalnews.ca/news/12104462/surrey-car-thief-receives-lighter-sentence-takedown-arrest/",
+      "title": "Surrey man receives lighter sentence due to nature of his takedown and arrest",
+      "excerpt": "On Aug. 21, surveillance video in Surrey captured a man in a Jeep being arrested around 7 p.m. at Whalley Boulevard and 100 Avenue.",
+      "published": "2026-10-16T02:11:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2018/03/getty-images-stock-jail-cell-bars-e1527288982981.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T02:40:49.937Z"
+    },
+    {
+      "id": "f44a25a4933493cf",
+      "guid": "https://globalnews.ca/?p=12104660",
+      "link": "https://globalnews.ca/news/12104660/vancouver-police-school-board-investigating-disturbing-online-behaviour/",
+      "title": "Vancouver police, school board investigating ‘disturbing online behaviour’",
+      "excerpt": "Global News has learned that there was talk among students last week that some male Grade 12 students had created AI content of female students.",
+      "published": "2026-10-16T02:07:08.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/6P-VANCOUVER-STUDENTS-A_OM022KTP.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T02:40:49.937Z"
+    },
+    {
+      "id": "a946808fa5dc5b59",
+      "guid": "https://globalnews.ca/news/12104709/power-scores-in-ot-as-sabres-rally-past-leafs/",
+      "link": "https://globalnews.ca/news/12104709/power-scores-in-ot-as-sabres-rally-past-leafs/",
+      "title": "Power scores in OT as Sabres rally past Leafs",
+      "excerpt": "Owen Power had the overtime winner as the Buffalo Sabres reeled off three unanswered goals to rally past the Toronto Maple Leafs 5-4 on Thursday.",
+      "published": "2026-10-16T02:07:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/4345c5cf2e05c6d86ffd5349a91ee52dbec3d8d7df46cd59e642c84277218cf8.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T02:40:49.937Z"
+    },
+    {
       "id": "ffcbe90ad912d23e",
       "guid": "http://globalnews.ca/?p=1148831",
       "link": "https://globalnews.ca/news/1148831/watch-global-national/",
@@ -12,6 +78,17 @@
       "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/261014-GN.jpg?quality=65&strip=all",
       "type": "article",
       "addedAt": "2026-10-16T01:39:22.655Z"
+    },
+    {
+      "id": "c4baa42219f23aa8",
+      "guid": "https://globalnews.ca/?p=12104574",
+      "link": "https://globalnews.ca/news/12104574/parti-quebecois-mnas-sworn-in/",
+      "title": "Parti Québécois MNAs sworn in as party prepares to form minority government",
+      "excerpt": "The ceremony marked the first time a governing party did not swear an oath to the monarchy, premier-designate Paul St-Pierre Plamondon said.",
+      "published": "2026-10-16T01:03:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP177095741.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T02:40:49.937Z"
     },
     {
       "id": "0c3d99391988c102",
