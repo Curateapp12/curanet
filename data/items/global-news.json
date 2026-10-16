@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "8f3f6f8c8e9441f0",
+      "guid": "https://globalnews.ca/?p=12105445",
+      "link": "https://globalnews.ca/news/12105445/alberta-pipe-trades-college-shooting/",
+      "title": "Police scenes in west Edmonton, Parkland County after deadly college shooting",
+      "excerpt": "Edmonton police are investigating a deadly shooting at a trades college in the city’s northwest end that may also linked to a RCMP scene in Parkland County.",
+      "published": "2026-10-16T19:36:01.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/AB-PIPE-TRADES-COLLEGE-SHOOTING.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T19:39:16.389Z"
+    },
+    {
+      "id": "fda4321a6d70a2ec",
+      "guid": "https://globalnews.ca/?p=12105621",
+      "link": "https://globalnews.ca/news/12105621/environment-canada-issues-overnight-frost-advisory-for-toronto/",
+      "title": "Environment Canada issues overnight frost advisory for Toronto",
+      "excerpt": "The agency issued a yellow warning Friday morning and said “freezing temperatures are expected tonight into Saturday morning.”",
+      "published": "2026-10-16T19:28:37.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2013/05/157638466-e1432333084582.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T19:39:16.389Z"
+    },
+    {
+      "id": "1edccc7a8eb388c1",
+      "guid": "https://globalnews.ca/?p=12105511",
+      "link": "https://globalnews.ca/news/12105511/mary-carole-mcdonnell-added-fbi-most-wanted-fraudsters-list-reward/",
+      "title": "FBI offers $150K reward for arrest of 75-year-old woman wanted in $30M scam",
+      "excerpt": "Mary Carole McDonnell is accused of defrauding nearly $30 million from banks and other financial institutions in a year-long scheme while posing as a fake heiress.",
+      "published": "2026-10-16T19:24:53.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/12/mary-carole-mcdonnell-fraud-fbi.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T19:39:16.389Z"
+    },
+    {
+      "id": "1244bb4c01984416",
+      "guid": "https://globalnews.ca/?p=12105591&preview=true&preview_id=12105591",
+      "link": "https://globalnews.ca/news/12105591/alberta-referendum-mark-carney-danielle-smith/",
+      "title": "Carney and Smith link up to pitch pro-Canada vote ahead of Alberta referendum",
+      "excerpt": "Prime Minister Mark Carney, standing with Alberta's premier and other politicians, channelled author Charles Dickens in saying the referendum comes at the best and worst of times.",
+      "published": "2026-10-16T19:13:30.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/0e2087c46891601df8b2d13e72918ce3b073fb88e6d85a0376cd1d1f199a467f.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T19:39:16.389Z"
+    },
+    {
+      "id": "b81619914644c8a1",
+      "guid": "https://globalnews.ca/?p=12105506",
+      "link": "https://globalnews.ca/news/12105506/bc-ndp-invest-involuntary-care-beds-okanagan-correctional-centre-oliver/",
+      "title": "BC NDP to invest in involuntary care beds at Okanagan Correctional Centre in Oliver",
+      "excerpt": "The BC NDP pledged to expand voluntary treatment across the province and stated that 35 Foundry centres are open or on the way, including in Kelowna, Penticton and Vernon.",
+      "published": "2026-10-16T19:09:29.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2019/08/okanagan-correctional-centre-1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T19:39:16.389Z"
+    },
+    {
+      "id": "1b70561537b80a54",
+      "guid": "https://globalnews.ca/?p=12105466",
+      "link": "https://globalnews.ca/news/12105466/experts-warn-of-peptide-risks/",
+      "title": "As U.S. shifts peptide rules, these are the risks experts want you to know",
+      "excerpt": "As peptides are pushed by self-prescribed 'wellness influencers,' experts weigh in on their targeted uses, consequences of misuse, and how they became a social media trend.",
+      "published": "2026-10-16T19:09:17.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Peptides_536d60.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T19:39:16.389Z"
+    },
+    {
+      "id": "a9937703014c182e",
+      "guid": "https://globalnews.ca/?p=12105537",
+      "link": "https://globalnews.ca/news/12105537/winnipeg-police-people-of-interest-arson/",
+      "title": "Winnipeg police seek 2 people of interest in relation to suspected arson",
+      "excerpt": "Police in Winnipeg are looking for two people considered persons of interest in connection with a house fire in North Point Douglas.",
+      "published": "2026-10-16T19:03:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/arson-housefire-winnipeg-.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T19:39:16.389Z"
+    },
+    {
       "id": "9a9549f8fd47a486",
       "guid": "https://globalnews.ca/?p=12105395",
       "link": "https://globalnews.ca/news/12105395/saskatoon-cancer-lodge-home-families/",
