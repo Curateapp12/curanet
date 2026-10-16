@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "61460a804d161951",
+      "guid": "https://ici.radio-canada.ca/sports/2293251/planche-roulettes-diego-poncelet-record-vitesse-eboulements",
+      "link": "https://ici.radio-canada.ca/sports/2293251/planche-roulettes-diego-poncelet-record-vitesse-eboulements",
+      "title": "Un record à 151,83 km/h en planche à roulettes sur une route du Québec",
+      "excerpt": "Diego Poncelet a réussi cet exploit aux Éboulements. Il préparait ce projet depuis quatre ans.",
+      "published": "2026-10-16T20:34:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/diego-poncelet.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T20:40:59.496Z"
+    },
+    {
+      "id": "42393c45442bf704",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10786097/deux-jumelles-francophones-dansent-pour-raptors",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10786097/deux-jumelles-francophones-dansent-pour-raptors",
+      "title": "Deux jumelles francophones dansent pour les Raptors",
+      "excerpt": "Brandy et Branda sont originaires de Montréal. Elles sont venues à Toronto pour danser pour les Raptors. Voici les coulisses de leur quotidien.",
+      "published": "2026-10-16T20:17:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/basket-raptors-danseuse.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-16T20:40:59.496Z"
+    },
+    {
+      "id": "f28400c1cfa12502",
+      "guid": "https://ici.radio-canada.ca/ohdio/balados/6104/tellement-hockey-martin-leclerc-alexandre-coupal-gascon/1281788/le-canadien-en-quete-de-sa-superbe",
+      "link": "https://ici.radio-canada.ca/ohdio/balados/6104/tellement-hockey-martin-leclerc-alexandre-coupal-gascon/1281788/le-canadien-en-quete-de-sa-superbe",
+      "title": "Le Canadien en quête de sa superbe",
+      "excerpt": "Malgré de grands efforts et une responsabilité défensive retrouvée, les Glorieux n’obtiennent pas encore de résultats spectaculaires. L’effervescence qui avait caractérisé la jeune équipe au cours des dernières années manque à l’appel. Il faut dire que le début de saison timide de son gardien…",
+      "published": "2026-10-16T19:50:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/tellement-hockey-balado-jakub-dobes.png",
+      "type": "article",
+      "addedAt": "2026-10-16T20:40:59.496Z"
+    },
+    {
+      "id": "3895b56e93ed2cfb",
+      "guid": "https://ici.radio-canada.ca/sports/2293341/premier-trio-quete-etincelle-suzuki-caufield-slafkovsky-canadien-montreal",
+      "link": "https://ici.radio-canada.ca/sports/2293341/premier-trio-quete-etincelle-suzuki-caufield-slafkovsky-canadien-montreal",
+      "title": "Le premier trio du Canadien en quête d’une étincelle",
+      "excerpt": "En dépit de statistiques décentes, cette unité n'a pas son panache habituel.",
+      "published": "2026-10-16T19:49:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/caufield-suzuki.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T20:40:59.496Z"
+    },
+    {
       "id": "821a166596b829f1",
       "guid": "https://ici.radio-canada.ca/sports/2293247/taylor-ruck-or-200m-dos-coupe-monde-astana-natation",
       "link": "https://ici.radio-canada.ca/sports/2293247/taylor-ruck-or-200m-dos-coupe-monde-astana-natation",
