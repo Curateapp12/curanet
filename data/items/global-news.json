@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "f6c59ffebb25ac2d",
+      "guid": "https://globalnews.ca/?p=12105879",
+      "link": "https://globalnews.ca/news/12105879/support-for-federal-ivf-program/",
+      "title": "A federal IVF program will harmonize ‘patchwork’ approach, experts say",
+      "excerpt": "Data collected by Ipsos for Fertility Matters Canada (FMC) found that 46 per cent of Canadians with an opinion on it support the proposed federal IVF funding program.",
+      "published": "2026-10-16T21:37:09.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/ivf-e1792185216100.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T21:39:31.580Z"
+    },
+    {
+      "id": "23a5739d61b4e2cc",
+      "guid": "https://globalnews.ca/?p=12105866",
+      "link": "https://globalnews.ca/news/12105866/calgary-fatal-bus-crash-investigation/",
+      "title": "Cause of fiery Calgary bus crash that killed 3 passengers, injured 16 under investigation",
+      "excerpt": "Calgary police are working to determine the cause of a fiery city bus crash that killed three passengers and injured 16 others, including a police officer who helped save a child.",
+      "published": "2026-10-16T21:31:00.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/82887dc42fd89841efb58d4cb4409750bb5f5cf567481c9e3542fefd142abef9_4594b6.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T21:39:31.580Z"
+    },
+    {
+      "id": "3225d691c499b982",
+      "guid": "https://globalnews.ca/?p=12105675",
+      "link": "https://globalnews.ca/news/12105675/vancouver-police-stranger-assaults-1-day/",
+      "title": "Vancouver police say 3 unprovoked stranger assaults took place in 1 day",
+      "excerpt": "Vancouver police are asking the public to help them identify suspects in three unprovoked stranger assaults that occurred across the city in one day.",
+      "published": "2026-10-16T21:12:09.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/a52cf0194d123ca03f2786a4adec0d5476276126a55d37c0d77817353bec5556_22441d.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T21:39:31.580Z"
+    },
+    {
+      "id": "d8905596b02d5a93",
+      "guid": "https://globalnews.ca/?p=12103785",
+      "link": "https://globalnews.ca/news/12103785/saskatchewan-sheep-farming/",
+      "title": "Behind the business of Saskatchewan sheep farming",
+      "excerpt": "Sheep farming, while a smaller agricultural sector in Saskatchewan, is growing to meet national demand.",
+      "published": "2026-10-16T21:04:04.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/the-sheep.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T21:39:31.580Z"
+    },
+    {
+      "id": "e8fbc8ba163517db",
+      "guid": "https://globalnews.ca/?p=12105776",
+      "link": "https://globalnews.ca/news/12105776/teenager-charged-alleged-killing-boy-winnipeg/",
+      "title": "16-year-old accused by Winnipeg police of murdering 15-year-old boy",
+      "excerpt": "Winnipeg police said a teenager has been charged with second-degree murder in connection with the shooting death of a 15-year-old boy on Oct. 10.",
+      "published": "2026-10-16T21:00:07.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/teen-homicide-winnipeg.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T21:39:31.580Z"
+    },
+    {
+      "id": "3e92f46ae409bb87",
+      "guid": "https://globalnews.ca/?p=12105753",
+      "link": "https://globalnews.ca/news/12105753/nackawic-mill-shutdown-unifor/",
+      "title": "Nackawic mill workers and union push for government action as shutdown looms",
+      "excerpt": "The Nackawic mill is set to temporarily idle on Nov. 4. The company attributed the decision to \"prevailing market conditions\" and other challenges.",
+      "published": "2026-10-16T20:51:04.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/nackawic-rally.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T21:39:31.580Z"
+    },
+    {
+      "id": "d6ba580f5ca2e2fb",
+      "guid": "https://globalnews.ca/?p=12105760",
+      "link": "https://globalnews.ca/news/12105760/police-identify-suspect-van-after-caregiver-60-left-to-die-on-side-of-road-in-vaughan/",
+      "title": "Police identify suspect van after caregiver, 60, left to die on side of road in Vaughan",
+      "excerpt": "The woman from Richmond Hill was travelling to her job as a live-in caregiver when she was hit. Her body laid on the side of the road for two days before a passerby spotted it.",
+      "published": "2026-10-16T20:50:07.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/van-hit-and-run.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T21:39:31.580Z"
+    },
+    {
       "id": "b90e1e0756f8ccf6",
       "guid": "https://globalnews.ca/?p=12105812",
       "link": "https://globalnews.ca/news/12105812/toronto-18-ringleader-no-longer-shows-signs-of-extremism-granted-full-parole-board/",
