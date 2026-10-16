@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "48d0b725503a4f92",
+      "guid": "https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o",
+      "title": "'We got penalised for saying 'pregnancy' on Instagram'",
+      "excerpt": "Creators say women's health content is getting them shadowbanned on social media. So what's really happening?",
+      "published": "2026-10-16T00:53:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a53c/live/281e7410-c315-11f1-8f04-85217d686658.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T01:39:22.655Z"
+    },
+    {
+      "id": "d8fe504bfcf0d4b6",
+      "guid": "https://www.bbc.co.uk/news/articles/cr86zjee80p9o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cr86zjee80p9o",
+      "title": "Your child wasn't invited to the party - here's how to handle the disappointment",
+      "excerpt": "This very common scenario can be sad for little ones but there are ways you can help them.",
+      "published": "2026-10-16T00:46:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a00/live/c61e3c60-c7be-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T01:39:22.655Z"
+    },
+    {
       "id": "f464d3e13c4afdd3",
       "guid": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo#1",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo",
@@ -67,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d9/live/2e460170-c8bd-11f1-a64c-550be9e3c66b.jpg",
       "type": "article",
       "addedAt": "2026-10-16T00:50:00.372Z"
+    },
+    {
+      "id": "192ce683c8f7d533",
+      "guid": "https://www.bbc.co.uk/news/articles/c36lk280kd1o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o",
+      "title": "I find it quite demoralising in store - why I do all my shopping online",
+      "excerpt": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+      "published": "2026-10-15T23:16:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e93/live/d56cced0-b75f-11f1-8e7f-6f99c81f3136.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T01:39:22.655Z"
     },
     {
       "id": "df9fc6a23eb25d53",
@@ -166,6 +199,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89af/live/f4ecd4f0-c8ba-11f1-bdfb-e3788aeae9ec.jpg",
       "type": "article",
       "addedAt": "2026-10-15T18:48:54.791Z"
+    },
+    {
+      "id": "251723b42982c5de",
+      "guid": "https://www.bbc.co.uk/news/articles/c3gr85dl78y4o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c3gr85dl78y4o",
+      "title": "Weekly quiz: Which star is lending his voice to Gromit?",
+      "excerpt": "How much attention did you pay to what happened in the world over the past seven days?",
+      "published": "2026-10-15T17:52:33.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12b5/live/106518a0-c8b6-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T01:39:22.655Z"
     },
     {
       "id": "3ea27ff967cc6b57",
