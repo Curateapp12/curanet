@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "2ad2729e9b93c83b",
+      "guid": "31d298e11df23d4b9f4bc85323fbe9b6",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-16/travaux-d-urgence/que-faut-il-faire-du-pont-honore-mercier.php",
+      "title": "Travaux d’urgence | Que faut-il faire du pont Honoré-Mercier ?",
+      "excerpt": "Il fait l’objet de rénovations depuis des années, mais le pont Honoré-Mercier est tout de même en piteux état, au point où il fera l’objet de travaux d’urgence ce week-end après la fermeture d’une voie. Comment expliquer sa dégradation ? Et à quoi faut-il s’attendre d’ici à son remplacement ? La…",
+      "published": "2026-10-16T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/65b6bebca0353b69b92ea67e8d79a7ca.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T09:40:50.164Z"
+    },
+    {
+      "id": "789cc7fcb00d5ff2",
+      "guid": "6bbb925a1ee035bb80fab8fc1c403756",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-16/baisse-d-impot-aux-pme/casse-tete-a-venir.php",
+      "title": "Baisse d’impôt aux PME | Casse-tête à venir",
+      "excerpt": "C’est la promesse économique phare du Parti québécois : réduire l’impôt des PME. La mission s’annonce périlleuse, car le plan pour la financer reste encore imprécis, voire brumeux.",
+      "published": "2026-10-16T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/14ee1466a0f039abaa3160308e9d1a65.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T09:40:50.164Z"
+    },
+    {
+      "id": "ae6aa1021ca80be1",
+      "guid": "fe3adb10c2903c2790b9ee6c4023277f",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-16/politique/troll-et-depute-ce-n-est-pas-la-meme-chose.php",
+      "title": "Politique | Troll et député, ce n’est pas la même chose",
+      "excerpt": "C’est une belle fonction, député. Noble, lorsqu’elle est pratiquée à son plus haut niveau. Je le dis sans cynisme.",
+      "published": "2026-10-16T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/aefed4b2318e333a80e109da33cd7e1f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T09:40:50.164Z"
+    },
+    {
+      "id": "b3a34c2e86fb9e6a",
+      "guid": "de25320a2b3f3a40974b7af048657acf",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-16/cartierville/des-citoyens-font-derailler-un-projet-de-maison-de-retraite.php",
+      "title": "Cartierville | Des citoyens font dérailler un projet de maison de retraite",
+      "excerpt": "Des résidants de Cartierville viennent de faire dérailler la transformation d’un monastère désaffecté en maison de retraite, de crainte de voir la circulation automobile augmenter dans leur quartier.",
+      "published": "2026-10-16T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/d926352113963189bd846e69ebb59d74.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T09:40:50.164Z"
+    },
+    {
+      "id": "f7b2cd181797ed1c",
+      "guid": "8259e65bf17d376f99252814007a6954",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-16/centre-ville-de-montreal/un-policier-suspendu-pour-avoir-urine-sur-un-sans-abri.php",
+      "title": "Centre-ville de Montréal | Un policier suspendu pour avoir uriné sur un sans-abri",
+      "excerpt": "Des allégations de comportements humiliants ont mené à deux suspensions dans un même poste de police du centre-ville de Montréal au cours des dernières semaines. Les deux affaires distinctes auraient eu lieu au poste de quartier 21, aux premières loges de la crise de l’itinérance. Et dans l’un des…",
+      "published": "2026-10-16T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0510c86cbd2b340c9ff3ed9de8190d8e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T09:40:50.164Z"
+    },
+    {
       "id": "f857cababef7062e",
       "guid": "c888c7a02c9138e19105134b516ccb6a",
       "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-15/itinerance/l-arrivee-d-une-halte-chaleur-pres-d-un-cpe-suscite-l-inquietude.php",
