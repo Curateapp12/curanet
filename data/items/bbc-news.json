@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "22a9bffb9b5318fe",
+      "guid": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo",
+      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+      "excerpt": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
+      "published": "2026-10-16T11:40:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0345/live/69e10530-c94f-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T11:41:21.773Z"
+    },
+    {
+      "id": "6233f1f79750ec24",
+      "guid": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go",
+      "title": "Minister warns people to save water amid drought",
+      "excerpt": "Severe drought was declared across parts of southern England after months of low rainfall.",
+      "published": "2026-10-16T11:37:42.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ff1/live/8afea9d0-c953-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T11:41:21.773Z"
+    },
+    {
+      "id": "0a12b9727e883376",
+      "guid": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo",
+      "title": "Norwegian teen 'hitman' detained for UK murder plot",
+      "excerpt": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
+      "published": "2026-10-16T11:31:19.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fff3/live/4dce39c0-c955-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T11:41:21.773Z"
+    },
+    {
+      "id": "0decf08fa779e5d4",
+      "guid": "https://www.bbc.co.uk/news/articles/ck8dz6m1d2n6o#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck8dz6m1d2n6o",
+      "title": "Sex was 'huge preoccupation for Russell Brand', ex-flatmate tells trial",
+      "excerpt": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault, which he denies.",
+      "published": "2026-10-16T10:59:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f6b/live/30927a50-c93d-11f1-8c38-abe947e72d6d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T11:41:21.773Z"
+    },
+    {
       "id": "5ebeb7db0115ac26",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o#8",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o",
@@ -12,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c5f/live/7e362f50-c946-11f1-94af-5f148d758fe7.jpg",
       "type": "article",
       "addedAt": "2026-10-16T10:41:58.485Z"
+    },
+    {
+      "id": "907cfc16360e2913",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c615jw414vypo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c615jw414vypo",
+      "title": "'Not about me' - Arbeloa dismisses future questions",
+      "excerpt": "Fulham head coach Alvaro Arbeloa says the focus should not be on him as his side searches for a first Premier League win this season against Hull City this weekend.",
+      "published": "2026-10-16T10:24:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa5/live/e831b9f0-c947-11f1-8566-4db41fa77717.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T11:41:21.773Z"
     },
     {
       "id": "b9ac95776d6803ec",
@@ -166,6 +221,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cf5/live/da01e790-c7d7-11f1-a64c-550be9e3c66b.jpg",
       "type": "article",
       "addedAt": "2026-10-16T06:51:17.675Z"
+    },
+    {
+      "id": "4c291c49e1f10ef4",
+      "guid": "https://www.bbc.co.uk/news/articles/cw1m49yve2n4o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m49yve2n4o",
+      "title": "The hero dinner lady who died saving five children in the Aberfan disaster",
+      "excerpt": "As coal slurry engulfed the school, the dinner lady threw her body on five children, protecting them.",
+      "published": "2026-10-16T05:11:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a6/live/3d38c310-c8d7-11f1-874f-2bba45330ab3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T11:41:21.773Z"
     },
     {
       "id": "88109918c3c6fd37",

@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "85b9b8ee1a7fe173",
+      "guid": "dc425912-cdc3-42a9-b8ae-1f8d8aaa992c",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-deutschlandtag-112.html",
+      "title": "\"Deutschlandtag\" der Jungen Union - der Parteinachwuchs als Antreiber",
+      "excerpt": "Die Umfragewerte im Keller, die Stimmung auch: In der Koalition kriselt es. Beim \"Deutschlandtag\" der Jungen Union in Bonn will der Parteinachwuchs nun neue Impulse für die Union setzen. Von Dagmar Pepping.",
+      "published": "2026-10-16T11:28:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c8dc871e-86d7-4307-b791-e26af85b4fb6/AAABmoMLMv0/AAABnSSvrFg/16x9-big/merz-1090.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T11:41:21.773Z"
+    },
+    {
+      "id": "c26c96af1b8a8a09",
+      "guid": "7460f07b-68b5-4f48-bfc8-33db402eb81c",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/etf-geldanlage-kosten-risiken-100.html",
+      "title": "Wie Anleger bei ETFs den Überblick behalten",
+      "excerpt": "Einfach, günstig, transparent: Damit haben ETFs Millionen Anleger überzeugt. Doch die Branche bringt immer kompliziertere Produkte auf den Markt - oft mit höheren Gebühren und zusätzlichen Risiken. Von Angela Göpfert.",
+      "published": "2026-10-16T11:25:34.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c4a7e8af-2b32-4821-a3a0-58a908a0c733/AAABoTp2-os/AAABnSSvrFg/16x9-big/online-trading-112.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T11:41:21.773Z"
+    },
+    {
+      "id": "a5b01478a876977c",
+      "guid": "e1acf2b1-d2aa-4265-a505-57109cf95171",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gerichtsentscheidung-wiesn-zelte-100.html",
+      "title": "Vergabe der Wiesn-Zelte laut Gerichtsbeschluss rechtmäßig",
+      "excerpt": "Monatelang wurde darüber gestritten, wie die lukrativen Wiesn-Festzelte vergeben werden - und ob dabei nicht europäisches Recht angewendet werden müsste. Nun gab es die finale Entscheidung.",
+      "published": "2026-10-16T11:23:56.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/21518b14-f443-4d3d-adf6-53b2ba0df448/AAABoURpCz8/AAABnSSvrFg/16x9-big/oktoberfest-458.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T11:41:21.773Z"
+    },
+    {
+      "id": "68886821e36deb2e",
+      "guid": "66f4fe28-5f48-4dbf-9b96-3490cb34e4f5",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecherin-zacharia-100.html",
+      "title": "Zweifel an Qualifikation: Trumps Sprecherin bei Prüfung durchgefallen",
+      "excerpt": "Nur wenige Tage nach ihrem Start als neue Sprecherin des Weißen Hauses macht Katie Zacharia bereits selbst Schlagzeilen. Ist sie nun Anwältin oder nicht? Auch wirre Sätze und Versprecher sorgen für Irritationen.",
+      "published": "2026-10-16T11:12:24.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ed66b652-4ba6-4d92-b5f7-047a9602f5e4/AAABoURpwik/AAABnSSvrFg/16x9-big/zacharia-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T11:41:21.773Z"
+    },
+    {
       "id": "89de253baeb802f8",
       "guid": "90dcc4ee-4712-40b6-bba9-c5077caacb46",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ueberblick-tabaksteuer-100.html",
