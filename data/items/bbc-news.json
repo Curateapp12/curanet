@@ -3,6 +3,83 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "f464d3e13c4afdd3",
+      "guid": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo",
+      "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+      "excerpt": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+      "published": "2026-10-16T00:34:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b2/live/3a5050b0-c8f9-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T00:50:00.372Z"
+    },
+    {
+      "id": "c4025b8c0efac848",
+      "guid": "https://www.bbc.co.uk/news/articles/c6vg0dx2y1j5o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg0dx2y1j5o",
+      "title": "The Papers: Healey's 'tax raid on banks' and Brand 'topless monster'",
+      "excerpt": "The chancellor's possible plan to tax banks and new evidence in Russell Brand's rape trial dominate Friday's papers.",
+      "published": "2026-10-16T00:16:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3413/live/6a8ebee0-c8e2-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T00:50:00.372Z"
+    },
+    {
+      "id": "c8298113323d1a11",
+      "guid": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko",
+      "title": "Reform faces questions over candidate vetting after undercover filming",
+      "excerpt": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
+      "published": "2026-10-15T23:52:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e86/live/5f42b8f0-c8da-11f1-874f-2bba45330ab3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T00:50:00.372Z"
+    },
+    {
+      "id": "ddf129e9f163f13c",
+      "guid": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo",
+      "title": "India's 'cockroach' protesters set to return despite police crackdown",
+      "excerpt": "The youth-led movement plans a fresh Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "published": "2026-10-15T23:30:29.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009d/live/ca8ca810-c884-11f1-a2e8-f71844f8002e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T00:50:00.372Z"
+    },
+    {
+      "id": "964731d5d0129819",
+      "guid": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro",
+      "title": "Porn showing choking or incest to be banned from early November, government says",
+      "excerpt": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+      "published": "2026-10-15T23:27:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee76/live/db556ac0-c8b5-11f1-bdfb-e3788aeae9ec.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T00:50:00.372Z"
+    },
+    {
+      "id": "262c71bb7dd109d3",
+      "guid": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o",
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "excerpt": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+      "published": "2026-10-15T23:25:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d9/live/2e460170-c8bd-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T00:50:00.372Z"
+    },
+    {
+      "id": "df9fc6a23eb25d53",
+      "guid": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o",
+      "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+      "excerpt": "The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
+      "published": "2026-10-15T23:01:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/718c/live/00b0e6b0-c8e7-11f1-8fce-870ed9afa8a0.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T00:50:00.372Z"
+    },
+    {
       "id": "8aafb96779c4d305",
       "guid": "https://www.bbc.co.uk/sport/football/articles/c6lyez88m1n2o#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6lyez88m1n2o",
@@ -67,6 +144,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9974/live/7783af20-c8c4-11f1-95b2-9f12d414946d.jpg",
       "type": "article",
       "addedAt": "2026-10-15T19:39:04.592Z"
+    },
+    {
+      "id": "b9becdf1844ef3fb",
+      "guid": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo#4",
+      "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo",
+      "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
+      "excerpt": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
+      "published": "2026-10-15T18:09:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fd/live/123f85f0-c85e-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T00:50:00.372Z"
     },
     {
       "id": "dffaec21a806d8d4",
