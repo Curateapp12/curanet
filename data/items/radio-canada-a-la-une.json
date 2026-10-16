@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "dc9e3bbe763a0058",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293191/cedric-lapointe-parti-conservateur-quebec",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293191/cedric-lapointe-parti-conservateur-quebec",
+      "title": "Éric Duhaime perd son directeur des communications",
+      "excerpt": "Cédric Lapointe quitte ses fonctions alors que le PCQ s'apprête à faire son entrée à l'Assemblée nationale.",
+      "published": "2026-10-16T14:16:15.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cedric-lapointe-eric-duhaime-pcq.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T14:43:58.965Z"
+    },
+    {
+      "id": "b0a8917427263b95",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293205/lune-heure-resolution-reference",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293205/lune-heure-resolution-reference",
+      "title": "Quelle heure est-il sur la Lune? Les experts se penchent sur la question",
+      "excerpt": "Les scientifiques vont se pencher sur la question, cruciale pour les futurs programmes d'exploration lunaire.",
+      "published": "2026-10-16T14:09:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/lune-orbite-espace-astrophysique.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T14:43:58.965Z"
+    },
+    {
       "id": "75ae7e4ae19490d2",
       "guid": "https://ici.radio-canada.ca/nouvelle/2293197/waymo-taxi-autonome-toronto",
       "link": "https://ici.radio-canada.ca/nouvelle/2293197/waymo-taxi-autonome-toronto",

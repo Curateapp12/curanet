@@ -3,6 +3,39 @@
   "sourceId": "el-pais",
   "items": [
     {
+      "id": "1e482add1d9af601",
+      "guid": "https://elpais.com/deportes/2026-10-16/el-real-madrid-pide-la-dimision-inmediata-de-javier-tebas-sus-ataques-son-una-lacra-para-el-futbol.html",
+      "link": "https://elpais.com/deportes/2026-10-16/el-real-madrid-pide-la-dimision-inmediata-de-javier-tebas-sus-ataques-son-una-lacra-para-el-futbol.html",
+      "title": "El Real Madrid pide la “dimisión inmediata” de Javier Tebas: “Sus ataques son una lacra para el fútbol”",
+      "excerpt": "El club ha respondido con un comunicado después de que el presidente de LaLiga comparara sus actuaciones con mecanismos de propaganda de la Alemania nazi",
+      "published": "2026-10-16T14:10:59.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/Y7BEEDBU4JHABLDXL627AYIYHE.jpg?auth=455a2f3b3ab3a4329ed94992d8729a285e0bcf499b15cec7088cb185d9e99970",
+      "type": "article",
+      "addedAt": "2026-10-16T14:43:58.965Z"
+    },
+    {
+      "id": "fac293295c4040a8",
+      "guid": "https://elpais.com/eps/2026-10-16/valdano-se-habla-poco-de-que-los-futbolistas-hacen-terapia.html",
+      "link": "https://elpais.com/eps/2026-10-16/valdano-se-habla-poco-de-que-los-futbolistas-hacen-terapia.html",
+      "title": "Valdano: “Se habla poco de que los futbolistas hacen terapia”",
+      "excerpt": "En el tercer episodio de esta temporada de ‘Tercer Acto’, el comunicador y exfutbolista conversa sobre la necesidad de mirar hacia adelante en la vida, la dignidad humana, su pasión por la lectura, los males del fútbol moderno y la figura de Maradona",
+      "published": "2026-10-16T14:00:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/H4V7KJ5QKZFIPHQEEZ456OCSXE.jpg?auth=1d6f94fc2164b9d028d23bf579618b6c9a6514ff5d9a5afa87ac12282d2fe247",
+      "type": "article",
+      "addedAt": "2026-10-16T14:43:58.965Z"
+    },
+    {
+      "id": "74de60885c9c36ea",
+      "guid": "https://elpais.com/gente/2026-10-16/en-hawai-oficiada-por-su-ex-y-con-dicaprio-entre-los-invitados-los-detalles-de-la-boda-de-jennifer-meyer-exmujer-de-tobey-maguire.html",
+      "link": "https://elpais.com/gente/2026-10-16/en-hawai-oficiada-por-su-ex-y-con-dicaprio-entre-los-invitados-los-detalles-de-la-boda-de-jennifer-meyer-exmujer-de-tobey-maguire.html",
+      "title": "En Hawái, oficiada por su ex y con DiCaprio entre los invitados: los detalles de la boda de Jennifer Meyer, exmujer de Tobey Maguire",
+      "excerpt": "La diseñadora de joyas se ha casado con el representante musical Geoffrey Ogunlesi en una ceremonia llena de famosos un mes después de firmar su divorcio con el actor de ‘Spider-Man’. “Es poco convencional, pero muy propio de nosotros”, asegura",
+      "published": "2026-10-16T13:56:28.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/4JSLSB7JPVEV3FVNBTT6XJ6FBE.jpg?auth=6b4fdb5b95f521d8ff0d358edb16733e1f0def07c41b3fbcc88f423a3cd1b3c4",
+      "type": "article",
+      "addedAt": "2026-10-16T14:43:58.965Z"
+    },
+    {
       "id": "c1e138139b1fb9c3",
       "guid": "https://cincodias.elpais.com/companias/2026-10-16/amber-capital-baja-del-5-en-indra-pero-mantiene-su-asiento-en-el-consejo.html",
       "link": "https://cincodias.elpais.com/companias/2026-10-16/amber-capital-baja-del-5-en-indra-pero-mantiene-su-asiento-en-el-consejo.html",
@@ -166,6 +199,17 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/3FMH72P2QJP2ZA6UQLADMFAZW4.jpg?auth=50a728ae603084a6cfab4cb32d13db8d5ab44bc61bfa3c7765e35783034a5c06",
       "type": "article",
       "addedAt": "2026-10-16T12:51:53.153Z"
+    },
+    {
+      "id": "42d4e58f30aa718b",
+      "guid": "https://elpais.com/espana/elecciones-generales/2026-10-16/estos-son-los-acuerdos-territoriales-que-ya-estan-cerrados-en-la-izquierda-alternativa-para-las-elecciones-del-29-n.html",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/estos-son-los-acuerdos-territoriales-que-ya-estan-cerrados-en-la-izquierda-alternativa-para-las-elecciones-del-29-n.html",
+      "title": "Estos son los acuerdos territoriales que ya están cerrados en la izquierda alternativa para las elecciones del 29-N",
+      "excerpt": "De momento, Podemos se ha integrado en Canarias y Comunidad Valenciana en coaliciones con Izquierda Unida y otras fuerzas de ámbito autonómico",
+      "published": "2026-10-16T11:58:35.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/CMXIRYXEBZM4RJ5LKSA6V5IIXU.jpg?auth=0db54813f8f5fe3d569fb59560ebf2b9166f4de2a81bf4af0cc97bf284f1f0b8",
+      "type": "article",
+      "addedAt": "2026-10-16T14:43:58.965Z"
     },
     {
       "id": "e9c62b9a652ce2f0",

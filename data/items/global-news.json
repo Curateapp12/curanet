@@ -3,6 +3,28 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "1ff2ea385ff56d5c",
+      "guid": "https://globalnews.ca/?p=12105128",
+      "link": "https://globalnews.ca/news/12105128/iea-diesel-barrels/",
+      "title": "IEA says it will release 20 million barrels of diesel ‘as soon as possible’",
+      "excerpt": "In March, members of the International Energy Agency agreed to release more than 400 million barrels of oil from their emergency reserves to calm oil markets.",
+      "published": "2026-10-16T14:42:52.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/IEA-diesel-barrels.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T14:43:58.965Z"
+    },
+    {
+      "id": "7335f87f4f79d884",
+      "guid": "https://globalnews.ca/?p=12105094",
+      "link": "https://globalnews.ca/news/12105094/david-surkamp-pavlovs-dog-frontman-dead/",
+      "title": "David Surkamp, Pavlov’s Dog frontman, dead at 73",
+      "excerpt": "Pavlov's Dog bandmember Abbie Steiling said that Surkamp leaves behind a legacy of 'endless creativity' and' a body of music that has touched lives across generations.'",
+      "published": "2026-10-16T14:33:07.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/david-surkamp-pavlovs-dog-dead.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-16T14:43:58.965Z"
+    },
+    {
       "id": "a7a8ae54503f36c6",
       "guid": "https://globalnews.ca/?p=12105034",
       "link": "https://globalnews.ca/news/12105034/oregon-school-shooting-3-children-1-teacher-dead/",
@@ -12,6 +34,17 @@
       "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Oregon-School-Shooting.jpg?quality=65&strip=all",
       "type": "article",
       "addedAt": "2026-10-16T13:48:08.177Z"
+    },
+    {
+      "id": "f715ca8c24bb2dd4",
+      "guid": "https://globalnews.ca/?p=11484274",
+      "link": "https://globalnews.ca/the-curator/11484274/the-best-artificial-christmas-trees-for-every-style-and-space/",
+      "title": "The Curator: The best artificial Christmas trees for every style and space",
+      "excerpt": "We’ve rounded up the top picks from brands like Simons, Balsam Hill, and Wayfair to make your holiday celebrations extra merry.",
+      "published": "2026-10-16T13:30:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/10/tree.png",
+      "type": "article",
+      "addedAt": "2026-10-16T14:43:58.965Z"
     },
     {
       "id": "c3b44284db3d7795",
