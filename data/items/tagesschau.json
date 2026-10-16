@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "89de253baeb802f8",
+      "guid": "90dcc4ee-4712-40b6-bba9-c5077caacb46",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ueberblick-tabaksteuer-100.html",
+      "title": "Welche Tabakware wieviel teurer wird",
+      "excerpt": "Zigaretten, Feinschnitt und andere Tabakwaren und tabakähnliche Produkte sollen deutlich stärker besteuert werden als bislang - die Preise dürften erheblich steigen. Was ist genau geplant?",
+      "published": "2026-10-16T10:23:43.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/678223d5-1093-46db-84ea-b8dc5fe790f8/AAABoUQAmWw/AAABnSSvrFg/16x9-big/zigaretten-170.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T10:41:58.485Z"
+    },
+    {
+      "id": "5e34c861c4fbac8c",
+      "guid": "c0d76c3c-345f-4571-9435-27900c8d2210",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-malaysia-waldbraende-100.html",
+      "title": "Giftige Rauchwolken durch Waldbrände in Indonesien treffen auch Nachbarländer",
+      "excerpt": "Eine besonders schwere Brandsaison macht Indonesien zu schaffen. Die dortigen Torfbrände sind nur schwer zu bekämpfen und der giftige Rauch belastet auch die Nachbarländer. In einem Nationalpark auf Java gab es vier Tote.",
+      "published": "2026-10-16T10:20:08.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/29f57f16-edc5-453c-b374-abff3e156778/AAABoUOXNmI/AAABnSSvrFg/16x9-big/rauchschwaden-gesichtsmasken-singapur-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T10:41:58.485Z"
+    },
+    {
+      "id": "f588a0d5ba39a228",
+      "guid": "c0388fad-b54b-4af7-82ba-b33a1a2d225a",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
+      "title": "EU-Spitzen stärken Selenskyj den Rücken",
+      "excerpt": "Präsident Selenskyj ist zum EU-Gipfel nach Brüssel gereist - und wird mit Zusicherungen begrüßt. Hilfen bleiben, Sanktionen sind in Arbeit, die EU-Beitrittsverhandlungen kommen voran. Allerdings geht US-Präsident Trump weiter auf Konfrontation.",
+      "published": "2026-10-16T09:57:13.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/84018e21-333a-4dd8-bd7e-5876c7630284/AAABoUPaDBk/AAABnSSvrFg/16x9-big/costa-leyen-selenskyj-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T10:41:58.485Z"
+    },
+    {
+      "id": "f3fc9d427a1ea00a",
+      "guid": "ee1a05da-4ea1-4948-a470-3732e0ca7b27",
+      "link": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
+      "title": "Flugverkehr über Italien gestört - Sabotage bislang ausgeschlossen",
+      "excerpt": "In Italien gibt es massive Probleme im Flugverkehr. Betroffen sind Starts und Landungen im ganzen Land, aber auch Überflüge. Grund sind Störungen bei der Flugsicherung, ein Hackerangriff oder Sabotage wird derzeit ausgeschlossen.",
+      "published": "2026-10-16T09:55:19.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/acaa8819-e7dc-4c21-99ff-9fade689948c/AAABoUPnStA/AAABnSSvrFg/16x9-big/flughafen-terminal-rom-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T10:41:58.485Z"
+    },
+    {
       "id": "0726570f98cc681c",
       "guid": "3a2cc07e-0dac-4856-a439-be3e96c640db",
       "link": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html",

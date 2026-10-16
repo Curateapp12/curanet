@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "5713042d4d810f51",
+      "guid": "e4d09d0910703deaa2eec1e7e441b898",
+      "link": "https://www.lapresse.ca/actualites/2026-10-16/ce-qu-on-suit-ce-vendredi/nuit-des-sans-abri-ministres-de-la-sante-canadien.php",
+      "title": "Ce qu’on suit ce vendredi | Nuit des sans-abri, ministres de la Santé, Canadien",
+      "excerpt": "Voici les évènements au programme aujourd’hui.",
+      "published": "2026-10-16T10:05:23.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/a88bbc5c5b5434759cf67d02d2c80af1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T10:41:58.485Z"
+    },
+    {
+      "id": "42fcf0a503998672",
+      "guid": "91e2879e080835279468d7a1bbf84862",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-16/transports-en-direct/toujours-difficile-au-pont-honore-mercier.php",
+      "title": "Transports en direct | Toujours difficile au pont Honoré-Mercier",
+      "excerpt": "Quelque chose à signaler sur les routes ou sur les rails ? La Presse examine le réseau en cette heure de pointe matinale et précise la couleur des feux de circulation.",
+      "published": "2026-10-16T10:04:23.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/65b6bebca0353b69b92ea67e8d79a7ca.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T10:41:58.485Z"
+    },
+    {
+      "id": "3c931ed7b01a2064",
+      "guid": "ebe685b3d99e34cb84dbb903c0ce5d5e",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-16/deneigement-a-montreal/gros-sel-petit-mechoui.php",
+      "title": "Déneigement à Montréal | Gros sel, petit méchoui",
+      "excerpt": "Il y avait beaucoup de goélands affamés et quelques machines d’un jaune vif, derrière la mairesse Soraya Martinez Ferrada et son responsable du déneigement, Luis Miranda, jeudi matin.",
+      "published": "2026-10-16T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/692940d36a563484ba9f586c9da66ec0.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T10:41:58.485Z"
+    },
+    {
+      "id": "42cc50b2c7448c24",
+      "guid": "33aad7f577d633b195bdf57f4196ae74",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-10-16/en-video/l-immense-beaute-du-monde-microscopique.php",
+      "title": "En vidéo | L’immense beauté du monde microscopique",
+      "excerpt": "L’infiniment petit, c’est le terrain de jeu des participants au concours de photos Nikon Small World in Motion, organisé par le fabricant Nikon depuis 1975. Depuis plusieurs années, un volet vidéo a été ajouté et les gagnants de l’édition 2026 viennent d’être dévoilés. Des images spectaculaires…",
+      "published": "2026-10-16T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/fd8f3a210c693f93a3768a6660927938.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T10:41:58.485Z"
+    },
+    {
+      "id": "b8ae3f9deda88812",
+      "guid": "14ac69fad108312995a8c4b90323b9b7",
+      "link": "https://www.lapresse.ca/actualites/2026-10-16/la-revue-de-presse-de-paul-arcand/serment-des-deputes-du-pq-policier-suspendu-car-il-aurait-urine-sur-un-sans-abri-montreal-pret-pour-l-hiver.php",
+      "title": "La revue de presse de Paul Arcand | Serment des députés du PQ, policier suspendu car il aurait uriné sur un sans-abri, Montréal prêt pour l’hiver",
+      "excerpt": "À l’occasion de sa revue de presse, vendredi, Paul Arcand fait le point sur l’assermentation des 59 députés du Parti québécois (PQ) à l’Assemblée nationale.",
+      "published": "2026-10-16T09:57:37.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/af5002d52e043fe692ad53450eec76e4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T10:41:58.485Z"
+    },
+    {
       "id": "2ad2729e9b93c83b",
       "guid": "31d298e11df23d4b9f4bc85323fbe9b6",
       "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-16/travaux-d-urgence/que-faut-il-faire-du-pont-honore-mercier.php",
