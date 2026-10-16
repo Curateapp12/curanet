@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "52c5763d50897622",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293258/convergence-coleres-samedi-france-200-000-manifestants",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293258/convergence-coleres-samedi-france-200-000-manifestants",
+      "title": "200 000 manifestants contre la vie chère attendus samedi en France",
+      "excerpt": "Cette « convergence des luttes », redoutée par le pouvoir, intervient sur fond de fortes tensions sociales.",
+      "published": "2026-10-16T17:18:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/manifestation-france-etudiants-lyceens-macron.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T17:38:27.251Z"
+    },
+    {
+      "id": "890b7803ace4baef",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293216/montreal-entraves-majeures-reseau-autoroutier",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293216/montreal-entraves-majeures-reseau-autoroutier",
+      "title": "Le pont Mercier et le tunnel La Fontaine à éviter ce week-end",
+      "excerpt": "Ces entraves sont dictées entre autres par les travaux à effectuer sur le pont Honoré-Mercier.",
+      "published": "2026-10-16T16:55:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/devoilement-de-plusieurs-chantiers-routiers-sur-le-territoire-de-montreal-congestion-routiere-signalisation-cones-oranges-traffic-voitures-pollution-camions-transport-routier-photo-prise-a-montr-35367.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T17:38:27.251Z"
+    },
+    {
       "id": "fb0facef9b41f6cc",
       "guid": "https://ici.radio-canada.ca/nouvelle/2293249/secteur-culturel-silence-ottawa-argent",
       "link": "https://ici.radio-canada.ca/nouvelle/2293249/secteur-culturel-silence-ottawa-argent",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/crtc-streaming-netflix.jpg",
       "type": "article",
       "addedAt": "2026-10-16T16:41:52.898Z"
+    },
+    {
+      "id": "b5cd2f76a8b41b34",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293257/nouvelle-france-metissage-epeu-repandu",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293257/nouvelle-france-metissage-epeu-repandu",
+      "title": "Le métissage était possiblement peu répandu à Montréal aux 17e et 18e siècles",
+      "excerpt": "Une découverte suggère que les populations autochtones étaient marginalisées dans le contexte colonial.",
+      "published": "2026-10-16T16:13:06.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/metissage-nouvelle-france.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T17:38:27.251Z"
     },
     {
       "id": "ebad0b27fe2de027",

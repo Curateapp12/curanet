@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "791938ca64660e32",
+      "guid": "1a17a703-c247-4778-bd10-8a1741da291d",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
+      "title": "Papst bittet Putin um Waffenruhe in Oleschky",
+      "excerpt": "Leo XIV. ist besorgt über die Lage in der abgeriegelten ukrainischen Frontstadt Oleschky. In einem Telefonat mit Putin ruft er den Kremlchef zu einem Waffenstillstand in der Region auf - kurz nach seiner Lungen-OP.",
+      "published": "2026-10-16T17:25:17.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ef2364fd-6c61-4ccb-8e49-4d7695c9dafe/AAABoUXAqbY/AAABnSSvrFg/16x9-big/papst-leo-204.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T17:38:27.251Z"
+    },
+    {
+      "id": "ac8d2558374f4469",
+      "guid": "42530c81-2e6c-46a5-a5a0-1039e146098b",
+      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html",
+      "title": "EU-Regeln: Berlin und Paris wollen Verbrenner-Aus aufweichen",
+      "excerpt": "Deutschland und Frankreich haben sich auf eine Position zum Verbrenner-Aus in der EU verständigt. Kanzler Merz und Umweltminister Schneider zeigen sich sehr zufrieden. Oder ist es ein historischer Fehler? Von Jakob Mayr.",
+      "published": "2026-10-16T16:59:07.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e19f2dd5-06b3-4f51-83dd-85c13d7a1ce4/AAABoUWnMRo/AAABnSSvrFg/16x9-big/autobahn-494.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T17:38:27.251Z"
+    },
+    {
+      "id": "611fbc5df4dc0230",
+      "guid": "930c28eb-860f-4eb6-8431-7cdcb1195780",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
+      "title": "Eurowings streicht Flüge und prüft Kurzarbeit",
+      "excerpt": "Der Kostendruck steigt: Eurowings streicht Flüge und prüft die Möglichkeit von Kurzarbeit für seine Mitarbeitenden. Als Grund nennt die Lufthansa-Tochter die gestiegenen Preise für Kerosin durch den Iran-Krieg.",
+      "published": "2026-10-16T16:52:09.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e77ca4af-73a5-41b8-8744-f7d4da5f0617/AAABoUU6aNU/AAABnSSvrFg/16x9-big/flugzeug-eurowings-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-16T17:38:27.251Z"
+    },
+    {
       "id": "3806d844acf1b4eb",
       "guid": "86713697-bdce-4a74-828c-7263a21b4722",
       "link": "https://www.tagesschau.de/investigativ/starlink-polen-tuerkei-mafia-100.html",

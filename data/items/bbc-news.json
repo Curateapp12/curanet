@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "36b61aaef696d4f0",
+      "guid": "https://www.bbc.co.uk/news/articles/c64g18r402geo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c64g18r402geo",
+      "title": "Ex-top official Robbins reaches settlement with government over sacking",
+      "excerpt": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson.",
+      "published": "2026-10-16T16:38:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0212/live/e6e99a00-c97d-11f1-80fc-ab418b149008.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T17:38:27.251Z"
+    },
+    {
       "id": "7a3dcc605d240ae3",
       "guid": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o",
@@ -56,6 +67,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/198d/live/498a8450-c94f-11f1-9a39-31b474234113.jpg",
       "type": "article",
       "addedAt": "2026-10-16T16:41:52.898Z"
+    },
+    {
+      "id": "8d08e015e2da20ac",
+      "guid": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo#2",
+      "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo",
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "excerpt": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+      "published": "2026-10-16T15:45:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d887/live/549b5300-c978-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-16T17:38:27.251Z"
     },
     {
       "id": "ca2d6f59c22bce97",
