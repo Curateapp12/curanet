@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "74a44f824ba0950d",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "excerpt": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "published": "2026-10-17T15:18:51.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-17T15:37:01.341Z"
+    },
+    {
+      "id": "43fc56afbb2752b5",
+      "guid": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "excerpt": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+      "published": "2026-10-17T14:32:48.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-17T15:37:01.341Z"
+    },
+    {
       "id": "8dfac5c34b84f531",
       "guid": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
       "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
