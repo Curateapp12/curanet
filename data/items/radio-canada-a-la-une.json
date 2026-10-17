@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "867fdeb1376d7ed6",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293425/france-manifestation-colere-jeunes",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293425/france-manifestation-colere-jeunes",
+      "title": "Journée de mobilisation en France : la tension monte dans les premiers rassemblements",
+      "excerpt": "Plusieurs dizaines d'arrestations ont eu lieu samedi matin à travers une France en « colère ».",
+      "published": "2026-10-17T13:20:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/france-manifestation-jeune-lycee.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T13:37:14.593Z"
+    },
+    {
+      "id": "42fe3b70e1f80d29",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293427/pape-leon-xiv-sort-hopital-samedi",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293427/pape-leon-xiv-sort-hopital-samedi",
+      "title": "Le pape Léon XIV sort de l’hôpital samedi",
+      "excerpt": "« Demain, il récitera la prière de l'Angélus depuis la fenêtre de l'appartement pontifical », dit le Vatican.",
+      "published": "2026-10-17T13:05:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pape-leon-xiv-hopital.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T13:37:14.593Z"
+    },
+    {
       "id": "8952756c7648d298",
       "guid": "https://ici.radio-canada.ca/nouvelle/2293423/onu-candidat-secretaire-general",
       "link": "https://ici.radio-canada.ca/nouvelle/2293423/onu-candidat-secretaire-general",
@@ -23,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/gord-krantz-maire-milton.jpeg",
       "type": "article",
       "addedAt": "2026-10-17T11:36:34.377Z"
+    },
+    {
+      "id": "785e367415630669",
+      "guid": "https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1281701/referendum-independance-alberta-vote",
+      "link": "https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1281701/referendum-independance-alberta-vote",
+      "title": "Référendum sur l’indépendance en Alberta : place au vote",
+      "excerpt": "Un des feuilletons politiques les plus suivis de l’année connaîtra enfin son dénouement lundi prochain.",
+      "published": "2026-10-17T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/generateur-images/16x9/ca-sexplique-ohdio-legislature-alberta-edmonton.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T13:37:14.593Z"
     },
     {
       "id": "577244ce2e963530",
