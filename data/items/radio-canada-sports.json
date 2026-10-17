@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "8fcd7fbb55970711",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10786495/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10786495/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-17T03:32:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T03:39:18.803Z"
+    },
+    {
+      "id": "61406fe0c1faadc6",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10786492/sports-express-16-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10786492/sports-express-16-octobre",
+      "title": "Sports Express - 16 octobre",
+      "excerpt": "L'actualité sportive du jour avec Jérémie Turbide",
+      "published": "2026-10-17T03:29:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/sports-express.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T03:39:18.803Z"
+    },
+    {
+      "id": "59aee8aa1f92292f",
+      "guid": "https://ici.radio-canada.ca/sports/2293415/supra-inter-toronto-eliminatoires-plc",
+      "link": "https://ici.radio-canada.ca/sports/2293415/supra-inter-toronto-eliminatoires-plc",
+      "title": "Le Supra l’emporte et demeure au plus fort de la course aux éliminatoires",
+      "excerpt": "Le FC Supra signe une importante victoire contre l'Inter Toronto et garde espoir d'accéder aux éliminatoires.",
+      "published": "2026-10-17T03:25:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/fc-supra-46558.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T03:39:18.803Z"
+    },
+    {
       "id": "f1e22caefa4e827c",
       "guid": "https://ici.radio-canada.ca/sports/2293412/rays-guardians-report-pluie-cleveland",
       "link": "https://ici.radio-canada.ca/sports/2293412/rays-guardians-report-pluie-cleveland",
