@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "46c13a3a3d739576",
+      "guid": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo#9",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo",
+      "title": "Dubois destroys Wardley in two rounds to retain title",
+      "excerpt": "WBO world champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
+      "published": "2026-10-17T22:27:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3f/live/ab9ff830-ca78-11f1-aebd-051362f1d912.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T22:35:07.186Z"
+    },
+    {
+      "id": "280e9371b90f4672",
+      "guid": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo",
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "excerpt": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "published": "2026-10-17T21:33:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T22:35:07.186Z"
+    },
+    {
       "id": "47c30bab6469745c",
       "guid": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o#9",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o",
@@ -23,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg",
       "type": "article",
       "addedAt": "2026-10-17T21:36:27.590Z"
+    },
+    {
+      "id": "007e1a580ed84594",
+      "guid": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "excerpt": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "published": "2026-10-17T20:52:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T22:35:07.186Z"
     },
     {
       "id": "df8ca3f607ce7775",
