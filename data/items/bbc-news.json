@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "a327721e7962729c",
+      "guid": "https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o",
+      "title": "Manifest: From reality TV to Wembley Arena in one turbulent year",
+      "excerpt": "Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert.",
+      "published": "2026-10-17T23:07:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1182/live/ee2b5bb0-ca1c-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T23:31:39.753Z"
+    },
+    {
+      "id": "0c0708da36944695",
+      "guid": "https://www.bbc.co.uk/news/articles/cvj64l74e48po#2",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64l74e48po",
+      "title": "The playground murder: Trauma, loss and a love that endured",
+      "excerpt": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
+      "published": "2026-10-17T23:04:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3597/live/91a88040-c94d-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-17T23:31:39.753Z"
+    },
+    {
       "id": "46c13a3a3d739576",
       "guid": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo#9",
       "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo",
@@ -12,6 +34,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3f/live/ab9ff830-ca78-11f1-aebd-051362f1d912.jpg",
       "type": "article",
       "addedAt": "2026-10-17T22:35:07.186Z"
+    },
+    {
+      "id": "e00f750b3c92de47",
+      "guid": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "excerpt": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "published": "2026-10-17T22:09:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
+      "type": "article",
+      "addedAt": "2026-10-17T23:31:39.753Z"
     },
     {
       "id": "280e9371b90f4672",
