@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "99847360221fe534",
+      "guid": "ecf8fff8-1677-4ec5-bff2-9ae66b84d75c",
+      "link": "https://www.tagesschau.de/ausland/asien/persischer-golf-tanker-angriffe-100.html",
+      "title": "Tanker im Persischen Golf attackiert",
+      "excerpt": "Vor der saudischen Küste sind Angriffe auf zwei Schiffe gemeldet worden - weit entfernt von der Straße von Hormus. Dort wiederum ist ein Supertanker nach iranischen Angaben auf eine Mine gelaufen.",
+      "published": "2026-10-17T12:28:17.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2ac8994a-5ea1-4474-abc0-16b6fb5d6b79/AAABnKpubcc/AAABnSSvrFg/16x9-big/strasse-von-hormus-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-17T12:44:04.096Z"
+    },
+    {
+      "id": "5626f5ba21484b4b",
+      "guid": "423b2cb2-ba2c-44a9-ad79-be53563d7410",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
+      "title": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
+      "excerpt": "Beim \"Deutschlandtag\" der Jungen Union findet Kanzler Merz deutliche Worte in Richtung SPD: Er wolle den Erfolg der Koalition, aber nicht um jeden Preis. In Sachen Rente pocht er darauf, die Reformvorschläge vollständig umzusetzen.",
+      "published": "2026-10-17T11:57:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2acf0248-3e7d-41a5-9d55-5940f21ad962/AAABoUliGAQ/AAABnSSvrFg/16x9-big/merz-1736.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-17T12:44:04.096Z"
+    },
+    {
       "id": "90cbce5208fbbcbd",
       "guid": "77cfdb96-c860-4c1a-9ba1-0499a309b749",
       "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
