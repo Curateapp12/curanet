@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "2e08fe884f52cf6c",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10786838/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10786838/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-18T02:58:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T03:39:06.317Z"
+    },
+    {
+      "id": "9eaa8e10de0c9202",
+      "guid": "https://ici.radio-canada.ca/sports/2293524/flyers-senateurs-lnh-philadelphie",
+      "link": "https://ici.radio-canada.ca/sports/2293524/flyers-senateurs-lnh-philadelphie",
+      "title": "Les Flyers battent les Sénateurs et savourent une première victoire cette saison",
+      "excerpt": "Matvei Michkov a dénoué l’impasse dans un gain de 3-1 des Flyers contre les Sénateurs.",
+      "published": "2026-10-18T02:43:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/flyers-senateurs.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T03:39:06.317Z"
+    },
+    {
+      "id": "c388e9754335409f",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10786832/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10786832/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-18T02:41:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T03:39:06.317Z"
+    },
+    {
+      "id": "04cfa36150b56d17",
+      "guid": "https://ici.radio-canada.ca/sports/2293520/islanders-maple-leafs-toronto-lnh",
+      "link": "https://ici.radio-canada.ca/sports/2293520/islanders-maple-leafs-toronto-lnh",
+      "title": "Les Islanders l’emportent contre les Maple Leafs à Toronto",
+      "excerpt": "Bo Horvat a amassé deux points dans la victoire de 4-1 des Islanders, à Toronto.",
+      "published": "2026-10-18T02:34:33.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/maple-leafs-islanders.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T03:39:06.317Z"
+    },
+    {
       "id": "d25a97e90ac7f05e",
       "guid": "https://ici.radio-canada.ca/sports/2293491/nikita-kucherov-lightning-canucks-lnh",
       "link": "https://ici.radio-canada.ca/sports/2293491/nikita-kucherov-lightning-canucks-lnh",

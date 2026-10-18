@@ -14,10 +14,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"26120-7+nXd6Z1akzYtWXgTtc1wPhz4hg\"",
-        "lastModified": "Sun, 18 Oct 2026 02:33:52 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "W/\"2610d-8TWGxay5kO3evn/OqpprzFGOiJY\"",
+        "lastModified": "Sun, 18 Oct 2026 03:37:43 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -36,10 +36,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"a1ec7fc8f33690d36c20c3df6aece444\"",
-        "lastModified": "Sun, 18 Oct 2026 02:34:18 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "W/\"a75ebf665d73e17d0561648189406064\"",
+        "lastModified": "Sun, 18 Oct 2026 03:38:58 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -58,10 +58,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "\"7d72-65e1400e6b430-gzip\"",
-        "lastModified": "Sun, 18 Oct 2026 02:17:47 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "\"7d57-65e14b22d2fce-gzip\"",
+        "lastModified": "Sun, 18 Oct 2026 03:07:21 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -80,10 +80,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"160ae-U474irIrthSOu/f2OngxzcWRdrc\"",
-        "lastModified": "Sun, 18 Oct 2026 02:37:41 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "W/\"160ae-YFC+G0BBNMPHjRyT+YU/st8LPfQ\"",
+        "lastModified": "Sun, 18 Oct 2026 03:33:40 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -102,10 +102,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"121b-P43KByALuNpVOmSK661M/rVummg\"",
-        "lastModified": "Sun, 18 Oct 2026 02:38:30 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "W/\"121b-rdRptE+KKUynNHW+9BEbrmJxD3g\"",
+        "lastModified": "Sun, 18 Oct 2026 03:38:30 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -126,8 +126,8 @@
       "fetch": {
         "etag": "\"1792251980-gzip\"",
         "lastModified": "Sat, 17 Oct 2026 15:46:20 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
@@ -146,10 +146,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"900dde2489df02f7dedbfce1466fa351\"",
-        "lastModified": "Sat, 17 Oct 2026 22:54:00 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "W/\"43dd75b7283171f72015313b585f595e\"",
+        "lastModified": "Sun, 18 Oct 2026 03:09:38 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -170,8 +170,8 @@
       "fetch": {
         "etag": "\"3b183e15eedecc884c41d889a0b16225-gzip\"",
         "lastModified": "Fri, 16 Oct 2026 21:25:45 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -191,9 +191,9 @@
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
         "etag": null,
-        "lastModified": "Sun, 18 Oct 2026 02:38:23 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastModified": "Sun, 18 Oct 2026 03:39:06 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -214,8 +214,8 @@
       "fetch": {
         "etag": "W/\"23c20b3bc652e82e70e9cc1f2c965c31\"",
         "lastModified": "Sat, 17 Oct 2026 20:19:58 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
@@ -234,10 +234,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"f0946f5cee723504b30ae00e7914aa46\"",
-        "lastModified": "Sun, 18 Oct 2026 02:11:39 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "W/\"afff3a520d45b10961c78f9fb878e905\"",
+        "lastModified": "Sun, 18 Oct 2026 03:28:13 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -256,10 +256,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "\"2cc2bd5ebdc09e134f2d91485754ebb2\"",
-        "lastModified": "Sun, 18 Oct 2026 02:37:33 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "\"a3d61b184c7615a65f30a1337c0df0c4\"",
+        "lastModified": "Sun, 18 Oct 2026 02:44:50 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -279,9 +279,9 @@
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
         "etag": null,
-        "lastModified": "Sun, 18 Oct 2026 02:38:14 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastModified": "Sun, 18 Oct 2026 03:38:53 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -302,11 +302,11 @@
       "fetch": {
         "etag": "\"aef09072a39b6e181c607a8d979ba531\"",
         "lastModified": "Sat, 17 Oct 2026 14:30:03 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T01:38:14.342Z",
-        "lastResult": "error",
-        "lastError": "HTTP 415 Unsupported Media Type",
-        "failures": 1
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
+        "lastResult": "unchanged",
+        "lastError": null,
+        "failures": 0
       }
     },
     {
@@ -323,9 +323,9 @@
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
         "etag": null,
-        "lastModified": "Sun, 18 Oct 2026 02:37:41 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastModified": "Sun, 18 Oct 2026 03:38:29 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -344,10 +344,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"3907-xMZIbVyDmM7SWMcoAOu4YKn9qEo\"",
+        "etag": "W/\"3906-57Zs20pgOEhlQZhSrwpxlRmbGPM\"",
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -368,8 +368,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -390,8 +390,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -410,10 +410,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"b23c-hhif21gkYw1zdIgMwXthFH78ops\"",
+        "etag": "W/\"b23c-b3u7q4bvnGzWMKRP2cGdtCXpRfA\"",
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -434,8 +434,8 @@
       "fetch": {
         "etag": "W/\"ebe255eece184a3f2f72d5a393fd37c2\"",
         "lastModified": "Thu, 15 Oct 2026 21:46:20 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
@@ -454,10 +454,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"e3ab-yjza9bhDr9vksMWzj/zcekUDl8I\"",
-        "lastModified": "Sun, 18 Oct 2026 02:37:36 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "W/\"e3ab-HggyJv7ugAeiFYVKgCx3VKYdWL4\"",
+        "lastModified": "Sun, 18 Oct 2026 03:39:08 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -478,8 +478,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -498,10 +498,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"a727-vsl02gNJGcQGLFBSdopRf0ap0ew\"",
+        "etag": "W/\"a727-BrEPfqGZCNURomr+BeUCQrC6F7w\"",
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -522,8 +522,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -542,10 +542,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"abf4-lDpNq+NSHjpd21rCggVTVlEz5jo\"",
+        "etag": "W/\"abf4-FY7XPQqZpiFRfrIvsNAKlrb3RHw\"",
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -566,8 +566,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -586,10 +586,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"9598-0AKJYetUMJohFQ0nDnEmg7wlQxU\"",
+        "etag": "W/\"9368-wIA12yGzikZSgLesFbaeLtQvyfI\"",
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -608,10 +608,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"27aa5-qLwKAUFrhtng5wrtbLlEQEjtJDM\"",
-        "lastModified": "Sun, 18 Oct 2026 02:34:57 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "W/\"27aa5-RKqG67wJE83DPd+hUKRYrqhtNXA\"",
+        "lastModified": "Sun, 18 Oct 2026 03:38:19 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -631,9 +631,9 @@
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
         "etag": null,
-        "lastModified": "Sun, 18 Oct 2026 02:38:45 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastModified": "Sun, 18 Oct 2026 03:38:09 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -652,10 +652,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"11892-kiGsGZlsRJTE5bMrds1CNEpRmV4\"",
-        "lastModified": "Sun, 18 Oct 2026 02:39:00 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "W/\"11892-he0RAPqCe5ishoGYVbhOp1blH+Q\"",
+        "lastModified": "Sun, 18 Oct 2026 03:38:09 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -676,8 +676,8 @@
       "fetch": {
         "etag": "\"51e981c65d6128890f04fd57edc6b88a\"",
         "lastModified": "Sat, 17 Oct 2026 11:11:29 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
@@ -698,9 +698,9 @@
       "fetch": {
         "etag": null,
         "lastModified": "Sun, 18 Oct 2026 02:35:26 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
-        "lastResult": "ok",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
+        "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
       }
@@ -720,8 +720,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -742,8 +742,8 @@
       "fetch": {
         "etag": "W/\"8fed45084f8a98660063acc597833aa7\"",
         "lastModified": "Sat, 17 Oct 2026 20:13:06 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
@@ -764,8 +764,8 @@
       "fetch": {
         "etag": "W/\"688da8338056692a199ca646a332a253\"",
         "lastModified": "Fri, 16 Oct 2026 19:23:40 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
@@ -786,8 +786,8 @@
       "fetch": {
         "etag": "\"00227b11fa540a50c179d3fcab6073c2-br\"",
         "lastModified": "Sat, 17 Oct 2026 11:32:37 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
@@ -808,8 +808,8 @@
       "fetch": {
         "etag": "W/\"61680-l/jMbAGtodLjzb0Lpf8drVFNsZU\"",
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -828,10 +828,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "\"261074c69b1d3caa39684aa81ffd0958-gzip\"",
-        "lastModified": "Sun, 18 Oct 2026 02:32:37 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "\"cdc1120b8e503d72ec6bd131ba60b902-gzip\"",
+        "lastModified": "Sun, 18 Oct 2026 02:49:59 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -850,10 +850,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"7e07-65e13ae801659\"",
+        "etag": "W/\"7e07-65e14a2a26941\"",
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -874,8 +874,8 @@
       "fetch": {
         "etag": null,
         "lastModified": "Fri, 16 Oct 2026 17:21:39 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
@@ -896,8 +896,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -918,11 +918,11 @@
       "fetch": {
         "etag": "\"cde9311abb97bf60a191ce44d57839a8\"",
         "lastModified": "Thu, 15 Oct 2026 20:50:58 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T01:38:14.342Z",
-        "lastResult": "error",
-        "lastError": "HTTP 415 Unsupported Media Type",
-        "failures": 1
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
+        "lastResult": "unchanged",
+        "lastError": null,
+        "failures": 0
       }
     },
     {
@@ -940,8 +940,8 @@
       "fetch": {
         "etag": null,
         "lastModified": "Fri, 16 Oct 2026 22:44:52 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
@@ -962,8 +962,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -984,8 +984,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -1006,8 +1006,8 @@
       "fetch": {
         "etag": null,
         "lastModified": "Sat, 17 Oct 2026 12:45:08 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "unchanged",
         "lastError": null,
         "failures": 0
@@ -1026,10 +1026,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"hash2606446167289658413\"",
+        "etag": "W/\"hash-4403946295948674235\"",
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -1050,8 +1050,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -1072,8 +1072,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -1094,8 +1094,8 @@
       "fetch": {
         "etag": null,
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -1114,10 +1114,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "W/\"261a7-nTjd8GaDIRgp9T+GGd8WiaQmoiY\"",
+        "etag": "W/\"27b60-W/14dCIN4QV90hL3ZHlmYebxiUs\"",
         "lastModified": null,
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -1136,10 +1136,10 @@
       "status": "active",
       "addedAt": "2026-10-05T23:15:25.904Z",
       "fetch": {
-        "etag": "8e06d67b63ac8c63be45368d1434efe0",
-        "lastModified": "Sun, 18 Oct 2026 02:31:44 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "etag": "544422dcc86ed4545aee410a754f1959",
+        "lastModified": "Sun, 18 Oct 2026 03:31:46 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
@@ -1264,9 +1264,9 @@
       "addedAt": "2026-10-06T00:00:01.803Z",
       "fetch": {
         "etag": null,
-        "lastModified": "Sun, 18 Oct 2026 02:38:57 GMT",
-        "lastAttempt": "2026-10-18T02:38:58.053Z",
-        "lastSuccess": "2026-10-18T02:38:58.053Z",
+        "lastModified": "Sun, 18 Oct 2026 03:36:58 GMT",
+        "lastAttempt": "2026-10-18T03:39:06.317Z",
+        "lastSuccess": "2026-10-18T03:39:06.317Z",
         "lastResult": "ok",
         "lastError": null,
         "failures": 0
