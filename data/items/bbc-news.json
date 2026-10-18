@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "f3ad38ae9d913bf9",
+      "guid": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o",
+      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+      "excerpt": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+      "published": "2026-10-18T10:03:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6997/live/9edeea90-cad5-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T10:37:46.881Z"
+    },
+    {
+      "id": "e72299f124a8f133",
+      "guid": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no#1",
+      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "excerpt": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "published": "2026-10-18T09:56:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T10:37:46.881Z"
+    },
+    {
+      "id": "0141d02097b0d8c7",
+      "guid": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o",
+      "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
+      "excerpt": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
+      "published": "2026-10-18T09:53:33.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbe4/live/1fc3be10-cad6-11f1-806f-7338b2b9c1b1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T10:37:46.881Z"
+    },
+    {
       "id": "fbefe16f07fd1e5b",
       "guid": "https://www.bbc.co.uk/sport/olympics/articles/cm0rl7504204o#9",
       "link": "https://www.bbc.co.uk/sport/olympics/articles/cm0rl7504204o",
@@ -155,6 +188,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3f9/live/3b471730-ca82-11f1-9a39-31b474234113.jpg",
       "type": "article",
       "addedAt": "2026-10-18T00:51:51.487Z"
+    },
+    {
+      "id": "26e28955dbf33319",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998#9",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998",
+      "title": "South Africa bat against Australia after rain - second Test scorecard",
+      "excerpt": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
+      "published": "2026-10-18T00:00:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aecb/live/43abc5f0-cadd-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T10:37:46.881Z"
     },
     {
       "id": "e4b7d9f6acab5c92",
@@ -727,6 +771,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e183/live/2c8eab40-c9bf-11f1-ae9f-bf0ab88aba90.jpg",
       "type": "article",
       "addedAt": "2026-10-17T02:39:27.723Z"
+    },
+    {
+      "id": "cb3cb69c2b1bd2d2",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pgb3zl#7",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pgb3zl",
+      "title": "Why Is Trump Criticising Zelensky And Complimenting Putin?",
+      "excerpt": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+      "published": "2026-10-17T00:00:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T10:37:46.881Z"
     },
     {
       "id": "e749e3279aef02a0",
