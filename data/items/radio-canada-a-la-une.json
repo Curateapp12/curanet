@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "089f41ef35d440cf",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293234/bape-riviere-des-prairies-promenade-riveraine-barrage-simon-sicard",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293234/bape-riviere-des-prairies-promenade-riveraine-barrage-simon-sicard",
+      "title": "Le BAPE appuie l’idée d’une promenade riveraine le long de la rivière des Prairies",
+      "excerpt": "Les travaux sur le mur de soutènement en amont d'un barrage pourraient permettre de préparer sa réalisation.",
+      "published": "2026-10-18T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/berges-riviere-des-prairies-barrage-simon-sicard.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-18T08:39:14.766Z"
+    },
+    {
+      "id": "1de964b2b7d74078",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292857/hospitalisation-domicile-hopital-general-juif",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292857/hospitalisation-domicile-hopital-general-juif",
+      "title": "L’hospitalisation à domicile : guérir chez soi grâce à la technologie",
+      "excerpt": "Des patients du CHU général juif, à Montréal, reçoivent des soins virtuels, à la maison.",
+      "published": "2026-10-18T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jacques-fortune-zrihen-hospitalisation-maison-domicile-hopital-general-juif.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T08:39:14.766Z"
+    },
+    {
+      "id": "319a8b5bd491ec51",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293494/etudiants-canadiens-france-blocus-manifestations",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293494/etudiants-canadiens-france-blocus-manifestations",
+      "title": "Canadiens en France : « J’étudie les risques démocratiques, mais je les vis aussi »",
+      "excerpt": "Des étudiantes québécoises en échange universitaire en France racontent leur expérience sur place.",
+      "published": "2026-10-18T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/france-manifestation-jeune-lycee-gilets-jaune-police-51496.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T08:39:14.766Z"
+    },
+    {
+      "id": "5466e0b77fdfbc06",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293461/referendum-alberta-separation-scrutin",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293461/referendum-alberta-separation-scrutin",
+      "title": "Alberta : dernière ligne droite d’une campagne référendaire historique",
+      "excerpt": "Les Albertains sauront lundi s’ils entament des démarches en vue d’un référendum sur leur indépendance.",
+      "published": "2026-10-18T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/alberta-referedum.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T08:39:14.766Z"
+    },
+    {
+      "id": "644fad413be1a47b",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293248/electricite-islande-centres-donnees-division",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293248/electricite-islande-centres-donnees-division",
+      "title": "« Combien d’électricité avons-nous? » : l’essor des centres de données divise en Islande",
+      "excerpt": "On y compte un centre de données pour 33 000 habitants, une concentration 4 fois plus élevée qu’au Canada.",
+      "published": "2026-10-18T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/geoghermie-islande.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T08:39:14.766Z"
+    },
+    {
+      "id": "d834acf1c965cf55",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293352/referendum-alberta-message-ottawa-prix",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293352/referendum-alberta-message-ottawa-prix",
+      "title": "Référendum en Alberta : envoyer un message à Ottawa, mais à quel prix?",
+      "excerpt": "Le militant Benoit Trudeau et l'ex-premier ministre Jason Kenney présentent leurs points de vue opposés.",
+      "published": "2026-10-18T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ben-trudeau-jason-kenney-referendum-alberta.png",
+      "type": "article",
+      "addedAt": "2026-10-18T08:39:14.766Z"
+    },
+    {
       "id": "0db0ad70a5d412a6",
       "guid": "https://ici.radio-canada.ca/sports/2293567/canadien-bases-solides-opportunisme-erreurs",
       "link": "https://ici.radio-canada.ca/sports/2293567/canadien-bases-solides-opportunisme-erreurs",
