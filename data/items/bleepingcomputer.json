@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "74ff0a30f9fe582b",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root",
+      "excerpt": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "published": "2026-10-18T14:23:16.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-18T14:36:41.118Z"
+    },
+    {
       "id": "74a44f824ba0950d",
       "guid": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
