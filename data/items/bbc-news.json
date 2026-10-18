@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "4758de419fccf66a",
+      "guid": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o#1",
+      "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o",
+      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+      "excerpt": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+      "published": "2026-10-18T11:09:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21f0/live/4a3b0720-cae5-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T11:36:28.430Z"
+    },
+    {
+      "id": "9c3d99adf48888e1",
+      "guid": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go#1",
+      "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go",
+      "title": "Watch: Parisians wake up to protest damage and looted shops",
+      "excerpt": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+      "published": "2026-10-18T10:58:39.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8791/live/7abdd380-cadd-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T11:36:28.430Z"
+    },
+    {
+      "id": "1fb846b4be1b37f9",
+      "guid": "https://www.bbc.co.uk/news/articles/cq2e9nw82ljdo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9nw82ljdo",
+      "title": "NHS data breaches a disgrace, says health secretary",
+      "excerpt": "A total of 15 NHS staff are sacked for accessing records of the Nottingham attacks victims.",
+      "published": "2026-10-18T10:52:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e263/live/09cf2ae0-cad6-11f1-bc2e-018d645d8d21.png",
+      "type": "article",
+      "addedAt": "2026-10-18T11:36:28.430Z"
+    },
+    {
       "id": "f3ad38ae9d913bf9",
       "guid": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o#1",
       "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o",
@@ -3829,6 +3862,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/770c/live/9137dcc0-c6df-11f1-9a39-31b474234113.jpg",
       "type": "article",
       "addedAt": "2026-10-13T10:32:52.863Z"
+    },
+    {
+      "id": "7433d62daa523b70",
+      "guid": "https://www.bbc.co.uk/news/articles/c6x23gvgkv99o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6x23gvgkv99o",
+      "title": "Martin Freeman to give Gromit a voice for first time in new audiobook",
+      "excerpt": "Martin Freeman will be the voice of Aardman's Gromit in new audiobook.",
+      "published": "2026-10-13T09:58:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f32/live/b3130960-c701-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-18T11:36:28.430Z"
     },
     {
       "id": "01358d2d6eea81d3",

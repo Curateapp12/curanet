@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "765777d3d92c3c0b",
+      "guid": "dd363bf2-6754-4595-bbfe-55fee21044f9",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-st-petersburg-100.html",
+      "title": "Russland meldet Drohnenangriffe in St. Petersburg",
+      "excerpt": "Die Ukraine hat in St. Petersburg nach russischen Angaben erneut Ölanlagen und ein Logistikzentrum angegriffen. Behörden zufolge kam dabei ein Mensch ums Leben. Auch die Ukraine meldet massiven Beschuss ihrer Energieanlagen und Tote.",
+      "published": "2026-10-18T11:25:50.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5611c968-7796-494f-a3a1-dd18cf907e1c/AAABoU57WEs/AAABnSSvrFg/16x9-big/oelterminal-sankt-petersburg-feuer-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-18T11:36:28.430Z"
+    },
+    {
+      "id": "b1f186fb4b407cf3",
+      "guid": "8ea31063-ffbb-4416-ae94-b2914b50b3dc",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html",
+      "title": "Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse",
+      "excerpt": "Das deutsche Krankenversicherungssystem ist speziell. Während in vielen Ländern die private Versicherung eine Ergänzung ist, ist sie hierzulande für Millionen Menschen das Hauptsystem. Von L.-M. Hiltscher.",
+      "published": "2026-10-18T11:18:25.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2adfa06c-51fb-4e2e-8fe3-0783f160a7b1/AAABnc9GHcQ/AAABnSSvrFg/16x9-big/private-krankenkasse-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-18T11:36:28.430Z"
+    },
+    {
+      "id": "eba5e3437b2219b8",
+      "guid": "5dd24919-3464-4b7d-bc9d-96ef3e1208e4",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-junge-union-102.html",
+      "title": "CSU-Chef Söder fordert bei Junger Union \"Brandmauer nach links\"",
+      "excerpt": "Dass Linke, Grüne und SPD sich in Berlin auf Koalitionsgespräche verständigt haben, führt auf dem \"Deutschlandtag\" der Jungen Union zu heftiger Kritik: CSU-Chef Söder fordert eine klare Abgrenzung nach links - unter dem Jubel der Delegierten.",
+      "published": "2026-10-18T11:17:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/174a16af-8ed6-4639-b6a4-e26147d1e1eb/AAABoU6FdaM/AAABnSSvrFg/16x9-big/soeder-junge-union-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-18T11:36:28.430Z"
+    },
+    {
       "id": "3b0006afd56f5de8",
       "guid": "a85382a9-88eb-4a32-bde8-b69da7e1d1bb",
       "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheit-aerztemangel-brandenburg-100.html",
