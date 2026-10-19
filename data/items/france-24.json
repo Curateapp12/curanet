@@ -3,6 +3,61 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "1dded16eb140d206",
+      "guid": "5f9055da-cbad-11f1-95e7-2760f5b7f957",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-crise-politique-que-se-passe-t-il-en-france",
+      "title": "Crise politique : que se passe-t-il en France ?",
+      "excerpt": "En #France, les manifestations du 17 octobre ont été marquées par des violences et des affrontements avec la police. Entre gestion de l’ordre public, réactions politiques, traitement médiatique et mobilisation sociale, ces événements se transforment en crise politique à 6 mois de l'élection…",
+      "published": "2026-10-19T11:23:13.000Z",
+      "thumbnail": "https://s.france24.com/media/display/3ac9a5a8-cbad-11f1-b0f4-2d1c143cdef3/w:1024/p:16x9/crise-France-00-00-10-12-Still001.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T11:42:44.680Z"
+    },
+    {
+      "id": "24674b76b9f523e3",
+      "guid": "d73d8fe4-cbad-11f1-9f59-993212fff723",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-17-octobre-le-premier-ministre-r%C3%A9unit-l-ex%C3%A9cutif-place-beauveau",
+      "title": "17 octobre : le Premier Ministre réunit l'exécutif place Beauveau",
+      "excerpt": "Suite au week-end de manifestations mouvementées, le Premier ministre a mis en place une réunion de crise ce lundi 19 octobre, à l'issue duquel il affirme avoir \"demandé aux préfets de déclencher un certain nombre de couvre-feux ⁠pour ce soir\". Les précisions de Marie Schuster, journaliste à…",
+      "published": "2026-10-19T11:15:51.000Z",
+      "thumbnail": "https://s.france24.com/media/display/d05c1a24-cbad-11f1-95a8-2d1c143cdef3/w:1024/p:16x9/FR-20261019-113058-113244-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T11:42:44.680Z"
+    },
+    {
+      "id": "aca0a09405bb3759",
+      "guid": "d5a88c98-cb89-11f1-8b9a-0fb24689b186",
+      "link": "https://www.france24.com/fr/sports/20261019-une-ligue-1-serr%C3%A9e-chwalinska-titr%C3%A9e-et-lebrun-champion-d-europe-les-infos-sport-du-week-end",
+      "title": "Une Ligue 1 serrée, Chwalinska titrée et Lebrun champion d'Europe : les infos sport du week-end",
+      "excerpt": "Le championnat de football français est plus serré que jamais : cinq équipes sont à égalité de points en tête du classement après la 7e journée de Ligue 1 ce week-end. Du côté du ping, Félix Lebrun a été sacré champion d'Europe de tennis de table pour la première fois en Slovénie. Enfin, la…",
+      "published": "2026-10-19T10:57:25.000Z",
+      "thumbnail": "https://s.france24.com/media/display/6423224c-cb96-11f1-9b0e-6313a763b466/w:1024/p:16x9/recap-sport-19-10-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T11:42:44.680Z"
+    },
+    {
+      "id": "cd79e88339539fba",
+      "guid": "68a5a504-c977-11f1-9473-57c6a7bff004",
+      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261019-au-liban-la-crise-%C3%A9conomique-et-l-inflation-frappent-les-foyers",
+      "title": "Au Liban, la crise économique et l'inflation frappent les foyers",
+      "excerpt": "Au Liban, la crise économique dure depuis 2019. La reprise de la guerre entre Israël et le Hezbollah ainsi que la crise régionale ont cassé le fragile rebond observé l’an dernier. La Banque mondiale prévoit désormais une contraction de l’économie de 6,4 % cette année et une inflation autour de…",
+      "published": "2026-10-19T10:54:30.000Z",
+      "thumbnail": "https://s.france24.com/media/display/a41d5f50-cba7-11f1-9113-d1d2c32ebb87/w:1024/p:16x9/capture-a644ee1b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T11:42:44.680Z"
+    },
+    {
+      "id": "4572c10e074813a7",
+      "guid": "a7ef3bac-cba3-11f1-8147-a358deba4f34",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-17-octobre-les-violences-en-marge-des-manifestations-font-le-lit-du-rassemblement-national",
+      "title": "17 octobre : les violences en marge des manifestations font le lit du rassemblement national",
+      "excerpt": "Le président du Rassemblement national Jordan Berdella a vivement critiqué, dimanche 18 octobre, une \"lamentable allocution\" du Président français et un pouvoir qui \"n'a plus rien à dire aux Français, plus rien à leur proposer\". Les précisions de Roselyne Febvre, cheffe du service politique à…",
+      "published": "2026-10-19T10:46:06.000Z",
+      "thumbnail": "https://s.france24.com/media/display/a256de48-cba3-11f1-9cc7-d1d2c32ebb87/w:1024/p:16x9/FR-20261019-110215-110549-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T11:42:44.680Z"
+    },
+    {
       "id": "c6435262b4d00eae",
       "guid": "df6a3b0c-cba5-11f1-81ae-dde5fdd560ce",
       "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-cameroun-tiriane-balbine-noah-prend-la-t%C3%AAte-du-mrc-un-des-principaux-partis-de-l-opposition",
