@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "e6e317388cf6d5cd",
+      "guid": "0893cd7b-ef22-4234-b7f3-6fc4b305a466",
+      "link": "https://www.tagesschau.de/wirtschaft/reiche-wasserstoff-ausbau-millarden-100.html",
+      "title": "Reiche verspricht Milliarden für Wasserstoff-Ausbau",
+      "excerpt": "Der Markt für Wasserstoff kommt nur langsam in Gang. Wirtschaftsministerin Reiche will nun mit Milliardenhilfen für die Industrie und Anreizen für klimafreundlichen Stahl gegensteuern.",
+      "published": "2026-10-19T12:34:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ef0ecb5b-3026-46e0-aa66-4f5bc4f7ede5/AAABoVPAu5s/AAABnSSvrFg/16x9-big/reiche-238.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T12:51:42.327Z"
+    },
+    {
+      "id": "581e14cc00dd16ae",
+      "guid": "b24602f6-30f6-4c84-b08d-f2f14223d0d8",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/frauen-anteil-fuehrungspositionen-100.html",
+      "title": "Anteil weiblicher Führungskräfte in Deutschland weiterhin niedrig",
+      "excerpt": "Der Anteil von Frauen in Spitzenpositionen verharrt in Deutschland weiter unter dem EU-Durchschnitt: Weniger als ein Drittel der Chefposten war 2025 weiblich besetzt. Spitzenreiter im EU-Vergleich bleibt Schweden.",
+      "published": "2026-10-19T12:19:43.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/97879354-4f0e-426a-9db8-454b965b882c/AAABoVPgHcQ/AAABnSSvrFg/16x9-big/chefin-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T12:51:42.327Z"
+    },
+    {
+      "id": "8d134b2a7a56d0c4",
+      "guid": "6ad44b99-7c9e-42a3-adfa-8d90fd114952",
+      "link": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html",
+      "title": "Zwölf Migranten bei zwei Bootsunglücken in der Ägäis gestorben",
+      "excerpt": "Vor den griechischen Inseln Samos und Lesbos sind binnen weniger Stunden zwei Boote mit Migranten verunglückt. Laut Behörden starben mindestens zwölf Menschen. Ein mutmaßlicher Schleuser wurde festgenommen.",
+      "published": "2026-10-19T12:07:14.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/acd68702-b85b-4073-a09a-031007990950/AAABoVQc-Mc/AAABnSSvrFg/16x9-big/boot-lesbos-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T12:51:42.327Z"
+    },
+    {
+      "id": "b51854b94ba1c8fb",
+      "guid": "afadf5ea-d468-4e3e-8e7d-3d91c18e5e74",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html",
+      "title": "Marktbericht: Sorgen um Frankreich belasten den Euro",
+      "excerpt": "Die Gewalteskalation in Frankreich lastet auch auf den Finanzmärkten. Sie lässt die Sorge um die französischen Staatsfinanzen wieder aufleben. Der Euro fiel zeitweise wieder unter 1,12 Dollar zurück.",
+      "published": "2026-10-19T12:05:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/89f6e04f-23fd-4233-98f1-c20b88f05737/AAABoVOWWLw/AAABnSSvrFg/16x9-big/paris-proteste-130.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T12:51:42.327Z"
+    },
+    {
+      "id": "ccb6031a6604e90a",
+      "guid": "7e03127a-a0ed-4315-8d6a-3075eed0db12",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ein-jahr-louvre-einbruch-100.html",
+      "title": "Louvre: Weiterhin keine Spur von den geraubten Kronjuwelen",
+      "excerpt": "Vor einem Jahr erbeuteten Diebe die französischen Kronjuwelen aus dem Pariser Louvre. Das Museum hat seine Sicherheitsvorkehrungen mittlerweile verschärft, aber vom Schmuck fehlt weiterhin jede Spur. Von Cai Rienäcker.",
+      "published": "2026-10-19T11:46:08.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/09f291f3-14d8-4f92-ae5e-e75408cadc4c/AAABoVQB04g/AAABnSSvrFg/16x9-big/louvre-paris-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T12:51:42.327Z"
+    },
+    {
       "id": "6c6dfe8affacc7b6",
       "guid": "af94fb4a-1204-4367-a5af-af6f865470df",
       "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-konjunktur-industrie-100.html",
