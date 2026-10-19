@@ -3,6 +3,83 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "de4484a43e96c7a4",
+      "guid": "https://www.bbc.co.uk/news/articles/cm70px2d1ynlo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm70px2d1ynlo",
+      "title": "Prime minister visits Aberfan ahead of 60th anniversary of 'horrifying tragedy'",
+      "excerpt": "A total of 116 children and 28 adults were killed on 21 October 1966 when a colliery spoil tip collapsed.",
+      "published": "2026-10-19T13:45:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/1073ecd0-cbc3-11f1-aba9-2bb2608f11d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T13:54:36.488Z"
+    },
+    {
+      "id": "7277887c1207a15b",
+      "guid": "https://www.bbc.co.uk/news/articles/cry83jz19v26o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cry83jz19v26o",
+      "title": "Trial hears Robinson 'intimidated' Daily Mail reporters",
+      "excerpt": "The activist is accused of \"bully-boy tactics\" and denies harassment causing fear of violence.",
+      "published": "2026-10-19T13:42:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11a2/live/4de7a440-cbbd-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T13:54:36.488Z"
+    },
+    {
+      "id": "51cbe28e2cc02678",
+      "guid": "https://www.bbc.co.uk/news/articles/c3lylj78777do#4",
+      "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do",
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "excerpt": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "published": "2026-10-19T13:42:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6002/live/ca68a640-cbae-11f1-821f-c5d07d801cca.png",
+      "type": "article",
+      "addedAt": "2026-10-19T13:54:36.488Z"
+    },
+    {
+      "id": "607f4bd2691011f1",
+      "guid": "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o",
+      "title": "Apu returns to The Simpsons with new voice after race row",
+      "excerpt": "The much-loved shopkeeper has been seen but not heard around Springfield for eight years, until now.",
+      "published": "2026-10-19T13:22:24.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6990/live/9f2da090-cbb6-11f1-81ef-39e22b578b80.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T13:54:36.488Z"
+    },
+    {
+      "id": "209e0c3803372aae",
+      "guid": "https://www.bbc.co.uk/news/articles/cmx2wqwxvyxlo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2wqwxvyxlo",
+      "title": "Kylie Jenner's debut at Victoria's Secret Fashion Show in $50m bra sparks mixed reaction",
+      "excerpt": "The reality star's surprise appearance on the runway in the diamond encrusted piece has sparked mixed reaction.",
+      "published": "2026-10-19T13:16:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b5/live/61a0bf00-cbc0-11f1-81ef-39e22b578b80.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T13:54:36.488Z"
+    },
+    {
+      "id": "cbb82e8b42f0650e",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo",
+      "title": "Haaland a doubt, Semenyo out - what are Man City's options?",
+      "excerpt": "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
+      "published": "2026-10-19T13:11:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df87/live/52e94c20-cbbb-11f1-81ef-39e22b578b80.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T13:54:36.488Z"
+    },
+    {
+      "id": "621909e27833a116",
+      "guid": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go#4",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go",
+      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+      "excerpt": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+      "published": "2026-10-19T12:16:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1735/live/c618ad10-cbae-11f1-821f-c5d07d801cca.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T13:54:36.488Z"
+    },
+    {
       "id": "6dcc75e87d542c70",
       "guid": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o#1",
       "link": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o",
@@ -67,6 +144,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
       "type": "article",
       "addedAt": "2026-10-19T10:41:45.585Z"
+    },
+    {
+      "id": "3e43cecd3f78e60e",
+      "guid": "https://www.bbc.co.uk/news/articles/cm8xz5kxkkkqo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xz5kxkkkqo",
+      "title": "You Can See Everything documentary stuns with huge box office debut",
+      "excerpt": "It shows fraudster Elizabeth Holmes invite a sceptical film into her home before she's sent to prison.",
+      "published": "2026-10-19T10:37:13.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cb/live/078117f0-cba1-11f1-9ee2-f74dfb8e54e5.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T13:54:36.488Z"
     },
     {
       "id": "eec7e10620b48f6e",
