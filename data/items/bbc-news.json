@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "502e5e3103147a31",
+      "guid": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
+      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "excerpt": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+      "published": "2026-10-19T16:32:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46e4/live/de2c13b0-cbd1-11f1-aba9-2bb2608f11d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T16:44:21.982Z"
+    },
+    {
+      "id": "d37be34335120dc2",
+      "guid": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "excerpt": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "published": "2026-10-19T16:22:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
+      "type": "article",
+      "addedAt": "2026-10-19T16:44:21.982Z"
+    },
+    {
+      "id": "fa77b8873fa1256e",
+      "guid": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo",
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "excerpt": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
+      "published": "2026-10-19T16:16:51.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/e0f10480-cb2b-11f1-97d2-23d8daaba2e1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T16:44:21.982Z"
+    },
+    {
       "id": "1b3debc28a2cfbfd",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo#1",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo",
@@ -298,6 +331,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a89/live/745808b0-cb98-11f1-93a7-b36f3083f4d3.jpg",
       "type": "article",
       "addedAt": "2026-10-19T09:46:11.185Z"
+    },
+    {
+      "id": "280ae223b60cf9a5",
+      "guid": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o",
+      "title": "Mission set to blast off for Mars to grab a piece of its moon",
+      "excerpt": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "published": "2026-10-19T08:03:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e5/live/791ac150-c8ad-11f1-9c75-6ff1271de385.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T16:44:21.982Z"
     },
     {
       "id": "929c21963714f2ba",
