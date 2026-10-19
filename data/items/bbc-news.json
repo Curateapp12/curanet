@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "f3deb8555cf117a0",
+      "guid": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo",
+      "title": "Reform MSP quits party to sit as independent",
+      "excerpt": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour.",
+      "published": "2026-10-19T10:38:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+      "type": "article",
+      "addedAt": "2026-10-19T10:41:45.585Z"
+    },
+    {
+      "id": "72a023eee58c2f44",
+      "guid": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo",
+      "title": "Four arrested after police officer injured in shooting",
+      "excerpt": "The officer was shot in the foot and remains in hospital in a stable condition, police say.",
+      "published": "2026-10-19T10:26:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db0a/live/41394270-cba5-11f1-9ee2-f74dfb8e54e5.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T10:41:45.585Z"
+    },
+    {
+      "id": "cd5d459fff313d29",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo",
+      "title": "England manager Wiegman signs contract extension",
+      "excerpt": "Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029.",
+      "published": "2026-10-19T10:08:01.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383f/live/75035850-cba2-11f1-9ee2-f74dfb8e54e5.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T10:41:45.585Z"
+    },
+    {
+      "id": "4fb27edfd91cc258",
+      "guid": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo#4",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "excerpt": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "published": "2026-10-19T09:40:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e871/live/9a1e4770-cb94-11f1-93a7-b36f3083f4d3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T10:41:45.585Z"
+    },
+    {
       "id": "0e5a38e8465e6051",
       "guid": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo#4",
       "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo",
@@ -34,6 +78,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg",
       "type": "article",
       "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
+      "id": "901707b1660e0814",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/cqm24nezmy23o#8",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqm24nezmy23o",
+      "title": "Best images of F1 in the US through the years",
+      "excerpt": "A selection of images from F1 races in the US, from Indianapolis, Watkins Glen and Long Beach to the streets of Dallas and the Caesars Palace car park.",
+      "published": "2026-10-19T06:17:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a53/live/373fc7a0-c941-11f1-8c38-abe947e72d6d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T10:41:45.585Z"
     },
     {
       "id": "6999d40e8ab4db58",

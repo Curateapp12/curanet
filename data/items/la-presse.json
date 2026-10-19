@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "de7d749dfa866346",
+      "guid": "8c690a543c373996a470e08108e5404c",
+      "link": "https://www.lapresse.ca/actualites/national/2026-10-19/incendie-sur-une-base-militaire-en-alberta/des-canadiens-sont-prets-a-donner-du-sang.php",
+      "title": "Incendie sur une base militaire en Alberta | Des Canadiens sont prêts à donner du sang",
+      "excerpt": "Certains Canadiens retroussent leur manche pour donner leur sang alors que la ville militaire de Wainwright, en Alberta, pleure les quatre soldats tués lors d’un exercice d’entraînement, cette fin de semaine.",
+      "published": "2026-10-19T10:30:07.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/c8dba2d0ff663f1ebd98fbbb18717e3b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T10:41:45.585Z"
+    },
+    {
+      "id": "f6cd9586abfe182f",
+      "guid": "bfb0de357b64303fb82bb5a27ab04f0a",
+      "link": "https://www.lapresse.ca/actualites/2026-10-19/ce-qu-on-suit-ce-lundi/referendum-en-alberta-parti-liberal-du-quebec-indice-des-prix-a-la-consommation.php",
+      "title": "Ce qu’on suit ce lundi | Référendum en Alberta, Parti libéral du Québec, indice des prix à la consommation",
+      "excerpt": "Voici les évènements au programme aujourd’hui.",
+      "published": "2026-10-19T10:27:09.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/94f50acb8089372cac09208c367370f1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T10:41:45.585Z"
+    },
+    {
+      "id": "a0c6e0e85055df62",
+      "guid": "3333aff5a65f3a0e865ec0037b44902a",
+      "link": "https://www.lapresse.ca/actualites/2026-10-19/la-revue-de-presse-de-paul-arcand/tragedie-a-la-base-militaire-de-wainwright-referendum-en-alberta-et-la-police-est-debordee-en-france.php",
+      "title": "La revue de presse de Paul Arcand | Tragédie à la base militaire de Wainwright, référendum en Alberta et la police est débordée en France",
+      "excerpt": "À l’occasion de sa revue de presse, lundi, Paul Arcand fait le point sur la tragédie mortelle survenue à la base militaire de Wainwright, en Alberta, en fin de semaine.",
+      "published": "2026-10-19T10:12:09.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/af5002d52e043fe692ad53450eec76e4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T10:41:45.585Z"
+    },
+    {
+      "id": "5c991525b8318db9",
+      "guid": "1424b099479036db9e2d128044190c28",
+      "link": "https://www.lapresse.ca/actualites/environnement/2026-10-19/planete-bleue-idees-vertes/la-ruelle-eponge-qui-verdit.php",
+      "title": "Planète bleue, idées vertes | La ruelle éponge qui verdit",
+      "excerpt": "Aménager une ruelle pour capter l’eau de pluie, tout en la verdissant ? L’idée paraît simple, mais il aura fallu une dizaine d’années à l’Alliance Ruelles bleues-vertes pour aménager son premier site au Bâtiment 7, dans le sud-ouest de Montréal – une première au Québec. Trois ans après sa…",
+      "published": "2026-10-19T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/b358074580ba31c49579182d20b061e5.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T10:41:45.585Z"
+    },
+    {
+      "id": "038a5f3c37264814",
+      "guid": "35831eaf23af307e9f87cad79e0532b9",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-19/transports-en-direct/voyants-au-vert-les-voies-du-pont-honore-mercier-rouvertes.php",
+      "title": "Transports en direct | Voyants au vert, les voies du pont Honoré-Mercier rouvertes",
+      "excerpt": "Quelque chose à signaler sur les routes ou sur les rails ? La Presse examine le réseau en cette heure de pointe matinale et précise la couleur des feux de circulation.",
+      "published": "2026-10-19T09:56:17.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/63867cfe84d6309499a8d59d573c0706.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T10:41:45.585Z"
+    },
+    {
       "id": "1a707ae31308e8d2",
       "guid": "c30a723a3dfa3aabb03df01ec783c8df",
       "link": "https://www.lapresse.ca/actualites/2026-10-19/ce-que-vous-avez-manque-cette-nuit/sirop-d-erable-france-ukraine.php",
