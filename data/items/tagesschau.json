@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "c41d326fdd135667",
+      "guid": "36a72566-4ffe-4525-a5a2-6d21edebd734",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-mallorca-sturmwarnung-100.html",
+      "title": "Sturmtief \"Adam\": Behörden warnen vor Unwetter auf Mallorca",
+      "excerpt": "Mallorca bereitet sich auf schwere Regenfälle vor. Wegen des Sturmtiefs \"Adam\" herrscht Warnstufe Rot, die Schulen sind geschlossen, viele Flüge bereits ausgefallen. Auf dem spanischen Festland kam es bereits zu Überflutungen.",
+      "published": "2026-10-19T05:31:49.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4ccf979e-c7a5-454d-90ae-a1ac3961b667/AAABoVKlB8g/AAABnSSvrFg/16x9-big/mallorca-sturm-gesperrte-strasse-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T05:40:28.730Z"
+    },
+    {
+      "id": "898d8931f00700a8",
+      "guid": "64c3d152-2b06-4b29-b30c-8e96f366c52d",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+      "title": "Marktbericht: DAX steht schwacher Wochenstart bevor",
+      "excerpt": "Positive Konjunkturdaten aus China, Gegenwind der US-Börsen und eine unübersichtliche Lage in Frankreich - ein Mix, der den DAX zum Wochenauftakt belasten könnte.",
+      "published": "2026-10-19T05:08:06.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T05:40:28.730Z"
+    },
+    {
+      "id": "3e701eb9ea1a6d05",
+      "guid": "1bd3a6ea-e9a7-4682-a85e-bb260a9f2313",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html",
+      "title": "Alberta stimmt über mögliche Abspaltung von Kanada ab",
+      "excerpt": "Seit einigen Jahren erstarkt in der ölreichen Provinz Alberta im Westen Kanadas eine Separatistenbewegung - unterstützt auch von US-Präsident Trump. Heute wird über ein mögliches Unabhängigkeitsreferendum abgestimmt. Von Martin Ganslmeier.",
+      "published": "2026-10-19T04:55:25.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b36f4cfb-1419-4c96-a1e5-cc771568fb5d/AAABoVJNsXw/AAABnSSvrFg/16x9-big/kanada-alberta-flaggen-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T05:40:28.730Z"
+    },
+    {
       "id": "0321da3661fdb924",
       "guid": "4e4d8692-6d4d-435c-a4a9-b4dbf9eca6ed",
       "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-beamte-100.html",
