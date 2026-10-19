@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "91b51457a230f81d",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no",
+      "title": "Ronaldo handed 30-day suspension by Portuguese FA",
+      "excerpt": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
+      "published": "2026-10-19T18:37:07.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4183/live/fc5daf60-cbea-11f1-ad7b-fd8c269705fe.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T18:49:56.880Z"
+    },
+    {
+      "id": "073d0c4f4e9ca5f0",
+      "guid": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "excerpt": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "published": "2026-10-19T18:23:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68c7/live/28c5fe60-cbcb-11f1-aba9-2bb2608f11d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T18:49:56.880Z"
+    },
+    {
+      "id": "e11c4e750a179d58",
+      "guid": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "excerpt": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "published": "2026-10-19T18:21:54.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T18:49:56.880Z"
+    },
+    {
+      "id": "669e2b3f9394dda1",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o",
+      "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
+      "excerpt": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
+      "published": "2026-10-19T18:13:52.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f576/live/d7713300-cbe7-11f1-ad7b-fd8c269705fe.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T18:49:56.880Z"
+    },
+    {
       "id": "a7c3f266e2eb8181",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo#8",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo",
@@ -56,6 +100,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
       "type": "article",
       "addedAt": "2026-10-19T16:44:21.982Z"
+    },
+    {
+      "id": "29b69d69c7908a8c",
+      "guid": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "excerpt": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "published": "2026-10-19T16:20:51.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T18:49:56.880Z"
     },
     {
       "id": "fa77b8873fa1256e",
