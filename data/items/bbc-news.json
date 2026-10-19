@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "0e5a38e8465e6051",
+      "guid": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo",
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "excerpt": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
+      "published": "2026-10-19T09:11:42.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3478/live/aeec8b30-c4d2-11f1-b8e5-dd3682886df5.png",
+      "type": "article",
+      "addedAt": "2026-10-19T09:46:11.185Z"
+    },
+    {
+      "id": "7e3c5f0bb506cf77",
+      "guid": "https://www.bbc.co.uk/news/articles/cxly435ym787o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cxly435ym787o",
+      "title": "Selena Gomez says vaping has affected her voice",
+      "excerpt": "The 34-year-old says vaping nicotine \"a lot\" permanently affected her singing and speaking voice.",
+      "published": "2026-10-19T08:57:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a89/live/745808b0-cb98-11f1-93a7-b36f3083f4d3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T09:46:11.185Z"
+    },
+    {
       "id": "929c21963714f2ba",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro",
@@ -133,6 +155,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68dd/live/22d4e480-cb6c-11f1-a4ab-0f7a37e66bc1.jpg",
       "type": "article",
       "addedAt": "2026-10-19T04:42:59.181Z"
+    },
+    {
+      "id": "2874b0c23ded4abb",
+      "guid": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo#4",
+      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
+      "title": "Judgement day for Kenya pastor accused of ordering parents to starve their children to death",
+      "excerpt": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
+      "published": "2026-10-19T03:44:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8068/live/34a82040-c956-11f1-8879-9d9deeb686e1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T09:46:11.185Z"
     },
     {
       "id": "90487d3f6969e2c1",

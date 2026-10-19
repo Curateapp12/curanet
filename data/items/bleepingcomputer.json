@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "15156651e22133c3",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "excerpt": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+      "published": "2026-10-19T08:58:41.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-19T09:46:11.185Z"
+    },
+    {
       "id": "74ff0a30f9fe582b",
       "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",

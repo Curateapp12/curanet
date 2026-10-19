@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "5f683394ffb5bb37",
+      "guid": "3f1a366f-9c2d-4434-bc88-3d7ff9ed44b7",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-200.html",
+      "title": "Russland greift Kiew offenbar erneut mit Raketen an",
+      "excerpt": "Russland hat die Ukraine abermals mit Raketen und Drohnen angegriffen - einmal mehr gab es laut dem ukrainischen Präsidenten Selenskyj keine frühzeitige Warnung westlicher Partner. US-Außenminister Rubio widerspricht.",
+      "published": "2026-10-19T09:44:51.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e5a16fff-579e-4468-9da2-7ce487cbb51d/AAABoVNtEvE/AAABnSSvrFg/16x9-big/kiew-truemmer-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T09:46:11.185Z"
+    },
+    {
+      "id": "85efc191c1e3e77f",
+      "guid": "4fda954d-9d85-45a4-a293-f69e61c506b2",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
+      "title": "Volkswagen will offenbar Gehälter einfrieren",
+      "excerpt": "Der angeschlagene Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern.",
+      "published": "2026-10-19T09:06:30.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/47307358-895f-490d-854a-43fc6b970342/AAABnwOZLtQ/AAABnSSvrFg/16x9-big/vw-1156.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T09:46:11.185Z"
+    },
+    {
+      "id": "3286c831e3e80295",
+      "guid": "118e117b-92ff-4c0e-8c2a-59e52814b640",
+      "link": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
+      "title": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
+      "excerpt": "In Kiew steht der nächste Kriegswinter bevor. Viele Menschen werfen Bürgermeister Klitschko hier Missmanagement vor. Statt die Strom- und Wasserversorgung zu sichern, würde Geld für Straßenbau ausgegeben. Von Rebecca Barth.",
+      "published": "2026-10-19T09:04:40.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/89f3afd3-650f-4a0e-a239-445d3851eacc/AAABoVLv6cc/AAABnSSvrFg/16x9-big/demonstration-kiew-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-19T09:46:11.185Z"
+    },
+    {
       "id": "b21eefe39473c8ae",
       "guid": "0e6b5649-bcb9-464e-b9d9-54faa2ffae45",
       "link": "https://www.tagesschau.de/wirtschaft/fachkraeftemaengel-infrastruktur-iw-studie-100.html",
