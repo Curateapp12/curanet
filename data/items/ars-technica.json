@@ -3,6 +3,50 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "fe83ce01af3ac508",
+      "guid": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "excerpt": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+      "published": "2026-10-19T20:54:17.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ICEYE_assembling_satellite_06_3x2-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T21:40:46.717Z"
+    },
+    {
+      "id": "71a28de11a06820b",
+      "guid": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "excerpt": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "published": "2026-10-19T20:21:53.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T21:40:46.717Z"
+    },
+    {
+      "id": "cc76f984ef227a75",
+      "guid": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+      "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+      "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+      "excerpt": "One way to make batteries cleaner is to make fewer of them.",
+      "published": "2026-10-19T20:03:55.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1177067-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T21:40:46.717Z"
+    },
+    {
+      "id": "de7b0df69eea7ab9",
+      "guid": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "excerpt": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+      "published": "2026-10-19T19:39:19.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp",
+      "type": "article",
+      "addedAt": "2026-10-19T21:40:46.717Z"
+    },
+    {
       "id": "013592636b30e6ee",
       "guid": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
       "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
