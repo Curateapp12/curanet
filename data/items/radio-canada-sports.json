@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "ab7c27b359c5c488",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10787261/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10787261/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-19T03:32:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T03:42:50.920Z"
+    },
+    {
+      "id": "08305cc0d01d50c7",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10787260/sports-express-18-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10787260/sports-express-18-octobre",
+      "title": "Sports Express - 18 octobre",
+      "excerpt": "Les nouvelles du sport avec Ismaël Sy",
+      "published": "2026-10-19T03:27:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T03:42:50.920Z"
+    },
+    {
+      "id": "ef0143002f91806a",
+      "guid": "https://ici.radio-canada.ca/sports/2293845/flames-hurricanes-lnh-calgary",
+      "link": "https://ici.radio-canada.ca/sports/2293845/flames-hurricanes-lnh-calgary",
+      "title": "Les Flames freinent les Hurricanes",
+      "excerpt": "Les Hurricanes avaient remporté leurs sept derniers matchs avant d'être vaincus 3-2 à Calgary.",
+      "published": "2026-10-19T03:23:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/flames-hurricanes-45545.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T03:42:50.920Z"
+    },
+    {
       "id": "0250827b2ac480e5",
       "guid": "https://ici.radio-canada.ca/sports/videos/1-10787248/william-dandjinou-satisfait-apres-une-premiere-experience-en-longue-piste",
       "link": "https://ici.radio-canada.ca/sports/videos/1-10787248/william-dandjinou-satisfait-apres-une-premiere-experience-en-longue-piste",
