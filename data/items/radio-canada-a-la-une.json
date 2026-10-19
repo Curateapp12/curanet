@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "1f0a33567516b8e7",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294044/assermentation-deputes-plq-milliard",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294044/assermentation-deputes-plq-milliard",
+      "title": "Une prestation de serment sans mention du roi pour les députés du Parti libéral du Québec",
+      "excerpt": "« Le PLQ est de retour », mais « la reconstruction n'est pas terminée », prévient Charles Milliard.",
+      "published": "2026-10-19T21:46:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/charles-milliard-plq-41982.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T22:39:28.448Z"
+    },
+    {
+      "id": "81aee9f61a7ad3a4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294080/acceleration-grands-projets-projet-loi-comite",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294080/acceleration-grands-projets-projet-loi-comite",
+      "title": "Accélération des grands projets : les ministres fédéraux défendent le projet de loi",
+      "excerpt": "Le projet de loi C-39 vise à accélérer les procédures d’autorisation des grands projets.",
+      "published": "2026-10-19T21:43:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/dawn-farrell-grands-projets.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T22:39:28.448Z"
+    },
+    {
       "id": "e5b874bca028ad97",
       "guid": "https://ici.radio-canada.ca/nouvelle/2294059/mobilisation-enseignante-imane-benchouk-quebec-immigration",
       "link": "https://ici.radio-canada.ca/nouvelle/2294059/mobilisation-enseignante-imane-benchouk-quebec-immigration",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/imane-benchouk-mobilisation-enseignante-csq-pstq-delais-immigration.jpeg",
       "type": "article",
       "addedAt": "2026-10-19T21:40:46.717Z"
+    },
+    {
+      "id": "7c56e67d2ccff03e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294018/rats-saint-roch-parvis-eglise-itinerance",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294018/rats-saint-roch-parvis-eglise-itinerance",
+      "title": "Des personnes itinérantes contraintes de dormir parmi la vermine dans Saint-Roch",
+      "excerpt": "Des rats grouillent par dizaines sur le parvis de l'église Saint-Roch, selon des témoins.",
+      "published": "2026-10-19T21:00:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/parvis-escalier-eglise-saint-roch-itinerance-quebec.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-19T22:39:28.448Z"
     },
     {
       "id": "d0fe58a10dda5f10",
