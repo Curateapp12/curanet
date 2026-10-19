@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "a7c3f266e2eb8181",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo#8",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo",
+      "title": "Boland exposes South Africa's frailties to give Robinson blueprint",
+      "excerpt": "Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test.",
+      "published": "2026-10-19T16:55:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4683/live/f2583760-cbdb-11f1-b139-f77a8b036d06.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T17:40:25.598Z"
+    },
+    {
+      "id": "48b3b4e680ee27e3",
+      "guid": "https://www.bbc.co.uk/news/articles/c83vqzkrr9zeo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqzkrr9zeo",
+      "title": "CNN anchor Christiane Amanpour to leave network after 43 years",
+      "excerpt": "The network's chief international anchor has covered wars including Rwanda, Afghanistan, Ukraine and Iran.",
+      "published": "2026-10-19T16:48:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9c/live/c05e2df0-cbdb-11f1-b139-f77a8b036d06.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T17:40:25.598Z"
+    },
+    {
       "id": "502e5e3103147a31",
       "guid": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo#2",
       "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
@@ -12,6 +34,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46e4/live/de2c13b0-cbd1-11f1-aba9-2bb2608f11d9.jpg",
       "type": "article",
       "addedAt": "2026-10-19T16:44:21.982Z"
+    },
+    {
+      "id": "f14a9c76fc7e6f1e",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o",
+      "title": "Araujo the stopgap solution fixing Liverpool's problems",
+      "excerpt": "Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?",
+      "published": "2026-10-19T16:29:34.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80e9/live/72439c40-cbc7-11f1-aba9-2bb2608f11d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T17:40:25.598Z"
     },
     {
       "id": "d37be34335120dc2",
