@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "2d101e7a88ae3071",
+      "guid": "https://www.bbc.co.uk/news/articles/cmd7qypglylxo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7qypglylxo",
+      "title": "'Postcode lottery' driving children's inequality in England, commissioner warns",
+      "excerpt": "Dame Rachel De Souza's landmark report says children are being failed by a \"postcode lottery\".",
+      "published": "2026-10-19T04:37:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ba/live/3668c500-cb64-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T04:42:59.181Z"
+    },
+    {
+      "id": "172f1677048c0ee3",
+      "guid": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo#2",
+      "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo",
+      "title": "France's government under pressure after weekend of widespread violence",
+      "excerpt": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+      "published": "2026-10-19T04:16:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68dd/live/22d4e480-cb6c-11f1-a4ab-0f7a37e66bc1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T04:42:59.181Z"
+    },
+    {
       "id": "90487d3f6969e2c1",
       "guid": "https://www.bbc.co.uk/news/articles/c680zdmn100lo#1",
       "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo",
@@ -12,6 +34,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f91d/live/31ebfb00-cb5a-11f1-97b1-010e9e08360f.jpg",
       "type": "article",
       "addedAt": "2026-10-19T03:42:50.920Z"
+    },
+    {
+      "id": "bbbf5caff322dada",
+      "guid": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo#4",
+      "link": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo",
+      "title": "BBC visits wildfire front in haze-choked Indonesia",
+      "excerpt": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
+      "published": "2026-10-19T01:57:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174e/live/b716c350-cb5f-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T04:42:59.181Z"
     },
     {
       "id": "cd3959b5032f9400",
