@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "ff25b976bdfa1d9f",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+      "excerpt": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+      "published": "2026-10-19T19:40:58.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-19T19:43:03.484Z"
+    },
+    {
+      "id": "06accfcb31a1d080",
+      "guid": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+      "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+      "excerpt": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+      "published": "2026-10-19T18:51:13.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-19T19:43:03.484Z"
+    },
+    {
       "id": "c8f4e94200b3a33f",
       "guid": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
       "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
