@@ -3,6 +3,61 @@
   "sourceId": "el-pais",
   "items": [
     {
+      "id": "cb6b89cc72a53ea1",
+      "guid": "https://elpais.com/babelia/2026-10-20/gears-of-war-y-el-videojuego-convertido-en-rock-and-roll.html",
+      "link": "https://elpais.com/babelia/2026-10-20/gears-of-war-y-el-videojuego-convertido-en-rock-and-roll.html",
+      "title": "‘Gears of War’ y el videojuego convertido en rock and roll",
+      "excerpt": "La precuela de la saga, ‘E-Day’, se convierte en uno de los juegos más brutañes y entretenidos del año",
+      "published": "2026-10-19T06:43:47.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/KLWGQ5WPMZAZBPZYJVLZFNRWZI.jpeg?auth=f807d4ebcac0b424c86c498b272c8f44d8f1d3eaeea6a46976b7d43a656f937c",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
+      "id": "02956076aefe1964",
+      "guid": "https://elpais.com/internacional/2026-10-19/macron-rechaza-la-dimision-del-ministro-del-interior-tras-los-disturbios-del-fin-de-semana.html",
+      "link": "https://elpais.com/internacional/2026-10-19/macron-rechaza-la-dimision-del-ministro-del-interior-tras-los-disturbios-del-fin-de-semana.html",
+      "title": "Macron rechaza la dimisión del ministro del Interior tras los disturbios del fin de semana",
+      "excerpt": "El presidente de Francia pide a Laurent Nuñez que despliegue nuevos métodos de intervención policial contra los grupos violentos",
+      "published": "2026-10-19T06:42:26.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/WM5Z2HEBNRORTILTEP7AF7HCKI.jpg?auth=b47cd45a227fa3ce3e9e99bf768953c8986558219b1bbf7f7bcdda4b48992e58",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
+      "id": "8c4d2fba888114d0",
+      "guid": "https://elpais.com/videos/2026-10-19/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "link": "https://elpais.com/videos/2026-10-19/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "title": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "excerpt": "Aimar Bretos dirige el análisis de los temas de actualidad en las mañanas de la Cadena SER, acompañado por Lucía Méndez, Antón Losada y Carlos E. Cué",
+      "published": "2026-10-19T06:23:44.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
+      "id": "394fa5f7b1f7a310",
+      "guid": "https://elpais.com/economia/2026-10-19/la-economia-china-acelera-su-crecimiento-al-45-en-el-tercer-trimestre.html",
+      "link": "https://elpais.com/economia/2026-10-19/la-economia-china-acelera-su-crecimiento-al-45-en-el-tercer-trimestre.html",
+      "title": "La economía china acelera su crecimiento al 4,5% en el tercer trimestre",
+      "excerpt": "El tirón exportador sostiene el avance del PIB, mientras Pekín reconoce la debilidad de la demanda interna y la inversión inmobiliaria sigue cayendo",
+      "published": "2026-10-19T05:52:32.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/UMGXCREMIRJPBAFDJ4L3KEFKEE.jpg?auth=fc92dfb1da093a1837ec120411031af3bb9922c2d9334c0586cc3e222774e9fe",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
+      "id": "31da58d26472387a",
+      "guid": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
+      "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
+      "title": "La Generalitat pide a la población de las comarcas de Gandia y Dénia que se confinen en casa por las lluvias torrenciales e inundaciones",
+      "excerpt": "Hay personas atrapadas con difícil acceso para rescatarlas. El río Girona se desborda a su paso por Els Poblets. La Generalitat declara la situación 2 de emergencia en La Marina Alta y La Safor",
+      "published": "2026-10-19T05:43:09.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/BUHN3DNCLJG2NEK3VAFKJGYHLU.jpg?auth=d817efd07493ceff17989c416593c86cc624089d8ca80a3dcc1c213c81ef7eb9",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
       "id": "a10bc9b51c7a9b29",
       "guid": "https://cincodias.elpais.com/companias/2026-10-19/el-santander-se-alia-con-nvidia-para-desplegar-la-ia-en-todo-el-banco.html",
       "link": "https://cincodias.elpais.com/companias/2026-10-19/el-santander-se-alia-con-nvidia-para-desplegar-la-ia-en-todo-el-banco.html",
@@ -78,6 +133,28 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-10-19T04:42:59.181Z"
+    },
+    {
+      "id": "4cef5e211bc69b5a",
+      "guid": "https://elpais.com/espana/catalunya/2026-10-19/la-desaparicion-del-centro.html",
+      "link": "https://elpais.com/espana/catalunya/2026-10-19/la-desaparicion-del-centro.html",
+      "title": "La desaparición del centro",
+      "excerpt": "Ni el centrismo ni el izquierdismo son una alternativa con la que jugar fuerte en el desafío actual: que la socialdemocracia conserve el poder o se imponga la alianza PP-Vox",
+      "published": "2026-10-19T03:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/WETZUURGGFNRZFVGOXOUBAB2OA.jpg?auth=94c9405a0c73d3f33a208e13cf3e31fc922307a32b5072f34b785f7791522e58",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
+      "id": "77560d7c35cba7af",
+      "guid": "https://elpais.com/opinion/2026-10-19/un-lector-reivindico-el-centrismo-pongamos-el-foco-en-aquello-que-nos-une-a-casi-todos.html",
+      "link": "https://elpais.com/opinion/2026-10-19/un-lector-reivindico-el-centrismo-pongamos-el-foco-en-aquello-que-nos-une-a-casi-todos.html",
+      "title": "Un lector: “Reivindico el centrismo, pongamos el foco en aquello que nos une a casi todos”",
+      "excerpt": "Los mensajes al director abordan la moderación política, la implicación de los menores que no votan, la responsabilidad de no compartir información falsa y las historias como vía de escape",
+      "published": "2026-10-19T03:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/FFSMZ6CGMJCLTC42NE3R5E3D54.jpg?auth=d5fe9bd9e9a87b1df414e996c46e54c061911bfe05b3853a119ab1a32d89b759",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
     },
     {
       "id": "00969069937de213",
@@ -573,6 +650,28 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/P6M6DRKQ7BGANFEGNMKBTW4YPM.jpg?auth=8d41e6bebefbcb61cfeb6598e5c653dc19793570b07db686af66a7f08b3681df",
       "type": "article",
       "addedAt": "2026-10-19T03:42:50.920Z"
+    },
+    {
+      "id": "c9ba581d786ec46b",
+      "guid": "https://elpais.com/babelia/2026-10-19/la-vida-iba-en-serio-y-tambien-en-broma.html",
+      "link": "https://elpais.com/babelia/2026-10-19/la-vida-iba-en-serio-y-tambien-en-broma.html",
+      "title": "La vida iba en serio (y también en broma)",
+      "excerpt": "Después de su biografía de Julio Iglesias, Ignacio Peyró recopila sus artículos sobre la edad adulta en ‘Qué hacemos con los domingos por la tarde’: hay hedonismo, melancolía, autoparodia y sabiduría",
+      "published": "2026-10-19T03:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/SGMIT7W6ANEHDDGPLHOBCZUELU.jpg?auth=48290991303ec8113ef5d9b2f83c21428bd903f5b637ab721b5bd7075f42b90d",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
+      "id": "fbfce75c5784d462",
+      "guid": "https://elpais.com/cultura/branded/faro-santander/2026-10-19/lo-que-pasa-cuando-se-empuja-a-los-creadores.html",
+      "link": "https://elpais.com/cultura/branded/faro-santander/2026-10-19/lo-que-pasa-cuando-se-empuja-a-los-creadores.html",
+      "title": "Todos los ojos se vuelven al norte: lo que pasa cuando se empuja a los creadores",
+      "excerpt": "Faro Santander, el nuevo espacio cultural y museístico del norte de España, lanza la II convocatoria de Ayudas a la Creación para artistas cántabros de cualquier disciplina, un programa que, además de ayuda económica, provee de asesorías especializadas y garantiza una muestra pública e[MR1.1]n el…",
+      "published": "2026-10-19T03:30:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
     },
     {
       "id": "04c744bd322a4749",

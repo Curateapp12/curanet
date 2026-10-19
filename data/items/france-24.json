@@ -3,6 +3,39 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "faa75be5015e0f93",
+      "guid": "4082364a-cb85-11f1-9201-c90aab60f771",
+      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261019-chaos-du-17-octobre-france-manifestations-casseurs-pilleurs",
+      "title": "Chaos du 17 octobre : \"Comment en est-on arrivé là ?\"",
+      "excerpt": "À la une de la presse ce lundi 19 octobre les manifestations et les scènes de violence dans toute la France ce week-end, les forces de l’ordre dépassées, les commerçants désemparés, et ce qu’en dit la presse européenne.",
+      "published": "2026-10-19T06:31:27.000Z",
+      "thumbnail": "https://s.france24.com/media/display/3a4da218-cb81-11f1-9a5f-4dd8ac2cf3bf/w:1024/p:16x9/FRAN261019-0715-Live-CS0715.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
+      "id": "63ae977653be36f4",
+      "guid": "deddc12a-cb7f-11f1-874b-5d75ada18b87",
+      "link": "https://www.france24.com/fr/europe/20261019-en-direct-ukraine-rubio-appelle-zelensky-se-concentrer-mettre-fin-guerre",
+      "title": "Ukraine : Marco Rubio appelle Volodymyr Zelensky à \"se concentrer\" pour \"mettre fin à la guerre\"",
+      "excerpt": "Depuis Samarcande, le secrétaire d'État américain Marco Rubio a appelé lundi le président ukrainien à \"se concentrer\" pour \"mettre fin à la guerre\" avec la Russie, affirmant par ailleurs qu'il n'y avait eu \"aucune pause\" dans le partage de renseignements avec Kiev. Une frappe russe a par ailleurs…",
+      "published": "2026-10-19T06:05:46.000Z",
+      "thumbnail": "https://s.france24.com/media/display/bf71a96e-cb7f-11f1-8810-6313a763b466/w:1024/p:16x9/2026-10-18T235422Z-1304641961-RC2X5OA93ZJS-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
+      "id": "8aa47f7dead980b8",
+      "guid": "3418a3ba-cb5a-11f1-b9d7-474c31e3d6b6",
+      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261019-ligue-1-lyon-nouveau-leader-apr%C3%A8s-sa-difficile-victoire-face-%C3%A0-nice",
+      "title": "Ligue 1 : Lyon nouveau leader après sa difficile victoire face à Nice",
+      "excerpt": "L’Olympique lyonnais a battu Nice (2-1) en clôture de la septième journée de Ligue 1. Avec cette victoire, Lyon prend la tête d'un classement ultraserré.",
+      "published": "2026-10-19T06:05:09.000Z",
+      "thumbnail": "https://s.france24.com/media/display/15696e4a-cb5a-11f1-8423-638c1c1f5fd6/w:1024/p:16x9/ol-1-1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
+    },
+    {
       "id": "5af27102857ec6fc",
       "guid": "9f73be20-cb7c-11f1-b8f8-7f09d4b6301d",
       "link": "https://www.france24.com/fr/france/20261019-en-direct-macron-refuse-d%C3%A9mission-nu%C3%B1ez-demande-nouveaux-modes-action-contre-casseurs",
@@ -166,6 +199,17 @@
       "thumbnail": "https://s.france24.com/media/display/77d697ea-c86e-11f1-9d22-2d1c143cdef3/w:1024/p:16x9/Exposition-Le-Diamant-rose-The-Pink-Diamond-exhibition-Copyright-L-%C3%89cole-des-Arts-Joailliers-Benjamin-Chelly-1.jpg",
       "type": "article",
       "addedAt": "2026-10-18T15:36:42.424Z"
+    },
+    {
+      "id": "a4440418a89421d9",
+      "guid": "b243cab6-cafc-11f1-a099-dd497c6477b1",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261018-clown-corrompu-lula-et-flavio-bolsonaro-s-affrontent-dans-un-d%C3%A9bat-sous-haute-tension",
+      "title": "\"Clown\", \"corrompu\" : Lula et Flavio Bolsonaro s'invectivent lors d'un débat sous haute tension",
+      "excerpt": "À une semaine du second tour de la présidentielle brésilienne, Luiz Inacio Lula da Silva et Flavio Bolsonaro ont multiplié dimanche les invectives lors de leur premier débat télévisé, laissant peu de place aux propositions. Arrivé en tête du premier tour avec 47 % des voix, le sénateur…",
+      "published": "2026-10-18T14:03:29.000Z",
+      "thumbnail": "https://s.france24.com/media/display/4e0ed88c-cb66-11f1-9254-6313a763b466/w:1024/p:16x9/29297b9da5fa063239fb8b3866149f13895e1593.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T06:54:55.081Z"
     },
     {
       "id": "5221a9482f09f993",
