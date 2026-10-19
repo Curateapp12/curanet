@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "6c1151e79e54dc70",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293373/voter-francais-elections-bc-services-francais-colombie-britannique",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293373/voter-francais-elections-bc-services-francais-colombie-britannique",
+      "title": "L’accès aux élections en français n’est pas un droit garanti en Colombie-Britannique",
+      "excerpt": "Elections BC traduit son guide de l’électeur en français, ainsi que dans 15 autres langues.",
+      "published": "2026-10-19T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/tum--vote-poste-courrier-postal-elections-canada-referendum-bc.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T08:48:55.090Z"
+    },
+    {
+      "id": "9d74b153e0ab9044",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293414/referendum-alberta-jour-vote",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293414/referendum-alberta-jour-vote",
+      "title": "C’est le jour du référendum en Alberta",
+      "excerpt": "Les électeurs se prononcent sur la place de l’Alberta au sein du Canada.",
+      "published": "2026-10-19T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/alberta-referendum-october-elections-vote.png",
+      "type": "article",
+      "addedAt": "2026-10-19T08:48:55.090Z"
+    },
+    {
+      "id": "d84ae011e2edc633",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293745/france-manifsestations-casseurs-macron-presidentielle-lepen",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293745/france-manifsestations-casseurs-macron-presidentielle-lepen",
+      "title": "France : y a-t-il encore un pilote dans l’avion?",
+      "excerpt": "Symptôme d'une France en pleine crise, les émeutes violentes tracent un portrait sombre de l'état du pays.",
+      "published": "2026-10-19T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/paris-9337.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T08:48:55.090Z"
+    },
+    {
       "id": "809a517fc2c09b4d",
       "guid": "https://ici.radio-canada.ca/nouvelle/2293856/violences-france-macron-defaillances-manifestations-police",
       "link": "https://ici.radio-canada.ca/nouvelle/2293856/violences-france-macron-defaillances-manifestations-police",
