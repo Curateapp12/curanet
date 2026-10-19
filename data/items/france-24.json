@@ -3,6 +3,61 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "8c7e032da6c641a8",
+      "guid": "98c7d814-cbc6-11f1-a3f3-9f105691cc1f",
+      "link": "https://www.france24.com/fr/france/20261019-acte-ii-le-24-octobre-mobilisation-le-5-novembre-%C3%A0-quoi-s-attendre-pour-la-suite-du-mouvement",
+      "title": "\"Acte II\" le 24 octobre, mobilisation le 5 novembre ... À quoi s'attendre pour la suite du mouvement ?",
+      "excerpt": "Après la mobilisation de samedi, des gilets jaunes ont appelé à un \"acte II\" samedi 24 octobre ainsi que le 31 octobre. La plateforme participative 17octobregiletjaune.net recense d'ores et déjà plusieurs dizaines d'actions. Les syndicats, de leur côté, maintiennent leur appel à une grande…",
+      "published": "2026-10-19T14:34:13.000Z",
+      "thumbnail": "https://s.france24.com/media/display/912dad72-cbc6-11f1-948e-4dd8ac2cf3bf/w:1024/p:16x9/000-D3K887M-1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T14:45:53.768Z"
+    },
+    {
+      "id": "045bb16ce08bf112",
+      "guid": "3e5a9ba4-cbbd-11f1-add1-e767af99ff9b",
+      "link": "https://www.france24.com/fr/afrique/20261019-des-frappes-de-drones-font-plus-de-80-morts-au-soudan",
+      "title": "Des frappes de drones font plus de 80 morts au Soudan",
+      "excerpt": "En moins de 24 heures, des dizaines de personnes ont été tuées dans des frappes de drones au Soudan. Lundi, quatre personnes, dont trois enfants, ont péri près de l'aéroport de Khartoum, la capitale du pays, au lendemain d'une attaque contre une gare routière qui a fait environ 80 morts dans le sud.",
+      "published": "2026-10-19T14:20:32.000Z",
+      "thumbnail": "https://s.france24.com/media/display/8fc4ffbc-8edb-11f1-8f3b-005056bf30b7/w:1024/p:16x9/000-B8TT6ZQ.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T14:45:53.768Z"
+    },
+    {
+      "id": "d9852ad20f502d07",
+      "guid": "b496466c-cbc5-11f1-beba-b7db5392164d",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-%C3%A9mirats-arabes-unis-emmanuel-macron-d%C3%A9bute-sa-tourn%C3%A9e-dans-les-pays-de-golfe",
+      "title": "Émirats arabes unis : Emmanuel Macron débute sa tournée dans les pays de Golfe",
+      "excerpt": "Très critiqué après un week-end de violences qui compromet la fin d'un quinquennat déjà controversé, Emmanuel Macron a entamé lundi 19 octobre une tournée dans le Golfe. Ce déplacement à des milliers de kilomètres est principalement destiné à sécuriser des volumes de pétrole et de diesel pour…",
+      "published": "2026-10-19T14:19:42.000Z",
+      "thumbnail": "https://s.france24.com/media/display/aee97f7c-cbc5-11f1-8012-6313a763b466/w:1024/p:16x9/FR-20261019-144147-144519-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T14:45:53.768Z"
+    },
+    {
+      "id": "33f53f5d16b2c290",
+      "guid": "c8be0fe4-cbc5-11f1-9b5c-c5e5e08d46d0",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-17-octobre-les-touristes-au-coeur-des-manifestations-fran%C3%A7aises",
+      "title": "17 octobre : les touristes au coeur des manifestations françaises",
+      "excerpt": "Les images de violences ces du week-end du 16 octobre en France ont fait le tour du monde. Au milieu des revendications, se trouvent les touristes questionnant ainsi le secteur du tourisme : est-ce que les mouvements sociaux français risquent de décourager les visiteurs étrangers ?",
+      "published": "2026-10-19T14:14:43.000Z",
+      "thumbnail": "https://s.france24.com/media/display/c322b8dc-cbc5-11f1-a2b1-2d1c143cdef3/w:1024/p:16x9/FR-20261019-150746-150931-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T14:45:53.768Z"
+    },
+    {
+      "id": "0b1f524c8bec60be",
+      "guid": "a56b4f92-cbc1-11f1-a0c0-1f1a5d37e679",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-17-octobre-les-violences-en-marge-des-manifestations-un-tournant-dans-la-campagne",
+      "title": "17 octobre : les violences en marge des manifestations, un tournant dans la campagne ?",
+      "excerpt": "L'allocution d'Emmanuel Macron suivie par plus de seize millions de téléspectateurs dimanche 18 octobre a été très critiqué par les oppositions. Une partie de la classe politique et des candidats à la présidentielle dénoncent l'absence de position. Même Édouard Philippe s'étonne de l'absence de…",
+      "published": "2026-10-19T14:12:01.000Z",
+      "thumbnail": "https://s.france24.com/media/display/9f798c0c-cbc1-11f1-abcb-d1d2c32ebb87/w:1024/p:16x9/FR-20261019-141104-141322-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-19T14:45:53.768Z"
+    },
+    {
       "id": "d6fe939a848d5e67",
       "guid": "16b9178e-cbc1-11f1-9e1c-e134bf4117a7",
       "link": "https://www.france24.com/fr/am%C3%A9riques/20261019-au-br%C3%A9sil-meta-somm%C3%A9e-de-prouver-sous-24-heures-sa-neutralit%C3%A9-dans-la-pr%C3%A9sidentielle",

@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "10c7257940ccee9d",
+      "guid": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+      "title": "Inside the Underground Market for Know Your Client Services",
+      "excerpt": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]",
+      "published": "2026-10-19T14:00:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-19T14:45:53.768Z"
+    },
+    {
+      "id": "59b0e474cfa72377",
+      "guid": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+      "excerpt": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+      "published": "2026-10-19T13:49:24.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-19T14:45:53.768Z"
+    },
+    {
       "id": "1f63abf1d8df5433",
       "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
