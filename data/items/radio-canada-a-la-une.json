@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "6a6df86e00d5af71",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294420/budget-federal-5-novembre-champagne",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294420/budget-federal-5-novembre-champagne",
+      "title": "Le prochain budget fédéral déposé le 5 novembre",
+      "excerpt": "Le ministre des Finances en a fait l'annonce lors de la période des questions à la Chambre des communes.",
+      "published": "2026-10-20T19:36:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/francois-philippe-champagne-taxe-accise-essence-97547.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
+      "id": "1e511ac84ae5a509",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294392/evacuation-produit-chimique-saint-hyacinthe",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294392/evacuation-produit-chimique-saint-hyacinthe",
+      "title": "Un produit s’échappe d’un laboratoire et force l’évacuation du Cégep de Saint-Hyacinthe",
+      "excerpt": "L’évacuation préventive force la fermeture de plusieurs rues dans le secteur du Cégep de Saint-Hyacinthe.",
+      "published": "2026-10-20T19:31:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/evacuation-produit-chimique-saint-hyacinthe-cegep.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
+      "id": "29e20b0bc44e2dca",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294395/otan-moyens-mer-noire-avion-poseidon-americain",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294395/otan-moyens-mer-noire-avion-poseidon-americain",
+      "title": "L’OTAN va déployer des moyens supplémentaires en mer Noire",
+      "excerpt": "La mer Noire est essentielle à l'exportation mondiale de céréales et de ressources énergétiques.",
+      "published": "2026-10-20T18:51:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/otan-exercice-mer-noire.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
       "id": "57a245bf31a66c5e",
       "guid": "https://ici.radio-canada.ca/nouvelle/2294380/wainwright-incendie-base-militaire-alberta",
       "link": "https://ici.radio-canada.ca/nouvelle/2294380/wainwright-incendie-base-militaire-alberta",

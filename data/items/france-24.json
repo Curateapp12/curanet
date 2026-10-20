@@ -3,6 +3,72 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "9b15f1cf3f5e3c69",
+      "guid": "be6cec10-ccae-11f1-93b1-39757f0590cc",
+      "link": "https://www.france24.com/fr/france/20261020-assimiler-lfi-a-ultragauche-une-strategie-en-passe-de-se-retourner-contre-executif-sebastien-lecornu",
+      "title": "Assimiler LFI à l’ultragauche, une stratégie en passe de se retourner contre l’exécutif ?",
+      "excerpt": "En associant dans son discours La France insoumise à l’ultragauche, le gouvernement accuse le parti d’être à l’origine du mouvement lycéen et des scènes de chaos observées le 17 octobre en France. Mais cette rhétorique est à la fois mise à mal par des révélations de Mediapart et les spécialistes…",
+      "published": "2026-10-20T19:21:45.000Z",
+      "thumbnail": "https://s.france24.com/media/display/4f2808c6-ccae-11f1-ac79-4dd8ac2cf3bf/w:1024/p:16x9/000-D3KX4RL.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
+      "id": "0a947ae79590b988",
+      "guid": "8a712d60-c97d-11f1-a652-2923a7057fce",
+      "link": "https://www.france24.com/fr/moyen-orient/20261020-oliveraies-cisjordanie-colons-attaques-armee-israel",
+      "title": "Oliveraies attaquées en Cisjordanie : \"les colons se prétendent autochtones, c’est révoltant\"",
+      "excerpt": "La période de récolte des olives en Cisjordanie occupée a officiellement commencé le 15 octobre 2026. Elle s’accompagne d’une hausse de la violence des colons et de l’armée envers les Palestiniens, alors que sur les réseaux sociaux, des colons et des soldats israéliens esthétisent la colonisation.",
+      "published": "2026-10-20T19:12:15.000Z",
+      "thumbnail": "https://s.france24.com/media/display/20c2ffac-c986-11f1-8f58-2d1c143cdef3/w:1024/p:16x9/olive-cover.png",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
+      "id": "cd5b99ca86584695",
+      "guid": "734ae3ac-ccb0-11f1-a9aa-15feab8f24fa",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261020-j-7-avant-les-%C3%A9lections-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-peut-il-encore-gagner",
+      "title": "J-7 avant les élections législatives en Israël : Netanyahu peut-il encore gagner ?",
+      "excerpt": "Dans une semaine, le 27 octobre, auront lieu les élections législatives en Israël ! Les sondages sont serrés entre le bloc de Benyamin Netanyahou et ses alliés, d’un côté, et celui de l’opposition, emmené par Gadi Eisenkot, ancien chef d’état-major de l’armée, et ses alliés, de l’autre. Même si le…",
+      "published": "2026-10-20T18:48:00.000Z",
+      "thumbnail": "https://s.france24.com/media/display/0b526206-c3ce-11f1-b875-c55799ef8309/w:1024/p:16x9/2026-09-29T100258Z-26961474-RC2QRNAEO6MD-RTRMADP-3-ISRAEL-ELECTION-NETANYAHU-STRATEGY.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
+      "id": "64efdb8d97a11907",
+      "guid": "e6418188-ccae-11f1-94e1-038289c6abc4",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261020-cop17-biodiversit%C3%A9-la-disparition-des-insectes-un-drame-pour-la-vie-sur-terre",
+      "title": "COP17 Biodiversité: la disparition des insectes, un drame pour la vie sur Terre",
+      "excerpt": "Les insectes sont des piliers des écosystèmes. Ils sont à la base de la chaîne alimentaire et de la formation des sols. Leur disparition bouleverserait tout l'équilibre de la vie sur Terre. Et pourtant, toutes les études menées récemment montrent un effondrement de leurs populations. Les trois…",
+      "published": "2026-10-20T17:51:37.000Z",
+      "thumbnail": "https://s.france24.com/media/display/d4f82180-ccad-11f1-bf04-638c1c1f5fd6/w:1024/p:16x9/capture-b19acd7c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
+      "id": "e69bb1ee0cac40ff",
+      "guid": "902cd25a-ccab-11f1-bb8d-0d7e905ddf37",
+      "link": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261020-violences-du-17-octobre-comment-l-ex%C3%A9cutif-peut-il-reprendre-la-main",
+      "title": "Violences du 17 octobre : comment l'exécutif peut-il reprendre la main ?",
+      "excerpt": "Paris, Lyon, Limoges...Plusieurs villes de France portaient encore lundi les stigmates de la mobilisation de samedi. Entre 550 000 et 800 000 personnes, selon les sources, venues manifester pour défendre leur pouvoir d'achat et demander une réforme du système éducatif, principalement. Des…",
+      "published": "2026-10-20T17:50:29.000Z",
+      "thumbnail": "https://s.france24.com/media/display/806dcfae-ccab-11f1-b440-2d1c143cdef3/w:1024/p:16x9/FRAN261019-2030-Live-CS2030.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
+      "id": "88a993d9dad06b59",
+      "guid": "5c38860e-ccad-11f1-9690-33f34c02b44c",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261020-cop17-biodiversit%C3%A9-des-efforts-insuffisants-pour-enrayer-l-extinction-de-masse",
+      "title": "COP17 biodiversité: des efforts insuffisants pour enrayer l'extinction de masse",
+      "excerpt": "La COP17 biodiversité s'est ouverte ce lundi à Erevan. Elle doit permettre un point d'étape sur les objectifs de protection de la biodiversité adoptés en 2022 à Montréal avec un horizon de mise en œuvre en 2030. Et le bilan à mi-chemin est assez inquiétant. Les pays sont en retard sur quasiment…",
+      "published": "2026-10-20T17:40:36.000Z",
+      "thumbnail": "https://s.france24.com/media/display/145672a2-ccac-11f1-9ca3-6313a763b466/w:1024/p:16x9/capture-fc96d73d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
       "id": "f9626cb87020918b",
       "guid": "07bdb6ee-cc9e-11f1-8658-4978fbb2c34c",
       "link": "https://www.france24.com/fr/afrique/20261020-soudan-une-nouvelle-attaque-sur-un-march%C3%A9-fait-au-moins-153-morts-dans-la-zone-frontali%C3%A8re",

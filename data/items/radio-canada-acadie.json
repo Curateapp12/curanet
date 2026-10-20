@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "c657d504ec86d14d",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294357/arrestations-accusations-homicide-elsipogtog",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294357/arrestations-accusations-homicide-elsipogtog",
+      "title": "Deux autres personnes accusées à la suite d’un homicide à Elsipogtog",
+      "excerpt": "Un homme est accusé de meurtre au premier degré et une femme, de complicité après les faits.",
+      "published": "2026-10-20T18:57:06.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/la-communaute-autochtone-delsipogtog-au-nouveau-brunswick.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
       "id": "2355a3786b3711b5",
       "guid": "https://ici.radio-canada.ca/nouvelle/2294332/discours-du-trone-susan-holt-nouveau-brunswick",
       "link": "https://ici.radio-canada.ca/nouvelle/2294332/discours-du-trone-susan-holt-nouveau-brunswick",
@@ -34,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/susan-holt-mise-a-jour-sante-nouveau-brunswick.jpg",
       "type": "article",
       "addedAt": "2026-10-20T16:40:53.075Z"
+    },
+    {
+      "id": "eb1c8bdb83c2cd43",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2507677/faut-il-revoir-notre-mode-scrutin-dans-provinces-atlantique",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2507677/faut-il-revoir-notre-mode-scrutin-dans-provinces-atlantique",
+      "title": "Faut-il revoir notre mode de scrutin en Atlantique?",
+      "excerpt": "Au lendemain des élections, provinciales comme fédérales, la question du mode de scrutin surgit régulièrement. En effet, les résultats mettent souvent en lumière un écart entre la proportion des voix obtenues et le nombre de sièges remportés par les candidats. Même si bon nombre de formations…",
+      "published": "2026-10-20T15:47:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/emission/16x9/sens-large-emission-karine-godin-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T19:43:00.313Z"
     },
     {
       "id": "92cbfeed4c1acbb8",
