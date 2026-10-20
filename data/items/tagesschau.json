@@ -3,6 +3,72 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "013a9a37129c5e87",
+      "guid": "2d61d3e4-a530-4b98-81be-797732a65680",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html",
+      "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
+      "excerpt": "Lange lebte Taranto vom größten Stahlwerk Italiens - und mit dessen Umweltverschmutzung. Ein Urteil könnte zum Wendepunkt werden. Während Beschäftigte um ihre Jobs kämpfen, fordern Einwohner eine Schließung. Von Verena Schälter.",
+      "published": "2026-10-20T08:42:49.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a36da915-bed1-490b-bd13-d2c33d6b0a23/AAABoVhntDs/AAABnSSvrFg/16x9-big/taranto-stahl-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T08:44:01.415Z"
+    },
+    {
+      "id": "abe084ea11815cf3",
+      "guid": "a974ba14-d913-416e-bf20-b5c60b811831",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+      "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+      "excerpt": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
+      "published": "2026-10-20T08:42:06.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bef8fad3-a7ce-4254-bb86-991e7bf082b0/AAABmeKpCqU/AAABnSSvrFg/16x9-big/afd-logo-170.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T08:44:01.415Z"
+    },
+    {
+      "id": "363e8e7346b8fe86",
+      "guid": "e634ff26-a6cd-4db3-944e-c8bd6aa7e00d",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-microsoft-ki-100.html",
+      "title": "Chance oder Risiko: Zusammenarbeit deutscher Unternehmen mit Big Tech",
+      "excerpt": "Bosch setzt voll auf Künstliche Intelligenz und arbeitet dafür eng mit Microsoft zusammen. Doch Digitalexperten warnen, dass sich die deutsche Industrie zu sehr in die Abhängigkeit von US-Techriesen begibt. Von Laura Bisch.",
+      "published": "2026-10-20T08:34:02.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c8430553-3d78-4232-a393-6bdb052e0c52/AAABoVR6KZQ/AAABnSSvrFg/16x9-big/bosch-microsoft-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T08:44:01.415Z"
+    },
+    {
+      "id": "f5c22cdd53752dde",
+      "guid": "1f4d6082-2f33-4f05-aa6b-cecb1e302ee1",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html",
+      "title": "Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht",
+      "excerpt": "In Paris war das Betreten zentraler Plätze verboten, in Lyon durfte man nur mit triftigem Grund auf die Straße. Die nächtlichen Ausgangssperren haben sich aus Sicht der Regierung bewährt. Kommende Nacht soll es wieder welche geben - wenn nötig.",
+      "published": "2026-10-20T08:28:16.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a0f861a0-3320-49c2-b40a-b54bda567bee/AAABoVhs72s/AAABnSSvrFg/16x9-big/lyon-ausgangssperre-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T08:44:01.415Z"
+    },
+    {
+      "id": "d74e122d5149ba63",
+      "guid": "6b0bc8b9-5e25-467f-a031-5bcec09de91d",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkredite-zinsen-darlehen-100.html",
+      "title": "Immobilienkredite so teuer wie seit 2009 nicht mehr",
+      "excerpt": "Wer derzeit ein Haus kaufen will, muss für die Finanzierung besonders tief in die Tasche greifen. Die Zinsen für Immobilienkredite sind so hoch wie lange nicht. Dazu kommen hohe Material- und Lohnkosten.",
+      "published": "2026-10-20T08:07:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/839f520a-4bae-436e-8b01-a179a46e2554/AAABl6ExTCc/AAABnSSvrFg/16x9-big/baustelle-232.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T08:44:01.415Z"
+    },
+    {
+      "id": "e3a182c7cc0e9bcf",
+      "guid": "1050bc47-bf41-4d12-9961-17291f39a979",
+      "link": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html",
+      "title": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
+      "excerpt": "In der kanadischen Provinz Alberta gibt es kein Referendum über eine Abspaltung vom Rest des Landes. Medienberichten zufolge votierte eine Mehrheit für die nationale Einheit. Die Separatismus-Bestrebungen hatten auch das Interesse Trumps geweckt.",
+      "published": "2026-10-20T07:52:06.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/09dc008d-caf4-45dc-ba74-e3ddb7a82f6d/AAABoVfRMxY/AAABnSSvrFg/16x9-big/alberta-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T08:44:01.415Z"
+    },
+    {
       "id": "42d1eee44ad82cb6",
       "guid": "81230c7a-1a8b-49c3-bcb9-63aa9160e4bf",
       "link": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html",
