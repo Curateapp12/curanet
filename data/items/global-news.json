@@ -3,6 +3,50 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "96de116ef22c5c78",
+      "guid": "https://globalnews.ca/?p=12109454",
+      "link": "https://globalnews.ca/news/12109454/houthi-rebels-taiz/",
+      "title": "Houthis attack city in Yemen that UN says is at ‘grave risk’",
+      "excerpt": "U.N. human rights chief Volker Türk says the Houthi siege has sent prices soaring, leaving many residents without food and other necessities.",
+      "published": "2026-10-20T16:38:23.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Houthi-rebels-Taiz.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-20T16:40:53.075Z"
+    },
+    {
+      "id": "bd193518b4566b69",
+      "guid": "https://globalnews.ca/?p=12109445",
+      "link": "https://globalnews.ca/news/12109445/new-brunswick-throne-speech-2026/",
+      "title": "Health care, affordability and the economy are the priorities in N.B. throne speech",
+      "excerpt": "Health care and new export markets outside the U.S. are among the priorities in the New Brunswick government’s throne speech.",
+      "published": "2026-10-20T16:31:56.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/63d86c2f11674521286329dc218b5fb37f743cc9f04b80ddb88f81da1662bf9a.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-20T16:40:53.075Z"
+    },
+    {
+      "id": "4b3696d5a3cbaa62",
+      "guid": "https://globalnews.ca/?p=12109162",
+      "link": "https://globalnews.ca/news/12109162/wainwright-fire-satellite/",
+      "title": "Fire burned for hours before CFB Wainwright tragedy: satellite data",
+      "excerpt": "Training continued at CFB Wainwright on Saturday even though a fire had been burning on the base since noon and forecasts warned of high winds and an approaching cold front.",
+      "published": "2026-10-20T16:22:07.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Firms-data-wainwight.png",
+      "type": "article",
+      "addedAt": "2026-10-20T16:40:53.075Z"
+    },
+    {
+      "id": "fd2d54385829fea9",
+      "guid": "https://globalnews.ca/?p=12109123",
+      "link": "https://globalnews.ca/news/12109123/canadian-man-mitchell-fairbarn-flamingo-las-vegas-guilty-animal-cruelty/",
+      "title": "Canadian man who stole Las Vegas flamingo convicted of animal cruelty",
+      "excerpt": "During the trial, defence lawyer Josh Tomsheck told jurors in a Nevada court that Fairbarn deeply regretted the 'bad decisions' he made while intoxicated.",
+      "published": "2026-10-20T16:01:40.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/mitchell-fairburn-flamingo-las-vegas.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-20T16:40:53.075Z"
+    },
+    {
       "id": "58573dcaf792173a",
       "guid": "https://globalnews.ca/?p=12109120",
       "link": "https://globalnews.ca/news/12109120/poilievre-affordability-crisis/",
