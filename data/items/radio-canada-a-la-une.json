@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "57a245bf31a66c5e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294380/wainwright-incendie-base-militaire-alberta",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294380/wainwright-incendie-base-militaire-alberta",
+      "title": "Tragédie de Wainwright : 33 militaires blessés sont toujours hospitalisés en Alberta",
+      "excerpt": "L’incendie meurtrier qui a ravagé la base militaire de Wainwright, en Alberta, a fait 4 morts et 39 blessés.",
+      "published": "2026-10-20T18:29:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/wainwright-incendie-hopital-blesses.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T18:46:31.465Z"
+    },
+    {
+      "id": "876eaf41eb5e52c1",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294389/arabie-saoudite-interception-projectiles-explosions",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294389/arabie-saoudite-interception-projectiles-explosions",
+      "title": "L’Arabie saoudite annonce l’interception de projectiles, des explosions entendues à Riyad",
+      "excerpt": "Ces attaques surviennent dans un contexte d'intensification des attaques des Houthis pro-iraniens.",
+      "published": "2026-10-20T18:02:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/houthis-martyr-yemen.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T18:46:31.465Z"
+    },
+    {
       "id": "31401379e3da2452",
       "guid": "https://ici.radio-canada.ca/nouvelle/2294374/rebecca-makonnen-depart-emission-premiere-ligne",
       "link": "https://ici.radio-canada.ca/nouvelle/2294374/rebecca-makonnen-depart-emission-premiere-ligne",
@@ -23,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/deficits-importants-prevision-dpb-annette-ryan.jpg",
       "type": "article",
       "addedAt": "2026-10-20T17:41:53.860Z"
+    },
+    {
+      "id": "7d82f4f1860880d5",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294266/eleves-suspendus-ecole-saint-jerome",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294266/eleves-suspendus-ecole-saint-jerome",
+      "title": "78 élèves suspendus à la polyvalente Saint-Jérôme après des débordements",
+      "excerpt": "La direction dénonçait des débordements, des gestes de vandalisme et des comportements perturbateurs.",
+      "published": "2026-10-20T16:29:06.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/polyvalente-saint-jerome-rive-nord-suspension-eleves-blocus.png",
+      "type": "article",
+      "addedAt": "2026-10-20T18:46:31.465Z"
     },
     {
       "id": "9699d692a25a10eb",

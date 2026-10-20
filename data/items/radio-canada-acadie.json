@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "2355a3786b3711b5",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294332/discours-du-trone-susan-holt-nouveau-brunswick",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294332/discours-du-trone-susan-holt-nouveau-brunswick",
+      "title": "Discours du Trône : la santé et la croissance économique au cœur des travaux",
+      "excerpt": "Le discours du Trône ne mentionne ni réduction des dépenses ni « décisions difficiles » à venir.",
+      "published": "2026-10-20T18:30:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/assemblee-legislative-entree-2026-fredericton.png",
+      "type": "article",
+      "addedAt": "2026-10-20T18:46:31.465Z"
+    },
+    {
       "id": "df9ba7daf799509e",
       "guid": "https://ici.radio-canada.ca/nouvelle/2294330/reseau-cellulaire-sondage-peninsule-acadienne",
       "link": "https://ici.radio-canada.ca/nouvelle/2294330/reseau-cellulaire-sondage-peninsule-acadienne",
@@ -45,6 +56,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/fano-maddix-conteux-acadienne-conte-bright-diamond-parlures-icitte.png",
       "type": "article",
       "addedAt": "2026-10-20T12:51:51.084Z"
+    },
+    {
+      "id": "fea3ee5e169572c9",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2507584/urgence-a-hopital-campbellton-est-non-negociale-dit-mario-pelletier",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2507584/urgence-a-hopital-campbellton-est-non-negociale-dit-mario-pelletier",
+      "title": "L’urgence à l’hôpital de Campbellton est « non négociable », dit Mario Pelletier",
+      "excerpt": "L'hôpital régional de Campbellton peine à combler ses postes infirmiers pour assurer l'ouverture continue des services d'urgence alors que le Réseau de santé Vitalité tente de ne plus recourir aux infirmières d'agences privées.",
+      "published": "2026-10-20T12:22:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hopital-regional-campbellton-546.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-20T18:46:31.465Z"
     },
     {
       "id": "dbe96210a55a751b",
