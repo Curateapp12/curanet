@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "e8a6abd3ca071ba5",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o#8",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o",
+      "title": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
+      "excerpt": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the United States Grand Prix.",
+      "published": "2026-10-20T06:59:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae8/live/a1c9a300-cbc8-11f1-aba9-2bb2608f11d9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T07:48:39.065Z"
+    },
+    {
       "id": "99736ccf77a8f4c8",
       "guid": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o#1",
       "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o",
@@ -56,6 +67,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
       "type": "article",
       "addedAt": "2026-10-20T05:40:59.248Z"
+    },
+    {
+      "id": "92a53277bd475d36",
+      "guid": "https://www.bbc.co.uk/news/articles/c6jrw1xx419xo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrw1xx419xo",
+      "title": "NHS trust prosecuted over children's sepsis deaths",
+      "excerpt": "Charges relate to the deaths of a two-year-old and a three-year-old at Broomfield Hospital in Essex.",
+      "published": "2026-10-20T05:28:13.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3101/live/d141b880-75cf-11ef-a985-29aba0fe5f9c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T07:48:39.065Z"
+    },
+    {
+      "id": "969d5ec7781a4b03",
+      "guid": "https://www.bbc.co.uk/news/articles/cky93njxlwjjo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cky93njxlwjjo",
+      "title": "Rantzen felt 'deprived of choice' over her own death",
+      "excerpt": "A note written by Dame Esther Rantzen is released by her family following a private funeral.",
+      "published": "2026-10-20T05:01:51.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a8/live/c8687080-b181-11ef-97e6-3bd47a1e90d7.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T07:48:39.065Z"
     },
     {
       "id": "a054ed621dff22ce",
