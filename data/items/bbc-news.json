@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "102c26df6bf57592",
+      "guid": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o",
+      "title": "Three children injured after school bus crashes into railway bridge",
+      "excerpt": "Gwent Police received a report of a school bus crash on Tregare Street, Newport, on Tuesday morning.",
+      "published": "2026-10-20T09:32:26.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79b5/live/368f92c0-cc68-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T09:40:59.191Z"
+    },
+    {
+      "id": "4a0fbf43e971f0a0",
+      "guid": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo",
+      "title": "Israel's far right find fertile ground among first-time voters",
+      "excerpt": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "published": "2026-10-20T08:53:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee0/live/1be7f440-cc67-11f1-b1a3-5bda642ff934.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T09:40:59.191Z"
+    },
+    {
+      "id": "a69b5dee2c8d0cd0",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro",
+      "title": "PSG v Barcelona - Europe's most exciting match-up?",
+      "excerpt": "Paris St-Germain and Barcelona, the current top two in this season's Champions League, meet on Tuesday.",
+      "published": "2026-10-20T08:52:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e053/live/2a307260-cba0-11f1-9ee2-f74dfb8e54e5.png",
+      "type": "article",
+      "addedAt": "2026-10-20T09:40:59.191Z"
+    },
+    {
+      "id": "fe3c4bd5e6db63db",
+      "guid": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
+      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+      "excerpt": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+      "published": "2026-10-20T08:46:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4333/live/71103e60-cc61-11f1-b1a3-5bda642ff934.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T09:40:59.191Z"
+    },
+    {
       "id": "6a4c0733629d0250",
       "guid": "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo#1",
       "link": "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo",
@@ -89,6 +133,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3101/live/d141b880-75cf-11ef-a985-29aba0fe5f9c.jpg",
       "type": "article",
       "addedAt": "2026-10-20T07:48:39.065Z"
+    },
+    {
+      "id": "cca39720e78da331",
+      "guid": "https://www.bbc.co.uk/news/articles/c6ev30xwy8v2o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev30xwy8v2o",
+      "title": "'I started ketamine at 14 and needed nappies at 22' - the rise of young people going to rehab",
+      "excerpt": "For the last two years Megan has been in agony and unable to stand straight because of her ketamine use.",
+      "published": "2026-10-20T05:13:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e22/live/99cf5bb0-cc66-11f1-b1a3-5bda642ff934.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T09:40:59.191Z"
     },
     {
       "id": "969d5ec7781a4b03",

@@ -3,6 +3,61 @@
   "sourceId": "france-24",
   "items": [
     {
+      "id": "f10b67815bf63256",
+      "guid": "56bb3952-cc61-11f1-a603-e7d1a2d8b946",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261020-plus-de-2-500-gardes-%C3%A0-vue-depuis-le-17-octobre-les-premi%C3%A8res-comparutions-imm%C3%A9diates-ont-lieu",
+      "title": "Plus de 2 500 gardes à vue depuis le 17 octobre : les premières comparutions immédiates ont lieu",
+      "excerpt": "Suite aux dégradations causées en marge des manifestations, samedi 17 et dimanche 18 octobre, l'exécutif muscle la réponse pénale. Le ministre de la Justice, Gérald Darmanin, parle de 2 500 gardes à vue. Après les violences, les premières condamnations sont tombées, alors qu'on apprend à l'instant…",
+      "published": "2026-10-20T09:20:34.000Z",
+      "thumbnail": "https://s.france24.com/media/display/50ef6c00-cc61-11f1-9409-6313a763b466/w:1024/p:16x9/FR-20261020-090624-090729-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T09:40:59.191Z"
+    },
+    {
+      "id": "1661a5cfec7eb188",
+      "guid": "3623499a-cc62-11f1-a1e4-53c115344463",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261020-17-octobre-des-articles-vol%C3%A9s-revendus-sur-vinted-et-leboncoin",
+      "title": "17 octobre : des articles volés revendus sur Vinted et Leboncoin ?",
+      "excerpt": "Sur Vinted ou Leboncoin, des annonces proposent déjà des produits qui pourraient provenir des magasins dévalisés le samedi 17 octobre. Le gouvernement a convoqué les plateformes mardi 20 octobre au soir. Vinted affirme avoir supprimé des annonces suspectes.",
+      "published": "2026-10-20T09:19:15.000Z",
+      "thumbnail": "https://s.france24.com/media/display/3093adbc-cc62-11f1-8418-638c1c1f5fd6/w:1024/p:16x9/FR-20261020-091213-091356-CS.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T09:40:59.191Z"
+    },
+    {
+      "id": "b0c47998a65f6df6",
+      "guid": "eb0dc572-cc5f-11f1-b9d1-ed0f751e3449",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261020-17-octobre-de-nouveaux-couvre-feux-apr%C3%A8s-une-nuit-calme-selon-s%C3%A9bastien-lecornu",
+      "title": "17 octobre : de nouveaux couvre-feux après une nuit \"calme\" selon Sébastien Lecornu",
+      "excerpt": "Le Premier ministre, Sébastien Lecornu, a affirmé mardi 20 octobre que les couvre-feux partiels, entrés en vigueur la veille dans plusieurs villes avaient \"contribué au calme de la nuit\", annonçant que de nouveaux seraient décidés pour la soirée \"là où la situation le nécessite\". Les précisions de…",
+      "published": "2026-10-20T09:17:20.000Z",
+      "thumbnail": "https://s.france24.com/media/display/93c7ead4-cc66-11f1-a102-4dd8ac2cf3bf/w:1024/p:16x9/2026-10-20T084944Z-1366507805-RC295OAGBILX-RTRMADP-3-FRANCE-PROTEST.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T09:40:59.191Z"
+    },
+    {
+      "id": "e960333ad046b62d",
+      "guid": "6480d1ac-cc5f-11f1-bf62-6b35c2a2bb7b",
+      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261020-r%C3%A9v%C3%A9lations-mediapart-la-fabrique-de-lfi-comme-bouc-%C3%A9missaire-du-17-octobre",
+      "title": "Révélations Mediapart : \"la fabrique de LFI comme bouc émissaire\" du 17-Octobre",
+      "excerpt": "À la une de la presse ce mardi 20 octobre, le maintien de l’ordre en question, les renseignements qui contredisent le gouvernement sur le rôle de LFI, Donald Trump qui fait de la récupération politique et le mystère de la disparition de l’aviatrice Amelia Earhart.",
+      "published": "2026-10-20T09:15:10.000Z",
+      "thumbnail": "https://s.france24.com/media/display/f363aa86-cc5d-11f1-98d5-4dd8ac2cf3bf/w:1024/p:16x9/Francais-2026-10-20T07-40-56-946Z.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T09:40:59.191Z"
+    },
+    {
+      "id": "fad9acb8cb934331",
+      "guid": "70a9d22c-c25e-11f1-91ed-3fe49bdcb44e",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261020-midterms-neuf-etats-majorite-senat-alaska-texas-georgie-michigan",
+      "title": "Midterms 2026 : les neuf États où se jouera la majorité au Sénat",
+      "excerpt": "Qui disposera de la majorité au Sénat à l'issue des élections de mi-mandat le 3 novembre ? Les démocrates espèrent conquérir des sièges appartenant aux républicains lors du renouvellement d'un tiers de la chambre lors des midterms. De quoi changer le rapport de force à Washington face à Donald…",
+      "published": "2026-10-20T09:03:29.000Z",
+      "thumbnail": "https://s.france24.com/media/display/a4d6ce10-c25e-11f1-bca4-0f96b136895a/w:1024/p:16x9/Senat-etat-midterms-democrates-republicains.png",
+      "type": "article",
+      "addedAt": "2026-10-20T09:40:59.191Z"
+    },
+    {
       "id": "0eb2d1402c76a85b",
       "guid": "91de5978-cc4e-11f1-9dbc-2344f85576b1",
       "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261020-apr%C3%A8s-les-pillages-l-%C3%A9tat-promet-des-aides-aux-commer%C3%A7ants",
