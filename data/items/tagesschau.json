@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "74b522393d1ca4f9",
+      "guid": "70e692b0-1c13-4290-9b82-802aeb331e81",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-atomreaktor-100.html",
+      "title": "Neuer Reaktorblock am Netz: Slowakei überholt Frankreich beim Atomstrom",
+      "excerpt": "Die Slowakei hat einen neuen Reaktorblock ans Netz genommen. Wenn er Volllast erreicht, wird sie zum Land mit dem weltweit höchsten Atomanteil im Energiemix. Und Staatschef Fico plant bereits das nächste Kraftwerk. Von Marianne Allweiss.",
+      "published": "2026-10-20T12:51:16.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3b2e3951-d7ed-4a34-81f0-803202159d51/AAABoVkxjJ4/AAABnSSvrFg/16x9-big/kernkraftwerk-mochovce-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T12:51:51.084Z"
+    },
+    {
+      "id": "e7d2f2e0abc4acf4",
+      "guid": "4672da4a-7aa0-4e00-830b-8000a3dd122c",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html",
+      "title": "Bundesregierung spricht von Investitionszusagen in Milliardenhöhe",
+      "excerpt": "Der Investitionsgipfel in Berlin soll mehr Kapital nach Deutschland locken. Kanzler Merz und Wirtschaftsministerin Reiche sprechen bereits von ersten Zusagen: Unternehmen sollen milliardenschwere Investitionen angekündigt haben.",
+      "published": "2026-10-20T12:23:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ad8a2b38-3812-45ba-b972-af3fb90e33e6/AAABoVkEifs/AAABnSSvrFg/16x9-big/merz-1746.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T12:51:51.084Z"
+    },
+    {
+      "id": "e15b21c1c8a526bc",
+      "guid": "facf7a14-478e-42ff-921d-b9a6ed923ed5",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/investoren-118.html",
+      "title": "Deutschlands schwindende Anziehungskraft für Investoren",
+      "excerpt": "Für internationale Konzerne ist Deutschland seit Jahren immer weniger attraktiv. Sie meiden den Standort ganz oder halbieren geplante Investitionen, wie etwa der Pharmakonzern Eli Lilly in Alzey. Die Folgen sind gravierend. Von Axel John.",
+      "published": "2026-10-20T12:23:23.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4a166366-8f0e-43eb-9845-4e3dce9c8596/AAABltOl_2w/AAABnSSvrFg/16x9-big/konjunktur-294.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T12:51:51.084Z"
+    },
+    {
+      "id": "3d2e9b1df1ae0149",
+      "guid": "9d2fad5a-5d5b-41a5-bd0f-201466a21a1a",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
+      "title": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
+      "excerpt": "Neue Angriffe im Persischen Golf machen Öl wieder so teuer wie im Mai. Das schürt die Sorge vor einem neuen Inflationsschub. Die einzige Hoffnung bleibt derzeit eine Annäherung der Kriegsparteien.",
+      "published": "2026-10-20T12:15:27.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5c323536-e016-4959-9a0d-3961e156c21e/AAABoVjzTzU/AAABnSSvrFg/16x9-big/oeltanker-140.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T12:51:51.084Z"
+    },
+    {
       "id": "452c1817bb22c4ae",
       "guid": "c218dc31-2771-474f-9540-563b144f3c2f",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/nudeln-hersteller-eu-100.html",
