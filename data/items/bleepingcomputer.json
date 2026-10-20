@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "4162cca6289cbc1d",
+      "guid": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+      "title": "DHS bans DeepSeek products across US federal civilian agencies",
+      "excerpt": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
+      "published": "2026-10-20T14:19:05.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-20T14:43:49.578Z"
+    },
+    {
+      "id": "54e589c7063e95af",
+      "guid": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+      "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+      "excerpt": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
+      "published": "2026-10-20T13:51:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-20T14:43:49.578Z"
+    },
+    {
       "id": "b8cb67bf0a57ef0e",
       "guid": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",

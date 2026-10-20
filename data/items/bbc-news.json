@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "23f64cd54cea758a",
+      "guid": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o",
+      "title": "Harry says he wants to 'work it out' with his family",
+      "excerpt": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
+      "published": "2026-10-20T14:01:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af03/live/c33eba90-cc89-11f1-bed8-c51b95c602ec.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T14:43:49.578Z"
+    },
+    {
+      "id": "4c6b3c22b9d6d1cc",
+      "guid": "https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo#8",
+      "link": "https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo",
+      "title": "Why O'Sullivan faces battle to stay in world's top 16",
+      "excerpt": "Snooker's World Championship without Ronnie O'Sullivan is hard to conceive, after years of him being so often the central figure at the Crucible. But it may not be far away.",
+      "published": "2026-10-20T13:45:51.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f8/live/fb8c14d0-cc69-11f1-baeb-8d65d4bcd7ab.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T14:43:49.578Z"
+    },
+    {
       "id": "b30ed9701bd65a35",
       "guid": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo#4",
       "link": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo",
@@ -12,6 +34,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d836/live/a00805e0-37d8-11f1-9d5c-8ba507d7dbde.png",
       "type": "article",
       "addedAt": "2026-10-20T13:49:43.086Z"
+    },
+    {
+      "id": "2835534df9266bc6",
+      "guid": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o",
+      "title": "Royals roll out red carpet for visiting Sultan",
+      "excerpt": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
+      "published": "2026-10-20T13:34:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d80f/live/d4d8d5a0-cc7b-11f1-bed8-c51b95c602ec.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T14:43:49.578Z"
     },
     {
       "id": "b491e91848fb0963",
