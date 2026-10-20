@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "245f390db445fd83",
+      "guid": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o",
+      "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+      "excerpt": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+      "published": "2026-10-20T15:32:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d71d/live/3ebd08e0-cc97-11f1-94e6-edd4c60b2e1d.png",
+      "type": "article",
+      "addedAt": "2026-10-20T15:42:02.489Z"
+    },
+    {
+      "id": "b5e10957cb29833e",
+      "guid": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo",
+      "title": "Christina Applegate says she was wrongfully diagnosed with MS",
+      "excerpt": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
+      "published": "2026-10-20T15:16:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f691/live/ef964ea0-cc93-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T15:42:02.489Z"
+    },
+    {
+      "id": "3b327f4055e1aa22",
+      "guid": "https://www.bbc.co.uk/news/articles/c63eln34yle3o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c63eln34yle3o",
+      "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
+      "excerpt": "The BBC announced it will close its BBC Three, BBC Scotland and Radio 4 Extra broadcast channels.",
+      "published": "2026-10-20T15:14:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e19/live/02934fe0-cc98-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T15:42:02.489Z"
+    },
+    {
       "id": "23f64cd54cea758a",
       "guid": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o#4",
       "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o",
@@ -34,6 +67,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d836/live/a00805e0-37d8-11f1-9d5c-8ba507d7dbde.png",
       "type": "article",
       "addedAt": "2026-10-20T13:49:43.086Z"
+    },
+    {
+      "id": "3659794c5f2c9cc4",
+      "guid": "https://www.bbc.co.uk/news/articles/cjly016320q1o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o",
+      "title": "Huge setback for Alberta's separatist movement after decisive defeat",
+      "excerpt": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
+      "published": "2026-10-20T13:39:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/854b/live/984048b0-cc91-11f1-94e6-edd4c60b2e1d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T15:42:02.489Z"
     },
     {
       "id": "2835534df9266bc6",
