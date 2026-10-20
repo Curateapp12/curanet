@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "4ee7cda6f2dce865",
+      "guid": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+      "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+      "excerpt": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
+      "published": "2026-10-20T11:31:22.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-20T11:41:27.291Z"
+    },
+    {
+      "id": "9f686724487e1c0c",
+      "guid": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+      "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+      "excerpt": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
+      "published": "2026-10-20T11:18:35.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-20T11:41:27.291Z"
+    },
+    {
       "id": "4b4f09e00694289e",
       "guid": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
       "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",

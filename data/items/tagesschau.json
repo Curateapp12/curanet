@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "452c1817bb22c4ae",
+      "guid": "c218dc31-2771-474f-9540-563b144f3c2f",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/nudeln-hersteller-eu-100.html",
+      "title": "Deutsche mögen Nudeln - am liebsten aus dem Ausland",
+      "excerpt": "Der Konsum von Nudeln hat sich hierzulande seit 1990 verdoppelt. Außerdem gehört Deutschland zu den größten Herstellern in der EU. Unangefochtener Spitzenreiter ist Italien, danach folgt Spanien.",
+      "published": "2026-10-20T11:22:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e199eeb3-e489-4fb7-b7bd-58057b23ee9e/AAABoVjP_pE/AAABnSSvrFg/16x9-big/nudeln-128.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T11:41:27.291Z"
+    },
+    {
+      "id": "dd775d5f4c9f1717",
+      "guid": "15dff216-3682-4941-8362-667e1aa331b7",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-316.html",
+      "title": "Verkehrsminister planen Deutschlandticket für Gelegenheitsfahrer",
+      "excerpt": "Nicht alle Menschen nutzen die Bahn täglich. Die Verkehrsminister der Länder wollen nun auch für Gelegenheitsfahrer ein bundesweit gültiges Ticket einführen.",
+      "published": "2026-10-20T10:52:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/30a922fb-cfca-42d6-9583-5e974ec56ead/AAABoVh1YCI/AAABnSSvrFg/16x9-big/bahn-1430.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T11:41:27.291Z"
+    },
+    {
+      "id": "8151944e89e2b938",
+      "guid": "472b141f-2329-4fa0-8690-6f62719870a1",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html",
+      "title": "Selenskyj trifft sich mit US-Gesandtem Witkoff zu Gesprächen in Oslo",
+      "excerpt": "In Oslo kommt der ukrainische Präsident Selenskyj mit dem US-Gesandten Witkoff zu Gesprächen zusammen. Zuletzt hatten sich die Beziehungen zwischen den USA der Ukraine wegen Trumps Umgang mit Russland wieder verschlechtert.",
+      "published": "2026-10-20T10:50:05.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d9b552bc-b4c0-40c6-b558-c1e990a5dae1/AAABoVii2gE/AAABnSSvrFg/16x9-big/selenskyj-1238.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T11:41:27.291Z"
+    },
+    {
+      "id": "188048c59d748f71",
+      "guid": "a559bff3-18a5-4bda-9428-f6a53c9d0c36",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-100.html",
+      "title": "Neue EU-Strategie: Ein eigener Plan für die Arktis",
+      "excerpt": "Was in der Arktis klimatisch, wirtschaftlich und militärisch geschieht, ist von enormer Bedeutung für Europa - dieser Erkenntnis will die EU nun Taten folgen lassen. Heute will sie eine Strategie für die Region vorstellen. Von T. Spickhofen.",
+      "published": "2026-10-20T10:44:55.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1755de3c-4709-44b8-904a-fda6dc278119/AAABoVUrcx4/AAABnSSvrFg/16x9-big/eis-groenland-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T11:41:27.291Z"
+    },
+    {
       "id": "c6dd921aa6cec7bf",
       "guid": "2a3a1e99-8f53-40f8-9bfa-d9d84a455b3b",
       "link": "https://www.tagesschau.de/ausland/israel-wahlkampf-eisenkot-100.html",

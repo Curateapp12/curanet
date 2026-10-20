@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "b3e5a6a7d7dc673d",
+      "guid": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "excerpt": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+      "published": "2026-10-20T11:23:01.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a4e/live/0b27de20-cc78-11f1-baeb-8d65d4bcd7ab.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T11:41:27.291Z"
+    },
+    {
+      "id": "663c2e5cdf0c53d5",
+      "guid": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo",
+      "title": "Woman describes alleged assault by Russell Brand as 'frenzied' and 'violent'",
+      "excerpt": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "published": "2026-10-20T10:55:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c93/live/e0334860-cc60-11f1-b1a3-5bda642ff934.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T11:41:27.291Z"
+    },
+    {
       "id": "93cfa1ea75e42e67",
       "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cjn5vqq974epo#8",
       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjn5vqq974epo",
@@ -12,6 +34,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7804/live/a3ec25e0-cc6d-11f1-9a39-31b474234113.png",
       "type": "article",
       "addedAt": "2026-10-20T10:40:50.902Z"
+    },
+    {
+      "id": "a8fb6ea67ed72485",
+      "guid": "https://www.bbc.co.uk/news/articles/ck5yn55n36q2o#4",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn55n36q2o",
+      "title": "Isle of Man Assisted Dying Bill given Royal Assent",
+      "excerpt": "Assisted dying will become legal on the Isle of Man after being granted approval by Westminster.",
+      "published": "2026-10-20T10:00:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6ec/live/786d64a0-cc6e-11f1-a64c-550be9e3c66b.png",
+      "type": "article",
+      "addedAt": "2026-10-20T11:41:27.291Z"
     },
     {
       "id": "c4cbdafacd1ccc3d",
@@ -936,6 +969,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fef/live/5b8f5c70-cb20-11f1-bfba-6f29101eb4a3.jpg",
       "type": "article",
       "addedAt": "2026-10-19T05:40:28.730Z"
+    },
+    {
+      "id": "8fc67c174c1f6869",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m003375t?at_mid=3BHJ0bPWP2&at_campaign=Aberfan_The_Village_That_Fought_Back&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m003375t&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Aberfan_The_Village_That_Fought_Back&at_bbc_team=BBC#7",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m003375t?at_audience_id=SS&at_bbc_team=BBC&at_brand=m003375t&at_campaign_type=owned&at_format=image&at_link_title=Aberfan_The_Village_That_Fought_Back&at_mid=3BHJ0bPWP2&at_nation=NET&at_objective=consumption&at_product=iplayer&at_ptr_name=bbc&at_ptr_type=media",
+      "title": "How a shattered village rose from unimaginable grief to demand justice",
+      "excerpt": "A community’s powerful fight for justice after the tragedy of the Aberfan disaster.",
+      "published": "2026-10-19T05:00:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cb6/live/35fbce00-cb46-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T11:41:27.291Z"
     },
     {
       "id": "07e34972652ed0ef",
