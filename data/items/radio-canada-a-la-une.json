@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "31401379e3da2452",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294374/rebecca-makonnen-depart-emission-premiere-ligne",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294374/rebecca-makonnen-depart-emission-premiere-ligne",
+      "title": "Rebecca Makonnen quitte l’émission Première ligne",
+      "excerpt": "L'animatrice invoque « des raisons personnelles liées à l'horaire du matin », a affirmé Radio-Canada.",
+      "published": "2026-10-20T17:30:38.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rebecca-makonnen-societe-et-culture-emission-premiere-ligne.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T17:41:53.860Z"
+    },
+    {
+      "id": "564e44884e94f9b1",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294335/guerre-tarifaire-185000-emplois-canada-directrice-parlementaire-budget",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294335/guerre-tarifaire-185000-emplois-canada-directrice-parlementaire-budget",
+      "title": "La guerre tarifaire pourrait faire perdre jusqu’à 185 000 emplois au Canada",
+      "excerpt": "Selon le BDPB, le conflit pourrait aussi gruger en moyenne 9 % du bénéfices des entreprises canadiennes.",
+      "published": "2026-10-20T17:23:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/deficits-importants-prevision-dpb-annette-ryan.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T17:41:53.860Z"
+    },
+    {
       "id": "9699d692a25a10eb",
       "guid": "https://ici.radio-canada.ca/nouvelle/2294324/mark-carney-referendum-alberta-resultat",
       "link": "https://ici.radio-canada.ca/nouvelle/2294324/mark-carney-referendum-alberta-resultat",
@@ -45,6 +67,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/nunez-police-marseille-couvre-fueu.jpg",
       "type": "article",
       "addedAt": "2026-10-20T14:43:49.578Z"
+    },
+    {
+      "id": "3ec6174a89f084f4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293408/election-province-npd-conservateur-centrebc-eby-doerkson-sturko",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293408/election-province-npd-conservateur-centrebc-eby-doerkson-sturko",
+      "title": "Surrey, le principal champ de bataille des élections provinciales en C.-B.",
+      "excerpt": "Surrey, avec ses dix circonscriptions, sera surveillée de près le soir des élections.",
+      "published": "2026-10-20T12:55:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/surrey-guilford-drone-automne-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T17:41:53.860Z"
     },
     {
       "id": "465e152caa8a25a6",
