@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "8d3d5afb1550d639",
+      "guid": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "excerpt": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "published": "2026-10-20T20:01:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T20:43:14.303Z"
+    },
+    {
+      "id": "524d17dbf476c43f",
+      "guid": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro#2",
+      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro",
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "excerpt": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "published": "2026-10-20T20:00:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca83/live/3f595b00-ccba-11f1-a64c-550be9e3c66b.png",
+      "type": "article",
+      "addedAt": "2026-10-20T20:43:14.303Z"
+    },
+    {
+      "id": "cff16164e9f53215",
+      "guid": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro#4",
+      "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro",
+      "title": "Ex-student says embattled Cornell University head doubted her gang-rape allegation",
+      "excerpt": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
+      "published": "2026-10-20T19:08:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b22d/live/08cf8f60-c8cc-11f1-95b2-9f12d414946d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T20:43:14.303Z"
+    },
+    {
       "id": "7ed7d1c33d5aa751",
       "guid": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o#1",
       "link": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o",
@@ -23,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7829/live/7174ad40-cca8-11f1-a5d0-db40ec16d9a9.jpg",
       "type": "article",
       "addedAt": "2026-10-20T18:46:31.465Z"
+    },
+    {
+      "id": "ffe188357f8125c7",
+      "guid": "https://www.bbc.co.uk/news/videos/cm0e0z7dwrd9o#2",
+      "link": "https://www.bbc.co.uk/news/videos/cm0e0z7dwrd9o",
+      "title": "Watch: Why does Prince Harry want to 'work it out' with his father and brother?",
+      "excerpt": "Noor Nanji breaks down Prince Harry's interview with GQ Magazine, after he said he wants to \"reconcile\" with his family.",
+      "published": "2026-10-20T18:40:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d47/live/60422740-ccae-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T20:43:14.303Z"
     },
     {
       "id": "13bef4e11e302ce5",

@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "e7508271d15e60b2",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294439/louis-blouin-prix-signal-awards-etats-unis-balado",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294439/louis-blouin-prix-signal-awards-etats-unis-balado",
+      "title": "Louis Blouin primé pour son balado sur les États-Unis de Donald Trump",
+      "excerpt": "Le correspondant de Radio-Canada a remporté l'or dans la catégorie nouvelles et politique aux Signal Awards.",
+      "published": "2026-10-20T20:07:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/louis-blouin-correspondant-washington-85742.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T20:43:14.303Z"
+    },
+    {
+      "id": "346cb4b2b084e23f",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294419/arctique-securite-surveillance",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294419/arctique-securite-surveillance",
+      "title": "Brise-glaces et câble sous-marin : l’UE veut renforcer sa présence dans l’Arctique",
+      "excerpt": "L'UE a dévoilé sa stratégie neuf mois après les menaces de Donald Trump visant le Groenland.",
+      "published": "2026-10-20T19:42:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/brise-glaces-jean-goodwill-nuuk-groenland.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T20:43:14.303Z"
+    },
+    {
       "id": "6a6df86e00d5af71",
       "guid": "https://ici.radio-canada.ca/nouvelle/2294420/budget-federal-5-novembre-champagne",
       "link": "https://ici.radio-canada.ca/nouvelle/2294420/budget-federal-5-novembre-champagne",
@@ -23,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/evacuation-produit-chimique-saint-hyacinthe-cegep.jpeg",
       "type": "article",
       "addedAt": "2026-10-20T19:43:00.313Z"
+    },
+    {
+      "id": "967b355cbbfeeba8",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294412/zelensky-witkoff-oslo-diplomatie-ukraine-russie",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294412/zelensky-witkoff-oslo-diplomatie-ukraine-russie",
+      "title": "Ukraine : Zelensky rencontre Witkoff à Oslo pour remettre la diplomatie sur les rails",
+      "excerpt": "Le gouvernement ukrainien a eu un échange avec Marco Rubio au sujet de Starlink et des livraisons de missiles.",
+      "published": "2026-10-20T19:29:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/zelensky-witkoff.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T20:43:14.303Z"
     },
     {
       "id": "29e20b0bc44e2dca",
