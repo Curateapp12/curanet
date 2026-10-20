@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "530b179778bcce83",
+      "guid": "tagesschau_fm-story-rbb_berlin-linke-israel-kritik-vanessa-emde-abgeordnete",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berliner-linke-abgeordnete-emde-100.html",
+      "title": "Berliner Linke vertagt Entscheidung über umstrittene Abgeordnete Emde",
+      "excerpt": "Die Linke-Fraktionsspitze in Berlin will nicht mehr mit Vanessa Emde zusammenarbeiten. Wie es im Konflikt mit der wegen ihrer Israel-Kritik umstrittenen Abgeordneten weitergeht, bleibt vorerst unklar - eine Entscheidung wurde vertagt.",
+      "published": "2026-10-20T13:27:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/8e2226d1-a744-4eec-957e-5f6474f08741/AAABoVl-pPY/AAABnSSvrFg/16x9-big/rbb-archivbild-vanessa-emde-die-linke-kommt-im-berliner-abgeordnetenhaus-zu-einer-fraktionssitzung-ihrer-partei-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T13:49:43.086Z"
+    },
+    {
+      "id": "2fc5a9a5fc4080f0",
+      "guid": "a02dad1e-ad14-4aa0-9ddb-94c821f88d83",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-limoges-brandstiftung-festnahme-100.html",
+      "title": "Unruhen in Frankreich: Festnahme nach Brand von Rathaus in Limoges",
+      "excerpt": "Während der Ausschreitungen in Frankreich war das historische Rathaus von Limoges abgebrannt. Das Feuer war zu einem Symbol der Unruhen geworden. Nun gab es eine Festnahme: Es soll sich um einen polizeibekannten Linksextremisten handeln.",
+      "published": "2026-10-20T13:19:11.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ac4d59a3-8e4d-495c-b8be-34017877b073/AAABoVlUj88/AAABnSSvrFg/16x9-big/brand-rathaus-limoges-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T13:49:43.086Z"
+    },
+    {
+      "id": "db4edb162467be95",
+      "guid": "252ace55-93ee-41f4-af7a-7969969045e6",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-zwischenwahlen-wirtschaft-100.html",
+      "title": "US-Midterms: Wie Preise die Zwischenwahlen beeinflussen könnten",
+      "excerpt": "Inflation, Lebenshaltungskosten, Treibstoffpreise: Viele Amerikaner machen Präsident Trump für die hohen Preise verantwortlich. Für die Republikaner könnte das vor den Midterms zum Problem werden. Von Carsten Kühntopp.",
+      "published": "2026-10-20T13:07:51.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b0eecf9d-4d77-4dc1-b26a-1d5e29a67450/AAABoViD2LA/AAABnSSvrFg/16x9-big/supermarkt-usa-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-20T13:49:43.086Z"
+    },
+    {
       "id": "74b522393d1ca4f9",
       "guid": "70e692b0-1c13-4290-9b82-802aeb331e81",
       "link": "https://www.tagesschau.de/ausland/europa/slowakei-atomreaktor-100.html",
