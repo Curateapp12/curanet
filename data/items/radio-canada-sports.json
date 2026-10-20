@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "529bac70ca62b5da",
+      "guid": "https://ici.radio-canada.ca/sports/2294188/brock-purdy-et-les-49ers-defont-les-commanders",
+      "link": "https://ici.radio-canada.ca/sports/2294188/brock-purdy-et-les-49ers-defont-les-commanders",
+      "title": "Brock Purdy et les 49ers défont les Commanders",
+      "excerpt": "Le quart-arrière a lancé une passe de touché dans une victoire de 23-17 des 49ers, lundi soir.",
+      "published": "2026-10-20T04:07:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/49ers-brock-purdy.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T04:40:19.500Z"
+    },
+    {
+      "id": "d09307a7647285b6",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10788225/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10788225/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-20T03:42:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T04:40:19.500Z"
+    },
+    {
+      "id": "ed39e47f8474b1e3",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10788222/sports-express-19-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10788222/sports-express-19-octobre",
+      "title": "Sports Express - 19 octobre",
+      "excerpt": "Les nouvelles du sport avec Jérémie Turbide",
+      "published": "2026-10-20T03:40:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-20T04:40:19.500Z"
+    },
+    {
       "id": "e304565c50b1ec42",
       "guid": "https://ici.radio-canada.ca/sports/videos/1-10788222/sports-express",
       "link": "https://ici.radio-canada.ca/sports/videos/1-10788222/sports-express",
