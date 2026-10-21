@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "7a020fdc38308319",
+      "guid": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "excerpt": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
+      "published": "2026-10-21T00:46:42.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T00:52:29.021Z"
+    },
+    {
       "id": "05dd90fd0f45aeea",
       "guid": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
       "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",

@@ -3,6 +3,28 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "247909c58ba3518a",
+      "guid": "https://globalnews.ca/?p=12110128",
+      "link": "https://globalnews.ca/news/12110128/ebys-hospital-expansion-pledge-questions-timing/",
+      "title": "Eby’s $30M hospital expansion pledge draws questions over timing",
+      "excerpt": "Eby announced the funding commitment during a campaign stop in Kelowna, saying the money would build out the sixth-floor inpatient unit and expand the hospital's capacity.",
+      "published": "2026-10-21T00:09:14.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/kgh-oct-20.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T00:52:29.021Z"
+    },
+    {
+      "id": "b923b466ee9b7ee9",
+      "guid": "https://globalnews.ca/?p=12110325",
+      "link": "https://globalnews.ca/news/12110325/bc-highest-flu-numbers-canada/",
+      "title": "B.C. is seeing the highest flu numbers in the country: Health Canada",
+      "excerpt": "Dr. Brian Conway, the medical director of the Vancouver Infectious Disease Centre, said these numbers show that flu season has started a little earlier than usual.",
+      "published": "2026-10-21T00:02:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2024/09/GettyImages-1279093619.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T00:52:29.021Z"
+    },
+    {
       "id": "3d1320fd4dc46532",
       "guid": "https://globalnews.ca/?p=12110154",
       "link": "https://globalnews.ca/news/12110154/no-sign-late-bc-ndp-surge-conservatives-lead-five-points-poll/",
@@ -45,6 +67,17 @@
       "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/victim-accused.jpg?quality=65&strip=all",
       "type": "article",
       "addedAt": "2026-10-20T22:39:31.689Z"
+    },
+    {
+      "id": "1248a7e92a406ed5",
+      "guid": "https://globalnews.ca/?p=12110219",
+      "link": "https://globalnews.ca/news/12110219/former-mlb-player-charged-youth-baseball-fraud/",
+      "title": "Former MLB player, spouse charged in alleged youth baseball program fraud in Ontario",
+      "excerpt": "A former Major League Baseball player and his spouse face fraud-related charges after families paid about $60,000 into an Ontario youth baseball training program.",
+      "published": "2026-10-20T22:17:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/butler-graphic-e1792541396282.webp",
+      "type": "article",
+      "addedAt": "2026-10-21T00:52:29.021Z"
     },
     {
       "id": "6c60f037758c87fb",
