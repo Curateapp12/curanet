@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "09a339899dd60d35",
+      "guid": "3fda7ce52a0d3dcb862e3444757fd019",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-10-21/etude/le-lsd-accelere-les-rythmes-du-cerveau-et-rend-son-activite-plus-complexe.php",
+      "title": "Étude | Le LSD accélère les rythmes du cerveau et rend son activité plus complexe",
+      "excerpt": "Les rythmes du cerveau s’accélèrent et son activité devient plus complexe et plus fractale sous l’effet du LSD, révèlent des travaux réalisés à Montréal qui incitent à revoir l’interprétation des effets des substances psychédéliques sur le cerveau.",
+      "published": "2026-10-21T10:39:57.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/bb136cab40303317998c20edcd6448c3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T10:42:25.668Z"
+    },
+    {
+      "id": "17d42f2ca5135477",
+      "guid": "14f20fa7ad9b32ff8ce48646ca2b931f",
+      "link": "https://www.lapresse.ca/actualites/2026-10-21/ce-qu-on-suit-ce-mercredi/conseil-des-ministres-mark-carney-cf-montreal.php",
+      "title": "Ce qu’on suit ce mercredi | Conseil des ministres, Mark Carney, CF Montréal",
+      "excerpt": "Voici les évènements au programme aujourd’hui.",
+      "published": "2026-10-21T10:09:24.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/9972577d459930a4b3c9dbf5bfeb7f6c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T10:42:25.668Z"
+    },
+    {
+      "id": "862d2f1a3287ae0a",
+      "guid": "42293805319b30d39c054ab8c20f8714",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-21/transports-en-direct/aucun-probleme-a-signaler.php",
+      "title": "Transports en direct | Aucun problème à signaler",
+      "excerpt": "Quelque chose à signaler sur les routes ou sur les rails ? La Presse examine le réseau en cette heure de pointe matinale et précise la couleur des feux de circulation.",
+      "published": "2026-10-21T10:07:22.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0b812c657ac0360aaff6ac100c72d205.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T10:42:25.668Z"
+    },
+    {
+      "id": "d3c329dc030756f6",
+      "guid": "d050c7ec760c3ba8b862603c75a67411",
+      "link": "https://www.lapresse.ca/actualites/2026-10-21/la-revue-de-presse-de-paul-arcand/conseil-des-ministres-les-fraudeurs-attaquent-avec-l-ia-et-aide-medicale-a-mourir-jusqu-ou-doit-on-aller.php",
+      "title": "La revue de presse de Paul Arcand | Conseil des ministres, les fraudeurs attaquent avec l’IA et aide médicale à mourir : jusqu’où doit-on aller ?",
+      "excerpt": "À l’occasion de sa revue de presse, mercredi matin, Paul Arcand aborde les choix de Paul St-Pierre Plamondon, alors qu’il présentera son conseil des ministres au cours de la journée.",
+      "published": "2026-10-21T10:06:48.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/af5002d52e043fe692ad53450eec76e4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T10:42:25.668Z"
+    },
+    {
+      "id": "b7ec058ec607e5f8",
+      "guid": "24eabbdf30153ccab4f53d019acb4135",
+      "link": "https://www.lapresse.ca/actualites/sante/2026-10-21/consommation-de-drogues/les-opioides-moins-presents-au-quebec-qu-ailleurs-au-canada.php",
+      "title": "Consommation de drogues | Les opioïdes moins présents au Québec qu’ailleurs au Canada",
+      "excerpt": "Alors que la crise des opioïdes frappe particulièrement fort dans l’ouest du pays, le Québec, qui n’est pas pour autant épargné, se distingue par la popularité des stimulants, qui sont beaucoup plus en circulation sur son territoire.",
+      "published": "2026-10-21T10:02:47.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/496021c86b183046a7048740a43ad6f7.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T10:42:25.668Z"
+    },
+    {
       "id": "138215513b567d5c",
       "guid": "e9910ee221703e8790e3ad03fcc2dcbc",
       "link": "https://www.lapresse.ca/actualites/sante/2026-10-21/la-presse-aux-pays-bas/derapages-au-pays-de-l-aide-medicale-a-mourir.php",
