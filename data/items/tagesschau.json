@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "c06e06cd83c3596c",
+      "guid": "43a1aeca-2074-4719-99d4-820872ce201e",
+      "link": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html",
+      "title": "Alice Schwarzer stellt Magazin \"Emma\" ein",
+      "excerpt": "Nach 50 Jahren ist Schluss. Das feministische Magazin \"Emma\" wird eingestellt. Gründerin und Herausgeberin Alice Schwarzer betonte, die Gründe seien nicht ökonomischer Natur. \"Wir meinen, es reicht.\"",
+      "published": "2026-10-21T08:40:09.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4fc10eb4-5402-4aae-bf3e-d1f7bc43e71c/AAABoV14S-E/AAABnSSvrFg/16x9-big/schwarzer-122.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T08:45:50.637Z"
+    },
+    {
+      "id": "5cf163a1f561be41",
+      "guid": "43403f90-7814-4b49-8f3f-4d47893726e7",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html",
+      "title": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
+      "excerpt": "Netflix war jahrelang der unumstrittene Marktführer beim Streaming. Doch der Konzern kämpft gegen immer stärkere Konkurrenz. Neue Produktionen sollen helfen, die Zuschauer wieder mehr zu fesseln - und mehr Werbung zu verkaufen.",
+      "published": "2026-10-21T08:20:43.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/dc4291c6-d9aa-4f67-b320-c00a3c944acb/AAABoV0_7EA/AAABnSSvrFg/16x9-big/netflix-248.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T08:45:50.637Z"
+    },
+    {
       "id": "41fe45e0e5d6e2ef",
       "guid": "ef3626b8-54f6-4a86-aa6b-a8a1b70a87da",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
