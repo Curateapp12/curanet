@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "41fe45e0e5d6e2ef",
+      "guid": "ef3626b8-54f6-4a86-aa6b-a8a1b70a87da",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
+      "title": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
+      "excerpt": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - Start und Landung verursachen den Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue.",
+      "published": "2026-10-21T07:25:52.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ccac6f2d-53cc-4d70-9656-2a739ab4d9a9/AAABoV1DVNg/AAABnSSvrFg/16x9-big/lufthansa-flugzeug-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T07:50:09.510Z"
+    },
+    {
+      "id": "7b0bc92771343c45",
+      "guid": "8fc6e34e-3f01-48b6-aa10-50a3f119f621",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
+      "title": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
+      "excerpt": "Die beiden US-Konzerne Tesla und SpaceX, die von Tech-Milliardär Elon Musk geführt werden, prüfen einen Zusammenschluss. Sollte dieser zustande kommen, wäre es die bislang größte Fusion zweier Firmen. Doch es gibt große Hürden.",
+      "published": "2026-10-21T07:11:45.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/da43a845-a941-4d42-bffd-77b034ca942d/AAABn342QzI/AAABnSSvrFg/16x9-big/tesla-446.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T07:50:09.510Z"
+    },
+    {
+      "id": "e3944a81ad9ab03a",
+      "guid": "69b6e3b5-fc0a-4347-8bfd-459d9effa3ae",
+      "link": "https://www.tagesschau.de/wissen/klima/erderwaermung-un-bericht-102.html",
+      "title": "UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu",
+      "excerpt": "Die Folgen der Erderwärmung sind verheerend. Das eigentlich vereinbarte 1,5-Grad-Limit wird ziemlich sicher gerissen. Doch die UN betonen: Es gibt Fortschritte beim Klimaschutz, die Zeit drängt allerdings. Von Janina Schreiber.",
+      "published": "2026-10-21T07:09:57.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5be1260e-3393-467e-b433-1d624aad7186/AAABoLB_TX0/AAABnSSvrFg/16x9-big/duerre-reisfeld-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T07:50:09.510Z"
+    },
+    {
+      "id": "06312cf48de2705d",
+      "guid": "d3037dda-3829-4727-8869-b9a9158be07d",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
+      "title": "US-Vermittler Witkoff berät mit Putin über Ukraine",
+      "excerpt": "Nach Gesprächen mit dem ukrainischen Präsidenten Selenskyj in Oslo ist US-Unterhändler Witkoff zu Verhandlungen mit der russischen Führung in St. Petersburg eingetroffen. US-Präsident Trump hatte Selenskyj zuvor zu einem \"Deal\" aufgefordert.",
+      "published": "2026-10-21T07:03:44.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/258ad48a-e412-41de-82b5-095a7fb9e806/AAABoV08ipo/AAABnSSvrFg/16x9-big/wittkoff-dmitriev-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T07:50:09.510Z"
+    },
+    {
       "id": "57cc9301b7ef4ba6",
       "guid": "72bb1e25-64d6-4785-b950-b89e18c2cbc9",
       "link": "https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html",
