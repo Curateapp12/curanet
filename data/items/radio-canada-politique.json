@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-politique",
   "items": [
     {
+      "id": "cf73eda090f71dc9",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10790158/assermentation-dans-souliers-une-ancienne-ministre",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10790158/assermentation-dans-souliers-une-ancienne-ministre",
+      "title": "L'assermentation dans les souliers d'une ancienne ministre",
+      "excerpt": "Comment se déroulent les premiers jours d'un élu ou d'un ministre à l'Assemblée nationale du Québec? L'ancienne ministre Véronique Hivon offre ses conseils aux nouveaux députés fraîchement assermentés.",
+      "published": "2026-10-21T23:34:08.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/262a3741-9465-48d5-ad7b-206ef16bfbe9/HR/WEBOTT_2026-10-21_01_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-21T23:39:45.466Z"
+    },
+    {
+      "id": "79e08441e85e3661",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10790156/carney-parle-un-peu-plus-souvent-en-francais-dans-ses-discours",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10790156/carney-parle-un-peu-plus-souvent-en-francais-dans-ses-discours",
+      "title": "Carney parle (un peu) plus souvent en français dans ses discours",
+      "excerpt": "Selon une compilation de Radio-Canada, la proportion de français dans les discours de Mark Carney a connu une hausse, passant de 17 % à 23 % au cours de la dernière année. Est-ce assez ? On en discute avec Derek Bentley, président de la Société de la francophonie manitobaine.",
+      "published": "2026-10-21T23:32:52.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/d366ef17-745f-4c5b-8aaf-423dbdb03d2e/HR/WEBOTT_2026-10-21_02_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-21T23:39:45.466Z"
+    },
+    {
+      "id": "80471feafd911411",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10789888/plongee-dans-coulisses-debat-pour-mairie-winnipeg",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10789888/plongee-dans-coulisses-debat-pour-mairie-winnipeg",
+      "title": "Plongée dans les coulisses du débat pour la mairie de Winnipeg",
+      "excerpt": "À l'occasion de la course à la mairie de Winnipeg, trois candidats, Mike Vogiatzakis, Scott Gillingham et Kevin Klein, débattent de leurs propositions. Radio-Canada vous offre une plongée dans l'envers du décor.",
+      "published": "2026-10-21T23:13:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hotel-ville-winnipeg-mairie-ete.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T23:39:45.466Z"
+    },
+    {
+      "id": "8a4bf5bd4a89e6bf",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10790116/a-quoi-sert-fonction-lieutenante-gouverneure-au-quebec",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10790116/a-quoi-sert-fonction-lieutenante-gouverneure-au-quebec",
+      "title": "À quoi sert la fonction de lieutenante-gouverneure au Québec ?",
+      "excerpt": "La lieutenante-gouverneure Manon Jeannotte était absente pour l'assermentation des ministres mercredi (21 octobre 2026), à la demande du Parti québécois. Le nouveau premier ministre, Paul Saint-Pierre Plamondon, veut aller plus loin et abolir son poste. Mais à quoi sert exactement la représentante…",
+      "published": "2026-10-21T23:04:37.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/9539b000-a5f6-4259-b553-e4428da1b505/HR/2026-1021-1912_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-21T23:39:45.466Z"
+    },
+    {
+      "id": "273c63ef79afb1c1",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10790120/qui-sont-ministres-cabinet-st-pierre-plamondon",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10790120/qui-sont-ministres-cabinet-st-pierre-plamondon",
+      "title": "Qui sont les ministres du Cabinet St-Pierre Plamondon ?",
+      "excerpt": "Le premier ministre, Paul St-Pierre Plamondon, a dévoilé mercredi (21 octobre 2026) l’équipe avec laquelle il dirigera le Québec. Un Cabinet réduit à 22 ministres, qui se situe aux limites de la parité. Quelle est la stratégie derrière cette équipe ? Chantal Hébert, Jonathan Trudeau et Véronique…",
+      "published": "2026-10-21T22:59:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/endirectavecpatriceroy.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T23:39:45.466Z"
+    },
+    {
+      "id": "293816e25d799914",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10790115/que-retenir-nouveau-conseil-ministres",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10790115/que-retenir-nouveau-conseil-ministres",
+      "title": "Que retenir du nouveau Conseil des ministres?",
+      "excerpt": "Le chef du bureau parlementaire de Radio-Canada à Québec, Sébastien Bovet, analyse la formation du Conseil des ministres du gouvernement péquiste.",
+      "published": "2026-10-21T22:53:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/telejournal-quebec-bruno-savard-louis-simon-lapointe.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T23:39:45.466Z"
+    },
+    {
       "id": "8934f9d765be13c2",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10790100/sans-depute-dans-region-quebec-pspp-forme-son-cabinet",
       "link": "https://ici.radio-canada.ca/info/videos/1-10790100/sans-depute-dans-region-quebec-pspp-forme-son-cabinet",
