@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "c0bac1475ca4c813",
+      "guid": "https://globalnews.ca/?p=12112168",
+      "link": "https://globalnews.ca/news/12112168/saudi-arabia-us-diplomat-evacuations-houthi-attacks/",
+      "title": "U.S. orders some diplomats out of Saudi Arabia amid Houthi attacks",
+      "excerpt": "The U.S. embassy in Riyadh issued a security alert on Wednesday about possible further attacks by the Houthis on Saudi Arabia",
+      "published": "2026-10-21T20:30:24.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/riyadh_499175.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T20:42:12.467Z"
+    },
+    {
+      "id": "75186d728c0b50a5",
+      "guid": "https://globalnews.ca/?p=12112144",
+      "link": "https://globalnews.ca/news/12112144/meta-new-mexico-lawsuit/",
+      "title": "Meta ordered to pay US$25B after jury says it misled consumers on privacy",
+      "excerpt": "New Mexico Attorney General Raúl Torrez said it was one of the largest, if not the largest, single state verdict against the company in American history.",
+      "published": "2026-10-21T20:10:54.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Meta-New-Mexico-lawsuit.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T20:42:12.467Z"
+    },
+    {
+      "id": "31e84b6049184895",
+      "guid": "https://globalnews.ca/?p=12112035",
+      "link": "https://globalnews.ca/news/12112035/how-a-selfie-predicts-cancer-outcomes/",
+      "title": "Can a photo help predict if you’ll survive cancer? Researchers think so",
+      "excerpt": "A team of researchers developed AI models that they say can predict a person’s biological age and chances of surviving cancer treatment using a singular photograph of their face.",
+      "published": "2026-10-21T20:05:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/faceage-cancer-survival-biological-age-e1792610083283.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T20:42:12.467Z"
+    },
+    {
       "id": "fd1875ce5ffd5cd7",
       "guid": "https://globalnews.ca/?p=12110346",
       "link": "https://globalnews.ca/news/12110346/new-beds-saskatoon-hospital/",

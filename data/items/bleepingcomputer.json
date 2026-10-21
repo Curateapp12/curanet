@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "3371acd3dcb3c169",
+      "guid": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "excerpt": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+      "published": "2026-10-21T20:31:48.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T20:42:12.467Z"
+    },
+    {
       "id": "71f0485320c6db1d",
       "guid": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
