@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "0f04a6f0fbacdd05",
+      "guid": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "excerpt": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+      "published": "2026-10-21T01:01:50.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T01:43:47.130Z"
+    },
+    {
       "id": "7a020fdc38308319",
       "guid": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
       "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
