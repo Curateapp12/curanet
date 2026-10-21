@@ -3,6 +3,105 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "0fe33b89272be240",
+      "guid": "https://www.ledevoir.com/lire/1018340/cent-ans-diplomatie-litteraire-pen-quebec",
+      "link": "https://www.ledevoir.com/lire/1018340/cent-ans-diplomatie-litteraire-pen-quebec",
+      "title": "Cent ans de diplomatie littéraire pour PEN Québec",
+      "excerpt": "L’organisme fondé en 1926 offre son soutien aux auteurs victimes de censure partout dans le monde.",
+      "published": "2026-10-21T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T04:40:59.756Z"
+    },
+    {
+      "id": "126195b269b36140",
+      "guid": "https://www.ledevoir.com/opinion/idees/1018358/defendre-convictions-perdre-humanite",
+      "link": "https://www.ledevoir.com/opinion/idees/1018358/defendre-convictions-perdre-humanite",
+      "title": "Défendre ses convictions sans perdre son humanité",
+      "excerpt": "Monsieur Éric Duhaime, pourquoi ne pas appliquer la logique du convoi d’hier aux manifestants d’aujourd’hui?",
+      "published": "2026-10-21T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T04:40:59.756Z"
+    },
+    {
+      "id": "1a29b279643a5452",
+      "guid": "https://www.ledevoir.com/culture/1018361/studio-design-montrealais-choisi-sauter-bateau-ia",
+      "link": "https://www.ledevoir.com/culture/1018361/studio-design-montrealais-choisi-sauter-bateau-ia",
+      "title": "Un studio de design montréalais qui a choisi de «sauter dans le bateau» de l’IA",
+      "excerpt": "Pour le duo Vallée Duhamel, l’IA est un «troisième partenaire» dans la création.",
+      "published": "2026-10-21T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T04:40:59.756Z"
+    },
+    {
+      "id": "334e0cfffb3e7513",
+      "guid": "https://www.ledevoir.com/politique/canada/1018337/ottawa-accorde-gre-gre-contrat-13-millions-formations-ia-generees-ia",
+      "link": "https://www.ledevoir.com/politique/canada/1018337/ottawa-accorde-gre-gre-contrat-13-millions-formations-ia-generees-ia",
+      "title": "Ottawa a accordé de gré à gré le contrat de 13 millions pour ses formations sur l’IA générées par IA",
+      "excerpt": "Le ministre Evan Solomon raconte avoir lui-même sélectionné un institut qui lui avait fait bonne impression.",
+      "published": "2026-10-21T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T04:40:59.756Z"
+    },
+    {
+      "id": "504ac65a8d1aacbf",
+      "guid": "https://www.ledevoir.com/opinion/chroniques/1018226/bismillah-c-est-tenebres",
+      "link": "https://www.ledevoir.com/opinion/chroniques/1018226/bismillah-c-est-tenebres",
+      "title": "Bismillah, c’est les ténèbres!",
+      "excerpt": "Derrière la casse, il y a un mouvement dont le message essentiel a, lui aussi, été saccagé.",
+      "published": "2026-10-21T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T04:40:59.756Z"
+    },
+    {
+      "id": "98484fcd14cd478c",
+      "guid": "https://www.ledevoir.com/opinion/idees/1018355/j-hais-aimer-ia",
+      "link": "https://www.ledevoir.com/opinion/idees/1018355/j-hais-aimer-ia",
+      "title": "J’haïs aimer l’IA",
+      "excerpt": "Refusons que quelques-uns décident sans nous de ce qu’elle fera de nous.",
+      "published": "2026-10-21T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T04:40:59.756Z"
+    },
+    {
+      "id": "ad6e883fc2abe62a",
+      "guid": "https://www.ledevoir.com/opinion/chroniques/1018331/point-heros-valet",
+      "link": "https://www.ledevoir.com/opinion/chroniques/1018331/point-heros-valet",
+      "title": "Point de héros pour son valet",
+      "excerpt": "La magnanimité dans la victoire n’était pas au menu de Justin Trudeau: «les perdants perdent».",
+      "published": "2026-10-21T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T04:40:59.756Z"
+    },
+    {
+      "id": "c6f88062c7898057",
+      "guid": "https://www.ledevoir.com/opinion/libre-opinion/1018352/retraite-egale-protection-egale",
+      "link": "https://www.ledevoir.com/opinion/libre-opinion/1018352/retraite-egale-protection-egale",
+      "title": "À retraite égale, protection égale",
+      "excerpt": "Le cadre législatif doit évoluer pour offrir une protection plus étendue à l’épargne-retraite individuelle.",
+      "published": "2026-10-21T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T04:40:59.756Z"
+    },
+    {
+      "id": "c7c7125855772535",
+      "guid": "https://www.ledevoir.com/actualites/environnement/1018382/crise-climatique-risque-creuser-inegalites-quebec-previent-nouveau-regroupement",
+      "link": "https://www.ledevoir.com/actualites/environnement/1018382/crise-climatique-risque-creuser-inegalites-quebec-previent-nouveau-regroupement",
+      "title": "La crise climatique risque de creuser les inégalités au Québec, prévient un nouveau regroupement",
+      "excerpt": "L’Alliance justice et climat veut amener Québec à tenir compte des plus vulnérables dans ses politiques climatiques.",
+      "published": "2026-10-21T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T04:40:59.756Z"
+    },
+    {
       "id": "c7a2e0a149794c7f",
       "guid": "https://www.ledevoir.com/politique/canada/1018394/question-separation-est-desormais-close-estime-danielle-smith",
       "link": "https://www.ledevoir.com/politique/canada/1018394/question-separation-est-desormais-close-estime-danielle-smith",
