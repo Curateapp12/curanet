@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "d3a83078ca34700b",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10789255/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10789255/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-21T03:36:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T03:41:37.311Z"
+    },
+    {
+      "id": "a388a174acb7b421",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10789250/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10789250/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-21T03:21:25.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T03:41:37.311Z"
+    },
+    {
+      "id": "230cf45f4e6afe6a",
+      "guid": "https://ici.radio-canada.ca/sports/2294577/marchenko-maple-leafs-blue-jackets",
+      "link": "https://ici.radio-canada.ca/sports/2294577/marchenko-maple-leafs-blue-jackets",
+      "title": "Marchenko marque dans une victoire des Maple Leafs à Columbus",
+      "excerpt": "Kirill Marchenko a touché la cible à son premier match face à son ancienne équipe dans un gain de 6-2.",
+      "published": "2026-10-21T02:35:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/kirill-marchenko.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T03:41:37.311Z"
+    },
+    {
       "id": "faa2ba20f098f235",
       "guid": "https://ici.radio-canada.ca/sports/2294575/association-joueurs-nfl-enquete-eagles-jalen-hurts",
       "link": "https://ici.radio-canada.ca/sports/2294575/association-joueurs-nfl-enquete-eagles-jalen-hurts",
