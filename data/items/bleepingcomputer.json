@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "832124389031586a",
+      "guid": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "excerpt": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+      "published": "2026-10-21T22:16:26.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T22:40:54.068Z"
+    },
+    {
+      "id": "e9fd60a700e2a4db",
+      "guid": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "excerpt": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+      "published": "2026-10-21T21:43:27.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T22:40:54.068Z"
+    },
+    {
       "id": "3371acd3dcb3c169",
       "guid": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
       "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
