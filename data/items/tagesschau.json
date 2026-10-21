@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "2591d9e5fd8aa9bb",
+      "guid": "e1f83c0d-c45b-482e-a887-fcb1668a9c76",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-adidas-100.html",
+      "title": "Gewinnprognose erhöht: Rekordgewinn für Adidas",
+      "excerpt": "Das hören Aktionäre und Investoren immer gerne: der Sportartikelkonzern Adidas erhöht nach einem Rekordquartal die Prognose. Im DAX gehört die Aktie zu den größten Gewinnern.",
+      "published": "2026-10-21T12:31:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1102678a-2da3-47f3-b335-2abdf310edf4/AAABoV3J9_A/AAABnSSvrFg/16x9-big/adidas-174.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T12:51:28.161Z"
+    },
+    {
+      "id": "53a37f43088817c5",
+      "guid": "2da12877-91c9-4de1-99d0-ceab16e194f2",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html",
+      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
+      "excerpt": "In St. Petersburg berät Russlands Präsident Putin mit dem US-Vermittler Witkoff über den Ukraine-Krieg. Zum Auftakt der Gespräche schlug Putin ein Dreier-Treffen mit Trump und Xi in China vor - und kündigte erste Diesellieferungen an die USA an.",
+      "published": "2026-10-21T11:55:51.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/82c75df0-6192-4ec3-8128-1b31683cdc59/AAABoV5RVc8/AAABnSSvrFg/16x9-big/putin-witkoff-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T12:51:28.161Z"
+    },
+    {
+      "id": "d7cd8efdc583acf4",
+      "guid": "45db4922-fd86-42ae-8bb7-81970be8d3a6",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/versicherungen-naturkatastrophen-100.html",
+      "title": "Häuser sollen besser gegen Naturgefahren versichert werden",
+      "excerpt": "Hochwasser, Starkregen, Erdbeben: Gegen Schäden nach solchen Naturkatastrophen sind Häuser nicht standardmäßig versichert. Das will die Bundesregierung nun ändern - und legt ein erstes Papier mit Eckpunkten vor.",
+      "published": "2026-10-21T11:48:22.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/9a69f89a-c35c-4e93-817d-946154326ab8/AAABoV4p7ng/AAABnSSvrFg/16x9-big/wohnsiedlung-senftenberg-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T12:51:28.161Z"
+    },
+    {
       "id": "b81298fad23fa8ed",
       "guid": "75aa90dc-1238-4c41-9358-2ea14fe2242b",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-betrug-bookingcom-eu-100.html",

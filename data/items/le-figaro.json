@@ -3,6 +3,61 @@
   "sourceId": "le-figaro",
   "items": [
     {
+      "id": "61ffdd5d7830e8a8",
+      "guid": "https://www.lefigaro.fr/secteur/high-tech/une-nouvelle-cyberattaque-touche-le-fichier-i-cad-qui-recense-les-proprietaires-de-chats-chiens-et-furets-20261021",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/une-nouvelle-cyberattaque-touche-le-fichier-i-cad-qui-recense-les-proprietaires-de-chats-chiens-et-furets-20261021",
+      "title": "Une nouvelle cyberattaque touche le fichier I-CAD, qui recense les propriétaires de chats, chiens et furets",
+      "excerpt": "Des données ont été volées par l’usurpation du compte d’un organisme partenaire, conduisant à l’extraction des données de propriétaires de chats.",
+      "published": "2026-10-21T12:50:28.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/orig/2026/10/21/8367519ea23f891011cb61431bf083f599387f8c97bc1effa700ccd47cb79bf3.JPG",
+      "type": "article",
+      "addedAt": "2026-10-21T12:51:28.161Z"
+    },
+    {
+      "id": "705c9d1c602d8191",
+      "guid": "https://www.lefigaro.fr/secteur/high-tech/test/que-vaut-l-iphone-duo-le-premier-smartphone-pliable-d-apple-decouvrez-le-test-du-figaro-20261021",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/test/que-vaut-l-iphone-duo-le-premier-smartphone-pliable-d-apple-decouvrez-le-test-du-figaro-20261021",
+      "title": "Que vaut l’iPhone Duo, le premier smartphone pliable d’Apple ? Découvrez le test du Figaro",
+      "excerpt": "Portée par un écran ultra-performant, la dernière version du téléphone vedette d’Apple sait séduire et surpasse la concurrence. Nous avons testé ce nouveau modèle.",
+      "published": "2026-10-21T12:46:14.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/21/7e461022c7354f21ebe1e8be8a6078b78955f02cafe85b7e25a030348a831399.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T12:51:28.161Z"
+    },
+    {
+      "id": "ecc49b31a7a79161",
+      "guid": "https://www.lefigaro.fr/sciences/climat-el-nino-pourrait-litteralement-depasser-les-echelles-de-suivi-actuelles-alerte-l-onu-20261021",
+      "link": "https://www.lefigaro.fr/sciences/climat-el-nino-pourrait-litteralement-depasser-les-echelles-de-suivi-actuelles-alerte-l-onu-20261021",
+      "title": "Climat : El Niño pourrait «littéralement dépasser les échelles de suivi» actuelles, alerte l'ONU",
+      "excerpt": "Le phénomène El Niño actuel va encore s’intensifier dans les prochains mois et pourrait atteindre une intensité sans précédent, selon l’Organisation météorologique mondiale (OMM) de l’ONU.",
+      "published": "2026-10-21T12:45:57.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/orig/2026/10/21/bac34977152ec045d049c22f4f7a20f2a5364ffa738b049394d2dd316b492040.JPG",
+      "type": "article",
+      "addedAt": "2026-10-21T12:51:28.161Z"
+    },
+    {
+      "id": "4e4229de2672ba78",
+      "guid": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-des-frigos-de-supermarches-l-anssi-pointe-du-doigt-des-defauts-de-securisation-elementaire-20261021",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-des-frigos-de-supermarches-l-anssi-pointe-du-doigt-des-defauts-de-securisation-elementaire-20261021",
+      "title": "Cyberattaque des frigos de supermarchés : l’Anssi pointe du doigt des «défauts de sécurisation élémentaire»",
+      "excerpt": "Le directeur de l’agence nationale de sécurité des systèmes d’information rappelle qu’elle recommande de ne pas exposer directement les systèmes industriels sur Internet, ce que les entreprises ne suivent pas toujours.",
+      "published": "2026-10-21T12:36:16.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/orig/2026/10/21/c9b4d4c206d9a8b7cb64dd28c0578fc0f6c1b170325aab6bae6ebb6a2d51c75f.JPG",
+      "type": "article",
+      "addedAt": "2026-10-21T12:51:28.161Z"
+    },
+    {
+      "id": "fddee0d892c469fc",
+      "guid": "https://www.lefigaro.fr/faits-divers/j-ai-entendu-ma-maman-crier-le-fils-de-cedric-prizzon-raconte-le-periple-meurtrier-de-son-pere-accuse-d-un-double-feminicide-au-portugal-20261021",
+      "link": "https://www.lefigaro.fr/faits-divers/j-ai-entendu-ma-maman-crier-le-fils-de-cedric-prizzon-raconte-le-periple-meurtrier-de-son-pere-accuse-d-un-double-feminicide-au-portugal-20261021",
+      "title": "«J’ai entendu ma maman crier» : le fils de Cédric Prizzon raconte le périple meurtrier de son père, accusé d’un double féminicide au Portugal",
+      "excerpt": "EXCLUSIF - Le Figaro a eu accès à l’audition du fils de Cédric Prizzon, accusé d’avoir enlevé sa mère avant de l’assassiner, elle et sa nouvelle compagne au Portugal. À 13 ans, il retrace chaque minute de cette cavale meurtrière orchestrée par celui qu’il voit toujours comme «son meilleur ami».",
+      "published": "2026-10-21T12:30:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/1677x943_crop/2026/10/18/c3be5f03054e439943e3330e7580f17d5c0a783c5ce8de0a0e442d0114e02f5e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T12:51:28.161Z"
+    },
+    {
       "id": "c593dcef1b13b4ba",
       "guid": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-la-lfp-lance-officiellement-un-appel-d-offres-pour-les-droits-tv-20261021",
       "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-la-lfp-lance-officiellement-un-appel-d-offres-pour-les-droits-tv-20261021",
@@ -243,6 +298,17 @@
       "thumbnail": "https://i.f1g.fr/media/cms/1280x720_crop/2026/10/21/82762bea67b0c1f8ae781efd80040a0ad07743036fa51c1f24bd330a34f571f3.jpg",
       "type": "article",
       "addedAt": "2026-10-21T06:51:16.965Z"
+    },
+    {
+      "id": "fa468efd475318b9",
+      "guid": "https://www.lefigaro.fr/international/cela-me-ferait-penser-a-une-instrumentalisation-donald-trump-estime-que-marine-le-pen-a-ete-mal-traitee-par-la-justice-20261021",
+      "link": "https://www.lefigaro.fr/international/cela-me-ferait-penser-a-une-instrumentalisation-donald-trump-estime-que-marine-le-pen-a-ete-mal-traitee-par-la-justice-20261021",
+      "title": "«Cela me ferait penser à une instrumentalisation» : Donald Trump estime que Marine Le Pen a été «mal traitée» par la justice",
+      "excerpt": "Condamnée en mars 2025 à une peine d’inéligibilité de cinq ans pour détournement de fonds publics, Marine Le Pen a depuis vu sa peine réduite à 15 mois (déjà purgés), ce qui lui permet de concourir à la présidentielle de 2027, pour laquelle elle est l’ultra-favorite des sondages.",
+      "published": "2026-10-21T06:22:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/orig/2026/10/21/5923c05925206777262c56f601d28155b9e513d705bea0b3db7ff030104a9e75.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T12:51:28.161Z"
     },
     {
       "id": "80ebe6d107bbd5bd",
