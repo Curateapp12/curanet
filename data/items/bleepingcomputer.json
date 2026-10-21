@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "288893f636793d08",
+      "guid": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "excerpt": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+      "published": "2026-10-21T16:26:53.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T16:42:04.632Z"
+    },
+    {
       "id": "a5afc0aef8988cce",
       "guid": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
