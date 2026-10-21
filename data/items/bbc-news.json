@@ -3,6 +3,61 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "d9bfc71c3ecf1f73",
+      "guid": "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o",
+      "title": "Actor Noel Clarke pleads not guilty to sexual offence charges",
+      "excerpt": "The former Doctor Who and Kidulthood star appeared at Westminster Magistrates Court on Wednesday.",
+      "published": "2026-10-21T09:35:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a5/live/85bef820-cd32-11f1-935f-b9c228680c6f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T09:42:21.706Z"
+    },
+    {
+      "id": "cca5fe90b7129828",
+      "guid": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o",
+      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+      "excerpt": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.",
+      "published": "2026-10-21T09:22:23.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T09:42:21.706Z"
+    },
+    {
+      "id": "d9bd05b71afed00e",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cqgm0ze7vepmo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqgm0ze7vepmo",
+      "title": "Why Eze is struggling to find his form at Arsenal",
+      "excerpt": "Eberechi Eze has been struggling for form this season for Arsenal, but there could be hope that the forward turns it around.",
+      "published": "2026-10-21T09:22:07.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ed/live/9e6879f0-ccb5-11f1-9510-b3feea5bd9b1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T09:42:21.706Z"
+    },
+    {
+      "id": "a10f52599f93e917",
+      "guid": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go#4",
+      "link": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go",
+      "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
+      "excerpt": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
+      "published": "2026-10-21T09:04:26.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee09/live/4eec08b0-cd2d-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T09:42:21.706Z"
+    },
+    {
+      "id": "ada92ca08eb3ec59",
+      "guid": "https://www.bbc.co.uk/news/articles/ck20rver1j31o#4",
+      "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o",
+      "title": "Family of prison officer shot dead by IRA to get state apology",
+      "excerpt": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+      "published": "2026-10-21T08:28:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddf/live/9ed26bb0-cc7b-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T09:42:21.706Z"
+    },
+    {
       "id": "5d61cfc7e79b71b4",
       "guid": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo#1",
       "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo",
@@ -23,6 +78,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e47/live/d109ae80-cd26-11f1-b459-2981bb26ef6d.jpg",
       "type": "article",
       "addedAt": "2026-10-21T08:45:50.637Z"
+    },
+    {
+      "id": "34f3b1766052c8f0",
+      "guid": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o",
+      "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
+      "excerpt": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+      "published": "2026-10-21T08:07:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a99/live/ca0d4520-cc85-11f1-bed8-c51b95c602ec.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T09:42:21.706Z"
     },
     {
       "id": "71893da65ab4b0c5",
