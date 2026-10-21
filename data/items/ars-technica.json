@@ -3,6 +3,72 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "140d853f0e3f908f",
+      "guid": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "excerpt": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+      "published": "2026-10-21T19:44:40.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T21:42:34.772Z"
+    },
+    {
+      "id": "ec2684f4715d6976",
+      "guid": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+      "link": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+      "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+      "excerpt": "Next Mass Effect project canceled as parent company lays off 400.",
+      "published": "2026-10-21T19:12:16.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/me3ending-1152x648.webp",
+      "type": "article",
+      "addedAt": "2026-10-21T21:42:34.772Z"
+    },
+    {
+      "id": "53db5cc109270879",
+      "guid": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "excerpt": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "published": "2026-10-21T18:51:42.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T21:42:34.772Z"
+    },
+    {
+      "id": "5c98085c7b76485e",
+      "guid": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+      "link": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+      "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+      "excerpt": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
+      "published": "2026-10-21T18:35:38.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T21:42:34.772Z"
+    },
+    {
+      "id": "5cbd98ec79a60fdf",
+      "guid": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "excerpt": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+      "published": "2026-10-21T18:20:40.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T21:42:34.772Z"
+    },
+    {
+      "id": "a8fc29d639f4d84f",
+      "guid": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
+      "link": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
+      "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
+      "excerpt": "OS operators throwing out that data is \"unlikely,\" research author tells Ars.",
+      "published": "2026-10-21T18:00:37.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2226225055-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T21:42:34.772Z"
+    },
+    {
       "id": "c265b4d39c82f31e",
       "guid": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
       "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",

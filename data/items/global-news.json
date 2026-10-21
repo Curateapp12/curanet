@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "644f3b850a153d94",
+      "guid": "https://globalnews.ca/?p=12112012",
+      "link": "https://globalnews.ca/news/12112012/saint-john-port-upgrades-federal-funding/",
+      "title": "$463M Port of Saint John project aims to boost New Brunswick exports",
+      "excerpt": "The Saint John Trade Corridor is the first project to receive funding through the federal Trade Diversification Corridors Fund.",
+      "published": "2026-10-21T21:29:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/port-of-saint-john-e1792617619334.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T21:42:34.772Z"
+    },
+    {
+      "id": "247470da93c2e52b",
+      "guid": "https://globalnews.ca/?p=12112250",
+      "link": "https://globalnews.ca/news/12112250/jeremy-hansen-special-adviser-mark-carney/",
+      "title": "Jeremy Hansen tapped by Carney as special adviser to feds on space",
+      "excerpt": "In April, as part of the Artemis II mission, Hansen and three other astronauts travelled around the moon and further out into space than any humans before them.",
+      "published": "2026-10-21T21:05:19.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/c1f09606cf506792eb2ed3eadd9d32b176e07cb6671ecf45976fe774cc9f7de5_f29fd0.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T21:42:34.772Z"
+    },
+    {
+      "id": "f297a59e911055e2",
+      "guid": "https://globalnews.ca/?p=12112197",
+      "link": "https://globalnews.ca/news/12112197/mark-carney-alberta-immigration-deal-quebec/",
+      "title": "Carney won’t rule out giving Alberta a Quebec-style immigration deal",
+      "excerpt": "Conservative Leader Pierre Poilievre said on Tuesday the Liberals have lost control of immigration and provinces should have more control over their intake numbers.",
+      "published": "2026-10-21T20:46:46.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP177100056.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T21:42:34.772Z"
+    },
+    {
       "id": "c0bac1475ca4c813",
       "guid": "https://globalnews.ca/?p=12112168",
       "link": "https://globalnews.ca/news/12112168/saudi-arabia-us-diplomat-evacuations-houthi-attacks/",
