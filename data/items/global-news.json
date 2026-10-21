@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "10a018d7b0c4b2e2",
+      "guid": "https://globalnews.ca/?p=12110881",
+      "link": "https://globalnews.ca/news/12110881/government-sites-go-dark-vuln-in-code/",
+      "title": "Government sites go dark as vulnerabilities in coding language raise alarms online",
+      "excerpt": "Developers ​of the PHP programming language said they had identified two critical vulnerabilities, and urged ​users to update their sites as soon as a fix was released.",
+      "published": "2026-10-21T13:48:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/01/CP171952533.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
+    },
+    {
+      "id": "2410627ec69dcd83",
+      "guid": "https://globalnews.ca/?p=12110855",
+      "link": "https://globalnews.ca/news/12110855/russia-frees-american-prisoner/",
+      "title": "Russia frees American prisoner after over 4 years during a U.S. envoy visit",
+      "excerpt": "Russia on Wednesday freed an American who had been jailed for more than four years on charges of fighting as a mercenary in Ukraine.",
+      "published": "2026-10-21T13:43:16.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP177124616-e1792589287426.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
+    },
+    {
+      "id": "8b79f63ca1218569",
+      "guid": "https://globalnews.ca/?p=12110862",
+      "link": "https://globalnews.ca/news/12110862/record-90m-lotto-max-jackpot-won-in-alberta-olg-says/",
+      "title": "Record $90M Lotto Max jackpot won in Alberta, OLG says",
+      "excerpt": "The record-setting $90 million Lotto Max jackpot was won in Alberta following Tuesday night’s draw, the Ontario Lottery and Gaming Corporation says.",
+      "published": "2026-10-21T13:11:15.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2024/12/Lotto-Max.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
+    },
+    {
       "id": "5985e22a1e2faa95",
       "guid": "https://globalnews.ca/?p=12110841",
       "link": "https://globalnews.ca/news/12110841/france-announces-nightly-curfews-paris/",

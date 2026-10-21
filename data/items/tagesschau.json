@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "682789c95cded5f7",
+      "guid": "f00af11e-d719-4132-a0a4-37ca3ce2c765",
+      "link": "https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html",
+      "title": "Brasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen",
+      "excerpt": "Kurz vor der Stichwahl in Brasilien verschärft sich der Wahlkampf zwischen Lula und Bolsonaro. Beide Präsidentschaftsbewerber gehen nun gerichtlich gegen den jeweils anderen vor, um eine Annullierung der Kandidatur zu erreichen.",
+      "published": "2026-10-21T13:40:07.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2b2c64c7-ded9-4231-864a-18c6daab9e2f/AAABoV6AQlM/AAABnSSvrFg/16x9-big/bolsonaro-da-silva-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
+    },
+    {
+      "id": "81a58a8abae38ea5",
+      "guid": "fd2685b8-377c-44a2-bcfd-aa8e8a6164a7",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-globus-handel-100.html",
+      "title": "Das abgespaltene Russlandgeschäft von Globus wirft neue Fragen auf",
+      "excerpt": "Die Eigner der Handelsgruppe Globus sind unter dem Namen \"Hyperglobus\" weiter in Russland aktiv. Eine Plusminus-Recherche zeigt nun: Einer dieser Märkte unterstützt eine Organisation, die Ausrüstung an die russische Armee liefert. Von M. Fuchs.",
+      "published": "2026-10-21T13:31:14.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/41e066ee-d4e6-4833-8f3e-766fa010865f/AAABlfLtI1k/AAABnSSvrFg/16x9-big/globus-russland-101.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
+    },
+    {
+      "id": "ee6bdff2f26322cf",
+      "guid": "e5dc4c22-e9ed-49cb-9314-ca64ba215aa0",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-schufa-114.html",
+      "title": "BGH-Urteil: Schufa muss über Score-Berechnung informieren",
+      "excerpt": "Immer wieder gibt es Kritik am Score-System der Schufa. Zu undurchsichtig, lautet der Vorwurf. Nun hat der Bundesgerichtshof entschieden: Unter bestimmten Voraussetzungen muss die Schufa über die Berechnung informieren. Von Anne Stein.",
+      "published": "2026-10-21T13:18:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/869c19d6-9124-4ec5-8abf-7a35d692271f/AAABmt4YFok/AAABnSSvrFg/16x9-big/schufa-148.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
+    },
+    {
+      "id": "10ed5cab652a6ecd",
+      "guid": "b3b7579b-d6e2-432a-a72b-be5469bf223e",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html",
+      "title": "Polens Parlament für Lockerung des Abtreibungsrechts",
+      "excerpt": "Die Verschärfung des Abtreibungsrechts unter der alten PiS-Regierung hatte monatelange Massenproteste in Polen ausgelöst. Nun hat das Parlament eine Lockerung eingeleitet - aber es droht ein Veto.",
+      "published": "2026-10-21T13:08:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/45217067-2cce-49ae-9be7-ea0db97002cc/AAABoV5HcmA/AAABnSSvrFg/16x9-big/polen-parlament-114.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
+    },
+    {
+      "id": "2a57b9e01fcb6bd4",
+      "guid": "72e1c7ed-b821-4092-9407-1849b3564182",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-tesla-spacex-zusammenschluss-folgen-100.html",
+      "title": "Was eine Fusion von Tesla und SpaceX bedeuten würde",
+      "excerpt": "Die Musk-Konzerne Tesla und SpaceX könnten sich zusammentun und so einen mehrere Billionen Dollar schweren Tech-Konzern bilden. Welche Folgen - aber auch Risiken - diese Fusion haben könnte.",
+      "published": "2026-10-21T13:08:11.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1f7bfde7-dfc2-46c4-aaa0-ea64ecb0c4e1/AAABoV6brDg/AAABnSSvrFg/16x9-big/musk-316.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
+    },
+    {
       "id": "2591d9e5fd8aa9bb",
       "guid": "e1f83c0d-c45b-482e-a887-fcb1668a9c76",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-adidas-100.html",

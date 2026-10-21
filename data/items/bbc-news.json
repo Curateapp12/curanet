@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "e04acd1278a8073a",
+      "guid": "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do",
+      "title": "Belfast comedian criticised for rape 'joke' about assault victim",
+      "excerpt": "Vittorio Angelone referred to content creator Rebecca Goodwin in a remark about rape.",
+      "published": "2026-10-21T13:03:48.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/bcf605d0-3292-11f1-a79a-77e93010d956.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
+    },
+    {
+      "id": "ecad39f1c4c35406",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo#8",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo",
+      "title": "Kildunne drops to bench as England ring changes",
+      "excerpt": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years.",
+      "published": "2026-10-21T12:47:48.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f042/live/edffdfd0-cd46-11f1-8177-0f8bd59b54c4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
+    },
+    {
       "id": "598fdccac7d22e21",
       "guid": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o#1",
       "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o",
@@ -78,6 +100,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f353/live/8094ace0-1d5c-11f1-b048-c9424b2cf5fd.jpg",
       "type": "article",
       "addedAt": "2026-10-21T11:41:52.479Z"
+    },
+    {
+      "id": "2cc186e4ed904d19",
+      "guid": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo#1",
+      "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo",
+      "title": "'My friend was lying next to me... I was only 8 but I realised he was dead'",
+      "excerpt": "Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.",
+      "published": "2026-10-21T11:21:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c11a/live/ff2d5560-cd43-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T13:48:46.815Z"
     },
     {
       "id": "03e2cb6e06526422",
