@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "223f89a015527d62",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10789255/sports-express-20-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10789255/sports-express-20-octobre",
+      "title": "Sports Express - 20 octobre",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-21T15:41:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/sports-express.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T15:44:26.560Z"
+    },
+    {
       "id": "9d516f542c0b6843",
       "guid": "https://ici.radio-canada.ca/sports/2294628/david-reinbacher-owen-beck-rocket",
       "link": "https://ici.radio-canada.ca/sports/2294628/david-reinbacher-owen-beck-rocket",
@@ -166,6 +177,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/psg-7401.jpg",
       "type": "article",
       "addedAt": "2026-10-20T22:39:31.689Z"
+    },
+    {
+      "id": "b879d7df15f52850",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/fin-pm/segments/rattrapage/2508066/maude-lanteigne-quitte-animation-lions-trois-rivieres",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/fin-pm/segments/rattrapage/2508066/maude-lanteigne-quitte-animation-lions-trois-rivieres",
+      "title": "Maude Lanteigne ferme le chapitre des Lions",
+      "excerpt": "Maude Lanteigne avoue avoir eu un pincement au cœur lors du match d’ouverture des Lions de Trois-Rivières. C’est la première fois depuis la création de l’équipe qu’elle n’y était pas pour animer la foule. Elle parle de cette décision extrêmement difficile avec laquelle elle est tout de même en paix.",
+      "published": "2026-10-20T22:08:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/maude-lanteigne-animation-gi-fin-pm.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T15:44:26.560Z"
     },
     {
       "id": "78e5328342a4a879",
