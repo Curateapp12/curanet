@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "a67f99a0a39f0755",
+      "guid": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+      "title": "Websites taken down across Europe as critical cyber-security update issued",
+      "excerpt": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
+      "published": "2026-10-21T14:39:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5e/live/02351720-cd44-11f1-8177-0f8bd59b54c4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T14:43:34.877Z"
+    },
+    {
+      "id": "c450c6fcb24a6e95",
+      "guid": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko#1",
+      "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko",
+      "title": "Former DUP leader Jeffrey Donaldson to be interviewed over alleged rape inside Westminster",
+      "excerpt": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+      "published": "2026-10-21T14:26:24.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ee/live/45d91a50-cd5b-11f1-b962-b7ff822cde72.jpg",
+      "type": "article",
+      "addedAt": "2026-10-21T14:43:34.877Z"
+    },
+    {
       "id": "e04acd1278a8073a",
       "guid": "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do#4",
       "link": "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do",

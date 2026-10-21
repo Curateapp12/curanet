@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "14178ba5db5039ad",
+      "guid": "68218005-75d7-4147-82e7-7c1f87f284fa",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html",
+      "title": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
+      "excerpt": "Kronprinz Mohammed bin Salman will Saudi-Arabien öffnen, für Touristen und Investoren. Doch seine \"Vision 2030\" ist in Gefahr: Die Angriffe der Huthi zerstören das Image von Sicherheit und Stabilität. Von Tim Kukral.",
+      "published": "2026-10-21T14:35:26.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/56d9d4f8-a09b-44f0-a3fe-9dbd7897a42c/AAABoV7EM5I/AAABnSSvrFg/16x9-big/flughafen-riad-feuer-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T14:43:34.877Z"
+    },
+    {
+      "id": "58c77e8ee5e8e0ff",
+      "guid": "9763419a-acc7-4800-a11f-ea82c4379df9",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
+      "title": "Aus Versehen in Kraft: Wie es zum Fehler bei der Tabaksteuer kam",
+      "excerpt": "Die Tabaksteuer soll ab 2027 schrittweise steigen. Doch durch einen Fehler im Gesetzestext gelten eigentlich schon jetzt erhöhte Steuern auf Tabakwaren - allerdings nur auf dem Papier. Wie kam es dazu? Von Maximilian Ulrich.",
+      "published": "2026-10-21T14:34:31.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f52788d6-8aee-4b62-89b1-c28ecf558b64/AAABoV7imfA/AAABnSSvrFg/16x9-big/tabak-zigaretten-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T14:43:34.877Z"
+    },
+    {
+      "id": "e4c6624cb225d0e6",
+      "guid": "faf4f04a-9279-4575-981c-b4e790751b22",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+      "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+      "excerpt": "Zahlreiche Webseiten und Onlinedienste weltweit sind derzeit in Gefahr: Grund ist eine Sicherheitslücke in der weitverbreiteten Programmiersprache PHP. Das Gefahrenpotenzial ist demnach extrem hoch.",
+      "published": "2026-10-21T14:15:08.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/fb8efc24-273d-4ccd-b1dd-321f88f0b9f4/AAABoV7GLcY/AAABnSSvrFg/16x9-big/leuchtende-tastatur-haende-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T14:43:34.877Z"
+    },
+    {
+      "id": "59cb1f3a04c165db",
+      "guid": "03b73055-dd2b-4261-a927-012d7d3e4d54",
+      "link": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
+      "title": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
+      "excerpt": "Ein attraktives Ticket für gelegentliche Bus- und Bahnfahrer - das hatten Hamburg und Nordrhein-Westfalen für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Doch nun ist \"Deutschlandticket light\" bereits wieder vom Tisch.",
+      "published": "2026-10-21T13:56:23.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5c2d0902-d09e-4f7d-8a25-72a394f988cc/AAABoV6e3S8/AAABnSSvrFg/16x9-big/zug-regional-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T14:43:34.877Z"
+    },
+    {
       "id": "682789c95cded5f7",
       "guid": "f00af11e-d719-4132-a0a4-37ca3ce2c765",
       "link": "https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html",

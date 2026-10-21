@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "a5afc0aef8988cce",
+      "guid": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "excerpt": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+      "published": "2026-10-21T14:07:05.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T14:43:34.877Z"
+    },
+    {
+      "id": "bc6b0429e7ca2d4b",
+      "guid": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+      "excerpt": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
+      "published": "2026-10-21T14:00:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-21T14:43:34.877Z"
+    },
+    {
       "id": "ba8deb36fe9d954a",
       "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
