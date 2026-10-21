@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "57cc9301b7ef4ba6",
+      "guid": "72bb1e25-64d6-4785-b950-b89e18c2cbc9",
+      "link": "https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html",
+      "title": "Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an",
+      "excerpt": "Der US-Technologieunternehmer Musk ist Medienberichten zufolge für die mutmaßliche Einschränkung der Satellitenkommunikation in der Ukraine verantwortlich. Sollte das zutreffend sein, wirft das einige Fragen auf - auch an US-Präsident Trump.",
+      "published": "2026-10-21T05:30:07.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T05:40:26.779Z"
+    },
+    {
+      "id": "cd7031222b7edb59",
+      "guid": "2afbaf1e-e40b-4d0a-84d3-757544f4a5f7",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
+      "title": "Marktbericht: DAX mit leichten Gewinnen erwartet",
+      "excerpt": "Hoffnungen auf eine Annäherung im Nahost-Konflikt dürften auch heute dafür sorgen, dass der DAX leicht im Plus startet. Dazu kommen starke Unternehmensbilanzen - etwa von SpaceX und Adidas.",
+      "published": "2026-10-21T05:21:21.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/93af6de9-7327-43f6-bc2c-6a5fd7abc0bf/AAABkep1k40/AAABnSSvrFg/16x9-big/boerse-374.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T05:40:26.779Z"
+    },
+    {
+      "id": "ced7ba26cb7db106",
+      "guid": "9bbb3791-6ba5-4c82-8f5c-0cc00cd8d103",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html",
+      "title": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
+      "excerpt": "China setzt Europas Unternehmen zunehmend unter Druck - auch mit massiven Subventionen. Doch höhere Zölle allein reichen kaum aus. Was kann die EU noch tun, um ihre Wirtschaft zu schützen? Von Angela Göpfert.",
+      "published": "2026-10-21T04:41:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7bd3c651-9907-4ac1-abf8-978bf2824854/AAABlNBgMDY/AAABnSSvrFg/16x9-big/china-1256.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-21T05:40:26.779Z"
+    },
+    {
       "id": "3e5f2fd865cfed43",
       "guid": "625ec204-69fe-43ff-b931-cc23e1777dbe",
       "link": "https://www.tagesschau.de/investigativ/wdr/bundeswehr-russland-102.html",
