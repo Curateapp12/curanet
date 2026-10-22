@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "0563a66ccd63345d",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "excerpt": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+      "published": "2026-10-22T15:49:32.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-22T16:43:14.054Z"
+    },
+    {
       "id": "92b876190d734454",
       "guid": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
       "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",

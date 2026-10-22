@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "a3c4b0fafd92971c",
+      "guid": "0d596266-7620-4dce-9b1d-1677cbc94951",
+      "link": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
+      "title": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
+      "excerpt": "Kriege, Extremwetter, Terror: Schweden bereitet seine Bevölkerung auf den möglichen Ernstfall vor - etwa mit einer Broschüre und Übungen. Denn klar ist auch: Im Fall der Fälle müssen die Menschen erstmal alleine klarkommen. Von Jana Sinram.",
+      "published": "2026-10-22T16:35:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a78bbff3-3255-481e-83a6-3d585b1bc360/AAABoWRDGqo/AAABnSSvrFg/16x9-big/bunker-schweden-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T16:43:14.054Z"
+    },
+    {
+      "id": "369ec645267a3852",
+      "guid": "fc06ce2a-f463-4f60-84a8-02c7cf3ba475",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html",
+      "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
+      "excerpt": "Millionen Cyberattacken binnen weniger Stunden: Die PHP-Sicherheitslücke hat weltweit Besorgnis ausgelöst. Viele Internetseiten sind noch immer nicht erreichbar - und Kriminelle versuchen weiter, die Lücke auszunutzen.",
+      "published": "2026-10-22T16:27:55.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7f1ad8ea-4bd2-4eea-aa41-32a199b21470/AAABoWNd0sM/AAABnSSvrFg/16x9-big/programmierer-php-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T16:43:14.054Z"
+    },
+    {
       "id": "9b263bcf0b83c8a9",
       "guid": "a64a7cbf-a5bd-4946-b134-a0313e0f41f2",
       "link": "https://www.tagesschau.de/kultur/musik-igor-levit-neues-plattenlabel-100.html",
