@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "0b466d8351d580a2",
+      "guid": "e7a5a86424213663bd1355cd7850f1e1",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-10-22/etude/les-glp-1-sont-securitaires-en-debut-de-grossesse.php",
+      "title": "Étude | Les GLP-1 sont sécuritaires en début de grossesse",
+      "excerpt": "L’exposition à des antidiabétiques de deuxième ligne comme les agonistes des récepteurs du GLP-1 pendant le premier trimestre de la grossesse n’a pas été associée à un risque accru de malformations congénitales graves par rapport à l’utilisation de l’insuline seule, montre une étude à laquelle a…",
+      "published": "2026-10-22T10:31:45.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/1e6128bdb0f5329fb18b420e8a6967a5.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T10:41:06.471Z"
+    },
+    {
+      "id": "5d72614c44e60220",
+      "guid": "88946820e1aa3c02b02cf1edb748fe20",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-10-22/depot-d-une-motion/le-bloc-reclame-les-600-millions-promis-aux-artistes-et-l-imposition-des-redevances-du-crtc.php",
+      "title": "Dépôt d’une motion | Le Bloc réclame les 600 millions promis aux artistes et l’imposition des redevances du CRTC",
+      "excerpt": "Le Bloc québécois revient à la charge pour réclamer du gouvernement libéral qu’il oblige les géants du numérique à payer des redevances pour financer le secteur culturel et qu’il décaisse finalement les 600 millions promis à ce secteur en juin dernier en lieu et place des redevances pour cette…",
+      "published": "2026-10-22T10:26:43.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/42d18ee1175639e394fc899fae1f06ec.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T10:41:06.471Z"
+    },
+    {
+      "id": "41ac76fba80b372b",
+      "guid": "c668ebfc1efa3208a9d6a43771dc4b23",
+      "link": "https://www.lapresse.ca/actualites/2026-10-22/la-revue-de-presse-de-paul-arcand/meta-se-nourrit-de-votre-vie-privee-emprunter-pour-manger-ministres-petite-equipe-gros-mandats.php",
+      "title": "La revue de presse de Paul Arcand | Meta se nourrit de votre vie privée, emprunter pour manger, ministres : petite équipe, gros mandats",
+      "excerpt": "À l’occasion de sa revue de presse, jeudi matin, Paul Arcand aborde la question des millions de sites web qui se retrouvent vulnérables à des cyberattaques.",
+      "published": "2026-10-22T10:02:13.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/af5002d52e043fe692ad53450eec76e4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T10:41:06.471Z"
+    },
+    {
+      "id": "915a5dc6d10b29cd",
+      "guid": "892f2464f4423bb3a0f778c729e1adb3",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-22/transports-en-direct/tout-va-bien.php",
+      "title": "Transports en direct | Tout va bien",
+      "excerpt": "Quelque chose à signaler sur les routes ou sur les rails ? La Presse examine le réseau en cette heure de pointe matinale et précise la couleur des feux de circulation.",
+      "published": "2026-10-22T10:00:02.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/65a5fd9743f93a0fa68125e36181b657.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T10:41:06.471Z"
+    },
+    {
+      "id": "b42ca07d4c7dc011",
+      "guid": "94a38be40ce33e0c81c6c37964a30435",
+      "link": "https://www.lapresse.ca/actualites/2026-10-22/ce-qu-on-suit-ce-jeudi/base-wainwright-pcq-mark-carney.php",
+      "title": "Ce qu’on suit ce jeudi | Base Wainwright, PCQ, Mark Carney",
+      "excerpt": "Voici les évènements au programme aujourd’hui.",
+      "published": "2026-10-22T09:59:08.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/8a9599978161392ba30d8404bef6fbd7.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T10:41:06.471Z"
+    },
+    {
       "id": "47987b6b036ddb98",
       "guid": "47268371b7763af9a27d68ed8e3d73d5",
       "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-22/demolition-partielle-de-la-canada-malting/c-est-alle-trop-vite.php",
