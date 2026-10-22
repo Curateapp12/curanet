@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "3e7cb2775c9e8b07",
+      "guid": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o",
+      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+      "excerpt": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region.",
+      "published": "2026-10-22T02:09:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c7/live/488b8820-cdb3-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
       "id": "93bec8313888460c",
       "guid": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo#1",
       "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo",
@@ -12,6 +23,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ab7/live/cdb28740-cdb5-11f1-b92c-832aba99ee13.jpg",
       "type": "article",
       "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
+      "id": "ec18822e5a6301d4",
+      "guid": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o#5",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o",
+      "title": "US State Department orders some staff to leave Saudi Arabia as attacks escalate",
+      "excerpt": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+      "published": "2026-10-22T01:07:34.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6998/live/cec97250-cdb1-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
     },
     {
       "id": "9369b8ead1ffcba4",

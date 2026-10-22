@@ -3,6 +3,116 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "df1d076cc90136fb",
+      "guid": "https://globalnews.ca/news/12112774/sens-dump-former-captain-tkachuk-and-panthers-5-1/",
+      "link": "https://globalnews.ca/news/12112774/sens-dump-former-captain-tkachuk-and-panthers-5-1/",
+      "title": "Sens dump former captain Tkachuk and Panthers 5-1",
+      "excerpt": "With fans chanting \"We don't need you!,\" the Ottawa Senators defeated Brady Tkachuk and his Florida Panthers 5-1 on Wednesday night.",
+      "published": "2026-10-22T02:46:58.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/86bf91f6701b2323e46c71ea12841f8b11c1bee3832dcf40edc1521c9bb567cc.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
+      "id": "5d92a2631c8658c0",
+      "guid": "https://globalnews.ca/?p=12112382&preview=true&preview_id=12112382",
+      "link": "https://globalnews.ca/news/12112382/bc-election-2026-results-port-coquitlam/",
+      "title": "BC election 2026 results: Port Coquitlam",
+      "excerpt": "Port Coquitlam is a provincial riding located in the region.",
+      "published": "2026-10-22T02:43:26.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
+      "id": "750804037963b969",
+      "guid": "https://globalnews.ca/?p=12112381&preview=true&preview_id=12112381",
+      "link": "https://globalnews.ca/news/12112381/bc-election-2026-results-penticton-summerland/",
+      "title": "BC election 2026 results: Penticton-Summerland",
+      "excerpt": "Penticton-Summerland is a provincial riding located in the region.",
+      "published": "2026-10-22T02:42:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
+      "id": "b75b1a29b80d5d66",
+      "guid": "https://globalnews.ca/?p=12112380&preview=true&preview_id=12112380",
+      "link": "https://globalnews.ca/news/12112380/bc-election-2026-results-peace-river-south/",
+      "title": "BC election 2026 results: Peace River South",
+      "excerpt": "Peace River South is a provincial riding located in region.",
+      "published": "2026-10-22T02:42:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
+      "id": "4cd27b93553253bf",
+      "guid": "https://globalnews.ca/?p=12112379&preview=true&preview_id=12112379",
+      "link": "https://globalnews.ca/news/12112379/bc-election-2026-results-peace-river-north/",
+      "title": "BC election 2026 results: Peace River North",
+      "excerpt": "Peace River North is a provincial riding located in region.",
+      "published": "2026-10-22T02:41:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
+      "id": "9e4b4ab07bbc72f6",
+      "guid": "https://globalnews.ca/?p=12112377&preview=true&preview_id=12112377",
+      "link": "https://globalnews.ca/news/12112377/bc-election-2026-results-oak-bay-gordon-head/",
+      "title": "BC election 2026 results: Oak Bay-Gordon Head",
+      "excerpt": "Oak Bay-Gordon Head is a provincial riding located in the region.",
+      "published": "2026-10-22T02:35:21.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
+      "id": "bb279928c36badb5",
+      "guid": "https://globalnews.ca/?p=12112376&preview=true&preview_id=12112376",
+      "link": "https://globalnews.ca/news/12112376/bc-election-2026-results-north-vancouver-seymour/",
+      "title": "BC election 2026 results: North Vancouver-Seymour",
+      "excerpt": "North Vancouver-Seymour is a provincial riding located in the region.",
+      "published": "2026-10-22T02:34:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
+      "id": "299bdb8dcfc63ffb",
+      "guid": "https://globalnews.ca/?p=12112375&preview=true&preview_id=12112375",
+      "link": "https://globalnews.ca/news/12112375/bc-election-2026-results-north-vancouver-lonsdale/",
+      "title": "BC election 2026 results: North Vancouver-Lonsdale",
+      "excerpt": "North Vancouver-Lonsdale is a provincial riding located in the region.",
+      "published": "2026-10-22T02:34:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
+      "id": "798e8f4b83256a3d",
+      "guid": "https://globalnews.ca/?p=12112373&preview=true&preview_id=12112373",
+      "link": "https://globalnews.ca/news/12112373/bc-election-2026-results-north-island/",
+      "title": "BC election 2026 results: North Island",
+      "excerpt": "North Island is a provincial riding located in the region.",
+      "published": "2026-10-22T02:33:21.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
+      "id": "176caeaf2a24f5e0",
+      "guid": "https://globalnews.ca/?p=12112372&preview=true&preview_id=12112372",
+      "link": "https://globalnews.ca/news/12112372/bc-election-2026-results-north-coast-haida-gwaii/",
+      "title": "BC election 2026 results: North Coast-Haida Gwaii",
+      "excerpt": "North Coast-Haida Gwaii is a provincial riding located in region.",
+      "published": "2026-10-22T02:32:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T02:48:08.414Z"
+    },
+    {
       "id": "ad175f421300ed4f",
       "guid": "https://globalnews.ca/?p=12112350&preview=true&preview_id=12112350",
       "link": "https://globalnews.ca/news/12112350/bc-election-2026-results-kamloops-centre/",
