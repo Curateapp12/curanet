@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "aa2408996849a887",
+      "guid": "dd4dbc6c-7edc-45ef-ad10-7fba3604944f",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
+      "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
+      "excerpt": "Der Meta-Konzern will den Ausbau seiner KI-Infrastruktur vorantreiben. Zur Finanzierung soll es eine neue Aktie ohne Stimmrechte geben. Damit sichert sich Firmenchef Zuckerberg die Kontrolle. Von Antje Sieb.",
+      "published": "2026-10-22T05:25:41.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3119ea88-9f5c-41b3-b86c-bc981109b37a/AAABoWHunEA/AAABnSSvrFg/16x9-big/mark-zuckerberg-120.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T05:40:17.967Z"
+    },
+    {
+      "id": "e1838893330d6745",
+      "guid": "98a460ba-4046-4cfc-ba1e-e8e954742fe3",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+      "title": "Marktbericht: Tech-Bilanzen schieben den DAX nicht weiter an",
+      "excerpt": "Am Donnerstag verarbeiten die Aktienmärkte die Bilanzen von wichtigen US-Technologiekonzernen wie Meta und Tesla. Auch SAP hat die Quartalszahlen vorgestellt. Die Anleger reagieren zurückhaltend.",
+      "published": "2026-10-22T05:24:19.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/89614d04-fccf-4229-aac5-bf0e60c2d362/AAABnSQoOG8/AAABnSSvrFg/16x9-big/boerse-498.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T05:40:17.967Z"
+    },
+    {
+      "id": "8b6488bb6ca0a8a0",
+      "guid": "c255440f-61c8-4cf8-b9df-7639966130ee",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
+      "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
+      "excerpt": "Angesichts der landesweit niedrigen Zustimmungswerte für Trump hoffen viele Demokraten in den USA auf einen deutlichen Sieg bei den Zwischenwahlen in zwei Wochen. Umfragen nähren ihre Zuversicht. Doch sind sie verlässlich? Von Jan Oppel.",
+      "published": "2026-10-22T05:03:31.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c78dd657-79ad-4506-b080-5dafd054e9e0/AAABoVpZM5I/AAABnSSvrFg/16x9-big/wahlplakate-texas-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T05:40:17.967Z"
+    },
+    {
+      "id": "b49f333eef7c9234",
+      "guid": "c0cc77e2-758c-41b5-b6f6-30c6a16dd85a",
+      "link": "https://www.tagesschau.de/ausland/kritik-trump-ukraine-100.html",
+      "title": "Auch Republikaner kritisieren Trumps Ukraine-Kurs",
+      "excerpt": "US-Präsident Trump nähert sich Russland an und lobt Kreml-Chef Putin ausdrücklich. Auch in Trumps eigener Partei, die ihm lange treu ergeben war, gibt es daran zunehmend Kritik. Einige Abgeordnete wählen deutliche Worte. Von C. Kühntopp.",
+      "published": "2026-10-22T05:03:03.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b80a187c-562c-45ee-822d-6d86b45713b6/AAABoWIJ3rg/AAABnSSvrFg/16x9-big/trump-5372.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T05:40:17.967Z"
+    },
+    {
       "id": "5152c6d27f63e097",
       "guid": "8a76aa3d-91d4-48c1-89e9-de55899d121a",
       "link": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
