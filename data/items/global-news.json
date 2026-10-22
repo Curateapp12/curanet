@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "e64a5fce3a2f8f87",
+      "guid": "https://globalnews.ca/?p=12113098",
+      "link": "https://globalnews.ca/news/12113098/toronto-crime-stoppers-cyber-breach/",
+      "title": "Toronto Crime Stoppers pauses tips after cyber breach affects 176K submissions",
+      "excerpt": "Toronto Crime Stoppers has paused tip intake after a cybersecurity breach potentially exposed identifying information included in some submissions.",
+      "published": "2026-10-22T14:37:36.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Crime-Stoppers-Toronto.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T14:43:52.414Z"
+    },
+    {
+      "id": "2ee44fe255b2bec0",
+      "guid": "https://globalnews.ca/?p=12113047",
+      "link": "https://globalnews.ca/news/12113047/statistics-canada-website-down-php-hacks/",
+      "title": "Statistics Canada website down as internet hit by millions of hack attempts",
+      "excerpt": "Several government websites were still down Thursday morning at the same time a worldwide coding vulnerability has opened the door to millions of reported hack attempts.",
+      "published": "2026-10-22T14:26:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP176721587-e1792674353190.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T14:43:52.414Z"
+    },
+    {
+      "id": "233319db9981c7d0",
+      "guid": "https://globalnews.ca/?p=12113124",
+      "link": "https://globalnews.ca/news/12113124/stelco-layoff-lawsuit-melanie-joly/",
+      "title": "Ottawa gives Stelco 15 days to reverse Hamilton layoffs or face lawsuit",
+      "excerpt": "If the company does not reverse the layoffs, Joly warns she will proceed with court action that could see the company be forced to sell their Canadian operations.",
+      "published": "2026-10-22T14:16:39.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Stelco-2-e1792095044204.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T14:43:52.414Z"
+    },
+    {
+      "id": "b9726e210d0b37af",
+      "guid": "https://globalnews.ca/?p=12113093",
+      "link": "https://globalnews.ca/news/12113093/meta-earnings-muse/",
+      "title": "Meta’s AI strategy focused on Muse growth as legal challenges dent earnings",
+      "excerpt": "Meta CEO Mark Zuckerberg said that more than 10 million people in the US and Canada have set up Muse accounts in a month and a half and growth remained strong.",
+      "published": "2026-10-22T14:08:13.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP176964502-e1792678029983.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T14:43:52.414Z"
+    },
+    {
+      "id": "7eb436178f0bf092",
+      "guid": "https://globalnews.ca/?p=12113125",
+      "link": "https://globalnews.ca/news/12113125/supreme-court-emergencies-act/",
+      "title": "Supreme Court to hear federal appeal over use of Emergencies Act",
+      "excerpt": "The Supreme Court of Canada will hear federal arguments about the government's legal justification for using the Emergencies Act to quell protests in the nation's capital in 2022.",
+      "published": "2026-10-22T14:07:00.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/trucker-convoy-e1792678001151.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T14:43:52.414Z"
+    },
+    {
       "id": "6f0a6d29c24d95fb",
       "guid": "https://globalnews.ca/?p=12113064",
       "link": "https://globalnews.ca/news/12113064/why-has-b-c-s-snap-election-caught-both-main-parties-unprepared/",

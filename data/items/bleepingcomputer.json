@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "92b876190d734454",
+      "guid": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "title": "Machine speed attacks require machine speed detection and response",
+      "excerpt": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are…",
+      "published": "2026-10-22T14:02:12.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-22T14:43:52.414Z"
+    },
+    {
       "id": "c78f9791369d56c3",
       "guid": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
