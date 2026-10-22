@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "33d87e5881fc86b0",
+      "guid": "b62b78ac-99cc-4769-a0ae-0cbf33b5e5ac",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
+      "title": "Marktbericht: SAP-Umbau trägt Früchte",
+      "excerpt": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das.",
+      "published": "2026-10-22T12:10:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a05adccf-f806-4d4c-a983-d6beac9ea8c2/AAABoWLWHwc/AAABnSSvrFg/16x9-big/sap-154.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
+      "id": "749c6cc77d1a7e2d",
+      "guid": "7a5e1505-414b-41a6-a959-d935c14e15a3",
+      "link": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html",
+      "title": "Internationaler Strafgerichtshof erhält Sacharow-Preis",
+      "excerpt": "Der Internationale Strafgerichtshof hat den diesjährigen Sacharow-Preis erhalten. Mit der Auszeichnung würdigt das EU-Parlament den Einsatz des Gerichts für das Völkerrecht - und setzt ein Zeichen gegen die Sanktionen von US-Präsident Trump.",
+      "published": "2026-10-22T11:42:57.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bf15d8c9-9431-4551-b23e-07ee40b0a12f/AAABoTP1tpU/AAABnSSvrFg/16x9-big/istgh-122.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
       "id": "87ca3336243a7d54",
       "guid": "8247c6b0-b960-4e50-95b6-9a569be2a041",
       "link": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html",

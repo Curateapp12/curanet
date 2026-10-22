@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "bb221f74220703dc",
+      "guid": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo",
+      "title": "How did AI discover the internet's massive cyber-security risk?",
+      "excerpt": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
+      "published": "2026-10-22T12:17:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb6/live/69fb5c10-ce12-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
+      "id": "43325bba640d5e2a",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#1",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo",
+      "title": "Harry Brook's double century breaks record for highest-ever England one-day score",
+      "excerpt": "Captain Harry Brook becomes the first England batter to make a double century in a one-day international with a sensational 202 against Sri Lanka in Rawalpindi.",
+      "published": "2026-10-22T12:15:29.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b617/live/83a9d1b0-ce0c-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
+      "id": "6365ea2adbf60e0b",
+      "guid": "https://www.bbc.co.uk/news/articles/c8x23dlqkl01o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23dlqkl01o",
+      "title": "Trial hears Tommy Robinson hired private detectives",
+      "excerpt": "The political activist denies wanting to expose two Daily Mail journalists to threats of violence.",
+      "published": "2026-10-22T11:49:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/674d/live/9aeab270-cdf5-11f1-97f7-a7674fb562de.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
       "id": "a6627c574c7e18d0",
       "guid": "https://www.bbc.co.uk/news/articles/cw1m4pmvx1xdo#4",
       "link": "https://www.bbc.co.uk/news/articles/cw1m4pmvx1xdo",
@@ -12,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/064f/live/e85a66f0-c89f-11f1-929c-0b57deb4f9df.png",
       "type": "article",
       "addedAt": "2026-10-22T11:42:09.068Z"
+    },
+    {
+      "id": "cd83f0bb469bd9d2",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo",
+      "title": "At least four dead after storm brings flooding to southern France",
+      "excerpt": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+      "published": "2026-10-22T11:23:16.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba84/live/388ad750-cdf9-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
     },
     {
       "id": "4c2be419975722f5",
@@ -25,6 +69,17 @@
       "addedAt": "2026-10-22T11:42:09.068Z"
     },
     {
+      "id": "f32975e921225970",
+      "guid": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko#1",
+      "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko",
+      "title": "Moment man rescued from sinking car by Australian TV reporter",
+      "excerpt": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle.",
+      "published": "2026-10-22T11:08:33.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15b0/live/d887e180-ce08-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
       "id": "869a22603563c170",
       "guid": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o#4",
       "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o",
@@ -34,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f518/live/9a1112f0-ce03-11f1-8991-296181d7e3de.jpg",
       "type": "article",
       "addedAt": "2026-10-22T11:42:09.068Z"
+    },
+    {
+      "id": "842a681611f1095e",
+      "guid": "https://www.bbc.co.uk/sport/triathlon/articles/cmx23dvewq9po#8",
+      "link": "https://www.bbc.co.uk/sport/triathlon/articles/cmx23dvewq9po",
+      "title": "'Ten years of hate and abuse' - Schoeman on viral victory over Brownlees",
+      "excerpt": "Henri Schoeman, who took a viral 2016 Triathlon World Series Grand Final over Jonny Brownlee, reveals the decade of abuse in the race's aftermath.",
+      "published": "2026-10-22T11:01:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dc6/live/0f7126d0-ce08-11f1-8991-296181d7e3de.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
     },
     {
       "id": "c055110fa9c5c566",

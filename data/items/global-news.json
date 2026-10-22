@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "6f0a6d29c24d95fb",
+      "guid": "https://globalnews.ca/?p=12113064",
+      "link": "https://globalnews.ca/news/12113064/why-has-b-c-s-snap-election-caught-both-main-parties-unprepared/",
+      "title": "Why has B.C.’s snap election caught both main parties unprepared?",
+      "excerpt": "The NDP has meanwhile pivoted its messaging from focusing on U.S. President Donald Trump, to affordability, to the need for a stable majority.",
+      "published": "2026-10-22T12:36:26.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/4a5ecfd0daba843fbc065d5e1619a9da38c1c98323b8fb5254c6f2b9128e0259.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
+      "id": "ad55b2ad6fa01bc4",
+      "guid": "https://globalnews.ca/?p=12113053",
+      "link": "https://globalnews.ca/news/12113053/bc-election-campaign/",
+      "title": "B.C. NDP Leader Eby campaigns in Vancouver, while Tories heads to Surrey",
+      "excerpt": "British Columbia NDP Leader David Eby campaigns in Vancouver and Richmond Thursday after wrapping his swing through the vote-rich city of Surrey with a rally.",
+      "published": "2026-10-22T12:25:22.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/e2d5cc0b26f216e2a32e158b11eb9149f53ee70d4e3ad77a30231eea78e490ba.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
+      "id": "34ee573f7c970be5",
+      "guid": "https://globalnews.ca/?p=12113050",
+      "link": "https://globalnews.ca/news/12113050/iran-strait-of-hormuz-oil-tankers/",
+      "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as conflict flares",
+      "excerpt": "Iranian state television reported the claims about the latest attacks on ships, which the Associated Press couldn't independently confirm.",
+      "published": "2026-10-22T12:23:16.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Iran-Strait-of-Hormuz-oil-tankers.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
+      "id": "92713ad6be5ff469",
+      "guid": "https://globalnews.ca/?p=12113039",
+      "link": "https://globalnews.ca/news/12113039/james-bryant-tumbler-ridge-plea/",
+      "title": "Alleged Tumbler Ridge mass shooting conspirator set to enter plea in U.S. court",
+      "excerpt": "The alleged co-conspirator in the mass shooting in Tumbler Ridge, B.C., is expected to enter a plea at an arraignment in a Seattle courthouse Thursday.",
+      "published": "2026-10-22T12:18:27.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/00874d9152a8b42bf7ab9adf35062bbf0d2de92d205594201333fd453d706029_6fbea9.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
+      "id": "8ffc140efe9c6a31",
+      "guid": "https://globalnews.ca/?p=12113046",
+      "link": "https://globalnews.ca/news/12113046/carney-turkey-visit/",
+      "title": "Carney lands in Turkey for meetings with Erdogan, business leaders",
+      "excerpt": "Joining Prime Minister Mark Carney on the trip are Foreign Affairs Minister Anita Anand and Natural Resources Minister Tim Hodgson.",
+      "published": "2026-10-22T12:12:49.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Carney-Turkey.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
+      "id": "633c0160dca63720",
+      "guid": "https://globalnews.ca/?p=12113035",
+      "link": "https://globalnews.ca/news/12113035/officials-to-provide-update-on-fatal-fire-at-cfb-wainwright-in-alberta/",
+      "title": "Officials to provide update on fatal fire at CFB Wainwright in Alberta",
+      "excerpt": "Officials are set to provide an update Thursday about a devastating fire at a Canadian military base in Alberta that left four soldiers dead and dozens more injured.",
+      "published": "2026-10-22T11:54:16.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/31a374a2d46b07e7a56cefe08b94b104e0d8d282d6b90c63c9bde3363a993321_d32031.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
+      "id": "fc7c9974a7f6b0c6",
+      "guid": "https://globalnews.ca/?p=12113033",
+      "link": "https://globalnews.ca/news/12113033/abdulrahman-el-bahnasawy/",
+      "title": "Canadian convicted in U.S. terror plot gets 50 more years for stabbing prison staff",
+      "excerpt": "An Ontario man convicted of plotting a terrorist attack in the U.S. has been handed an additional 50-year sentence for stabbing two American prison staff.",
+      "published": "2026-10-22T11:49:22.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/66584618e9c21d3f53d4e32b0703068351bc8638f51c435ed9ba641ce38d2bf7_970602.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T12:50:51.593Z"
+    },
+    {
       "id": "15bdaefe985235d4",
       "guid": "https://globalnews.ca/?p=12109674",
       "link": "https://globalnews.ca/news/12109674/law-society-complaint-questions-u-of-toronto-law-professors-indigenous-ancestry/",
