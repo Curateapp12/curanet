@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "9aeb7c2ac4129364",
+      "guid": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno",
+      "title": "The real reasons US politicians are getting older",
+      "excerpt": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+      "published": "2026-10-21T23:52:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea2/live/36f80900-cc9e-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T00:52:38.165Z"
+    },
+    {
+      "id": "0254576c8f2b402d",
+      "guid": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo",
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "excerpt": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+      "published": "2026-10-21T23:12:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70c/live/920779f0-cd4f-11f1-a64c-550be9e3c66b.png",
+      "type": "article",
+      "addedAt": "2026-10-22T00:52:38.165Z"
+    },
+    {
       "id": "aee1d32d93048a1b",
       "guid": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro#9",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro",
@@ -12,6 +34,50 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e3/live/3ae218f0-cda5-11f1-b680-c76e6b70601a.jpg",
       "type": "article",
       "addedAt": "2026-10-21T23:39:45.466Z"
+    },
+    {
+      "id": "42044a2a8deb08f0",
+      "guid": "https://www.bbc.co.uk/news/articles/cwly3g0g371go#3",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3g0g371go",
+      "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
+      "excerpt": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
+      "published": "2026-10-21T23:03:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36e/live/20eafb00-c89c-11f1-b0a4-81e564f1cfaa.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T00:52:38.165Z"
+    },
+    {
+      "id": "4c87f3acb0d76587",
+      "guid": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o",
+      "title": "Only one female scientist named in GCSEs, research finds",
+      "excerpt": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications.",
+      "published": "2026-10-21T23:02:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c924/live/f1cca1a0-cd7a-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T00:52:38.165Z"
+    },
+    {
+      "id": "af088508a16d8176",
+      "guid": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo",
+      "title": "The four locations in the running to be UK City of Culture 2029",
+      "excerpt": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities.",
+      "published": "2026-10-21T23:02:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c41/live/e80fcf90-cd64-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T00:52:38.165Z"
+    },
+    {
+      "id": "80be721e8b8b15fd",
+      "guid": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo",
+      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+      "excerpt": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+      "published": "2026-10-21T23:02:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08de/live/6e052f20-cd4f-11f1-8177-0f8bd59b54c4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T00:52:38.165Z"
     },
     {
       "id": "e7c2dee8f3c22a82",
@@ -34,6 +100,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f158/live/7c215a80-cda3-11f1-a307-df5709f146ff.jpg",
       "type": "article",
       "addedAt": "2026-10-21T23:39:45.466Z"
+    },
+    {
+      "id": "17128ee8843ea661",
+      "guid": "https://www.bbc.co.uk/news/articles/cvze414811jlo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cvze414811jlo",
+      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
+      "excerpt": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
+      "published": "2026-10-21T22:00:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329a/live/eef02160-c7a2-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T00:52:38.165Z"
     },
     {
       "id": "077101b507206f50",
