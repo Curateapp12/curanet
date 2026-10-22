@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "5152c6d27f63e097",
+      "guid": "8a76aa3d-91d4-48c1-89e9-de55899d121a",
+      "link": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
+      "title": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
+      "excerpt": "Stammt dieser Text von einer Künstlichen Intelligenz? Aufschluss geben können Wasserzeichen, die KI-generierte Texte markieren. OpenAI hat das nun für ChatGPT angekündigt. Von Pauline Möhle und Leila Boucheligua.",
+      "published": "2026-10-22T03:30:26.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bb584e38-75c4-45af-9547-623b253cdf49/AAABldn6_NE/AAABnSSvrFg/16x9-big/chatgpt-118.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T03:41:59.771Z"
+    },
+    {
+      "id": "63b33707d8e75ed5",
+      "guid": "9d4de716-6013-49dd-8c14-bf06ed2f9a56",
+      "link": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html",
+      "title": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
+      "excerpt": "Nach der Einigung der Unterhändler zur Abkehr vom Verbrenner-Aus befassen sich heute Ausschüsse im EU-Parlament damit. Die Abstimmungen werden zeigen, ob der Kompromiss hält. Von Christian Feld und Jean-Marie Magro.",
+      "published": "2026-10-22T03:05:08.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3389a7e4-bc06-458d-8b1f-07b4b5e844a8/AAABmsqiuos/AAABnSSvrFg/16x9-big/verbrennermotor-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T03:41:59.771Z"
+    },
+    {
       "id": "74913a04c106109c",
       "guid": "f76f5af0-4942-4605-ba06-45d142435566",
       "link": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
