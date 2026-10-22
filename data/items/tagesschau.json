@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "f87462024a35e5c1",
+      "guid": "9ea51dce-d70c-4775-8495-350b282929bf",
+      "link": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html",
+      "title": "Toter nach Angriff auf Flughafen in Saudi-Arabien",
+      "excerpt": "Immer wieder greifen die Huthi aus dem Jemen zivile Ziele in Saudi-Arabien an. Nun werden Verletzte und ein Todesopfer nach einer Attacke auf den Flughafen in Dammam gemeldet. Die USA kündigten an, diplomatisches Personal abzuziehen.",
+      "published": "2026-10-22T06:43:43.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/84661b8c-9262-4ae5-9601-43b028a06700/AAABoWIxz4Q/AAABnSSvrFg/16x9-big/flughafen-dammam-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T06:51:31.787Z"
+    },
+    {
+      "id": "bab291fbdecde8f2",
+      "guid": "d816d578-3960-42cc-8721-870bde85cede",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html",
+      "title": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
+      "excerpt": "Die gegenseitigen Angriffe gehen ungeachtet der US-Vermittlungsbemühungen weiter: Russland griff in der Nacht erneut die ukrainische Hauptstadt Kiew an, aus Moskau wurden Drohnenangriffe gemeldet.",
+      "published": "2026-10-22T06:39:19.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f216a2aa-1814-422c-9701-f31245f0d578/AAABoWH4h-M/AAABnSSvrFg/16x9-big/ukraine-angriff-126.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T06:51:31.787Z"
+    },
+    {
+      "id": "70ee5dbba4444aac",
+      "guid": "589e3ba4-5e50-45e2-a349-25a441249fe6",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytica-100.html",
+      "title": "Warum Meta eine Rekordstrafe zahlen soll",
+      "excerpt": "Der Skandal um Cambridge Analytica erschütterte 2018 das Vertrauen in Facebook. Daten wurden abgegriffen, um Wählerprofile zu erstellen. Nun wurde der Mutterkonzern Meta verurteilt - wegen irreführender Aussagen. Von S. Jackisch.",
+      "published": "2026-10-22T06:36:44.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/9c902ac4-d4a5-495b-ba04-df5a00859dbb/AAABmc1B1kk/AAABnSSvrFg/16x9-big/meta-facebook-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-22T06:51:31.787Z"
+    },
+    {
       "id": "aa2408996849a887",
       "guid": "dd4dbc6c-7edc-45ef-ad10-7fba3604944f",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
