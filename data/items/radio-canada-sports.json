@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "7b9710ec13cde1ba",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10790278/sports-express-21-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10790278/sports-express-21-octobre",
+      "title": "Sports Express - 21 octobre",
+      "excerpt": "Les nouvelles du sport avec Jérémie Turbide",
+      "published": "2026-10-22T03:49:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "5fc918595d776d7c",
+      "guid": "https://ici.radio-canada.ca/sports/2294974/debut-saison-raptors-bulls-nba",
+      "link": "https://ici.radio-canada.ca/sports/2294974/debut-saison-raptors-bulls-nba",
+      "title": "Un excellent départ pour les Raptors, victorieux face aux Bulls",
+      "excerpt": "La formation torontoise l'a emporté 135-92 face aux Bulls de Chicago pour entamer sa 32e saison.",
+      "published": "2026-10-22T03:44:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/raptors-barrett.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "3d893a4cec5b4c07",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10790280/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10790280/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-22T03:42:33.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
       "id": "8044621b936c64e7",
       "guid": "https://ici.radio-canada.ca/sports/videos/1-10790278/sports-express",
       "link": "https://ici.radio-canada.ca/sports/videos/1-10790278/sports-express",

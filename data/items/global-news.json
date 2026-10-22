@@ -3,6 +3,116 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "2dccbef6a16b13d8",
+      "guid": "https://globalnews.ca/?p=12112457&preview=true&preview_id=12112457",
+      "link": "https://globalnews.ca/news/12112457/bc-election-2026-results-west-vancouver-sea-to-sky/",
+      "title": "BC election 2026 results: West Vancouver-Sea to Sky",
+      "excerpt": "West Vancouver-Sea to Sky is a provincial riding located in the region.",
+      "published": "2026-10-22T04:15:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "6e4b3f7c3c3c813b",
+      "guid": "https://globalnews.ca/?p=12112456&preview=true&preview_id=12112456",
+      "link": "https://globalnews.ca/news/12112456/bc-election-2026-results-west-vancouver-capilano/",
+      "title": "BC election 2026 results: West Vancouver-Capilano",
+      "excerpt": "West Vancouver-Capilano is a provincial riding located in the region.",
+      "published": "2026-10-22T04:14:23.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "851b93e74210568a",
+      "guid": "https://globalnews.ca/?p=12112455&preview=true&preview_id=12112455",
+      "link": "https://globalnews.ca/news/12112455/bc-election-2026-results-west-kelowna-peachland/",
+      "title": "BC election 2026 results: West Kelowna-Peachland",
+      "excerpt": "West Kelowna-Peachland is a provincial riding located in the region.",
+      "published": "2026-10-22T04:12:39.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "8939c6ac44b53da0",
+      "guid": "https://globalnews.ca/?p=12112454&preview=true&preview_id=12112454",
+      "link": "https://globalnews.ca/news/12112454/bc-election-2026-results-victoria-swan-lake/",
+      "title": "BC election 2026 results: Victoria-Swan Lake",
+      "excerpt": "Victoria-Swan Lake is a provincial riding located in the region.",
+      "published": "2026-10-22T04:10:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "ba95a230cb46b0e6",
+      "guid": "https://globalnews.ca/?p=12112453&preview=true&preview_id=12112453",
+      "link": "https://globalnews.ca/news/12112453/bc-election-2026-results-victoria-beacon-hill/",
+      "title": "BC election 2026 results: Victoria-Beacon Hill",
+      "excerpt": "Victoria-Beacon Hill is a provincial riding located in the region.",
+      "published": "2026-10-22T04:10:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "23b71347a8b624bb",
+      "guid": "https://globalnews.ca/?p=12112452&preview=true&preview_id=12112452",
+      "link": "https://globalnews.ca/news/12112452/bc-election-2026-results-vernon-lumby/",
+      "title": "BC election 2026 results: Vernon-Lumby",
+      "excerpt": "Vernon-Lumby is a provincial riding located in the region.",
+      "published": "2026-10-22T04:08:40.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "0778f4336b4a1808",
+      "guid": "https://globalnews.ca/?p=12112451&preview=true&preview_id=12112451",
+      "link": "https://globalnews.ca/news/12112451/bc-election-2026-results-vancouver-yaletown/",
+      "title": "BC election 2026 results: Vancouver-Yaletown",
+      "excerpt": "Vancouver-Yaletown is a provincial riding located in the region.",
+      "published": "2026-10-22T04:07:58.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "94079aaf33f12caa",
+      "guid": "https://globalnews.ca/?p=12112447&preview=true&preview_id=12112447",
+      "link": "https://globalnews.ca/news/12112447/bc-election-2026-results-vancouver-west-end/",
+      "title": "BC election 2026 results: Vancouver-West End",
+      "excerpt": "Vancouver-West End is a provincial riding located in the region.",
+      "published": "2026-10-22T04:06:29.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "0aa25f29d690af03",
+      "guid": "https://globalnews.ca/?p=12112446&preview=true&preview_id=12112446",
+      "link": "https://globalnews.ca/news/12112446/bc-election-2026-results-vancouver-strathcona/",
+      "title": "BC election 2026 results: Vancouver-Strathcona",
+      "excerpt": "Vancouver-Strathcona is a provincial riding located in the region.",
+      "published": "2026-10-22T04:05:40.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
+      "id": "0fd2a44393df4c22",
+      "guid": "https://globalnews.ca/?p=12112444&preview=true&preview_id=12112444",
+      "link": "https://globalnews.ca/news/12112444/bc-election-2026-results-vancouver-south-granville/",
+      "title": "BC election 2026 results: Vancouver-South Granville",
+      "excerpt": "Vancouver-South Granville is a provincial riding located in the region.",
+      "published": "2026-10-22T04:04:46.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T04:40:33.809Z"
+    },
+    {
       "id": "e41f71beed791fc2",
       "guid": "https://globalnews.ca/?p=12112418&preview=true&preview_id=12112418",
       "link": "https://globalnews.ca/news/12112418/bc-election-2026-results-surrey-newton/",
