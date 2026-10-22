@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "d2964f4e3a1be11c",
+      "guid": "https://www.bbc.co.uk/news/articles/cw073mj02v72o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o",
+      "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+      "excerpt": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
+      "published": "2026-10-22T22:33:52.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/0f29cde0-ce66-11f1-ab75-d744dbb6f3f7.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T22:38:46.770Z"
+    },
+    {
+      "id": "2e02815d7a083c88",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o#8",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o",
+      "title": "Austin track bumps out of control - Verstappen",
+      "excerpt": "Max Verstappen says the bumps on the track that hosts this weekend's United States Grand Prix are \"unacceptable\" and \"out of control\".",
+      "published": "2026-10-22T22:28:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cea/live/b12772c0-ce64-11f1-80b1-4139e26f5434.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T22:38:46.770Z"
+    },
+    {
+      "id": "b87e23a7add2cb85",
+      "guid": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo",
+      "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
+      "excerpt": "The prime minister is hosting the UK's first wildfire summit to prepare for future blazes after a record summer 2026.",
+      "published": "2026-10-22T21:35:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b16/live/5aae07a0-ce56-11f1-a166-e30097724580.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T22:38:46.770Z"
+    },
+    {
+      "id": "3ad012ee8126d9a7",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo",
+      "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+      "excerpt": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+      "published": "2026-10-22T21:30:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c2/live/fcc4e790-ce59-11f1-a166-e30097724580.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T22:38:46.770Z"
+    },
+    {
       "id": "9950e97a3e1c4c7f",
       "guid": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo#1",
       "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo",
@@ -12,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda7/live/20760850-ce5e-11f1-a166-e30097724580.jpg",
       "type": "article",
       "addedAt": "2026-10-22T21:39:46.171Z"
+    },
+    {
+      "id": "5a90029499687b41",
+      "guid": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo",
+      "title": "Items recovered in search for missing fishing boat and crew",
+      "excerpt": "Tam Murray, 40 and Murdo Morrison, 23 remain missing after their vessel disappeared off Lewis and the body of crewmate Douglas Craigie was found at sea.",
+      "published": "2026-10-22T20:54:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/144f/live/6f304600-c88b-11f1-bc2e-018d645d8d21.png",
+      "type": "article",
+      "addedAt": "2026-10-22T22:38:46.770Z"
     },
     {
       "id": "1b5d4fcc51639450",

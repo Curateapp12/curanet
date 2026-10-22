@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "4b2d7b0a644cf54c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295165/ebola-afrique-face-epidemie-plus-complexe-oms",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295165/ebola-afrique-face-epidemie-plus-complexe-oms",
+      "title": "L’Ebola atteint le Nigeria et aucun pays africain n’est à l’abri, dit l’OMS",
+      "excerpt": "Le Nigeria a annoncé mardi avoir repéré une personne porteuse de la souche Bundibugyo du virus.",
+      "published": "2026-10-22T22:17:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/nigeria-ebola.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T22:38:46.770Z"
+    },
+    {
+      "id": "140a7c1dfe7ef32d",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur",
+      "title": "Le PQ concède la victoire aux conservateurs dans Champlain",
+      "excerpt": "Le Parti québécois a concédé la victoire aux conservateurs dans la circonscription de Champlain.",
+      "published": "2026-10-22T22:15:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/imagerie/16x9/derniere-heure-panneau-nouvelle-actu-alerte.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T22:38:46.770Z"
+    },
+    {
+      "id": "3f40620c1758ed1a",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295178/stelco-mise-en-demeure-travailleurs-opposition",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295178/stelco-mise-en-demeure-travailleurs-opposition",
+      "title": "Stelco mise en demeure : trop peu, trop tard, selon l’opposition et des travailleurs",
+      "excerpt": "L'entreprise a 15 jours pour répondre à Ottawa, un délai trop long, selon plusieurs.",
+      "published": "2026-10-22T21:55:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/stelco-hamilton-ontario-acier-guerre-commerciale-57328.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T22:38:46.770Z"
+    },
+    {
+      "id": "47b2f08e61b7f4fe",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295190/diplomates-canadiens-incites-grande-prudence-face-elections-eu",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295190/diplomates-canadiens-incites-grande-prudence-face-elections-eu",
+      "title": "Les diplomates canadiens incités à une grande prudence face aux élections aux É.-U.",
+      "excerpt": "Un représentant du ministère des Affaires mondiales du Canada a envoyé une note avec cette consigne mardi.",
+      "published": "2026-10-22T21:46:53.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-93831.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T22:38:46.770Z"
+    },
+    {
       "id": "2074f5f2ceab75cf",
       "guid": "https://ici.radio-canada.ca/nouvelle/2295173/duhaime-pcq-assermentation-attendre-erreurs",
       "link": "https://ici.radio-canada.ca/nouvelle/2295173/duhaime-pcq-assermentation-attendre-erreurs",
