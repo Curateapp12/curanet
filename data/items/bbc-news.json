@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "1b5d4fcc51639450",
+      "guid": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo",
+      "title": "US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93",
+      "excerpt": "The actor died on Wednesday of natural causes, his family said.",
+      "published": "2026-10-22T20:33:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebad/live/e0656410-ce51-11f1-a7e5-1bf3b637cfc1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T20:40:39.445Z"
+    },
+    {
+      "id": "7953858d3623d279",
+      "guid": "https://www.bbc.co.uk/news/videos/cmvg9v932z5vo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9v932z5vo",
+      "title": "See the Pokémon cards that made a retired decorator a millionaire",
+      "excerpt": "A man from Surrey is now a millionaire after selling a collection of Pokémon cards at auction.",
+      "published": "2026-10-22T20:13:24.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab03/live/bd8fd210-ce54-11f1-a166-e30097724580.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T20:40:39.445Z"
+    },
+    {
+      "id": "0a1be2ae7f7713fd",
+      "guid": "https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o",
+      "title": "Trump says NBA star LeBron James disrespected US anthem and demands apology",
+      "excerpt": "The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed.",
+      "published": "2026-10-22T20:04:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fadf/live/e1bf1060-ce40-11f1-a86f-f78305ec9987.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T20:40:39.445Z"
+    },
+    {
       "id": "f5ff68bce43960d0",
       "guid": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no#1",
       "link": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no",
@@ -12,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
       "type": "article",
       "addedAt": "2026-10-22T19:42:13.739Z"
+    },
+    {
+      "id": "b573046a3d3bbbae",
+      "guid": "https://www.bbc.co.uk/news/articles/cw1l3q1z8358o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cw1l3q1z8358o",
+      "title": "Lockerbie bombing accused loses bid to have case thrown out",
+      "excerpt": "Abu Agila Mas'ud al-Marimi had claimed he was victim of an illegal rendition when he was transferred into US custody.",
+      "published": "2026-10-22T18:30:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a0a/live/4a6f6940-ce35-11f1-a86f-f78305ec9987.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T20:40:39.445Z"
     },
     {
       "id": "e270bedbd1339289",
