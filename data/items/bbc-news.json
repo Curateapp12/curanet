@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "c328c2660dd9d1e0",
+      "guid": "https://www.bbc.co.uk/news/articles/cq8jzrxlkmwmo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzrxlkmwmo",
+      "title": "Legendary video game studio BioWare closed after 31 years",
+      "excerpt": "The influential studio that made Mass Effect and Dragon Age announces it is closing its doors.",
+      "published": "2026-10-22T09:29:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa8/live/83514c10-cdf9-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T09:44:23.516Z"
+    },
+    {
+      "id": "4c6a8c2616fb081e",
+      "guid": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
+      "title": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes",
+      "excerpt": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
+      "published": "2026-10-22T09:06:48.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/bc84e170-cdf6-11f1-97f7-a7674fb562de.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T09:44:23.516Z"
+    },
+    {
       "id": "52e8775d890cc5f9",
       "guid": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo#1",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo",
@@ -12,6 +34,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg",
       "type": "article",
       "addedAt": "2026-10-22T08:47:45.138Z"
+    },
+    {
+      "id": "8f33aef64deab1e3",
+      "guid": "https://www.bbc.co.uk/sport/articles/c51kdwym8ej3o#8",
+      "link": "https://www.bbc.co.uk/sport/articles/c51kdwym8ej3o",
+      "title": "Weekly sports quiz: How much was Ronaldo fined by Portugal?",
+      "excerpt": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+      "published": "2026-10-22T07:29:51.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0f2/live/36505680-ccce-11f1-9a39-31b474234113.png",
+      "type": "article",
+      "addedAt": "2026-10-22T09:44:23.516Z"
     },
     {
       "id": "24b04e17d21652ea",
@@ -34,6 +67,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb51/live/794c1ea0-cd9c-11f1-bc2e-018d645d8d21.jpg",
       "type": "article",
       "addedAt": "2026-10-22T07:51:33.825Z"
+    },
+    {
+      "id": "fbc78c37d1ea8cc1",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq073zrgv8vvo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq073zrgv8vvo",
+      "title": "Leicester hit their lowest ebb - but is Martin turning things around?",
+      "excerpt": "Leicester are 10th in League One, 10 years after winning the Premier League. After hitting their lowest ebb, are there now grounds for optimism?",
+      "published": "2026-10-22T06:01:48.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a01d/live/93104bb0-cd81-11f1-b1e7-39558e114359.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T09:44:23.516Z"
     },
     {
       "id": "e5a2fa9901c2e5fb",
