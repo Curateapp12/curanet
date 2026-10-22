@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "52e8775d890cc5f9",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "excerpt": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+      "published": "2026-10-22T08:43:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T08:47:45.138Z"
+    },
+    {
       "id": "24b04e17d21652ea",
       "guid": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo#4",
       "link": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo",
@@ -221,6 +232,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08de/live/6e052f20-cd4f-11f1-8177-0f8bd59b54c4.jpg",
       "type": "article",
       "addedAt": "2026-10-22T00:52:38.165Z"
+    },
+    {
+      "id": "8364637b563e2076",
+      "guid": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o",
+      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "excerpt": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+      "published": "2026-10-21T22:59:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/64f8e290-cda0-11f1-96a8-11b361e3c25f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-22T08:47:45.138Z"
     },
     {
       "id": "e7c2dee8f3c22a82",
