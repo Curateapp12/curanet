@@ -3,6 +3,116 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "ad175f421300ed4f",
+      "guid": "https://globalnews.ca/?p=12112350&preview=true&preview_id=12112350",
+      "link": "https://globalnews.ca/news/12112350/bc-election-2026-results-kamloops-centre/",
+      "title": "BC election 2026 results: Kamloops Centre",
+      "excerpt": "Kamloops Centre is a provincial riding located in region.",
+      "published": "2026-10-22T01:40:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
+      "id": "7eaa603333beedf9",
+      "guid": "https://globalnews.ca/?p=12112349&preview=true&preview_id=12112349",
+      "link": "https://globalnews.ca/news/12112349/bc-election-2026-results-juan-de-fuca-malahat/",
+      "title": "BC election 2026 results: Juan de Fuca-Malahat",
+      "excerpt": "Juan de Fuca-Malahat is a provincial riding located in the region.",
+      "published": "2026-10-22T01:40:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
+      "id": "fdc9cb7f20c70b4e",
+      "guid": "https://globalnews.ca/?p=12112348&preview=true&preview_id=12112348",
+      "link": "https://globalnews.ca/news/12112348/bc-election-2026-results-fraser-nicola/",
+      "title": "BC election 2026 results: Fraser-Nicola",
+      "excerpt": "Fraser-Nicola is a provincial riding located in region.",
+      "published": "2026-10-22T01:38:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
+      "id": "82f22ca5b5517011",
+      "guid": "https://globalnews.ca/?p=12112477",
+      "link": "https://globalnews.ca/news/12112477/concerns-mount-over-future-of-neurology-care-at-penticton-hospital/",
+      "title": "Concerns mount over future of neurology care at Penticton hospital",
+      "excerpt": "Dr. Adam Thompson said the new on-call requirements could place additional pressure on neurologists who are already in short supply.",
+      "published": "2026-10-22T01:34:25.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Pen-hospital-oct-21.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
+      "id": "5e89b895d673e623",
+      "guid": "https://globalnews.ca/?p=12112558",
+      "link": "https://globalnews.ca/news/12112558/bc-conservative-candidate-files-complaint-ndp-letter-mailout-campaign/",
+      "title": "B.C. Conservative candidate files complaint over NDP mailout campaign",
+      "excerpt": "Dr. Habib Ur-Rehman, recently arrived in B.C. from the U.K., said in the letter that he felt compelled to write it about his concerns about health care.",
+      "published": "2026-10-22T01:28:21.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/ndp.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
+      "id": "c163e86c7e91705f",
+      "guid": "https://globalnews.ca/?p=12112347&preview=true&preview_id=12112347",
+      "link": "https://globalnews.ca/news/12112347/bc-election-2026-results-esquimalt-colwood/",
+      "title": "BC election 2026 results: Esquimalt-Colwood",
+      "excerpt": "Esquimalt-Colwood is a provincial riding located in the region.",
+      "published": "2026-10-22T01:18:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
+      "id": "2e4f57b12384fda6",
+      "guid": "https://globalnews.ca/?p=12112345&preview=true&preview_id=12112345",
+      "link": "https://globalnews.ca/news/12112345/bc-election-2026-results-delta-south/",
+      "title": "BC election 2026 results: Delta South",
+      "excerpt": "Delta South is a provincial riding located in the region.",
+      "published": "2026-10-22T01:17:25.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
+      "id": "23bc87e11d39e04c",
+      "guid": "https://globalnews.ca/?p=12112342&preview=true&preview_id=12112342",
+      "link": "https://globalnews.ca/news/12112342/bc-election-2026-results-delta-north/",
+      "title": "BC election 2026 results: Delta North",
+      "excerpt": "Delta North is a provincial riding located in the region.",
+      "published": "2026-10-22T01:16:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
+      "id": "1a78f9818ba4c669",
+      "guid": "https://globalnews.ca/?p=12112341&preview=true&preview_id=12112341",
+      "link": "https://globalnews.ca/news/12112341/bc-election-2026-results-cowichan-valley/",
+      "title": "BC election 2026 results: Cowichan Valley",
+      "excerpt": "Cowichan Valley is a provincial riding located in the region.",
+      "published": "2026-10-22T01:16:00.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/BC-PROVINCIAL-ELECTION_FEATURE-IMAGE_2100x1400.png",
+      "type": "article",
+      "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
+      "id": "2b7127c9df8c775e",
+      "guid": "https://globalnews.ca/?p=12112509",
+      "link": "https://globalnews.ca/news/12112509/closing-arguments-wrapped-trial-adam-mann-accused-killing-tori-dunn/",
+      "title": "Closing arguments conclude in trial of man accused of killing Tori Dunn",
+      "excerpt": "The closing submissions from Crown and defence have been heard in court and the jury will now begin deliberating a verdict on Wednesday.",
+      "published": "2026-10-22T01:15:14.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/web-still-6P-ADAM-MANN-TRIAL-CONT_OM022QU4.png",
+      "type": "article",
+      "addedAt": "2026-10-22T01:43:23.878Z"
+    },
+    {
       "id": "7bab3bc536f92ad3",
       "guid": "https://globalnews.ca/?p=12112329&preview=true&preview_id=12112329",
       "link": "https://globalnews.ca/news/12112329/bc-election-2026-results-burnaby-new-westminster/",
