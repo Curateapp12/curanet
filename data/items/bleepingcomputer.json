@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "c78f9791369d56c3",
+      "guid": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "excerpt": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "published": "2026-10-22T13:09:12.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-22T13:51:45.173Z"
+    },
+    {
       "id": "0f812922fb34579d",
       "guid": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
       "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
