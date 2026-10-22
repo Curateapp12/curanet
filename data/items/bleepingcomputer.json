@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "0151e8522bf78e30",
+      "guid": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "excerpt": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+      "published": "2026-10-22T19:12:51.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-22T19:42:13.739Z"
+    },
+    {
       "id": "5d4f96d6acc675d5",
       "guid": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",

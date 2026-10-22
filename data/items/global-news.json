@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "d5234d1937f32b65",
+      "guid": "https://globalnews.ca/?p=12111768",
+      "link": "https://globalnews.ca/news/12111768/canada-artificial-intelligence-books-copyright/",
+      "title": "Library and Archives Canada cracking down on AI books amid copyright threats",
+      "excerpt": "Library and Archives Canada recently updated its ISBN (International Standard Book Numbers) policy to limit books and other literary content created using artificial intelligence.",
+      "published": "2026-10-22T19:28:46.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T19:42:13.739Z"
+    },
+    {
+      "id": "4f0855806ed8d52d",
+      "guid": "https://globalnews.ca/?p=12113849",
+      "link": "https://globalnews.ca/news/12113849/diplomacy-foreign-interference-us-embassy-midterms/",
+      "title": "Diplomacy or ‘interference’? U.S. warns Canadian officials as midterms near",
+      "excerpt": "U.S. Ambassador Pete Hoekstra’s list of perceived Canadian “foreign interference” looks more like pointed public diplomacy to experts.",
+      "published": "2026-10-22T19:14:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/98332c48dcf448c2381a776bdba259509ac126085fbd70c094319d46ae09ea65.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T19:42:13.739Z"
+    },
+    {
+      "id": "b0ab551d2104577a",
+      "guid": "https://globalnews.ca/?p=12113258",
+      "link": "https://globalnews.ca/news/12113258/nova-scotia-duct-cleaning-ai-photos/",
+      "title": "N.S. woman says duct-cleaning company used AI-generated photos to fake work",
+      "excerpt": "A Dartmouth, N.S. woman says her recent experience with a duct-cleaning company has left her feeling scammed and alleges she was shown AI-generated photos of supposed work.",
+      "published": "2026-10-22T19:12:16.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/furnace-scam-victim.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T19:42:13.739Z"
+    },
+    {
+      "id": "6f8a4b2da4b89002",
+      "guid": "https://globalnews.ca/?p=12113826",
+      "link": "https://globalnews.ca/news/12113826/adam-mann-guilty-second-degree-murder-death-tori-dunn-surrey-home/",
+      "title": "Adam Mann found guilty in murder of Tori Dunn in her Surrey home",
+      "excerpt": "Tori Dunn, 30, was stabbed four times, including an 18 centimetre-deep wound to her abdomen, which killed her, and two defensive wounds to her hands.",
+      "published": "2026-10-22T19:11:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2024/06/web-tori-vigil.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T19:42:13.739Z"
+    },
+    {
+      "id": "ebefdfb6c96d7051",
+      "guid": "https://globalnews.ca/?p=12113732",
+      "link": "https://globalnews.ca/news/12113732/clavicular-pleads-not-guilty-to-rape-charge/",
+      "title": "‘Looksmaxxing’ influencer Clavicular pleads not guilty to rape charge",
+      "excerpt": "The 20-year-old influencer agreed to surrender his passport and will not contact or post about the woman who has accused him of assault.",
+      "published": "2026-10-22T18:56:50.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/clavicular-pleads-not-guilty-rape.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T19:42:13.739Z"
+    },
+    {
+      "id": "53bd853081559352",
+      "guid": "https://globalnews.ca/?p=12113762",
+      "link": "https://globalnews.ca/news/12113762/cmhc-homes-repair/",
+      "title": "More than a million Canadian homes need ‘major repairs,’ CMHC says",
+      "excerpt": "Around 6.1 per cent of all homes in Canada are in need of 'major repairs,' a report by CMHC chief economist Mathieu Laberge said on Thursday.",
+      "published": "2026-10-22T18:52:31.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CMHC-homes-repair.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T19:42:13.739Z"
+    },
+    {
+      "id": "a6084bd1174ef605",
+      "guid": "https://globalnews.ca/?p=12113850",
+      "link": "https://globalnews.ca/news/12113850/peter-guthrie-danielle-smith-ucp-referendum/",
+      "title": "Former Alberta cabinet minister says Smith can’t survive UCP crisis after referendum",
+      "excerpt": "A former Alberta cabinet minister says Premier Danielle Smith won't survive the crisis in her United Conservative Party amid fallout from the separation referendum.",
+      "published": "2026-10-22T18:49:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/bc1013a9a7fb4614f88e5dc45d06c4ef46a5539057050eeb162916b93577a2a5.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T19:42:13.739Z"
+    },
+    {
       "id": "cb1093e37d7ad644",
       "guid": "https://globalnews.ca/news/12113839/competition-at-the-heart-of-raptors-defence/",
       "link": "https://globalnews.ca/news/12113839/competition-at-the-heart-of-raptors-defence/",
