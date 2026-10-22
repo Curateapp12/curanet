@@ -3,6 +3,72 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "59ed9460084feda1",
+      "guid": "https://globalnews.ca/?p=12113448",
+      "link": "https://globalnews.ca/news/12113448/man-charged-regina-homicide/",
+      "title": "Man charged with murder in death of 20-year-old in Regina",
+      "excerpt": "A 25-year-old man was charged with first-degree murder in relation to the killing of Deandre Lagimodiere, 20, the Regina Police Service said.",
+      "published": "2026-10-22T17:29:11.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/regina-homicide-charges.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T17:39:04.701Z"
+    },
+    {
+      "id": "0c5998f0e0e1733c",
+      "guid": "https://globalnews.ca/?p=12113387",
+      "link": "https://globalnews.ca/news/12113387/large-structure-fire-kingston/",
+      "title": "Fire crews respond to massive blaze at scrap metal yard in Kingston",
+      "excerpt": "A cloud of dark smoke billowed over Kingston after a structure fire broke out at KIMCO Steel Thursday morning, prompting a large emergency response.",
+      "published": "2026-10-22T17:24:01.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/kingston-kimco-fire.png",
+      "type": "article",
+      "addedAt": "2026-10-22T17:39:04.701Z"
+    },
+    {
+      "id": "237823f2d7b64f71",
+      "guid": "https://globalnews.ca/?p=12113240",
+      "link": "https://globalnews.ca/news/12113240/stick-run-game-creator-manuel-otto-dead/",
+      "title": "‘Stick Run’ game creator Manuel Otto dead at 30 amid Twitch livestream",
+      "excerpt": "In a statement, Stick Run said, 'It is with a heavy heart that we confirm and announce the passing of our creator, developer, and fellow Stick Runner, Marc-Manuel Alexander Otto.'",
+      "published": "2026-10-22T17:21:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/manuel-otto-dead.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T17:39:04.701Z"
+    },
+    {
+      "id": "3aac08bf238e0c03",
+      "guid": "https://globalnews.ca/?p=12113481",
+      "link": "https://globalnews.ca/news/12113481/ottawa-not-responsible-for-regulating-ai-data-centre-electricity-use-minister/",
+      "title": "Ottawa ‘not responsible’ for regulating AI data centre power use: minister",
+      "excerpt": "AI Minister Evan Solomon spoke to the Senate Committee on Social Affairs, Science and Technology on Thursday, where he was asked about power usage by data centres Canada.",
+      "published": "2026-10-22T17:21:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Evan-Solomon-power-usage-AI-data-centres-1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T17:39:04.701Z"
+    },
+    {
+      "id": "5642937f130a6dd4",
+      "guid": "https://globalnews.ca/news/12113446/senators-place-goalie-ullmark-on-injured-reserve/",
+      "link": "https://globalnews.ca/news/12113446/senators-place-goalie-ullmark-on-injured-reserve/",
+      "title": "Senators place goalie Ullmark on injured reserve",
+      "excerpt": "The Ottawa Senators placed goaltender Linus Ullmark on injured reserve Thursday, a day after he sustained a lower-body strain in a 5-1 win over the Florida Panthers.",
+      "published": "2026-10-22T16:57:17.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/2b914cabffebbb4b5cf9f400d7bc2580b743820a54cce9cb71fb8db56a9a3c1a.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T17:39:04.701Z"
+    },
+    {
+      "id": "176d1b12f2c80938",
+      "guid": "https://globalnews.ca/?p=12113414",
+      "link": "https://globalnews.ca/news/12113414/subtropical-storm-atlantic-canada/",
+      "title": "Subtropical storm bringing rain and wind to parts of Atlantic Canada, diverts cruise ship",
+      "excerpt": "Environment Canada has issued yellow rainfall warnings for parts of northern and eastern Nova Scotia Thursday with rainfall amounts of 50 to 70 millimetres.",
+      "published": "2026-10-22T16:43:13.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/7e5f483a683291cfea221d30f0035a6c30c9ef232a92214c6be8e34110ff92d0.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-22T17:39:04.701Z"
+    },
+    {
       "id": "9d541a6e720e46b2",
       "guid": "https://globalnews.ca/news/12113343/sens-cousins-panthers-matthew-tkachuk-fined/",
       "link": "https://globalnews.ca/news/12113343/sens-cousins-panthers-matthew-tkachuk-fined/",
