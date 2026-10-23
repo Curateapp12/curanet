@@ -3,6 +3,61 @@
   "sourceId": "le-figaro",
   "items": [
     {
+      "id": "c89b54ba25756b0c",
+      "guid": "https://www.lefigaro.fr/flash-actu/le-parti-communiste-francais-victime-d-une-fuite-de-donnees-20261023",
+      "link": "https://www.lefigaro.fr/flash-actu/le-parti-communiste-francais-victime-d-une-fuite-de-donnees-20261023",
+      "title": "Le Parti Communiste Français victime d'une fuite de données",
+      "excerpt": "Le parti a annoncé vendredi avoir fait l’objet d’une fuite de données de son fichier des adhérents et sympathisants, qui concernerait 190.000 personnes selon le site spécialisé FrenchBreache.",
+      "published": "2026-10-23T20:28:47.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2172_crop/2026/10/23/a1d2dce0e9ef940f03c9bb6056ee591e0d7fece749857160cdc1cc09a75264a6.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T20:42:10.949Z"
+    },
+    {
+      "id": "1ae166dde685684a",
+      "guid": "https://www.lefigaro.fr/flash-actu/l-armee-ukrainienne-annonce-observer-une-treve-a-olechky-a-partir-de-mardi-20261023",
+      "link": "https://www.lefigaro.fr/flash-actu/l-armee-ukrainienne-annonce-observer-une-treve-a-olechky-a-partir-de-mardi-20261023",
+      "title": "L'armée ukrainienne annonce observer une trêve à Olechky à partir de mardi",
+      "excerpt": "Olechky est une ville sous occupation russe dans la région de Kherson, et bénéficiera d’une opération humanitaire.",
+      "published": "2026-10-23T20:24:53.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/1280x960_crop/2026/10/23/22f08d091ca46e2923e28a36f83cd6962151eeff45b5930dccde8f2ff4c8825c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T20:42:10.949Z"
+    },
+    {
+      "id": "b7ce421084dc1895",
+      "guid": "https://www.lefigaro.fr/sports/football/presidentielle-au-bresil-neymar-reaffiche-son-soutien-a-flavio-bolsonaro-20261023",
+      "link": "https://www.lefigaro.fr/sports/football/presidentielle-au-bresil-neymar-reaffiche-son-soutien-a-flavio-bolsonaro-20261023",
+      "title": "Présidentielle au Brésil : Neymar affiche son soutien à Flavio Bolsonaro",
+      "excerpt": "Dans une vidéo publiée sur son compte Instagram ce vendredi, le footballeur Neymar a affiché son soutien à Flavio Bolsonaro.",
+      "published": "2026-10-23T20:24:01.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/10/23/38e6d9df25fa08265a92ba8aa18a0659616a4ea29bb00cbb9b9308f103040397.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T20:42:10.949Z"
+    },
+    {
+      "id": "e0e0bb5d682c6d76",
+      "guid": "https://www.lefigaro.fr/culture/chateau-de-versailles-opera-de-paris-musee-du-louvre-plusieurs-lieux-culturels-fermes-samedi-en-marge-des-manifestations-20261023",
+      "link": "https://www.lefigaro.fr/culture/chateau-de-versailles-opera-de-paris-musee-du-louvre-plusieurs-lieux-culturels-fermes-samedi-en-marge-des-manifestations-20261023",
+      "title": "Château de Versailles, Opéra de Paris, musée du Louvre… plusieurs lieux culturels fermés samedi en marge des manifestations",
+      "excerpt": "Face aux risques de débordements lors des manifestations prévues samedi, plusieurs institutions culturelles ont annoncé des fermetures, totales ou partielles.",
+      "published": "2026-10-23T20:13:40.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/orig/2026/10/23/2c715512d3b9a6cec7150442b29fea467567da98743e2192019205f5119ac69e.JPG",
+      "type": "article",
+      "addedAt": "2026-10-23T20:42:10.949Z"
+    },
+    {
+      "id": "228bfa3402c2c051",
+      "guid": "https://www.lefigaro.fr/flash-actu/les-etats-unis-pourraient-frapper-l-iran-des-ce-week-end-selon-un-diplomate-americain-20261023",
+      "link": "https://www.lefigaro.fr/flash-actu/les-etats-unis-pourraient-frapper-l-iran-des-ce-week-end-selon-un-diplomate-americain-20261023",
+      "title": "Les États-Unis pourraient frapper l'Iran dès ce week-end, selon un diplomate américain",
+      "excerpt": "Les pourparlers entre Washington et Téhéran sont dans l’impasse, près de huit mois après le début du conflit déclenché par les frappes israélo-américaines sur l’Iran.",
+      "published": "2026-10-23T20:11:23.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/orig/2026/10/23/fa0f3c7d8be775d86ac34acbccf7073a5d5127375d690f4e78ee95b2489e67c1.JPG",
+      "type": "article",
+      "addedAt": "2026-10-23T20:42:10.949Z"
+    },
+    {
       "id": "06caf1e7df11a6af",
       "guid": "https://www.lefigaro.fr/actualite-france/quand-on-soumet-l-idee-de-reprendre-les-cours-on-est-accuses-de-reactionnaires-plongee-a-l-ens-ulm-occupee-par-un-petit-groupe-d-etudiants-20261023",
       "link": "https://www.lefigaro.fr/actualite-france/quand-on-soumet-l-idee-de-reprendre-les-cours-on-est-accuses-de-reactionnaires-plongee-a-l-ens-ulm-occupee-par-un-petit-groupe-d-etudiants-20261023",

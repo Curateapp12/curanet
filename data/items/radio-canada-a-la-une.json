@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "f993133c5586aaa3",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295403/etats-unis-iran-bombardement-possible-tom-barrack",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295403/etats-unis-iran-bombardement-possible-tom-barrack",
+      "title": "Les États-Unis pourraient bombarder l’Iran dès ce week-end, dit un diplomate américain",
+      "excerpt": "Donald Trump a dit plusieurs fois récemment qu'il allait bientôt prendre une « décision » concernant l'Iran.",
+      "published": "2026-10-23T19:58:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/iran-teheran-ormuz-oman.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T20:42:10.949Z"
+    },
+    {
+      "id": "5d9b1786be6bf125",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295360/cause-effondrement-stationnement-slater-ottawa",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295360/cause-effondrement-stationnement-slater-ottawa",
+      "title": "L’accumulation de neige à l’origine de l’effondrement d'un stationnement d'Ottawa",
+      "excerpt": "Cet effondrement partiel spectaculaire a eu lieu en février 2025.",
+      "published": "2026-10-23T19:23:25.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/vue-aerienne-stationnement-effondre-ottawa.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T20:42:10.949Z"
+    },
+    {
       "id": "88ba5a663f71e1e4",
       "guid": "https://ici.radio-canada.ca/nouvelle/2295367/france-mort-blesses-macron-attentat-terroriste-raciste",
       "link": "https://ici.radio-canada.ca/nouvelle/2295367/france-mort-blesses-macron-attentat-terroriste-raciste",
@@ -45,6 +67,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/russie-raffinerie-attaquee-ukraine.jpg",
       "type": "article",
       "addedAt": "2026-10-23T19:40:59.200Z"
+    },
+    {
+      "id": "267b54da76ae5781",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295344/gouvernement-parti-quebecois-engagement-quebec",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295344/gouvernement-parti-quebecois-engagement-quebec",
+      "title": "« Le communautaire à boutte » interpelle le nouveau ministre Therrien",
+      "excerpt": "On y propose par voie de communiqué plusieurs revendications à l'endroit du nouveau ministre élu.",
+      "published": "2026-10-23T18:13:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/communautaire-a-boutte-manifestation-manifestation-quebec.png",
+      "type": "article",
+      "addedAt": "2026-10-23T20:42:10.949Z"
     },
     {
       "id": "9e0e07e36fac5f18",
