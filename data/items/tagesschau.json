@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "2b6c21230d7ac804",
+      "guid": "62879fab-38c7-47d9-a499-593433bb196a",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+      "title": "Marktbericht: Tech-Ausverkauf drückt auf die Anlegerstimmung",
+      "excerpt": "Zum Wochenschluss geraten die Börsen in leichte Turbulenzen: An der Wall Street fallen Tech-Titel weit zurück, auch geopolitische Sorgen wachsen. Wird sich der DAX gegen weitere Kursverluste stemmen?",
+      "published": "2026-10-23T05:34:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2db31d03-cdba-46dd-9aea-71ef81a25776/AAABmnblNn8/AAABnSSvrFg/16x9-big/boerse-468.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-23T05:40:16.283Z"
+    },
+    {
+      "id": "71f7765f80f29aa1",
+      "guid": "91c41bc5-32ce-48b4-8fe9-764980b2fdbc",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/brustkrebs-mann-100.html",
+      "title": "Brustkrebs bei Männern ist selten und wird meist spät entdeckt",
+      "excerpt": "Brustkrebs beim Mann ist eine seltene Krankheit. Oft wird ein Tumor deshalb erst im fortgeschrittenen Stadium diagnostiziert - dadurch geht wertvolle Therapiezeit verloren. Von Christiane Stauß.",
+      "published": "2026-10-23T05:26:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ff33e1af-db03-4dc6-b4d4-f3358d0b5996/AAABoV7ustw/AAABnSSvrFg/16x9-big/mann-brust-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-23T05:40:16.283Z"
+    },
+    {
+      "id": "2bc81b284a99290b",
+      "guid": "dcbb27dc-190f-4f9e-8ce6-d05d03ae5335",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
+      "title": "In 28 Städten: Proteste für ein liberaleres Abtreibungsrecht in Polen",
+      "excerpt": "In 28 polnischen Städten wurde für die Liberalisierung des Abtreibungsgesetzes demonstriert. Frauenorganisationen werfen der liberalkonservativen Regierung Tusk Untätigkeit vor. Von Palina Milling.",
+      "published": "2026-10-23T05:13:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/17a86cb5-c38b-4f31-9f51-7162a6648f58/AAABoWZMPDs/AAABnSSvrFg/16x9-big/polen-protest-abtreibung-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-23T05:40:16.283Z"
+    },
+    {
+      "id": "dbefaabb637781c6",
+      "guid": "ea2392ca-1bba-4d0d-85da-720ac4d1278b",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/gluecksspiel-geldwaesche-wirecard-100.html",
+      "title": "\"Operation Chargeback\": Merkur-Tochterfirma wickelte Zahlungen ab",
+      "excerpt": "Im Rahmen der \"Operation Chargeback\" ermitteln Behörden gegen internationale Geldwäsche-Netzwerke. Ex-Wirecard-Manager sind inzwischen angeklagt. Nach BR-Recherchen führen Spuren auch zu einer Tochterfirma des Glücksspielkonzerns Merkur.",
+      "published": "2026-10-23T05:04:03.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d8fa81fe-92ba-4b9c-849d-2a5efe1e5da6/AAABnzyqARw/AAABnSSvrFg/16x9-big/gluecksspiel-smartphone-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-23T05:40:16.283Z"
+    },
+    {
       "id": "481c004ead6f4feb",
       "guid": "b8ae9ddd-8649-460d-9e0a-4c43465d8f1e",
       "link": "https://www.tagesschau.de/investigativ/ndr/waffen-extremisten-102.html",

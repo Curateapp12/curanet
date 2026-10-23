@@ -3,6 +3,61 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "ec1618d862d08264",
+      "guid": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo#2",
+      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo",
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "excerpt": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
+      "published": "2026-10-23T05:05:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1339/live/77d8ee10-ce35-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T05:40:16.283Z"
+    },
+    {
+      "id": "b5a4e5da1dd266bc",
+      "guid": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo",
+      "title": "Don't leave AI to tech bros and oligarchs, UK's AI minister says",
+      "excerpt": "Kanishka Narayan tells the BBC that dealing with the technology requires not only regulation, but \"building capability and capacity\".",
+      "published": "2026-10-23T05:00:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bb/live/59305530-ce3e-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T05:40:16.283Z"
+    },
+    {
+      "id": "719c795a9e7e9cb6",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o",
+      "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to £800m",
+      "excerpt": "Ministers say the changes in regulations will reduce unnecessary bureaucracy.",
+      "published": "2026-10-23T05:00:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b49/live/d9fb2bb0-ce78-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T05:40:16.283Z"
+    },
+    {
+      "id": "45a0268d898bebb4",
+      "guid": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo#1",
+      "link": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo",
+      "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
+      "excerpt": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.",
+      "published": "2026-10-23T05:00:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/771b/live/6ba2e430-ce57-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T05:40:16.283Z"
+    },
+    {
+      "id": "0b316780bbbe2a7e",
+      "guid": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o",
+      "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
+      "excerpt": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
+      "published": "2026-10-23T05:00:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bae/live/f5a32300-ce54-11f1-a166-e30097724580.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T05:40:16.283Z"
+    },
+    {
       "id": "bda1cd6c1c5dc3d5",
       "guid": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o#1",
       "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o",
@@ -386,6 +441,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e195/live/78f97610-ce31-11f1-9f18-490cec60aa0f.jpg",
       "type": "article",
       "addedAt": "2026-10-22T16:43:14.054Z"
+    },
+    {
+      "id": "ea5ee8da354a0128",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o",
+      "title": "Sutton's predictions v Waffle the Wonder Dog and his owner, Simon",
+      "excerpt": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "published": "2026-10-22T16:30:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a31/live/4e4346b0-ce0b-11f1-9a39-31b474234113.png",
+      "type": "article",
+      "addedAt": "2026-10-23T05:40:16.283Z"
     },
     {
       "id": "8e1a1cfbf590bddb",
