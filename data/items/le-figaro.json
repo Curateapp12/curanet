@@ -3,6 +3,50 @@
   "sourceId": "le-figaro",
   "items": [
     {
+      "id": "820b41008eeb4b1a",
+      "guid": "https://www.lefigaro.fr/meteo/meteo-du-week-end-fortes-pluies-et-nouveau-coup-de-vent-sur-la-manche-avec-des-rafales-jusqu-a-100-km-h-20261023",
+      "link": "https://www.lefigaro.fr/meteo/meteo-du-week-end-fortes-pluies-et-nouveau-coup-de-vent-sur-la-manche-avec-des-rafales-jusqu-a-100-km-h-20261023",
+      "title": "Météo du week-end : fortes pluies et nouveau coup de vent sur la Manche, avec des rafales jusqu’à 100 km/h",
+      "excerpt": "Des pluies fréquentes et des rafales pouvant atteindre 100 km/h sur les côtes de la Manche marqueront samedi, après le passage d’Austen. Le soleil résistera près de la Méditerranée, malgré le vent. Dimanche, les températures remonteront, sans retour durable au beau temps.",
+      "published": "2026-10-23T14:47:13.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/orig/2026/10/23/c7c3078e6d7fe6a5fb0500d3cbc29bd27318c1ac45124916c534556abdc3078f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T14:47:58.149Z"
+    },
+    {
+      "id": "209e4014ff5112db",
+      "guid": "https://www.lefigaro.fr/musique/quatre-portraits-inedits-d-antonio-vivaldi-revelent-des-informations-inedites-sur-le-compositeur-20261023",
+      "link": "https://www.lefigaro.fr/musique/quatre-portraits-inedits-d-antonio-vivaldi-revelent-des-informations-inedites-sur-le-compositeur-20261023",
+      "title": "Quatre portraits inédits d’Antonio Vivaldi révèlent des informations inédites sur le compositeur",
+      "excerpt": "Jusqu’à présent seuls trois tableaux représentant le virtuose du XVIIIe siècle étaient connus des experts. La découverte par Federico Maria Sardelli, musicien italien de renom, de quatre nouvelles peintures apporte des précisions inédites sur l’auteur de La Stravaganza.",
+      "published": "2026-10-23T14:45:50.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/1749x984_crop/2026/10/23/fcc90dcaf678440276010403c10cd90256bfc2aea9aa5e22cd9daaee55242254.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T14:47:58.149Z"
+    },
+    {
+      "id": "dafc90bc7755e04a",
+      "guid": "https://www.lefigaro.fr/culture/patrimoine/manifestations-du-24-octobre-le-cirque-d-hiver-et-de-nouveaux-musees-parisiens-fermes-samedi-20261023",
+      "link": "https://www.lefigaro.fr/culture/patrimoine/manifestations-du-24-octobre-le-cirque-d-hiver-et-de-nouveaux-musees-parisiens-fermes-samedi-20261023",
+      "title": "Manifestations du 24 octobre : le Cirque d'Hiver et de nouveaux musées parisiens fermés samedi",
+      "excerpt": "Après le Louvre, le musée d’Orsay et de l’Orangerie et le Grand Palais, les hauts lieux culturels de la capitale choisissent de se protéger d’éventuels débordements liés à la journée de mobilisation.",
+      "published": "2026-10-23T14:43:36.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1974_crop/2026/10/23/cf5c429a0ab099d5be9a1e8c4e052d2dd676d84cc8706c5fb1266b3d69929803.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T14:47:58.149Z"
+    },
+    {
+      "id": "9237d5f578339762",
+      "guid": "https://www.lefigaro.fr/faits-divers/un-combattant-de-mma-une-fillette-de-12-ans-qui-sont-les-cinq-victimes-du-tireur-de-trappes-20261023",
+      "link": "https://www.lefigaro.fr/faits-divers/un-combattant-de-mma-une-fillette-de-12-ans-qui-sont-les-cinq-victimes-du-tireur-de-trappes-20261023",
+      "title": "Un combattant de MMA, une fillette de 12 ans… Qui sont les cinq victimes du tireur de Trappes ?",
+      "excerpt": "Dans les Yvelines, une fusillade a fait un mort et quatre blessés, dont plusieurs en urgence absolue. Selon le maire de Trappes, il s’agit d’un «attentat probablement islamophobe».",
+      "published": "2026-10-23T14:27:15.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/bff175a8805a4afdb0de21e1f01b49566685550e303d00adf00b9d249a9f3554.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T14:47:58.149Z"
+    },
+    {
       "id": "351edafac0ba78b6",
       "guid": "https://www.lefigaro.fr/actualite-france/qui-sont-les-lyceens-recus-par-emmanuel-macron-ce-vendredi-20261023",
       "link": "https://www.lefigaro.fr/actualite-france/qui-sont-les-lyceens-recus-par-emmanuel-macron-ce-vendredi-20261023",
@@ -56,6 +100,17 @@
       "thumbnail": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/23/95c82279758e1c12d1b6218457c4165fc520a0ebe39bc11e7ef4afa35fc05fca.jpg",
       "type": "article",
       "addedAt": "2026-10-23T13:48:46.793Z"
+    },
+    {
+      "id": "8cee92ae58099814",
+      "guid": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-le-match-psg-lyon-decale-du-dimanche-au-lundi-soir-a-la-demande-de-la-prefecture-20261023",
+      "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-le-match-psg-lyon-decale-du-dimanche-au-lundi-soir-a-la-demande-de-la-prefecture-20261023",
+      "title": "Ligue 1 : PSG-Lyon décalé au lundi soir, en même temps que le Ballon d’or, à la demande de la préfecture",
+      "excerpt": "En raison des risques liés aux manifestations, le choc de la 8e journée, initialement prévu dimanche soir, aura lieu lundi, pendant la cérémonie du Ballon d’Or.",
+      "published": "2026-10-23T13:20:39.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/orig/2026/10/23/d271996aacfcb57b7cf60977db0ea1808ac00d3bb46442d91ab835a045752d70.JPG",
+      "type": "article",
+      "addedAt": "2026-10-23T14:47:58.149Z"
     },
     {
       "id": "633da1da431d7e64",
