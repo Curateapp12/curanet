@@ -3,6 +3,61 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "47320051fdf53f31",
+      "guid": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo",
+      "title": "Burnham suggests stocking up on tinned food and bottled water",
+      "excerpt": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
+      "published": "2026-10-23T12:41:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5632/live/6ac13550-cedc-11f1-8507-45cb00a1c41c.png",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
+      "id": "096c46daae44f278",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c6lylk1zyqd7o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6lylk1zyqd7o",
+      "title": "Cost of football regulator double initial estimate",
+      "excerpt": "The annual cost to clubs of English football's Independent Regulator (IFR) has risen to £20.3m, around double the amount initially estimated.",
+      "published": "2026-10-23T12:19:33.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d09/live/8d65afc0-ceda-11f1-8507-45cb00a1c41c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
+      "id": "335f2f4478597066",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o",
+      "title": "Conte plays down 'unfounded' Man Utd speculation",
+      "excerpt": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United.",
+      "published": "2026-10-23T12:15:53.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cfa/live/0badff10-cede-11f1-b90b-55df5472350e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
+      "id": "357741465aefeddb",
+      "guid": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o#8",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o",
+      "title": "World champion Jepchirchir fails drugs test",
+      "excerpt": "Reigning world women's marathon champion Peres Jepchirchir is provisionally suspended by the Athletics Integrity Unit after a sample tests positive for EPO.",
+      "published": "2026-10-23T12:01:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c292/live/4a3d4a90-ced6-11f1-b2b0-07f43a3ad2d3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
+      "id": "a16499f23ad16d29",
+      "guid": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo",
+      "title": "'It's been relentless': IT workers scramble to fix PHP flaw described as worst crisis in years",
+      "excerpt": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
+      "published": "2026-10-23T12:00:25.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f861/live/f70b8e60-cedd-11f1-b90b-55df5472350e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
       "id": "ac5e98862ed52dfe",
       "guid": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#1",
       "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
@@ -146,6 +201,17 @@
       "addedAt": "2026-10-23T08:44:02.250Z"
     },
     {
+      "id": "7ed15c468e570a70",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c60qkpe0e54qo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c60qkpe0e54qo",
+      "title": "What is going on at 'chaotic' Newcastle?",
+      "excerpt": "Will the alarm bells be ringing at Newcastle United if they lose to struggling Crystal Palace on Sunday?",
+      "published": "2026-10-23T06:37:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f19/live/722f73a0-ce1a-11f1-bbba-c577fd901ff7.png",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
       "id": "2a127701b0ef470d",
       "guid": "https://www.bbc.co.uk/sport/football/articles/crp3gde84j4zo#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/crp3gde84j4zo",
@@ -199,6 +265,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/e0714a50-cea6-11f1-bbfb-357cf921a5e9.jpg",
       "type": "article",
       "addedAt": "2026-10-23T06:50:46.100Z"
+    },
+    {
+      "id": "b86678ed326e019d",
+      "guid": "https://www.bbc.co.uk/news/articles/cwr7yz12g2vpo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cwr7yz12g2vpo",
+      "title": "Monk on Caldey Island gave naked photos of himself to visitors",
+      "excerpt": "The monk denies sexually assaulting a visitor, who says he also gave her naked photos of himself.",
+      "published": "2026-10-23T05:11:25.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b17/live/bf444360-ce55-11f1-a166-e30097724580.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
     },
     {
       "id": "ec1618d862d08264",

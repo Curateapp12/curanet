@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "99e00cdb91d78521",
+      "guid": "https://globalnews.ca/?p=12118300",
+      "link": "https://globalnews.ca/news/12118300/elections-bc-ballot-counting/",
+      "title": "Ballots cast on election day in B.C. will be counted by hand, Elections BC says",
+      "excerpt": "It's the last full day of campaigning in British Columbia's election ahead of final voting day Saturday, when most ballots will be counted by hand.",
+      "published": "2026-10-23T12:27:14.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/7ec7713efe653d146f8af2aee33aff2290466d895ed7225948a9eade2adb9e54.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
+      "id": "01959b9685544e15",
+      "guid": "https://globalnews.ca/?p=12118291",
+      "link": "https://globalnews.ca/news/12118291/alberta-referendum-aftermath/",
+      "title": "Advocates flag contributions, not costs, of newcomers in Alberta referendum aftermath",
+      "excerpt": "Critics have warned that the referendum's outcome could make Alberta less attractive to newcomers at a time when jobs desperately need to be filled.",
+      "published": "2026-10-23T12:21:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/b172d0f920ff3d36b55440d2cd3bb98069b2a127ebd3b6cf47d12d2cf05ec1e0.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
+      "id": "cf66a8c88c82c733",
+      "guid": "https://globalnews.ca/news/12118294/rogers-reports-q3-revenue-edges-higher/",
+      "link": "https://globalnews.ca/news/12118294/rogers-reports-q3-revenue-edges-higher/",
+      "title": "Rogers reports Q3 revenue edges higher",
+      "excerpt": "Rogers Communications Inc. reported a third-quarter profit attributable to shareholders of $482 million as its total revenue edged up two per cent compared with a year ago.",
+      "published": "2026-10-23T12:16:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/8510e627cc2a12ae36781e88a45e49527e0e6c8d701cde2c6b882bc3e772150f.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
+      "id": "db9e2b04135677ec",
+      "guid": "https://globalnews.ca/?p=12118287",
+      "link": "https://globalnews.ca/news/12118287/regis-korchinski-paquet-inquest/",
+      "title": "Inquest into death of Regis Korchinski-Paquet set to continue",
+      "excerpt": "A coroner's inquest into the death of a Toronto woman who fell from a highrise balcony in the presence of police is set to resume Friday morning after adjourning early on Thursday.",
+      "published": "2026-10-23T12:13:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/8b0c305059a7b5f2b948b8f55c70edb52a914ede6e3a6a54b98180a763c05521_a75a2b.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
+      "id": "3bb05cad4fc894e6",
+      "guid": "https://globalnews.ca/?p=12118282",
+      "link": "https://globalnews.ca/news/12118282/everwind-data-centre-analysis/",
+      "title": "Boon or boondoggle? N.S. weighs $10B data centre’s promised economic benefits",
+      "excerpt": "Living more than 200 kilometres from the site of a major artificial intelligence data centre proposal isn't stopping Michael McCluskey from voicing his opposition to the project.",
+      "published": "2026-10-23T12:02:20.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/94f30c68760137d1b4e06e60867b89fbe4db5c06b0b489c8a9997775d392a065.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
       "id": "3f6f9545ca34ab49",
       "guid": "https://globalnews.ca/news/12118230/maple-leafs-fourth-line-making-big-impact/",
       "link": "https://globalnews.ca/news/12118230/maple-leafs-fourth-line-making-big-impact/",
