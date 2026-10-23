@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "ddcc034a1bed1ed3",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295425/ottawa-devoilera-nouvelle-strategie-securite-nationale",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295425/ottawa-devoilera-nouvelle-strategie-securite-nationale",
+      "title": "Ottawa dévoilera prochainement une nouvelle stratégie de sécurité nationale",
+      "excerpt": "Ottawa n’a pas élaboré de stratégie de sécurité nationale depuis plus de 20 ans.",
+      "published": "2026-10-23T21:05:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/drapeau-canada-grillage-securite-publique-nationale-strategie-ingerence-etrangere.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
+    },
+    {
+      "id": "2478c3eda6806db6",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295419/jordanie-attaque-eglise-chretienne",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295419/jordanie-attaque-eglise-chretienne",
+      "title": "Jordanie : sept morts dans une rare attaque contre une église",
+      "excerpt": "Le roi Abdallah II a dénoncé sur X un « attentat terroriste ».",
+      "published": "2026-10-23T20:33:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/attaque-eglise-jordanie-chretien.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
+    },
+    {
       "id": "f993133c5586aaa3",
       "guid": "https://ici.radio-canada.ca/nouvelle/2295403/etats-unis-iran-bombardement-possible-tom-barrack",
       "link": "https://ici.radio-canada.ca/nouvelle/2295403/etats-unis-iran-bombardement-possible-tom-barrack",
@@ -78,6 +100,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/communautaire-a-boutte-manifestation-manifestation-quebec.png",
       "type": "article",
       "addedAt": "2026-10-23T20:42:10.949Z"
+    },
+    {
+      "id": "ff2ca68b55fefff6",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295333/logements-toit-gateway-mall-prince-albert",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295333/logements-toit-gateway-mall-prince-albert",
+      "title": "En Saskatchewan, un centre commercial pourrait accueillir 500 logements sur son toit",
+      "excerpt": "Une initiative qui devra toutefois obtenir le feu vert des autorités municipales avant de se concrétiser.",
+      "published": "2026-10-23T17:51:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/maquette-logement-toit-centre-commercial.png",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
     },
     {
       "id": "9e0e07e36fac5f18",

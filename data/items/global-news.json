@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "c7a48d6ec624abcb",
+      "guid": "https://globalnews.ca/news/12119243/babcock-faces-former-team-as-oilers-host-leafs/",
+      "link": "https://globalnews.ca/news/12119243/babcock-faces-former-team-as-oilers-host-leafs/",
+      "title": "Babcock faces former team as Oilers host Leafs",
+      "excerpt": "Mike Babcock isn't dwelling on his departure from Toronto as he prepares to face his former team for the first time Saturday.",
+      "published": "2026-10-23T21:31:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/68b1fa63eed3fdcb5a7da5d57a1a6962d902ee25180d9deeb321bdd90fbd5afe_948eab.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
+    },
+    {
+      "id": "7b26e2454f3ac768",
+      "guid": "https://globalnews.ca/news/12119232/hellebuyck-trade-draws-plenty-of-reaction/",
+      "link": "https://globalnews.ca/news/12119232/hellebuyck-trade-draws-plenty-of-reaction/",
+      "title": "Hellebuyck trade draws plenty of reaction",
+      "excerpt": "The Connor Hellebuyck trade caught the attention of many in the hockey world, with a host of opinions and reactions.",
+      "published": "2026-10-23T21:25:46.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/581ea4570cb5f13a1efb91ad1be5c4a882205fc1ec412e5b2d525a1179d523cb.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
+    },
+    {
+      "id": "7f881b37450e9c91",
+      "guid": "https://globalnews.ca/?p=12119163",
+      "link": "https://globalnews.ca/news/12119163/winnipeg-police-suspend-crime-stoppers-use/",
+      "title": "Winnipeg police suspend Crime Stoppers tips following data breach",
+      "excerpt": "Winnipeg police have suspended their use of Crime Stoppers. Instead, it said it will try to accommodate anonymous information submitted via its tip line when possible.",
+      "published": "2026-10-23T21:17:17.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/winnipeg-police-suspend-crime-stoppers.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
+    },
+    {
+      "id": "cd109317de1651d3",
+      "guid": "https://globalnews.ca/?p=12119126",
+      "link": "https://globalnews.ca/news/12119126/toronto-mother-wated-alleged-abduction/",
+      "title": "Mother wanted for alleged parental abduction of 3 kids after supervised visit",
+      "excerpt": "Toronto Police are looking for a mother and her three young children after an alleged parental abduction.",
+      "published": "2026-10-23T21:16:21.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Toronto-mother.png",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
+    },
+    {
+      "id": "0f7a3ddb1316a732",
+      "guid": "https://globalnews.ca/?p=12119106",
+      "link": "https://globalnews.ca/news/12119106/saskatoon-police-seek-person-prowling-house-fire/",
+      "title": "Saskatoon police seek person seen ‘prowling’ before suspicious house fire",
+      "excerpt": "Police are asking the public for help identifying a person of interest in connection with an alleged arson that occurred at a home in Saskatoon.",
+      "published": "2026-10-23T21:07:56.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/saskatoon-person-of-interest-fire.bmp",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
+    },
+    {
       "id": "9cff2db9cde78301",
       "guid": "https://globalnews.ca/?p=12114214",
       "link": "https://globalnews.ca/the-curator/12114214/gifts-for-women-2026/",

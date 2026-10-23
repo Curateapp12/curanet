@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "02fa41505e511fcb",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295409/poursuite-port-belledune-blackpoint-munitions",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295409/poursuite-port-belledune-blackpoint-munitions",
+      "title": "Le port de Belledune poursuivi par le promoteur d’un projet militaro-industriel",
+      "excerpt": "Il allègue que le projet prévoyait l'aménagement d'une usine de munitions et l'acquisition de deux mines.",
+      "published": "2026-10-23T21:08:56.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/imagerie/16x9/belledune-port-industrie-nb-nouveau-brunswick-entree-charbon.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
+    },
+    {
+      "id": "311ff97fa8680ded",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295339/nouveau-parti-pcnb-jason-purdy",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295339/nouveau-parti-pcnb-jason-purdy",
+      "title": "Un membre du Parti progressiste-conservateur du N.-B. veut créer un nouveau parti",
+      "excerpt": "Jason Purdy juge le nouveau chef du PCNB trop « progressiste ».",
+      "published": "2026-10-23T20:48:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jason-purdy-new-brunswick-parti-conservateur.png",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
+    },
+    {
       "id": "410b3e7887c00faa",
       "guid": "https://ici.radio-canada.ca/nouvelle/2295353/grand-sault-moratoire-centres-donnees",
       "link": "https://ici.radio-canada.ca/nouvelle/2295353/grand-sault-moratoire-centres-donnees",
@@ -23,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-margaud-restigouche-hopital.jpg",
       "type": "article",
       "addedAt": "2026-10-23T19:40:59.200Z"
+    },
+    {
+      "id": "5f2ae71e8ae514fe",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2510998/heure-pointe",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2510998/heure-pointe",
+      "title": "FICFA : le volet arts médiatiques célèbre ses 25 ans avec l’exposition Mixtape",
+      "excerpt": "Le volet arts médiatique du Festival international du cinéma francophone en Acadie (FICFA) célèbre ses 25 ans avec l’exposition Mixtape, qui rassemble une sélection d’œuvres issues de l’histoire du festival.",
+      "published": "2026-10-23T19:07:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/16x9/ficfa-arts-mediatiques.png",
+      "type": "article",
+      "addedAt": "2026-10-23T21:40:38.515Z"
     },
     {
       "id": "f266a93a3290a7a4",
