@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "ac5e98862ed52dfe",
+      "guid": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
+      "title": "At least one dead and four injured in Paris suburb shooting",
+      "excerpt": "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes.",
+      "published": "2026-10-23T11:09:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "type": "article",
+      "addedAt": "2026-10-23T11:43:22.369Z"
+    },
+    {
+      "id": "682388b9603190ad",
+      "guid": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o",
+      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "excerpt": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+      "published": "2026-10-23T10:49:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1887/live/ab960500-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T11:43:22.369Z"
+    },
+    {
       "id": "b06fe80c936c2675",
       "guid": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo#1",
       "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo",
@@ -67,6 +89,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f6/live/7d318ca0-cd90-11f1-b1e7-39558e114359.jpg",
       "type": "article",
       "addedAt": "2026-10-23T09:42:13.330Z"
+    },
+    {
+      "id": "c115b33083428fad",
+      "guid": "https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o#8",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o",
+      "title": "How world champion Smith can become a mainstream star",
+      "excerpt": "In his BBC Sport column, Tony Bellew explains why Dalton Smith could be British boxing's next superstar - and why he should fight Adam Azim at Hillsborough.",
+      "published": "2026-10-23T09:20:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/366b/live/74aba0d0-cd62-11f1-b962-b7ff822cde72.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T11:43:22.369Z"
+    },
+    {
+      "id": "7f76bad4ca6e23b4",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo",
+      "title": "'No more Mr Nice Guy' - should Carrick drop Fernandes?",
+      "excerpt": "Manchester United head coach Michael Carrick must decide whether to leave skipper Bruno Fernandes out of Sunday's crucial Premier League clash with Bournemouth",
+      "published": "2026-10-23T08:28:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/624e/live/1179f540-ceaf-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T11:43:22.369Z"
     },
     {
       "id": "fa19912d8fa4e977",

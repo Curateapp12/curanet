@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "63e5c7766c4e49f9",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295240/meurtre-riviere-du-loup-hotel-police",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295240/meurtre-riviere-du-loup-hotel-police",
+      "title": "Double meurtre à Rivière-du-Loup",
+      "excerpt": "Aucune arrestation n'a été faite pour le moment.",
+      "published": "2026-10-23T10:56:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/meurtre-riviere-du-loup-police-sq.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-23T11:43:22.369Z"
+    },
+    {
       "id": "92fcc73969908b98",
       "guid": "https://ici.radio-canada.ca/nouvelle/2295089/elections-toronto-mairie-olivia-chow-brad-bradford",
       "link": "https://ici.radio-canada.ca/nouvelle/2295089/elections-toronto-mairie-olivia-chow-brad-bradford",
@@ -12,6 +23,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/olivia-chow-brad-bradford-toronto-elections.png",
       "type": "article",
       "addedAt": "2026-10-23T10:40:04.782Z"
+    },
+    {
+      "id": "61d155153f47c45f",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2293237/pont-rouge-distribution-erable-norvege-envahissant",
+      "link": "https://ici.radio-canada.ca/nouvelle/2293237/pont-rouge-distribution-erable-norvege-envahissant",
+      "title": "Une municipalité distribue une espèce exotique envahissante à sa population",
+      "excerpt": "La Ville de Pont-Rouge a fait la distribution d'érables de Norvège cet automne.",
+      "published": "2026-10-23T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/the-natural-world-far-of-autumn.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T11:43:22.369Z"
     },
     {
       "id": "4aa421d46e139703",

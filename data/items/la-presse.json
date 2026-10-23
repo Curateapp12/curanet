@@ -3,6 +3,50 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "090f49cd858ccc39",
+      "guid": "0ee74d4dc18d38cd9c5abb252e44bf67",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-23/riviere-du-loup/deux-femmes-tuees-par-balles-dans-un-stationnement.php",
+      "title": "Rivière-du-Loup | Deux femmes tuées par balles dans un stationnement",
+      "excerpt": "Dans ce qui semble être un nouvel épisode de la guerre entre motards et gangs criminels dans plusieurs régions du Québec, deux femmes ont été assassinées dans le stationnement d’un centre commercial de Rivière-du-Loup jeudi soir.",
+      "published": "2026-10-23T11:40:22.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/afe465c65fc33ec89dc389b87d0a54eb.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T11:43:22.369Z"
+    },
+    {
+      "id": "4b4dea7988588f4f",
+      "guid": "4ed30332dc45372bab2250a7e1adb2cc",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-10-23/melanome/un-nouveau-vaccin-a-base-d-arnm-contribue-a-reduire-le-risque-de-recidive.php",
+      "title": "Mélanome | Un nouveau vaccin à base d’ARNm contribue à réduire le risque de récidive",
+      "excerpt": "Un vaccin anticancéreux unique en son genre réduit considérablement le risque de récidive chez les patients atteints de mélanome, selon les résultats d’une étude majeure publiée jeudi par les laboratoires pharmaceutiques Moderna et Merck.",
+      "published": "2026-10-23T11:15:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/e32ccf6cbdb93470b94c5de3b7a489a2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T11:43:22.369Z"
+    },
+    {
+      "id": "f96ffda50f55e9d0",
+      "guid": "c23caf0a9dc43387bf31d412c7594f93",
+      "link": "https://www.lapresse.ca/actualites/caricatures/2026-10-23/lacher-de-thelyson-orelien.php",
+      "title": "Lâcher de Thélyson Orélien",
+      "excerpt": "",
+      "published": "2026-10-23T11:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/b3ef8257/a3d277ea181d30c4abc87528938ade90.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T11:43:22.369Z"
+    },
+    {
+      "id": "97dd80abcd3c9628",
+      "guid": "136fc434966430bdbcfdd1a5369a0eb7",
+      "link": "https://www.lapresse.ca/actualites/2026-10-23/la-revue-de-presse-de-paul-arcand/la-confusion-autour-des-frais-bancaires-duhaime-et-duplessis-et-40-des-gens-se-sentent-seuls.php",
+      "title": "La revue de presse de Paul Arcand | La confusion autour des frais bancaires, Duhaime et Duplessis et 40 % des gens se sentent seuls",
+      "excerpt": "À l’occasion de sa revue de presse, vendredi, Paul Arcand se penche sur les frais cachés et le manque de concurrence dans le secteur bancaire au Canada.",
+      "published": "2026-10-23T10:45:11.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/af5002d52e043fe692ad53450eec76e4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T11:43:22.369Z"
+    },
+    {
       "id": "532e4ba58427b0d4",
       "guid": "aeade5ca5f3e32de921e72b5ed502efa",
       "link": "https://www.lapresse.ca/actualites/politique/2026-10-23/elections-de-mi-mandat/les-allegations-d-ingerence-aux-etats-unis-sont-sans-fondement-selon-mark-carney.php",
