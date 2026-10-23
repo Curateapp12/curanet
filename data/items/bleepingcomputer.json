@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "5d4b1321ac5e829f",
+      "guid": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "excerpt": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+      "published": "2026-10-23T15:38:05.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-23T15:45:25.403Z"
+    },
+    {
       "id": "4eed9c7e043606c8",
       "guid": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
       "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",

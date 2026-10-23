@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "f2017d1aaeb84ddc",
+      "guid": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo",
+      "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
+      "excerpt": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held.",
+      "published": "2026-10-23T15:43:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b35/live/2d096810-2f13-11ef-90be-b75b34b0bbb2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T15:45:25.403Z"
+    },
+    {
+      "id": "40df75735a370430",
+      "guid": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "excerpt": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "published": "2026-10-23T15:30:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6926/live/c5f26d10-cef3-11f1-93e1-3b657b665bcf.png",
+      "type": "article",
+      "addedAt": "2026-10-23T15:45:25.403Z"
+    },
+    {
+      "id": "a231e48538340414",
+      "guid": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo#8",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo",
+      "title": "Poulter leaves LIV as exodus of big names continues",
+      "excerpt": "Ian Poulter wants to help his sons become professional golfers and develop his YouTube channel as he announces his exit from LIV Golf.",
+      "published": "2026-10-23T14:41:19.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5220/live/1dc8cbc0-cee4-11f1-bdca-23c64447299f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T15:45:25.403Z"
+    },
+    {
+      "id": "d251f363fb5450b1",
+      "guid": "https://www.bbc.co.uk/news/articles/c862yv953x04o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c862yv953x04o",
+      "title": "Glasgow museums remove mummified remains from public view over ethical concerns",
+      "excerpt": "Kelvingrove Museum and The Hunterian say they have removed human remains from display because of ethical concerns.",
+      "published": "2026-10-23T14:36:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f392/live/b1ca2050-cef1-11f1-accf-3309656ad0bb.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T15:45:25.403Z"
+    },
+    {
       "id": "e89eb87148b7c104",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po",
@@ -100,6 +144,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d39/live/0a1fb990-cec0-11f1-ae9c-0303957c36f8.jpg",
       "type": "article",
       "addedAt": "2026-10-23T13:48:46.793Z"
+    },
+    {
+      "id": "8e3f686c973d1c73",
+      "guid": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo",
+      "title": "Watch: Moment part of Brighton's historic West Pier collapses",
+      "excerpt": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.",
+      "published": "2026-10-23T13:03:29.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b198/live/1312c770-cee0-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T15:45:25.403Z"
     },
     {
       "id": "47320051fdf53f31",
