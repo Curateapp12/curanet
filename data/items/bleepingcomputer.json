@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "f582252343af91cc",
+      "guid": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "excerpt": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+      "published": "2026-10-23T16:40:07.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-23T16:44:25.881Z"
+    },
+    {
       "id": "5d4b1321ac5e829f",
       "guid": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
       "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
