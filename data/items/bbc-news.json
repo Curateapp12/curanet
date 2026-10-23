@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "fa19912d8fa4e977",
+      "guid": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo",
+      "title": "Watch: Presenter battles strong winds as storm hits Newquay",
+      "excerpt": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
+      "published": "2026-10-23T08:26:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19e3/live/2e559120-ceb8-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T08:44:02.250Z"
+    },
+    {
+      "id": "6fd92f317bb57f7f",
+      "guid": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o",
+      "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
+      "excerpt": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.",
+      "published": "2026-10-23T07:49:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f379/live/0f348400-cead-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T08:44:02.250Z"
+    },
+    {
+      "id": "90650edb2c8b0e3d",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o",
+      "title": "Infantino re-election hopes boosted by Asia support",
+      "excerpt": "Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation.",
+      "published": "2026-10-23T06:48:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8d/live/dd0325a0-cea6-11f1-bbfb-357cf921a5e9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T08:44:02.250Z"
+    },
+    {
       "id": "2a127701b0ef470d",
       "guid": "https://www.bbc.co.uk/sport/football/articles/crp3gde84j4zo#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/crp3gde84j4zo",
@@ -12,6 +45,39 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/545f/live/40c6d750-ce73-11f1-bb2b-2dddb612ccda.jpg",
       "type": "article",
       "addedAt": "2026-10-23T07:50:09.271Z"
+    },
+    {
+      "id": "e526e8bff86d0451",
+      "guid": "https://www.bbc.co.uk/sport/rugby-league/articles/cv1j3zn9yjn2o#8",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cv1j3zn9yjn2o",
+      "title": "What happens in Vegas, stays in Vegas for England",
+      "excerpt": "England face Australia at the Women's Rugby League World Cup on Saturday determined to show they have moved on from the nightmare of their last meeting in Las Vegas 19 months ago.",
+      "published": "2026-10-23T06:21:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2d1/live/85de3010-cc5a-11f1-9b08-37acac6be953.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T08:44:02.250Z"
+    },
+    {
+      "id": "87b409b6857e9f48",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo",
+      "title": "Pride, prestige, profile - the great Ballon d'Or campaign",
+      "excerpt": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years.",
+      "published": "2026-10-23T06:06:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a748/live/9b33db90-cd54-11f1-b962-b7ff822cde72.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T08:44:02.250Z"
+    },
+    {
+      "id": "63e31820d13bfca8",
+      "guid": "https://www.bbc.co.uk/sport/athletics/articles/cmgel5vd5gqno#8",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cmgel5vd5gqno",
+      "title": "The World Treadmill Championship - pitching elite runners against amateurs",
+      "excerpt": "Everyday runners are being given the chance to compete alongside elite athletes in the first World Treadmill Championship, a new global 5km competition.",
+      "published": "2026-10-23T05:58:25.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f5/live/2a6805b0-ce28-11f1-9f18-490cec60aa0f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T08:44:02.250Z"
     },
     {
       "id": "c1113a7020d2867c",
