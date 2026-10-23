@@ -3,6 +3,39 @@
   "sourceId": "le-figaro",
   "items": [
     {
+      "id": "1ec4a5ded1c1d861",
+      "guid": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
+      "title": "EN DIRECT - Mobilisation du 24 octobre : Macron en première ligne avec les lycéens et les forces de l’ordre, Lecornu attendu à Limoges",
+      "excerpt": "Après plus d’un mois de crise, le chef de l’État reçoit les organisations lycéennes pour la première fois depuis le début de la contestation et va à la rencontre des forces de l’ordre, à la veille d’une nouvelle journée de mobilisations strictement encadrées.",
+      "published": "2026-10-23T04:26:03.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/23/62273129d068f8e7c8932a5e14a774820885d46ba970a13b63fea0e737aabf31.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T04:40:36.584Z"
+    },
+    {
+      "id": "172c63158dd5889b",
+      "guid": "https://www.lefigaro.fr/conjoncture/oat-spread-effet-boule-de-neige-le-petit-lexique-pour-comprendre-ce-qui-se-joue-autour-de-la-dette-francaise-20261023",
+      "link": "https://www.lefigaro.fr/conjoncture/oat-spread-effet-boule-de-neige-le-petit-lexique-pour-comprendre-ce-qui-se-joue-autour-de-la-dette-francaise-20261023",
+      "title": "OAT, spread, effet boule de neige… Le petit lexique pour comprendre ce qui se joue autour de la dette française",
+      "excerpt": "DÉCRYPTAGE - Taux d’emprunt en hausse, dégradation de la note souveraine, charge d’intérêts croissante… Les signaux d’alerte se multiplient pour les finances publiques françaises. Pour bien en comprendre les enjeux, Le Figaro vous explique cinq notions clés.",
+      "published": "2026-10-23T04:20:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/22/1624f8b94f696c2a11665831c16c9fec79b0533e014af4ff03d8af49e0f07f6b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T04:40:36.584Z"
+    },
+    {
+      "id": "2469fd2fbbb57dc3",
+      "guid": "https://www.lefigaro.fr/conjoncture/dette-pourquoi-moody-s-a-toutes-les-raisons-de-degrader-la-note-de-la-france-ce-vendredi-20261023",
+      "link": "https://www.lefigaro.fr/conjoncture/dette-pourquoi-moody-s-a-toutes-les-raisons-de-degrader-la-note-de-la-france-ce-vendredi-20261023",
+      "title": "Dette : pourquoi Moody’s a toutes les raisons de dégrader la note de la France ce vendredi",
+      "excerpt": "DÉCRYPTAGE - L’agence de notation américaine, qui s’est illustrée ces derniers semestres par sa mansuétude, pourrait aligner ce vendredi son appréciation de la dette souveraine française sur celle de ses consœurs Standard & Poor’s et Fitch.",
+      "published": "2026-10-23T04:00:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/22/d9482183a598d88788fc6dac23809674fbe2666943447aa8231bec217c078b90.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T04:40:36.584Z"
+    },
+    {
       "id": "ea34f01078e7c4ce",
       "guid": "https://www.lefigaro.fr/sports/formule-1/formule-1-lewis-hamilton-salue-le-retour-d-un-grand-prix-en-afrique-20261023",
       "link": "https://www.lefigaro.fr/sports/formule-1/formule-1-lewis-hamilton-salue-le-retour-d-un-grand-prix-en-afrique-20261023",
@@ -256,6 +289,17 @@
       "addedAt": "2026-10-22T18:47:31.428Z"
     },
     {
+      "id": "4803715bb4cf44cf",
+      "guid": "https://www.lefigaro.fr/economie/la-dette-francaise-sous-sarkozy-hollande-et-macron-recit-de-quinze-ans-de-derapage-incontrole-20261022",
+      "link": "https://www.lefigaro.fr/economie/la-dette-francaise-sous-sarkozy-hollande-et-macron-recit-de-quinze-ans-de-derapage-incontrole-20261022",
+      "title": "La dette française sous Sarkozy, Hollande et Macron : récit de quinze ans de dérapage incontrôlé",
+      "excerpt": "RÉCIT - Depuis qu’elle a perdu sa note « triple A » en janvier 2012, la France n’a jamais redressé la barre de ses comptes publics. Elle s’est enfoncée par paliers et se retrouve aujourd’hui plongée dans une crise financière inédite. L’agence Moody’s pourrait dégrader le pays ce vendredi soir.",
+      "published": "2026-10-22T18:00:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/22/86178c19bb98cd36dfe35a83db215e8a096dcb0fe687b7182dc343477b73ff46.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T04:40:36.584Z"
+    },
+    {
       "id": "371d96144bc3ce17",
       "guid": "https://www.lefigaro.fr/politique/conseil-de-securite-a-l-elysee-reunion-a-matignon-emmanuel-macron-et-sebastien-lecornu-preparent-un-week-end-tendu-20261022",
       "link": "https://www.lefigaro.fr/politique/conseil-de-securite-a-l-elysee-reunion-a-matignon-emmanuel-macron-et-sebastien-lecornu-preparent-un-week-end-tendu-20261022",
@@ -309,6 +353,17 @@
       "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/22/5c6679220f9278e7593727660c9b9f5e9eeffc32dc608032021369fac50aec29.jpg",
       "type": "article",
       "addedAt": "2026-10-22T17:39:04.701Z"
+    },
+    {
+      "id": "30e38b837e09b799",
+      "guid": "https://www.lefigaro.fr/societes/de-nombreuses-taches-administratives-peuvent-etre-remplacees-dans-les-banques-les-reductions-de-postes-liees-a-l-ia-s-intensifient-20261022",
+      "link": "https://www.lefigaro.fr/societes/de-nombreuses-taches-administratives-peuvent-etre-remplacees-dans-les-banques-les-reductions-de-postes-liees-a-l-ia-s-intensifient-20261022",
+      "title": "«De nombreuses tâches administratives peuvent être remplacées» : dans les banques, les réductions de postes liées à l’IA s’intensifient",
+      "excerpt": "Le groupe britannique Barclays annoncé ce jeudi la suppression de 5 000 emplois, soit 5 % de ses effectifs, grâce aux progrès de l’intelligence artificielle. HSBC prévoit également des coupes massives en Grande-Bretagne.",
+      "published": "2026-10-22T17:32:41.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/10/22/7e447a0528b5e988d8546b7e341152cb22e35ac368db3bb300d8def38571363e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T04:40:36.584Z"
     },
     {
       "id": "8b235401a3caab99",
