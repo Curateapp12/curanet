@@ -3,6 +3,50 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "47234b822080ed07",
+      "guid": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+      "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+      "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+      "excerpt": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+      "published": "2026-10-22T22:25:33.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-1152x648-1792704912.png",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "9423c8063b2efc30",
+      "guid": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "excerpt": "Markers released top-line results today after previously reporting the trial succeeded.",
+      "published": "2026-10-22T22:12:19.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "724bb9eec32d8ed7",
+      "guid": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "excerpt": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
+      "published": "2026-10-22T21:52:31.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "c7b5a9ccdc95aa92",
+      "guid": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "excerpt": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+      "published": "2026-10-22T21:07:09.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
       "id": "49672d89136f62eb",
       "guid": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
       "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",

@@ -3,6 +3,127 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "bda1cd6c1c5dc3d5",
+      "guid": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o#1",
+      "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o",
+      "title": "Amber warning in place as Storm Austen hits parts of UK",
+      "excerpt": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
+      "published": "2026-10-23T00:08:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e2/live/63d08560-ce33-11f1-a86f-f78305ec9987.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "954c381e8fac4db3",
+      "guid": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "excerpt": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry.",
+      "published": "2026-10-22T23:55:39.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4b6/live/7d752ed0-ce60-11f1-b687-5dbe43ddcc33.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "080dd69cc7395ed5",
+      "guid": "https://www.bbc.co.uk/news/articles/cwly393mj7y3o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cwly393mj7y3o",
+      "title": "The Papers: 'Prepare for the worst' and 'Covid report fallout'",
+      "excerpt": "Defence Secretary Wes Streeting's national campaign on preparedness for cyber or climate emergencies dominates today's papers.",
+      "published": "2026-10-22T23:54:53.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab41/live/bc8799c0-ce68-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "a3431024c4c9c34b",
+      "guid": "https://www.bbc.co.uk/news/articles/cm369kkg92x6o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm369kkg92x6o",
+      "title": "Call of Duty promises a return to form - but can it compete with GTA?",
+      "excerpt": "Modern Warfare 4 faces an uphill battle after last year's Call of Duty missed the mark with fans.",
+      "published": "2026-10-22T23:20:48.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb0/live/6cedc790-cc92-11f1-94e6-edd4c60b2e1d.png",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "072826d2cb9ef74c",
+      "guid": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o",
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "excerpt": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+      "published": "2026-10-22T23:20:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c74/live/1831c620-ce40-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "61e9a75edd4d2c83",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5yez87qwvdo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yez87qwvdo",
+      "title": "I thought I was dying but it was health anxiety - here's how to recognise the signs",
+      "excerpt": "Hollie Sharman shares her experience of health anxiety and a doctor advises on how to manage symptoms.",
+      "published": "2026-10-22T23:20:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7da/live/16aa3610-bc08-11f1-90b9-913e4354ed35.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "7f5d87ca8a1de2f6",
+      "guid": "https://www.bbc.co.uk/news/articles/cke8r6543gplo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r6543gplo",
+      "title": "Private care home investors a risk to public sector, regulator says",
+      "excerpt": "US investors are buying up UK care homes - a situation regulators say they are \"watching carefully\" in case it threatens plans for a National Care Service.",
+      "published": "2026-10-22T23:20:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2666/live/d07c6a50-ce31-11f1-9f18-490cec60aa0f.png",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "34794b7530855ffb",
+      "guid": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo",
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "excerpt": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+      "published": "2026-10-22T23:16:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0791/live/d5705ef0-ce21-11f1-906e-e3128518d85d.png",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "a94b17bd40aab7e3",
+      "guid": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "excerpt": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "published": "2026-10-22T23:16:16.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6bf/live/fa5ffcb0-ce31-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "df5d8c4b237d9d40",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo",
+      "title": "Give more people weight loss jabs on the NHS, say MPs",
+      "excerpt": "Current plans for 6% of eligible patients to get Mounjaro by 2028 unambitious, say MPs.",
+      "published": "2026-10-22T23:06:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/485d/live/4dbd22c0-ce37-11f1-a86f-f78305ec9987.png",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
+      "id": "d5a669c639235905",
+      "guid": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo",
+      "title": "Grid operator says lights will stay on this winter after concerns",
+      "excerpt": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+      "published": "2026-10-22T23:04:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T00:55:05.379Z"
+    },
+    {
       "id": "46784d4c7301966c",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo",
