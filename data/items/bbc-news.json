@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "7384e5e9f05be7d7",
+      "guid": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+      "excerpt": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+      "published": "2026-10-23T13:37:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824e/live/d493de60-cee1-11f1-bdca-23c64447299f.png",
+      "type": "article",
+      "addedAt": "2026-10-23T13:48:46.793Z"
+    },
+    {
+      "id": "c51f9905eed860e6",
+      "guid": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo",
+      "title": "Why should I stockpile and what will I need?",
+      "excerpt": "The UK government has warned households to have three days of essential supplies on hand.",
+      "published": "2026-10-23T13:30:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d39/live/0a1fb990-cec0-11f1-ae9c-0303957c36f8.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T13:48:46.793Z"
+    },
+    {
       "id": "47320051fdf53f31",
       "guid": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo#1",
       "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo",
@@ -23,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d09/live/8d65afc0-ceda-11f1-8507-45cb00a1c41c.jpg",
       "type": "article",
       "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
+      "id": "666eba96da32f389",
+      "guid": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o",
+      "title": "Denmark to ban mink farming in government U-turn",
+      "excerpt": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
+      "published": "2026-10-23T12:17:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/ed7c2b60-cebb-11f1-ae9c-0303957c36f8.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T13:48:46.793Z"
     },
     {
       "id": "335f2f4478597066",
@@ -210,6 +243,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f19/live/722f73a0-ce1a-11f1-bbba-c577fd901ff7.png",
       "type": "article",
       "addedAt": "2026-10-23T12:49:47.722Z"
+    },
+    {
+      "id": "7e1ac076fddd544b",
+      "guid": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o",
+      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+      "excerpt": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
+      "published": "2026-10-23T06:26:25.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a379/live/0b1863f0-ce1c-11f1-906e-e3128518d85d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T13:48:46.793Z"
     },
     {
       "id": "2a127701b0ef470d",

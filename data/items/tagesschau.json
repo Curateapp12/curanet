@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "18bfee5c21850dd6",
+      "guid": "e085652d-94db-40dc-8acc-5d7dde86df80",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html",
+      "title": "Marktbericht: Nasdaq kommt unter die Räder",
+      "excerpt": "Der KI-Boom beherrscht weiter die Wall Street. Die erste Euphorie ist aber vorbei - die Anleger wollen vielmehr endlich Ergebnisse der horrenden KI-Investitionen sehen. Meta ist ein warnendes Beispiel.",
+      "published": "2026-10-23T13:16:51.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2f742857-a9bd-47f6-afe6-a980911d13eb/AAABoWgIKxA/AAABnSSvrFg/16x9-big/meta-196.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-23T13:48:46.793Z"
+    },
+    {
+      "id": "ed3bc1a30e8449b1",
+      "guid": "3ec91b20-296a-460b-b3bd-8987fa4dfccd",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnenangriff-handelsschiff-100.html",
+      "title": "Erneut mutmaßlicher Drohnenangriff auf Schiff vor Rumäniens Küste",
+      "excerpt": "Ein weiteres Handelsschiff soll Medienberichten zufolge nahe der rumänischen Küste von einer Drohne angegriffen worden sein. Es gebe mindestens ein Todesopfer. Rumäniens Präsident sieht die Verantwortung erneut bei Russland.",
+      "published": "2026-10-23T13:01:59.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c2d520a4-c74c-41b1-97fb-f61c8d191afc/AAABoWj0Fow/AAABnSSvrFg/16x9-big/oeltanker-khoryv-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-23T13:48:46.793Z"
+    },
+    {
+      "id": "9893d60c277d0b11",
+      "guid": "16b36fc0-5317-4a7b-b3d3-cada3381be75",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
+      "title": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
+      "excerpt": "Nach den schweren Ausschreitungen in Mailand reagiert Italiens Regierung mit einem neuen Sicherheitsdekret. Die sozialen Ursachen bleiben. Ebenso die Frage: Wer waren die meist sehr jungen Randalierer? Von V. Schälter.",
+      "published": "2026-10-23T12:55:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c580c6bb-d066-4257-82af-894a4547f5fd/AAABoWizWQA/AAABnSSvrFg/16x9-big/proteste-mailand-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-23T13:48:46.793Z"
+    },
+    {
       "id": "b4843d35878310a2",
       "guid": "564bac67-ab96-435c-8ea0-f9a5b7b04520",
       "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
