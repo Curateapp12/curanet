@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "ce51420c00602b16",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10791322/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10791322/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-23T03:39:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T03:42:04.693Z"
+    },
+    {
+      "id": "ec62f00a83f028da",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10791321/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10791321/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-23T03:21:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T03:42:04.693Z"
+    },
+    {
+      "id": "f6ae077d9811b7ae",
+      "guid": "https://ici.radio-canada.ca/sports/2295230/troy-stecher-victoire-maple-leafs",
+      "link": "https://ici.radio-canada.ca/sports/2295230/troy-stecher-victoire-maple-leafs",
+      "title": "Troy Stecher donne la victoire aux Maple Leafs en fin de match",
+      "excerpt": "Sergei Bobrovsky a réalisé 21 arrêts face aux Rangers dans une victoire de 5-4.",
+      "published": "2026-10-23T03:07:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/troy-stecher-victoire-maple-leafs.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T03:42:04.693Z"
+    },
+    {
+      "id": "dc723a32ee5501f2",
+      "guid": "https://ici.radio-canada.ca/sports/2295233/senateurs-ottawa-sharks-san-jose",
+      "link": "https://ici.radio-canada.ca/sports/2295233/senateurs-ottawa-sharks-san-jose",
+      "title": "Les Sharks en pleine maîtrise à Ottawa",
+      "excerpt": "San José enregistre sa première victoire en temps réglementaire de la saison.",
+      "published": "2026-10-23T02:53:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/nolan-allan-jake-sanderson.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T03:42:04.693Z"
+    },
+    {
       "id": "4f8b178d307f12c6",
       "guid": "https://ici.radio-canada.ca/sports/2295217/patinage-vitesse-courte-piste-vancouver",
       "link": "https://ici.radio-canada.ca/sports/2295217/patinage-vitesse-courte-piste-vancouver",
