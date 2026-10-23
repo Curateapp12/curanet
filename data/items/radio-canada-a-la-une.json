@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "88ba5a663f71e1e4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295367/france-mort-blesses-macron-attentat-terroriste-raciste",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295367/france-mort-blesses-macron-attentat-terroriste-raciste",
+      "title": "Fusillade mortelle en banlieue de Paris : Macron évoque un « attentat terroriste raciste »",
+      "excerpt": "Une personne a été tuée et cinq autres ont été blessées par un homme soupçonné d'en vouloir aux immigrants.",
+      "published": "2026-10-23T19:15:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/macron-ali-rabeh-trappes.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T19:40:59.200Z"
+    },
+    {
+      "id": "3a5e48cacc30be10",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295354/cisjordanie-deux-soldats-tues-netanyahou-israel",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295354/cisjordanie-deux-soldats-tues-netanyahou-israel",
+      "title": "Cisjordanie : deux soldats tués, Nétanyahou annonce une opération militaire majeure",
+      "excerpt": "L’attaque intervient à quelques jours des législatives, où le premier ministre jouera sa survie politique.",
+      "published": "2026-10-23T18:45:29.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hebron-cisjordanie-attaque-soldats-israeliens.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T19:40:59.200Z"
+    },
+    {
       "id": "3440077fbeb7daac",
       "guid": "https://ici.radio-canada.ca/nouvelle/2295362/trump-tarif-droit-douane-election",
       "link": "https://ici.radio-canada.ca/nouvelle/2295362/trump-tarif-droit-douane-election",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/imagerie/16x9/derniere-heure-panneau-nouvelle-actu-alerte.jpg",
       "type": "article",
       "addedAt": "2026-10-23T18:47:51.428Z"
+    },
+    {
+      "id": "5f4b9ef080308232",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295351/starshield-trump-ukraine-limitation",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295351/starshield-trump-ukraine-limitation",
+      "title": "Des négociations Russie-Ukraine prévues à Abou Dhabi en novembre, selon Moscou",
+      "excerpt": "Les pourparlers se dérouleraient sous médiation américaine, affirme le Kremlin.",
+      "published": "2026-10-23T18:39:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/russie-raffinerie-attaquee-ukraine.jpg",
+      "type": "article",
+      "addedAt": "2026-10-23T19:40:59.200Z"
     },
     {
       "id": "9e0e07e36fac5f18",
