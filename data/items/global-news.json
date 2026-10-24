@@ -3,6 +3,50 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "4245fe0d75b7a40a",
+      "guid": "https://globalnews.ca/?p=12119818",
+      "link": "https://globalnews.ca/news/12119818/gunmen-open-fire-jordan-funeral/",
+      "title": "7 dead, 40 wounded after gunmen open fire at funeral in Jordan",
+      "excerpt": "The shooting took place at a Greek Orthodox church in Karak, about 90 kilometers (55 miles) south of the capital, Amman.",
+      "published": "2026-10-24T12:01:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Jordan-e1792843233467.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-24T12:46:41.710Z"
+    },
+    {
+      "id": "f97acc35278e3dd0",
+      "guid": "https://globalnews.ca/?p=12119812",
+      "link": "https://globalnews.ca/news/12119812/police-mobilized-france-protests/",
+      "title": "Up to 70,000 police mobilized to curb violence at France protests",
+      "excerpt": "In Paris, authorities restricted the main march to the city’s southeastern edge, keeping it away from the center.",
+      "published": "2026-10-24T11:49:54.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/France-protests-2-e1792842583849.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-24T12:46:41.710Z"
+    },
+    {
+      "id": "cc850cc3e8cd705d",
+      "guid": "https://globalnews.ca/?p=12119254",
+      "link": "https://globalnews.ca/news/12119254/call-of-the-wilde-jacob-fowler-shines-again-in-a-convincing-win-for-the-montreal-canadiens-in-chicago/",
+      "title": "Call of the Wilde: Jacob Fowler shines again in a convincing win for the Montreal Canadiens in Chicago",
+      "excerpt": "The challenge is on for the Habs to rise above losing their best player. Night one in Chicago was an impressive one for the Montreal Canadiens beating the Blackhawks 4-1.",
+      "published": "2026-10-24T11:48:49.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP177138755.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-24T12:46:41.710Z"
+    },
+    {
+      "id": "eed7df06da73cf5a",
+      "guid": "https://globalnews.ca/?p=12119807",
+      "link": "https://globalnews.ca/news/12119807/ukraine-russia-peace-talks-2/",
+      "title": "Ukraine and Russia eye new peace talks but steep obstacles remain",
+      "excerpt": "Ukraine and Russia have signaled their willingness to resume U.S.-brokered peace talks and are backing a humanitarian mission led by First lady Melania Trump.",
+      "published": "2026-10-24T11:43:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Kyiv-destroyed-e1792842187620.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-24T12:46:41.710Z"
+    },
+    {
       "id": "cde44f42ecf914e8",
       "guid": "https://globalnews.ca/?p=12119801",
       "link": "https://globalnews.ca/news/12119801/canada-opposition-us-embargo-cuba/",
