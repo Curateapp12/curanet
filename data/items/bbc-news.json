@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "072814976c412490",
+      "guid": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+      "excerpt": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "published": "2026-10-24T17:21:42.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T17:37:16.167Z"
+    },
+    {
+      "id": "9821954af92d7811",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro",
+      "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
+      "excerpt": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
+      "published": "2026-10-24T16:58:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa12/live/c9b08670-cfb7-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T17:37:16.167Z"
+    },
+    {
       "id": "1b257d72b17875b1",
       "guid": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o#3",
       "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
@@ -23,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/e4151260-cfc1-11f1-9ecd-8be45051afbd.jpg",
       "type": "article",
       "addedAt": "2026-10-24T16:39:50.286Z"
+    },
+    {
+      "id": "3db63a5b79224012",
+      "guid": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o",
+      "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+      "excerpt": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+      "published": "2026-10-24T15:13:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T17:37:16.167Z"
     },
     {
       "id": "ba7e8ca13bf6e2f3",
