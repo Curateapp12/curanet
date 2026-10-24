@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "31faaaa019f9d5c8",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295513/mark-carney-visite-turquie-istanbul",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295513/mark-carney-visite-turquie-istanbul",
+      "title": "Carney conclut sa visite en Turquie par la visite d’une mosquée à Istanbul",
+      "excerpt": "Mark Carney et Recep Tayyip Erdogan ont scellé un nouveau partenariat stratégique entre Ottawa Ankara.",
+      "published": "2026-10-24T14:35:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-istanbul-mosquee.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T14:38:47.447Z"
+    },
+    {
       "id": "18ef89f9e4b68dab",
       "guid": "https://ici.radio-canada.ca/info/en-direct/1014611/manifestations-france-lyceens-mobilisation",
       "link": "https://ici.radio-canada.ca/info/en-direct/1014611/manifestations-france-lyceens-mobilisation",
@@ -100,6 +111,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/resultat-election-federale-colombie-britannique.png",
       "type": "article",
       "addedAt": "2026-10-24T00:57:31.966Z"
+    },
+    {
+      "id": "b3da89e252c2acd7",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295424/guerre-remorquage-meurtre-mineurs-plaidoyer",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295424/guerre-remorquage-meurtre-mineurs-plaidoyer",
+      "title": "Guerre du remorquage : le mineur écope de 7 ans et 9 mois pour meurtre",
+      "excerpt": "L'individu a plaidé coupable cet été d'une accusation de meurtre prémédité d'un chauffeur en 2024 à Toronto.",
+      "published": "2026-10-23T22:29:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/guerre-remorquage-meurtre-arrestation-trois-mineurs-plaidoyer-48397.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T14:38:47.447Z"
     },
     {
       "id": "b6ce3f41e77408b1",
