@@ -3,6 +3,83 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "f06838f075fde3da",
+      "guid": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro#2",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "excerpt": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "published": "2026-10-24T23:15:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T23:34:38.418Z"
+    },
+    {
+      "id": "a67880afff42e360",
+      "guid": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o",
+      "title": "Why the charts are full of old songs - and so are your playlists",
+      "excerpt": "The chart is full is full of old music and classic songs are dominating streaming services. But why?",
+      "published": "2026-10-24T23:05:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/cc5e7710-ce04-11f1-bc2e-018d645d8d21.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T23:34:38.418Z"
+    },
+    {
+      "id": "8405cbaedcd34125",
+      "guid": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do#2",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do",
+      "title": "The bitter row over military service that could shape Israel's future",
+      "excerpt": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
+      "published": "2026-10-24T23:03:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e2/live/495ec3b0-ced1-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T23:34:38.418Z"
+    },
+    {
+      "id": "d6eea480e67b4ef7",
+      "guid": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo#2",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo",
+      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+      "excerpt": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
+      "published": "2026-10-24T23:03:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/d973bcb0-cefb-11f1-accf-3309656ad0bb.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T23:34:38.418Z"
+    },
+    {
+      "id": "ec1f7199bc59dfd5",
+      "guid": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo",
+      "title": "Ukraine depends on Starlink - can Europe plug the gap?",
+      "excerpt": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
+      "published": "2026-10-24T23:00:08.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T23:34:38.418Z"
+    },
+    {
+      "id": "1bdd147528550844",
+      "guid": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo#2",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo",
+      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
+      "excerpt": "More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi.",
+      "published": "2026-10-24T22:58:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c2/live/fb2fe4e0-cef7-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T23:34:38.418Z"
+    },
+    {
+      "id": "ac48290b66556bb8",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0033jlx#10",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0033jlx",
+      "title": "Watch Match of the Day on iPlayer",
+      "excerpt": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
+      "published": "2026-10-24T22:40:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pj99mq.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T23:34:38.418Z"
+    },
+    {
       "id": "eff777b5b7c46afd",
       "guid": "https://www.bbc.co.uk/news/articles/cmqln4vq1dn1o#3",
       "link": "https://www.bbc.co.uk/news/articles/cmqln4vq1dn1o",
