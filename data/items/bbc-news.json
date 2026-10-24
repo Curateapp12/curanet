@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "72399fd31e93a529",
+      "guid": "https://www.bbc.co.uk/iplayer/live/bbcone#9",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcone",
+      "title": "Watch: Match of the Day",
+      "excerpt": "Highlights from five Premier League games, with last season’s top two both in action.",
+      "published": "2026-10-24T21:38:17.500Z",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pj99mq.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T21:38:17.500Z"
+    },
+    {
+      "id": "9de8e3735d0289f5",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo",
+      "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+      "excerpt": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
+      "published": "2026-10-24T21:14:42.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f3/live/2deade60-cfea-11f1-930c-2509b9d0398f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T21:38:17.500Z"
+    },
+    {
+      "id": "243bd4ec36812282",
+      "guid": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "excerpt": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "published": "2026-10-24T21:09:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6090/live/bf46ec40-cfe6-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T21:38:17.500Z"
+    },
+    {
       "id": "1497d6290dcd8356",
       "guid": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#1",
       "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do",
@@ -562,6 +595,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4157/live/a8c4a4d0-cf32-11f1-a701-fddedf244c16.jpg",
       "type": "article",
       "addedAt": "2026-10-23T23:37:50.328Z"
+    },
+    {
+      "id": "5923b89c9e0766d5",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo#10",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo",
+      "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
+      "excerpt": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.",
+      "published": "2026-10-23T21:54:54.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/def54220-cf29-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T21:38:17.500Z"
     },
     {
       "id": "e8125a317a4525de",
