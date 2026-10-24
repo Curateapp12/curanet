@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "e8897c6923096868",
+      "guid": "79bce7e8-52bc-477a-88f4-a756896b1b90",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html",
+      "title": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
+      "excerpt": "Flávio Bolsonaro will seinen verurteilten Vater als Präsident beerben - und wohl auch aus der Haft befreien. Trotz allem: Für seine Anhänger ist der Familienname sein wichtigstes Kapital bei der heutigen Stichwahl. Von A. Herrberg und L. Bilard.",
+      "published": "2026-10-24T13:36:26.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/323e9df3-a08e-458d-a941-e26927992033/AAABoW4ggCs/AAABnSSvrFg/16x9-big/flavio-jair-bolsonaro-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-24T13:38:34.012Z"
+    },
+    {
+      "id": "920f685ef69d56e4",
+      "guid": "35af3f54-3de1-401d-96a9-e56a50070290",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-100.html",
+      "title": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
+      "excerpt": "Eine Woche nach den schweren Ausschreitungen in Frankreich finden heute erneut große Demonstrationen statt. Bis zum frühen Nachmittag gab es mehr als 100 Festnahmen. 70.000 Ordnungskräfte sind im Einsatz.",
+      "published": "2026-10-24T13:33:20.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6f9022d7-a842-4869-96d3-310a8150d010/AAABoW4drB4/AAABnSSvrFg/16x9-big/paris-ordnungskraefte-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-24T13:38:34.012Z"
+    },
+    {
+      "id": "dc88bddd6f4bb60b",
+      "guid": "6e530b87-2a9d-472d-9c55-c1d6e0fe7bef",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
+      "title": "Israelische Armee startet Einsatz in Hebron",
+      "excerpt": "Nach dem tödlichen Angriff auf Soldaten hat Israel in Hebron im Westjordanland einen Militäreinsatz begonnen. Premier Netanjahu kündigte eine \"sehr große Überraschung\" für die Palästinensische Autonomiebehörde an.",
+      "published": "2026-10-24T13:23:19.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2a396c0a-e923-4711-996b-aa3340ab3b09/AAABoW4Uff8/AAABnSSvrFg/16x9-big/westjordanland-hebron-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-24T13:38:34.012Z"
+    },
+    {
       "id": "2c1cdb71e8f75dc9",
       "guid": "79aa102f-443b-49cb-b67a-b8fff162baf3",
       "link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
