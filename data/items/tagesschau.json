@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "8d3ffd0373f560e3",
+      "guid": "69c82376-3928-4c50-9d1b-64365d9c9ed6",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
+      "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+      "excerpt": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen.",
+      "published": "2026-10-24T11:24:45.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0232602b-a10d-4723-ad50-6e379705e159/AAABoW2n8k0/AAABnSSvrFg/16x9-big/starlink-ukraine-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-24T11:38:40.137Z"
+    },
+    {
+      "id": "c052a4dc60552463",
+      "guid": "479b675e-3783-412c-92a3-07c5c2853894",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-chef-klingbeil-debatte-100.html",
+      "title": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
+      "excerpt": "Noch ist offen, ob SPD-Chef Klingbeil noch einmal für den Posten kandidiert. Der Juso-Vorsitzende Türmer hat eine klare Meinung: Er fordert einen Neustart an der Parteispitze. Bremens Bürgermeister Bovenschulte hält an Klingbeil fest.",
+      "published": "2026-10-24T10:52:30.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/69afef09-1cd2-4e8f-b67f-4817b4cb0449/AAABoW1nid8/AAABnSSvrFg/16x9-big/tuermer-klingbeil-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-24T11:38:40.137Z"
+    },
+    {
+      "id": "4321bac32b78213a",
+      "guid": "363ece17-cf30-4948-9786-f452c6d9906f",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html",
+      "title": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
+      "excerpt": "Schnell mit dem Handy bei Bahn oder Öffis einchecken - und der günstigste Tarif wird berechnet. Am Monatsende kostet das Ganze höchstens so viel wie das Deutschlandticket. Der Verkehrsminister findet die Idee gut.",
+      "published": "2026-10-24T10:46:34.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0b9dfd8f-63ed-469d-9375-373e707e1d29/AAABoW1PJPI/AAABnSSvrFg/16x9-big/regionalzug-126.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-24T11:38:40.137Z"
+    },
+    {
       "id": "9f18e0a3b84a9994",
       "guid": "302c2966-6b05-4701-9a6f-bb3f3cda3665",
       "link": "https://www.tagesschau.de/ausland/asien/braende-indonesien-100.html",
