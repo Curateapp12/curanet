@@ -3,6 +3,61 @@
   "sourceId": "le-figaro",
   "items": [
     {
+      "id": "d060e6602392ae5d",
+      "guid": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024",
+      "title": "EN DIRECT - Manifestations du 24 octobre : 70.000 forces de l’ordre mobilisées dans tout le pays, le congrès du RN sous haute surveillance",
+      "excerpt": "Une semaine après les violences du 17 octobre, une nouvelle journée de mobilisation se tient ce samedi sous haute surveillance dans plusieurs villes de France, avec une attention particulière à Orléans, où se tient le congrès du RN.",
+      "published": "2026-10-24T05:33:02.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/24/f497c9c214024c9684531098a3edd7c26e075bc194d09e1a575e25592d874f0d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T05:40:05.505Z"
+    },
+    {
+      "id": "b1a234b924b42a28",
+      "guid": "https://www.lefigaro.fr/actualite-france/on-va-tous-se-transformer-en-sauvages-alors-ces-francais-excedes-et-terrifies-face-a-l-impuissance-publique-20261024",
+      "link": "https://www.lefigaro.fr/actualite-france/on-va-tous-se-transformer-en-sauvages-alors-ces-francais-excedes-et-terrifies-face-a-l-impuissance-publique-20261024",
+      "title": "«On va tous se transformer en sauvages, alors ?» : ces Français excédés et terrifiés face à l’impuissance publique",
+      "excerpt": "RÉCIT - Alors que plus de six citoyens sur dix envisagent désormais de se protéger par leurs propres moyens, certains font le choix radical de quitter la France.",
+      "published": "2026-10-24T05:30:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/23/96fc8a3cd9d876f4b8999a0234ac354dc0416bf795bc23b32db9355f51e1025d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T05:40:05.505Z"
+    },
+    {
+      "id": "18c25db52248f5d2",
+      "guid": "https://www.lefigaro.fr/meteo/meteo-le-pas-de-calais-en-vigilance-orange-pluie-inondation-samedi-soir-20261024",
+      "link": "https://www.lefigaro.fr/meteo/meteo-le-pas-de-calais-en-vigilance-orange-pluie-inondation-samedi-soir-20261024",
+      "title": "Météo : le Pas-de-Calais en vigilance orange pluie-inondation samedi soir",
+      "excerpt": "Le département entrera en alerte orange à 21 heures et doit y rester jusqu’à 4 heures dimanche en raison du passage de la perturbation Boelo après la tempête Austen.",
+      "published": "2026-10-24T05:27:30.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2250_crop/2026/10/24/6995be386b2e792e559d4352a206f77c65838824cf3322d6c7989e1e8642ff5f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T05:40:05.505Z"
+    },
+    {
+      "id": "d271aff571414526",
+      "guid": "https://www.lefigaro.fr/international/pays-endettes-malaise-existentiel-de-la-jeunesse-dans-le-sillage-de-la-france-pourquoi-la-contestation-sociale-a-gagne-toute-l-europe-20261024",
+      "link": "https://www.lefigaro.fr/international/pays-endettes-malaise-existentiel-de-la-jeunesse-dans-le-sillage-de-la-france-pourquoi-la-contestation-sociale-a-gagne-toute-l-europe-20261024",
+      "title": "Pays endettés, malaise existentiel de la jeunesse… Dans le sillage de la France, pourquoi la contestation sociale a gagné toute l’Europe",
+      "excerpt": "RÉCIT - Ne se sentant ni écoutée, ni représentée par ses gouvernants, la jeunesse européenne se soulève depuis plusieurs semaines. Les pays dont la dette publique explose peinent à trouver des réponses aux revendications.",
+      "published": "2026-10-24T05:00:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/2998x1686_crop/2026/10/23/835932b965aed5c74a9b3013f80745eb4f2c0d94ca9ad5f6ac3e2f4404029188.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T05:40:05.505Z"
+    },
+    {
+      "id": "7bd74bd09ba9b460",
+      "guid": "https://www.lefigaro.fr/international/vanuatu-un-seisme-de-magnitude-7-2-declenche-une-alerte-au-tsunami-20261024",
+      "link": "https://www.lefigaro.fr/international/vanuatu-un-seisme-de-magnitude-7-2-declenche-une-alerte-au-tsunami-20261024",
+      "title": "Vanuatu : un double séisme déclenche une alerte au tsunami",
+      "excerpt": "Un double séisme de magnitude 6,9 et 6,3 s’est produit samedi au large de l’archipel de Vanuatu, dans le Pacifique.",
+      "published": "2026-10-24T03:35:23.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/24/83c5bf216e687026337c90b0d62c776398d1c22dc25c6562b9ff6e2efdf1455c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-24T05:40:05.505Z"
+    },
+    {
       "id": "7f83243b6ed1b8cf",
       "guid": "https://www.lefigaro.fr/international/allemagne-un-suspect-arrete-apres-un-incendie-d-ampleur-au-nid-d-aigle-de-hitler-20261024",
       "link": "https://www.lefigaro.fr/international/allemagne-un-suspect-arrete-apres-un-incendie-d-ampleur-au-nid-d-aigle-de-hitler-20261024",
