@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "9e8f060397f4d2d1",
+      "guid": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "excerpt": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+      "published": "2026-10-25T15:49:38.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-25T16:40:16.302Z"
+    },
+    {
       "id": "a6ce31709924c3c2",
       "guid": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
       "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
