@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "283c5de4c388fa68",
+      "guid": "506c39a0efaf35fcb4ba584d36f6a8b7",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-25/vies-reelles-vies-virtuelles/ici-maintenant-ensemble.php",
+      "title": "Vies réelles, vies virtuelles | Ici, maintenant, ensemble",
+      "excerpt": "Patrice St-Louis a vécu l’avènement du numérique avec les mIRC, ICQ, MSN Messenger et les forums de discussion. Sur un internet ne tenant qu’à un fil, le fil téléphonique.",
+      "published": "2026-10-25T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/aefed4b2318e333a80e109da33cd7e1f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T09:39:54.239Z"
+    },
+    {
+      "id": "2ce3ee63feff39bf",
+      "guid": "4ef6c8f205e83685aded12711d85b54b",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-10-25/prestations-de-serment/une-bible-au-salon-rouge-est-ce-surprenant.php",
+      "title": "Prestations de serment | Une bible au salon Rouge, est-ce surprenant ?",
+      "excerpt": "Si l’actualité politique vous intéresse, vous avez suivi les (nombreuses) prestations de serment cette semaine. Mais avez-vous remarqué que des députés ont apporté leur bible au salon Rouge ? Sans surprise, le symbole en a étonné certains, dans le contexte où les questions de laïcité font l’objet…",
+      "published": "2026-10-25T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/c2a9235ac4e73a68ad40947126bd918a.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T09:39:54.239Z"
+    },
+    {
+      "id": "59c45d65e6ca5c4a",
+      "guid": "0758881b61b239da8b71793285ee753f",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php",
+      "title": "Retour historique des chefs autochtones à la table des premiers ministres",
+      "excerpt": "Le chef de l’Assemblée des Premières Nations Québec-Labrador (APNQL), Francis Verreault-Paul, mise sur le dialogue à l’approche de la rencontre des premiers ministres lundi. Pour la première fois en 20 ans, les chefs autochtones ont été invités à la table sur fond de mécontentement envers le…",
+      "published": "2026-10-25T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/85caf362a7833c3aa4556f5b2290ef26.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T09:39:54.239Z"
+    },
+    {
+      "id": "66f988ac2ba9094d",
+      "guid": "84ef121afb9b356e9325cb57d56f5a88",
+      "link": "https://www.lapresse.ca/actualites/sante/2026-10-25/hospitalisation-a-domicile/je-libere-un-lit.php",
+      "title": "Hospitalisation à domicile | « Je libère un lit »",
+      "excerpt": "Il y a six mois encore, Robert Jeannotte ne se doutait pas qu’il se retrouverait à l’hôpital pour un problème cardiaque. Encore moins qu’il contribuerait à désengorger le système de santé en se faisant hospitaliser chez lui, avec des outils connectés pour mesurer ses signes vitaux.",
+      "published": "2026-10-25T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/801aca6fe5c03792bcdb3fd357091200.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T09:39:54.239Z"
+    },
+    {
+      "id": "6cf6fea48538a89b",
+      "guid": "52b52cb3e50331dbbd3bcb655943f752",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-10-25/vers-un-cerveau-dope-aux-implants.php",
+      "title": "Vers un cerveau dopé aux implants ?",
+      "excerpt": "En septembre, un rapport américain sonnait l’alarme : la Chine pourrait mettre au point avant les États-Unis des implants cérébraux. Cette technologie pourrait non seulement réduire certains handicaps, mais également améliorer la performance cognitive normale. Verra-t-on bientôt des « cerveaux…",
+      "published": "2026-10-25T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/2b9a194a391a30eaa15e1da08f205c67.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T09:39:54.239Z"
+    },
+    {
       "id": "d343ef875925d119",
       "guid": "c638099ac911302f9d14f5623cdae376",
       "link": "https://www.lapresse.ca/actualites/national/2026-10-25/elections-en-colombie-britannique/les-conservateurs-devraient-former-un-gouvernement-majoritaire.php",
