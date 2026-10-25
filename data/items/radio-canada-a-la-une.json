@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "c15fde0d01677564",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm",
+      "title": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+      "excerpt": "Un policier du SPVM qui aurait uriné sur des personnes en situation d'itinérance a été suspendu.",
+      "published": "2026-10-25T23:27:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/montreal-police-officers-urinated-unhoused.png",
+      "type": "article",
+      "addedAt": "2026-10-25T23:34:27.843Z"
+    },
+    {
+      "id": "da23aef9ebb73311",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295716/basilique-notre-dame-montreal-travaux-facade",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295716/basilique-notre-dame-montreal-travaux-facade",
+      "title": "La basilique Notre-Dame de Montréal dévoile sa façade après 10 ans de travaux",
+      "excerpt": "Pour financer le reste des travaux, la passerelle entre les deux tours sera rouverte au public.",
+      "published": "2026-10-25T23:24:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/basilique-notre-dame-montreal-37845.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T23:34:27.843Z"
+    },
+    {
+      "id": "1843e6433c4a1c9a",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295721/morgan-wong-incendie-wainwright-funerailles",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295721/morgan-wong-incendie-wainwright-funerailles",
+      "title": "Tragédie de Wainwright : funérailles du sergent Morgan Wong à Edmonton dimanche",
+      "excerpt": "Le militaire de 26 ans fait partie des quatre soldats morts lors de l’incendie sur la base de Wainwright.",
+      "published": "2026-10-25T23:02:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/wainwright-funerailles-morgan-wong-edmonton-5655.png",
+      "type": "article",
+      "addedAt": "2026-10-25T23:34:27.843Z"
+    },
+    {
+      "id": "3d22ba680cb813cf",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295715/lornedoerkson-conservateur-colombiebritannique-gouvernement-mandat",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295715/lornedoerkson-conservateur-colombiebritannique-gouvernement-mandat",
+      "title": "C.-B. : le nouveau premier ministre conservateur dévoile ses priorités pour ses 100 premiers jours",
+      "excerpt": "Le premier ministre désigné de la Colombie-Britannique table sur la santé et l’économie de la province.",
+      "published": "2026-10-25T22:42:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/lorne-doerkson-66127.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T23:34:27.843Z"
+    },
+    {
       "id": "13e5a4922d20fa2d",
       "guid": "https://ici.radio-canada.ca/nouvelle/2295657/serbie-elections-etudiants-vucic",
       "link": "https://ici.radio-canada.ca/nouvelle/2295657/serbie-elections-etudiants-vucic",
