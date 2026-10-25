@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "a9a5be1d2946a808",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10792736/courte-piste-relais-feminin-en-or-a-vancouver",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10792736/courte-piste-relais-feminin-en-or-a-vancouver",
+      "title": "Courte piste : le relais féminin en or à Vancouver",
+      "excerpt": "Les Canadiennes ont profité d'une chute pour devancer les championnes olympiques, remportant la première médaille d'or de la saison au relais féminin 3000 m. (Images : ISU)",
+      "published": "2026-10-25T03:37:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/courte-piste-florence-brunelle.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-25T03:41:09.422Z"
+    },
+    {
+      "id": "08d4f095000b4d7f",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10792738/sports-express-24-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10792738/sports-express-24-octobre",
+      "title": "Sports Express - 24 octobre",
+      "excerpt": "Les nouvelles du sport avec Ismaël Sy",
+      "published": "2026-10-25T03:28:25.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T03:41:09.422Z"
+    },
+    {
+      "id": "70c3dba640135c5a",
+      "guid": "https://ici.radio-canada.ca/sports/2295641/les-maple-leafs-dominent-les-oilers",
+      "link": "https://ici.radio-canada.ca/sports/2295641/les-maple-leafs-dominent-les-oilers",
+      "title": "Les Maple Leafs dominent les Oilers",
+      "excerpt": "Auston Matthews a touché la cible dans une victoire convaincante de 7-2 des Maple Leafs contre les Oilers.",
+      "published": "2026-10-25T03:01:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/auston-matthews-maple-leafs-oilers.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T03:41:09.422Z"
+    },
+    {
+      "id": "1506283b69f34210",
+      "guid": "https://ici.radio-canada.ca/sports/2295640/batherson-brille-dans-un-gain-des-senateurs-contre-les-rangers",
+      "link": "https://ici.radio-canada.ca/sports/2295640/batherson-brille-dans-un-gain-des-senateurs-contre-les-rangers",
+      "title": "Batherson brille dans un gain des Sénateurs contre les Rangers",
+      "excerpt": "Drake Batherson a récolté trois buts et une passe pour aider les Sénateurs à l'emporter 7-4, à Ottawa.",
+      "published": "2026-10-25T02:51:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/drake-batherson-32751.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T03:41:09.422Z"
+    },
+    {
+      "id": "dad48f8f1e3bd4a2",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10792734/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10792734/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-25T02:45:25.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T03:41:09.422Z"
+    },
+    {
       "id": "9ae28d818552f40d",
       "guid": "https://ici.radio-canada.ca/sports/2295633/circuit-mondial-courte-piste-samedi-vancouver",
       "link": "https://ici.radio-canada.ca/sports/2295633/circuit-mondial-courte-piste-samedi-vancouver",
