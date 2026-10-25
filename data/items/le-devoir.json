@@ -3,6 +3,39 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "d98c3083bd334d48",
+      "guid": "https://www.ledevoir.com/actualites/justice/1019507/meurtrier-condamne-etudiait-mcgill-est-retour-detention",
+      "link": "https://www.ledevoir.com/actualites/justice/1019507/meurtrier-condamne-etudiait-mcgill-est-retour-detention",
+      "title": "Le meurtrier condamné qui étudiait à McGill est de retour en détention",
+      "excerpt": "La mise en liberté sous condition de Jeffrey George Ewert a été suspendue.",
+      "published": "2026-10-25T15:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-25T15:39:55.623Z"
+    },
+    {
+      "id": "145db201a3a0864d",
+      "guid": "https://www.ledevoir.com/monde/ameriques/1019504/bresiliens-urnes-duel-suspense-entre-lula-flavio-bolsonaro",
+      "link": "https://www.ledevoir.com/monde/ameriques/1019504/bresiliens-urnes-duel-suspense-entre-lula-flavio-bolsonaro",
+      "title": "Les Brésiliens aux urnes pour un duel à suspense entre Lula et Flavio Bolsonaro",
+      "excerpt": "Les derniers sondages donnent 49 % au président sortant, contre 51 % d’intentions de vote au fils de Jair Bolsonaro.",
+      "published": "2026-10-25T14:15:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-25T15:39:55.623Z"
+    },
+    {
+      "id": "aed68d423080065a",
+      "guid": "https://www.ledevoir.com/lire/1019501/quoi-lire-cette-semaine",
+      "link": "https://www.ledevoir.com/lire/1019501/quoi-lire-cette-semaine",
+      "title": "Quoi lire cette semaine?",
+      "excerpt": "Une sélection de nos critiques pour guider vos lectures de la semaine.",
+      "published": "2026-10-25T13:30:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-25T15:39:55.623Z"
+    },
+    {
       "id": "74cb75d2b7c8505e",
       "guid": "https://www.ledevoir.com/politique/canada/1019498/conservateurs-remportent-gouvernement-majoritaire-colombie-britannique",
       "link": "https://www.ledevoir.com/politique/canada/1019498/conservateurs-remportent-gouvernement-majoritaire-colombie-britannique",
@@ -199,6 +232,39 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-10-24T12:46:41.710Z"
+    },
+    {
+      "id": "6371fb861fb98f57",
+      "guid": "https://www.ledevoir.com/opinion/chroniques/1019138/bon-liberal",
+      "link": "https://www.ledevoir.com/opinion/chroniques/1019138/bon-liberal",
+      "title": "Un bon libéral",
+      "excerpt": "Dans les années 1970, le libéral Pierre De Bané faisait honneur à la fonction de député.",
+      "published": "2026-10-24T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-25T15:39:55.623Z"
+    },
+    {
+      "id": "d0687acf8ac900dc",
+      "guid": "https://www.ledevoir.com/opinion/chroniques/1019306/encore-autre-cop",
+      "link": "https://www.ledevoir.com/opinion/chroniques/1019306/encore-autre-cop",
+      "title": "Encore une autre COP!",
+      "excerpt": "La diplomatie climatique a échoué.",
+      "published": "2026-10-24T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-25T15:39:55.623Z"
+    },
+    {
+      "id": "debdf8fee0de0151",
+      "guid": "https://www.ledevoir.com/opinion/chroniques/1019297/travailler-argent",
+      "link": "https://www.ledevoir.com/opinion/chroniques/1019297/travailler-argent",
+      "title": "Travailler pour l’argent",
+      "excerpt": "Nous sommes rendus à une étape du capitalisme qui alarme bien du monde, sauf ceux qui nous dirigent.",
+      "published": "2026-10-24T04:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-25T15:39:55.623Z"
     },
     {
       "id": "0c6dfd569496e5b8",
