@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "86dac2f9dd9670f1",
+      "guid": "c44c3ab9-1f0b-4320-8b5a-57dc5da7605c",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
+      "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
+      "excerpt": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
+      "published": "2026-10-25T04:10:34.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/9074f296-062b-4969-8698-46bebb74c3ee/AAABoTVNe_M/AAABnSSvrFg/16x9-big/heizen-158.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-25T04:39:35.777Z"
+    },
+    {
+      "id": "4251db3cfb2c3694",
+      "guid": "8d9df25b-bf40-4689-a5bb-b004ce7c9303",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
+      "title": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
+      "excerpt": "Serbiens autoritärer Präsident Aleksandar Vucic will heute die Wahl gewinnen und Premier werden. Doch die starke Protestbewegung der Studenten könnte ihn nach 14 Jahren entmachten. Wer ist Vucic? Von Oliver Soos.",
+      "published": "2026-10-25T04:10:13.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7fe85c23-37fa-404f-8826-c9d02e1fd2dc/AAABoXFAejs/AAABnSSvrFg/16x9-big/aleksandar-vucic-112.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-25T04:39:35.777Z"
+    },
+    {
+      "id": "b38b7721f5613037",
+      "guid": "c8dc3a8d-b30b-4bec-b8f2-d628b1a4e0f9",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+      "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+      "excerpt": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.",
+      "published": "2026-10-25T04:07:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d1655185-f8a9-452b-87c9-ae485a7ca38c/AAABoWuZ1jc/AAABnSSvrFg/16x9-big/lula-bolsonaro-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-25T04:39:35.777Z"
+    },
+    {
       "id": "14b88340740009e4",
       "guid": "1b68d127-238b-4096-b7ee-f6c85c56507f",
       "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html",
