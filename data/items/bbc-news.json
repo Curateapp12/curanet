@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "8a5e172e0b227ca2",
+      "guid": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo#3",
+      "link": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo",
+      "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
+      "excerpt": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March.",
+      "published": "2026-10-25T09:59:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/978b/live/e520cd80-c8a4-11f1-929c-0b57deb4f9df.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T10:39:31.349Z"
+    },
+    {
       "id": "efd6b68052c38572",
       "guid": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#1",
       "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
@@ -12,6 +23,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58a8/live/4afd15d0-d04f-11f1-93e1-3b657b665bcf.jpg",
       "type": "article",
       "addedAt": "2026-10-25T08:40:35.482Z"
+    },
+    {
+      "id": "f2c2b37c487b6e40",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo",
+      "title": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
+      "excerpt": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.",
+      "published": "2026-10-25T07:55:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/022c/live/b0517610-cfcd-11f1-b441-2b33b063138f.png",
+      "type": "article",
+      "addedAt": "2026-10-25T10:39:31.349Z"
     },
     {
       "id": "b1a5236735d03f3d",
@@ -254,6 +276,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/194c/live/7fe6e240-cff9-11f1-b0ff-614e4f91e969.jpg",
       "type": "article",
       "addedAt": "2026-10-24T22:37:26.894Z"
+    },
+    {
+      "id": "bbb9870faf48a762",
+      "guid": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo",
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "excerpt": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+      "published": "2026-10-24T22:08:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ee/live/36a0f0a0-cfc5-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-25T10:39:31.349Z"
     },
     {
       "id": "a97996138e0a0590",
