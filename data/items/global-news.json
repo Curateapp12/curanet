@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "36d302967bc9d546",
+      "guid": "https://globalnews.ca/?p=12120485",
+      "link": "https://globalnews.ca/news/12120485/morgan-wong-funeral-service-cfb-wainwright/",
+      "title": "Funeral service to be held for Sgt. Morgan Wong, CFB Wainwright fire victim",
+      "excerpt": "According to Sgt. Morgan Wong's family, the 26-year-old was training at CFB Wainwright to prepare to deploy on his second tour in Europe.",
+      "published": "2026-10-25T14:11:08.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/morgan-wong.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-25T14:38:33.171Z"
+    },
+    {
+      "id": "d33ab0774fa8d6b5",
+      "guid": "https://globalnews.ca/?p=12120498",
+      "link": "https://globalnews.ca/news/12120498/brazil-presidential-runoff/",
+      "title": "Brazil voters head to polls in presidential runoff",
+      "excerpt": "Voting in Brazil is conducted electronically and the result is usually available within hours after polling stations close at 5 p.m. in Brasilia.",
+      "published": "2026-10-25T14:07:38.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/brazil-election.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-25T14:38:33.171Z"
+    },
+    {
+      "id": "30001afe3234d6aa",
+      "guid": "https://globalnews.ca/?p=12111630",
+      "link": "https://globalnews.ca/news/12111630/gen-z-dance-clubs-disappearing-humiliation/",
+      "title": "Why are dance clubs disappearing? Because half of Gen Z avoids dancing for fear of humiliation",
+      "excerpt": "Half of Gen Z won't dance in public for fear of being humiliated by someone with smartphone.",
+      "published": "2026-10-25T14:00:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP215185776.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-25T14:38:33.171Z"
+    },
+    {
       "id": "8120cfafa3471183",
       "guid": "https://globalnews.ca/?p=12120483",
       "link": "https://globalnews.ca/news/12120483/lorne-doerkson-premier-elect-bc-election/",
