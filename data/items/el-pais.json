@@ -3,6 +3,424 @@
   "sourceId": "el-pais",
   "items": [
     {
+      "id": "65e57ba809a822c3",
+      "guid": "https://elpais.com/escaparate/tecnologia/luz-led-portatil-pinza-movil.html",
+      "link": "https://elpais.com/escaparate/tecnologia/luz-led-portatil-pinza-movil.html",
+      "title": "El pequeño accesorio que hace que las fotos del móvil parezcan de una cámara profesional",
+      "excerpt": "Es el secreto de creadores de contenido y ‘celebrities’: un foco de luz portátil con pinza que mejora mucho el resultado",
+      "published": "2026-10-26T05:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/AJUS4JGMQRHRTMJLBCGPYYVV2E.png?auth=76c5919b64fafa71d12a72869e2e71dc8f5f35fca4538efd4baac7d427230c84",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "9a7ca0842cb3a998",
+      "guid": "https://elpais.com/escaparate/ofertas-y-descuentos/bosch-lavadoras-inteligentes.html",
+      "link": "https://elpais.com/escaparate/ofertas-y-descuentos/bosch-lavadoras-inteligentes.html",
+      "title": "Las lavadoras Bosch que puedes controlar desde el móvil y gastan menos energía",
+      "excerpt": "Descubre el mejor momento del día (o de la noche) para limpiar la ropa y el ciclo de lavado perfecto con el asistente de energía más avanzado de la marca alemana",
+      "published": "2026-10-26T05:15:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/Z3EUUB5E2NBA3N4VNF2CLJZ4JI.png?auth=9387d106c30f36ae0416ef90175c0169eb4d6d73053f5663d7030f690f01ae95",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "0c5c6504e8fcb689",
+      "guid": "https://elpais.com/economia/2026-10-26/la-politica-se-cuela-en-las-reuniones-de-los-banqueros-centrales-en-pleno-repunte-inflacionista.html",
+      "link": "https://elpais.com/economia/2026-10-26/la-politica-se-cuela-en-las-reuniones-de-los-banqueros-centrales-en-pleno-repunte-inflacionista.html",
+      "title": "La política se cuela en las reuniones de los banqueros centrales en pleno repunte inflacionista",
+      "excerpt": "El BCE y la Fed se reúnen esta semana, a una semana de las elecciones legislativas estadounidenses y con el BCE pendiente de la crisis francesa",
+      "published": "2026-10-26T04:45:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/NW4MFWS5TVFERPCZMKPF7BGRYA.jpg?auth=4d47baac483c14b1af4504a6a9312f71df62ae8b649d7be59a41c8124533b9ad",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "438956c5c5b91a3e",
+      "guid": "https://elpais.com/internacional/2026-10-26/gadi-eisenkot-el-general-discreto-capaz-de-derrotar-a-netanyahu.html",
+      "link": "https://elpais.com/internacional/2026-10-26/gadi-eisenkot-el-general-discreto-capaz-de-derrotar-a-netanyahu.html",
+      "title": "Gadi Eisenkot, el general discreto capaz de derrotar a Netanyahu",
+      "excerpt": "El exjefe del Estado Mayor lidera los sondeos gracias a una imagen de honestidad y defensa de la seguridad de Israel que apela a amplias capas de votantes",
+      "published": "2026-10-26T04:45:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/D4EPKQ2ZSNDFTAWB4NLTDCIAJ4.jpg?auth=0f2c3a7e6af76be77345294bed75da48ae426f5aa680f9032e213ee371ebf520",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "5bfac661beca03b4",
+      "guid": "https://elpais.com/internacional/2026-10-26/la-oposicion-se-une-frente-a-un-enemigo-comun-netanyahu.html",
+      "link": "https://elpais.com/internacional/2026-10-26/la-oposicion-se-une-frente-a-un-enemigo-comun-netanyahu.html",
+      "title": "La oposición se une frente a un enemigo común: Netanyahu",
+      "excerpt": "Un heterogéneo bloque, que representa a la mitad del país y abarca desde la derecha tradicional a la izquierda socialista, deja de lado sus diferencias para intentar echar del poder al primer ministro israelí",
+      "published": "2026-10-26T04:45:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/EBGHUBGUA5KXHO3S3XGTK75PS4.jpg?auth=b3efd03412dab3dd51fedc75c5b2dbd494796c754e8e7bdd56bd52e659133686",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "7fe21b58f51835c5",
+      "guid": "https://elpais.com/economia/2026-10-26/las-pensiones-privadas-se-estancan-pese-al-debate-sobre-la-sostenibilidad-del-sistema-publico.html",
+      "link": "https://elpais.com/economia/2026-10-26/las-pensiones-privadas-se-estancan-pese-al-debate-sobre-la-sostenibilidad-del-sistema-publico.html",
+      "title": "Las pensiones privadas se estancan pese al debate sobre la sostenibilidad del sistema público",
+      "excerpt": "El País Vasco, Suecia o el Reino Unido tienen casos de éxito de fórmulas de ahorro complementario para la jubilación que llegan a todos los trabajadores",
+      "published": "2026-10-26T04:45:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/POZCYUEBI5AI3HD47JLHYL7U6Q.jpg?auth=d6e12d194eea6fb51203214138022620e75715d0c6217fd6ae5af41af79b4495",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "81ab30319b0df2d5",
+      "guid": "https://elpais.com/economia/2026-10-26/audi-trasladara-a-su-futura-planta-en-ee-uu-toda-la-produccion-europea-de-grandes-todocaminos.html",
+      "link": "https://elpais.com/economia/2026-10-26/audi-trasladara-a-su-futura-planta-en-ee-uu-toda-la-produccion-europea-de-grandes-todocaminos.html",
+      "title": "Audi trasladará a su futura planta en EE UU toda la producción europea de grandes todocaminos",
+      "excerpt": "La fabricación de los modelos Q7, Q8 y Q9, que ahora se realiza en Eslovaquia, pasará a la nueva planta que levantará en Georgia",
+      "published": "2026-10-26T04:45:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/XJ3Q33YRMVJP3KT3VXDV5G3LUU.jpg?auth=da589f883a0c62e807642bdf8a23a6d156e2ed8a2e47d79f9352a5054783f59c",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "b98e35f218c57fde",
+      "guid": "https://elpais.com/economia/2026-10-26/sacudida-en-las-instituciones.html",
+      "link": "https://elpais.com/economia/2026-10-26/sacudida-en-las-instituciones.html",
+      "title": "Sacudida en las instituciones",
+      "excerpt": "El reconocimiento del Parlamento Europeo a los jueces que han condenado el genocidio en Gaza evidencia que la existencia de la Unión tiene mucho sentido",
+      "published": "2026-10-26T04:45:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/T2OVCYJUEZOCFL52J3EIGIJNDU.jpg?auth=41a06c8a2e2b8cc98293607ff9a8a8b963e519c3b226a422ad963be437f2cd95",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "2bc13a771c67776f",
+      "guid": "https://elpais.com/podcasts/hoy-en-el-pais/2026-10-26/jose-felix-diaz-unico-periodista-espanol-que-vota-para-el-balon-de-oro-vinicius-no-esta-entre-los-10-mejores-del-mundo.html",
+      "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-10-26/jose-felix-diaz-unico-periodista-espanol-que-vota-para-el-balon-de-oro-vinicius-no-esta-entre-los-10-mejores-del-mundo.html",
+      "title": "José Félix Díaz, único periodista español que vota para el Balón de Oro: “Vinicius no está entre los 10 mejores del mundo”",
+      "excerpt": "El director del diario As desvela los criterios que ha seguido para elegir al jugador que merece ganar el prestigioso galardón que se entrega este lunes",
+      "published": "2026-10-26T04:45:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "1c2d70580dbba8ad",
+      "guid": "https://elpais.com/us/2026-10-26/alexandria-ocasio-cortez-arriesga-su-capital-politico-en-las-midterms-con-vistas-a-la-casa-blanca.html",
+      "link": "https://elpais.com/us/2026-10-26/alexandria-ocasio-cortez-arriesga-su-capital-politico-en-las-midterms-con-vistas-a-la-casa-blanca.html",
+      "title": "Alexandria Ocasio-Cortez arriesga su capital político en las ‘midterms’ con vistas a la Casa Blanca",
+      "excerpt": "La congresista demócrata invierte tiempo y dinero en apoyar a candidatos progresistas en las elecciones de medio mandato mientras sopesa una posible candidatura presidencial en 2028",
+      "published": "2026-10-26T04:40:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/23JF4DM6UJNTHBAY7OUHRQPUQA.jpg?auth=972152d0189883ea38c3510734acfa33661bfbab95414cfffefe090f7ce9e007",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "03242bd2b95d3b7e",
+      "guid": "https://elpais.com/opinion/2026-10-26/oportunidad-para-israel.html",
+      "link": "https://elpais.com/opinion/2026-10-26/oportunidad-para-israel.html",
+      "title": "Oportunidad para Israel",
+      "excerpt": "Tras años de guerras y aislamiento internacional, Netanyahu afronta este martes la rendición de cuentas en las urnas",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/6HAI4OW2MVF3RCNDNLMPL4FHXU.JPG?auth=d7c1e2b89e8cbc5fc27ebca2e97b712f4ecd37cd08db172a3a2c96eb74be4b89",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "1079a306451dd729",
+      "guid": "https://elpais.com/opinion/2026-10-26/los-androides-piden-cuentas-a-las-musas.html",
+      "link": "https://elpais.com/opinion/2026-10-26/los-androides-piden-cuentas-a-las-musas.html",
+      "title": "Los androides piden cuentas a las musas",
+      "excerpt": "El caso de una novela premiada escrita con IA hace que los autores se pregunten por el motor de la literatura",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/D7TEO5ECFFCIVP6CPLIGXNWMUQ.jpg?auth=df3f114b93ceac4adcc0ab742602bf0892d2a4a74b4798e7cd45e5a9d3900ebc",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "1f9135b48b1e7ff8",
+      "guid": "https://elpais.com/espana/galicia/2026-10-26/ana-kiro-la-taylor-swift-de-la-emigracion-que-vendio-mas-que-nadie-cantando-en-gallego.html",
+      "link": "https://elpais.com/espana/galicia/2026-10-26/ana-kiro-la-taylor-swift-de-la-emigracion-que-vendio-mas-que-nadie-cantando-en-gallego.html",
+      "title": "Ana Kiro, “la Taylor Swift” de la emigración que vendió más que nadie cantando en gallego",
+      "excerpt": "Un documental rescata la figura de la artista más popular de la Galicia interior y exterior, que arrasó durante décadas desafiando traumas vestida de diva",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/LZUME6BULBATLE6LM7KQ2JWYFA.tif?auth=daf18de677d3200a5a0f62ed7a0a1ed75c0a9fbc0acd5ca3089f394563a8d1bc",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "2c5e267276c1d216",
+      "guid": "https://elpais.com/deportes/2026-10-26/el-ultimo-real-madrid-barcelona-antes-del-horror.html",
+      "link": "https://elpais.com/deportes/2026-10-26/el-ultimo-real-madrid-barcelona-antes-del-horror.html",
+      "title": "El último Real Madrid - Barcelona antes del horror",
+      "excerpt": "El historiador Arnau Gonzàlez i Vilalta reconstruye la final de la Copa de España de 1936 y todo lo que sucedió después",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/PMYGQYXM7BCUTKU2I4JMGFVL3E.jpg?auth=616de2a72813ada5cc3c3fc0070eb17b83b21b65b79344c7b768e678b504953c",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "2da9aa529edc49cc",
+      "guid": "https://elpais.com/opinion/2026-10-26/en-que-pais-vivimos.html",
+      "link": "https://elpais.com/opinion/2026-10-26/en-que-pais-vivimos.html",
+      "title": "¿En qué país vivimos?",
+      "excerpt": "Produce abatimiento la ausencia de voces conservadoras comprometidas con un mensaje de entendimiento común",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/V3QVTSRYCJBGDEXIMSTWFMMCAU.jpg?auth=a6d5b4f37143ada8afc7db993168b360489eccc6f5aefc20ada0987fb020838f",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "31c7f18691efe318",
+      "guid": "https://elpais.com/cultura/2026-10-26/david-bowie-el-gran-seductor.html",
+      "link": "https://elpais.com/cultura/2026-10-26/david-bowie-el-gran-seductor.html",
+      "title": "David Bowie, el gran seductor",
+      "excerpt": "Era invencible en las distancias cortas: trataba con suma cortesía al periodista y se esforzaba en proporcionarle una modesta ración de intimidades",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/L7N6C7OXANH25FSAOQM3XGBK3U.jpg?auth=234ab9e0491691d3dec2ea3f463beee9551a1393fc447044a8f406df0ec802f9",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "384f9e174aae9df2",
+      "guid": "https://elpais.com/sociedad/2026-10-26/los-sindicatos-medicos-mantienen-paros-en-cinco-comunidades-autonomas-tras-desconvocar-la-huelga-general-en-toda-espana.html",
+      "link": "https://elpais.com/sociedad/2026-10-26/los-sindicatos-medicos-mantienen-paros-en-cinco-comunidades-autonomas-tras-desconvocar-la-huelga-general-en-toda-espana.html",
+      "title": "Los sindicatos médicos mantienen paros en cinco comunidades autónomas tras desconvocar la huelga general en toda España",
+      "excerpt": "Ya han comenzado en Canarias; el 28 de octubre se suman Valencia, Madrid y Cataluña, mientras Andalucía lo hará el 12 de noviembre",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/2QVX27TWLZHABFDLSQRHJNKTPA.jpg?auth=30b8aa36508da7ad03a209edbe617316ffc39e18cfe5c9a2efe964436bf235b3",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "4d645a5d4b42b52a",
+      "guid": "https://elpais.com/deportes/baloncesto/2026-10-26/hector-alderete-un-graduado-en-derecho-con-tres-cruzados-rotos.html",
+      "link": "https://elpais.com/deportes/baloncesto/2026-10-26/hector-alderete-un-graduado-en-derecho-con-tres-cruzados-rotos.html",
+      "title": "Héctor Alderete, un graduado en Derecho con tres cruzados rotos",
+      "excerpt": "El alero madrileño de La Laguna Tenerife encontró en los estudios “una nueva vida” para superar un calvario de graves lesiones",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/W4MYFUYJKRH4RBZHWS4766HB64.jpg?auth=fe6f4c7b72977db3888f4aa8e10a58b8dd2605f182bb01dc2aceb7ef91eba3c6",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "5403cfbce5b2f925",
+      "guid": "https://elpais.com/television/2026-10-26/se-buscan-censores-en-leon.html",
+      "link": "https://elpais.com/television/2026-10-26/se-buscan-censores-en-leon.html",
+      "title": "Se buscan censores en León",
+      "excerpt": "Que Vox haya propuesto un comité censor de guiones a subvención es otra prueba de que vienen elecciones y ellos no tiene burra que vender",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/GT4GG7M7TND6FK54ARHYZIWG5A.jpg?auth=749062d5ff1427c47817c92a5879789299f725dc41fbce1401fd2888f4cf713d",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "59499fd249785a63",
+      "guid": "https://elpais.com/ciencia/2026-10-26/nicola-spaldin-favorita-al-nobel-de-fisica-un-material-superconductor-a-temperatura-ambiente-traeria-un-cambio-geopolitico-mundial.html",
+      "link": "https://elpais.com/ciencia/2026-10-26/nicola-spaldin-favorita-al-nobel-de-fisica-un-material-superconductor-a-temperatura-ambiente-traeria-un-cambio-geopolitico-mundial.html",
+      "title": "Nicola Spaldin, favorita al Nobel de Física: “Un material superconductor a temperatura ambiente traería un cambio geopolítico mundial”",
+      "excerpt": "La vicepresidenta del Consejo Europeo de Investigación reflexiona sobre la computación más allá del chip gracias a los materiales multiferroicos que descubrió por pura curiosidad",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/45VOBIZ275APHIJWY72QVTR7KY.JPG?auth=39cad9d75c57215f0db3551db62affbb23df23c96458bf199c46524be6fedb48",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "5e82648c7cb1905c",
+      "guid": "https://elpais.com/babelia/2026-10-26/edurne-portela-autora-de-no-puedes-quedarte-aqui-eternamente-he-escrito-un-libro-antifascista-y-feminista-yo-lo-soy.html",
+      "link": "https://elpais.com/babelia/2026-10-26/edurne-portela-autora-de-no-puedes-quedarte-aqui-eternamente-he-escrito-un-libro-antifascista-y-feminista-yo-lo-soy.html",
+      "title": "Edurne Portela, autora de ‘No puedes quedarte aquí eternamente’: “He escrito un libro antifascista y feminista. Yo lo soy”",
+      "excerpt": "La escritora vasca retoma la tragedia de la deportación en una dura y conmovedora investigación literaria sobre Marie-Jeanne Echeverría, una superviviente del campo de concentración de Ravensbrück",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/KL4CYH23WFAF7FN34GWBDCQ5AM.jpg?auth=2f06fe23bd36999b42e6c8c0e2876a02ac54e827de43a8d9c433cf924a8c36b4",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "5ed5d9f10c09ef0f",
+      "guid": "https://elpais.com/salud-y-bienestar/2026-10-26/por-que-las-guarderias-son-una-bomba-virica-que-dice-la-ciencia-y-como-sobreviven-los-padres-a-los-contagios-constantes.html",
+      "link": "https://elpais.com/salud-y-bienestar/2026-10-26/por-que-las-guarderias-son-una-bomba-virica-que-dice-la-ciencia-y-como-sobreviven-los-padres-a-los-contagios-constantes.html",
+      "title": "Por qué las guarderías son una bomba vírica: qué dice la ciencia y cómo sobreviven los padres a los contagios constantes",
+      "excerpt": "Con la campaña de vacunación recién empezada y el frío a las puertas, las familias se preparan para lidiar con un maratón de enfermedades",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/MCV77M2YJNCLTHWDXSZDFCZLWY.jpg?auth=7488e98e6f7e4e107605782eb00a297002526be72501bf4e2b5f9776a916403b",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "64662259c3a99c22",
+      "guid": "https://elpais.com/television/series/2026-10-26/bajo-la-superficie-el-kraken-ha-vuelto-ha-vuelto-el-caos.html",
+      "link": "https://elpais.com/television/series/2026-10-26/bajo-la-superficie-el-kraken-ha-vuelto-ha-vuelto-el-caos.html",
+      "title": "‘Bajo la superficie’: El ‘kraken’ ha vuelto, ha vuelto el caos",
+      "excerpt": "Josh Hartnett protagoniza esta miniserie con monstruo marino tan trepidante como aparentemente superficial en la que se reflexiona sobre el fanatismo, la pequeña comunidad amenazada por un Goliat y un nuevo orden natural",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/E3SQRTG4TFDB5FYJFTOO5BJQBE.jpg?auth=00aba50704930629917cb57548608c223faaf652f7fb2445930687152c416088",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "655331f9d5ad4584",
+      "guid": "https://elpais.com/economia/2026-10-26/barrio-rico-o-barrio-pobre-por-que-depende-tambien-de-como-se-mida.html",
+      "link": "https://elpais.com/economia/2026-10-26/barrio-rico-o-barrio-pobre-por-que-depende-tambien-de-como-se-mida.html",
+      "title": "¿Barrio rico o barrio pobre? Por qué depende también de cómo se mida",
+      "excerpt": "Los datos del INE, casi calle a calle, permiten explorar la renta con mucho detalle. Pero una misma zona puede parecer rica o modesta según se use la renta por persona, por hogar o por unidad de consumo.",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "6590c9abb0a375a6",
+      "guid": "https://elpais.com/espana/andalucia/2026-10-26/huesos-de-aceituna-en-el-asfalto-para-mitigar-las-emisiones-de-co.html",
+      "link": "https://elpais.com/espana/andalucia/2026-10-26/huesos-de-aceituna-en-el-asfalto-para-mitigar-las-emisiones-de-co.html",
+      "title": "Huesos de aceituna en el asfalto para mitigar las emisiones de CO₂",
+      "excerpt": "Un proyecto introduce biochar elaborado con residuos del olivar andaluz en la pavimentación de arterias de Barcelona",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/SP6JUFNZOZG2TNKMTQJO42MEQY.jpg?auth=4be46b21a514eb2a6b2b541fe383d3156ee2f6b92b994f67ddeff36cefb65c68",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "666bec3fa0e8dea2",
+      "guid": "https://elpais.com/espana/elecciones-generales/2026-10-26/pp-y-vox-apuran-sobre-la-bocina-la-negociacion-de-la-formula-para-hacerse-con-el-control-del-senado.html",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/pp-y-vox-apuran-sobre-la-bocina-la-negociacion-de-la-formula-para-hacerse-con-el-control-del-senado.html",
+      "title": "PP y Vox apuran “sobre la bocina” la negociación de la fórmula para hacerse con el control del Senado",
+      "excerpt": "Ambas formaciones tienen hasta la medianoche de este lunes para registrar las listas a la Cámara alta",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/ISSQRDBLW5BXDO4RTGYE3Q77VI.jpg?auth=3f4af1538dd9eb85c8766e5e32deab5a7a2fc681ef4ba52995dac24da9b8eb49",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "79276b7d46c8bd1e",
+      "guid": "https://elpais.com/opinion/2026-10-26/300-encapuchados.html",
+      "link": "https://elpais.com/opinion/2026-10-26/300-encapuchados.html",
+      "title": "300 encapuchados",
+      "excerpt": "Las manifestaciones son el laboratorio de la nueva política, y dependemos de su potencia para salir del callejón del bipartidismo",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/VMF4K2SSEZARDITV2NZ77ERJLM.jpg?auth=538e4da3498c900a2563b8537852d8bb22922e39b0da189d97efa3e9ad96361f",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "8430f8f975bde23a",
+      "guid": "https://elpais.com/espana/2026-10-26/los-buques-de-guerra-marroquies-que-irrumpieron-en-aguas-de-ceuta-se-saltaron-las-normas-de-seguridad-maritima.html",
+      "link": "https://elpais.com/espana/2026-10-26/los-buques-de-guerra-marroquies-que-irrumpieron-en-aguas-de-ceuta-se-saltaron-las-normas-de-seguridad-maritima.html",
+      "title": "Los buques de guerra marroquíes que irrumpieron en aguas de Ceuta se saltaron las normas de seguridad marítima",
+      "excerpt": "La patrullera de la Armada ‘Isla Pinto’ estuvo a punto de colisionar con una embarcación militar de Rabat",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/B2AGVL4HINCIFGJSIY4SHHTY5Q.jpeg?auth=b2818551905405d937b661905e79eeb6282436975f25c65cd1a47e038b35caf1",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "88c93e3d50f77d04",
+      "guid": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-violencia-callejera-como-municion-electoral.html",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-violencia-callejera-como-municion-electoral.html",
+      "title": "La violencia callejera como munición electoral",
+      "excerpt": "Los disturbios permiten al PP orientar la campaña hacia la seguridad. El PSOE busca centrarse en el marco socioeconómico y de igualdad",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/2VGRR7N76JI5BKPDBGNZ5YYQD4.jpg?auth=24db9b0a4f4e8ba6e6648dddf11520e82a342d8cd8e21eb615e6a3b1fce57aa8",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "97c61e58f7e6bf12",
+      "guid": "https://elpais.com/opinion/2026-10-26/el-roto-oferta-electoral.html",
+      "link": "https://elpais.com/opinion/2026-10-26/el-roto-oferta-electoral.html",
+      "title": "El Roto: oferta electoral",
+      "excerpt": "Viñeta del 26 de octubre de 2026",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/2S4BTU2Z35FHDCYFVVKMRYZVZI.jpg?auth=45b307bd4b9c14d558081cec37e40a1a76edd3dca5a0f72dd857d196c1a4ee5b",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "9ce0965d38f89141",
+      "guid": "https://elpais.com/deportes/2026-10-26/monica-marchante-el-periodismo-deportivo-esta-enfermo-oigo-preguntas-de-verguenza-ajena.html",
+      "link": "https://elpais.com/deportes/2026-10-26/monica-marchante-el-periodismo-deportivo-esta-enfermo-oigo-preguntas-de-verguenza-ajena.html",
+      "title": "Mónica Marchante: “El periodismo deportivo está enfermo. Oigo preguntas de vergüenza ajena”",
+      "excerpt": "La veterana comunicadora critica el físico que se exige a las mujeres en su profesión “mientras ellos pueden ser calvos y gordos”",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/3SYP3LFRFZF7TH6LVJBUJ6CBRA.JPG?auth=00729121442ed45062681f36765f247020903f91858e4428e7f6dd54eafcf001",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "a78620cd48e6c4ba",
+      "guid": "https://elpais.com/opinion/2026-10-26/momentos-dificiles.html",
+      "link": "https://elpais.com/opinion/2026-10-26/momentos-dificiles.html",
+      "title": "Momentos difíciles",
+      "excerpt": "Los problemas de los escritores que mantuvieron una relación ética y política con la sociedad no se reducen al golpe de Estado de 1936 y la dictadura franquista",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/OYVOTE3LJRHGHB56PE56Y27NMM.jpg?auth=cd73e420ba0dd7bdeb535bb847d905638181e8c701e54d0193c1d36d1f3a28a7",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "baa958179fe515a0",
+      "guid": "https://elpais.com/espana/elecciones-generales/2026-10-26/para-nosotros-es-historico-como-jordi-wild-logro-el-si-de-sanchez-feijoo-abascal-y-colau-para-ir-a-su-casa.html",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/para-nosotros-es-historico-como-jordi-wild-logro-el-si-de-sanchez-feijoo-abascal-y-colau-para-ir-a-su-casa.html",
+      "title": "“Para nosotros es histórico”: cómo Jordi Wild logró el sí de Sánchez, Feijóo, Abascal y Colau para ir a su casa",
+      "excerpt": "El ‘podcast’ ‘The Wild Project’, con solo dos trabajadores, logra un hito sin precedentes en la comunicación española. Su creador, un ‘youtuber’ que de pequeño quería ser actor, tiene millones de seguidores y gran tirón entre los chicos jóvenes",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/TA5QVSUY6NGNLCX5YVOKVE2S5M.jpg?auth=82dfe6250319e163642fb3ce9328065f014fa94ae7ed86877245ca664035b953",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "ca84b92fa864b823",
+      "guid": "https://elpais.com/opinion/2026-10-26/echar-a-sanchez.html",
+      "link": "https://elpais.com/opinion/2026-10-26/echar-a-sanchez.html",
+      "title": "Echar a Sánchez",
+      "excerpt": "El antisanchismo no es más que la expresión de una servidumbre intelectual y política",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/555K55PFSRDJDKBLZPHJERU3T4.jpg?auth=81271c0318576aee7be83406454f9bb7d8ac2628e84ee9c23343ba94d797b2e3",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "ce546e70d237dce5",
+      "guid": "https://elpais.com/deportes/futbol/2026-10-26/salir-de-la-pena-maxima.html",
+      "link": "https://elpais.com/deportes/futbol/2026-10-26/salir-de-la-pena-maxima.html",
+      "title": "Salir de la pena máxima",
+      "excerpt": "Las grandes historias giran en torno a pequeñeces. Eso es la vida: una pequeñez. Entró o no la pelota. Entró o no el penalti del padre al que perdiste de niño",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/5IAKKNVCIBHRJOJ5SYWMA6DSJA.jpg?auth=95427529438046e4036b7b70a00fe253a6747a043a8a69c010a8f5ca00b989cb",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "d673f12ff8fbc0f3",
+      "guid": "https://elpais.com/cultura/2026-10-26/stevie-wonder-el-sumo-sacerdote-del-soul-sigue-obrando-milagros.html",
+      "link": "https://elpais.com/cultura/2026-10-26/stevie-wonder-el-sumo-sacerdote-del-soul-sigue-obrando-milagros.html",
+      "title": "Stevie Wonder: el sumo sacerdote del soul sigue obrando milagros",
+      "excerpt": "El artista conmemora con una gira los 50 años de ‘Songs in the Key of Life’, un disco doble que dejó pequeño cualquier hito de la música afroamericana. Asistimos a su concierto en Estocolmo",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/QFTPARXHYJFFRIN7LLKSH2QMEY.jpg?auth=d8496c39385ec1f1f926353a5dfea8008698e62cfedf30e2380e838a124d07a4",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "dec9d3738efaab2c",
+      "guid": "https://elpais.com/opinion/2026-10-26/la-india-un-elefante-sentado-sobre-las-movilizaciones.html",
+      "link": "https://elpais.com/opinion/2026-10-26/la-india-un-elefante-sentado-sobre-las-movilizaciones.html",
+      "title": "La India: un elefante sentado sobre las movilizaciones",
+      "excerpt": "Narendra Modi tiene una oportunidad para revertir el descrédito del sistema político que se refleja en las protestas estudiantiles",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/5335HA63PVB2HLUZZH7LHYXL2M.jpg?auth=8caffc5ae93c710298e19ff4d0285a1c260a0bf659c60f4e57bc59c0e6e5cf68",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "ef20dcec59606eea",
+      "guid": "https://elpais.com/espana/andalucia/2026-10-26/la-memoria-del-agua-un-estudio-documenta-senales-urbanas-de-riadas-historicas-para-advertir-del-peligro-de-inundaciones.html",
+      "link": "https://elpais.com/espana/andalucia/2026-10-26/la-memoria-del-agua-un-estudio-documenta-senales-urbanas-de-riadas-historicas-para-advertir-del-peligro-de-inundaciones.html",
+      "title": "La memoria del agua: un estudio documenta señales urbanas de riadas históricas para advertir del peligro de inundaciones",
+      "excerpt": "La “paradoja de la seguridad” lleva a creerse a salvo de lluvias torrenciales que serán cada vez más frecuentes e intensas por el cambio climático",
+      "published": "2026-10-26T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/MUFTVWBJUZCWXHDWASPSRQJIGE.jpeg?auth=c4c3f74e7b63f8d424650ad6752b8f70d226fa64e21fb1e428878a9c30b802d3",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
       "id": "b584baace309dee7",
       "guid": "https://elpais.com/espana/madrid/2026-10-26/el-ayuntamiento-recalifica-la-ciudad-del-real-madrid-con-un-informe-que-calcula-mal-el-beneficio-para-la-capital-aumenta-de-146-a-986-millones.html",
       "link": "https://elpais.com/espana/madrid/2026-10-26/el-ayuntamiento-recalifica-la-ciudad-del-real-madrid-con-un-informe-que-calcula-mal-el-beneficio-para-la-capital-aumenta-de-146-a-986-millones.html",
@@ -25,6 +443,138 @@
       "addedAt": "2026-10-26T04:43:27.771Z"
     },
     {
+      "id": "0ace8342ee66b7fe",
+      "guid": "https://elpais.com/gastronomia/2026-10-26/restaurantes-donde-tener-mejor-digestion-o-fruterias-que-se-montan-mas-rapido-cada-manana-asi-influye-la-neuroarquitectura.html",
+      "link": "https://elpais.com/gastronomia/2026-10-26/restaurantes-donde-tener-mejor-digestion-o-fruterias-que-se-montan-mas-rapido-cada-manana-asi-influye-la-neuroarquitectura.html",
+      "title": "Restaurantes donde tener mejor digestión o fruterías que se montan más rápido cada mañana: así influye la neuroarquitectura",
+      "excerpt": "Laura Ortín aplica sus conocimientos sobre la arquitectura de la felicidad a locales en los que las barras fomentan la charla y la interacción y los comercios parecen más llenos de producto",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/U4IBKWGN45CNXDLOIN7T6YTSTM.jpg?auth=c67d22d49b0efcd6b5f6805cd89726b2e727d3e2d1ecf4fe1ebb442570d8b08d",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "160f2a5012e47657",
+      "guid": "https://elpais.com/gastronomia/el-comidista/2026-10-26/es-la-fibra-la-nueva-proteina-la-industria-de-la-comida-insana-se-apunta-al-fibermaxxing.html",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-26/es-la-fibra-la-nueva-proteina-la-industria-de-la-comida-insana-se-apunta-al-fibermaxxing.html",
+      "title": "¿Es la fibra la nueva proteína? La industria de la comida insana se apunta al ‘fibermaxxing’",
+      "excerpt": "Los productores de ultraprocesados se suben a una tendencia con fundamento nutricional razonable, pero cuyo aprovechamiento comercial alimenta expectativas que no se corresponden con la realidad",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/XI743IQH75DBVAVYJVWEPM36WE.jpg?auth=6d6e4ad7a3a82167af247d7bf538043cd1142be97a5d5e3de3d349e5b070982a",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "1afdee30b4a11468",
+      "guid": "https://elpais.com/babelia/2026-10-26/control-resonant-y-el-valor-de-enfrentarse-a-los-espacios-pentadimensionales.html",
+      "link": "https://elpais.com/babelia/2026-10-26/control-resonant-y-el-valor-de-enfrentarse-a-los-espacios-pentadimensionales.html",
+      "title": "‘Control Resonant’ y el valor de enfrentarse a los espacios pentadimensionales",
+      "excerpt": "La esperada secuela del juego de Remedy se convierte en uno de los ejercicios más audaces y libérrimos del año",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/ODA2YCWQ5NFYBGYDHYVRNS2BOI.jpg?auth=57ddb700534bec5f79711e401ade3868970dc65c817b1b420253a22e46a0f3aa",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "2b2778e41932fb98",
+      "guid": "https://elpais.com/smoda/moda/2026-10-26/mas-alla-de-la-fiesta-de-disfraces-el-espiritu-de-halloween-revoluciona-el-armario.html",
+      "link": "https://elpais.com/smoda/moda/2026-10-26/mas-alla-de-la-fiesta-de-disfraces-el-espiritu-de-halloween-revoluciona-el-armario.html",
+      "title": "Más allá de la fiesta de disfraces: el espíritu de Halloween revoluciona el armario",
+      "excerpt": "Encajes siniestros, vestidos ‘babydoll’ llevados al extremo, todo al negro o un aluvión de accesorios y joyas con temática terrorífica convierten esta festividad anglosajona en una tendencia de moda",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/Z2YLA6Q3MFFBFE2OHNOZCNDW5U.jpg?auth=1b882581f66eb45c8cc0b6ece735de794d3196283638956ff639f48cc32b2eef",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "390db25b13a41332",
+      "guid": "https://elpais.com/elviajero/guia-el-viajero/2026-10-26/nusfjord-asi-es-la-aldea-en-las-islas-lofoten-donde-se-detuvo-el-tiempo.html",
+      "link": "https://elpais.com/elviajero/guia-el-viajero/2026-10-26/nusfjord-asi-es-la-aldea-en-las-islas-lofoten-donde-se-detuvo-el-tiempo.html",
+      "title": "Nusfjord, así es la aldea en las islas Lofoten donde se detuvo el tiempo",
+      "excerpt": "Este diminuto pueblo de pescadores de Noruega cayó en el olvido hasta 2011, cuando una acomodada familia adquirió sus ruinas y lo reconvirtió en un lugar a medio camino entre un coqueto hotel ‘boutique’ y un museo al aire libre",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/PZOPKH642VDEVGEI53IYFSEJOI.jpeg?auth=baa520b0bea92095f6973c3a2617729ad0126c54b1bd163db8e1870804dc08bf",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "3c6dd8eb44f7cc4a",
+      "guid": "https://elpais.com/economia/negocios/2026-10-26/empleados-que-salen-de-la-empresa-para-volver-anos-despues-su-salario-puede-aumentar-hasta-un-25.html",
+      "link": "https://elpais.com/economia/negocios/2026-10-26/empleados-que-salen-de-la-empresa-para-volver-anos-despues-su-salario-puede-aumentar-hasta-un-25.html",
+      "title": "Empleados que salen de la empresa para volver años después: su salario puede aumentar hasta un 25%",
+      "excerpt": "Las compañías se benefician del auge de los llamados trabajadores bumerán. Su regreso les facilita la captación de talento y abarata el proceso de integración",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/OAC6TXEAW5GCJO34DLXFRLKCAU.jpg?auth=79ab5fd7fef0fdfa5216f1e08633e6699d2c780ed56494fee5b6d69e9183c2ea",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "5731c7a5255eb47e",
+      "guid": "https://elpais.com/planeta-futuro/2026-10-26/encuentros-mortales-entre-hipopotamos-y-humanos-en-burundi-la-perdida-de-habitat-acorrala-a-los-grandes-mamiferos.html",
+      "link": "https://elpais.com/planeta-futuro/2026-10-26/encuentros-mortales-entre-hipopotamos-y-humanos-en-burundi-la-perdida-de-habitat-acorrala-a-los-grandes-mamiferos.html",
+      "title": "Encuentros mortales entre hipopótamos y humanos en Burundi: la pérdida de hábitat acorrala a los grandes mamíferos",
+      "excerpt": "La invasión de los humedales y zonas protegidas reduce el espacio de los animales y hace cada vez más frecuentes los ataques a orillas del río Rusizi y el lago Tanganica",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/EPSND6MEZBCVLF5CQPIOPKR7MI.JPG?auth=0591afae6e7fd73c6efcb5c683a195c6f708e417a080079e1869b54ac7009fd6",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "8212b34e44c00cef",
+      "guid": "https://elpais.com/smoda/placeres/2026-10-26/dear-joanne-las-salas-pequenas-son-fundamentales-porque-los-grupos-salen-de-ahi.html",
+      "link": "https://elpais.com/smoda/placeres/2026-10-26/dear-joanne-las-salas-pequenas-son-fundamentales-porque-los-grupos-salen-de-ahi.html",
+      "title": "Dear Joanne: “Las salas pequeñas son fundamentales, porque los grupos salen de ahí”",
+      "excerpt": "Ale Conde y Eva Summers se conocieron en el colegio y decidieron formar una banda. Preferían escuchar rock a música urbana y así nació Dear Joanne, un proyecto guitarrero con letras que hablan de salas como “la Wurli” o tenistas como Aryna Sabalenka. Tras ganar los Premios Rock Villa de Madrid…",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/G7CINX42GVBGNFMRNOSU6LYPPA.jpg?auth=df7e9689347a122fcf81495ddcf607b9e35a33833824e73b407d732be8f5d85d",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "97ee885353c11edb",
+      "guid": "https://elpais.com/escaparate/lo-mas-vendido/termometro-higrometro.html",
+      "link": "https://elpais.com/escaparate/lo-mas-vendido/termometro-higrometro.html",
+      "title": "¿Para qué sirve un termómetro higrómetro? Este es el más deseado en Amazon",
+      "excerpt": "Sus 37.000 valoraciones convierten a este dispositivo de precisión en el accesorio ideal para conocer, de un vistazo, la temperatura y la humedad relativa del hogar",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/ZVKL5UF2ZFGCFPOWMODUYLSALI.png?auth=c632f81fc4a5aded210fb3c1c9cc083b1fc633736bda28abc17cdf2ce6ca32fa",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "b5958cd482dfd996",
+      "guid": "https://elpais.com/mamas-papas/actualidad/2026-10-26/no-dar-el-pecho-a-tu-bebe-no-te-hace-peor-madre.html",
+      "link": "https://elpais.com/mamas-papas/actualidad/2026-10-26/no-dar-el-pecho-a-tu-bebe-no-te-hace-peor-madre.html",
+      "title": "No dar el pecho a tu bebé no te hace peor madre",
+      "excerpt": "Los beneficios de la lactancia son innegables, pero las recomendaciones sanitarias y la presión social no pueden convertirse en medidas con las que juzgar el desempeño de la maternidad",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/OS5RLYV5IZGYRKFWL7IHLKDBJ4.jpg?auth=ca113e303a6493d879817c5ec58d182073136a73e93fa562b09459f71ec68700",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "d305aaf09cd3bc5a",
+      "guid": "https://elpais.com/gastronomia/2026-10-26/sergi-arola-cocinero-me-paso-como-a-los-alcoholicos-no-percibi-el-batacazo-que-me-estaba-dando.html",
+      "link": "https://elpais.com/gastronomia/2026-10-26/sergi-arola-cocinero-me-paso-como-a-los-alcoholicos-no-percibi-el-batacazo-que-me-estaba-dando.html",
+      "title": "Sergi Arola (cocinero): “Me pasó como a los alcohólicos, no percibí el batacazo que me estaba dando”",
+      "excerpt": "Vuelve a tener restaurante en Madrid con Austral, un nuevo proyecto gastronómico inspirado en la cocina del Pacífico Sur y el recetario tradicional de Chile, país en el que reside desde hace siete años, que incluirá además un pisco bar",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/RPQOT2EKRVBK3NLBV2SM3FMGQ4.jpg?auth=0a359a5e1a068736e19e69256859f12f99adb70b27edb0156605f4f1646325b2",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "f21eb380481f787f",
+      "guid": "https://elpais.com/gente/2026-10-26/justin-trudeau-dejo-la-politica-pero-no-la-fama-de-su-vida-junto-a-katy-perry-a-sus-nuevos-proyectos.html",
+      "link": "https://elpais.com/gente/2026-10-26/justin-trudeau-dejo-la-politica-pero-no-la-fama-de-su-vida-junto-a-katy-perry-a-sus-nuevos-proyectos.html",
+      "title": "Justin Trudeau dejó la política, pero no la fama: de su vida junto a Katy Perry a sus nuevos proyectos",
+      "excerpt": "Tras abandonar el cargo de primer ministro hace 19 meses, el canadiense, célebre desde la cuna por su apellido, sigue siendo foco de atención. Lo es por su romance con la cantante de ‘I Kissed a Girl’, su nueva faceta dando discursos por el mundo y su reciente empresa de producción audiovisual",
+      "published": "2026-10-26T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/CEWLWGL5EZATJNFWTPBTDNBVS4.jpg?auth=e47a161c15e25a051fe0d5c8d5de6f1f426131c161aea455dd6215c19070b5c6",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
       "id": "42349de5838f7ccd",
       "guid": "https://elpais.com/icon/2026-10-26/mora-el-arquitecto-del-regueton-moderno-he-visto-artistas-grandes-que-caen-por-creerse-dioses-y-no-escuchar-consejos.html",
       "link": "https://elpais.com/icon/2026-10-26/mora-el-arquitecto-del-regueton-moderno-he-visto-artistas-grandes-que-caen-por-creerse-dioses-y-no-escuchar-consejos.html",
@@ -34,6 +584,28 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/7WQ5E6H53JHVJMPVBVV7GGKF6E.jpg?auth=a1238b6b8ca5f04b6cedfca15dca46a87211e4febeb97e9d2e383d83cb48b5ef",
       "type": "article",
       "addedAt": "2026-10-26T04:43:27.771Z"
+    },
+    {
+      "id": "2a24ae4c1311e280",
+      "guid": "https://cincodias.elpais.com/companias/2026-10-26/la-cnmc-encarga-un-informe-a-ree-para-decidir-quien-paga-el-elevado-coste-de-la-operativa-antiapagones.html",
+      "link": "https://cincodias.elpais.com/companias/2026-10-26/la-cnmc-encarga-un-informe-a-ree-para-decidir-quien-paga-el-elevado-coste-de-la-operativa-antiapagones.html",
+      "title": "La CNMC encarga un informe a REE para decidir quién paga el “elevado” coste de la operativa antiapagones",
+      "excerpt": "Se plantea reformar el sistema para trasladar costes de la factura de unos consumidores a otros. Año y medio después del apagón, alerta de que el 40% de las horas la tensión del sistema está fuera de rango y hay especial inestabilidad en la zona de Aragón",
+      "published": "2026-10-26T04:15:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/ZBXONUMHHRAKHNLHNWK2XEPTLM.jpg?auth=ef4650bb0efcbf1e4da6ef47b31a52be1cedaa2e82d126125243447613807bad",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "f2cdf03058bd0a17",
+      "guid": "https://elpais.com/videos/estaba-yo-pensando/2026-10-26/el-miedo-al-paso-del-tiempo-por-que-nos-aferramos-a-la-juventud.html",
+      "link": "https://elpais.com/videos/estaba-yo-pensando/2026-10-26/el-miedo-al-paso-del-tiempo-por-que-nos-aferramos-a-la-juventud.html",
+      "title": "El miedo al paso del tiempo: ¿Por qué nos aferramos a la juventud?",
+      "excerpt": "La ensayista Silvia Herreros de Tejada, autora de ‘Juvencolía’, charla en este videopodcast con Sergio C. Fanjul sobre la mediana edad, el mito de Peter Pan o las situación de los jóvenes",
+      "published": "2026-10-26T04:15:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/XZXUQGSTPNEC5PRDPXE7N7MIWA.jpg?auth=73275c016cc7e21049fd1bbd0fbf5d8df3ebc986cbd4f286a806297ed4d46338",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
     },
     {
       "id": "682546b981cff8da",
@@ -91,6 +663,17 @@
       "addedAt": "2026-10-26T01:52:12.690Z"
     },
     {
+      "id": "d9a82922a6e7bde1",
+      "guid": "https://elpais.com/deportes/futbol/2026-10-26/mourinho-ganar-asi-es-importante-no-lo-hicimos-por-suerte.html",
+      "link": "https://elpais.com/deportes/futbol/2026-10-26/mourinho-ganar-asi-es-importante-no-lo-hicimos-por-suerte.html",
+      "title": "Mourinho: “Ganar así es importante, no lo hicimos por suerte”",
+      "excerpt": "El técnico portugués valora la organización, la tranquilidad y el coraje del Real Madrid en el Camp Nou",
+      "published": "2026-10-26T00:20:04.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/XIIJY7OAZ5ELLG3ERAUKRNTGFQ.jpg?auth=63c748883800b541a6bd74e75b6e721f9a4abc3e973df0eb29976930256ff2e8",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
       "id": "6e9dfb89c7d23148",
       "guid": "https://elpais.com/america/2026-10-26/lula-la-epica-de-la-izquierda-mundial.html",
       "link": "https://elpais.com/america/2026-10-26/lula-la-epica-de-la-izquierda-mundial.html",
@@ -111,6 +694,17 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/EFENGHNFGRACZFYVU5XPG4GQC4.jpg?auth=d18ec5ff54ba19321e3b81b74e3a0df4a0bb30cf9fbda12238a2ee600e253769",
       "type": "article",
       "addedAt": "2026-10-26T01:03:13.054Z"
+    },
+    {
+      "id": "e6f80928a38396a8",
+      "guid": "https://elpais.com/deportes/futbol/2026-10-25/el-viejo-mundo-no-acaba-de-morir.html",
+      "link": "https://elpais.com/deportes/futbol/2026-10-25/el-viejo-mundo-no-acaba-de-morir.html",
+      "title": "El viejo mundo no acaba de morir",
+      "excerpt": "La revuelta callejera de la generación de Lamine no logra enterrar al antiguo régimen que representa hoy un Mourinho rejuvenecido en el Camp Nou con una pizarra inesperada",
+      "published": "2026-10-25T23:33:44.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/JKHT7VONJNI4TFWHOAZRVETMNQ.jpg?auth=3c2ed06db2f0b78a4649e637eb9b6f28484173f1fd90c8e0d694792ccb2053d7",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
     },
     {
       "id": "79125a0f934fb09c",
@@ -234,6 +828,17 @@
       "addedAt": "2026-10-25T20:36:35.613Z"
     },
     {
+      "id": "1a45c7b3aeac74db",
+      "guid": "https://elpais.com/internacional/2026-10-25/le-pen-promete-seguridad-y-soberania-al-lanzar-su-carrera-al-eliseo.html",
+      "link": "https://elpais.com/internacional/2026-10-25/le-pen-promete-seguridad-y-soberania-al-lanzar-su-carrera-al-eliseo.html",
+      "title": "Le Pen promete seguridad y soberanía al lanzar su carrera al Elíseo",
+      "excerpt": "Su delfín político, Jordan Bardella, tuvo su discurso interrumpido por militantes de juventudes judías, que han sido expulsados a la fuerza del recinto ferial que acogía el congreso",
+      "published": "2026-10-25T19:41:43.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/IBZUIOI5QVNLJFP2MWAYYTCS64.jpg?auth=2d175a1a6b22879979f3cc553c26fa33d1c280782e9d5294eee4cfcdcbc89bd0",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
       "id": "3c99c982729d5b46",
       "guid": "https://elpais.com/deportes/futbol/2026-10-25/barcelona-real-madrid-en-directo-el-clasico-de-la-liga-en-vivo.html",
       "link": "https://elpais.com/deportes/futbol/2026-10-25/barcelona-real-madrid-en-directo-el-clasico-de-la-liga-en-vivo.html",
@@ -298,6 +903,17 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/CQFWTGP2IFAZXBOTEZKZEP7RBM.jpeg?auth=55a62574efdfe2a4c58ded9e7a62ebf6b1b8071bd4e5a05d5e18169a10a38f78",
       "type": "article",
       "addedAt": "2026-10-25T18:41:59.383Z"
+    },
+    {
+      "id": "262ffc2884c32f01",
+      "guid": "https://elpais.com/cultura/cine/2026-10-25/jose-luis-garcia-sanchez-habia-que-deshacer-la-casa.html",
+      "link": "https://elpais.com/cultura/cine/2026-10-25/jose-luis-garcia-sanchez-habia-que-deshacer-la-casa.html",
+      "title": "José Luis García Sánchez: había que deshacer la casa",
+      "excerpt": "“Siempre me gustó mi compañero de pupitre. Nunca perdió la energía y la creatividad, y ha disfrutado como ninguno del hecho de rodar”, escribe Fernando Méndez-Leite",
+      "published": "2026-10-25T17:45:21.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/WDTOZ76A7ZBNZNZQKP7NJKRN4Y.jpg?auth=bf15641142fe4973a2980862ca04d75c87cc94ee4a36652b52f4e0e5105fb97b",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
     },
     {
       "id": "dfdb56059ccd1ecb",
@@ -496,6 +1112,17 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/5ZCBSGQHYRVASIGQ6D6OL2TBSM.jpg?auth=019910b6d32100c6885c97622bedb9beb5fea808aede0daf4d03d2766dff20e9",
       "type": "article",
       "addedAt": "2026-10-25T13:39:16.218Z"
+    },
+    {
+      "id": "f77e99fbe851bab3",
+      "guid": "https://elpais.com/cultura/2026-10-25/el-instituto-cervantes-cumple-20-anos-en-una-china-que-pide-mas-espanol.html",
+      "link": "https://elpais.com/cultura/2026-10-25/el-instituto-cervantes-cumple-20-anos-en-una-china-que-pide-mas-espanol.html",
+      "title": "El Instituto Cervantes cumple 20 años en una China que pide más español",
+      "excerpt": "El Instituto Cervantes presenta en Pekín su anuario, en el que cifra en más de 640 millones los hablantes potenciales de español en el mundo; 98.000 están en China",
+      "published": "2026-10-25T12:44:59.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/PB6VV2IMSNPEDJ5MN727VITE2M.jpg?auth=0008135c4528cfc817a2515d7e51cf4a8091b0208909da24e213353b38429725",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
     },
     {
       "id": "a825d94544171dd1",
@@ -1112,6 +1739,61 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/CQSKUQD72RGRNHTLICICKSMMYQ.jpg?auth=bf288fc2a7c5d12214d5bb6cb6221943d6c9448f6d9c8c48f58f650245d716da",
       "type": "article",
       "addedAt": "2026-10-25T04:39:35.777Z"
+    },
+    {
+      "id": "22536fb996056a47",
+      "guid": "https://elpais.com/eps/2026-10-25/cronistas-de-la-peste-asi-se-hicieron-los-grandes-reportajes-de-el-pais-semanal-durante-el-confinamiento-del-coronavirus.html",
+      "link": "https://elpais.com/eps/2026-10-25/cronistas-de-la-peste-asi-se-hicieron-los-grandes-reportajes-de-el-pais-semanal-durante-el-confinamiento-del-coronavirus.html",
+      "title": "Cronistas de la peste: así se hicieron los grandes reportajes de ‘El País Semanal’ durante el confinamiento del coronavirus",
+      "excerpt": "El reportaje es uno de los géneros esenciales en ‘El País Semanal’ y lo fue también durante las semanas más duras de la pandemia de 2020",
+      "published": "2026-10-25T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/2KWJMGHTIVH6BD74IBPDJISTAQ.jpg?auth=cddf059f494f0cf0f30f9d3ca83861797abf24bb94e95274db6681d8aa9ce4f1",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "3dfd100437a9c3be",
+      "guid": "https://elpais.com/eps/2026-10-25/portadas-que-son-hijas-de-su-tiempo.html",
+      "link": "https://elpais.com/eps/2026-10-25/portadas-que-son-hijas-de-su-tiempo.html",
+      "title": "Portadas que son hijas de su tiempo",
+      "excerpt": "Algunas portadas de nuestra hemeroteca contienen algunas palabras hoy políticamente incorrectas, cierto sexismo o chistes que ya no tienen gracia. Pero en su momento muchas fueron rompedoras. Son reflejo de un periódico que estaba encontrando su voz y de una época en la que los personajes públicos…",
+      "published": "2026-10-25T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/FLNGML6ZPVGOPHBNANZJSVK77Y.JPG?auth=0a356ce6901a8782d238bede71dc4c548ed46c19dfac7f506028aa1847e8aa4f",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "8ad749ce4c4efa9b",
+      "guid": "https://elpais.com/ideas/2026-10-25/contra-lo-roboticamente-correcto.html",
+      "link": "https://elpais.com/ideas/2026-10-25/contra-lo-roboticamente-correcto.html",
+      "title": "Contra lo robóticamente correcto",
+      "excerpt": "Acaban de prohibir insultar a la IA. Anthropic castigará al usuario que mantenga “comportamientos abusivos o crueles”, están preocupados por el “bienestar” de sus modelos, les juro que lo dicen así",
+      "published": "2026-10-25T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/IO4HHPBMWZGDHKMEIJ46SI7T6E.jpg?auth=dce46b44f0072648ee8efee5d6f49b6adb5c5dae6dd35a8beca1918d0efe7399",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "b906010f4d1de3e7",
+      "guid": "https://elpais.com/eps/2026-10-25/maitena-algunos-cambios-de-estos-ultimos-50-anos.html",
+      "link": "https://elpais.com/eps/2026-10-25/maitena-algunos-cambios-de-estos-ultimos-50-anos.html",
+      "title": "Maitena: algunos cambios de estos últimos 50 años",
+      "excerpt": "Política, dinero, sexo... La humorista argentina resume en seis viñetas cómo hemos cambiado",
+      "published": "2026-10-25T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/WZOUZ3HPGBBTNF7ZAKGRWLJAWQ.jpg?auth=b8d224e9713e2046d0078a2b96daf40e3160f7af70ec763123b0270260f15c38",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
+    },
+    {
+      "id": "f141e56c2c11867e",
+      "guid": "https://elpais.com/eps/2026-10-25/el-arte-y-la-politica-de-hacer-una-revista.html",
+      "link": "https://elpais.com/eps/2026-10-25/el-arte-y-la-politica-de-hacer-una-revista.html",
+      "title": "El arte y la política de hacer una revista",
+      "excerpt": "Una selección de portadas de temáticas que atraviesan la historia de ‘El País Semanal’, de la moda a la literatura",
+      "published": "2026-10-25T04:30:00.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/YZUGVDH33FGVTJWG6CBNQZURKI.jpg?auth=f713200c47ee638ce9a192a73e2535a57f4e1975fac801295a7ea3fe73196c13",
+      "type": "article",
+      "addedAt": "2026-10-26T05:43:34.920Z"
     },
     {
       "id": "037c48c5738d6de0",
