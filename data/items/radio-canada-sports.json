@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "14a4e679e8e9db37",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10793182/sports-express-25-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10793182/sports-express-25-octobre",
+      "title": "Sports Express - 25 octobre",
+      "excerpt": "Les nouvelles du sport avec Ismaël Sy",
+      "published": "2026-10-26T03:28:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T03:43:33.007Z"
+    },
+    {
+      "id": "0c9cac227ef605d1",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10793179/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10793179/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-26T03:10:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T03:43:33.007Z"
+    },
+    {
       "id": "770b7423307df54e",
       "guid": "https://ici.radio-canada.ca/sports/2295734/fowler-canadien-jets-classique-heritage",
       "link": "https://ici.radio-canada.ca/sports/2295734/fowler-canadien-jets-classique-heritage",
