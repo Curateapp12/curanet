@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "ef596de976c9e737",
+      "guid": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
+      "title": "Clean-up under way as Storm Boelo leaves thousands without power",
+      "excerpt": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
+      "published": "2026-10-26T08:27:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T08:52:44.475Z"
+    },
+    {
+      "id": "5c9214f86a34f402",
+      "guid": "https://www.bbc.co.uk/news/articles/crx2dyd24188o#4",
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
+      "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+      "excerpt": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
+      "published": "2026-10-26T08:18:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1265/live/b5d85d90-d10a-11f1-ac54-9f7716f7b702.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T08:52:44.475Z"
+    },
+    {
       "id": "52a01105844a4ed5",
       "guid": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro#4",
       "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro",
@@ -12,6 +34,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db8/live/b9600940-d100-11f1-9d25-c3fafb2ab4de.jpg",
       "type": "article",
       "addedAt": "2026-10-26T07:57:54.071Z"
+    },
+    {
+      "id": "9757184642421be8",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cqdr8e81xjy7o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8e81xjy7o",
+      "title": "Ex-Liverpool winger Pennant has more than 50 stitches after dog attack",
+      "excerpt": "Former Premier League footballer Jermaine Pennant says he needed more than 50 stitches after being mauled by a dog.",
+      "published": "2026-10-26T07:36:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dec/live/7db62da0-d10c-11f1-ac54-9f7716f7b702.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T08:52:44.475Z"
     },
     {
       "id": "fc7962c12738f9c3",
@@ -716,6 +749,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
       "type": "article",
       "addedAt": "2026-10-25T00:48:49.474Z"
+    },
+    {
+      "id": "091c24dcfc4ee405",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0phhxp0?at_mid=sulUAQaVXo&at_campaign=Newscast_Could_A_Major_Part_Of_Brexit_Be_Reversed_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Could_A_Major_Part_Of_Brexit_Be_Reversed_news_rail&at_bbc_team=BBC&at_creation=News#6",
+      "link": "https://www.bbc.co.uk/sounds/play/p0phhxp0?at_audience_id=SS&at_bbc_team=BBC&at_brand=p05299nl&at_campaign_type=owned&at_creation=News&at_format=image&at_link_title=Newscast_Could_A_Major_Part_Of_Brexit_Be_Reversed_news_rail&at_mid=sulUAQaVXo&at_nation=NET&at_objective=consumption&at_product=sounds&at_ptr_name=bbc&at_ptr_type=media",
+      "title": "Could A Major Part Of Brexit Be Reversed?",
+      "excerpt": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+      "published": "2026-10-25T00:00:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T08:52:44.475Z"
     },
     {
       "id": "d4131e1ea19c0d55",

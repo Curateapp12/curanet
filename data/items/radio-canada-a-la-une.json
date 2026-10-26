@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "313cf15ae00e6419",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295732/sommet-canada-ue-stephane-dion-resultats-concrets-carney",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295732/sommet-canada-ue-stephane-dion-resultats-concrets-carney",
+      "title": "Sommet EU-Canada à Montréal : « On a besoin de résultats concrets », dit Stéphane Dion",
+      "excerpt": "En septembre, la présidente de la Commission européenne a dit vouloir que le Canada soit « membre associé ».",
+      "published": "2026-10-26T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/canada-union-europeenne-adhesion-politique-71063.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T08:52:44.475Z"
+    },
+    {
+      "id": "4880e08b958e7158",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien",
+      "title": "Près de 30 000 incidents de violence dans les écoles québécoises",
+      "excerpt": "Le nombre d’incidents de violence rapportés envers les employés de soutien a triplé en quatre ans",
+      "published": "2026-10-26T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cour-ecole-recreation-11329.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T08:52:44.475Z"
+    },
+    {
+      "id": "56a4d4cf8b45d6ad",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295724/elections-israel-referendum-netanyahou",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295724/elections-israel-referendum-netanyahou",
+      "title": "Derrière les élections israéliennes, des airs de référendum sur Nétanyahou",
+      "excerpt": "Les attentats du Hamas sont au cœur de ce scrutin, le premier à être organisé depuis le 7 octobre 2023.",
+      "published": "2026-10-26T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/politics-vote-demonstration-horizontal.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T08:52:44.475Z"
+    },
+    {
+      "id": "5ff3916b64e74950",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295727/sting-saint-denis-concert-50-ans-histoire-quebec",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295727/sting-saint-denis-concert-50-ans-histoire-quebec",
+      "title": "Sting et le Québec : près de 50 ans d’histoire, de Morin-Heights au théâtre Saint-Denis",
+      "excerpt": "Sting sera au théâtre Saint-Denis de Montréal de lundi à vendredi, pour quatre concerts à guichets fermés.",
+      "published": "2026-10-26T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sting-the-police-concerts-montreal.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T08:52:44.475Z"
+    },
+    {
+      "id": "62de0dd23f852c21",
+      "guid": "https://ici.radio-canada.ca/info/long-format/2295325/roundup-monsanto-toxique-risque-sante-chimique",
+      "link": "https://ici.radio-canada.ca/info/long-format/2295325/roundup-monsanto-toxique-risque-sante-chimique",
+      "title": "Les pesticides dans l’eau potable réglementés… par leurs fabricants",
+      "excerpt": "Des études financées par l'industrie il y a 45 ans ont servi à établir les normes sur les pesticides au pays.",
+      "published": "2026-10-26T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/eau-potable-ville-de-quebec-eau-robinet-verre-deau-38137.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T08:52:44.475Z"
+    },
+    {
+      "id": "f24082ec3990e909",
+      "guid": "https://ici.radio-canada.ca/info/long-format/2292984/proces-larose-contre-majeste-roi-vancouver-changements-climatiques",
+      "link": "https://ici.radio-canada.ca/info/long-format/2292984/proces-larose-contre-majeste-roi-vancouver-changements-climatiques",
+      "title": "Témoins des dérèglements du climat, ces jeunes poursuivent le Canada",
+      "excerpt": "C'est la première fois qu'un procès constitutionnel sur l'action climatique s'ouvre au pays.",
+      "published": "2026-10-26T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/la-rose-majeste-roi-proces-climat.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T08:52:44.475Z"
+    },
+    {
       "id": "b3d4deab017a22a0",
       "guid": "https://ici.radio-canada.ca/nouvelle/2295710/couvent-trois-pistoles-incendie",
       "link": "https://ici.radio-canada.ca/nouvelle/2295710/couvent-trois-pistoles-incendie",
