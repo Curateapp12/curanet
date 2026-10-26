@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "46a0c85d2a467b67",
+      "guid": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o",
+      "title": "Independent review announced into murder of student Henry Nowak",
+      "excerpt": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+      "published": "2026-10-26T15:49:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43b/live/79bb9a20-603f-11f1-89a3-d1f559421220.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T16:10:07.727Z"
+    },
+    {
+      "id": "3fff278add92caf1",
+      "guid": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o#4",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "excerpt": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
+      "published": "2026-10-26T15:45:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fbc/live/37ee8ce0-d152-11f1-9eb5-811878e0f07d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T16:10:07.727Z"
+    },
+    {
+      "id": "18e5ac02170643eb",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o",
+      "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
+      "excerpt": "BBC Sport takes a look at who could replace Michael Carrick at Manchester United if the head coach was sacked.",
+      "published": "2026-10-26T15:34:23.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b578/live/a7efc940-d14e-11f1-9eb5-811878e0f07d.png",
+      "type": "article",
+      "addedAt": "2026-10-26T16:10:07.727Z"
+    },
+    {
+      "id": "707a67737b095791",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o",
+      "title": "Why is Wilcox in line of fire from Man Utd fans?",
+      "excerpt": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox.",
+      "published": "2026-10-26T15:24:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedb/live/3c7b5a40-d14d-11f1-9eb5-811878e0f07d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T16:10:07.727Z"
+    },
+    {
       "id": "a88b707556cc1d12",
       "guid": "https://www.bbc.co.uk/news/articles/cwly02l45ny3o#1",
       "link": "https://www.bbc.co.uk/news/articles/cwly02l45ny3o",
@@ -45,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
       "type": "article",
       "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "fa8df623643cd0c7",
+      "guid": "https://www.bbc.co.uk/news/articles/c6rmyl0kxyxjo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmyl0kxyxjo",
+      "title": "Owners of Elvis music rights sue Anthropic for copyright violations",
+      "excerpt": "The company is accused of using hundreds of songs by the American rock-and-roll star to train its Claude AI model.",
+      "published": "2026-10-26T14:37:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff9/live/da9e4b80-d0d3-11f1-8fac-17c9679d0cff.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T16:10:07.727Z"
     },
     {
       "id": "dbe858d46839c0fd",
@@ -210,6 +265,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276a/live/9bd2b450-d11d-11f1-a701-fddedf244c16.jpg",
       "type": "article",
       "addedAt": "2026-10-26T09:52:19.640Z"
+    },
+    {
+      "id": "98586d00adece3a4",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq5ynp680jm1o#2",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq5ynp680jm1o",
+      "title": "Will anyone end Spain's domination of women's Ballon d'Or?",
+      "excerpt": "Spanish players have dominated the Women's Ballon d'Or for the past five years, so will they be celebrating again on Monday?",
+      "published": "2026-10-26T09:21:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a03/live/71b01b30-cdfe-11f1-a64c-550be9e3c66b.png",
+      "type": "article",
+      "addedAt": "2026-10-26T16:10:07.727Z"
     },
     {
       "id": "ef596de976c9e737",
