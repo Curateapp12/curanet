@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "bf3fd68bca62d7a7",
+      "guid": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo",
+      "title": "Crowds welcome Venezuela's María Machado after months in exile",
+      "excerpt": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
+      "published": "2026-10-26T09:31:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276a/live/9bd2b450-d11d-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T09:52:19.640Z"
+    },
+    {
       "id": "ef596de976c9e737",
       "guid": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#1",
       "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
@@ -276,6 +287,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
       "type": "article",
       "addedAt": "2026-10-25T22:36:31.566Z"
+    },
+    {
+      "id": "51f1df1c39ce0098",
+      "guid": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo#2",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo",
+      "title": "Israelis prepare to vote in one of the most pivotal elections in the country's history",
+      "excerpt": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "published": "2026-10-25T22:05:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf80/live/c5aaa2d0-d0ad-11f1-84bc-f3a33719a550.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T09:52:19.640Z"
     },
     {
       "id": "f60ebb9d76e52c5a",

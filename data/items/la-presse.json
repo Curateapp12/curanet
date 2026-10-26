@@ -3,6 +3,39 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "41ff0b7abd1510d6",
+      "guid": "cc8b489d69853a0dbebdecf01bceeeaa",
+      "link": "https://www.lapresse.ca/actualites/analyses/2026-10-26/elections-partielles/carney-et-ses-deux-nouveaux-joueurs.php",
+      "title": "Élections partielles | Carney et ses deux nouveaux joueurs",
+      "excerpt": "Les élections au Québec et en Colombie-Britannique affecteront-elles l’unité d’Équipe Canada ?",
+      "published": "2026-10-26T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/8711f18ef72531c0bb8b5d4702633fc6.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T09:52:19.640Z"
+    },
+    {
+      "id": "e260b5cf804f214b",
+      "guid": "44253b8a61b13c638bc622549390a1b6",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php",
+      "title": "Construction | Un entrepreneur perd sa licence pour « extrême négligence »",
+      "excerpt": "Un important promoteur immobilier de Montréal vient de perdre sa licence de construction après avoir « enfreint à répétition toutes les lois qui régissent l’industrie », selon la Régie du bâtiment du Québec (RBQ).",
+      "published": "2026-10-26T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/8a67ecdaa96e39eb991dd74b58734a24.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T09:52:19.640Z"
+    },
+    {
+      "id": "e540a3c67308792d",
+      "guid": "3912b720dcdb3a6d8e82cbefc44c2d04",
+      "link": "https://www.lapresse.ca/actualites/editoriaux/2026-10-26/reforme-du-systeme-de-traitement-des-plaintes/a-genoux-devant-les-transporteurs-aeriens.php",
+      "title": "Réforme du système de traitement des plaintes | À genoux devant les transporteurs aériens",
+      "excerpt": "Stephen Harper, sors de ce corps ! Tout libéral qu’il soit, c’est fou comme Mark Carney ressemble à l’ancien premier ministre conservateur sur certains dossiers.",
+      "published": "2026-10-26T09:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T09:52:19.640Z"
+    },
+    {
       "id": "c43e5ffe9468784d",
       "guid": "cf42901b6f8e382c90c0620ee19386cb",
       "link": "https://www.lapresse.ca/actualites/2026-10-25/en-quete-de-solutions-episode-10/comment-sortir-de-la-solitude.php",
