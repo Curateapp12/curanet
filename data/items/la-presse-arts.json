@@ -3,6 +3,50 @@
   "sourceId": "la-presse-arts",
   "items": [
     {
+      "id": "8c18d264491e5801",
+      "guid": "5fe7d31368013326afaee713583b2a0c",
+      "link": "https://www.lapresse.ca/arts/chroniques/2026-10-26/vu-lu-entendu/l-ere-de-la-nostalgie-artificielle.php",
+      "title": "Vu, lu, entendu | L’ère de la nostalgie artificielle",
+      "excerpt": "Une rubrique qui permet à notre chroniqueur de regarder par-dessus son épaule.",
+      "published": "2026-10-26T12:15:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/f8a57f4dafff3e2c9af41db98b63b885.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T12:35:09.510Z"
+    },
+    {
+      "id": "24801d9bbb71e39a",
+      "guid": "2ab04be8925d3e15b1c6430c41e667a5",
+      "link": "https://www.lapresse.ca/arts/television/2026-10-26/le-documentaire-de-la-semaine/champ-libre-immersion-dans-six-tendances-du-moment.php",
+      "title": "Le documentaire de la semaine | Champ libre : immersion dans six tendances du moment",
+      "excerpt": "Don de sperme artisanal, ultraentraînement, bien-être sur TikTok ou économie du fétichisme en ligne, six journalistes d’Urbania plongent tête première dans divers enjeux de société et tendances du moment, dans Champ libre, une nouvelle série documentaire présentée sur Savoir média.",
+      "published": "2026-10-26T12:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/ec5bd48d6f3434feb03e3ce87f78b4a4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T12:35:09.510Z"
+    },
+    {
+      "id": "cec9df4c0a981e75",
+      "guid": "bcdf9a9beeea35a6b0fac8b559ebca01",
+      "link": "https://www.lapresse.ca/arts/chroniques/2026-10-26/od-panama/se-sortir-de-la-friendzone-en-mode-dora-l-exploratrice.php",
+      "title": "OD Panamá | Se sortir de la friendzone en mode Dora l’exploratrice",
+      "excerpt": "Escandalo à OD Panamá ! L’influenceur sportif Jacob Ladouceur, alias le prince charmant de Shrek, a été « friendzone en live devant tout le Québec » par la créatrice de contenu Imane, 25 ans, qui, dans le même franglais qu’ils baragouinent constamment, lui a admis qu’elle le considérait plutôt…",
+      "published": "2026-10-26T11:15:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/61f31e6053f2371b83d8e64936cc2fd2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T12:35:09.510Z"
+    },
+    {
+      "id": "8700e039c02d1f3b",
+      "guid": "a5f867e036793c16b2a20d4bbf6ea184",
+      "link": "https://www.lapresse.ca/arts/musique/2026-10-26/violation-du-droit-d-auteur/les-detenteurs-des-droits-sur-la-musique-d-elvis-presley-poursuivent-anthropic.php",
+      "title": "Violation du droit d’auteur | Les détenteurs des droits sur la musique d’Elvis Presley poursuivent Anthropic",
+      "excerpt": "Les détenteurs des droits sur la musique d’Elvis Presley ont intenté un procès contre la société d’intelligence artificielle (IA) Anthropic, affirmant que celle-ci avait entraîné ses modèles à partir de plus de 200 chansons de Presley sans leur autorisation, et l’accusant de violation du droit…",
+      "published": "2026-10-26T11:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/738bfceb/8bfd169c2da13594a2ab9e29f1fbe123.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T12:35:09.510Z"
+    },
+    {
       "id": "af52218018372268",
       "guid": "63c20f94475a382fa79a6b71638a4d54",
       "link": "https://www.lapresse.ca/arts/television/2026-10-26/de-souche-et-fracture-americaine/simon-coutu-le-plus-punk-des-journalistes.php",

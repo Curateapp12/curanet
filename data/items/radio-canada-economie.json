@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "1d2af20e2d2fc9fb",
+      "guid": "https://ici.radio-canada.ca/tele/la-semaine-verte/site/segments/reportage/2510109/travailleurs-etrangers-permis-travail",
+      "link": "https://ici.radio-canada.ca/tele/la-semaine-verte/site/segments/reportage/2510109/travailleurs-etrangers-permis-travail",
+      "title": "Permis fermés, travailleurs « captifs »",
+      "excerpt": "Des milliers de travailleurs étrangers agricoles qui viennent au Canada chaque année ont un permis de travail « fermé » jugé abusif par de nombreux groupes. Devrait-il être remplacé par un permis plus ouvert?",
+      "published": "2026-10-26T12:08:56.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/la-semaine-verte-travailleurs-etrangers-permis-travail.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T12:35:09.510Z"
+    },
+    {
+      "id": "6a65139bbf977131",
+      "guid": "https://ici.radio-canada.ca/tele/la-semaine-verte/site/segments/reportage/2510108/metier-attrapeur-poulet",
+      "link": "https://ici.radio-canada.ca/tele/la-semaine-verte/site/segments/reportage/2510108/metier-attrapeur-poulet",
+      "title": "Le dur métier d’attrapeur de poulets",
+      "excerpt": "Chaque nuit, des travailleurs étrangers originaires principalement du Guatemala attrapent à la main des dizaines de milliers de poulets dans les fermes du Québec.Un travail physique et répétitif.",
+      "published": "2026-10-26T12:08:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/la-semaine-verte-attrapeurs-poulets-travailleurs-etrangers.png",
+      "type": "article",
+      "addedAt": "2026-10-26T12:35:09.510Z"
+    },
+    {
+      "id": "949b26a6f741cf2b",
+      "guid": "https://ici.radio-canada.ca/tele/la-semaine-verte/site/segments/reportage/2510106/travailleurs-etrangers-agriculture",
+      "link": "https://ici.radio-canada.ca/tele/la-semaine-verte/site/segments/reportage/2510106/travailleurs-etrangers-agriculture",
+      "title": "Travailleurs étrangers indispensables",
+      "excerpt": "Mexicains, Guatémaltèques, Jamaïcains... En 2025, plus de 77 000 travailleurs étrangers sont venus soutenir l'agriculture canadienne. Histoire de cette main-d'œuvre devenue essentielle.",
+      "published": "2026-10-26T12:07:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/la-semaine-verte-travailleurs-etrangers-temporaires-agriculteurs.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T12:35:09.510Z"
+    },
+    {
       "id": "2f3cefa7d879f959",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10792689/marche-immobilier-en-voie-changer",
       "link": "https://ici.radio-canada.ca/info/videos/1-10792689/marche-immobilier-en-voie-changer",
