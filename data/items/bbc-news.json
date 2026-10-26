@@ -3,6 +3,61 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "150219ed3b3698ae",
+      "guid": "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo",
+      "title": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90",
+      "excerpt": "He played the eager Russian crewman in the original Star Trek series and later appeared in Babylon 5.",
+      "published": "2026-10-26T18:34:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd37/live/44c071b0-d169-11f1-87df-afb7a168a1f2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T18:54:50.291Z"
+    },
+    {
+      "id": "8c1239ce00eb0e29",
+      "guid": "https://www.bbc.co.uk/news/articles/cqd093gk1rjeo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cqd093gk1rjeo",
+      "title": "Keir Starmer's government discussed moving out of 10 Downing Street",
+      "excerpt": "The building has been described as a \"gloomy, mice-infested, bomb-curtained rabbit warren\".",
+      "published": "2026-10-26T18:33:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ef/live/129b4b80-d167-11f1-87df-afb7a168a1f2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T18:54:50.291Z"
+    },
+    {
+      "id": "da4c06233179a9d7",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo",
+      "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
+      "excerpt": "Harry Kane's dream of winning the Ballon d'Or seemed as if it had come true on Monday when the organisers released an article claiming he had won the award.",
+      "published": "2026-10-26T18:10:26.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9beb/live/3c6000b0-d166-11f1-87df-afb7a168a1f2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T18:54:50.291Z"
+    },
+    {
+      "id": "1e8bab909d67df01",
+      "guid": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo#4",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo",
+      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "excerpt": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
+      "published": "2026-10-26T18:00:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe66/live/b5f63180-d0d8-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T18:54:50.291Z"
+    },
+    {
+      "id": "a73085d1e7d542ef",
+      "guid": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o",
+      "title": "Surprising things we have learnt from Anthropic's blockbuster share listing",
+      "excerpt": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "published": "2026-10-26T17:20:54.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T18:54:50.291Z"
+    },
+    {
       "id": "85ae671e8a6cc474",
       "guid": "https://www.bbc.co.uk/sport/golf/articles/ck78px63l923o#8",
       "link": "https://www.bbc.co.uk/sport/golf/articles/ck78px63l923o",
@@ -320,6 +375,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb3/live/8c0c5bf0-d138-11f1-be77-d1864d279cb0.jpg",
       "type": "article",
       "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "16fca335aee20c4b",
+      "guid": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o#2",
+      "link": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o",
+      "title": "Stunning photos capture October's Hunter's Moon around the world",
+      "excerpt": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
+      "published": "2026-10-26T11:27:39.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f993/live/5a4ff260-d125-11f1-9a61-7b8d75492b97.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T18:54:50.291Z"
     },
     {
       "id": "d9ce9d9db107448a",
