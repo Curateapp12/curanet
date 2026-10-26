@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "19c3e496d68c7d0e",
+      "guid": "https://www.bbc.co.uk/news/articles/cr93zp78g580o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zp78g580o",
+      "title": "Daughter wins £127k claim for caring for mum at home",
+      "excerpt": "A woman describes \"phenomenal\" relief after a ruling that she is entitled to be paid for the care.",
+      "published": "2026-10-26T06:23:01.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0545/live/df3ad450-c94f-11f1-9a39-31b474234113.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T06:54:50.037Z"
+    },
+    {
+      "id": "2540b7686833fe96",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo",
+      "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+      "excerpt": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?",
+      "published": "2026-10-26T06:19:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cc7/live/9ef6d620-cbd7-11f1-b139-f77a8b036d06.png",
+      "type": "article",
+      "addedAt": "2026-10-26T06:54:50.037Z"
+    },
+    {
+      "id": "0aa74e6dc2087b3a",
+      "guid": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "excerpt": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
+      "published": "2026-10-26T06:16:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba1/live/0257f500-d100-11f1-9d25-c3fafb2ab4de.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T06:54:50.037Z"
+    },
+    {
+      "id": "9fac2dd051ab8065",
+      "guid": "https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo",
+      "title": "Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William",
+      "excerpt": "The rugby league star is \"gold dust\" and \"should have been Sir Kevin years ago,\" says the Prince of Wales.",
+      "published": "2026-10-26T06:00:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e843/live/d537ed90-d105-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T06:54:50.037Z"
+    },
+    {
       "id": "f445f5afabdfd475",
       "guid": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go#4",
       "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go",
@@ -23,6 +67,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e6c/live/3b364b00-d0e8-11f1-b441-2b33b063138f.jpg",
       "type": "article",
       "addedAt": "2026-10-26T04:43:27.771Z"
+    },
+    {
+      "id": "cccc77875e337510",
+      "guid": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+      "title": "What is the Budget and what could be in it?",
+      "excerpt": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "published": "2026-10-26T02:16:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T06:54:50.037Z"
     },
     {
       "id": "cd34b21a12daa2c7",
@@ -210,6 +265,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b1/live/b4ad99d0-d0b5-11f1-960c-a30ffadcd9ea.jpg",
       "type": "article",
       "addedAt": "2026-10-25T21:38:23.572Z"
+    },
+    {
+      "id": "863be75b34f680a9",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o",
+      "title": "Howe open to Man Utd talks - Monday's gossip",
+      "excerpt": "Eddie Howe is open to holding talks with Manchester United if they part ways with manager Michael Carrick, three Premier League clubs are monitoring Bayern Munich's Lennart Karl, plus more.",
+      "published": "2026-10-25T21:09:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b5/live/5102a540-d0b2-11f1-93e1-3b657b665bcf.png",
+      "type": "article",
+      "addedAt": "2026-10-26T06:54:50.037Z"
     },
     {
       "id": "e9e1e104120fc439",
