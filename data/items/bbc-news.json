@@ -3,6 +3,116 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "a88b707556cc1d12",
+      "guid": "https://www.bbc.co.uk/news/articles/cwly02l45ny3o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwly02l45ny3o",
+      "title": "Russell Brand asked assistant for female fan phone numbers, court hears",
+      "excerpt": "Helen Berger said she left her job working for Brand after she became \"sick of him.\"",
+      "published": "2026-10-26T14:57:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e091/live/29c876d0-d148-11f1-9eb5-811878e0f07d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "1c6da570aaee1083",
+      "guid": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o#4",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o",
+      "title": "Part of Antarctica named after former BBC science correspondent",
+      "excerpt": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+      "published": "2026-10-26T14:54:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/45574340-ce23-11f1-9f18-490cec60aa0f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "49d5d6b766f44746",
+      "guid": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo",
+      "title": "Drivers who killed mum and girl while racing jailed",
+      "excerpt": "Hardeep Bhachu and Jasskamal Riyat are warned of the 'irreversible' consequences of their actions.",
+      "published": "2026-10-26T14:53:24.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fae/live/3391f2e0-a2d6-11f1-b109-879e35c24276.png",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "178c42b4d7f0694c",
+      "guid": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "excerpt": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "published": "2026-10-26T14:41:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "dbe858d46839c0fd",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cwg5jn7845jdo#8",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwg5jn7845jdo",
+      "title": "Ireland prop Furlong cited over alleged groin grab",
+      "excerpt": "Ireland prop Tadhg Furlong is cited over an alleged groin grab in Leinster's United Rugby Championship win over Munster on Saturday.",
+      "published": "2026-10-26T14:22:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a136/live/7a2a2970-d148-11f1-9eb5-811878e0f07d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "c610f742ab552cc4",
+      "guid": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo",
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "excerpt": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+      "published": "2026-10-26T14:16:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e6/live/50a614d0-d14b-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "aacf696ca69d7041",
+      "guid": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo",
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "excerpt": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+      "published": "2026-10-26T14:13:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a6/live/4658dae0-d13b-11f1-8d4e-ef1672a07d66.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "27f7bd8f3129d084",
+      "guid": "https://www.bbc.co.uk/sport/horse-racing/articles/c6lykg4l72xlo#8",
+      "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c6lykg4l72xlo",
+      "title": "Racecourse fined after jockey taken to A&E in horsebox",
+      "excerpt": "Sedgefield Racecourse is fined £6,500 after failing to comply with five 'general instructions' of safety.",
+      "published": "2026-10-26T13:50:26.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c248/live/c9c064d0-d13f-11f1-8d4e-ef1672a07d66.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "6ec84208cb53dc8e",
+      "guid": "https://www.bbc.co.uk/news/articles/c8p3g73ep520o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c8p3g73ep520o",
+      "title": "Fans prepare to say goodbye as anime series Bleach officially ends",
+      "excerpt": "Twenty-two years after it first aired, one of the biggest animes of all time is coming to an end.",
+      "published": "2026-10-26T12:22:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f683/live/2e277e70-d138-11f1-a701-fddedf244c16.png",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "38edd0d52d4cc594",
+      "guid": "https://www.bbc.co.uk/news/articles/cx240dpzv009o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o",
+      "title": "Burnham leaves door open to referendum on EU free movement",
+      "excerpt": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.",
+      "published": "2026-10-26T12:20:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc4a/live/267093e0-d135-11f1-be77-d1864d279cb0.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
       "id": "7a4345e12ba2922c",
       "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/ck20wj7znqy8o#8",
       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck20wj7znqy8o",
@@ -34,6 +144,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/ef20efd0-d12e-11f1-93e1-3b657b665bcf.jpg",
       "type": "article",
       "addedAt": "2026-10-26T12:35:09.510Z"
+    },
+    {
+      "id": "68bbabf3296c2360",
+      "guid": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo#2",
+      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo",
+      "title": "Five ways Trump has changed immigration in the US",
+      "excerpt": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
+      "published": "2026-10-26T11:29:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb3/live/8c0c5bf0-d138-11f1-be77-d1864d279cb0.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
     },
     {
       "id": "d9ce9d9db107448a",
@@ -551,6 +672,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/27badc80-d098-11f1-b7fd-31adcdf71225.jpg",
       "type": "article",
       "addedAt": "2026-10-25T18:41:59.383Z"
+    },
+    {
+      "id": "ed8a210b8baa8083",
+      "guid": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo",
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "excerpt": "Israel heads to the polls on Tuesday for what many view as one of the most pivotal elections in the country's history.",
+      "published": "2026-10-25T17:13:51.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1056/live/b284a350-d089-11f1-92f6-357f3b0f345f.png",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
     },
     {
       "id": "2a8e2c9c87a813dc",

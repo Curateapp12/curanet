@@ -3,6 +3,94 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "fb1cdcf7b5529c30",
+      "guid": "https://globalnews.ca/?p=12121178",
+      "link": "https://globalnews.ca/news/12121178/eric-bauza-dead-bugs-bunny/",
+      "title": "Canadian actor Eric Bauza, voice of Bugs Bunny and Daffy Duck, dead at 46",
+      "excerpt": "The Scarborough-born voice actor was nominated for five Daytime Emmy Awards and won three Children’s and Family Emmy Awards over the course of his career.",
+      "published": "2026-10-26T15:06:24.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Eric-Bauza-dead-bugs-bunny.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "c85902ea1751a62b",
+      "guid": "https://globalnews.ca/?p=12121290",
+      "link": "https://globalnews.ca/news/12121290/karla-macfarlane-endorse-becky-druhan-ns-liberal-leader/",
+      "title": "Ex-N.S. PC interim leader endorses another former Tory for Liberal leadership",
+      "excerpt": "A former interim leader of Nova Scotia's Progressive Conservatives has endorsed her former PC cabinet colleague to become the new provincial Liberal leader.",
+      "published": "2026-10-26T15:01:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/1dc9362237c410aade03e16c26146c4cdcbc01188a48ed06ef43a53adc6c8adf_3bd900.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "24d8e6b76ee33771",
+      "guid": "https://globalnews.ca/?p=12121294",
+      "link": "https://globalnews.ca/news/12121294/poilievre-oil-tanker-ban/",
+      "title": "Poilievre asks Carney to repeal B.C.’s oil tanker ban",
+      "excerpt": "Poilievre was one of several Opposition MPs who signed a letter to Carney as a federal Tory bill to scrap the tanker ban goes for second reading this week.",
+      "published": "2026-10-26T15:01:23.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Poilievre-oil-tanker-ban.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "9a50d729f62e064e",
+      "guid": "https://globalnews.ca/?p=11712223",
+      "link": "https://globalnews.ca/the-curator/11712223/best-fitness-trackers-2026/",
+      "title": "The Curator: 6 best fitness trackers for every budget and fitness level",
+      "excerpt": "Whether it’s from Apple, Garmin, or Google, we’re covering everything from sleek, budget-friendly models to devices loved by athletes and personal trainers.",
+      "published": "2026-10-26T14:00:24.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/03/tracker-2.png",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "b5481b2db43e1d41",
+      "guid": "https://globalnews.ca/?p=12120660",
+      "link": "https://globalnews.ca/news/12120660/call-of-the-wilde-montreal-canadiens-win-first-two-in-four-game-road-trip-shading-the-winnipeg-jets-in-the-heritage-classic/",
+      "title": "Call of the Wilde: Montreal Canadiens win first two in four game road trip shading the Winnipeg Jets in the Heritage Classic",
+      "excerpt": "The Habs continued their four game road trip in Winnipeg with a Heritage Classic outdoors. Over 30 thousand in attendance as the Canadiens edged the Jets 2-1.",
+      "published": "2026-10-26T14:00:13.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP177149745.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "f8f58b4929dbeebc",
+      "guid": "https://globalnews.ca/?p=12121191",
+      "link": "https://globalnews.ca/news/12121191/chris-brown-suspended-jail-sentence-london-nightclub-altercation/",
+      "title": "Chris Brown given suspended jail sentence for London nightclub altercation",
+      "excerpt": "Chris Brown will not serve jail time for an 'unprovoked attack' on Abraham Diaw at the Tape nightclub in London in February 2023 while he was on tour, a court found on Monday.",
+      "published": "2026-10-26T13:51:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/chris-brown-suspended-prison-sentence-london.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "21ab73d1f74a266b",
+      "guid": "https://globalnews.ca/?p=12121169",
+      "link": "https://globalnews.ca/news/12121169/netanyahu-legacy-israel-election/",
+      "title": "Netanyahu’s legacy on the line as Israelis head to elections this week",
+      "excerpt": "Netanyahu has been the country’s most dominant politician for nearly two decades, and his legacy is on the line in Tuesday's election.",
+      "published": "2026-10-26T12:50:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Netanyahu-legacy-Israel-election.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
+      "id": "5bffb1ae02e15f90",
+      "guid": "https://globalnews.ca/?p=12121163",
+      "link": "https://globalnews.ca/news/12121163/brazil-lula-election/",
+      "title": "Brazil’s Lula wins presidential election, bucking regional shift towards right",
+      "excerpt": "For the Trump administration, which has sought to reassert its dominance in the region, Lula’s victory complicates its campaign to enlist Brazil in its military coalition",
+      "published": "2026-10-26T12:38:20.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Brazil-Lula-election.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-26T15:12:15.055Z"
+    },
+    {
       "id": "df6b72a7a13a4543",
       "guid": "https://globalnews.ca/?p=12121158",
       "link": "https://globalnews.ca/news/12121158/trump-trade-war-end-soon/",
