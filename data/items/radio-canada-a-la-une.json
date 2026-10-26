@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "2d74c043e6be9302",
+      "guid": "https://ici.radio-canada.ca/sports/2295964/harry-kane-alexia-putellas-ballon-or",
+      "link": "https://ici.radio-canada.ca/sports/2295964/harry-kane-alexia-putellas-ballon-or",
+      "title": "Harry Kane et Alexia Putellas gagnent le prestigieux Ballon d’Or",
+      "excerpt": "Harry Kane est le premier Anglais en 25 ans à remporter ce prix, attribué au meilleur footballeur de l'année.",
+      "published": "2026-10-26T23:21:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/ballon-dor-2026-kane-putellas.png",
+      "type": "article",
+      "addedAt": "2026-10-26T23:38:41.328Z"
+    },
+    {
+      "id": "a29596c426e1764a",
+      "guid": "https://ici.radio-canada.ca/info/en-direct/1014616/resultats-elections-municipales-grand-toronto-sud-ouest",
+      "link": "https://ici.radio-canada.ca/info/en-direct/1014616/resultats-elections-municipales-grand-toronto-sud-ouest",
+      "title": "Les électeurs se rendent aux urnes pour les élections municipales en Ontario",
+      "excerpt": "Les sondages indiquent que la lutte est serrée à Toronto, Mississauga et Ottawa.",
+      "published": "2026-10-26T23:15:15.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hotel-ville-toronto-centre-ville.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T23:38:41.328Z"
+    },
+    {
+      "id": "fc685e150570f038",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner",
+      "title": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+      "excerpt": "L’enquête publique sur les collisions mortelles impliquant des poids lourds au Québec a repris à Montréal.",
+      "published": "2026-10-26T23:14:21.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/accident-autoroute-30-montarville-68856.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T23:38:41.328Z"
+    },
+    {
       "id": "48d797368feaa8e9",
       "guid": "https://ici.radio-canada.ca/nouvelle/2295935/election-historique-victoire-lula-bresil-explications",
       "link": "https://ici.radio-canada.ca/nouvelle/2295935/election-historique-victoire-lula-bresil-explications",
