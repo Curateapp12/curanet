@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "86f2313dab541e31",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295869/recomptage-vachon-elections-quebec",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295869/recomptage-vachon-elections-quebec",
+      "title": "Dépouillement judiciaire dans Vachon : la candidate libérale défaite s’exprime",
+      "excerpt": "Elle allègue que la juge a rejeté injustement des bulletins de vote, dans une publication Facebook.",
+      "published": "2026-10-26T19:09:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/affine-lwalalika-candidate-parti-liberal-vachon.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T19:48:12.653Z"
+    },
+    {
+      "id": "a25fd010a9d83dcd",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295877/cmquebec-denonce-insultes-elus-tuques-marchand-blaney",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295877/cmquebec-denonce-insultes-elus-tuques-marchand-blaney",
+      "title": "Après les tuques injurieuses, des élus de Québec invitent à relever le débat",
+      "excerpt": "Les membres du conseil de la CMQuébec dénoncent une banalisation des insultes envers les élus.",
+      "published": "2026-10-26T18:58:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bruno-marchand-maire-quebec-steven-blaney-maire-levis.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T19:48:12.653Z"
+    },
+    {
       "id": "05ac1ff9ab5bec5a",
       "guid": "https://ici.radio-canada.ca/nouvelle/2295871/nordik-chelsea-agressions-massotherapeutes-ordre",
       "link": "https://ici.radio-canada.ca/nouvelle/2295871/nordik-chelsea-agressions-massotherapeutes-ordre",
@@ -23,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cedric-lapointe-eric-duhaime-pcq.jpg",
       "type": "article",
       "addedAt": "2026-10-26T18:54:50.291Z"
+    },
+    {
+      "id": "bf304e8d45311163",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295790/deficit--tnl-petrole-redevances-budget",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295790/deficit--tnl-petrole-redevances-budget",
+      "title": "La manne pétrolière fait presque disparaître le déficit à T.-N.-L",
+      "excerpt": "C'est le résultat de la guerre en Iran et des revenus pétroliers beaucoup plus élevés que prévu.",
+      "published": "2026-10-26T17:51:15.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/craig-pardy-ministre-finances-tnl-deficit.jpg",
+      "type": "article",
+      "addedAt": "2026-10-26T19:48:12.653Z"
     },
     {
       "id": "9e4359ddf2a9d853",

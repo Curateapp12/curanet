@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "d84dc99ca60fd7bb",
+      "guid": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "excerpt": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+      "published": "2026-10-26T19:26:20.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-26T19:48:12.653Z"
+    },
+    {
       "id": "5e34561ea984cef3",
       "guid": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
       "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",

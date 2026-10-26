@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "fb80834111e4b353",
+      "guid": "https://globalnews.ca/?p=12121576",
+      "link": "https://globalnews.ca/news/12121576/nova-scotia-flu-season-vaccines/",
+      "title": "Nova Scotia flu cases rise as vaccination campaign gets underway",
+      "excerpt": "Across the country, infectious disease specialists say Canada's flu season started about seven weeks earlier than usual this time of year.",
+      "published": "2026-10-26T19:48:08.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/strang-flu-shot.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-26T19:48:12.653Z"
+    },
+    {
+      "id": "d77430935c9d08e5",
+      "guid": "https://globalnews.ca/?p=12121687",
+      "link": "https://globalnews.ca/news/12121687/six-flags-to-install-seat-belts-georgia-roller-coaster-after-riders-death/",
+      "title": "Six Flags to install seat belts on Georgia roller coaster after rider’s death",
+      "excerpt": "Six Flags announced the extra safeguard less than two weeks after 42-year-old Hassan Jihad Ibn Kariem of Atlanta died after being ejected from his seat on the Goliath coaster.",
+      "published": "2026-10-26T19:42:58.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/six-flags-roller-coaster-seat-belts.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-26T19:48:12.653Z"
+    },
+    {
+      "id": "c570044211b7dd93",
+      "guid": "https://globalnews.ca/?p=12118842",
+      "link": "https://globalnews.ca/the-curator/12118842/i-tried-the-brand-quince-heres-whats-worth-adding-to-your-cart/",
+      "title": "I tried the brand Quince: Here’s what’s worth adding to your cart",
+      "excerpt": "Founded in 2018, the San Francisco-based brand built its business around a simple idea: premium materials and classic designs shouldn't come with traditional luxury markups.",
+      "published": "2026-10-26T19:27:10.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Quince.png",
+      "type": "article",
+      "addedAt": "2026-10-26T19:48:12.653Z"
+    },
+    {
+      "id": "a18ab2726013c223",
+      "guid": "https://globalnews.ca/?p=12121497",
+      "link": "https://globalnews.ca/news/12121497/my-chemical-romance-faces-legal-action-dallas-cowboys-cheerleaders-pro-silver-star/",
+      "title": "My Chemical Romance faces legal action over Dallas Cowboys Cheerleaders stunt",
+      "excerpt": "Pro Silver Star alleges that the band performed at the Hollywood Bowl with the dancers wearing costumes that appeared to be nearly identical to the blue-and-white uniforms.",
+      "published": "2026-10-26T19:14:04.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/my-chemical-romance-dallas-cowboys-cheerleaders-lawsuit.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-26T19:48:12.653Z"
+    },
+    {
+      "id": "f2b79f762f02aa2c",
+      "guid": "https://globalnews.ca/?p=12084401",
+      "link": "https://globalnews.ca/the-curator/12084401/walmart-fashion-beauty-finds/",
+      "title": "The fall fashion & beauty edit: Small updates, big impact",
+      "excerpt": "Refresh your look with affordable fall fashion and beauty finds at Walmart Canada. Discover cozy knits, barrel jeans, skincare and makeup, plus stylist's tips to bring it together.",
+      "published": "2026-10-26T19:00:04.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Frame-454.png",
+      "type": "article",
+      "addedAt": "2026-10-26T19:48:12.653Z"
+    },
+    {
       "id": "875849032671e4b8",
       "guid": "https://globalnews.ca/?p=12120927",
       "link": "https://globalnews.ca/news/12120927/bc-election-record-lowest-voter-turnout/",
