@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "244527dceec528ed",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election",
+      "title": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+      "excerpt": "Selon nos informations, les libéraux envisagent d'utiliser cet élément dans leur contestation de l’élection.",
+      "published": "2026-10-27T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/elections-au-quebec-en-2026-contestation-dans-le-comte-de-vachon-pancarte-electorale-de-la-liberale-affine-lwalalika-elue-avec-seulement-10-voix-davance-sur-la-photo-presque-toutes-les-pancartes-73595.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T08:50:19.737Z"
+    },
+    {
+      "id": "4beb2c36db648d53",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2294990/hausse-taux-directeur-comprendre-budget",
+      "link": "https://ici.radio-canada.ca/nouvelle/2294990/hausse-taux-directeur-comprendre-budget",
+      "title": "Que signifie une hausse du taux directeur pour votre portefeuille?",
+      "excerpt": "La Banque du Canada pourrait relever légèrement son taux directeur mercredi, une première depuis juillet 2023.",
+      "published": "2026-10-27T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/generateur-images/16x9/sauve-qui-peut-portefeuille.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T08:50:19.737Z"
+    },
+    {
+      "id": "c626fad006cae36a",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec",
+      "title": "Le premier discours de PSPP au Salon bleu cause des maux de tête",
+      "excerpt": "Le chef péquiste veut prononcer son discours d'ouverture sans la présence de la lieutenante-gouverneure.",
+      "published": "2026-10-27T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/salon-bleu-assemblee-nationale-quebec.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T08:50:19.737Z"
+    },
+    {
+      "id": "d2f9ceda9b29500e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295794/contestation-permis-travail-fermes-travailleurs-etrangers",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295794/contestation-permis-travail-fermes-travailleurs-etrangers",
+      "title": "Permis fermés pour travailleurs étrangers de plus en plus contestés",
+      "excerpt": "Ces permis sont contraires aux droits fondamentaux selon des groupes de défense des droits de la personne.",
+      "published": "2026-10-27T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/travailleurs-etrangers-temporaires-permis-de-travail-ferme-travailleurs-agricoles-immigration-6185.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T08:50:19.737Z"
+    },
+    {
+      "id": "ed4ade65f82232f9",
+      "guid": "https://ici.radio-canada.ca/espaces-autochtones/2295288/abolition-monarchie-quebec-droits-autochtones",
+      "link": "https://ici.radio-canada.ca/espaces-autochtones/2295288/abolition-monarchie-quebec-droits-autochtones",
+      "title": "Abolir la monarchie au Québec : quels risques pour les droits autochtones?",
+      "excerpt": "La rupture avec la Couronne pourrait inquiéter les Premières Nations et soulever des enjeux constitutionnels.",
+      "published": "2026-10-27T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/roi-charles-premieres-nations-monarchie.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T08:50:19.737Z"
+    },
+    {
       "id": "8b440290ad844555",
       "guid": "https://ici.radio-canada.ca/nouvelle/2296152/israel-elections-7-octobre-netanyahou",
       "link": "https://ici.radio-canada.ca/nouvelle/2296152/israel-elections-7-octobre-netanyahou",
