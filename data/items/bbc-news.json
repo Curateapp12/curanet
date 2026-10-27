@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "95a3b6f0c29f5bf7",
+      "guid": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "excerpt": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "published": "2026-10-27T00:07:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T00:54:54.205Z"
+    },
+    {
+      "id": "29ebdec5eedb5529",
+      "guid": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo",
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "excerpt": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "published": "2026-10-27T00:01:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T00:54:54.205Z"
+    },
+    {
+      "id": "398490fa9731681c",
+      "guid": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o",
+      "title": "India's largest share sale could end cheap mobile internet for millions",
+      "excerpt": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
+      "published": "2026-10-27T00:00:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06b7/live/fccc6560-d13d-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T00:54:54.205Z"
+    },
+    {
+      "id": "85db43cb1fcbfe2b",
+      "guid": "https://www.bbc.co.uk/news/articles/cq8jzxgewrvpo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzxgewrvpo",
+      "title": "DUP MLA joins Lockhart's call for O'Neill's removal as first minister",
+      "excerpt": "Diane Forsythe backs Carla Lockhart and says there must be \"profound consequences\" for Sinn Féin.",
+      "published": "2026-10-27T00:00:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b2/live/793852f0-d196-11f1-a4c9-c32f50801dc8.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T00:54:54.205Z"
+    },
+    {
       "id": "9e593cbe4d281348",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo#2",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo",
@@ -12,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b391/live/343ff340-d193-11f1-8c41-0bbbeafdc6d4.jpg",
       "type": "article",
       "addedAt": "2026-10-26T23:38:41.328Z"
+    },
+    {
+      "id": "fc2b3fe9d518a9eb",
+      "guid": "https://www.bbc.co.uk/news/articles/c317k85r5lglo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo",
+      "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+      "excerpt": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+      "published": "2026-10-26T23:03:14.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f60/live/9da26470-d18f-11f1-8c41-0bbbeafdc6d4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T00:54:54.205Z"
     },
     {
       "id": "6df99d6df544139d",

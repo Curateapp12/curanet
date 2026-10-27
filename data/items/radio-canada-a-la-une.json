@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "53dcfd7a6ded756e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296022/netanyahou-rivaux-campagne-elections-iran",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296022/netanyahou-rivaux-campagne-elections-iran",
+      "title": "Nétanyahou et ses rivaux s’écharpent sur l’Iran dans les dernières heures de campagne",
+      "excerpt": "Une campagne aux airs de référendum sur le maintien de Benyamin Nétanyahou à la tête du gouvernement.",
+      "published": "2026-10-27T00:38:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/benyamin-netanyahou-elections-israel.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T00:54:54.205Z"
+    },
+    {
+      "id": "ada8e4b3de34b75c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295972/proces-climat-jeunes-canadiens-poursuite-gouvervement-federal",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295972/proces-climat-jeunes-canadiens-poursuite-gouvervement-federal",
+      "title": "Le procès sur le climat intenté par 15 jeunes contre le fédéral s’ouvre à Vancouver",
+      "excerpt": "Il s'agit du premier procès constitutionnel sur l'action climatique au Canada.",
+      "published": "2026-10-27T00:03:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/julius-frauenheim.png",
+      "type": "article",
+      "addedAt": "2026-10-27T00:54:54.205Z"
+    },
+    {
       "id": "2d74c043e6be9302",
       "guid": "https://ici.radio-canada.ca/sports/2295964/harry-kane-alexia-putellas-ballon-or",
       "link": "https://ici.radio-canada.ca/sports/2295964/harry-kane-alexia-putellas-ballon-or",
@@ -34,6 +56,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/accident-autoroute-30-montarville-68856.jpg",
       "type": "article",
       "addedAt": "2026-10-26T23:38:41.328Z"
+    },
+    {
+      "id": "4ac7495fe10cb177",
+      "guid": "https://ici.radio-canada.ca/espaces-autochtones/2295918/reforme-loi-indiens-premieres-nations",
+      "link": "https://ici.radio-canada.ca/espaces-autochtones/2295918/reforme-loi-indiens-premieres-nations",
+      "title": "Mark Carney ouvert à abolir la Loi sur les Indiens, qu’il qualifie de « raciste »",
+      "excerpt": "Le premier ministre du Manitoba, Wab Kinew, en avait fait la suggestion plus tôt lundi.",
+      "published": "2026-10-26T21:48:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rencontre-pm-pn-carney-woodhouse-fin.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T00:54:54.205Z"
     },
     {
       "id": "48d797368feaa8e9",
