@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "70b625b3c68bb310",
+      "guid": "https://globalnews.ca/?p=12122887",
+      "link": "https://globalnews.ca/news/12122887/new-brunswick-signs-deal-for-canadian-firm-to-explore-old-antimony-mine/",
+      "title": "New Brunswick signs deal for Canadian firm to explore old antimony mine",
+      "excerpt": "The New Brunswick government has signed an exploration agreement with a Canadian firm that hopes to reopen a major antimony mine.",
+      "published": "2026-10-27T16:53:35.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/95dbdd821511238ccc75875787557211a0cb0b7e4f1a2e871d837a4b126a6fc1_793db4.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T16:54:48.327Z"
+    },
+    {
+      "id": "c55fe1fa21003fb6",
+      "guid": "https://globalnews.ca/?p=12122840",
+      "link": "https://globalnews.ca/news/12122840/pope-leo-clergy-abuse-survivors-latin-american-meetings/",
+      "title": "Pope to meet with clergy abuse survivors during Latin America visit: Vatican",
+      "excerpt": "The Vatican statement didn’t say when the encounters would take place or where, but said “several meetings are planned,” suggesting more than one encounter.",
+      "published": "2026-10-27T16:20:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/pope-leo-oct-24.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T16:54:48.327Z"
+    },
+    {
+      "id": "9920e0b85c151129",
+      "guid": "https://globalnews.ca/?p=12122809",
+      "link": "https://globalnews.ca/news/12122809/osap-fraudsters-doug-ford/",
+      "title": "OSAP ‘fraudsters’ in private career colleges ‘going to jail,’ Doug Ford claims",
+      "excerpt": "Ford insisted that while the government grants come with \"trust\" and an expectation that \"people are going to be honest,\" the OSAP system was defrauded by \"bad actors.\"",
+      "published": "2026-10-27T16:12:05.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/07/CP176395163-e1784575436716.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T16:54:48.327Z"
+    },
+    {
+      "id": "382b15b475ab8e33",
+      "guid": "https://globalnews.ca/?p=12121945",
+      "link": "https://globalnews.ca/news/12121945/penticton-homeless-encampment-eviction/",
+      "title": "Penticton homeless encampment residents face eviction after court grants injunction",
+      "excerpt": "The B.C. government secured an injunction to dismantle the encampment, located on Ministry of Transportation land between Highway 97 and Ellis Creek.",
+      "published": "2026-10-27T16:10:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/fairview-encampment-oct-26.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T16:54:48.327Z"
+    },
+    {
+      "id": "d997fceb5eab2bcb",
+      "guid": "https://globalnews.ca/news/12122833/rourke-oliveira-philpot-top-canadian-finalists/",
+      "link": "https://globalnews.ca/news/12122833/rourke-oliveira-philpot-top-canadian-finalists/",
+      "title": "Rourke, Oliveira, Philpot top Canadian finalists",
+      "excerpt": "B.C. Lions quarterback Nathan Rourke is in the running to defend his CFL top Canadian award.",
+      "published": "2026-10-27T16:08:25.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/21fd7e7d2b00e31de879390cc190ae8f188d4153ae3851af3315d70a0d8bb6bc.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T16:54:48.327Z"
+    },
+    {
       "id": "cc1e69ca3abe3783",
       "guid": "https://globalnews.ca/?p=12122745",
       "link": "https://globalnews.ca/news/12122745/halifax-grain-elevator-fire/",
