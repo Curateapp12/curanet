@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "a447328950f5402f",
+      "guid": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo",
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "excerpt": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+      "published": "2026-10-27T01:48:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T01:49:31.436Z"
+    },
+    {
+      "id": "f8d429ebdf9603eb",
+      "guid": "https://www.bbc.co.uk/news/articles/cw4g19vvmp59o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g19vvmp59o",
+      "title": "My husband's death was hard enough - then came the admin",
+      "excerpt": "Louisa says her experience of dealing with household bills after her husband John died left her feeling \"frustrated and angry\".",
+      "published": "2026-10-27T01:26:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02d/live/2e2bf1e0-ce30-11f1-9d62-4d2ac1a847c3.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T01:49:31.436Z"
+    },
+    {
+      "id": "548257a3707c23ef",
+      "guid": "https://www.bbc.co.uk/news/articles/cm1dw6rn024vo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dw6rn024vo",
+      "title": "The Papers: 'England's golden boy' Kane and 'Time to pay fair'",
+      "excerpt": "Many of the papers consider what will be in the Budget and praise Harry Kane for his Ballon d'Or win.",
+      "published": "2026-10-27T01:00:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a0c/live/7a506af0-d19c-11f1-b177-234ec5dbaca5.png",
+      "type": "article",
+      "addedAt": "2026-10-27T01:49:31.436Z"
+    },
+    {
+      "id": "517c34e55c3a64c1",
+      "guid": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o",
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "excerpt": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "published": "2026-10-27T00:31:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d667/live/5d50cf80-d197-11f1-a4c9-c32f50801dc8.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T01:49:31.436Z"
+    },
+    {
       "id": "95a3b6f0c29f5bf7",
       "guid": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo#1",
       "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
@@ -155,6 +199,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef7/live/513170a0-d166-11f1-93e1-3b657b665bcf.jpg",
       "type": "article",
       "addedAt": "2026-10-26T21:41:37.348Z"
+    },
+    {
+      "id": "61b694d50d6d88b7",
+      "guid": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "excerpt": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "published": "2026-10-26T19:27:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T01:49:31.436Z"
     },
     {
       "id": "cabbaae75715d8c4",
@@ -353,6 +408,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43b/live/79bb9a20-603f-11f1-89a3-d1f559421220.jpg",
       "type": "article",
       "addedAt": "2026-10-26T16:10:07.727Z"
+    },
+    {
+      "id": "6bdf22494385bee2",
+      "guid": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "excerpt": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "published": "2026-10-26T15:46:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9660/live/4332a8c0-d148-11f1-9eb5-811878e0f07d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T01:49:31.436Z"
     },
     {
       "id": "3fff278add92caf1",
