@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "7879acc457772204",
+      "guid": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo",
+      "title": "Men abused woman advertised by husband, court told",
+      "excerpt": "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her.",
+      "published": "2026-10-27T14:28:16.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8deb/live/a6d56510-d1fd-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T14:55:10.245Z"
+    },
+    {
+      "id": "e02f49004960a261",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o",
+      "title": "Ballon d'Or in London - the most chaotic ever?",
+      "excerpt": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night.",
+      "published": "2026-10-27T14:10:26.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047c/live/b205ec60-d208-11f1-b3b6-c1e79e957e40.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T14:55:10.245Z"
+    },
+    {
+      "id": "e359a2572dbe9fc0",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/cqr7y33ekv0go#8",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cqr7y33ekv0go",
+      "title": "Williams loses again - to opponent 28 years younger",
+      "excerpt": "Former world number one Venus Williams, 46, loses for the 16th match in a row as she is beaten by an opponent 28 years younger.",
+      "published": "2026-10-27T13:40:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3a6/live/848f76a0-d205-11f1-b3b6-c1e79e957e40.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T14:55:10.245Z"
+    },
+    {
       "id": "a56d60ea65b908b8",
       "guid": "https://www.bbc.co.uk/news/articles/cmvgxjjxwl1yo#4",
       "link": "https://www.bbc.co.uk/news/articles/cmvgxjjxwl1yo",
@@ -12,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aa1/live/e0f2d250-d207-11f1-b3b6-c1e79e957e40.png",
       "type": "article",
       "addedAt": "2026-10-27T13:57:20.928Z"
+    },
+    {
+      "id": "f060dfb58bbb9c4a",
+      "guid": "https://www.bbc.co.uk/news/articles/cmx28de233r2o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o",
+      "title": "Rare dinosaur skeleton goes to auction in New York with £4.5m price tag",
+      "excerpt": "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+      "published": "2026-10-27T13:23:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a77/live/3552a3b0-d1ff-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T14:55:10.245Z"
     },
     {
       "id": "ee186b92d8049d8d",
