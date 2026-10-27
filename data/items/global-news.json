@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "7b07e4243cd805a8",
+      "guid": "https://globalnews.ca/?p=12123202",
+      "link": "https://globalnews.ca/news/12123202/halifax-cyclinc-aaa-bike-lane-deferred/",
+      "title": "Halifax council puts off decision on bike network alternatives",
+      "excerpt": "Council has deferred action on alternatives to the all ages and abilities (AAA) bike network because councillors say they want to gather more feedback on the proposed plans.",
+      "published": "2026-10-27T20:41:35.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/bike-lanes.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T20:43:20.348Z"
+    },
+    {
+      "id": "bb41516e9cc519c7",
+      "guid": "https://globalnews.ca/?p=12123080",
+      "link": "https://globalnews.ca/news/12123080/halifax-donair-marathon-training/",
+      "title": "How Halifax’s famous donair fueled one man’s goal to run a marathon",
+      "excerpt": "As part of his training, David Wadden trekked to 59 locations to devour the pitas filled with spiced meat, fresh onions and tomatoes (no lettuce!) covered in a sweet sauce.",
+      "published": "2026-10-27T20:07:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/donair-marathon.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T20:43:20.348Z"
+    },
+    {
+      "id": "3bd16658eb88beeb",
+      "guid": "https://globalnews.ca/?p=12123184",
+      "link": "https://globalnews.ca/news/12123184/favourite-family-recipe-golden-saffron-tahchin/",
+      "title": "Favourite Family Recipe: Mahtab’s Golden Saffron Tahchin",
+      "excerpt": "Trail Appliances Favourite Family Recipe finalist Mahtab Foadian shows chef Wayne Sych how to make a dish she first learned as a child while camping with her grandmother.",
+      "published": "2026-10-27T19:59:27.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/2026_10_25_FAV_FAM_RECIPES_WEB.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T20:43:20.348Z"
+    },
+    {
       "id": "d5ce58db06fcaf29",
       "guid": "https://globalnews.ca/?p=12123134",
       "link": "https://globalnews.ca/news/12123134/rcmp-investigating-alberta-health-procurement-for-possible-fraud-money-laundering/",

@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "9bcc48e225df1215",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o",
+      "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+      "excerpt": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+      "published": "2026-10-27T20:26:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae7/live/a9a20c40-d242-11f1-84cb-7d14463da0ae.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T20:43:20.348Z"
+    },
+    {
+      "id": "8d8125acfa763f27",
+      "guid": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "excerpt": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "published": "2026-10-27T20:19:53.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T20:43:20.348Z"
+    },
+    {
+      "id": "a6cd062bb7065057",
+      "guid": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o",
+      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "excerpt": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+      "published": "2026-10-27T20:14:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b032/live/ea87be20-d22a-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T20:43:20.348Z"
+    },
+    {
+      "id": "d5036b72fd590c47",
+      "guid": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o",
+      "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+      "excerpt": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+      "published": "2026-10-27T19:41:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7041/live/3d52f8e0-d23a-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T20:43:20.348Z"
+    },
+    {
       "id": "bc54af1a3c4b704d",
       "guid": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo#1",
       "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
@@ -25,6 +69,17 @@
       "addedAt": "2026-10-27T19:47:13.007Z"
     },
     {
+      "id": "c611fc9c5d14da16",
+      "guid": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo",
+      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "excerpt": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
+      "published": "2026-10-27T18:43:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbe/live/217282b0-d22d-11f1-b441-2b33b063138f.png",
+      "type": "article",
+      "addedAt": "2026-10-27T20:43:20.348Z"
+    },
+    {
       "id": "c65090d07e0c29ce",
       "guid": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o#4",
       "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o",
@@ -34,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cce/live/f32ec320-d22f-11f1-a1ed-ffd83ae54f7c.jpg",
       "type": "article",
       "addedAt": "2026-10-27T18:51:34.981Z"
+    },
+    {
+      "id": "907c4aae5fa9e792",
+      "guid": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo",
+      "title": "Healey to promise £15m to tackle misogyny in Budget",
+      "excerpt": "The Conservatives doubt whether women and girls will feel safer as a result of the funding.",
+      "published": "2026-10-27T18:23:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d316/live/00dde230-d23f-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T20:43:20.348Z"
     },
     {
       "id": "1f9c279062425c2c",
