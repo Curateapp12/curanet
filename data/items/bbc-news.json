@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "bc54af1a3c4b704d",
+      "guid": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo#1",
+      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
+      "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "excerpt": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+      "published": "2026-10-27T19:30:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T19:47:13.007Z"
+    },
+    {
+      "id": "cf4c3d6521f9d3e6",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo#2",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo",
+      "title": "Man Utd stick with Carrick: Inside a turbulent 48 hours at Old Trafford",
+      "excerpt": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
+      "published": "2026-10-27T18:56:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0191/live/aa944b90-d22e-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T19:47:13.007Z"
+    },
+    {
       "id": "c65090d07e0c29ce",
       "guid": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o#4",
       "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o",
@@ -34,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c87e/live/41e4a2e0-d222-11f1-b441-2b33b063138f.jpg",
       "type": "article",
       "addedAt": "2026-10-27T18:51:34.981Z"
+    },
+    {
+      "id": "72f3e1319dce9f62",
+      "guid": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo#2",
+      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo",
+      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
+      "excerpt": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
+      "published": "2026-10-27T17:11:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2306/live/4e8e4460-d227-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T19:47:13.007Z"
     },
     {
       "id": "178bfbae6b4d9522",
@@ -364,6 +397,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f326/live/a768bfb0-d1e2-11f1-8e07-c79267b33d55.jpg",
       "type": "article",
       "addedAt": "2026-10-27T08:50:19.737Z"
+    },
+    {
+      "id": "3357a2a760944297",
+      "guid": "https://www.bbc.co.uk/news/articles/cm87zl3jej81o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm87zl3jej81o",
+      "title": "I'm one of a growing number of Gen Z birdwatchers - it helps my mental health",
+      "excerpt": "Caitlin Andrew hated birdwatching as a child but found a passion for it in her 20s.",
+      "published": "2026-10-27T06:39:13.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f56e/live/3f393d60-d12f-11f1-a94e-6dd2aca774ac.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T19:47:13.007Z"
     },
     {
       "id": "785c68ac80e4f214",

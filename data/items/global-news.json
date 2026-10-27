@@ -3,6 +3,72 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "d5ce58db06fcaf29",
+      "guid": "https://globalnews.ca/?p=12123134",
+      "link": "https://globalnews.ca/news/12123134/rcmp-investigating-alberta-health-procurement-for-possible-fraud-money-laundering/",
+      "title": "RCMP investigating Alberta health procurement for possible fraud, money laundering",
+      "excerpt": "Mounties looking into an Alberta health care spending controversy are investigating potential fraud, breach of trust, and money laundering.",
+      "published": "2026-10-27T19:21:09.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/d9a21b83f8ba8f6080de35e4502a5d641e724c1d5ebf2422e0f29a3ae96e2a7a_b561ed.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T19:47:13.007Z"
+    },
+    {
+      "id": "6bc59d8cdda935d9",
+      "guid": "https://globalnews.ca/?p=12122969",
+      "link": "https://globalnews.ca/news/12122969/ted-bundy-serial-killer-utah/",
+      "title": "Utah police have connected Ted Bundy to another unsolved 1970s homicide",
+      "excerpt": "The Summit County, Utah, prosecutor said investigators are satisfied that Bundy was responsible for killing 17-year-old Melissa Ann Smith in 1974.",
+      "published": "2026-10-27T19:17:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/ted-bundy-murders.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T19:47:13.007Z"
+    },
+    {
+      "id": "7e4d57cc660bf81f",
+      "guid": "https://globalnews.ca/?p=12123123",
+      "link": "https://globalnews.ca/news/12123123/canada-eurovision-finalists-reve-tyler-shaw-william-cloutier-josiane-talk/",
+      "title": "Canada’s Eurovision finalists include Rêve, Tyler Shaw",
+      "excerpt": "The public will be invited to vote for Canada’s Eurovision entrant from the five finalists, with the winner set to be announced by December.",
+      "published": "2026-10-27T19:16:46.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/2e3ce278b65950fc15d7b3e5ec6276c10c8693a2022425b46adce08d79757cd7.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T19:47:13.007Z"
+    },
+    {
+      "id": "f6dc721d7447407b",
+      "guid": "https://globalnews.ca/?p=12122987",
+      "link": "https://globalnews.ca/news/12122987/manhunt-underway-convicted-murderer-jacob-morley-escaped-tennessee-prison/",
+      "title": "Manhunt underway for convicted murderer who escaped from Tennessee prison",
+      "excerpt": "Jacob Morley, 28, was serving a life sentence for first-degree murder, aggravated burglary, tampering with evidence, vandalism and evading arrest.",
+      "published": "2026-10-27T19:08:30.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/jacob-morley-escape-prison.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T19:47:13.007Z"
+    },
+    {
+      "id": "80f6a5254e7b386a",
+      "guid": "https://globalnews.ca/?p=12123084",
+      "link": "https://globalnews.ca/news/12123084/stan-cho-parliamentary-assistant/",
+      "title": "Former Ontario cabinet minister who resigned over expenses scandal defends promotion",
+      "excerpt": "A former member of Ontario Premier Doug Ford's cabinet who resigned his post over an expenses scandal is defending his recent promotion.",
+      "published": "2026-10-27T19:00:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/6fe508491f40939454e7c28f3c289b02b2b5e564b47a1f59530a959063f21ff1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T19:47:13.007Z"
+    },
+    {
+      "id": "2cb916123c039cf7",
+      "guid": "https://globalnews.ca/?p=12123079",
+      "link": "https://globalnews.ca/news/12123079/olivia-chow-toronto-election-win-priorities/",
+      "title": "After election victory, Chow to face budget pressure and new deal with Ontario",
+      "excerpt": "Negotiations with the province to help relieve Toronto's budget pressures loomed over Olivia Chow's election victory, as she vowed to be the \"mayor for everyone.\"",
+      "published": "2026-10-27T18:56:50.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/f5cf04d0288767b3c68f02cff40e3175829c7c8640b3ae1a3d7d6713f199d380.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T19:47:13.007Z"
+    },
+    {
       "id": "7e1fce7a3aa28ca0",
       "guid": "https://globalnews.ca/?p=12123023",
       "link": "https://globalnews.ca/news/12123023/lotto-max-october-28-winning-ticket/",
