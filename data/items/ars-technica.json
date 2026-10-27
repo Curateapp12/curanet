@@ -3,6 +3,61 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "5b2f53c323415a2b",
+      "guid": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "excerpt": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+      "published": "2026-10-27T22:37:30.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T23:40:31.557Z"
+    },
+    {
+      "id": "60c506bba53d46ca",
+      "guid": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "excerpt": "International travel used to be the main risk of measles cases in the US—not anymore.",
+      "published": "2026-10-27T22:22:32.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-27T23:40:31.557Z"
+    },
+    {
+      "id": "c0a45b82d2e027eb",
+      "guid": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+      "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "excerpt": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+      "published": "2026-10-27T22:04:50.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T23:40:31.557Z"
+    },
+    {
+      "id": "6849d36ab61f28e0",
+      "guid": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "excerpt": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "published": "2026-10-27T21:50:04.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T23:40:31.557Z"
+    },
+    {
+      "id": "78aca7aaafb2150d",
+      "guid": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "excerpt": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "published": "2026-10-27T21:31:14.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T23:40:31.557Z"
+    },
+    {
       "id": "71d9cb2bf3e5ef86",
       "guid": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",

@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "b15f8eba4e775d02",
+      "guid": "https://globalnews.ca/?p=12123428",
+      "link": "https://globalnews.ca/news/12123428/bc-man-jesse-adams-raincoast-dog-rescue-killed-saving-animals-ukraine/",
+      "title": "B.C. man who started dog rescue killed while saving animals in Ukraine",
+      "excerpt": "\"The best thing I can say is Jesse was a force of nature,\" Penny Stone, executive director of the Victoria Humane Society, told Global News.",
+      "published": "2026-10-27T23:34:51.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Jesse-Adams-dog-rescue.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T23:40:31.557Z"
+    },
+    {
+      "id": "0dccf85ec30d5eec",
+      "guid": "https://globalnews.ca/?p=12123332",
+      "link": "https://globalnews.ca/news/12123332/langley-man-charged-alleged-hate-motivated-attack-woman-children/",
+      "title": "Langley man charged in alleged hate-motivated attack against woman, children",
+      "excerpt": "Langley RCMP said on Oct. 20 around 3:30 p.m. they received a report from multiple people of an alleged assault on a woman and her two children near Douglas Park.",
+      "published": "2026-10-27T23:31:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/douglas-park-langley.png",
+      "type": "article",
+      "addedAt": "2026-10-27T23:40:31.557Z"
+    },
+    {
+      "id": "64b0bb9b984b4339",
+      "guid": "https://globalnews.ca/?p=12123247",
+      "link": "https://globalnews.ca/news/12123247/oshawa-man-double-murder-sentenced/",
+      "title": "Oshawa man given life sentence for 2024 double murder of upstairs neighbour and her ex-husband",
+      "excerpt": "The judge found it extremely aggravating that Mark Gordon fired shots at victims who were defenceless and Patrick Montgomery was executed in front of his son.",
+      "published": "2026-10-27T22:56:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/couple-oshawa.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T23:40:31.557Z"
+    },
+    {
       "id": "7760a5c42f994041",
       "guid": "https://globalnews.ca/?p=12122863",
       "link": "https://globalnews.ca/news/12122863/canada-elections-incumbents-lose/",
