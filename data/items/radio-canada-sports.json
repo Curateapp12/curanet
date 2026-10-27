@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "e47dd7547703f9b7",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10794144/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10794144/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-27T03:36:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T03:43:07.551Z"
+    },
+    {
+      "id": "5277a216e7d07cff",
+      "guid": "https://ici.radio-canada.ca/sports/2296087/intronisation-pantheon-des-sports-du-quebec",
+      "link": "https://ici.radio-canada.ca/sports/2296087/intronisation-pantheon-des-sports-du-quebec",
+      "title": "Sept nouvelles personnalités intronisées au Panthéon des sports du Québec",
+      "excerpt": "Quatre athlètes et de trois bâtisseurs ont été admis au Temple de la renommée de l'organisation.",
+      "published": "2026-10-27T03:31:06.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/claude-lemieux-58686.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T03:43:07.551Z"
+    },
+    {
+      "id": "f0726434b0087b57",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10794138/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10794138/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-27T03:21:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T03:43:07.551Z"
+    },
+    {
       "id": "bf0d95406234adef",
       "guid": "https://ici.radio-canada.ca/sports/2295954/diallo-victoire-premier-match-challenger-brest",
       "link": "https://ici.radio-canada.ca/sports/2295954/diallo-victoire-premier-match-challenger-brest",
