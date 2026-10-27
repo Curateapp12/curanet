@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "fe444e1bd592d0da",
+      "guid": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo#1",
+      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo",
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "excerpt": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+      "published": "2026-10-27T10:17:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a93/live/3d631dc0-d1f3-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T10:46:08.782Z"
+    },
+    {
+      "id": "6bd92125860d617e",
+      "guid": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o",
+      "title": "MPs and MSP detained by Israel and barred from entering West Bank",
+      "excerpt": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces.",
+      "published": "2026-10-27T10:11:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6ef/live/cf573070-d1f0-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T10:46:08.782Z"
+    },
+    {
+      "id": "bfe2ed723b48341f",
+      "guid": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo",
+      "title": "UK and EU officials to discuss freedom of movement",
+      "excerpt": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month.",
+      "published": "2026-10-27T09:55:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0b1/live/d7989070-d1e2-11f1-8e07-c79267b33d55.png",
+      "type": "article",
+      "addedAt": "2026-10-27T10:46:08.782Z"
+    },
+    {
       "id": "80d6ba700052135d",
       "guid": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1",
       "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko",
@@ -133,6 +166,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png",
       "type": "article",
       "addedAt": "2026-10-27T06:51:06.500Z"
+    },
+    {
+      "id": "fd4aee272ec39a29",
+      "guid": "https://www.bbc.co.uk/news/articles/cmj6j950ywp1o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cmj6j950ywp1o",
+      "title": "Boy who stabbed girl at school was radicalised online, says father",
+      "excerpt": "A father calls for tighter controls on extreme material after his son's attempted murder conviction.",
+      "published": "2026-10-27T05:33:25.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f508/live/319e6af0-1d79-11f1-a77a-39b849d4606b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T10:46:08.782Z"
     },
     {
       "id": "fd2c993e6bd3b2d9",
