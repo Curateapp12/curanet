@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "436c6565fc74e404",
+      "guid": "https://www.bbc.co.uk/news/articles/c5rmy84np001o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o",
+      "title": "Sharp rise in sales of some essential goods after government call to stock up",
+      "excerpt": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+      "published": "2026-10-27T04:29:52.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26da/live/6256a960-ad33-11f1-bc1f-3f186ca4140c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T04:41:06.096Z"
+    },
+    {
       "id": "78bfc8c2447dd97d",
       "guid": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo#1",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
@@ -45,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
       "type": "article",
       "addedAt": "2026-10-27T01:49:31.436Z"
+    },
+    {
+      "id": "5eae5b26eb17bd60",
+      "guid": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o",
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "excerpt": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+      "published": "2026-10-27T01:46:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05b2/live/06753110-d192-11f1-8c41-0bbbeafdc6d4.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T04:41:06.096Z"
     },
     {
       "id": "f8d429ebdf9603eb",
