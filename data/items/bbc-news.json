@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "1cc86378bb430edc",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o",
+      "title": "Barcelona fined £503 over approach for Alvarez",
+      "excerpt": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
+      "published": "2026-10-27T21:38:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6160/live/40cf7ad0-d24d-11f1-8ba3-9fd3e261415f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T21:42:45.493Z"
+    },
+    {
+      "id": "6c01be55978c2069",
+      "guid": "https://www.bbc.co.uk/news/articles/ckx2qgjd0w3no#4",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qgjd0w3no",
+      "title": "Ex-Met officer from Couzens unit guilty of rape",
+      "excerpt": "Mark Tyrell is also convicted of sexual assault and trying to delete messages he sent the woman.",
+      "published": "2026-10-27T21:35:52.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a23/live/de64f8b0-d24d-11f1-8ba3-9fd3e261415f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T21:42:45.493Z"
+    },
+    {
       "id": "9bcc48e225df1215",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o",
@@ -221,6 +243,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047c/live/b205ec60-d208-11f1-b3b6-c1e79e957e40.jpg",
       "type": "article",
       "addedAt": "2026-10-27T14:55:10.245Z"
+    },
+    {
+      "id": "f6f9a0db418512e2",
+      "guid": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o#2",
+      "link": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o",
+      "title": "Trump vs Obama - which president has the star power to get out the vote?",
+      "excerpt": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.",
+      "published": "2026-10-27T13:59:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d111/live/2bd85810-d219-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-27T21:42:45.493Z"
     },
     {
       "id": "e359a2572dbe9fc0",
