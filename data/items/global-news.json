@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "cc1e69ca3abe3783",
+      "guid": "https://globalnews.ca/?p=12122745",
+      "link": "https://globalnews.ca/news/12122745/halifax-grain-elevator-fire/",
+      "title": "Fire at Halifax Grain Elevator contained after 3-alarm response",
+      "excerpt": "The cause of a fire at the Halifax Grain Elevator in the city's south end on Monday night is under investigation.",
+      "published": "2026-10-27T15:36:26.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/grain-fire-hrfe.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T15:52:37.240Z"
+    },
+    {
+      "id": "2e7e21114d3bb3ad",
+      "guid": "https://globalnews.ca/news/12122785/leonard-out-at-least-a-week-with-left-knee-injury/",
+      "link": "https://globalnews.ca/news/12122785/leonard-out-at-least-a-week-with-left-knee-injury/",
+      "title": "Leonard out at least a week with left knee injury",
+      "excerpt": "Toronto Raptors star Kawhi Leonard will be out for at least one week due to swelling in his left knee.",
+      "published": "2026-10-27T15:35:01.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/ed0debbc2e74be64dbc94db92f3ee160d4599a6c751f2dd281925eb236aecc9e.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T15:52:37.240Z"
+    },
+    {
+      "id": "800190ccd1929105",
+      "guid": "https://globalnews.ca/?p=12122777",
+      "link": "https://globalnews.ca/news/12122777/nova-scotia-offshore-oil-gas-firm-deadline/",
+      "title": "Only firm approved to explore for N.S. offshore oil and gas misses deposit deadline",
+      "excerpt": "Nova Scotia’s premier says the only company with rights to explore for offshore oil and gas in the province missed Monday's deposit deadline.",
+      "published": "2026-10-27T15:34:46.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/b6094e4f6450313bf923b2d0ef69e071a3b656c74aa6c6802c027c19e779fb73.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T15:52:37.240Z"
+    },
+    {
+      "id": "f6e43692d8796a05",
+      "guid": "https://globalnews.ca/?p=12122673",
+      "link": "https://globalnews.ca/news/12122673/all-my-children-actor-alan-dysert-dead/",
+      "title": "‘All My Children’ actor Alan Dysert dead at 75",
+      "excerpt": "'My heart is broken as I share that my beloved husband, Alan, passed away on October 23, 2026,' Alan Dysert's wife wrote in a statement.",
+      "published": "2026-10-27T15:22:39.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/alan-dysert-dead.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T15:52:37.240Z"
+    },
+    {
+      "id": "69935fa14b52d67d",
+      "guid": "https://globalnews.ca/?p=12122683",
+      "link": "https://globalnews.ca/news/12122683/crime-stoppers-cyber-breach-navigate360/",
+      "title": "No evidence stolen Crime Stoppers data used for fraud, provider says",
+      "excerpt": "The provider of software used by Crime Stoppers says it has found no evidence that personal information exposed in a cybersecurity breach has been used for fraud or identity theft.",
+      "published": "2026-10-27T15:06:25.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Crime-Stoppers-Toronto.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-27T15:52:37.240Z"
+    },
+    {
       "id": "7d828af1b4e22337",
       "guid": "https://globalnews.ca/?p=12122609",
       "link": "https://globalnews.ca/news/12122609/maxxing-2026-word-of-the-year-dictionary-com/",
