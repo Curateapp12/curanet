@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "45b83300910f0d83",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10795161/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10795161/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-28T03:33:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T03:52:37.490Z"
+    },
+    {
+      "id": "2c59cf216e2f0d35",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10795159/sports-express-27-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10795159/sports-express-27-octobre",
+      "title": "Sports Express - 27 octobre",
+      "excerpt": "Les nouvelles du sport avec Ismaël Sy",
+      "published": "2026-10-28T03:32:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T03:52:37.490Z"
+    },
+    {
+      "id": "e130a4624aaf8ee5",
+      "guid": "https://ici.radio-canada.ca/sports/2296407/hellebuyck-devils-stars-lnh",
+      "link": "https://ici.radio-canada.ca/sports/2296407/hellebuyck-devils-stars-lnh",
+      "title": "Hellebuyck savoure la victoire à son premier match avec les Devils",
+      "excerpt": "Le gardien américain a repoussé 16 tirs dans un gain de 5-1 des Devils, à Dallas.",
+      "published": "2026-10-28T03:23:21.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/connor-hellebuyck-devils.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T03:52:37.490Z"
+    },
+    {
+      "id": "f4a94b76b1cafae5",
+      "guid": "https://ici.radio-canada.ca/sports/2296406/jacob-fowler-blanchissage-canadien-blues",
+      "link": "https://ici.radio-canada.ca/sports/2296406/jacob-fowler-blanchissage-canadien-blues",
+      "title": "Jacob Fowler brille dans une victoire du Canadien contre les Blues",
+      "excerpt": "Le gardien du Canadien a repoussé les 46 tirs dirigés vers lui et a signé un blanchissage de 2-0 à St. Louis.",
+      "published": "2026-10-28T03:05:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/fowler-canadien-blues.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T03:52:37.490Z"
+    },
+    {
       "id": "bae2eac21bd0fc8f",
       "guid": "https://ici.radio-canada.ca/sports/2296388/stan-wawrinka-atp-retraite",
       "link": "https://ici.radio-canada.ca/sports/2296388/stan-wawrinka-atp-retraite",
