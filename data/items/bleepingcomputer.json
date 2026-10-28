@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "7f47388e611d04a6",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+      "excerpt": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+      "published": "2026-10-28T14:48:32.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-28T14:59:42.981Z"
+    },
+    {
       "id": "60ccb0bbd830e1a2",
       "guid": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
       "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",

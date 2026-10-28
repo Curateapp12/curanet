@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "b1f47de94083f6b3",
+      "guid": "https://globalnews.ca/?p=12124051",
+      "link": "https://globalnews.ca/news/12124051/crime-stoppers-data-breach-privacy-commissioner-investigation/",
+      "title": "Privacy commissioner investigating provider behind Crime Stoppers data breach",
+      "excerpt": "Canada’s privacy commissioner has launched an investigation into a cybersecurity breach involving anonymous tips shared with Crime Stoppers programs across the country.",
+      "published": "2026-10-28T14:44:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Crime-Stoppers.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-28T14:59:42.981Z"
+    },
+    {
+      "id": "7f9f8fa78c1f5e17",
+      "guid": "https://globalnews.ca/?p=12124122",
+      "link": "https://globalnews.ca/news/12124122/quebec-government-time-change/",
+      "title": "Quebec government says it plans to end the time change",
+      "excerpt": "Paul St-Pierre Plamondon wrote on social media on Wednesday that Quebecers will most likely set their clocks back one hour for the final time this weekend.",
+      "published": "2026-10-28T14:37:40.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/81af5ac2f5648511f4d249a8689fb654269913284b2bbf208e282dc31ffe6dd6_d98eb2.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-28T14:59:42.981Z"
+    },
+    {
+      "id": "c114fa31db78fa2c",
+      "guid": "https://globalnews.ca/?p=12124018",
+      "link": "https://globalnews.ca/news/12124018/susan-saint-james-dead/",
+      "title": "Susan Saint James, ‘Kate & Allie’ and ‘McMillan & Wife’ actor, dead at 80",
+      "excerpt": "'Susan was my friend and working with her brought such laughter, community and family to the stage at the Ed Sullivan theater,' 'Kate and Allie' star Jane Curtin said.",
+      "published": "2026-10-28T14:05:36.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/susan-saint-james-dead.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-28T14:59:42.981Z"
+    },
+    {
       "id": "6726f8382fb668f5",
       "guid": "https://globalnews.ca/?p=12124015",
       "link": "https://globalnews.ca/news/12124015/24-sussex-restoration-fundraising-campaign/",
