@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "e0be29dc5b7ee417",
+      "guid": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo",
+      "title": "Russell Brand says allegations had devastating impact on him",
+      "excerpt": "The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court.",
+      "published": "2026-10-28T10:48:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff8/live/8d5fc590-d2ba-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T10:53:29.748Z"
+    },
+    {
+      "id": "3b958ad6d010f954",
+      "guid": "https://www.bbc.co.uk/news/articles/c674p7v91wx8o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c674p7v91wx8o",
+      "title": "Legal bid to overturn Drumcree march ban fails",
+      "excerpt": "The High Court in Belfast has rules that Sir Chris Bryant's decision made on 9 October was lawful.",
+      "published": "2026-10-28T10:30:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895e/live/c7ac85a0-d213-11f1-b3b6-c1e79e957e40.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T10:53:29.748Z"
+    },
+    {
+      "id": "dfa34ba196111302",
+      "guid": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o#5",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "excerpt": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "published": "2026-10-28T10:17:54.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8aa/live/94f66d00-d2b4-11f1-8cf0-c5d120932f9f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T10:53:29.748Z"
+    },
+    {
       "id": "e42d5bea4f7b7885",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no#9",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no",
@@ -56,6 +89,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f853/live/e15eb220-d1c8-11f1-82d3-0562771fb08a.jpg",
       "type": "article",
       "addedAt": "2026-10-28T07:01:39.298Z"
+    },
+    {
+      "id": "eed2975467d65c09",
+      "guid": "https://www.bbc.co.uk/news/articles/ckg5jeee9q83o#3",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5jeee9q83o",
+      "title": "Losing my legs ended my football dream - now skiing gives me freedom",
+      "excerpt": "Adam Golebiewski was only 17 when he needed a double amputation after a car crash.",
+      "published": "2026-10-28T06:16:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb4/live/9fb1a930-ce1d-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T10:53:29.748Z"
+    },
+    {
+      "id": "579c7efc122ebb2e",
+      "guid": "https://www.bbc.co.uk/news/articles/cmgqwgpjpjngo#5",
+      "link": "https://www.bbc.co.uk/news/articles/cmgqwgpjpjngo",
+      "title": "Bonfire Night policing in Scotland will be 'largest operation since Trump visit'",
+      "excerpt": "As many as 1,700 officers could be deployed to deal with fireworks-related disorder, a European football match and potential protests in Glasgow.",
+      "published": "2026-10-28T06:15:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/bb345cf0-d225-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T10:53:29.748Z"
     },
     {
       "id": "0b62d07cf9e16286",
