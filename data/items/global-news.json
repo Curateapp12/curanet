@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "3a25159c47ca43e1",
+      "guid": "https://globalnews.ca/?p=12124963",
+      "link": "https://globalnews.ca/news/12124963/solider-burned-in-cfb-wainwright-fire-edmonton-icu/",
+      "title": "B.C. soldier burned in CFB Wainwright fire remains in Edmonton ICU",
+      "excerpt": "The family of Pte. Trevor Flegel says he is still in hospital more than 10 days after the deadly fire at CFB Wainwright.",
+      "published": "2026-10-28T22:42:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Trevor-Flegel-Military.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-28T22:46:50.510Z"
+    },
+    {
+      "id": "a266718813907a0f",
+      "guid": "https://globalnews.ca/?p=12124980",
+      "link": "https://globalnews.ca/news/12124980/montreals-raccoon-guy-collects-cryptocurrency-fees/",
+      "title": "Montreal’s ‘raccoon guy’ collected over $110,000 in cryptocurrency fees",
+      "excerpt": "The \"Pepper\" coin was launched on Oct. 10 by an online trader using the name \"Hiruzen,\" who said he named it after Louka Berman's raccoon.",
+      "published": "2026-10-28T22:31:06.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Pepper-the-raccoon-e1793226378619.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-28T22:46:50.510Z"
+    },
+    {
+      "id": "cb6eb89f97b4da17",
+      "guid": "https://globalnews.ca/?p=12124952",
+      "link": "https://globalnews.ca/news/12124952/feds-open-to-supporting-elements-of-divorce-act-amendments-but-fate-unclear/",
+      "title": "Feds open to supporting elements of Divorce Act amendments, but fate unclear",
+      "excerpt": "Bill C-223, introduced by Liberal MP Lisa Hepfner, would amend the Divorce Act to curb parental alienation claims, among other changes.",
+      "published": "2026-10-28T22:11:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/9028f2e4545f3de2e794cd0ab128f83355842ab75f75a6da9bce7501168be295.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-28T22:46:50.510Z"
+    },
+    {
+      "id": "c3331751d8d28143",
+      "guid": "https://globalnews.ca/?p=12124946",
+      "link": "https://globalnews.ca/news/12124946/alberta-ndp-ucp-gerrymandering-boundaries/",
+      "title": "Alberta NDP says UCP cooking riding boundaries ahead of election",
+      "excerpt": "Smith accused Nenshi of questioning the integrity of judges, including Brian O’Ferrall, a former judge and the chair of the panel responsible for the redraw.",
+      "published": "2026-10-28T22:08:50.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/08ff547229ea4e77fb69240b11831df526b60ba9613f183064f8150417e52a1a.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-28T22:46:50.510Z"
+    },
+    {
+      "id": "0dcb13a39bb96bf0",
+      "guid": "https://globalnews.ca/?p=12124819",
+      "link": "https://globalnews.ca/news/12124819/humpback-whale-notcho-dies-hit-bc-ferries-vessel/",
+      "title": "Humpback whale ‘Notcho’ dies after being hit by BC Ferries vessel",
+      "excerpt": "Caitlin Birdsall said that on Monday, staff on BC Ferries did see a deceased whale in the water and it was recovered by the Department of Fisheries and Oceans Canada.",
+      "published": "2026-10-28T22:04:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/HW_2026-10-27_EmilyAshton_WestBayGambierIsland_image1.jpeg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-28T22:46:50.510Z"
+    },
+    {
+      "id": "b65a5dc39aafd2aa",
+      "guid": "https://globalnews.ca/?p=12124886",
+      "link": "https://globalnews.ca/news/12124886/how-interest-rate-hike-affects-canadians/",
+      "title": "How the latest interest rate hike could affect everyday Canadians",
+      "excerpt": "While Wednesday's hike is less significant than those that followed the pandemic, experts say people who are already struggling to make ends meet will feel the burden first.",
+      "published": "2026-10-28T21:52:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/Bank-of-canada-fed-e1789665566195.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-28T22:46:50.510Z"
+    },
+    {
+      "id": "953618d323e5739d",
+      "guid": "https://globalnews.ca/?p=12124882",
+      "link": "https://globalnews.ca/news/12124882/three-charged-with-murder-of-12-year-old-kidnapped-from-edmonton-rcmp/",
+      "title": "Three charged with murder of 12-year-old kidnapped from Edmonton: RCMP",
+      "excerpt": "Cole Morin 34, and Curtis Brown, 36, are charged with first-degree murder and kidnapping. Rachel Stuart, 36, faces a charge of second-degree murder.",
+      "published": "2026-10-28T21:52:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/63178d78eb875c2057da7f699649ce697cb8d9b7df86d952901730e88d999e20_0af2a4.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-28T22:46:50.510Z"
+    },
+    {
       "id": "1fcbf1f0f95e8227",
       "guid": "https://globalnews.ca/?p=12124903",
       "link": "https://globalnews.ca/news/12124903/alberta-rules-consumer-protection-cars-tickets/",
