@@ -3,6 +3,61 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "22c43f17fa5f1add",
+      "guid": "https://www.bbc.co.uk/news/articles/c63djl148n3eo#6",
+      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo",
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "excerpt": "The Russian President praised Musk and said they are in \"close\" contact.",
+      "published": "2026-10-28T19:15:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
+    },
+    {
+      "id": "2d984062b126e57a",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o#10",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o",
+      "title": "Red Roses make six changes but Kildunne on bench again",
+      "excerpt": "Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.",
+      "published": "2026-10-28T19:00:51.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e95/live/aa597550-d306-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
+    },
+    {
+      "id": "c929075a64a79837",
+      "guid": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o#4",
+      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o",
+      "title": "Watch: How did Flávio Bolsonaro end up in Miami?",
+      "excerpt": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
+      "published": "2026-10-28T18:51:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
+    },
+    {
+      "id": "e306bc453d4e41ba",
+      "guid": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go#0",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go",
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "excerpt": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+      "published": "2026-10-28T18:45:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
+    },
+    {
+      "id": "024362b0eb154fe7",
+      "guid": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "excerpt": "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "published": "2026-10-28T18:42:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
+    },
+    {
       "id": "f30965aaf49bb87b",
       "guid": "https://www.bbc.co.uk/news/articles/cqx29dj3vv50o#6",
       "link": "https://www.bbc.co.uk/news/articles/cqx29dj3vv50o",
@@ -177,6 +232,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f45/live/fdce2560-d2e7-11f1-8d86-83eebc838351.jpg",
       "type": "article",
       "addedAt": "2026-10-28T16:57:37.851Z"
+    },
+    {
+      "id": "84e872fa1314e267",
+      "guid": "https://www.bbc.co.uk/news/articles/c98rz185z4nno#6",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz185z4nno",
+      "title": "Train attacker asked man 'do you want to die?', trial hears",
+      "excerpt": "Anthony Williams denies 14 counts of attempted murder, including 10 on a train in Cambridgeshire.",
+      "published": "2026-10-28T15:52:14.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d1d/live/2db50870-d2f7-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
     },
     {
       "id": "0d7863e456b45f78",

@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "cbcd56e0da0f4735",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296572/vapotage-cannabis-quebec-jeunes-isq",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296572/vapotage-cannabis-quebec-jeunes-isq",
+      "title": "Le vapotage du cannabis de plus en plus populaire au Québec",
+      "excerpt": "Toutefois, peu de consommateurs de cannabis vapotent sur une base quotidienne, selon une enquête de l'ISQ.",
+      "published": "2026-10-28T19:31:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vjbsl-vapotage-interdiction.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
+    },
+    {
+      "id": "ad9f0dfbbb09e3b1",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296389/quebec-solidaire-table-consultative-capitale-nationale",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296389/quebec-solidaire-table-consultative-capitale-nationale",
+      "title": "Responsabilité de la Capitale-Nationale : Québec solidaire prend les devants",
+      "excerpt": "Le député solidaire Étienne Grandmont propose de mettre en place une « table consultative régionale ».",
+      "published": "2026-10-28T19:11:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/nicolas-girard-paul-st-pierre-plamondon-pspp-pq.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
+    },
+    {
+      "id": "6519bcbfca51dc37",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296558/belarusses-arrestations-allemagne-sabotage",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296558/belarusses-arrestations-allemagne-sabotage",
+      "title": "Deux Bélarusses arrêtés en Allemagne pour un présumé complot de sabotage",
+      "excerpt": "Selon Der Spiegel, les deux hommes voulaient provoquer un incendie près de rails et d'une ligne électrique.",
+      "published": "2026-10-28T18:49:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/police-allemagne-polizei.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
+    },
+    {
       "id": "4896cd929b12a3dd",
       "guid": "https://ici.radio-canada.ca/nouvelle/2296553/passagers-croisiere-abandonnes-escale-cambodge",
       "link": "https://ici.radio-canada.ca/nouvelle/2296553/passagers-croisiere-abandonnes-escale-cambodge",
@@ -80,6 +113,17 @@
       "addedAt": "2026-10-28T16:57:37.851Z"
     },
     {
+      "id": "f99846a2ba39ba0c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296391/inquietude-chirurgien-hopital-gatineau-maxime-guieu",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296391/inquietude-chirurgien-hopital-gatineau-maxime-guieu",
+      "title": "Bloc opératoire en Outaouais : « On n’est pas loin d’être dans une catastrophe naturelle »",
+      "excerpt": "Le chirurgien généraliste Maxime Guieu tire la sonnette d'alarme en Outaouais.",
+      "published": "2026-10-28T16:00:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/chirurgien-maxime-guieu-gatineau.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
+    },
+    {
       "id": "f5be7fef23fc6c53",
       "guid": "https://ici.radio-canada.ca/nouvelle/2296477/cory-albert-exclu--vente-immeubles-st-georges-beauce-enquete",
       "link": "https://ici.radio-canada.ca/nouvelle/2296477/cory-albert-exclu--vente-immeubles-st-georges-beauce-enquete",
@@ -122,6 +166,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/banque-canada-automne-2024.jpg",
       "type": "article",
       "addedAt": "2026-10-28T14:05:12.916Z"
+    },
+    {
+      "id": "35865c88afa8f91b",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296423/tuques-bruno-marchand-dons-lauberiviere",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296423/tuques-bruno-marchand-dons-lauberiviere",
+      "title": "« Guerre des tuques » : plus de 100 000 $ en dons pour Lauberivière",
+      "excerpt": "Un revirement inattendu dans une saga qui avait commencé par une vente de tuques dénigrantes.",
+      "published": "2026-10-28T13:03:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/eric-boulay-lauberiviere-aide-urgence.png",
+      "type": "article",
+      "addedAt": "2026-10-28T19:53:41.417Z"
     },
     {
       "id": "58715cfd18298645",
