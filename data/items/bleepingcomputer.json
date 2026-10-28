@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "60ccb0bbd830e1a2",
+      "guid": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "excerpt": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+      "published": "2026-10-28T14:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-28T14:05:12.916Z"
+    },
+    {
+      "id": "219f99ac76bfe581",
+      "guid": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+      "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+      "excerpt": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach…",
+      "published": "2026-10-28T13:50:59.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-28T14:05:12.916Z"
+    },
+    {
       "id": "7c22489c81a536a6",
       "guid": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",

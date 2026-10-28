@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "5a6867eb49ea16a7",
+      "guid": "79887ef7-cb25-435c-83d5-f7d829a2ea03",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
+      "title": "Wahl in Israel: Keine klare Mehrheit, stattdessen Hoffnungen und Frust",
+      "excerpt": "Nach der Parlamentswahl droht Israel eine Hängepartie: Keines der Lager hat eine klare Mehrheit. Premier Netanjahu gibt sich kämpferisch. Seine Gegner sind enttäuscht - hoffen aber weiter auf Veränderungen. Von J.-C. Kitzler.",
+      "published": "2026-10-28T14:03:46.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1ff715b1-6a28-4987-9b8a-eb026bc77b68/AAABoYLMMoI/AAABnSSvrFg/16x9-big/israel-flagge-122.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-28T14:05:12.916Z"
+    },
+    {
+      "id": "38ff01328a278c90",
+      "guid": "514c477e-e631-4384-9da6-8ff78fd36a18",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/elterngeld-bezugsdauer-prien-100.html",
+      "title": "Weiterhin 14 Monate - Rolle rückwärts beim Elterngeld",
+      "excerpt": "Das Elterngeld bleibt laut Plänen des Familienministeriums bei bis zu 14 Monaten. Eine geplante Kürzung auf zwölf Monate wird nicht umgesetzt. Zudem soll das Elterngeld steigen. Von Sarah Beham und Philip Kuntschner.",
+      "published": "2026-10-28T13:31:03.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0cd768bc-7da9-4a13-b607-9280ff7d6011/AAABnnkyHqc/AAABnSSvrFg/16x9-big/prien-128.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-28T14:05:12.916Z"
+    },
+    {
+      "id": "8d8730f4b48480a0",
+      "guid": "7c858e86-a00a-4e35-915f-d8cb175c1990",
+      "link": "https://www.tagesschau.de/ausland/asien/panahi-iran-haftstrafe-100.html",
+      "title": "Erneute Haftstrafe für iranischen Regisseur Panahi",
+      "excerpt": "Die iranische Justiz geht weiter gegen den Regisseur und Goldene-Palme-Gewinner Jafar Panahi vor. Einem Bericht zufolge wurde der 66-Jährige Regime-Kritiker in Teheran erneut zu einer mehrjährigen Haftstrafe verurteilt.",
+      "published": "2026-10-28T13:11:16.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d6ac44e7-899b-4b4c-bdca-0fae90772150/AAABoYKi510/AAABnSSvrFg/16x9-big/panahi-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-28T14:05:12.916Z"
+    },
+    {
       "id": "80bca566acc64124",
       "guid": "b2bfddd3-af2a-4981-8665-a977f6a2ed71",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-100.html",
