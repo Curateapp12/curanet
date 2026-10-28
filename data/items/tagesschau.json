@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "e5e98b531e703ef1",
+      "guid": "c1bc3ec1-c112-46de-8fc5-df880c67a1d4",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/boersengang-tk-accelis-100.html",
+      "title": "Börsendebüt von tk accelis bleibt unter den Erwartungen",
+      "excerpt": "Seine Marinewerften und das Wasserstoffgeschäft hat der Industriekonzern Thyssenkrupp schon abgespalten. Nun folgt die Werkstofftochter mit eigenen Aktien. Und es gibt noch weitergehende Pläne.",
+      "published": "2026-10-28T15:50:44.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bcc2f3ba-0611-413d-ae4a-2421d4c15420/AAABoYKgsFk/AAABnSSvrFg/16x9-big/lopez-henne-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-28T15:58:19.663Z"
+    },
+    {
+      "id": "4f2e4fe14c9fc1e7",
+      "guid": "ffc93610-e7e4-4abf-953e-31b7b9f4cfc3",
+      "link": "https://www.tagesschau.de/wissen/technologie/quantennetzwerk-qunet-100.html",
+      "title": "Quantennetzwerk QuNET: Schutz gegen Hackerangriffe",
+      "excerpt": "Quantencomputer und KI können wohl bald jede Verschlüsselung knacken. In Zukunft sollen Quantennetze wie QuNET die Kommunikation schützen. Die Technologie funktioniert, aber noch nicht perfekt. Von Jan Kerckhoff.",
+      "published": "2026-10-28T15:39:49.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4bd0d7ec-9a6c-4b9d-839f-bb2fb0e50dd6/AAABoYMaiaA/AAABnSSvrFg/16x9-big/quantencomputer-138.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-28T15:58:19.663Z"
+    },
+    {
       "id": "2766cf0f0f0f570c",
       "guid": "60ab1aea-63c2-4e33-9d1f-196234a4473d",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kritische-infrastruktur-sabotage-schutz-100.html",

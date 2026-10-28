@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "9ec4cb3ea32c4b38",
+      "guid": "https://www.bbc.co.uk/news/videos/cmdx3kne9r6go#1",
+      "link": "https://www.bbc.co.uk/news/videos/cmdx3kne9r6go",
+      "title": "Chris Mason on the standout points from the Budget",
+      "excerpt": "Political editor Chris Mason analyses Chancellor John Healey's Budget 2026 announcements.",
+      "published": "2026-10-28T15:00:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dff9/live/085013a0-d2e7-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T15:58:19.663Z"
+    },
+    {
       "id": "7498552b98e7c64f",
       "guid": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o#2",
       "link": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o",
@@ -12,6 +23,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
       "type": "article",
       "addedAt": "2026-10-28T14:59:42.981Z"
+    },
+    {
+      "id": "ed7ab4200989efcb",
+      "guid": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "excerpt": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "published": "2026-10-28T14:30:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c6a/live/eef90440-d2d5-11f1-b677-b762d2f83f6e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T15:58:19.663Z"
+    },
+    {
+      "id": "57ec599a8c0d8b4f",
+      "guid": "https://www.bbc.co.uk/news/videos/c893zeknlvnno#3",
+      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno",
+      "title": "Israel's election result is messy - here's why",
+      "excerpt": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+      "published": "2026-10-28T14:26:24.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8924/live/3d448ba0-d2d7-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T15:58:19.663Z"
     },
     {
       "id": "c832c9c96b4b80ed",
@@ -375,6 +408,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg",
       "type": "article",
       "addedAt": "2026-10-28T02:00:08.864Z"
+    },
+    {
+      "id": "c4f4cbb28265b8c5",
+      "guid": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo#3",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo",
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "excerpt": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "published": "2026-10-28T00:01:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T15:58:19.663Z"
     },
     {
       "id": "0b0fbf0b8dc39ded",
