@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "2c1e733dec4321f7",
+      "guid": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o#1",
+      "link": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o",
+      "title": "Thick fog to create dangerous driving conditions for UK commuters",
+      "excerpt": "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week.",
+      "published": "2026-10-28T01:09:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/992a/live/0b7a58c0-d1fb-11f1-8c9f-8d21fef6ffad.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T02:00:08.864Z"
+    },
+    {
       "id": "3fe4c4b2ef471806",
       "guid": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo#2",
       "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo",
@@ -45,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23b8/live/73dea320-d260-11f1-b2d5-7de31c6a8089.jpg",
       "type": "article",
       "addedAt": "2026-10-28T01:05:15.708Z"
+    },
+    {
+      "id": "8848ba4a55424c2d",
+      "guid": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#1",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o",
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "excerpt": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "published": "2026-10-28T00:04:29.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T02:00:08.864Z"
     },
     {
       "id": "28aeb55720c8fb23",
@@ -146,6 +168,17 @@
       "addedAt": "2026-10-27T20:43:20.348Z"
     },
     {
+      "id": "6076c98c3fb5943b",
+      "guid": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o",
+      "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
+      "excerpt": "Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed.",
+      "published": "2026-10-27T19:56:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4e/live/e382eae0-d23a-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T02:00:08.864Z"
+    },
+    {
       "id": "d5036b72fd590c47",
       "guid": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#1",
       "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o",
@@ -166,6 +199,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg",
       "type": "article",
       "addedAt": "2026-10-27T19:47:13.007Z"
+    },
+    {
+      "id": "95c47e55ac36cbe2",
+      "guid": "https://www.bbc.co.uk/news/articles/c64g17jqy5ddo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c64g17jqy5ddo",
+      "title": "Manhunt under way for Tennessee killer who escaped prison through a fence",
+      "excerpt": "Morley was given a life sentence for the 2022 killing of his co-worker Cody Birchfield.",
+      "published": "2026-10-27T19:20:13.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2426/live/ee2a8c90-d218-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T02:00:08.864Z"
     },
     {
       "id": "cf4c3d6521f9d3e6",
@@ -4456,6 +4500,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32f2/live/1b3c1830-cdf9-11f1-97f7-a7674fb562de.jpg",
       "type": "article",
       "addedAt": "2026-10-22T10:41:06.471Z"
+    },
+    {
+      "id": "72a14c4f199c6bf2",
+      "guid": "https://www.bbc.co.uk/news/articles/ce85y9lm81no#2",
+      "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no",
+      "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
+      "excerpt": "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career.",
+      "published": "2026-10-22T09:35:25.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb79/live/e0522e10-d21e-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-28T02:00:08.864Z"
     },
     {
       "id": "c328c2660dd9d1e0",
