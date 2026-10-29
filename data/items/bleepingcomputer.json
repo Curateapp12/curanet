@@ -3,6 +3,39 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "7d9fa054e5fe62d6",
+      "guid": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "excerpt": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+      "published": "2026-10-29T22:45:23.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-29T22:49:44.152Z"
+    },
+    {
+      "id": "a6d0e88b749ca24b",
+      "guid": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "excerpt": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT…",
+      "published": "2026-10-29T22:09:24.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-29T22:49:44.152Z"
+    },
+    {
+      "id": "17e71a11c730f03f",
+      "guid": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "excerpt": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+      "published": "2026-10-29T22:08:04.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-29T22:49:44.152Z"
+    },
+    {
       "id": "fe7730fa406879f5",
       "guid": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
       "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
