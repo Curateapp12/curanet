@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "509faa00405b0adf",
+      "guid": "cc7763b6-a0e9-47d7-adbc-46255a65d9be",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-120.html",
+      "title": "Zahlreiche Tote bei Angriff auf Bahnhof in Dnipro",
+      "excerpt": "Eine russische Drohne hat nach ukrainischen Angaben am Bahnhof von Dnipro mindestens 14 Menschen getötet. Während Russland und die Ukraine sich weiter gegenseitig mit Drohnen angreifen, hält die Waffenruhe in der Frontstadt Oleschky.",
+      "published": "2026-10-29T14:04:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b6cffbf3-12b7-4c72-b7cb-67f744b32dc2/AAABoYeG6C4/AAABnSSvrFg/16x9-big/ukraine-dnipro-angriff-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T14:09:16.180Z"
+    },
+    {
+      "id": "118668da38af511a",
+      "guid": "e528ce9b-0101-4e65-bf0f-03feb8a94d93",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html",
+      "title": "Europäische Zentralbank hält Leitzins unverändert",
+      "excerpt": "Die Europäische Zentralbank (EZB) hat wie erwartet die Leitzinsen unverändert bei 2,5 Prozent belassen. Für Gesprächsstoff dürfte aber der vorzeitige Rückzug von EZB-Chefin Christine Lagarde sorgen.",
+      "published": "2026-10-29T13:22:38.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4085d903-660f-4dac-b3ba-2b3e57873f0c/AAABoYc2aG4/AAABnSSvrFg/16x9-big/ezb-562.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T14:09:16.180Z"
+    },
+    {
+      "id": "505cefba66718dd3",
+      "guid": "db6b9a20-e33f-46e0-9e09-b0f3212ba914",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-autoreparaturen-100.html",
+      "title": "Marktbericht: Warum Autoreparaturen immer teurer werden",
+      "excerpt": "Steigende Kosten für Ersatzteile und höhere Werkstattlöhne - Autoreparaturen werden immer teurer. Regelmäßig erhöhen die Versicherer daher die Preise, auch wenn man unfallfrei gefahren ist.",
+      "published": "2026-10-29T13:14:08.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4ec56f8f-dcd0-46d6-b0e7-388430f9978a/AAABlbh4u1k/AAABnSSvrFg/16x9-big/kfz-werkstatt-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T14:09:16.180Z"
+    },
+    {
+      "id": "504f071f534a0d89",
+      "guid": "3f1c1891-1911-4f71-b7aa-c275d33fe310",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-eu-allianz-folgen-verbraucher-100.html",
+      "title": "Was bringt eine EU-Allianz mit Kanada den Verbrauchern in Europa?",
+      "excerpt": "Die EU und Kanada wollen wirtschaftlich und politisch enger zusammenrücken. Könnte eine verstärkte Kooperation Europas Lieferketten sichern, Preise stabil halten, Abhängigkeiten reduzieren? Von Petra Thiele.",
+      "published": "2026-10-29T13:12:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a9763561-b274-4cac-b308-66eaade1b898/AAABoOvloug/AAABnSSvrFg/16x9-big/kanada-zoelle-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T14:09:16.180Z"
+    },
+    {
+      "id": "d437747b95c299be",
+      "guid": "df353628-c2e3-40a5-bd22-c493474aa82c",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-trump-eu-100.html",
+      "title": "Wie Kanada unter Trumps Zöllen leidet",
+      "excerpt": "Beim heute beginnenden Gipfel in Montreal geht es auch darum, wie eng die Zusammenarbeit mit der EU sein wird. In Kanada sind die Erwartungen groß. Denn die Folgen von Trumps Zöllen sind längst spürbar. Von Giselle Ucar.",
+      "published": "2026-10-29T13:12:09.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0047e2f0-9d16-4174-94d6-c6dea5db945e/AAABoYdztOs/AAABnSSvrFg/16x9-big/montreal-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T14:09:16.180Z"
+    },
+    {
       "id": "9857d5cea3abf388",
       "guid": "tagesschau_fm-story-rbb_elif-eralp-spiegel-interview-anmerkungen-angst-hamas",
       "link": "https://www.tagesschau.de/inland/regional/berlin/nach-spiegel-bericht-eralp-100.html",

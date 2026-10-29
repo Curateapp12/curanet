@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "b587911771c5ef15",
+      "guid": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o",
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "excerpt": "One of the regions famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+      "published": "2026-10-29T13:44:39.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed8c/live/e21f62f0-d39d-11f1-abc7-23eff3a47521.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T14:09:16.180Z"
+    },
+    {
+      "id": "ef1781ee10e81d7d",
+      "guid": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o",
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "excerpt": "Images of child sexual abuse allegedly belonging to Meghan Markle's father had reportedly been found in his former home in the Philippines.",
+      "published": "2026-10-29T13:25:07.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a20/live/8e4e0d60-d38f-11f1-b31d-29088a2dcf13.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T14:09:16.180Z"
+    },
+    {
+      "id": "baf58826de6b810e",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o",
+      "title": "Is the double drop from the Premier League becoming more common?",
+      "excerpt": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
+      "published": "2026-10-29T13:19:52.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T14:09:16.180Z"
+    },
+    {
+      "id": "a77f10128be77e22",
+      "guid": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko#1",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko",
+      "title": "Russian drone attack on Ukrainian train station kills at least 13, officials say",
+      "excerpt": "Dnipro regional head Oleksandr Hanzha said at least 10 others were wounded in the attack, including an 11-year-old boy.",
+      "published": "2026-10-29T12:38:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f6/live/c8559bf0-d389-11f1-b5f4-fd541fd21001.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T14:09:16.180Z"
+    },
+    {
       "id": "b6c3d147e92a2932",
       "guid": "https://www.bbc.co.uk/news/articles/cwly300mxym3o#5",
       "link": "https://www.bbc.co.uk/news/articles/cwly300mxym3o",
@@ -45,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e6/live/53a22db0-d383-11f1-b5f4-fd541fd21001.jpg",
       "type": "article",
       "addedAt": "2026-10-29T11:51:44.563Z"
+    },
+    {
+      "id": "a0872045e1b54a72",
+      "guid": "https://www.bbc.co.uk/sport/boxing/articles/cvkgkx496e0ko#9",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cvkgkx496e0ko",
+      "title": "'Hungrier than ever' - Paul to return on 24 December",
+      "excerpt": "Jake Paul returns to the ring for the first time since losing to Anthony Joshua against a yet to be confirmed opponent on 24 December.",
+      "published": "2026-10-29T11:06:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9791/live/205f0810-d2f7-11f1-8d86-83eebc838351.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T14:09:16.180Z"
     },
     {
       "id": "63b77e715e3d43f4",
