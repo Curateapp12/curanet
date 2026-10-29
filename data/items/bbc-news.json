@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "e5b574667f89d3a2",
+      "guid": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo#1",
+      "link": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo",
+      "title": "Watch: Chancellor says government has 'moral duty' to help young people out of work",
+      "excerpt": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\".",
+      "published": "2026-10-29T06:56:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5665/live/87164510-d364-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T07:03:04.141Z"
+    },
+    {
+      "id": "c3ce5e2005a037a9",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo",
+      "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+      "excerpt": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
+      "published": "2026-10-29T06:27:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f99/live/b256c500-d117-11f1-921d-7d7921390179.png",
+      "type": "article",
+      "addedAt": "2026-10-29T07:03:04.141Z"
+    },
+    {
+      "id": "91045090e6eab9de",
+      "guid": "https://www.bbc.co.uk/news/articles/c6ly3027820lo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo",
+      "title": "Ofcom outlines ways social media can verify ages of users",
+      "excerpt": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+      "published": "2026-10-29T05:57:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T07:03:04.141Z"
+    },
+    {
       "id": "687b52daddb54cae",
       "guid": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#1",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o",
@@ -166,6 +199,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg",
       "type": "article",
       "addedAt": "2026-10-28T23:43:43.770Z"
+    },
+    {
+      "id": "06f9472023e9ea3a",
+      "guid": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no#9",
+      "link": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no",
+      "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
+      "excerpt": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
+      "published": "2026-10-28T23:10:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4071/live/c953f890-d31a-11f1-ba7d-b5eab6da6837.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T07:03:04.141Z"
     },
     {
       "id": "8639bd292e8b64af",

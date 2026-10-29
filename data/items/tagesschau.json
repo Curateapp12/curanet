@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "7d8b904e4d37b369",
+      "guid": "31783763-9e7f-45b7-9864-0b6c4762c3d5",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-medien-100.html",
+      "title": "Hoffnung auf unabhängige Medien in Serbien",
+      "excerpt": "Nach der Niederlage der Vucic-Partei in Serbien hoffen viele Menschen wieder auf eine unabhängige Berichterstattung. Eine Initiative fordert den Entzug der Sendelizenz für Informer - einem Propagandasender im Dienste des Ex-Präsidenten. Von S. Hahne.",
+      "published": "2026-10-29T06:46:15.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3b13a41f-964a-404e-b0fb-1a7b102a8c7a/AAABoYX_NL8/AAABnSSvrFg/16x9-big/vucic-plakat-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T07:03:04.141Z"
+    },
+    {
+      "id": "b9e5ab0e366d0b34",
+      "guid": "a3c59dba-316e-4070-9506-753b9f488571",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
+      "title": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
+      "excerpt": "In vielen Euro-Ländern stockt die Konjunktur, Proteste wie in Frankreich setzen Regierungen unter Druck. Da bräuchte die EZB eine starke Führung - doch über die Zukunft von Notenbankchefin Lagarde wird heftig spekuliert. Von Oliver Feldforth.",
+      "published": "2026-10-29T06:28:41.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bd0eafef-0f21-4287-b4f5-762e60dda0b7/AAABoYZBO04/AAABnSSvrFg/16x9-big/lagarde-326.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T07:03:04.141Z"
+    },
+    {
+      "id": "2459d4476de17902",
+      "guid": "2e1e4eb9-fea0-4b8a-b01d-86889654ea0e",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+      "title": "Marktbericht: DAX dürfte vor EZB-Zinsentscheid leicht zulegen",
+      "excerpt": "Heute müssen die Investoren die Zahlen der US-Tech-Konzerne Microsoft und Alphabet verarbeiten. Am Nachmittag steht noch der Zinsentscheid der EZB an. Die US-Notenbank Fed hat schon vorgelegt.",
+      "published": "2026-10-29T06:26:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0b3a9a5d-52cf-45fe-a52a-0b7d4d3a7087/AAABnLJSNeo/AAABnSSvrFg/16x9-big/boerse-488.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T07:03:04.141Z"
+    },
+    {
+      "id": "eb26c01472a8225d",
+      "guid": "5c16f688-878e-4b0d-ba20-0a8c3da7a82e",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
+      "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+      "excerpt": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz.",
+      "published": "2026-10-29T06:20:37.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/93996ff9-bc64-447b-b6af-4a96aca5bca9/AAABoK2g_CE/AAABnSSvrFg/16x9-big/carney-von-der-leyen-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T07:03:04.141Z"
+    },
+    {
       "id": "b2cf1361e0e9ad5d",
       "guid": "fb6fc450-1052-4c62-bb3b-4237618e275c",
       "link": "https://www.tagesschau.de/wissen/gesundheit/herbst-spaziergang-100.html",
