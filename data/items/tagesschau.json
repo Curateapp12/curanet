@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "fdd0837799060d5d",
+      "guid": "5eef444b-5a06-4304-9494-2ba2d7d33b3b",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-olympia-bewerbung-durban-100.html",
+      "title": "Südafrika bewirbt sich mit der Stadt Durban um Olympia",
+      "excerpt": "Noch nie hat ein afrikanischer Staat Olympische oder Paralympische Spiele ausgerichtet. Südafrika schickt nun Durban für 2036 und 2040 ins Bewerberrennen - einer von derzeit sechs Konkurrenten für München.",
+      "published": "2026-10-29T16:52:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e3a31b93-062e-4df3-b5de-42cbad628768/AAABoYfpPRQ/AAABnSSvrFg/16x9-big/moses-mabhida-stadium-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T16:59:16.318Z"
+    },
+    {
+      "id": "9839e5bbf09ac0c7",
+      "guid": "92f00139-5543-4d87-b01e-937125d5b17e",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-afrika-gipfel-102.html",
+      "title": "Afrika-Gipfel in Russland: Putin umwirbt einen ganzen Kontinent",
+      "excerpt": "Beim Handel mit Afrika liegen China und die EU weit vor Russland. Doch Moskau versucht, seinen Einfluss auf dem Kontinent zu stärken - beim dritten Afrika-Russland-Gipfel waren fast alle afrikanischen Länder dabei. Von Norbert Hahn.",
+      "published": "2026-10-29T16:35:53.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/8c8ed4ac-a468-4c66-9012-57f6c1cc9f59/AAABoYbiBOc/AAABnSSvrFg/16x9-big/assoumani-putin-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T16:59:16.318Z"
+    },
+    {
+      "id": "fad610e88299a623",
+      "guid": "81b02a0e-6e54-44f6-b081-f0185b3dacd2",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-kandidatensuche-union-100.html",
+      "title": "Steinmeier-Nachfolge: Die Kandidatensuche wird zur Machtfrage",
+      "excerpt": "Deutschland sucht eine Nachfolge für Bundespräsident Steinmeier. Die Kandidatendebatte bei CDU/CSU ist unübersichtlich und parteipolitisch aufgeladen - nicht zum ersten Mal in der Geschichte. Von Georg Schwarte.",
+      "published": "2026-10-29T16:22:50.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7733e94c-9832-4a31-8683-d5b92b0440cc/AAABoYh4pu4/AAABnSSvrFg/16x9-big/soeder-merz-124.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T16:59:16.318Z"
+    },
+    {
+      "id": "ebff839c3c57fe41",
+      "guid": "5b879134-d6de-4fea-ab7a-ee177f7a2e9b",
+      "link": "https://www.tagesschau.de/kultur/stevie-wonder-tournee-politik-100.html",
+      "title": "Wie groß ist der politische Einfluss von Stars wie Stevie Wonder?",
+      "excerpt": "Stevie Wonders Musik war immer politisch. Jahrzehntelang war er als Bürgerrechtler aktiv, später machte er Wahlkampf für Obama. Welchen Einfluss haben Popstars - und was machen sie daraus, gerade jetzt, vor den Midterms? Von S. Fritz.",
+      "published": "2026-10-29T16:12:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/16ee52ee-3de6-481f-a66e-a7e0e942472d/AAABoYcppYc/AAABnSSvrFg/16x9-big/wonder-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T16:59:16.318Z"
+    },
+    {
+      "id": "83514d890651134b",
+      "guid": "042b6244-9814-4043-81ff-4a43f8c8e572",
+      "link": "https://www.tagesschau.de/kultur/schauspielerin-elke-sommer-100.html",
+      "title": "Schauspielerin Elke Sommer gestorben",
+      "excerpt": "Sie machte sich in den 1960er-Jahren einen Namen in Hollywood, wurde mit Golden Globe und Bambi ausgezeichnet. Nun ist die deutsche Schauspielerin Elke Sommer im Alter von 85 Jahren gestorben.",
+      "published": "2026-10-29T16:02:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a545e519-2b7b-4637-b394-d36d24496b3b/AAABoYbb5SI/AAABnSSvrFg/16x9-big/sommer-350.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T16:59:16.318Z"
+    },
+    {
       "id": "1caccc6f75627b3c",
       "guid": "1b6800c1-76fe-43fb-98f5-1dd5d05e1cf2",
       "link": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
