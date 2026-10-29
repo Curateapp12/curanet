@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "419203293fdf5626",
+      "guid": "https://globalnews.ca/?p=12126325",
+      "link": "https://globalnews.ca/news/12126325/alberta-referendum-final-results/",
+      "title": "Alberta referendum saw 70.4% turnout — highest voter participation in decades",
+      "excerpt": "The turnout is the highest for a provincewide vote since at least 1975, but it fell short of breaking the record of 81.8 per cent turnout seen in the 1935 general election.",
+      "published": "2026-10-29T19:52:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/Elections-Alberta-Referendum-ballot-7.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-29T19:55:23.794Z"
+    },
+    {
+      "id": "336d448bbd8d6a98",
+      "guid": "https://globalnews.ca/?p=12126333",
+      "link": "https://globalnews.ca/news/12126333/doctors-manitoba-recruitment-review/",
+      "title": "Specialist shortage persists as Manitoba gains ground on doctor recruitment",
+      "excerpt": "A new Doctors Manitoba report says the province is making ground to close the gap on physician recruitment, but more must be done to address specialist and rural shortages.",
+      "published": "2026-10-29T19:51:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/doctors-manitoba-report.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-29T19:55:23.794Z"
+    },
+    {
+      "id": "6fe2a6ac878c6faf",
+      "guid": "https://globalnews.ca/?p=12126327",
+      "link": "https://globalnews.ca/news/12126327/n-s-university-teachers-association-premier-political-intimidation/",
+      "title": "N.S. university teachers association says premier is using political intimidation",
+      "excerpt": "The Association of Nova Scotia University Teachers says it condemns the premier’s response, calling it a threat to academic freedom.",
+      "published": "2026-10-29T19:39:56.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/929756e5d9fc1752ad21317674860ac8c698e6095fc794cbdbea840a7a1e85ab_9debb3.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-29T19:55:23.794Z"
+    },
+    {
+      "id": "3f5fb540873ccb0d",
+      "guid": "https://globalnews.ca/?p=12126171",
+      "link": "https://globalnews.ca/news/12126171/missing-college-students-hikers-found-dead-colorado-mountain/",
+      "title": "2 Colorado college students found dead after going missing during hike",
+      "excerpt": "The students left the Colorado Mountain College Leadville Campus for the hike on Oct. 23 and were reported missing on Oct. 26 by college staff after they didn’t return to campus.",
+      "published": "2026-10-29T19:24:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/colorado-college-students-dead-hike.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-29T19:55:23.794Z"
+    },
+    {
+      "id": "7681fb230265b7b5",
+      "guid": "https://globalnews.ca/?p=12126271",
+      "link": "https://globalnews.ca/news/12126271/man-sentenced-16-years-8-months-horrifying-surrey-bus-attack/",
+      "title": "Man sentenced to 16 years, 8 months for horrifying Surrey bus attack",
+      "excerpt": "On April 1, 2023, security video obtained by Global News showed Abdul Kawam walking onto the bus, followed a few seconds later by his victim.",
+      "published": "2026-10-29T19:19:36.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/08/WEB-6P-BUS-TERROR-ATTACK-VI_OM01GQ2A.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-29T19:55:23.794Z"
+    },
+    {
       "id": "574981aae39aa5b6",
       "guid": "https://globalnews.ca/?p=12126144",
       "link": "https://globalnews.ca/news/12126144/maya-gebala-released-hospital-262-days-later-tumbler-ridge/",
