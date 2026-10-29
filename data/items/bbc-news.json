@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "2b8e85afa7634f92",
+      "guid": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo#9",
+      "link": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo",
+      "title": "Brewers win first World Series in 57-year history",
+      "excerpt": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
+      "published": "2026-10-29T07:56:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef65/live/d45c5110-d36a-11f1-a2f1-9d8bc53db834.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T08:07:33.486Z"
+    },
+    {
+      "id": "f67ec9b9a8c439c9",
+      "guid": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo",
+      "title": "Watch: BBC in the Philippines where Thomas Markle is expected to be investigated",
+      "excerpt": "Jonathan Head is in Cebu, reporting from outside the home where Markle last resided.",
+      "published": "2026-10-29T07:28:26.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a90c/live/b93f5b80-d369-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T08:07:33.486Z"
+    },
+    {
       "id": "e5b574667f89d3a2",
       "guid": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo#1",
       "link": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo",
@@ -34,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg",
       "type": "article",
       "addedAt": "2026-10-29T07:03:04.141Z"
+    },
+    {
+      "id": "6c85a2ca8930913f",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o",
+      "title": "Healey promises reduction in welfare bill before next election",
+      "excerpt": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
+      "published": "2026-10-29T05:57:01.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd8/live/5d3b4f20-d36d-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T08:07:33.486Z"
     },
     {
       "id": "687b52daddb54cae",

@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "02fc8b74476280ba",
+      "guid": "https://ici.radio-canada.ca/empreintes/16508/epices-borealie-saguenay-fabien-girard-taniere",
+      "link": "https://ici.radio-canada.ca/empreintes/16508/epices-borealie-saguenay-fabien-girard-taniere",
+      "title": "Racines, insectes et sagesses boréales",
+      "excerpt": "Le biologiste Fabien Girard valorise, avec ses apprentis, la richesse de la flore et de la faune boréale.",
+      "published": "2026-10-29T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/fabien-girard-empreintes-conducteur-logo.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T08:07:33.486Z"
+    },
+    {
+      "id": "1e39046862897c82",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice",
+      "title": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+      "excerpt": "La vente au secteur privé d'un OSBL d'habitation pour aînés à Repentigny se judiciarise.",
+      "published": "2026-10-29T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/osbl-habitation-le-rive-nord-repentigny.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-29T08:07:33.486Z"
+    },
+    {
+      "id": "62c133715116de72",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296434/ssi-joshua-kutryk-premiere-sortie-panneaux-solaires",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296434/ssi-joshua-kutryk-premiere-sortie-panneaux-solaires",
+      "title": "Première sortie dans l’espace ce matin pour le Canadien Joshua Kutryk",
+      "excerpt": "L’astronaute devient le cinquième Canadien à sortir de la Station spatiale internationale.",
+      "published": "2026-10-29T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ssi-orbite-terre-grand-plan.png",
+      "type": "article",
+      "addedAt": "2026-10-29T08:07:33.486Z"
+    },
+    {
+      "id": "a3c9fee6d80aa179",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296696/iowa-elections-mi-mandat-fermiers-republicains",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296696/iowa-elections-mi-mandat-fermiers-republicains",
+      "title": "Les agriculteurs de l’Iowa délaisseront-ils le Parti républicain?",
+      "excerpt": "Les candidats démocrate et républicain au Sénat sont au coude-à-coude dans cet État favorable à Donald Trump.",
+      "published": "2026-10-29T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/marek-elections-mi-mandat-15613.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T08:07:33.486Z"
+    },
+    {
+      "id": "b7fb26c446d9912f",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296727/bebe-maxime-manawan-manon-ottawa",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296727/bebe-maxime-manawan-manon-ottawa",
+      "title": "Bébé Maxime retrouve les siens, à Manawan, pour l’éternité",
+      "excerpt": "Le bébé qui était disparu depuis 72 ans a été inhumé dans la communauté atikamekw de Manawan.",
+      "published": "2026-10-29T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/manon-ottawa-bebe-maxime-manawan.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T08:07:33.486Z"
+    },
+    {
+      "id": "e8af9e72261432f5",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296503/gripen-jet-militaire-saab-defense",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296503/gripen-jet-militaire-saab-defense",
+      "title": "Saab redouble d’efforts pour vendre ses chasseurs Gripen E au Canada",
+      "excerpt": "L'entreprise assemblerait les Gripen canadiens à Halifax, alors que les équipages seraient formés à Montréal.",
+      "published": "2026-10-29T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/avion-militaire-jet-saab-gripen.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T08:07:33.486Z"
+    },
+    {
       "id": "14422a1884cfdeb1",
       "guid": "https://ici.radio-canada.ca/nouvelle/2296764/etats-unis-frappes-iran-elections-mi-mandat",
       "link": "https://ici.radio-canada.ca/nouvelle/2296764/etats-unis-frappes-iran-elections-mi-mandat",
