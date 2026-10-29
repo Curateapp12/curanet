@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "47346d76dec1d791",
+      "guid": "174e565fbe2832c1a5fdbb8ed0702442",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-10-29/sommet-canada-union-europeenne/le-canada-devrait-devenir-membre-associe-de-l-ue-estime-ursula-von-der-leyen.php",
+      "title": "Sommet Canada-Union européenne | Le Canada devrait devenir « membre associé » de l’UE, estime Ursula von der Leyen",
+      "excerpt": "La présidente de la Commission européenne, Ursula von der Leyen, a déclaré jeudi que le sommet Canada-Union européenne (UE) de cette semaine ouvrait la voie à des discussions visant à faire du Canada le premier « membre associé » de l’Union.",
+      "published": "2026-10-29T15:57:28.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/33671b18653e3e2fb35cfe6ccc4e6f5f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T15:59:47.280Z"
+    },
+    {
+      "id": "5a09131050b2865b",
+      "guid": "a3061b4e7f143e39862bf66e5d7bbf32",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-10-29/etude/les-particules-de-microplastique-ne-sont-pas-inertes-dans-l-eau.php",
+      "title": "Étude | Les particules de microplastique ne sont pas inertes dans l’eau",
+      "excerpt": "Les microplastiques deviennent chimiquement actifs dans l’eau, catalysant ainsi la formation de radicaux libres capables d’endommager l’ADN, prévient pour une première fois une étude américaine.",
+      "published": "2026-10-29T15:50:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/1e1c0e6c/df46548307413619b5c57456f97a3ab1.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T15:59:47.280Z"
+    },
+    {
+      "id": "ae4ce56c25fc385f",
+      "guid": "ce0c10494c2035f4bc9cbeb09b83a399",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-29/conflit-entre-gangs/deux-arrestations-pour-le-meurtre-de-jayson-colin.php",
+      "title": "Conflit entre gangs | Deux arrestations pour le meurtre de Jayson Colin",
+      "excerpt": "Ce n’était qu’une question de temps : deux hommes dans la vingtaine ont finalement été arrêtés par la police de Montréal pour le meurtre de Jayson Colin, abattu il y a quatre ans. L’un des suspects, un visage connu du milieu des gangs de Laval, avait lui-même frôlé la mort le mois dernier.",
+      "published": "2026-10-29T15:30:04.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7bfd546c43923c978ab2919280efff22.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T15:59:47.280Z"
+    },
+    {
+      "id": "727ff542665ef062",
+      "guid": "f8a2ae6140653bdaa345bdcc98fe781c",
+      "link": "https://www.lapresse.ca/actualites/environnement/2026-10-29/rapport-de-la-verificatrice-generale-du-canada/ottawa-a-discretement-renonce-a-ses-promesses-sur-le-charbon-thermique.php",
+      "title": "Rapport de la vérificatrice générale du Canada | Ottawa a discrètement renoncé à ses promesses sur le charbon thermique",
+      "excerpt": "Environnement et Changement climatique Canada a abandonné ses travaux visant à mettre fin aux exportations de charbon thermique sans jamais en avoir informé le public et sans qu’il y ait la moindre trace d’une directive en ce sens.",
+      "published": "2026-10-29T15:16:48.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/1add7bc2092b36b0a3060a0fe9fa7e4e.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T15:59:47.280Z"
+    },
+    {
+      "id": "8927bdc9cafa9380",
+      "guid": "ae5ea5d22c973b06ae39ff8beca375a1",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-29/hausse-salariale-de-23-sur-six-ans/les-cols-bleus-adoptent-l-entente-avec-la-ville-de-montreal.php",
+      "title": "Hausse salariale de 23 % sur six ans | Les cols bleus adoptent l’entente avec la Ville de Montréal",
+      "excerpt": "Les cols bleus de Montréal ont voté à 78,51 % en faveur de l’entente de principe intervenue ces dernières semaines avec l’administration Martinez Ferrada. Ces 6600 employés municipaux obtiendront finalement une hausse salariale de 23 % sur six ans.",
+      "published": "2026-10-29T15:15:19.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/a19e795857113d5aa00d31ce3e649004.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T15:59:47.280Z"
+    },
+    {
       "id": "97b00346f3892b3e",
       "guid": "13d0260c3f2a3272af3a836dcec73d80",
       "link": "https://www.lapresse.ca/actualites/politique/2026-10-29/rapport-de-la-verificatrice-generale-du-canada/trop-de-munitions-et-d-equipement-medical-sur-des-tablettes.php",
