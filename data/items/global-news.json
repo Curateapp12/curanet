@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "437408cda1245e3f",
+      "guid": "https://globalnews.ca/?p=12126334",
+      "link": "https://globalnews.ca/news/12126334/patrick-stewart-star-trek-dead/",
+      "title": "Patrick Stewart, ‘Star Trek: The Next Generation’ actor, dead at 86",
+      "excerpt": "'We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace,' a statement shared to Patrick Stewart's social media said.",
+      "published": "2026-10-29T20:26:57.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/patrick-stewart-dead.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-29T20:52:07.301Z"
+    },
+    {
+      "id": "ea35f87b157975c3",
+      "guid": "https://globalnews.ca/?p=12126362",
+      "link": "https://globalnews.ca/news/12126362/auditor-general-report-ammunitions-denfence/",
+      "title": "Canada faces ‘critical gaps’ on military combat ammunition: AG warns",
+      "excerpt": "The report found there is a major discrepancy in the supply of munitions for training exercises and munitions to be used in combat.",
+      "published": "2026-10-29T20:25:34.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CAF-e1793305143657.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-29T20:52:07.301Z"
+    },
+    {
+      "id": "2898754824e74c0e",
+      "guid": "https://globalnews.ca/news/12126422/raptors-defence-clicking-early-in-the-season/",
+      "link": "https://globalnews.ca/news/12126422/raptors-defence-clicking-early-in-the-season/",
+      "title": "Raptors defence clicking early in the season",
+      "excerpt": "RJ Barrett knows that the Toronto Raptors have been the toughest team to score on early in the NBA season, but he's a little scared to talk about it.",
+      "published": "2026-10-29T20:22:49.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/0a8c0960f19021427a854cd58bc66e003150331a931a437813d97c29ebb79ca6.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-29T20:52:07.301Z"
+    },
+    {
+      "id": "93a7fd7c29feafc1",
+      "guid": "https://globalnews.ca/?p=12126254",
+      "link": "https://globalnews.ca/news/12126254/wolf-attack-germany-johannismuhle-wildlife-park/",
+      "title": "8-year-old severely injured in wolf attack inside German zoo enclosure",
+      "excerpt": "The incident occurred before the regular opening of the Johannismühle Wildlife Park south of Berlin, during a zookeeper day for children.",
+      "published": "2026-10-29T20:09:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/wolf-attack-german-zoo-e1793301671656.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-29T20:52:07.301Z"
+    },
+    {
+      "id": "72168a1fae299fcd",
+      "guid": "https://globalnews.ca/?p=12126207",
+      "link": "https://globalnews.ca/news/12126207/frederictons-emergency-shelter-spaces-winter-2026/",
+      "title": "Fredericton’s emergency shelter space shrinks ahead of winter",
+      "excerpt": "As colder weather approaches, those who operate homeless shelters in Fredericton are preparing to work with less this year.",
+      "published": "2026-10-29T20:00:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/NEW-SHELTER-PLASMA-1.png",
+      "type": "article",
+      "addedAt": "2026-10-29T20:52:07.301Z"
+    },
+    {
       "id": "419203293fdf5626",
       "guid": "https://globalnews.ca/?p=12126325",
       "link": "https://globalnews.ca/news/12126325/alberta-referendum-final-results/",
