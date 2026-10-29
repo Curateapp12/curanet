@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "ad7a713d77613d82",
+      "guid": "https://www.bbc.co.uk/news/articles/c52e9vnege7eo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c52e9vnege7eo",
+      "title": "US conservative activists charged with unlawful voting in election stunt",
+      "excerpt": "Prosecutors alleged the pair misrepresented their identities by giving election judges the names of other people.",
+      "published": "2026-10-29T01:17:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa88/live/450046a0-d326-11f1-ba7d-b5eab6da6837.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T02:01:06.790Z"
+    },
+    {
       "id": "0d295d6038b961f6",
       "guid": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no#5",
       "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no",
@@ -122,6 +133,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/162f/live/9c87ca10-d1fa-11f1-93e1-3b657b665bcf.jpg",
       "type": "article",
       "addedAt": "2026-10-28T23:43:43.770Z"
+    },
+    {
+      "id": "317e60733769cb42",
+      "guid": "https://www.bbc.co.uk/news/articles/cqzrdkn4v36po#5",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrdkn4v36po",
+      "title": "Mum of critically ill baby denied hospital food as she wasn't breastfeeding",
+      "excerpt": "Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal.",
+      "published": "2026-10-28T23:00:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7058/live/3a507bf0-d2b6-11f1-b441-2b33b063138f.png",
+      "type": "article",
+      "addedAt": "2026-10-29T02:01:06.790Z"
     },
     {
       "id": "bade413220ae62da",
