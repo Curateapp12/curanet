@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-politique",
   "items": [
     {
+      "id": "02c6606d59c60b3a",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10797070/panel]-relation-carney-pspp-teintee-par-sommet-canada-ue",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10797070/panel]-relation-carney-pspp-teintee-par-sommet-canada-ue",
+      "title": "[PANEL] La relation Carney-PSPP teintée par le sommet Canada-UE?",
+      "excerpt": "Brian Gallant, Bryan Breguet et Karl Bélanger commentent l'actualité politique de la semaine.",
+      "published": "2026-10-29T23:24:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/telejournal-18h30-mathieu-nadon.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T23:44:44.471Z"
+    },
+    {
+      "id": "a45988225229f2e0",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10797047/panel-politique-une-semaine-marquee-par-un-sommet-avec-union-europeenne",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10797047/panel-politique-une-semaine-marquee-par-un-sommet-avec-union-europeenne",
+      "title": "Panel politique : une semaine marquée par un sommet avec l’Union européenne",
+      "excerpt": "Véronique Prince et Louise Boisvert analysent la semaine politique.",
+      "published": "2026-10-29T22:58:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/tjqc-panel-politique-lapointe-prince-boisvert.png",
+      "type": "article",
+      "addedAt": "2026-10-29T23:44:44.471Z"
+    },
+    {
+      "id": "1981bce8bec25778",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10797037/chef-spvm-a-t-il-toujours-confiance-mairesse-montreal",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10797037/chef-spvm-a-t-il-toujours-confiance-mairesse-montreal",
+      "title": "Le chef du SPVM a-t-il toujours la confiance de la mairesse de Montréal ?",
+      "excerpt": "Alors qu'elle s’apprête à franchir le cap de sa première année à la tête de Montréal, Soraya Martinez Ferrada doit faire face à une crise de plus au sein du Service de police de la Ville de Montréal (SPVM). Après les récents dérapages qui ont secoué le corps policier, un agent est maintenant…",
+      "published": "2026-10-29T22:58:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/letelejournalmontreal.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T23:44:44.471Z"
+    },
+    {
       "id": "7b4d653c8b122507",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10797011/von-der-leyen-insiste-canada-devrait-etre-un-membre-associe-union-europeenne",
       "link": "https://ici.radio-canada.ca/info/videos/1-10797011/von-der-leyen-insiste-canada-devrait-etre-un-membre-associe-union-europeenne",
