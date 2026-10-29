@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "217c36ee36a14efe",
+      "guid": "b861c5e8-bdab-4a33-aadb-2135fffa229d",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-lebenshaltungskosten-102.html",
+      "title": "US-Zwischenwahlen: Trump holen seine Versprechen ein",
+      "excerpt": "Er werde das Leben in den USA wieder erschwinglich machen, hatte Trump 2024 versprochen. Zwei Jahre danach sieht die Wirklichkeit anders aus - nicht zuletzt an den Zapfsäulen. Das wirkt sich auf die Umfragen vor den Midterms aus. Von J. Schönenborn.",
+      "published": "2026-10-29T08:21:07.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/058e8a24-4658-4180-9ce5-ce30304585d2/AAABoQ-xMYg/AAABnSSvrFg/16x9-big/trump-dekret-diesel-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T08:59:03.832Z"
+    },
+    {
+      "id": "d5ef459ea197e9a7",
+      "guid": "78554999-9179-4e07-b4bc-b50ed0f72b03",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
+      "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
+      "excerpt": "In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.",
+      "published": "2026-10-29T08:20:43.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/da2c0804-858b-4676-96bd-d51ddbd10635/AAABoYaeqFo/AAABnSSvrFg/16x9-big/spanien-zug-bergung-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T08:59:03.832Z"
+    },
+    {
+      "id": "97250b82060fc87e",
+      "guid": "48b10caa-cb8c-4e8a-94eb-79d3a0a4ccfe",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-milliardenverlust-102.html",
+      "title": "Milliardenverlust bei Volkswagen",
+      "excerpt": "Hohe Abschreibungen und ein schwaches China-Geschäft haben Volkswagen tiefrote Zahlen beschert. Der Konzernverlust lag im dritten Quartal bei 5,8 Milliarden Euro. VW-Aktien fallen.",
+      "published": "2026-10-29T08:16:16.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ee2ef295-3557-4a7a-88a1-49a14eccafee/AAABoYaY67w/AAABnSSvrFg/16x9-big/vw-1026.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T08:59:03.832Z"
+    },
+    {
       "id": "415fcaa082c02025",
       "guid": "tagesschau_fm-story-rbb_berlin-abgeordnetenhaus-konstituierende-sitzung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
