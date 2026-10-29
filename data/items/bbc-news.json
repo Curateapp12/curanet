@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "2c2ab283adc7a156",
+      "guid": "https://www.bbc.co.uk/news/articles/c3dxwdwx8vxwo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxwdwx8vxwo",
+      "title": "MI5 false evidence in neo-Nazi spy case a serious failing, says intelligence watchdog",
+      "excerpt": "Lord Leveson says MI5 lying to multiple courts was as \"serious as anything\" he has dealt with.",
+      "published": "2026-10-29T18:51:34.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5e/live/4f77e220-d3c9-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T18:58:38.517Z"
+    },
+    {
+      "id": "f6015aea8e20b03f",
+      "guid": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o",
+      "title": "What are the government's options for reducing welfare spending?",
+      "excerpt": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it.",
+      "published": "2026-10-29T17:59:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ce1/live/683365e0-d3bb-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T18:58:38.517Z"
+    },
+    {
+      "id": "b8a1e9258d07797d",
+      "guid": "https://www.bbc.co.uk/news/articles/cred3e7yj8wqo#5",
+      "link": "https://www.bbc.co.uk/news/articles/cred3e7yj8wqo",
+      "title": "Man pleads guilty to federal hate crimes charges over fatal Colorado firebombing",
+      "excerpt": "Mohamed Sabry Soliman, who is already serving a life sentence over the fatal 2025 attack, changed his plea in the federal case on Thursday.",
+      "published": "2026-10-29T17:56:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c0d/live/8fff2150-d3a6-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T18:58:38.517Z"
+    },
+    {
       "id": "d7ece099cb51c2b0",
       "guid": "https://www.bbc.co.uk/news/articles/cwg7x3kegymvo#1",
       "link": "https://www.bbc.co.uk/news/articles/cwg7x3kegymvo",
@@ -12,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c830/live/c86392f0-d3bb-11f1-8c27-87a7c72809db.jpg",
       "type": "article",
       "addedAt": "2026-10-29T17:54:53.257Z"
+    },
+    {
+      "id": "921b401ab4a52321",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo",
+      "title": "Scottish football could pave way for 3pm TV blackout to end",
+      "excerpt": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.",
+      "published": "2026-10-29T17:43:53.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e1/live/b4fef970-d3bb-11f1-8c27-87a7c72809db.jpg",
+      "type": "article",
+      "addedAt": "2026-10-29T18:58:38.517Z"
     },
     {
       "id": "59a9225771d01076",
