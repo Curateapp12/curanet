@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "e0fe798dcee53ba1",
+      "guid": "tagesschau_fm-story-rbb_luckenwalde-teltow-flaeming-bevoelkerungsschutz-rotes-kreuz",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/groesstes-bevoelkerungsschutzzentrum-deutschlands-100.html",
+      "title": "Rotes Kreuz eröffnet größtes Bevölkerungsschutzzentrum in Brandenburg",
+      "excerpt": "In Brandenburg hat das Deutsche Rote Kreuz ein neues Bevölkerungsschutzzentrum eröffnet. Dort lagert Material, um bei Katastrophen bis zu 5.000 Menschen versorgen zu können. Laut Innenminister Dobrindt setzt das Projekt Maßstäbe.",
+      "published": "2026-10-29T10:41:03.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/969c680f-882f-4155-bf89-b1c1d337bd2c/AAABoYcNZS4/AAABnSSvrFg/16x9-big/rbb-drk-bevoelkerungsschutzzentrum-in-luckenwalde-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T10:54:11.638Z"
+    },
+    {
+      "id": "0c1772cd5eee5827",
+      "guid": "805aa073-42fa-413f-be7a-50b141e8eef2",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
+      "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+      "excerpt": "Gerüchte gab es bereits länger, nun ist es bestätigt: EZB-Chefin Lagarde gibt ihren Posten vorzeitig im Februar auf. So kann über die Nachfolge noch vor der Präsidentschaftswahl in Frankreich entschieden werden.",
+      "published": "2026-10-29T10:28:31.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/814030d4-6f76-4e55-8922-3ae689b93c11/AAABoYcn_rw/AAABnSSvrFg/16x9-big/lagarde-328.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-29T10:54:11.638Z"
+    },
+    {
       "id": "809670a122d0e552",
       "guid": "9217ed3c-eec7-4346-84ea-efbb9907c0e1",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-alphabet-kuenstliche-intelligenz-cloud-100.html",
