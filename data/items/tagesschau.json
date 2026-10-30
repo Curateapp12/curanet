@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "8b4bfa549d0416fd",
+      "guid": "5708a437-36b8-4031-b2f8-d33e02cc65f3",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html",
+      "title": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
+      "excerpt": "Inmitten einer Feuerpause haben die ersten Einwohner von Oleschky die von Russland besetzte südukrainische Stadt verlassen. Die Ukraine hofft, dass auch weitere Städte in der Region auf ähnlichem Weg versorgt werden können.",
+      "published": "2026-10-30T16:49:53.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d4855fdf-43b3-43c7-a54a-397ee7c45e9a/AAABoY2w1fI/AAABnSSvrFg/16x9-big/busse-oleschky-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T16:54:09.573Z"
+    },
+    {
+      "id": "5049fe78ccd4cbaf",
+      "guid": "4b89dbd6-44b3-404d-9a00-238269ca282b",
+      "link": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html",
+      "title": "Steinmeier in China: Handelsüberschuss im Fokus",
+      "excerpt": "Bundespräsident Steinmeier hat China zum Abbau seines hohen Handelsdefizits mit Deutschland aufgefordert. Bei einem Treffen mit Präsident Xi betonte er zudem die Verantwortung beider Länder, die internationale Ordnung aufrechtzuerhalten.",
+      "published": "2026-10-30T16:35:59.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1b6fcd05-98e7-4b3b-a76a-9a8b2247aa9c/AAABoY01iWc/AAABnSSvrFg/16x9-big/xi-steinmeier-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T16:54:09.573Z"
+    },
+    {
+      "id": "e51fdf46bbf7ab58",
+      "guid": "bc5e4fe0-ac16-4975-abc5-a4309b5e6629",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-gruende-100.html",
+      "title": "Jugendproteste: \"Sie meinen es jetzt wirklich ernst\"",
+      "excerpt": "Steigende Preise, marode Schulen, fehlender Dialog: Im Interview erklärt der Protestforscher Florian Staudt, warum junge Menschen in Europa protestieren - und was die Politik aus seiner Sicht jetzt tun sollte.",
+      "published": "2026-10-30T16:03:53.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/377abb38-b249-4990-a6ed-3622a43e0c95/AAABoY0h5_U/AAABnSSvrFg/16x9-big/jugendliche-224.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T16:54:09.573Z"
+    },
+    {
       "id": "cd065477ee0f80be",
       "guid": "c710e61b-7166-482d-b14e-36c3f42eeac6",
       "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
