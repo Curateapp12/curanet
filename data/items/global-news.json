@@ -3,6 +3,105 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "8e251df050f90556",
+      "guid": "https://globalnews.ca/?p=12127307&preview=true&preview_id=12127307",
+      "link": "https://globalnews.ca/news/12127307/us-midterm-early-voting-numbers/",
+      "title": "Early voting jumps as millions more Americans vote ahead of midterms",
+      "excerpt": "Early voting is significantly outpacing the last midterm election, with millions more Americans casting ballots in advance of tightly contested races.",
+      "published": "2026-10-30T15:50:31.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/c4f27cf7384ea4848fd2c9c4c5a0df2a882faba2d734a6c6ed809da2e35bf591_ee9006.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T15:56:34.580Z"
+    },
+    {
+      "id": "ea6876a8ceea3bc4",
+      "guid": "https://globalnews.ca/?p=12127350",
+      "link": "https://globalnews.ca/news/12127350/three-charged-second-degree-murdrer-regina/",
+      "title": "2 adults, 1 teen charged with second-degree murder in Regina",
+      "excerpt": "Three people were charged in connection to the killing of Rebecca Autumn (Wilson) Mathieson, 37, who was taken to hospital with severe injuries in August and later died.",
+      "published": "2026-10-30T15:38:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/REGINA-HOMICIDE-THREE-CHARGED.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T15:56:34.580Z"
+    },
+    {
+      "id": "5d2a9c3e2ed5e7f1",
+      "guid": "https://globalnews.ca/?p=12127250",
+      "link": "https://globalnews.ca/news/12127250/robert-kelker-kelly-cause-of-death-revealed/",
+      "title": "‘Days of Our Lives’ star Robert Kelker-Kelly cause of death revealed",
+      "excerpt": "Police said that Robert Kelker-Kelly had reportedly complained of chest pain shortly before becoming unresponsive and the circumstances appeared consistent with a medical event.",
+      "published": "2026-10-30T15:38:24.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/robert-kelker-kelly-cause-of-death.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T15:56:34.580Z"
+    },
+    {
+      "id": "ed5edf57f73cde79",
+      "guid": "https://globalnews.ca/?p=12127286",
+      "link": "https://globalnews.ca/news/12127286/nova-scotia-school-support-workers-strike-notice/",
+      "title": "N.S. school support workers to file 48-hour strike notice after talks break down",
+      "excerpt": "The union representing school support workers in Nova Scotia says it will be filing a 48-hour strike notice, after talks broke down with the province overnight.",
+      "published": "2026-10-30T15:35:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/01/20250110190112-20250110180120-39e394099293c90f5f25a77feed008899fbbd972415dacc43e85fbb0ebfc4458.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T15:56:34.580Z"
+    },
+    {
+      "id": "0a28be5b804c5128",
+      "guid": "https://globalnews.ca/?p=12127372",
+      "link": "https://globalnews.ca/news/12127372/new-brunswick-surplus-power-sales-irving-paper/",
+      "title": "New Brunswick’s surplus power sales to U.S. could close Irving Paper, firm warns",
+      "excerpt": "New Brunswick's Crown-owned electric utility is being criticized for changing its policy on the sale of excess power.",
+      "published": "2026-10-30T15:32:23.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/4e86e88add072d57b54a66bada8b3f45788e534b94260c34c2c616e4deb441f4.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T15:56:34.580Z"
+    },
+    {
+      "id": "491679778cdc2dbd",
+      "guid": "https://globalnews.ca/?p=12127305&preview=true&preview_id=12127305",
+      "link": "https://globalnews.ca/news/12127305/tech-stock-selloff-wall-street/",
+      "title": "Tech stock selloff worsens and drowns out strength elsewhere on Wall Street",
+      "excerpt": "A sell-off for tech stocks is forcing the U.S. market down again, with Amazon and Intel helping lead the way this time as gains for October were erased.",
+      "published": "2026-10-30T15:20:56.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/259e59655285ced0dd4267852b7eabc8932900c26bebbd6b10242aa322caded3.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T15:56:34.580Z"
+    },
+    {
+      "id": "df34b22170b46033",
+      "guid": "https://globalnews.ca/news/12127333/harris-riders-eager-to-face-lions-in-cfl-playoffs/",
+      "link": "https://globalnews.ca/news/12127333/harris-riders-eager-to-face-lions-in-cfl-playoffs/",
+      "title": "Harris, Riders eager to face Lions in CFL playoffs",
+      "excerpt": "Big games are where Trevor Harris believes he shines.",
+      "published": "2026-10-30T15:14:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/92ae2548c6f3d0f1035d8e2b7daf27183f6b67acbcdefee448e795c537b514cc_5211d7.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T15:56:34.580Z"
+    },
+    {
+      "id": "7f7eabee253919a2",
+      "guid": "https://globalnews.ca/?p=12127311&preview=true&preview_id=12127311",
+      "link": "https://globalnews.ca/news/12127311/hockey-canada-seeks-clarity-on-russias-return/",
+      "title": "Hockey Canada seeks clarity on Russia’s return",
+      "excerpt": "Hockey Canada is seeking clarity on Russia's potential return to the world junior hockey championship, which begins in less than two months in Edmonton and Red Deer.",
+      "published": "2026-10-30T15:11:38.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/35d22d5ebb0f4d3df9d98e583b8d606cb8eb407a95f4c72e983624d16dffbc49.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T15:56:34.580Z"
+    },
+    {
+      "id": "6497d9ada5394833",
+      "guid": "https://globalnews.ca/news/12127319/brown-starting-for-blue-bombers-in-east-semifinal/",
+      "link": "https://globalnews.ca/news/12127319/brown-starting-for-blue-bombers-in-east-semifinal/",
+      "title": "Brown starting for Blue Bombers in East semifinal",
+      "excerpt": "Dru Brown will start at quarterback Saturday when the Winnipeg Blue Bombers visit the Toronto Argonauts in the East semifinal.",
+      "published": "2026-10-30T15:04:20.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/bd16cc7fccbd23c28c7049bb8f16a80465e40f1d7805d856f74390136fdc5bea_61bd31.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T15:56:34.580Z"
+    },
+    {
       "id": "3050f93e3fcfa972",
       "guid": "https://globalnews.ca/?p=12127143",
       "link": "https://globalnews.ca/news/12127143/why-canadian-police-still-use-crime-stoppers/",
