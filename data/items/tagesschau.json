@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "1af8ab6526f20035",
+      "guid": "fce7d08f-3cb6-40c1-9edf-a6a78a7f6408",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-binance-interview-100.html",
+      "title": "Experte zum Krypto-Angriff: \"Drei Milliarden sind definitiv weg\"",
+      "excerpt": "Beim Hackerangriff auf die Kryptobörse Binance geht es um Digitalwährungen in Milliardenhöhe. Cybersicherheitsexperte Mirko Ross erklärt, warum die Spur nach Nordkorea führt und was Anleger beachten sollten.",
+      "published": "2026-10-30T12:32:21.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6005bf42-35ee-49c0-a9de-0c0c82432647/AAABoYumLh8/AAABnSSvrFg/16x9-big/binance-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T13:01:45.125Z"
+    },
+    {
+      "id": "f10164da1e5d2320",
+      "guid": "f413b0e6-709e-44cd-9400-6577624778ad",
+      "link": "https://www.tagesschau.de/ausland/asien/kremlkritische-zeitung-russland-geschlossen-100.html",
+      "title": "Aus für die Nowaja Gaseta in Russland: \"Die Zeitung gibt es nicht mehr\"",
+      "excerpt": "Die Nowaja Gaseta galt als eine der kritischsten Stimmen in Russland. Nach mehr als 30 Jahren und massivem Druck muss sie schließen. \"Nowaja Gaseta beendet ihr Leben\", sagt Chefredakteur Sokolow. Von Björn Blaschke.",
+      "published": "2026-10-30T12:20:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e5fa707f-f898-40ad-a473-4fc6ed87c5a9/AAABoYyYSP8/AAABnSSvrFg/16x9-big/nowaja-gaseta-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T13:01:45.125Z"
+    },
+    {
+      "id": "0b8934a8d7f1ad43",
+      "guid": "tagesschau_fm-story-WDR-12562db0-18c1-43a6-9421-a8b889ac12de",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waffenfund-remscheid-urteil-100.html",
+      "title": "Remscheider Waffenprozess: Illegaler Waffensammler zu Haftstrafe verurteilt",
+      "excerpt": "300 scharfe Waffen, 100.000 Schuss Munition und das alles in einem Wohngebiet - es war einer größten Waffenfunde in Deutschland. Für seine illegale Sammlung ist ein Mann aus Remscheid nun zu sechseinhalb Jahren Haft verurteilt worden.",
+      "published": "2026-10-30T12:09:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/06b01286-5189-4c8c-8210-581c78f87b5a/AAABoYzeJKU/AAABnSSvrFg/16x9-big/wdr-sechseinhalb-jahre-haft-fuer-den-hauptangeklagten-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T13:01:45.125Z"
+    },
+    {
+      "id": "1c50222086c8d209",
+      "guid": "64eca13e-9966-419b-801b-b942210b8a73",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/stasi-liste-halle-100.html",
+      "title": "1992 in Halle veröffentlicht: Die Drahtzieher hinter der Stasi-Liste",
+      "excerpt": "Vor mehr als 30 Jahren sorgte eine Liste mit rund 4.500 Namen von geführten Stasi-Informanten in Halle für Aufsehen. Wer sie verfasste, blieb jahrzehntelang unbekannt. Nun sprechen die Verfasser erstmals öffentlich. Von Ottilie Wied.",
+      "published": "2026-10-30T11:51:06.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2b196c8a-a44f-4296-b704-bf9e084fc668/AAABoYyq3GY/AAABnSSvrFg/16x9-big/menschen-neues-forum-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T13:01:45.125Z"
+    },
+    {
       "id": "1775453df4a1c0de",
       "guid": "6b2c14eb-f806-44f0-bd74-e6f3aecd3667",
       "link": "https://www.tagesschau.de/ausland/asien/merz-asienreise-suedkorea-100.html",

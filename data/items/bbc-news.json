@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "d68a3bb193dda4c1",
+      "guid": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo",
+      "title": "Driver guilty of dragging head teacher to his death",
+      "excerpt": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
+      "published": "2026-10-30T12:55:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f491/live/4e6457c0-d233-11f1-a1ed-ffd83ae54f7c.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T13:01:45.125Z"
+    },
+    {
+      "id": "4e7bcb7a6e4ca8de",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo",
+      "title": "What we know so far about the Binance hack",
+      "excerpt": "Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far",
+      "published": "2026-10-30T11:57:33.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7d6/live/c29ae8c0-d445-11f1-97f9-27ebf08d99fe.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T13:01:45.125Z"
+    },
+    {
+      "id": "0fa92b7b01c995e2",
+      "guid": "https://www.bbc.co.uk/news/articles/cqglwp088532o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwp088532o",
+      "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
+      "excerpt": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
+      "published": "2026-10-30T11:55:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/188a/live/49f5c490-d458-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T13:01:45.125Z"
+    },
+    {
       "id": "903f9afc1bf7bb21",
       "guid": "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo#1",
       "link": "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo",
@@ -12,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ac/live/4da31040-5b66-11f1-8ea9-9775e47f19f8.jpg",
       "type": "article",
       "addedAt": "2026-10-30T11:49:28.472Z"
+    },
+    {
+      "id": "bae5e0f774ac945e",
+      "guid": "https://www.bbc.co.uk/news/articles/cmewepdr109do#3",
+      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do",
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "excerpt": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "published": "2026-10-30T11:23:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T13:01:45.125Z"
     },
     {
       "id": "74ae3cc665d751f4",
