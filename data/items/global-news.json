@@ -3,6 +3,72 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "90cb1dd4479b3749",
+      "guid": "https://globalnews.ca/?p=12127773",
+      "link": "https://globalnews.ca/news/12127773/manitoba-increase-fatal-collisions/",
+      "title": "RCMP urges Manitobans to drive safely following increase in fatal collisions",
+      "excerpt": "The number of fatal collisions in Manitoba is rising, according to the RCMP, who said it is increasing traffic enforcement as a result.",
+      "published": "2026-10-30T20:26:56.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/manitoba-fatal-collision-increase.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T20:49:18.675Z"
+    },
+    {
+      "id": "dc2e04c870b7097b",
+      "guid": "https://globalnews.ca/?p=12127467",
+      "link": "https://globalnews.ca/news/12127467/nova-scotia-online-gambling/",
+      "title": "Nova Scotia weighs risks of online gambling as other provinces expand access",
+      "excerpt": "Nova Scotia is keeping a close eye on how other provinces are expanding online gambling, but opposition leaders are warning the province should \"tread very, very carefully.\"",
+      "published": "2026-10-30T20:11:56.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/11/4061d6e283cde01eac66d76aa7e97455fbe455f5fc4519efc89576de416ad564.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T20:49:18.675Z"
+    },
+    {
+      "id": "d5a8b0447deb7ac1",
+      "guid": "https://globalnews.ca/?p=12127853",
+      "link": "https://globalnews.ca/news/12127853/fredericton-drug-overdoses-public-safety-alert/",
+      "title": "N.B. police issue public safety alert over suspected drug overdose spike in capital",
+      "excerpt": "The Fredericton Police Force says it responded to about 17 calls related to suspected overdoses between Wednesday and Friday morning.",
+      "published": "2026-10-30T20:04:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/b7eff1c914785b01c05f63b59c9be804f101610c533caf139cbda5cb3c866811_55b68c.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T20:49:18.675Z"
+    },
+    {
+      "id": "28a2c7d1a091c996",
+      "guid": "https://globalnews.ca/?p=12127765",
+      "link": "https://globalnews.ca/news/12127765/erin-patterson-death-cap-mushrooms-parole-denied-australia/",
+      "title": "Mushroom killer Erin Patterson can never be released from prison, judges rule",
+      "excerpt": "Judges in Victoria dismissed Patterson’s appeal meaning she will spend the rest of her life in prison without the possibility of parole.",
+      "published": "2026-10-30T19:58:27.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/06/CP174618886.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T20:49:18.675Z"
+    },
+    {
+      "id": "8824bd5008b55123",
+      "guid": "https://globalnews.ca/?p=12127754",
+      "link": "https://globalnews.ca/news/12127754/high-level-bridge-2027-closure/",
+      "title": "High Level Bridge closing in 2027 for urgent repairs after summer of storms",
+      "excerpt": "The summer of 2026 brought record rainfalls to Edmonton that damaged homes and other infrastructure — and is also forcing the closure of one of the city's biggest bridges.",
+      "published": "2026-10-30T19:54:01.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/05/DJI_0583.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T20:49:18.675Z"
+    },
+    {
+      "id": "f7478fe6f20f9716",
+      "guid": "https://globalnews.ca/?p=12127820",
+      "link": "https://globalnews.ca/news/12127820/distinguishing-ai-information-in-court/",
+      "title": "Building tool to help courts spot AI-generated evidence is ‘challenging’: researcher",
+      "excerpt": "A team of researchers in Canada are working to make an open-source, free and easy to use tool that the justice system can use to help distinguish what's real from what's fake.",
+      "published": "2026-10-30T19:53:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Court-House-e1793389954334.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T20:49:18.675Z"
+    },
+    {
       "id": "eab9da0b42d552cd",
       "guid": "https://globalnews.ca/?p=12127582",
       "link": "https://globalnews.ca/news/12127582/christa-pike-public-statement-botched-execution-tennessee/",
