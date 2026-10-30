@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "a6f28e567e51f07b",
+      "guid": "15df635b-66d8-414a-9da8-62c35ab485a3",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html",
+      "title": "Deutsche Wirtschaft wächst überraschend im Sommer",
+      "excerpt": "Nach einem starken Halbjahr hat sich auch im Sommer die Erholung der deutschen Wirtschaft fortgesetzt. Dabei hatten viele Experten mit einer Stagnation gerechnet. Die privaten Ausgaben sind jedoch weiterhin verhalten.",
+      "published": "2026-10-30T09:50:45.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/eb011f34-2bf4-4b6e-9580-4e6222929b68/AAABoYwixYc/AAABnSSvrFg/16x9-big/konjunktur-424.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T09:57:21.839Z"
+    },
+    {
+      "id": "ece2e60eb1f00e52",
+      "guid": "69b345c8-dc68-45b3-a78f-fe11dfbf1dbc",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/automobil-audi-gewinneinbruch-100.html",
+      "title": "Krise in Automobilbranche: Gewinn bei Audi bricht drastisch ein",
+      "excerpt": "Auch der Autobauer Audi steckt in der Krise: Der Gewinn brach im dritten Quartal deutlich ein. Grund ist unter anderem das schwache China-Geschäft. Neue Automodelle sollen positive Impulse bringen.",
+      "published": "2026-10-30T09:42:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0de6f7b9-b895-4aa2-a1ab-d78c9b17da15/AAABoYv1pSM/AAABnSSvrFg/16x9-big/audi-260.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T09:57:21.839Z"
+    },
+    {
+      "id": "fc887d71076f6400",
+      "guid": "e598470c-e3b0-4b0d-845d-e02af0466b05",
+      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
+      "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
+      "excerpt": "Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten.",
+      "published": "2026-10-30T09:39:38.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/66f416f5-f843-43a2-aa35-189765c1a3c9/AAABoYwsVgM/AAABnSSvrFg/16x9-big/suche-guardia-vivil-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T09:57:21.839Z"
+    },
+    {
+      "id": "a7291d84bcd90a35",
+      "guid": "6919bb4f-f7ae-42fd-859d-0f75177024e8",
+      "link": "https://www.tagesschau.de/kultur/patrick-stewart-nachruf-100.html",
+      "title": "Nachruf auf Patrick Stewart: Er konnte Science-Fiction - und Shakespeare",
+      "excerpt": "Der Welt bekannt wurde er als Raumschiff-Enterprise-Kapitän Picard, aber seine große Liebe galt sein Leben lang Shakespeare. Jetzt ist der große englische Schauspieler Patrick Stewart gestorben. Ein Nachruf von Franziska Hoppen.",
+      "published": "2026-10-30T09:29:13.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/21b0126c-0999-45e0-bb4b-f5c92f1021aa/AAABoYvYVm4/AAABnSSvrFg/16x9-big/stewart-110.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T09:57:21.839Z"
+    },
+    {
       "id": "e269feb73c428c0e",
       "guid": "32d73625-ecb6-418c-90aa-9d162d3f1844",
       "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
