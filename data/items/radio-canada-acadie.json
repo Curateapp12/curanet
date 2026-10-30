@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "d1cd537846973697",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297124/infirmieres-agences-campbellton-csr",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297124/infirmieres-agences-campbellton-csr",
+      "title": "Le retour des infirmières itinérantes réclamé dans le Restigouche",
+      "excerpt": "La CSR veut éviter une interruption des services à l'urgence de l'hôpital de Campbellton.",
+      "published": "2026-10-30T18:36:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hopital-infirmiere-medecin-sante.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T18:53:03.891Z"
+    },
+    {
+      "id": "de76578504a45510",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10797670/tournage-2e-saison-bedaine-est-termine",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10797670/tournage-2e-saison-bedaine-est-termine",
+      "title": "Le tournage de la 2e saison de Bedaine est terminé",
+      "excerpt": "La deuxième saison de la série acadienne Bedaine est attendue en 2027 sur TOU.TV. Le tournage est terminé. Le créateur de la série, Ryan Doucette explique ce à quoi on peut s’attendre.",
+      "published": "2026-10-30T17:52:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bedaine-tournage-ryan-doucette.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T18:53:03.891Z"
+    },
+    {
       "id": "f22dc0f5ff605671",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297046/halloween-grc-bonbons-friandises",
       "link": "https://ici.radio-canada.ca/nouvelle/2297046/halloween-grc-bonbons-friandises",
@@ -34,6 +56,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/telejournal-acadie-29-octobre-nouemsi-njike.jpg",
       "type": "article",
       "addedAt": "2026-10-30T14:06:02.598Z"
+    },
+    {
+      "id": "824db1d200409452",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2516617/cafe-politique-matinale",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2516617/cafe-politique-matinale",
+      "title": "Le café politique du 30 octobre",
+      "excerpt": "Cette semaine au café politique de la matinale, le journaliste de CBC à Fredericton Jacques Poitras et l'éditorialiste de l'Acadie Nouvelle François Gravel s'intéressent au bras de fer entre le réseau Vitalité et le ministre de la santé, au gouvernement Holt qui semble vouloir réduire le temps des…",
+      "published": "2026-10-30T12:11:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cafe-politique-169-bonif.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T18:53:03.891Z"
     },
     {
       "id": "1d3f45e460c50b4f",
