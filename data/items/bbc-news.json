@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "63ea9092726a1df7",
+      "guid": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo",
+      "title": "New York police will investigate Cornell sex complaints, governor says",
+      "excerpt": "The change was announced amid backlash over the school's handling of gang rape allegations involving a fraternity on campus.",
+      "published": "2026-10-30T03:32:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907c/live/50611bc0-d3ec-11f1-9b46-0570989d0351.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T03:54:31.625Z"
+    },
+    {
       "id": "124228e3148f3ac2",
       "guid": "https://www.bbc.co.uk/news/articles/cked3p81303yo#4",
       "link": "https://www.bbc.co.uk/news/articles/cked3p81303yo",
@@ -89,6 +100,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a03/live/8cb6f6d0-d388-11f1-b5f4-fd541fd21001.jpg",
       "type": "article",
       "addedAt": "2026-10-30T01:05:32.166Z"
+    },
+    {
+      "id": "972916b0bf51e30c",
+      "guid": "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o",
+      "title": "I didn't know I was lacking in vitamin D until I collapsed at work",
+      "excerpt": "Doctors are finding vitamin D deficiency is increasingly widespread in the UK, especially in young people. But the symptoms are difficult to spot and can be missed.",
+      "published": "2026-10-30T00:29:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7fd/live/67a93c60-d3bd-11f1-a62f-fd53d503ac8d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T03:54:31.625Z"
     },
     {
       "id": "973975474c8b84f9",

@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "3c067c13f633f589",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10797167/sports-express-29-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10797167/sports-express-29-octobre",
+      "title": "Sports Express - 29 octobre",
+      "excerpt": "Les nouvelles du sport avec Jérémie Turbide",
+      "published": "2026-10-30T03:31:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T03:54:31.625Z"
+    },
+    {
+      "id": "7ae150ee584b24b3",
+      "guid": "https://ici.radio-canada.ca/sports/2297014/holmberg-lightning-jets-lnh",
+      "link": "https://ici.radio-canada.ca/sports/2297014/holmberg-lightning-jets-lnh",
+      "title": "Holmberg et le Lightning s’imposent face aux Jets",
+      "excerpt": "Pontus Holmberg a inscrit quatre points dans une victoire de 6-4 du Lightning contre les Jets.",
+      "published": "2026-10-30T03:29:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/pontus-holmberg-jets.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T03:54:31.625Z"
+    },
+    {
+      "id": "3a4f05a807cb84e9",
+      "guid": "https://ici.radio-canada.ca/sports/2297012/jakub-dobes-stars-canadien-caufield-newhook",
+      "link": "https://ici.radio-canada.ca/sports/2297012/jakub-dobes-stars-canadien-caufield-newhook",
+      "title": "Jakub Dobes renoue avec la victoire face aux Stars",
+      "excerpt": "Le gardien du Canadien a réussi 17 arrêts dans un gain de 5-2 contre les Stars, à Dallas.",
+      "published": "2026-10-30T03:03:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/jakub-dobes-canadien-stars.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T03:54:31.625Z"
+    },
+    {
       "id": "d5976e3f26d03b28",
       "guid": "https://ici.radio-canada.ca/sports/videos/1-10797059/rencontre-au-sommet-entre-rouge-et-or-et-carabins",
       "link": "https://ici.radio-canada.ca/sports/videos/1-10797059/rencontre-au-sommet-entre-rouge-et-or-et-carabins",
