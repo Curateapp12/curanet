@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "47b59f4869a7035f",
+      "guid": "https://www.bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo#9",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo",
+      "title": "Set up to fail? Where England's World Cup campaign went wrong",
+      "excerpt": "England's men and women endured different types of disappointment at the Rugby League World Cup on Friday - and the inquests have already begun.",
+      "published": "2026-10-30T14:50:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda9/live/97d12300-d46f-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T15:01:38.808Z"
+    },
+    {
+      "id": "b48ad52c5e6a6cb4",
+      "guid": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo#5",
+      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo",
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "excerpt": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+      "published": "2026-10-30T14:48:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T15:01:38.808Z"
+    },
+    {
+      "id": "9d1d6e5bc0240d27",
+      "guid": "https://www.bbc.co.uk/news/articles/c61m42pzplnzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c61m42pzplnzo",
+      "title": "Police watchdog to investigate Met over letter about Meghan's father",
+      "excerpt": "The police force faces probe over its handling of a letter containing allegations about Meghan's father.",
+      "published": "2026-10-30T14:36:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d2/live/12831950-d3bc-11f1-93e1-3b657b665bcf.png",
+      "type": "article",
+      "addedAt": "2026-10-30T15:01:38.808Z"
+    },
+    {
+      "id": "45381c833b739c81",
+      "guid": "https://www.bbc.co.uk/weather/articles/cmwyq27lqe9no#5",
+      "link": "https://www.bbc.co.uk/weather/articles/cmwyq27lqe9no",
+      "title": "Wettest week for two years but still not enough rain to get out of drought",
+      "excerpt": "After above average rainfall in October, reservoirs across England are still very low with much of the country remaining in drought, as Simon King explains.",
+      "published": "2026-10-30T14:12:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dfc/live/872bf440-d446-11f1-97f9-27ebf08d99fe.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T15:01:38.808Z"
+    },
+    {
       "id": "4c0defeaba07dee7",
       "guid": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#5",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
@@ -124,6 +168,17 @@
       "addedAt": "2026-10-30T11:49:28.472Z"
     },
     {
+      "id": "a6ab2ddf04817d0e",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#9",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo",
+      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
+      "excerpt": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
+      "published": "2026-10-30T10:44:19.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f09/live/e6eca230-d43c-11f1-97f9-27ebf08d99fe.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T15:01:38.808Z"
+    },
+    {
       "id": "9e677562203ea422",
       "guid": "https://www.bbc.co.uk/news/articles/c60me298k1yeo#1",
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
@@ -133,6 +188,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16ad/live/b69284c0-d44a-11f1-a701-fddedf244c16.jpg",
       "type": "article",
       "addedAt": "2026-10-30T10:53:14.746Z"
+    },
+    {
+      "id": "a29e76a65a570886",
+      "guid": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o#3",
+      "link": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o",
+      "title": "What's at stake for Trump in the US midterms?",
+      "excerpt": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+      "published": "2026-10-30T10:19:48.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfb4/live/7add81a0-d3be-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T15:01:38.808Z"
     },
     {
       "id": "b975f2c8f0a5066b",
