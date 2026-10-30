@@ -3,6 +3,61 @@
   "sourceId": "el-pais",
   "items": [
     {
+      "id": "93682b24e0430255",
+      "guid": "https://elpais.com/espana/catalunya/2026-10-30/detenido-un-menor-por-los-organizar-los-saqueos-de-blocus-del-sabado-en-barcelona.html",
+      "link": "https://elpais.com/espana/catalunya/2026-10-30/detenido-un-menor-por-los-organizar-los-saqueos-de-blocus-del-sabado-en-barcelona.html",
+      "title": "Detenido un menor por organizar los saqueos de Blocus del sábado en Barcelona",
+      "excerpt": "Se trata de un joven de 17 años en Sant Sadurní d’Anoia",
+      "published": "2026-10-30T08:46:48.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/K52XIGIQVBP5XG2V5OH4OD7C4U.jpg?auth=5aaeed329fe61b87f80ab6f66ef2445342c4bf13935424c77253e7a2ce08725e",
+      "type": "article",
+      "addedAt": "2026-10-30T08:59:45.752Z"
+    },
+    {
+      "id": "54712e474e26836c",
+      "guid": "https://elpais.com/deportes/2026-10-30/el-dakar-vuelve-a-africa-y-europa-en-2027-salida-en-portugal-y-final-en-marruecos.html",
+      "link": "https://elpais.com/deportes/2026-10-30/el-dakar-vuelve-a-africa-y-europa-en-2027-salida-en-portugal-y-final-en-marruecos.html",
+      "title": "El Dakar vuelve a África y Europa en 2027: salida en Portugal y final en Marruecos",
+      "excerpt": "Tras suspender la ruta en Arabia Saudí por el conflicto en Oriente Próximo, la organización plantea un recorrido de 12 etapas y casi 8.000 kilómetros que pisará España sin competir y que regresa al continente africano veinte años después",
+      "published": "2026-10-30T08:46:45.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/3SHCS6SXVFGEBNOHQIQ4CFQ76A.JPG?auth=44ef0128e75783f4a1933e2a74b31cc6fc34fa083b36966dabc71dbb05a6148d",
+      "type": "article",
+      "addedAt": "2026-10-30T08:59:45.752Z"
+    },
+    {
+      "id": "2f46fccbafa3b9ae",
+      "guid": "https://elpais.com/television/2026-10-30/el-duro-monologo-de-pablo-motos-en-el-hormiguero-contra-el-gobierno-por-el-accidente-de-urda-nos-han-enganado.html",
+      "link": "https://elpais.com/television/2026-10-30/el-duro-monologo-de-pablo-motos-en-el-hormiguero-contra-el-gobierno-por-el-accidente-de-urda-nos-han-enganado.html",
+      "title": "El duro discurso de Pablo Motos en ‘El hormiguero’ contra el Gobierno por el accidente de Urda: “Nos han engañado”",
+      "excerpt": "El presentador de ‘El hormiguero’ se acuerda de las víctimas del choque de trenes: “La UE nos dio 160.000 millones de euros para modernizar todas las infraestructuras. ¿Dónde está el dinero?”, pregunta",
+      "published": "2026-10-30T08:39:30.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/YTWNHWVLGJF6FHSKT4V3A3V6LA.png?auth=93ccd003a2410f75c9dcf451ac08c51d7feba0b5099f592d489f95192b723b3d",
+      "type": "article",
+      "addedAt": "2026-10-30T08:59:45.752Z"
+    },
+    {
+      "id": "f8a563059ea14da2",
+      "guid": "https://cincodias.elpais.com/companias/2026-10-30/riu-compra-el-iconico-hotel-grand-hyatt-de-barcelona-por-280-millones.html",
+      "link": "https://cincodias.elpais.com/companias/2026-10-30/riu-compra-el-iconico-hotel-grand-hyatt-de-barcelona-por-280-millones.html",
+      "title": "Riu compra el icónico hotel Grand Hyatt de Barcelona por 280 millones",
+      "excerpt": "La hotelera balear cierra una búsqueda de doce años con la adquisición del inmueble a la gestora Blasson y BNP Paribas Asset Management",
+      "published": "2026-10-30T08:11:44.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/ZJMHYZ6USBE37DUJPFB26WKE4U.jpg?auth=a62fc45b5fb28d996f5bbe6ed3dbf2dd4aab1660e2697bf60f74ff4fce8dc373",
+      "type": "article",
+      "addedAt": "2026-10-30T08:59:45.752Z"
+    },
+    {
+      "id": "1d35ed4de8eaeb30",
+      "guid": "https://elpais.com/economia/2026-10-30/la-inflacion-se-mantiene-en-el-49-por-el-empuje-de-los-combustibles.html",
+      "link": "https://elpais.com/economia/2026-10-30/la-inflacion-se-mantiene-en-el-49-por-el-empuje-de-los-combustibles.html",
+      "title": "La inflación se mantiene en el 4,9% por el empuje de los combustibles",
+      "excerpt": "El encarecimiento del gas y los precios de los paquetes turísticos explican la resistencia del IPC",
+      "published": "2026-10-30T08:08:04.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/2MOQJIG2PVLLVFGXHCFLPNLXDM.jpg?auth=525e2306af76f0a2de35eb481df89fc33d20906058cc0ab1f5151192ac834421",
+      "type": "article",
+      "addedAt": "2026-10-30T08:59:45.752Z"
+    },
+    {
       "id": "639bebb01b863b22",
       "guid": "https://elpais.com/economia/2026-10-30/espana-crecio-en-el-tercer-trimestre-un-27.html",
       "link": "https://elpais.com/economia/2026-10-30/espana-crecio-en-el-tercer-trimestre-un-27.html",
@@ -155,6 +210,17 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/EUMP7WJ4M5HWFFRLN45WQOPZF4.jpg?auth=2020f3ac30453499d36470747aa9d418c94a64a4b2587528f54b906693732493",
       "type": "article",
       "addedAt": "2026-10-30T05:52:26.123Z"
+    },
+    {
+      "id": "9988f2b57b692e18",
+      "guid": "https://elpais.com/planeta-futuro/2026-10-30/puede-africa-saltarse-etapas-en-su-senda-de-desarrollo.html",
+      "link": "https://elpais.com/planeta-futuro/2026-10-30/puede-africa-saltarse-etapas-en-su-senda-de-desarrollo.html",
+      "title": "¿Puede África saltarse etapas en su senda de desarrollo?",
+      "excerpt": "La defensa del ‘leapfrogging’, que significa acelerar el crecimiento mediante la innovación, sin necesidad de transitar las fases tradicionales está de moda, pero son muchos los expertos que desconfían de posibles atajos hacia el progreso",
+      "published": "2026-10-30T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/6LI42EF3XRFEBDW6YF45RYAPCY.jpg?auth=aca7dcd6937bd2b7baaef57b7e6469bb575268a3a840aae8f2f0abca746f6f7e",
+      "type": "article",
+      "addedAt": "2026-10-30T08:59:45.752Z"
     },
     {
       "id": "0746cf12b4b7f12f",
