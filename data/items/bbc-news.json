@@ -3,6 +3,61 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "5f538b4072ec7e71",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cmrry1rgzd4zo#8",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmrry1rgzd4zo",
+      "title": "Matchroom's Hearn expected to increase Prem influence",
+      "excerpt": "Renowned boxing promoter Eddie Hearn is expected to ramp up his influence in rugby union after meeting with Prem bosses in Monaco last week.",
+      "published": "2026-10-30T08:00:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d0/live/824cf990-d3da-11f1-9c32-1532a6164171.png",
+      "type": "article",
+      "addedAt": "2026-10-30T08:07:34.088Z"
+    },
+    {
+      "id": "b348b97a192bbfa2",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o",
+      "title": "Why managers must put their own fitness first - Pulis",
+      "excerpt": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
+      "published": "2026-10-30T07:41:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T08:07:34.088Z"
+    },
+    {
+      "id": "57dfddd347fe5f57",
+      "guid": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo",
+      "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+      "excerpt": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
+      "published": "2026-10-30T07:39:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8f7/live/a596c270-d3dd-11f1-9c32-1532a6164171.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T08:07:34.088Z"
+    },
+    {
+      "id": "2857698f8928f6e1",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo#8",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo",
+      "title": "F1 has never had anyone like me - Hamilton",
+      "excerpt": "Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.",
+      "published": "2026-10-30T07:25:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ffb/live/ed9301c0-d42c-11f1-95ab-29e198572168.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T08:07:34.088Z"
+    },
+    {
+      "id": "6b85d63ca6a82625",
+      "guid": "https://www.bbc.co.uk/news/articles/cmz98qeg851qo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cmz98qeg851qo",
+      "title": "Traders' tools stolen every 20 minutes in UK",
+      "excerpt": "Gangs and \"chancers\" are behind the crimes, says a MP calling on the Government to do more to help.",
+      "published": "2026-10-30T06:32:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eba/live/fcfc8b20-d203-11f1-b3b6-c1e79e957e40.png",
+      "type": "article",
+      "addedAt": "2026-10-30T08:07:34.088Z"
+    },
+    {
       "id": "0e2167b46778cfc2",
       "guid": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro#1",
       "link": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro",
@@ -221,6 +276,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a5c/live/1c953ab0-d3fb-11f1-93e1-3b657b665bcf.jpg",
       "type": "article",
       "addedAt": "2026-10-30T01:05:32.166Z"
+    },
+    {
+      "id": "f9cb6e87d80bc36f",
+      "guid": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo",
+      "title": "China made Mbappé apologise - but many don't know exactly what he said",
+      "excerpt": "His comment about Chinese leader Mao sparked anger but censorship left many wondering what exactly happened.",
+      "published": "2026-10-29T23:03:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a8/live/2e93a660-d3ac-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T08:07:34.088Z"
     },
     {
       "id": "858016922090c94e",

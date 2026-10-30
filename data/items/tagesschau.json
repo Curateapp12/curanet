@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "124f24732f6e390d",
+      "guid": "3921913c-6394-4f1a-89a6-1540aeef07ce",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-102.html",
+      "title": "Hilfstransporte für die ukrainische Frontstadt Oleschky sollen anlaufen",
+      "excerpt": "Die Bewohner der von Russland besetzten ukrainischen Frontstadt Oleschky können bald mit Hilfe rechnen. Die Route ist von Minen geräumt. Auch eine Evakuierung wird vorbereitet. Die Waffenruhe gilt noch bis Sonntag.",
+      "published": "2026-10-30T08:00:11.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4d9c0abe-2359-4ee2-9097-0c92cd25f8ca/AAABoYuDcfM/AAABnSSvrFg/16x9-big/krankenschwestern-patienten-rollstuhl-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T08:07:34.088Z"
+    },
+    {
+      "id": "1b3b4f7eca690b8d",
+      "guid": "00e5247b-248e-4844-9ead-d547ceae6452",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-rheinland-pfalz-100.html",
+      "title": "Klage in Rheinland-Pfalz: Wie viel Unterrichtsausfall ist zu viel?",
+      "excerpt": "Ein ehemaliger Schüler verklagt das Land Rheinland-Pfalz, weil während seiner Oberstufenzeit zu viel Unterricht ausgefallen sein soll. Mit dem Fall beschäftigt sich jetzt das Verwaltungsgericht Neustadt. Von C. Kehlbach und H. Diekert.",
+      "published": "2026-10-30T07:56:44.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/560b7151-9107-43c0-8c1a-e14ad381bda3/AAABoYhpOqg/AAABnSSvrFg/16x9-big/klassenzimmer-184.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T08:07:34.088Z"
+    },
+    {
+      "id": "7c9a4fdf80d86300",
+      "guid": "5bb522a1-fef9-4075-8af4-5c2abb9a1f61",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
+      "title": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
+      "excerpt": "In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem \"Bau-Turbo\", der seit einem Jahr gilt. Was hat Gesetz bislang gebracht? Von Axel John.",
+      "published": "2026-10-30T07:55:53.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5c82355f-22c0-4406-b0b4-220b96eb59b9/AAABoYvWZGQ/AAABnSSvrFg/16x9-big/baustelle-402.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T08:07:34.088Z"
+    },
+    {
+      "id": "49a0ecd7bf65a579",
+      "guid": "a6ce37d8-d362-4010-8a33-b4f1e0b5b3ff",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
+      "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+      "excerpt": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
+      "published": "2026-10-30T07:24:20.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c98477ae-0b7c-46ba-921a-1bae298474ce/AAABoYumwKE/AAABnSSvrFg/16x9-big/binance-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T08:07:34.088Z"
+    },
+    {
       "id": "870df273b66af51c",
       "guid": "1da1478b-f7ef-43c8-a210-94ee79571987",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
