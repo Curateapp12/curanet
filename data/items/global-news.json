@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "a64aa4dffda4dc9e",
+      "guid": "https://globalnews.ca/?p=12128097",
+      "link": "https://globalnews.ca/news/12128097/alberta-education-property-taxes/",
+      "title": "Alberta reducing education property taxes in 2027 after previous hikes",
+      "excerpt": "It means home and farmland owners will pay almost seven per cent less than this year, while non-residential property owners will pay almost five per cent less.",
+      "published": "2026-10-30T22:32:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2022/02/20220223150232-62169a01ab2d3a27f00087dcjpeg-1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T22:45:09.203Z"
+    },
+    {
+      "id": "41f2c45e47623ba4",
+      "guid": "https://globalnews.ca/?p=12128086",
+      "link": "https://globalnews.ca/news/12128086/ice-officer-charged-houston-assault/",
+      "title": "An ICE officer is charged with assault for striking a man with a car in Houston",
+      "excerpt": "Mario Alberto Morales was driving an unmarked SUV when he struck and ran over Miguel Parra Hernandez who was running away during a pursuit, the District Attorney’s Office said.",
+      "published": "2026-10-30T22:17:17.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/ICE-FIEL.png",
+      "type": "article",
+      "addedAt": "2026-10-30T22:45:09.203Z"
+    },
+    {
+      "id": "47b99a39e985f037",
+      "guid": "https://globalnews.ca/?p=12127923",
+      "link": "https://globalnews.ca/news/12127923/jeffrey-rath-united-conservative-party-membership/",
+      "title": "Alberta separatist leader Jeff Rath’s UCP membership revoked",
+      "excerpt": "Premier Danielle Smith said the UCP's executive director made the decision to revoke Jeffrey Rath's membership over code of conduct issues, and it's a decision she supports.",
+      "published": "2026-10-30T22:06:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/07/CP176247688.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T22:45:09.203Z"
+    },
+    {
+      "id": "2aebdeeafa34fda3",
+      "guid": "https://globalnews.ca/?p=12127906",
+      "link": "https://globalnews.ca/news/12127906/metrolinx-sub-charged-toronto-death/",
+      "title": "Metrolinx sub-contractor charged following Toronto traffic agent death",
+      "excerpt": "Global News has learned the driver charged with careless driving causing death following Thursday's collision with a traffic agent, was working as a sub-contractor for Metrolinx.",
+      "published": "2026-10-30T21:56:15.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/e8a6abe6-9856-4ff5-863c-02e15af0c421-e1793397254410.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T22:45:09.203Z"
+    },
+    {
+      "id": "fd81fcda8be018ac",
+      "guid": "https://globalnews.ca/?p=12127816",
+      "link": "https://globalnews.ca/news/12127816/new-government-examine-bc-ferries-shipbuilding-doerkson/",
+      "title": "New government will examine BC Ferries shipbuilding, Doerkson says",
+      "excerpt": "\"I don't know what the deal looks like, I mean we would obviously have an interest in seeing that,\" Lorne Doerkson said of the BC Ferries deal made last year.",
+      "published": "2026-10-30T21:52:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/c5b497bb5e658a5f81370a467c68abdb6176b7c7bf3884a5ee3467702531af43.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T22:45:09.203Z"
+    },
+    {
+      "id": "5f74976b23097f2a",
+      "guid": "https://globalnews.ca/?p=12127998",
+      "link": "https://globalnews.ca/news/12127998/new-trial-ordered-man-deadly-vancouver-crash-killed-toddler/",
+      "title": "New trial ordered for man in deadly Vancouver crash that killed toddler",
+      "excerpt": "The Supreme Court of Canada has ordered a new trial for the man behind the wheel in a crash that killed a toddler and badly injured her father.",
+      "published": "2026-10-30T21:52:30.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2024/04/WEB-baby-ocean-PIC.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T22:45:09.203Z"
+    },
+    {
+      "id": "8a02af2a010ab008",
+      "guid": "https://globalnews.ca/?p=12128045",
+      "link": "https://globalnews.ca/news/12128045/dru-brown-to-start-for-winnipeg-blue-bombers-in-east-semifinal-versus-argos/",
+      "title": "Dru Brown to start for Winnipeg Blue Bombers in East semifinal versus Argos",
+      "excerpt": "Zach Collaros is not on the Blue Bombers active roster for the Eastern Semifinal on Saturday against the Argonauts.",
+      "published": "2026-10-30T21:46:22.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/bd16cc7fccbd23c28c7049bb8f16a80465e40f1d7805d856f74390136fdc5bea_3b1aca.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-30T22:45:09.203Z"
+    },
+    {
       "id": "92c6b19e0673f56b",
       "guid": "https://globalnews.ca/?p=12128053&preview=true&preview_id=12128053",
       "link": "https://globalnews.ca/news/12128053/canucks-place-forward-filip-chytil-on-ir/",
