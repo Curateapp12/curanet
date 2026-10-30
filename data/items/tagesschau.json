@@ -3,6 +3,72 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "0bb69aedc7dd331f",
+      "guid": "540b1c03-0852-4153-8919-a37c060a2d1f",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/ebola-afrika-studie-100.html",
+      "title": "Kampf gegen Ebola - Studie macht Hoffnung auf Impfstoff",
+      "excerpt": "Seit Monaten grassiert in der DR Kongo eine Variante des Ebola-Virus. Mehr als 10.000 Fälle wurden bislang erfasst. Bisher gibt es gegen diesen Erreger keinen Impfstoff, doch eine medizinische Studie weckt Hoffnung. Von Daniela Remus.",
+      "published": "2026-10-30T13:58:25.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d183d990-021d-4920-aabb-5f2e382f331e/AAABoY0ayCY/AAABnSSvrFg/16x9-big/kongo-ebola-studie-impfstoff-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T14:06:02.598Z"
+    },
+    {
+      "id": "f9ef9e4cbe0cac54",
+      "guid": "30ada3ed-37b0-4b51-8be3-66534fe2ba38",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/skoda-144.html",
+      "title": "Wie der VW-Vorstand die Laune bei den Skoda-Mitarbeitern drückt",
+      "excerpt": "Während die Konzernmutter Volkswagen viele Probleme hat, erwirtschaftet die tschechische Tochter Skoda passable Gewinne. Doch das ist für den Hersteller nicht automatisch von Vorteil. Von André Berthold.",
+      "published": "2026-10-30T13:51:43.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7fe84f55-912e-44dd-90db-c91b1444a118/AAABoY0SJns/AAABnSSvrFg/16x9-big/skoda-logo-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T14:06:02.598Z"
+    },
+    {
+      "id": "6f6b90cc5c8a6712",
+      "guid": "d5a24127-65c6-47bd-a341-0afb30683074",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
+      "title": "Proteste gegen Meloni: Ausschreitungen in Italien befürchtet",
+      "excerpt": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Zehntausende Menschen gegen die Politik der Meloni-Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
+      "published": "2026-10-30T13:46:31.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a82583bc-7d56-47a2-b7b3-5f24582ee034/AAABoYxf0ec/AAABnSSvrFg/16x9-big/rom-demo-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T14:06:02.598Z"
+    },
+    {
+      "id": "ee7e3717500787b8",
+      "guid": "523c0794-561d-4e2b-b6b7-30c5251f3a57",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
+      "title": "Marktbericht: Zweifel am KI-Boom wachsen",
+      "excerpt": "US-Techkonzerne investieren schwindelerregende Summen in Künstliche Intelligenz - doch halten die Einnahmen mit? Weitere enttäuschende Bilanzen drücken die Technologiebörse Nasdaq ins Minus, was auch deutsche Anleger spüren.",
+      "published": "2026-10-30T13:44:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/9c507411-c0e9-4fcf-9c63-14654f685655/AAABoYx4dBI/AAABnSSvrFg/16x9-big/intel-202.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T14:06:02.598Z"
+    },
+    {
+      "id": "f4e2451504ea4ec3",
+      "guid": "deb5758f-5914-48ec-8c04-5eee1374579f",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/autorisierung-medien-100.html",
+      "title": "Nach Eralp-Interview: Müssen sich Medien an Absprachen halten?",
+      "excerpt": "Wer Medien ein Interview gibt, verlangt mitunter die Freigabe des Gesprächs vor der Veröffentlichung. Absprachen können jedoch gebrochen werden - was folgt daraus? Und wie ist die Lage im Fall Eralp? Von Max Bauer.",
+      "published": "2026-10-30T13:39:57.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/121024ae-957e-4f23-b0b9-69591df6b9b7/AAABoYzKAeM/AAABnSSvrFg/16x9-big/zeitungen-128.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T14:06:02.598Z"
+    },
+    {
+      "id": "c145f77e9f9b0e71",
+      "guid": "tagesschau_fm-story-rbb_charite-hackerangriff-berlin-kontaktdaten-patienten-mitarbeiter",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-hackerangriff-auf-charit-daten-von-patienten-und-mitarbeitenden-erbeutet-102.html",
+      "title": "Hacker erbeuten Daten von Patienten der Charité in Berlin",
+      "excerpt": "Die Berliner Charité ist Ziel eines Hackerangriffs geworden. Dabei wurden Daten von Mitarbeitern gestohlen. Auch Patienten, die online einen Termin vereinbart haben, sind betroffen.",
+      "published": "2026-10-30T13:16:04.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f8635576-95a4-419b-90a1-49880dad5e9c/AAABoYzWttE/AAABnSSvrFg/16x9-big/rbb-universitaetsklinik-charit-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T14:06:02.598Z"
+    },
+    {
       "id": "1af8ab6526f20035",
       "guid": "fce7d08f-3cb6-40c1-9edf-a6a78a7f6408",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-binance-interview-100.html",

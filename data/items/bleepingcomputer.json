@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "27c3e9ac8130d5f4",
+      "guid": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "excerpt": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile…",
+      "published": "2026-10-30T14:00:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-30T14:06:02.598Z"
+    },
+    {
       "id": "09382f93624b985e",
       "guid": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
