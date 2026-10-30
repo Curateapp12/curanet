@@ -3,6 +3,72 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "0e2167b46778cfc2",
+      "guid": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro#1",
+      "link": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro",
+      "title": "Hazardous driving conditions for Friday as fog warning issued by Met Office",
+      "excerpt": "Foggy conditions likely to bring tricky conditions for the Friday morning commute as severe weather warning issued.",
+      "published": "2026-10-30T06:18:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4691/live/e3834500-d427-11f1-9908-9f0b87e663bb.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T07:03:19.182Z"
+    },
+    {
+      "id": "320d0d1cf42fc516",
+      "guid": "https://www.bbc.co.uk/news/articles/c6vg03xl0751o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg03xl0751o",
+      "title": "Scottish police to target online gangs forcing children to self-harm",
+      "excerpt": "Officers are hunting members of loose online networks of sadists who mainly targets girls on gaming platforms and social media.",
+      "published": "2026-10-30T06:17:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8156/live/1a3de4e0-b00e-11f0-b2a1-6f537f66f9aa.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T07:03:19.182Z"
+    },
+    {
+      "id": "8eaffe26d09f5c68",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o",
+      "title": "How talking about Man Utd's cycle of doom became an industry",
+      "excerpt": "Manchester United's struggles are pored over more than ever before - not least by former players.",
+      "published": "2026-10-30T06:14:19.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4563/live/79c82590-d3b4-11f1-a340-478c8f3b9e55.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T07:03:19.182Z"
+    },
+    {
+      "id": "d0e3e44a907a467f",
+      "guid": "https://www.bbc.co.uk/news/articles/cr89zkvdlqpgo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cr89zkvdlqpgo",
+      "title": "Heart attack patient, 83, had to drive four hours for hospital appointment",
+      "excerpt": "Charles Swift faced a 140-mile round trip to get to a hospital, but had to drive himself.",
+      "published": "2026-10-30T06:08:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a0c/live/e3df6a00-d14e-11f1-9eb5-811878e0f07d.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T07:03:19.182Z"
+    },
+    {
+      "id": "e66069e4ef6db0ea",
+      "guid": "https://www.bbc.co.uk/news/articles/cqp8g19r66y4o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8g19r66y4o",
+      "title": "'I run a spotless kitchen', says Michelin-star restaurant chef in wake of food hygiene debacle",
+      "excerpt": "Chef Gareth Ward defends how he operates in documentary after Ynyshir got a one-star hygiene rating.",
+      "published": "2026-10-30T06:08:16.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e9/live/7ce4e4d0-d386-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T07:03:19.182Z"
+    },
+    {
+      "id": "e6c33e8b4a778911",
+      "guid": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "excerpt": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+      "published": "2026-10-30T06:02:23.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acad/live/bd8904b0-d20c-11f1-b3b6-c1e79e957e40.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T07:03:19.182Z"
+    },
+    {
       "id": "63ea9092726a1df7",
       "guid": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo#4",
       "link": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo",
@@ -265,6 +331,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb9/live/fe693560-d3c2-11f1-93e1-3b657b665bcf.jpg",
       "type": "article",
       "addedAt": "2026-10-29T20:52:07.301Z"
+    },
+    {
+      "id": "14c482e6339b8869",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo",
+      "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+      "excerpt": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "published": "2026-10-29T19:55:24.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089f/live/2e6abec0-d245-11f1-a701-fddedf244c16.png",
+      "type": "article",
+      "addedAt": "2026-10-30T07:03:19.182Z"
     },
     {
       "id": "33f91f8a3691a322",

@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "870df273b66af51c",
+      "guid": "1da1478b-f7ef-43c8-a210-94ee79571987",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+      "title": "Marktbericht: Kann der DAX die 26.000 verteidigen?",
+      "excerpt": "Der DAX hat wieder die Marke von 26.000 Punkten übersprungen. Schwache Zahlen von Intel und Amazon dürften den Anlegern aber nicht gefallen. Der deutsche Leitindex könnte zum Handelsstart leicht zurückfallen.",
+      "published": "2026-10-30T06:44:55.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/8080c411-a4f0-4a6f-a4e2-515285924a9d/AAABlg9yr_U/AAABnSSvrFg/16x9-big/dax-haendlerin-101.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T07:03:19.182Z"
+    },
+    {
+      "id": "1f7e232ddc1f3713",
+      "guid": "862bfa96-f26b-423c-84bd-5912e2eaef77",
+      "link": "https://www.tagesschau.de/ausland/eu-kanada-ki-100.html",
+      "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
+      "excerpt": "Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.",
+      "published": "2026-10-30T06:38:08.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f777cc2e-6e6c-4a70-96d9-74a583c70bef/AAABoYj25Qw/AAABnSSvrFg/16x9-big/flaggen-eu-kanada-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-30T07:03:19.182Z"
+    },
+    {
       "id": "581b99cc0fae8dc0",
       "guid": "2db24d84-59bd-4966-a194-358f6c30e036",
       "link": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
