@@ -3,6 +3,39 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "65d255a74525f3ca",
+      "guid": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "excerpt": "People who love AI don't always love telling others they used it.",
+      "published": "2026-10-30T20:40:13.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T21:45:41.606Z"
+    },
+    {
+      "id": "a222d0a212be4059",
+      "guid": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+      "link": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+      "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+      "excerpt": "Faked symptoms still point to infections that antibiotics don't treat.",
+      "published": "2026-10-30T20:17:50.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T21:45:41.606Z"
+    },
+    {
+      "id": "538ea1326a6a8ff9",
+      "guid": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "excerpt": "But it's still early days for the relatively new e-commerce use case.",
+      "published": "2026-10-30T19:30:52.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-10-30T21:45:41.606Z"
+    },
+    {
       "id": "64f7a393ec935a4c",
       "guid": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
       "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
