@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "1c0ed0bff81b71c6",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2295895/changement-heure-quebec-canada",
+      "link": "https://ici.radio-canada.ca/nouvelle/2295895/changement-heure-quebec-canada",
+      "title": "Changement d’heure : plus de sommeil, moins de commerce régional?",
+      "excerpt": "De nombreux Canadiens devront reculer l’aiguille de leur montre dans la nuit du 31 octobre au 1er novembre.",
+      "published": "2026-10-31T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/matinspareils-horloge-paris-changement-heure-46050.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T08:50:30.055Z"
+    },
+    {
+      "id": "28960d63ec861040",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297195/francophonie-canadienne-finances-fcfa-insecurite",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297195/francophonie-canadienne-finances-fcfa-insecurite",
+      "title": "La majorité des organismes francophones demeurent en précarité financière, dit la FCFA",
+      "excerpt": "La francophonie en milieu minoritaire continue de déplorer un financement insuffisant pour ses organismes.",
+      "published": "2026-10-31T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/conference-de-presse-fcfa-garderies-francophonie-langues-officielles.jpeg",
+      "type": "article",
+      "addedAt": "2026-10-31T08:50:30.055Z"
+    },
+    {
+      "id": "410c8d9a45be38be",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2288795/trump-senat-mi-mandat-2026-congres",
+      "link": "https://ici.radio-canada.ca/nouvelle/2288795/trump-senat-mi-mandat-2026-congres",
+      "title": "Élections de mi-mandat aux États-Unis : voici où se jouera la bataille pour le Sénat",
+      "excerpt": "Majoritaires à la Chambre, les républicains se trouvent de plus en plus sur la défensive.",
+      "published": "2026-10-31T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/etats-unis-carte-senat.png",
+      "type": "article",
+      "addedAt": "2026-10-31T08:50:30.055Z"
+    },
+    {
+      "id": "817ac529a7a23b8c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297190/croissance-economique-zero-quebec-guerre-tarifaire",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297190/croissance-economique-zero-quebec-guerre-tarifaire",
+      "title": "Croissance à zéro au Québec : « C’est moche! »",
+      "excerpt": "Donald Trump est loin d'être le seul responsable de la stagnation de la croissance économique de la province.",
+      "published": "2026-10-31T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/entrepot-vente-en-gros-commerce.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T08:50:30.055Z"
+    },
+    {
+      "id": "b8bee9157b23a5fe",
+      "guid": "https://ici.radio-canada.ca/info/long-format/2297111/inondations-saint-laurent-adaptation-resilience-climatique-ymca",
+      "link": "https://ici.radio-canada.ca/info/long-format/2297111/inondations-saint-laurent-adaptation-resilience-climatique-ymca",
+      "title": "Inondations : comment un ancien YMCA est devenu un modèle de résilience climatique",
+      "excerpt": "Un projet d’adaptation climatique dans une zone inondée à répétition obtient un soutien municipal et fédéral.",
+      "published": "2026-10-31T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/collectif-1745-arrondissement-saint-laurent-adaptation-resilience-climatique.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T08:50:30.055Z"
+    },
+    {
+      "id": "cfe1f4bb9a2774e5",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2296442/oeil-ivanoh-demers-astuces-photos-halloween",
+      "link": "https://ici.radio-canada.ca/nouvelle/2296442/oeil-ivanoh-demers-astuces-photos-halloween",
+      "title": "Dans l’œil d’Ivanoh : des astuces pour réussir vos photos d’Halloween",
+      "excerpt": "Muni d'un téléphone ou d'un appareil photo, soyez prêts grâce aux astuces de notre photojournaliste.",
+      "published": "2026-10-31T08:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/halloween-costume-dame-decapitee.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T08:50:30.055Z"
+    },
+    {
       "id": "82e6bd56a16b25c1",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297243/ministre-culture-pascal-berube-artistes",
       "link": "https://ici.radio-canada.ca/nouvelle/2297243/ministre-culture-pascal-berube-artistes",
