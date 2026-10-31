@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "ecab59d27a7a9aad",
+      "guid": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o#2",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o",
+      "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+      "excerpt": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
+      "published": "2026-10-31T00:16:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f23a/live/e2d76eb0-d3a5-11f1-a701-fddedf244c16.png",
+      "type": "article",
+      "addedAt": "2026-10-31T01:03:25.765Z"
+    },
+    {
+      "id": "9a050f5d72373de7",
+      "guid": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo#4",
+      "link": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo",
+      "title": "UK could see 10 days without rain after 'wettest week in two years'",
+      "excerpt": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
+      "published": "2026-10-31T00:06:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8a4/live/d7b9f090-d452-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T01:03:25.765Z"
+    },
+    {
+      "id": "dc6c0f78ffaeb9d0",
+      "guid": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go#2",
+      "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go",
+      "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+      "excerpt": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
+      "published": "2026-10-31T00:04:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/840c/live/7d897fe0-d12e-11f1-a94e-6dd2aca774ac.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T01:03:25.765Z"
+    },
+    {
+      "id": "03084bb20ed1c4ef",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do",
+      "title": "Why MPs keep talking about an early election despite Burnham's denials",
+      "excerpt": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
+      "published": "2026-10-31T00:00:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b0c/live/51145730-d491-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T01:03:25.765Z"
+    },
+    {
       "id": "5e3118706e90628f",
       "guid": "https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo#8",
       "link": "https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo",
@@ -12,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d1/live/6f7d0770-d4b5-11f1-a58c-6d26609b0a57.jpg",
       "type": "article",
       "addedAt": "2026-10-30T23:42:57.962Z"
+    },
+    {
+      "id": "bb5a7e90ed0c6036",
+      "guid": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o#2",
+      "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o",
+      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "excerpt": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+      "published": "2026-10-30T23:26:16.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T01:03:25.765Z"
     },
     {
       "id": "cfe628fa77b15813",
