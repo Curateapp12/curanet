@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "4f28af4ad7c706f2",
+      "guid": "db0714a2-6817-42ff-ac52-37c7daaa90d5",
+      "link": "https://www.tagesschau.de/wissen/computer-chip-gehirn-100.html",
+      "title": "Chip im Kopf: Wenn Computer Gedanken verstehen lernen",
+      "excerpt": "Was lange wie Science-Fiction klang, ist inzwischen Realität: Chips im Gehirn helfen gelähmten Menschen, Computer mit ihren Gedanken zu steuern. Forscher hoffen auf neue Therapien, Ethiker warnen vor Risiken. Von Katharina Bruns.",
+      "published": "2026-10-31T09:17:08.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d562765e-55a0-4607-9e24-5febfe502c5b/AAABoYhWFtg/AAABnSSvrFg/16x9-big/mehringer-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T09:46:58.010Z"
+    },
+    {
+      "id": "9f1201d3cdadea5e",
+      "guid": "055a5054-7114-45a7-90e2-57bcf45cc3cb",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html",
+      "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
+      "excerpt": "Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.",
+      "published": "2026-10-31T09:14:41.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/76612aaf-a6e5-4bfd-9d9d-716c0bae47b7/AAABoZES8Ik/AAABnSSvrFg/16x9-big/bus-evakuierung-gomel-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T09:46:58.010Z"
+    },
+    {
       "id": "7c3a4b24dba30d49",
       "guid": "9a9a980a-5421-47b7-98e3-3b8a954b4173",
       "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html",
