@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "bfef9a2eb1557977",
+      "guid": "1a2c6a3d-ca28-48a7-b394-61728267ffed",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
+      "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
+      "excerpt": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
+      "published": "2026-10-31T07:45:19.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6630d35e-9b1e-437a-bfb0-9450202270ff/AAABoYeVsmk/AAABnSSvrFg/16x9-big/chatgpt-156.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T07:56:43.594Z"
+    },
+    {
+      "id": "e056238871ca4561",
+      "guid": "08cfeb97-4d89-4e41-b3c6-9f85301bc59c",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
+      "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
+      "excerpt": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
+      "published": "2026-10-31T07:43:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ea37117d-67ad-42b4-ae9c-271f9952c93e/AAABoZDpn_w/AAABnSSvrFg/16x9-big/linke-berlin-114.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T07:56:43.594Z"
+    },
+    {
+      "id": "d2f1814116f85f2c",
+      "guid": "bbedf894-0265-4d9a-aa15-c3f8864ac275",
+      "link": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
+      "title": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
+      "excerpt": "Wie kann die Artenvielfalt geschützt werden? Darüber wurde bei der UN-Biodiversitätskonferenz intensiv verhandelt. Am Ende gab es in Armenien eine Einigung - wenn auch keine besonders ambitionierte.",
+      "published": "2026-10-31T07:09:41.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/db3e4b22-08c6-4259-8053-cb76eff5a286/AAABoZCoOXY/AAABnSSvrFg/16x9-big/armenien-konferenz-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T07:56:43.594Z"
+    },
+    {
       "id": "27b12e5897f32c03",
       "guid": "c32966fd-8dab-418b-87bd-e7de0e9561db",
       "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
