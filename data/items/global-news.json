@@ -3,6 +3,28 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "3e4fb3efe432c971",
+      "guid": "https://globalnews.ca/?p=12128718",
+      "link": "https://globalnews.ca/news/12128718/nasa-telescope-failed-rescue-mission/",
+      "title": "NASA telescope on the verge of plunging back to Earth after failed rescue mission",
+      "excerpt": "The U.S. Space Force predicts the Swift Observatory will come crashing down on or around Friday.",
+      "published": "2026-10-31T15:58:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/NASA-e1793462299915.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-31T16:43:37.784Z"
+    },
+    {
+      "id": "ddd20dce276665f7",
+      "guid": "https://globalnews.ca/?p=12128709",
+      "link": "https://globalnews.ca/news/12128709/evacuees-ukrainian-belarusian-border/",
+      "title": "Evacuees reunite with family at the Ukrainian-Belarusian border",
+      "excerpt": "Evacuees stepped off buses at the Ukrainian-Belarusian border where they reunited with family members, some wrapped in blue and yellow Ukrainian flags.",
+      "published": "2026-10-31T15:43:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Ukraine-3-e1793461349842.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-31T16:43:37.784Z"
+    },
+    {
       "id": "9fb37c48451199e6",
       "guid": "https://globalnews.ca/?p=12128702",
       "link": "https://globalnews.ca/news/12128702/cyclist-killed-montreal-hit-and-run/",
@@ -12,6 +34,17 @@
       "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/police-e1793459137958.jpg?quality=65&strip=all",
       "type": "article",
       "addedAt": "2026-10-31T15:42:02.958Z"
+    },
+    {
+      "id": "798be0f5c5398ec9",
+      "guid": "https://globalnews.ca/?p=11293182",
+      "link": "https://globalnews.ca/the-curator/11293182/best-air-purifiers-for-every-space/",
+      "title": "The Curator: Best air purifiers to improve air quality in your home",
+      "excerpt": "Keep your indoor air clean with air purifiers from trusted brands like Dyson, Coway, and Shark.",
+      "published": "2026-10-31T15:00:31.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/03/air-1.png",
+      "type": "article",
+      "addedAt": "2026-10-31T16:43:37.784Z"
     },
     {
       "id": "ad3ad7e9aaf199d0",

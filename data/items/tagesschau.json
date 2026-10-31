@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "bf3b96c6e70343f3",
+      "guid": "09460f18-2de5-4112-9289-4174a4f60647",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
+      "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+      "excerpt": "Sechs Wochen nach der Wahl in Berlin ist der Weg frei für rot-grün-rote Koalitionsverhandlungen: Nach Grünen und SPD stimmte nun auch ein Parteitag der Linken dafür. Am Montag sollen die Gespräche beginnen.",
+      "published": "2026-10-31T16:39:40.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3c693696-01d8-4305-a50e-b410eef58dc0/AAABoZKxZXE/AAABnSSvrFg/16x9-big/berlin-die-linke-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T16:43:37.784Z"
+    },
+    {
+      "id": "aaf7ce285b36e065",
+      "guid": "12e093a0-7b98-4883-a42a-bd40621b4e64",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
+      "title": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
+      "excerpt": "Ein Bergbaukonzern aus Hessen kontrolliert rund 30 Prozent des Weltmarktes für hochreine Pharmasalze. Was dort abgebaut wird, ist für viele Menschen überlebenswichtig. Von Christof Dörr.",
+      "published": "2026-10-31T16:21:31.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/65c75d8a-e40a-401d-98f3-8c97c329f735/AAABoYMKLvA/AAABnSSvrFg/16x9-big/k-plus-salzbergwerk-bernburg-101.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T16:43:37.784Z"
+    },
+    {
+      "id": "0a0c75a087f9acbb",
+      "guid": "496dbbff-59a4-43e8-a17e-59211b0c5be5",
+      "link": "https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html",
+      "title": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat",
+      "excerpt": "Nach mehr als 30 Jahren kommt nun das Aus für die UN-Friedensmission MINURSO: Russland hat die Verlängerung im UN-Sicherheitsrat blockiert. Damit müssen zivile und militärische Kräfte das Gebiet in den kommenden Tagen verlassen - auch deutsche Soldaten.",
+      "published": "2026-10-31T16:12:40.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2d526192-947c-4d07-80de-f48bd78bab07/AAABoUewl5k/AAABnSSvrFg/16x9-big/un-sicherheitsrat-384.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T16:43:37.784Z"
+    },
+    {
+      "id": "0132d49463c729c2",
+      "guid": "b4c4712c-ed55-44fc-a568-3c6cbd7ee2dd",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
+      "title": "Demos in vielen Städten: Jugend-Proteste bisher weitgehend friedlich",
+      "excerpt": "Die Proteste der \"GenZ\" haben begonnen. Größere Aktionen gibt es etwa in Berlin, Frankfurt, München und Köln. Dort wurde der Demozug wegen Verstößen gegen das Vermummungsverbot abgesagt. Bislang ist es laut Polizei weitgehend friedlich.",
+      "published": "2026-10-31T15:55:18.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f6dbd2a0-47d7-461d-89b2-73f1491a94a5/AAABoZKsJSk/AAABnSSvrFg/16x9-big/proteste-gen-z-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T16:43:37.784Z"
+    },
+    {
       "id": "5f97973848a8c259",
       "guid": "04058e25-8fe6-4438-9597-65a6f8148c76",
       "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
