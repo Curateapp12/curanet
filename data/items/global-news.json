@@ -3,6 +3,28 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "95d6def637c2bcea",
+      "guid": "https://globalnews.ca/?p=12128752",
+      "link": "https://globalnews.ca/news/12128752/die-in-protest-montreal/",
+      "title": "Protesters stage ‘die-in’ against pesticides in Montreal",
+      "excerpt": "Participants lay on the ground in front of the Guy-Favreau complex as others dressed in white coveralls moved through the crowd pretending to spray pesticides.",
+      "published": "2026-10-31T17:25:31.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/mtl-protest-1-e1793467510425.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-31T17:39:36.609Z"
+    },
+    {
+      "id": "fc47b9e6d0e7d5db",
+      "guid": "https://globalnews.ca/?p=12128730",
+      "link": "https://globalnews.ca/news/12128730/guelph-fatal-collision/",
+      "title": "4 dead, 2 injured following collision near Guelph, Ont.",
+      "excerpt": "Wellington OPP, fire and paramedic services responded to reports of the collision on Watson Road South between Maltby Road East and Wellington Road 34.",
+      "published": "2026-10-31T17:02:00.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/fatal-crash.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-10-31T17:39:36.609Z"
+    },
+    {
       "id": "3e4fb3efe432c971",
       "guid": "https://globalnews.ca/?p=12128718",
       "link": "https://globalnews.ca/news/12128718/nasa-telescope-failed-rescue-mission/",
