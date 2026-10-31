@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "4553ac1c755f7f63",
+      "guid": "da27384e-6ebd-4a74-98cd-6c6145b34ca0",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
+      "title": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
+      "excerpt": "Auch rund eine Woche nach ihrem Wahlsieg in Serbien staunt die Studentenbewegung noch über ihren Erfolg. Ihre Mitglieder merken aber im Alltag: Das System von Ex-Präsident Vucic verschwindet nicht über Nacht. Von A. Bachmann und I. Bafas.",
+      "published": "2026-10-31T12:08:42.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3dc06d1c-8c7b-468d-8d62-fa02edba5e3d/AAABoYy_aQo/AAABnSSvrFg/16x9-big/plakat-vucic-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T12:54:43.089Z"
+    },
+    {
+      "id": "793bbf887b5b6b3e",
+      "guid": "b5a11d8c-c3c5-43a5-93e5-b0723392626e",
+      "link": "https://www.tagesschau.de/ausland/asien/merz-asienreise-abschluss-100.html",
+      "title": "Merz nach Asienreise: \"Hat sich in mehrfacher Hinsicht gelohnt\"",
+      "excerpt": "Fünf Tage lang war Kanzler Merz in Asien. Es ging um Geschäfte mit einer Boom-Region, Allianzen gegen Großmächte, um Cybersicherheit und Verteidigung. Eine Auszeit von der deutschen Innenpolitik, die sich laut Merz gelohnt hat. Von D. Pepping.",
+      "published": "2026-10-31T11:56:25.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f4ddbaf6-1269-4a20-a872-86c2cc80f0af/AAABoZG0jTs/AAABnSSvrFg/16x9-big/merz-1768.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T12:54:43.089Z"
+    },
+    {
+      "id": "bd4ccd83bac9007b",
+      "guid": "e647dce3-4e7f-4b8b-996a-94c67ea1d771",
+      "link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html",
+      "title": "Ebola-Virus: Mehr als 5.000 Tote in der Demokratischen Republik Kongo",
+      "excerpt": "Die Ebola-Infektionen in der Demokratischen Republik Kongo nehmen weiter zu. Seit Mai starben mehr als 5.000 Menschen - mehr als 10.000 gelten als infiziert. Das Ende ist nicht in Sicht, aber vielleicht ein Impfstoff.",
+      "published": "2026-10-31T11:45:52.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d58a1485-ef31-40e7-8aa0-018bd151dc5a/AAABoZEFuVo/AAABnSSvrFg/16x9-big/ebola-kongo-204.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-10-31T12:54:43.089Z"
+    },
+    {
       "id": "f9f7e5bb79ca47d5",
       "guid": "tagesschau_fm-story-rbb_linke-parteitag-elif-eralp-koalitionsverhandlungen",
       "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",

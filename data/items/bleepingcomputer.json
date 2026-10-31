@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "a291b7051796cec4",
+      "guid": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "excerpt": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+      "published": "2026-10-31T12:50:09.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-10-31T12:54:43.089Z"
+    },
+    {
       "id": "f167e37bde6d313b",
       "guid": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
       "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
