@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "22a3987937c6d166",
+      "guid": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+      "excerpt": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+      "published": "2026-10-31T19:22:26.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T19:44:15.057Z"
+    },
+    {
+      "id": "b6bc5cc7830c9ce9",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o",
+      "title": "Maresca's big test is to address mounting Man City issues",
+      "excerpt": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.",
+      "published": "2026-10-31T19:05:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T19:44:15.057Z"
+    },
+    {
       "id": "5264fc9787aaebc2",
       "guid": "https://www.bbc.co.uk/sport/boxing/articles/crpdg3qwjg4eo#9",
       "link": "https://www.bbc.co.uk/sport/boxing/articles/crpdg3qwjg4eo",
@@ -78,6 +100,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
       "type": "article",
       "addedAt": "2026-10-31T16:43:37.784Z"
+    },
+    {
+      "id": "84d56b82d9814aed",
+      "guid": "https://www.bbc.co.uk/news/articles/cwm26rnyrk23o#3",
+      "link": "https://www.bbc.co.uk/news/articles/cwm26rnyrk23o",
+      "title": "Everton striker's relief family not home during burglary",
+      "excerpt": "The French striker says he is relieved his family were not at home as he played against Newcastle United.",
+      "published": "2026-10-31T15:27:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c17/live/550cc3d0-d53c-11f1-93de-81de9e959fac.png",
+      "type": "article",
+      "addedAt": "2026-10-31T19:44:15.057Z"
     },
     {
       "id": "e50b462e489fd85b",
