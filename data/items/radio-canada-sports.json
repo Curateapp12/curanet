@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "3cafd60d3aa0c70d",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10798228/sports-express-30-octobre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10798228/sports-express-30-octobre",
+      "title": "Sports Express - 30 octobre",
+      "excerpt": "Les nouvelles du sport avec Jérémie Turbide",
+      "published": "2026-10-31T03:35:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T03:51:05.143Z"
+    },
+    {
+      "id": "2e68739c8a2ee17b",
+      "guid": "https://ici.radio-canada.ca/sports/2297248/matt-coronato-flames-kraken-lnh",
+      "link": "https://ici.radio-canada.ca/sports/2297248/matt-coronato-flames-kraken-lnh",
+      "title": "Matt Coronato s’illustre dans un gain des Flames contre le Kraken",
+      "excerpt": "Matt Coronato a fourni un but et trois passes dans un gain de 6-2 des Flames contre le Kraken.",
+      "published": "2026-10-31T03:18:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/flames-matt-coronato.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T03:51:05.143Z"
+    },
+    {
+      "id": "473f1440a1eb7330",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10796865/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10796865/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-10-31T03:07:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-10-31T03:51:05.143Z"
+    },
+    {
       "id": "5c3bffc5f79dd34e",
       "guid": "https://ici.radio-canada.ca/sports/2297247/lundell-et-les-panthers-simposent-face-aux-jets",
       "link": "https://ici.radio-canada.ca/sports/2297247/lundell-et-les-panthers-simposent-face-aux-jets",
