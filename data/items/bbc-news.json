@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "28e7fa6f6cde7694",
+      "guid": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o#3",
+      "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o",
+      "title": "Five teenagers stabbed at Halloween party",
+      "excerpt": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+      "published": "2026-11-01T13:47:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3090/live/bdf49670-d5eb-11f1-bfdd-73f39e6db31d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T13:51:53.840Z"
+    },
+    {
+      "id": "e9f5d56a8008ed4e",
+      "guid": "https://www.bbc.co.uk/news/articles/c98rz23ed781o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz23ed781o",
+      "title": "More than 300 arrests at Palestine Action support protest outside US embassy",
+      "excerpt": "More than 4,000 people have been arrested for supporting the group since it was proscribed in July 2025.",
+      "published": "2026-11-01T13:41:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2da/live/12dda4f0-d5f7-11f1-a6a8-6dc45e4fc351.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T13:51:53.840Z"
+    },
+    {
       "id": "d88d72dcf3ccb239",
       "guid": "https://www.bbc.co.uk/sport/tennis/articles/cm62y10v3p96o#10",
       "link": "https://www.bbc.co.uk/sport/tennis/articles/cm62y10v3p96o",
@@ -619,6 +641,17 @@
       "addedAt": "2026-10-31T11:42:33.788Z"
     },
     {
+      "id": "b20fe07e25a5f141",
+      "guid": "https://www.bbc.co.uk/news/articles/cmrly1702pnlo#5",
+      "link": "https://www.bbc.co.uk/news/articles/cmrly1702pnlo",
+      "title": "TikTok brings fame and queues to Brontë village for autumn",
+      "excerpt": "Queues outside shops are a regular sight in the village after influencers posted about its beauty.",
+      "published": "2026-10-31T10:33:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c01a/live/54c1b450-d47c-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T13:51:53.840Z"
+    },
+    {
       "id": "28b1d9669462ec5e",
       "guid": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo#4",
       "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo",
@@ -628,6 +661,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e67/live/634d7ac0-d46a-11f1-a701-fddedf244c16.jpg",
       "type": "article",
       "addedAt": "2026-11-01T09:51:42.655Z"
+    },
+    {
+      "id": "fa312208b2d8e46d",
+      "guid": "https://www.bbc.co.uk/news/articles/c5wyr8xdnj74o#5",
+      "link": "https://www.bbc.co.uk/news/articles/c5wyr8xdnj74o",
+      "title": "'He would be pleased': Family reflects on man's 1971 'Santa' protest to pedestrianise Oxford Street",
+      "excerpt": "The story of one man's visionary and unorthodox demonstration to raise awareness of air pollution.",
+      "published": "2026-10-31T08:02:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd6/live/3fe39f80-d2e2-11f1-8af5-e1db7ad65222.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T13:51:53.840Z"
     },
     {
       "id": "bd45f05bd29e1a90",
