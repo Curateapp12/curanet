@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "7d94bcf98e49beea",
+      "guid": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o",
+      "title": "Cambridge scientist dies in Spanish train crash",
+      "excerpt": "A Spanish research centre has confirmed her death days after she was declared misisng.",
+      "published": "2026-11-01T09:31:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e1/live/197b8930-d55c-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T09:51:42.655Z"
+    },
+    {
       "id": "776178a088163b2d",
       "guid": "https://www.bbc.co.uk/news/articles/ck1exyj525d9o#2",
       "link": "https://www.bbc.co.uk/news/articles/ck1exyj525d9o",
@@ -34,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5c/live/b3329da0-d45a-11f1-93d9-89af68edb68a.jpg",
       "type": "article",
       "addedAt": "2026-11-01T08:03:42.847Z"
+    },
+    {
+      "id": "e25769e1e55ef6df",
+      "guid": "https://www.bbc.co.uk/news/articles/cmn06eldj9rwo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06eldj9rwo",
+      "title": "Hospital admits full responsibility for 24 failures that led to toddler's death",
+      "excerpt": "Eleanor Aldred-Owen died after surgery because an abnormal scan was not flagged.",
+      "published": "2026-11-01T07:07:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f2/live/13953cb0-d137-11f1-be77-d1864d279cb0.png",
+      "type": "article",
+      "addedAt": "2026-11-01T09:51:42.655Z"
     },
     {
       "id": "568873b9e95c713d",
@@ -551,6 +573,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg",
       "type": "article",
       "addedAt": "2026-10-31T11:42:33.788Z"
+    },
+    {
+      "id": "28b1d9669462ec5e",
+      "guid": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo#4",
+      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo",
+      "title": "Watch: How US mail-in votes are secured and counted",
+      "excerpt": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
+      "published": "2026-10-31T09:16:14.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e67/live/634d7ac0-d46a-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T09:51:42.655Z"
     },
     {
       "id": "bd45f05bd29e1a90",
