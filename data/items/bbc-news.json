@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "d88d72dcf3ccb239",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/cm62y10v3p96o#10",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cm62y10v3p96o",
+      "title": "Britain's Dart wins first WTA title of her career",
+      "excerpt": "Britain's Harriet Dart caps the best week of her career by beating fast-rising Austrian teenager Lilli Tagger in three sets in Guangzhou.",
+      "published": "2026-11-01T11:27:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bc3/live/7f36f7b0-d5e2-11f1-8fc6-43c59756914a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T11:43:11.158Z"
+    },
+    {
       "id": "0c6234e935783401",
       "guid": "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o#3",
       "link": "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o",
@@ -12,6 +23,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48f/live/df92a5c0-d5db-11f1-a25d-8f13519027da.jpg",
       "type": "article",
       "addedAt": "2026-11-01T10:46:23.288Z"
+    },
+    {
+      "id": "2a04fe3170c551a0",
+      "guid": "https://www.bbc.co.uk/weather/articles/c3pwge119lnvo#2",
+      "link": "https://www.bbc.co.uk/weather/articles/c3pwge119lnvo",
+      "title": "Northern Lights dance across UK sky on Halloween night",
+      "excerpt": "Stargazers across the UK were treated to the vivid colours of the aurora borealis on Saturday night.",
+      "published": "2026-11-01T10:16:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69f4/live/7886c200-d5cf-11f1-82ae-81055b9ae1cd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T11:43:11.158Z"
     },
     {
       "id": "7d94bcf98e49beea",
@@ -67,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f2/live/13953cb0-d137-11f1-be77-d1864d279cb0.png",
       "type": "article",
       "addedAt": "2026-11-01T09:51:42.655Z"
+    },
+    {
+      "id": "7ded277d430915bd",
+      "guid": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#3",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "excerpt": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "published": "2026-11-01T07:00:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T11:43:11.158Z"
     },
     {
       "id": "568873b9e95c713d",
