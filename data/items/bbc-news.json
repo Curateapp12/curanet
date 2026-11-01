@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "2e47ed997f1dbeb3",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o",
+      "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+      "excerpt": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.",
+      "published": "2026-11-01T20:16:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/473d6620-d62b-11f1-b085-b9e65bc8bfff.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T20:44:13.130Z"
+    },
+    {
+      "id": "906edfc4e6ffa9b6",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o#8",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o",
+      "title": "Arsenal move clear at the top with a rare win at Liverpool",
+      "excerpt": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
+      "published": "2026-11-01T20:00:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T20:44:13.130Z"
+    },
+    {
+      "id": "2f8dc69a33157afc",
+      "guid": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+      "excerpt": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "published": "2026-11-01T19:48:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T20:44:13.130Z"
+    },
+    {
+      "id": "bf9ba445487db8e1",
+      "guid": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "excerpt": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
+      "published": "2026-11-01T18:51:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8f/live/e077e4c0-d61f-11f1-beec-49c9509fcdec.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T20:44:13.130Z"
+    },
+    {
       "id": "ff99f26be71e2f19",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo",
@@ -34,6 +78,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2295/live/8c37c370-d5f3-11f1-a6a8-6dc45e4fc351.jpg",
       "type": "article",
       "addedAt": "2026-11-01T18:50:37.636Z"
+    },
+    {
+      "id": "5fbb6b8edab9ff7b",
+      "guid": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro#1",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "excerpt": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "published": "2026-11-01T17:56:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T20:44:13.130Z"
     },
     {
       "id": "99829d91da8ce068",
