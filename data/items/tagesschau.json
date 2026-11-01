@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "9403b9f8ffaba97d",
+      "guid": "473174e3-2a61-4574-b655-b008e86f1863",
+      "link": "https://www.tagesschau.de/ausland/nasa-mars-108.html",
+      "title": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
+      "excerpt": "Vier Menschen haben in den USA gemeinsam ein Jahr auf 160 Quadratmetern verbracht - für die Wissenschaft. Nun ist das NASA-Experiment vorbei. Ziel der langen Zeit in Isolation war die Simulation des Lebens auf dem Mars.",
+      "published": "2026-11-01T19:42:19.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d9677e32-bbb9-4a47-a7ca-aa470c345134/AAABoZeRL8g/AAABnSSvrFg/16x9-big/nasa-210.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-01T19:44:49.893Z"
+    },
+    {
+      "id": "c206377f74a520b2",
+      "guid": "73b43379-ee22-4144-854a-193074de5b77",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
+      "title": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
+      "excerpt": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei unterwandert. Innenminister Dobrindt kündigte ein hartes Vorgehen an.",
+      "published": "2026-11-01T19:16:37.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/fd2489d7-fda1-4850-bb76-8e819b2e671b/AAABoZiK1NE/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-01T19:44:49.893Z"
+    },
+    {
       "id": "8e196de0983a21a6",
       "guid": "be88237a-72de-44ca-a37a-250ac8b52e38",
       "link": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html",
