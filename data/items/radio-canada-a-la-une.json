@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "afcf363419ff30a3",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297402/ukraine-russie-dernier-jour-treve-olechky",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297402/ukraine-russie-dernier-jour-treve-olechky",
+      "title": "Ukraine : dernier jour d’une trêve exceptionnelle à Olechky",
+      "excerpt": "La trêve a permis l'évacuation des habitants de cette ville sur la ligne de front dans la région de Kherson.",
+      "published": "2026-11-01T14:56:21.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ukraine-fin-treve-olechky.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T15:41:35.582Z"
+    },
+    {
       "id": "331bec6b5f85c3ed",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297392/changement-heure-perturbation-pct",
       "link": "https://ici.radio-canada.ca/nouvelle/2297392/changement-heure-perturbation-pct",
@@ -23,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/chris-kreider-josh-anderson-canadien.jpg",
       "type": "article",
       "addedAt": "2026-11-01T11:43:11.158Z"
+    },
+    {
+      "id": "fe105a917b9b6249",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297352/taxi-sans-chauffeur-waymo-toronto",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297352/taxi-sans-chauffeur-waymo-toronto",
+      "title": "Arrivée des robots taxis à Toronto : des chauffeurs pensent se retirer du marché",
+      "excerpt": "La compagnie californienne Waymo a annoncé la semaine dernière qu’elle compte amorcer des tests.",
+      "published": "2026-11-01T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/waymo-vehicules-sans-conducteur.png",
+      "type": "article",
+      "addedAt": "2026-11-01T15:41:35.582Z"
     },
     {
       "id": "25867d079c7d33c5",
