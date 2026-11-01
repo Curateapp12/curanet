@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "dad274ff07db20fb",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297460/st-pierre-plamondon-invitation-rencontre-carney",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297460/st-pierre-plamondon-invitation-rencontre-carney",
+      "title": "Paul St-Pierre Plamondon accepte une invitation à rencontrer Mark Carney",
+      "excerpt": "Il accepte cependant à condition que cette réunion ait lieu dans la ville de Québec.",
+      "published": "2026-11-01T21:26:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/paul-st-pierre-plamondon-48083.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T21:42:29.013Z"
+    },
+    {
+      "id": "ba69f1d633c8ff37",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297447/coupures-parcs-canada-pertes-emplois",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297447/coupures-parcs-canada-pertes-emplois",
+      "title": "Parcs Canada supprimerait au moins 13 détachements de gardes de parc",
+      "excerpt": "L’agence, responsable de 450 000 km2, compte répartir moins d’agents sur un territoire plus vaste.",
+      "published": "2026-11-01T20:49:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/orignal-parc-hautes-terres-cap-breton-parcs-canada.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T21:42:29.013Z"
+    },
+    {
       "id": "96b1ff70fb9ddfd2",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297445/bulgarie-election-presidentielle-iliana-iotova",
       "link": "https://ici.radio-canada.ca/nouvelle/2297445/bulgarie-election-presidentielle-iliana-iotova",
@@ -23,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/noam-sohlberg.jpg",
       "type": "article",
       "addedAt": "2026-11-01T20:44:13.130Z"
+    },
+    {
+      "id": "b800e079e3e064f4",
+      "guid": "https://ici.radio-canada.ca/sports/2297417/courte-piste-montreal-medaille-canada-dimanche",
+      "link": "https://ici.radio-canada.ca/sports/2297417/courte-piste-montreal-medaille-canada-dimanche",
+      "title": "Danaé Blais en argent et Courtney Sarault en bronze au 500 m",
+      "excerpt": "Cinq finales sont disputées lors de la dernière journée à l'aréna Maurice-Richard.",
+      "published": "2026-11-01T18:59:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/medaille-sarault-blais-courte-piste-montreal.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T21:42:29.013Z"
     },
     {
       "id": "420adf67d3d1868e",
