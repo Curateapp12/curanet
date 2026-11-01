@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "78baf36446bc553d",
+      "guid": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o#1",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o",
+      "title": "Lindsay Clancy is back in court - where will her case go next?",
+      "excerpt": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
+      "published": "2026-11-01T17:29:08.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f436/live/1948f1a0-d255-11f1-bb20-4320a74e5db1.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T17:40:15.382Z"
+    },
+    {
+      "id": "2f8b55a9a667959a",
+      "guid": "https://www.bbc.co.uk/news/articles/c9146yve236lo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c9146yve236lo",
+      "title": "Karl Bushby 'overwhelmed' at Humber Bridge welcome",
+      "excerpt": "The British adventurer is due to complete his 31,000-mile challenge in Hull on Monday.",
+      "published": "2026-11-01T17:18:16.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb8/live/e1b11720-d616-11f1-90fb-b3468681b3ba.png",
+      "type": "article",
+      "addedAt": "2026-11-01T17:40:15.382Z"
+    },
+    {
+      "id": "522a758e51d04317",
+      "guid": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko",
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "excerpt": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+      "published": "2026-11-01T16:57:14.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T17:40:15.382Z"
+    },
+    {
       "id": "54eb2d4f6ba67efd",
       "guid": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#3",
       "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo",
@@ -122,6 +155,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2da/live/12dda4f0-d5f7-11f1-a6a8-6dc45e4fc351.jpg",
       "type": "article",
       "addedAt": "2026-11-01T13:51:53.840Z"
+    },
+    {
+      "id": "9a7e6bd06c0a457f",
+      "guid": "https://www.bbc.co.uk/news/articles/c8y56vp10075o#3",
+      "link": "https://www.bbc.co.uk/news/articles/c8y56vp10075o",
+      "title": "Cate McHugh wins The Voice UK after being mentored by Sir Tom Jones",
+      "excerpt": "Cate McHugh was congratulated by her coach Sir Tom Jones after she was crowned winner on Saturday.",
+      "published": "2026-11-01T11:46:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd0/live/28b38530-d5fa-11f1-b437-279121eb1cd9.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T17:40:15.382Z"
     },
     {
       "id": "d88d72dcf3ccb239",
