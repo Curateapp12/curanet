@@ -3,6 +3,61 @@
   "sourceId": "le-figaro",
   "items": [
     {
+      "id": "28dc300c76c80a54",
+      "guid": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-plusieurs-centaines-de-milliers-de-manifestants-samedi-dans-l-hexagone-avant-la-journee-de-greve-du-5-novembre-20261101",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-plusieurs-centaines-de-milliers-de-manifestants-samedi-dans-l-hexagone-avant-la-journee-de-greve-du-5-novembre-20261101",
+      "title": "EN DIRECT - Colère sociale : plusieurs centaines de milliers de manifestants samedi dans l’Hexagone avant la journée de grève du 5 novembre",
+      "excerpt": "Samedi, le ministre de l’Intérieur Laurent Nuñez a estimé que les «cortèges» se sont «bien déroulés» malgré «la violence inouïe» de groupes de casseurs, visant des groupes «d’ultragauche». Quelque 565 personnes ont été interpellées sur tout le territoire et cinq membres des forces de l’ordre ont…",
+      "published": "2026-11-01T08:01:03.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1996_crop/2026/11/01/f2a472adf58d697e07a0dfb88de650876c11ee668bf9613dc6fb694ff646546e.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T08:03:42.847Z"
+    },
+    {
+      "id": "a1f7026f1b4d5f01",
+      "guid": "https://www.lefigaro.fr/sports/voile/route-du-rhum/route-du-rhum-pourquoi-le-depart-de-la-course-est-donne-a-13h02-20261101",
+      "link": "https://www.lefigaro.fr/sports/voile/route-du-rhum/route-du-rhum-pourquoi-le-depart-de-la-course-est-donne-a-13h02-20261101",
+      "title": "Route du Rhum : pourquoi le départ de la course sera donné à 13h02",
+      "excerpt": "Le coup de canon qui lâchera les 115 participants à l’assaut de l’Atlantique ne tombe jamais à une heure ronde.",
+      "published": "2026-11-01T07:36:11.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/1148x646_crop/2026/10/29/380e8c797db0b16b3762eeadaff14b03a774adb5fa34e5b36ea59cea57b50604.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T08:03:42.847Z"
+    },
+    {
+      "id": "18ebf4fd18e22ae3",
+      "guid": "https://www.lefigaro.fr/bordeaux/le-gens-de-confiance-du-batiment-cette-application-girondine-veut-en-finir-avec-les-mauvais-artisans-20261101",
+      "link": "https://www.lefigaro.fr/bordeaux/le-gens-de-confiance-du-batiment-cette-application-girondine-veut-en-finir-avec-les-mauvais-artisans-20261101",
+      "title": "«Le Gens de Confiance du bâtiment» : cette application girondine veut en finir avec les mauvais artisans",
+      "excerpt": "Trouver un artisan diponible dont les oeuvres sont de bonne facture n’est pas toujours une mince affaire. Le réseau Batilib souhaite révolutionner le domaine en Gironde.",
+      "published": "2026-11-01T07:00:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2250_crop/2026/10/30/678443b2feab8c94555db9f27dcdb54beb0065296064e3824ba1d24d903ef98c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T08:03:42.847Z"
+    },
+    {
+      "id": "3eb5b34b26d003ef",
+      "guid": "https://sante.lefigaro.fr/social/sante-publique/quand-allez-vous-mourir-faites-le-test-grace-aux-statistiques-20251101",
+      "link": "https://sante.lefigaro.fr/social/sante-publique/quand-allez-vous-mourir-faites-le-test-grace-aux-statistiques-20251101",
+      "title": "Quand allez-vous mourir ? Faites le test grâce aux statistiques",
+      "excerpt": "SIMULATEUR – Les quotients de mortalité permettent d’estimer la probabilité, pour une personne d’un certain âge, de décéder avant l’année suivante. L’occasion de se livrer à un exercice statistique entre curiosité et vertige existentiel.",
+      "published": "2026-11-01T07:00:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/30/c88aec7099e6f1d8d27cb798a3446e92c702c3dbd4b6377cd4fb709000cdee11.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T08:03:42.847Z"
+    },
+    {
+      "id": "f8a422653ba28faf",
+      "guid": "https://www.lefigaro.fr/culture/a-pompei-une-armoire-scellee-devoile-des-objets-du-quotidien-enfouis-depuis-pres-de-2-000-ans-20261101",
+      "link": "https://www.lefigaro.fr/culture/a-pompei-une-armoire-scellee-devoile-des-objets-du-quotidien-enfouis-depuis-pres-de-2-000-ans-20261101",
+      "title": "À Pompéi, une armoire scellée dévoile des objets du quotidien enfouis depuis près de 2 000 ans",
+      "excerpt": "Accessoires de maquillage, parfum, pièces de monnaie, pots de cuisson, amulettes… Des vestiges mis au jour dans une maison de l’une des rues les plus animées de la cité antique racontent l’intimité d’un habitant avant l’éruption qui a englouti la ville sous plusieurs mètres de cendres.",
+      "published": "2026-11-01T07:00:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/1500x1125_crop/2026/10/29/83a072d9c772de65c04afb1fd8ac0dd679a371d98298d9db7f6bac2b51f063e4.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T08:03:42.847Z"
+    },
+    {
       "id": "30cf3ebcdc904a31",
       "guid": "https://www.lefigaro.fr/sports/rugby/xv-de-france/xv-de-france-j-ai-des-choses-a-prouver-georges-henri-colombe-l-heritier-de-uini-atonio-qui-reste-au-point-mort-20261101",
       "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/xv-de-france-j-ai-des-choses-a-prouver-georges-henri-colombe-l-heritier-de-uini-atonio-qui-reste-au-point-mort-20261101",
@@ -23,6 +78,17 @@
       "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/01/7b9a078318d475b39948e422ce0bfc22c737a68ba63d269709c6cf1beba84288.jpg",
       "type": "article",
       "addedAt": "2026-11-01T07:04:16.607Z"
+    },
+    {
+      "id": "9c8b88eacb70ff55",
+      "guid": "https://www.lefigaro.fr/jardin/chrysantheme-et-toussaint-l-origine-d-une-tradition-nee-apres-1914-1918-20261101",
+      "link": "https://www.lefigaro.fr/jardin/chrysantheme-et-toussaint-l-origine-d-une-tradition-nee-apres-1914-1918-20261101",
+      "title": "Chrysanthème et Toussaint : l’origine d’une tradition née après 1914-1918",
+      "excerpt": "La star du 1er novembre. S’il y a une plante emblème de la Toussaint, c’est elle. Vous l’avez reconnu ? C’est évidemment le chrysanthème. Mais connaissez-vous l’origine de cette tradition ?",
+      "published": "2026-11-01T06:00:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/27/ffebcfb267c99827f53872b75a9d3521117c1c89c9c6a1c13925b8c04673887c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-01T08:03:42.847Z"
     },
     {
       "id": "c66d4d210b403a14",

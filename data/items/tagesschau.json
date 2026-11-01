@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "71a37424b522170f",
+      "guid": "8074b981-d14a-464a-b19a-05a40a61afb0",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html",
+      "title": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
+      "excerpt": "Zum Abschluss seiner China-Reise hat Bundespräsident Steinmeier vor den Risiken Künstlicher Intelligenz für die Demokratie gewarnt. Über Fortschritte im Handelskonflikt zwischen Europa und China äußerte er sich vorsichtig optimistisch. Von D. Hebestreit und M. Deiß.",
+      "published": "2026-11-01T08:01:11.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/01a2ddb2-7314-43de-9c08-af19b20b893c/AAABoZYgcSE/AAABnSSvrFg/16x9-big/frank-walter-steinmeier-256.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-01T08:03:42.847Z"
+    },
+    {
+      "id": "5d625188c2ba680f",
+      "guid": "4c0aeac6-3b04-4b5b-b27b-9aab05a8f40f",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html",
+      "title": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
+      "excerpt": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
+      "published": "2026-11-01T08:00:49.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/dc0d4ff1-2bef-4c6d-88b8-663bd70d6330/AAABoTpb2XE/AAABnSSvrFg/16x9-big/buero-ki-start-up-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-01T08:03:42.847Z"
+    },
+    {
+      "id": "838d51391a3b8b7b",
+      "guid": "88ff843b-2d52-414a-aa93-b9f75e891a47",
+      "link": "https://www.tagesschau.de/ausland/mexiko-feierlichkeiten-november-100.html",
+      "title": "Bunte \"Tag der Toten\"-Parade zieht durch Mexiko-Stadt",
+      "excerpt": "Schaurige Skelette, elegante Catrinas: In Mexiko-Stadt hat zum zehnten Mal eine Parade zum \"Tag der Toten\" stattgefunden. Das farbenfrohe Schauspiel geht auf einen Bond-Film zurück, die Traditionen dahinter sind viel älter.",
+      "published": "2026-11-01T07:57:56.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f648bdc6-0ffb-489e-80cf-1727d7a90a49/AAABoZXnZqY/AAABnSSvrFg/16x9-big/mexiko-parade-tagdertoten-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-01T08:03:42.847Z"
+    },
+    {
+      "id": "da58deba855c7511",
+      "guid": "da68f6c6-802e-42e5-a8f2-bea76af6be7b",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html",
+      "title": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+      "excerpt": "Nach seiner Wahlniederlage setzte sich der brasilianische Präsidentschaftskandidat Flávio Bolsonaro in die USA ab. Dort darf er bleiben - \"so lange, wie er will\", sagte Präsident Trump. Treffen will er Bolsonaro vorerst nicht.",
+      "published": "2026-11-01T07:45:02.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2be04343-b2bc-4534-b2e4-46f970e3ff0e/AAABoZWlMg0/AAABnSSvrFg/16x9-big/trump-halloween-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-01T08:03:42.847Z"
+    },
+    {
       "id": "3cb60a561484deca",
       "guid": "2badb54d-2149-43c6-b79d-d94d4b52dbac",
       "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
