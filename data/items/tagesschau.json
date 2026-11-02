@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "2fe0b4729e4484eb",
+      "guid": "9b86612f-c623-4047-b2f8-86ea5a5f900f",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
+      "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
+      "excerpt": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen.",
+      "published": "2026-11-02T08:59:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6005bf42-35ee-49c0-a9de-0c0c82432647/AAABoYumLh8/AAABnSSvrFg/16x9-big/binance-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T09:11:35.251Z"
+    },
+    {
+      "id": "2baad25ffdc3c890",
+      "guid": "da93165d-4a2c-4739-a890-204253611ab5",
+      "link": "https://www.tagesschau.de/ausland/amerika/flugzeugabsturz-usa-florida-100.html",
+      "title": "Neun Tote bei Flugzeugabsturz in Florida",
+      "excerpt": "In den USA sind neun Menschen beim Absturz eines Flugzeugs gestorben. Der Privatjet war im Bundesstaat Florida über einem Wohngebiet abgestürzt. Zuvor hatte der Pilot Probleme mit dem Wetter gemeldet.",
+      "published": "2026-11-02T08:13:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0e994a0d-39a0-4378-a18b-758a6a761f61/AAABoZsrMFA/AAABnSSvrFg/16x9-big/florida-186.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T09:11:35.251Z"
+    },
+    {
       "id": "1106e07fe534cfb7",
       "guid": "ce64d8c5-55dd-4e3e-96c7-ec22c0d3cc2b",
       "link": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html",

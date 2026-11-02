@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "155abfa93b1ee3fc",
+      "guid": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#5",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do",
+      "title": "Uganda begins withdrawing troops from Somalia",
+      "excerpt": "The country was the first to contribute troops to the AU mission established to stabilise Somalia in 2007.",
+      "published": "2026-11-02T08:55:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c17/live/01b6a350-d68f-11f1-b7fe-13bd08d80ad6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T09:11:35.251Z"
+    },
+    {
+      "id": "70e5da24af66d9f1",
+      "guid": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o",
+      "title": "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
+      "excerpt": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "published": "2026-11-02T08:33:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T09:11:35.251Z"
+    },
+    {
+      "id": "0f9de7a160aed9cd",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o#9",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o",
+      "title": "Australia omit star pace trio for England series",
+      "excerpt": "Australia omit the star pace trio of Pat Cummins, Josh Hazlewood and Mitchell Starc from their squads for the upcoming white-ball series against England.",
+      "published": "2026-11-02T08:07:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ebe/live/1d4c6070-d692-11f1-8f56-0b6ab08f384e.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T09:11:35.251Z"
+    },
+    {
       "id": "e2794a23883dcf55",
       "guid": "https://www.bbc.co.uk/sport/tennis/articles/cwkg5z5jmye0o#9",
       "link": "https://www.bbc.co.uk/sport/tennis/articles/cwkg5z5jmye0o",
@@ -168,6 +201,17 @@
       "addedAt": "2026-11-02T06:09:05.328Z"
     },
     {
+      "id": "1a0eb9d49fe9f962",
+      "guid": "https://www.bbc.co.uk/news/articles/cm2d6833ekrwo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6833ekrwo",
+      "title": "No windows and steel doors - life at NI's 'most-attacked Orange hall'",
+      "excerpt": "Orangemen are frustrated by attacks and have lost confidence in the police's ability to protect them.",
+      "published": "2026-11-02T00:02:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/761a/live/811a1c10-d691-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T09:11:35.251Z"
+    },
+    {
       "id": "e357fd1c5c59e570",
       "guid": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o#9",
       "link": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o",
@@ -221,6 +265,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
       "type": "article",
       "addedAt": "2026-11-01T22:42:38.808Z"
+    },
+    {
+      "id": "757a23938f9bcebc",
+      "guid": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o#1",
+      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o",
+      "title": "North Carolina voters weigh up Trump's track record on cost of living",
+      "excerpt": "The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago.",
+      "published": "2026-11-01T22:25:51.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72fa/live/5f195450-d696-11f1-93e1-3b657b665bcf.png",
+      "type": "article",
+      "addedAt": "2026-11-02T09:11:35.251Z"
     },
     {
       "id": "4fc8a5a21005c5a9",
