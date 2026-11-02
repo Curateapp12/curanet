@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "7f0015b7dd294b1a",
+      "guid": "3cc46b2d-daf3-4de5-91a3-3da03edc0304",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
+      "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
+      "excerpt": "Linke, Grüne und SPD in Berlin beginnen ihre Verhandlungen über eine mögliche gemeinsame Regierung. Bis Dezember könnte ein Koalitionsvertrag stehen - doch sicher ist das nicht.",
+      "published": "2026-11-02T04:42:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/91d25c16-5c9b-40bb-bc94-64abd96da230/AAABoZpS_5g/AAABnSSvrFg/16x9-big/berlin-abgeordnetenhaus-132.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T05:07:41.095Z"
+    },
+    {
+      "id": "a29c274b9dd1f026",
+      "guid": "97a504bc-9d0d-4177-8f27-3e195022e491",
+      "link": "https://www.tagesschau.de/investigativ/swr/ammoniak-eu-russland-100.html",
+      "title": "Kritik an Ammoniak-Importen: Die EU, Russland und die Sprengstoffindustrie",
+      "excerpt": "Trotz aller Sanktionen importiert die EU russisches Ammoniak - aufgrund eines \"EU-Sonderkontingents\" legal. Nach SWR-Recherchen haben die beteiligten Firmen Verbindungen zu Putin-nahen Oligarchen und zur Sprengstoffindustrie. Von Nick Schader.",
+      "published": "2026-11-02T04:33:51.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/513a1ce5-8bca-408f-938a-66b450c6e9dc/AAABoYzfmsc/AAABnSSvrFg/16x9-big/eurochem-werk-kingisepp-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T05:07:41.095Z"
+    },
+    {
+      "id": "6e36484256c3c2b1",
+      "guid": "b7c74872-759e-4512-b5e4-26b8544613a1",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html",
+      "title": "Digitalgipfel der Bundesregierung: Ist der KI-Zug in Deutschland schon abgefahren?",
+      "excerpt": "Die Bundesregierung lädt zum Digitalgipfel nach Berlin. Im Mittelpunkt der zweitägigen Konferenz steht die Frage, wie Deutschland und Europa beim Thema Künstliche Intelligenz global mitreden können.Von J. F. Willems.",
+      "published": "2026-11-02T04:19:28.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c1e20454-4a43-4eab-886d-923ad85062e0/AAABoZp70nc/AAABnSSvrFg/16x9-big/digitalgipfel-ansicht-gehirn-bildschirm-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T05:07:41.095Z"
+    },
+    {
+      "id": "106c14e84986ef58",
+      "guid": "f4acf366-47f9-49b0-8707-2dff5775a960",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/afd-verfassungsrichter-bayern-100.html",
+      "title": "Fall Imgart im AfD-Leak: Trotz Rassismus-Vorwürfen Verfassungsrichter",
+      "excerpt": "Wegen mutmaßlich radikaler Ansichten und Rassismus wollte sein AfD-Kreisverband Rüdiger Imgart 2016 aus der Partei ausschließen. Doch das Verfahren scheitert - dann wird Imgart Verfassungsrichter in Bayern. Von S. Khamis und J. Streule.",
+      "published": "2026-11-02T04:00:15.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/16295650-b75b-4cc9-891c-9eacd2f91402/AAABld84GQU/AAABnSSvrFg/16x9-big/afd-parteitag-296.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T05:07:41.095Z"
+    },
+    {
       "id": "20058ab30530ff74",
       "guid": "50398533-9a2e-46f7-b7b2-bf07856e9ba4",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html",
