@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "ebcab803268d4b5d",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297575/agents-securite-publique-constables-moncton-armes",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297575/agents-securite-publique-constables-moncton-armes",
+      "title": "Bientôt davantage de pouvoirs pour les agents communautaires de Moncton",
+      "excerpt": "Ils pourront placer des contrevenants en détention et seront munis de bâtons de police et de menottes.",
+      "published": "2026-11-02T20:41:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/agents-securite-communautaire-moncton-nouveau-brunswick-45044.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T20:51:27.403Z"
+    },
+    {
+      "id": "1b0a41cafc61778b",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297594/rapport-regime-canadien-soins-dentaires",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297594/rapport-regime-canadien-soins-dentaires",
+      "title": "Régime canadien de soins dentaires : taux d’utilisation de 54 % au N.-B.",
+      "excerpt": "La Société dentaire du N.-B. attribue ce taux à un manque de personnel, entre autres facteurs.",
+      "published": "2026-11-02T20:08:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/le1518-soins-buccodentaires-dentistes-quebec-acces-frais-couteux.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T20:51:27.403Z"
+    },
+    {
       "id": "c2249879a91fd949",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10795318/episode-31-octobre-2026",
       "link": "https://ici.radio-canada.ca/info/videos/1-10795318/episode-31-octobre-2026",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/anne-marie-parenteau-billetterie-acadie-100.jpg",
       "type": "article",
       "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
+      "id": "72bd6ad26ae50cbd",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2518791/que-faire-devant-taux-eleves-radon",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2518791/que-faire-devant-taux-eleves-radon",
+      "title": "Quels sont les risques liés au radon, un gaz radioactif?",
+      "excerpt": "Le radon est la première cause du cancer du poumon chez les non-fumeurs, selon Santé Canada. Un bâtiment sur trois a des concentrations trop élevées de ce gaz radioactif en Atlantique. Comment connaître la concentration de radon dans sa maison? Karine Godin ouvre la discussion avec des experts.",
+      "published": "2026-11-02T16:33:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/emission/16x9/sens-large-emission-karine-godin-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T20:51:27.403Z"
     },
     {
       "id": "e00bcc60e096eeeb",
