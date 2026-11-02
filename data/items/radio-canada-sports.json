@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "2c33732c5e1f73c1",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10799022/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10799022/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-11-02T05:20:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T06:09:05.328Z"
+    },
+    {
+      "id": "022976b955d49046",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10799021/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10799021/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-11-02T05:07:29.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T06:09:05.328Z"
+    },
+    {
       "id": "2bc2165c1632a6ee",
       "guid": "https://ici.radio-canada.ca/sports/2297504/lions-infligent-1er-revers-vikings-touche-goff",
       "link": "https://ici.radio-canada.ca/sports/2297504/lions-infligent-1er-revers-vikings-touche-goff",
