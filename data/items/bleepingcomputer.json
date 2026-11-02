@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "b9a8fe94cb9b69e7",
+      "guid": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "excerpt": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+      "published": "2026-11-02T19:00:45.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-02T19:00:42.506Z"
+    },
+    {
+      "id": "f8e64d371b0e6032",
+      "guid": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "excerpt": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+      "published": "2026-11-02T18:16:34.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-02T19:00:42.506Z"
+    },
+    {
       "id": "be1d39eaf1aa1ffc",
       "guid": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
       "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",

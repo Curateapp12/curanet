@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "256f225e60442378",
+      "guid": "https://www.bbc.co.uk/news/articles/c6ly052pdx4no#3",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly052pdx4no",
+      "title": "What are the planned changes to immigration rules?",
+      "excerpt": "The home secretary sets out plans to change requirements for permanent settlement in the UK.",
+      "published": "2026-11-02T18:49:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8f/live/9fc16d10-d6e3-11f1-a741-236ee91c2e25.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T19:00:42.506Z"
+    },
+    {
+      "id": "be4ff52240ffa6e7",
+      "guid": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+      "excerpt": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "published": "2026-11-02T18:48:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+      "type": "article",
+      "addedAt": "2026-11-02T19:00:42.506Z"
+    },
+    {
+      "id": "58aaf710c94d01a2",
+      "guid": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "excerpt": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+      "published": "2026-11-02T18:34:24.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47a/live/2a240410-d6c9-11f1-ac20-7783925c811f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T19:00:42.506Z"
+    },
+    {
+      "id": "a50c075798b97541",
+      "guid": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go#3",
+      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go",
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "excerpt": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "published": "2026-11-02T18:25:01.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T19:00:42.506Z"
+    },
+    {
       "id": "98ff9cbf2ddca9c7",
       "guid": "https://www.bbc.co.uk/news/articles/cm87zn1vy28zo#5",
       "link": "https://www.bbc.co.uk/news/articles/cm87zn1vy28zo",
@@ -12,6 +56,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fafa/live/fc5b9ac0-d6e6-11f1-a741-236ee91c2e25.jpg",
       "type": "article",
       "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
+      "id": "e262e333ab7d2b3b",
+      "guid": "https://www.bbc.co.uk/news/articles/cwdr8vxl1nv1o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr8vxl1nv1o",
+      "title": "Man who drugged and raped wife with strangers 'led double life'",
+      "excerpt": "Nine men are on trial accused of helping a Stockport man fulfil \"barbaric fantasies\" against his wife.",
+      "published": "2026-11-02T17:51:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a2/live/75ad43e0-d6da-11f1-b2be-0146bf989691.png",
+      "type": "article",
+      "addedAt": "2026-11-02T19:00:42.506Z"
     },
     {
       "id": "2747e042270ce092",
@@ -232,6 +287,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a4b/live/1d35c680-d2f5-11f1-93e1-3b657b665bcf.jpg",
       "type": "article",
       "addedAt": "2026-11-02T13:15:22.556Z"
+    },
+    {
+      "id": "beb684f6a746f062",
+      "guid": "https://www.bbc.co.uk/news/articles/c6rmyrnwylwzo#5",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmyrnwylwzo",
+      "title": "Man caught in car with £14k of drugs as a lamb ate chips in the back seat avoids jail",
+      "excerpt": "Police officers found the animal in the back seat of John McNeil's car on the M74 in Glasgow.",
+      "published": "2026-11-02T13:05:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/588d/live/b4fe5790-d6b8-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T19:00:42.506Z"
     },
     {
       "id": "a55f070c0e4acbf6",
