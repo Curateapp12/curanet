@@ -3,6 +3,39 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "63d2829887d1816e",
+      "guid": "https://www.ledevoir.com/actualites/1021442/quoi-retenir-fin-semaine",
+      "link": "https://www.ledevoir.com/actualites/1021442/quoi-retenir-fin-semaine",
+      "title": "Quoi retenir de la fin de semaine?",
+      "excerpt": "L’actualité du week-end des 31 octobre et 1er novembre en résumé.",
+      "published": "2026-11-02T00:55:23.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-02T01:12:17.139Z"
+    },
+    {
+      "id": "ce8ce14c3518538b",
+      "guid": "https://www.ledevoir.com/monde/etats-unis/1021439/elue-democrate-soutient-candidat-republicain-michigan-elections-mi-mandat",
+      "link": "https://www.ledevoir.com/monde/etats-unis/1021439/elue-democrate-soutient-candidat-republicain-michigan-elections-mi-mandat",
+      "title": "Une élue démocrate soutient un candidat républicain dans le Michigan",
+      "excerpt": "Stevens accorde son «soutien à Mike Rogers» et s’est affichée à ses côtés en campagne pour les élections de mi-mandat.",
+      "published": "2026-11-02T00:18:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-02T01:12:17.139Z"
+    },
+    {
+      "id": "6c99d967112f40fd",
+      "guid": "https://www.ledevoir.com/sports/1021433/kimi-antonelli-devient-plus-jeune-champion-histoire-formule-1",
+      "link": "https://www.ledevoir.com/sports/1021433/kimi-antonelli-devient-plus-jeune-champion-histoire-formule-1",
+      "title": "Kimi Antonelli devient le plus jeune champion de l’histoire de la Formule 1",
+      "excerpt": "Antonelli a pris une avance insurmontable au classement sur ses coéquipiers George Russell et Lewis Hamilton.",
+      "published": "2026-11-01T23:24:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-02T01:12:17.139Z"
+    },
+    {
       "id": "855edfceaeeb4140",
       "guid": "https://www.ledevoir.com/actualites/societe/1021415/pres-150-pompiers-luttent-contre-incendie-majeur-quartier-petite-bourgogne",
       "link": "https://www.ledevoir.com/actualites/societe/1021415/pres-150-pompiers-luttent-contre-incendie-majeur-quartier-petite-bourgogne",
@@ -56,6 +89,17 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-11-01T22:42:38.808Z"
+    },
+    {
+      "id": "c17f643ef26f012d",
+      "guid": "https://www.ledevoir.com/sports/1021370/patineuses-danae-blais-courtney-sarault-podium-500-montreal",
+      "link": "https://www.ledevoir.com/sports/1021370/patineuses-danae-blais-courtney-sarault-podium-500-montreal",
+      "title": "Les patineuses Danaé Blais et Courtney Sarault sur le podium au 500 m à Montréal",
+      "excerpt": "Le quatuor composé de Sarault, Blais, Roussel et Laoun avait remporté l’argent au relais mixte 2000 mètres.",
+      "published": "2026-11-01T21:01:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-02T01:12:17.139Z"
     },
     {
       "id": "2fb303eab7bc8061",
