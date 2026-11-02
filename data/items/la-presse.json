@@ -3,6 +3,39 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "8ed3b7d93e26cec4",
+      "guid": "bd62a6ced06b38228c168cc467001329",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-02/le-fil-politique/stephen-harper-publie-ses-memoires.php",
+      "title": "Le fil politique | Stephen Harper publie ses mémoires",
+      "excerpt": "Bienvenue dans Le fil politique de La Presse, alimenté par nos journalistes à Québec, Montréal et Ottawa. Retrouvez tout ce qu’il faut savoir : actualités de dernière heure, explications, bruits de coulisses et plus encore…",
+      "published": "2026-11-02T15:49:20.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/8923bde5b70f37319a7c2302a9bbb1a2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T16:06:38.824Z"
+    },
+    {
+      "id": "a345cd76e46eea98",
+      "guid": "02d7ea598f2e34b5b686f319c0038069",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-02/saint-michel/l-incendie-du-19-octobre-cause-par-un-megot-de-cigarette.php",
+      "title": "Saint-Michel | L’incendie du 19 octobre causé par un mégot de cigarette",
+      "excerpt": "C’est un simple mégot de cigarette mal éteint qui a provoqué l’incendie majeur qui a ravagé un immeuble à logements du boulevard Saint-Michel le 19 octobre dernier, et mis à la rue 87 personnes.",
+      "published": "2026-11-02T14:47:50.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/31dd2acb69353c8298d0f5404b58354a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T16:06:38.824Z"
+    },
+    {
+      "id": "deedea41ed091389",
+      "guid": "f8d152856cec3d3fa05bd57c02c23ae5",
+      "link": "https://www.lapresse.ca/actualites/insolite/2026-11-02/chine/des-robots-humanoides-et-canins-a-l-assaut-d-une-montagne-sacree.php",
+      "title": "Chine | Des robots humanoïdes et canins à l’assaut d’une montagne sacrée",
+      "excerpt": "Des dizaines de robots, humanoïdes ou canins, ont affronté lundi les pentes de l’une des montagnes les plus célèbres de Chine, lors d’une nouvelle compétition destinée à les pousser dans leurs derniers retranchements, ont montré des images de la télévision d’État.",
+      "published": "2026-11-02T14:31:15.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/3a23e981/ae3340dd053c3276bc143786b244290c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T16:06:38.824Z"
+    },
+    {
       "id": "a1fc4b8e8ddf0def",
       "guid": "d792641a65e43c86a9ff8623260bda94",
       "link": "https://www.lapresse.ca/actualites/2026-11-02/incendie-de-crans-montana/le-proprietaire-du-bar-de-retour-devant-les-procureures-au-dossier.php",
