@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "ffa1e5c0a30d0da9",
+      "guid": "2ef7c1ef-8cc0-407e-a669-20ca03f2debf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cyberattacke-linkspartei-mail-postfaecher-100.html",
+      "title": "Massive Cyberattacke auf Linken-Abgeordnete in Berlin",
+      "excerpt": "Tausende Nachrichten binnen Minuten: Ein massiver Cyberagriff hat die Mail-Postfächer der Linken im Bundestag lahmgelegt. Wer hinter der Attacke steckt, ist noch unklar. Andere Fraktionen waren nicht betroffen.",
+      "published": "2026-11-02T14:14:53.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/268e7440-08c6-4492-84ec-6bd867a0afde/AAABnRAAbFU/AAABnSSvrFg/16x9-big/die-linke-logo-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
+      "id": "04b5f5bb26b012dc",
+      "guid": "bf17fa9f-67ce-44db-a9fd-b91377ee5f94",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/extremismus-linke-afd-100.html",
+      "title": "AfD und Linke: Warum Extremismus-Vergleiche zu kurz greifen",
+      "excerpt": "SPD und Grüne laufen Sturm gegen die Gleichsetzung von AfD und der Linken durch CDU und CSU. Experten betonen deutliche Unterschiede, vor allem bei Ideologie und Bewertung des Verfassungsschutzes. Von Jürgen P. Lang.",
+      "published": "2026-11-02T14:09:31.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/34ca17ee-d2c9-4304-bb3c-874e044324fd/AAABoYzc8Eo/AAABnSSvrFg/16x9-big/deutschlandtag-jungen-union-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
+      "id": "5c63f6bb903e4b46",
+      "guid": "43a5ca86-c4a3-4a15-89de-557e9d20a7c4",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html",
+      "title": "Ministerin Reiche legt ersten Entwurf für Spritpreisdeckel-Gesetz vor",
+      "excerpt": "Wirtschaftsministerin Reiche ist keine Befürworterin eines Spritpreisdeckels. Doch die Koalition will das Instrument einführen. Nun liegt ein erster Gesetzentwurf ihres Ministeriums vor. Er beschreibt, wann der Spritpreisdeckel gelten soll und wann nicht.",
+      "published": "2026-11-02T14:03:56.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/cf5a8317-6f6d-4d52-8005-d01621cc19e2/AAABoZwyatQ/AAABnSSvrFg/16x9-big/tankstelle-394.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
+      "id": "a3a6e4bc3c72e1bc",
+      "guid": "fc74a2bc-dc44-423d-8e8a-7ddd610312e4",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html",
+      "title": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
+      "excerpt": "Cyberkriminelle haben offenbar wieder Supermärkte angegriffen. Sie sorgten besonders in Belgien und Schweden dafür, dass Kühlschränke und Tiefkühltruhen wärmer wurden. Es ist nicht das erste Mal.",
+      "published": "2026-11-02T13:18:52.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/9ee3a479-39fe-4adb-ab99-efee3f8f9598/AAABoZwkqqE/AAABnSSvrFg/16x9-big/cyberangriff-supermarkt-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
+      "id": "b7946eef8d836c39",
+      "guid": "62954770-55c7-4a40-a657-07e73e284270",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html",
+      "title": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
+      "excerpt": "Der Mangel an Wohnraum und die hohen Mieten verhindern die berufliche Mobilität und erschweren Unternehmen die Suche nach Fachkräften. Experten fordern deshalb mehr Anreize für den Wohnungsbau.",
+      "published": "2026-11-02T13:15:24.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5b1fcf4c-01cb-4864-b845-5b8430e7b68d/AAABoGcBfD4/AAABnSSvrFg/16x9-big/wohnhaeuser-128.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
       "id": "053e551d7ab72e84",
       "guid": "tagesschau_fm-story-WDR-9f53178a-fc86-40ef-baeb-1a83893d318f",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/soest-misshandlung-prozess-100.html",

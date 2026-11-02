@@ -3,6 +3,72 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "f27a71977930ceb5",
+      "guid": "https://globalnews.ca/?p=12129845",
+      "link": "https://globalnews.ca/news/12129845/spain-train-collision-canadian/",
+      "title": "Canadian national, 4 Americans among 69 dead in Spain train collision",
+      "excerpt": "Other foreigners among the fatalities who have been identified include one each from France, Japan, Argentina, Mexico, Portugal, Tunisia and the Czech Republic.",
+      "published": "2026-11-02T14:22:01.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Spain-train-collision-Canadian.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
+      "id": "2ce843e4e1b855f0",
+      "guid": "https://globalnews.ca/?p=12129831",
+      "link": "https://globalnews.ca/news/12129831/europe-freezer-hack/",
+      "title": "Supermarket freezers in 4 European countries hit by apparent cyberattack",
+      "excerpt": "The problems follow a case last month in which attackers remotely took control of refrigeration systems in hundreds of supermarkets across France, sending temperatures soaring.",
+      "published": "2026-11-02T14:13:09.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Europe-freezer-hack.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
+      "id": "a3721792f65f26b9",
+      "guid": "https://globalnews.ca/?p=12129802",
+      "link": "https://globalnews.ca/news/12129802/highway-401-thickson-road-crash/",
+      "title": "Kingston, Ont. woman dead after fiery 3-vehicle crash on Highway 401",
+      "excerpt": "Two of the vehicles involved in the crash burst into flames, and the 43-year-old woman was pronounced dead at the scene. Two others were taken to hospital with minor injuries.",
+      "published": "2026-11-02T13:32:14.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/07/OPP-cruiser-e1783694317226.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
+      "id": "df072cb8aab482e1",
+      "guid": "https://globalnews.ca/?p=12129798",
+      "link": "https://globalnews.ca/news/12129798/carney-commonwealth-meeting/",
+      "title": "Carney to meet with King Charles and Commonwealth heads of government",
+      "excerpt": "Commonwealth members include large countries like the United Kingdom, Australia, India and Nigeria, and many of the world’s smallest countries, such as Tuvalu.",
+      "published": "2026-11-02T13:27:53.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Commonwealth-meeting.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
+      "id": "bb649d3f0a9a8da4",
+      "guid": "https://globalnews.ca/?p=12122972",
+      "link": "https://globalnews.ca/news/12122972/canadian-woman-isis-syria-trial/",
+      "title": "Canadian woman caught in Syria on trial over alleged role in ISIS",
+      "excerpt": "The case against Ammara Amjad is the first terrorism prosecution of a Canadian woman accused of living under ISIS.",
+      "published": "2026-11-02T13:20:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/GettyImages-1128302833.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
+      "id": "60c19f8d3d34cff0",
+      "guid": "https://globalnews.ca/?p=12129795",
+      "link": "https://globalnews.ca/news/12129795/western-canada-time-change/",
+      "title": "Parents cheer, businesses brace as Western Canada ditches the time change",
+      "excerpt": "Canadians woke up Sunday to a new time zone map after B.C., Alberta, Manitoba, northwestern Ontario and the Northwest Territories opted to stay on daylight time year-round",
+      "published": "2026-11-02T13:18:21.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/353e19f2c893d4d0299f01bfd7822fc3dcddf7c6db6a93438db6c71dc7a341e7.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-02T14:27:32.261Z"
+    },
+    {
       "id": "edaeee9c8bca62cb",
       "guid": "https://globalnews.ca/?p=12129789",
       "link": "https://globalnews.ca/news/12129789/osap-applications-ip-address/",
