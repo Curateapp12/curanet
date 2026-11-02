@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "1106e07fe534cfb7",
+      "guid": "ce64d8c5-55dd-4e3e-96c7-ec22c0d3cc2b",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html",
+      "title": "Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner",
+      "excerpt": "Der Kampf um den Senatssitz für den US-Bundesstaat Michigan ist eng. Nun könnte das Rennen noch spannender werden. Denn eine prominente Demokratin unterstützt nun den Spitzenkandidaten der Republikaner. Der fühlt sich geehrt. Auch Trump freut sich.",
+      "published": "2026-11-02T07:25:06.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/fd60d5c2-d6bf-45f8-b4a2-3ed68fea61cc/AAABoZsMtLs/AAABnSSvrFg/16x9-big/stevens-michigan-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T07:32:47.134Z"
+    },
+    {
+      "id": "a69e50ca8953c29d",
+      "guid": "94260678-0917-480a-a74f-6b810786843c",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
+      "title": "Marktbericht: DAX dürfte mit Gewinnen in den November starten",
+      "excerpt": "Nach den Kursverlusten am vergangenen Freitag dürfte der DAX heute wieder zulegen. In dieser Woche stehen vor allem die US-Wahlen im Fokus, doch auch die Bilanzsaison kann für Impulse sorgen.",
+      "published": "2026-11-02T06:39:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2609e1b0-d1f0-4c7b-b37c-1557eb7b88f2/AAABn8telGg/AAABnSSvrFg/16x9-big/boerse-536.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T07:32:47.134Z"
+    },
+    {
+      "id": "3fa9f977f4d70a9c",
+      "guid": "f61e49ee-1a11-47e6-9628-26210b30d779",
+      "link": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
+      "title": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
+      "excerpt": "Vor Angriffen warnt die Ukraine die Bevölkerung per App. Doch dabei gibt es nun ein Problem: Die App wurde gehackt, in Kiew wurde fälschlicherweise vor \"Gefahr durch Strahlung\" gewarnt. Auch Russland meldet einen Angriff auf seine Warn-App.",
+      "published": "2026-11-02T06:35:32.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1e0de475-12a6-4cff-bf9e-f8e9178bf201/AAABoIjH-p4/AAABnSSvrFg/16x9-big/kiew-538.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T07:32:47.134Z"
+    },
+    {
+      "id": "242d2b11f523b25f",
+      "guid": "db6d0dd2-a1e7-49be-a2f2-6df57b3211cc",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-demokraten-republikaner-100.html",
+      "title": "Was das Rennen bei den Midterms entscheiden könnte",
+      "excerpt": "Umfragen deuten darauf hin, dass die Demokraten bei den Midterms das Repräsentantenhaus zurückerobern. Gelingt das auch im Senat? Es wird wohl auf besonders umkämpfte Bundesstaaten ankommen. Von Jörg Schönenborn.",
+      "published": "2026-11-02T06:11:04.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1bb75ddf-a0b1-4ba6-8963-8976d2a2fecb/AAABoZgpxQI/AAABnSSvrFg/16x9-big/midterms-waehlerin-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T07:32:47.134Z"
+    },
+    {
       "id": "a1f60f2eb9ca21c0",
       "guid": "324ffb71-2a0b-4292-9674-956c61bf4e80",
       "link": "https://www.tagesschau.de/podcast-11km-3998.html",
