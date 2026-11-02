@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "5f613c8a0e245da4",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10799808/pompiers-souhaitent-gicleurs-dans-tous-nouveaux-logements",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10799808/pompiers-souhaitent-gicleurs-dans-tous-nouveaux-logements",
+      "title": "Les pompiers souhaitent des gicleurs dans tous les nouveaux logements",
+      "excerpt": "L’Association des chefs pompiers du Nouveau-Brunswick avance qu’installer des gicleurs dans toutes les nouvelles résidences réduirait les risques d’incendie.",
+      "published": "2026-11-02T23:22:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-margaud-feu-gigleur.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T23:43:58.624Z"
+    },
+    {
       "id": "3ff94aafc89bc3d7",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297595/detection-radon-maisons-nouveau-brunswick",
       "link": "https://ici.radio-canada.ca/nouvelle/2297595/detection-radon-maisons-nouveau-brunswick",
@@ -212,6 +223,17 @@
       "addedAt": "2026-10-31T17:39:36.609Z"
     },
     {
+      "id": "405b86f65517e777",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-grande-jasette/segments/rattrapage/2512663/grande-jasette-sebastien-michaud",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-grande-jasette/segments/rattrapage/2512663/grande-jasette-sebastien-michaud",
+      "title": "Sébastien Michaud : de Beresford aux grands projets musicaux",
+      "excerpt": "Le multi-instrumentiste et directeur musical Sébastien Michaud revient sur son parcours personnel et artistique. De son enfance à Beresford jusqu’à ses projets d’envergure, en passant par sa passion pour le squash, il partage ses souvenirs et ses influences.",
+      "published": "2026-10-31T15:06:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sebastien-michaud-multi-instrumentiste-beresford-musique.png",
+      "type": "article",
+      "addedAt": "2026-11-02T23:43:58.624Z"
+    },
+    {
       "id": "2e2c3d4568ce20bd",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297276/surdoses-fredericton-toxicomanie-",
       "link": "https://ici.radio-canada.ca/nouvelle/2297276/surdoses-fredericton-toxicomanie-",
@@ -287,6 +309,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/christopher-labillois.jpeg",
       "type": "article",
       "addedAt": "2026-10-30T22:45:09.203Z"
+    },
+    {
+      "id": "5d71d8f729184536",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2517070/prevenir-maladie-alzheimer-lancement-programme-sante-cerveau-pro",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2517070/prevenir-maladie-alzheimer-lancement-programme-sante-cerveau-pro",
+      "title": "Santé Cerveau PRO : prévenir le déclin cognitif",
+      "excerpt": "Près de 150 chercheurs canadiens ont élaboré Santé Cerveau PRO, un programme gratuit destiné aux 50 ans et plus à risque de déclin cognitif.",
+      "published": "2026-10-30T20:15:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sante-cerveau-pro-declin-cognitif.png",
+      "type": "article",
+      "addedAt": "2026-11-02T23:43:58.624Z"
     },
     {
       "id": "ecf8aeeb339c3225",
