@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "91efa3c37744c3b5",
+      "guid": "06f94ca5-7c39-4213-aa72-fdbd7cfe83cf",
+      "link": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html",
+      "title": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
+      "excerpt": "Lange hatte er sich bedeckt gehalten - nun hat sich Kanzler Merz darauf festgelegt, dass eine Frau auf Bundespräsident Steinmeier folgen soll. Er kündigte an, eine Kandidatin der politischen Mitte vorzuschlagen.",
+      "published": "2026-11-02T17:58:15.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a36daf46-80c0-4aed-a8c4-104c19a43449/AAABoZyaaIc/AAABnSSvrFg/16x9-big/merz-1776.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
+      "id": "4ed1c9b0113fb5cb",
+      "guid": "tagesschau_fm-story-id-c7f390aa-1161-439e-99bf-1337519f7f21",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/juedische-akademie-frankfurt-100.html",
+      "title": "Jüdische Akademie in Frankfurt eröffnet",
+      "excerpt": "Mit der Jüdischen Akademie eröffnet der Zentralrat der Juden in Frankfurt erstmals nach der Shoah eine überregionale Bildungseinrichtung. Bundespräsident Steinmeier nutzte seine Rede für einen Appell, den Kampf gegen Antisemitismus zu verstärken.",
+      "published": "2026-11-02T17:50:18.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/825932d1-e565-45d6-9b37-dce105b8c545/AAABoZ1Z_o8/AAABnSSvrFg/16x9-big/steinmeier-apel-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
+      "id": "29bdddc9153087e8",
+      "guid": "b8288188-e711-4f31-9f3b-57094bfb2b79",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-stores-fanshop-100.html",
+      "title": "Handel mit Merchandise: Nicht mehr viel los im Trump-Shop",
+      "excerpt": "Fanartikel von Trump waren einmal ein gutes Geschäft in den USA. Im ganzen Land eröffneten Shops, in denen es Devotionalien aller Art gab - nicht nur die bekannten roten MAGA-Mützen. Wie läuft das Geschäft inzwischen? Von C. Kühntopp.",
+      "published": "2026-11-02T17:24:23.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/fcf56635-dd2a-4165-ab21-9dbdd9ec3d80/AAABoYreB5A/AAABnSSvrFg/16x9-big/trump-store-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
+      "id": "4857233c6081fa4c",
+      "guid": "ddb04281-a003-49fc-ae71-3d1007baff16",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html",
+      "title": "Koalitionsverhandlungen in Berlin: Das Rumoren in der SPD",
+      "excerpt": "In Berlin haben die Koalitionsverhandlungen zwischen Linken, Grünen und SPD begonnen. In der SPD gibt es weiterhin Vorbehalte - unter anderem bei Bundespolitikern wie Boris Pistorius und Karl Lauterbach. Von Anne-Katrin Mellmann.",
+      "published": "2026-11-02T17:22:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6ce16fe9-c887-4aec-b0f8-c8818e938aee/AAABoZ1IQHk/AAABnSSvrFg/16x9-big/berlin-koalition-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
       "id": "21b5123906dc0a1e",
       "guid": "4fd33d70-1f17-4de6-9e01-66e47273d863",
       "link": "https://www.tagesschau.de/inland/hubig-sexualstrafrecht-102.html",

@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "e8945fbadbc13ca7",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297550/morts-accident-avion-floride",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297550/morts-accident-avion-floride",
+      "title": "Neuf morts dans un accident d’avion, près de Palm Beach, en Floride",
+      "excerpt": "L'avion d'affaire s'est écrasé près d'un quartier résidentiel brutalement comme « un missile ».",
+      "published": "2026-11-02T17:43:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/accident-explosion-floride-jet.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
+      "id": "9448e204518ed5d9",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec",
+      "title": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
+      "excerpt": "Le premier tête-à-tête entre les deux PM se fait attendre, près d'un mois après l'élection du chef péquiste.",
+      "published": "2026-11-02T17:35:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-premier-ministre-ottawa-politique-gouvernement.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
       "id": "d37deaf5a5e0de42",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297546/mine-windfall-cis-construction-baie-james",
       "link": "https://ici.radio-canada.ca/nouvelle/2297546/mine-windfall-cis-construction-baie-james",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/gold-fields-baie-james-projet-windfall-entree.jpg",
       "type": "article",
       "addedAt": "2026-11-02T17:10:19.150Z"
+    },
+    {
+      "id": "e31c1d4a3432ec1d",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297529/isle-aux-coudres-etat-urgence-traversier-bris-service",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297529/isle-aux-coudres-etat-urgence-traversier-bris-service",
+      "title": "Sans traversier, L’Isle-aux-Coudres déclare l’état d’urgence",
+      "excerpt": "La municipalité est sans traversier depuis dimanche matin en raison d’un bris sur le NM Joseph-Savard.",
+      "published": "2026-11-02T16:05:38.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/nm-joseph-savard-interruption-saint-joseph-rive.png",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
     },
     {
       "id": "52e08431e8fbf6bd",

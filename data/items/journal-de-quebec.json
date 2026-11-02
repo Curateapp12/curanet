@@ -3,6 +3,50 @@
   "sourceId": "journal-de-quebec",
   "items": [
     {
+      "id": "1fb15410dfb0eff1",
+      "guid": "https://www.journaldequebec.com/2026/10/31/4000--pour-lintervention-des-pompiers-saguenay-annule-la-facture-dune-automobiliste",
+      "link": "https://www.journaldequebec.com/2026/10/31/4000--pour-lintervention-des-pompiers-saguenay-annule-la-facture-dune-automobiliste",
+      "title": "4000 $ pour l’intervention des pompiers: Saguenay annule la facture d’une automobiliste",
+      "excerpt": "La Ville de Saguenay a finalement annulé sa facture de 4000 $ adressée à une automobiliste qui avait contacté le 9-1-1 pour éviter un accident",
+      "published": "2026-11-02T16:30:00.000Z",
+      "thumbnail": "https://m1.quebecormedia.com/emp/emp/487e9920-b865-11f1-b4db-ef1f2f3be5db_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=3000&h=2544&width=1440",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
+      "id": "3ebcd6c3081738ad",
+      "guid": "https://www.journaldequebec.com/2026/11/02/la-caricature-dygreck",
+      "link": "https://www.journaldequebec.com/2026/11/02/la-caricature-dygreck",
+      "title": "La caricature d’Ygreck",
+      "excerpt": "",
+      "published": "2026-11-02T16:30:00.000Z",
+      "thumbnail": "https://m1.quebecormedia.com/emp/emp/Trump_Mid_terms_copie29433b39-000b-4add-be1a-1853e582bf06_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1710&h=1193&width=1440",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
+      "id": "445e5c65e6d8d870",
+      "guid": "https://www.journaldequebec.com/2026/11/02/la-revolution-pspp",
+      "link": "https://www.journaldequebec.com/2026/11/02/la-revolution-pspp",
+      "title": "La révolution PSPP",
+      "excerpt": "Le premier ministre du Québec a changé les règles du jeu",
+      "published": "2026-11-02T16:30:00.000Z",
+      "thumbnail": "https://m1.quebecormedia.com/emp/emp/file_4_mosaique374375d4-dd12-4746-9023-04019b5dad87_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=600&h=420&width=1440",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
+      "id": "6c40e7350e3aa694",
+      "guid": "https://www.journaldequebec.com/2026/11/02/deux-jeunes-hommes-accuses-davoir-commis-un-meurtre-en-pleine-rue-a-la-sortie-dun-bar-de-karaoke",
+      "link": "https://www.journaldequebec.com/2026/11/02/deux-jeunes-hommes-accuses-davoir-commis-un-meurtre-en-pleine-rue-a-la-sortie-dun-bar-de-karaoke",
+      "title": "Deux jeunes hommes accusés d'avoir commis un meurtre en pleine rue à la sortie d’un bar de karaoké",
+      "excerpt": "Deux hommes sont accusés du meurtre d’un jeune individu tabassé à mort et abandonné en pleine rue à la sortie d’un bar de karaoké de Montréal.",
+      "published": "2026-11-02T16:30:00.000Z",
+      "thumbnail": "https://m1.quebecormedia.com/emp/emp/8170bd60-d469-11f1-9fa4-6f723fde6884_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=5697&h=3933&width=1440",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
+    },
+    {
       "id": "d7cbc7f1f4853730",
       "guid": "https://www.journaldequebec.com/2026/11/02/le-souffle-ne-leve-plus-pour-trump-un-tremblement-de-terre-democrate-au-senat-mardi",
       "link": "https://www.journaldequebec.com/2026/11/02/le-souffle-ne-leve-plus-pour-trump-un-tremblement-de-terre-democrate-au-senat-mardi",
@@ -56,6 +100,17 @@
       "thumbnail": "https://m1.quebecormedia.com/emp/emp/7af44b61-af7b-499c-b2b5-11937eadcfdc_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1920&h=1080&width=1440",
       "type": "article",
       "addedAt": "2026-11-02T16:06:38.824Z"
+    },
+    {
+      "id": "60f4fb5284891a86",
+      "guid": "https://www.journaldequebec.com/2026/11/02/lisle-aux-coudres-coupee-du-monde-le-traversier-hors-service-depuis-pres-de-24-heures",
+      "link": "https://www.journaldequebec.com/2026/11/02/lisle-aux-coudres-coupee-du-monde-le-traversier-hors-service-depuis-pres-de-24-heures",
+      "title": "L’Isle-aux-Coudres coupée du monde: le traversier hors service depuis plus de 24 heures",
+      "excerpt": "Le traversier qui relie l’île à Saint-Joseph-de-la-Rive est en panne depuis dimanche matin.",
+      "published": "2026-11-02T13:49:31.000Z",
+      "thumbnail": "https://m1.quebecormedia.com/emp/emp/AdobeStock_568375904a28c4657-4270-4ba1-ac4b-7aa32310b2b9_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=6000&h=4000&width=1440",
+      "type": "article",
+      "addedAt": "2026-11-02T18:01:51.547Z"
     },
     {
       "id": "48ae2d81be81cd4d",
