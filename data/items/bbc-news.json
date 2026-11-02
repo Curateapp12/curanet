@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "8f71e25ca9711ee5",
+      "guid": "https://www.bbc.co.uk/news/articles/c3j47g4kk1npo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c3j47g4kk1npo",
+      "title": "Inquiries continue after Halloween party stabbings",
+      "excerpt": "Three boys aged 16 and two aged 17 were taken to hospital with serious injuries on Saturday night.",
+      "published": "2026-11-02T09:53:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f0/live/47c962c0-d689-11f1-b7fe-13bd08d80ad6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T10:13:41.657Z"
+    },
+    {
+      "id": "e9253f3ddd5b667a",
+      "guid": "https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o",
+      "title": "Lifestyle guru Martha Stewart says she 'really screwed up' with homeless Halloween costume",
+      "excerpt": "The veteran lifestyle guru has deleted a photo of herself wearing torn clothes and dirt on her face.",
+      "published": "2026-11-02T09:36:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a899/live/180b3300-d69e-11f1-aabc-e9dc7201ad53.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T10:13:41.657Z"
+    },
+    {
       "id": "155abfa93b1ee3fc",
       "guid": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#5",
       "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do",
@@ -67,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a0/live/adc52480-d470-11f1-b441-2b33b063138f.jpg",
       "type": "article",
       "addedAt": "2026-11-02T07:32:47.134Z"
+    },
+    {
+      "id": "f31d4ed3d18fc150",
+      "guid": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#2",
+      "link": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o",
+      "title": "Why Scottish football is struggling to produce young talent",
+      "excerpt": "Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.",
+      "published": "2026-11-02T06:05:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T10:13:41.657Z"
     },
     {
       "id": "f5d866adc2162307",
