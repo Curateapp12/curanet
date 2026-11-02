@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "7398c8fe0a0b90c3",
+      "guid": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "excerpt": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+      "published": "2026-11-02T12:47:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-02T13:15:22.556Z"
+    },
+    {
       "id": "e52f7534557dbc27",
       "guid": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
       "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",

@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "1a2a728a78f3d8d8",
+      "guid": "https://www.bbc.co.uk/news/articles/c65ynd5y102lo#5",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynd5y102lo",
+      "title": "Train attacker said 'I am the baddest', trial hears",
+      "excerpt": "Police responded to fears about Anthony Williams on a train the day before the attack, jurors hear.",
+      "published": "2026-11-02T13:10:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a4b/live/1d35c680-d2f5-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T13:15:22.556Z"
+    },
+    {
+      "id": "a55f070c0e4acbf6",
+      "guid": "https://www.bbc.co.uk/news/articles/cqn06n30l406o#5",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06n30l406o",
+      "title": "Baby among four killed in bomb attack in western Colombia, official says",
+      "excerpt": "It is not yet clear who was behind the attack, which appears to have targeted a military base.",
+      "published": "2026-11-02T12:52:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e32/live/fa815d50-d6b6-11f1-aacc-5b5f23abff4b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T13:15:22.556Z"
+    },
+    {
       "id": "449dcd1abf8fe573",
       "guid": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#1",
       "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
@@ -958,6 +980,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg",
       "type": "article",
       "addedAt": "2026-11-01T01:14:26.443Z"
+    },
+    {
+      "id": "40ebbe5a101d786f",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0033vld?at_mid=Rz7rKyFuqA&at_campaign=Oasis_Live_at_Manchester_City_Stadium&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0033vld&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Oasis_Live_at_Manchester_City_Stadium&at_bbc_team=BBC#8",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0033vld?at_audience_id=SS&at_bbc_team=BBC&at_brand=m0033vld&at_campaign_type=owned&at_format=image&at_link_title=Oasis_Live_at_Manchester_City_Stadium&at_mid=Rz7rKyFuqA&at_nation=NET&at_objective=consumption&at_product=iplayer&at_ptr_name=bbc&at_ptr_type=media",
+      "title": "The iconic 2005 Oasis concert from the City of Manchester Stadium",
+      "excerpt": "One of the world's biggest touring bands pulls out all the stops on their 2005 world tour.",
+      "published": "2026-11-01T00:07:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5696/live/e7cfeef0-d48c-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-02T13:15:22.556Z"
     },
     {
       "id": "aca0407341a07117",
