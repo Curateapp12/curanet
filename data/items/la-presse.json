@@ -3,6 +3,50 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "e142f973d2aad8db",
+      "guid": "1b6bc9b353613f3495d736dadce5d2be",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-03/transports-en-direct/aucun-probleme-a-signaler.php",
+      "title": "Transports en direct | Aucun problème à signaler",
+      "excerpt": "Quelque chose à signaler sur les routes ou sur les rails ? La Presse examine le réseau en cette heure de pointe matinale et précise la couleur des feux de circulation.",
+      "published": "2026-11-03T10:59:01.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/3ceb8a55b4f23b3fa8f34cfeac33c3da.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T10:59:31.236Z"
+    },
+    {
+      "id": "c16b8413dd8f0cd4",
+      "guid": "04e37f037b163322ac75849553bd5b39",
+      "link": "https://www.lapresse.ca/actualites/2026-11-03/ce-qu-on-suit-ce-mardi/elections-de-mi-mandat-bloc-quebecois-canadien.php",
+      "title": "Ce qu’on suit ce mardi | Élections de mi-mandat, Bloc québécois, Canadien",
+      "excerpt": "Voici les évènements au programme aujourd’hui.",
+      "published": "2026-11-03T10:58:14.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0068e1557375387da4185bcace058373.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T10:59:31.236Z"
+    },
+    {
+      "id": "087d9beac84e5b3f",
+      "guid": "4000475af9c83d219892f966aa953b92",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-03/rencontre-entre-carney-et-st-pierre-plamondon/un-casse-tete-logistique-entre-ottawa-et-quebec.php",
+      "title": "Rencontre entre Carney et St-Pierre Plamondon | Un casse-tête logistique entre Ottawa et Québec",
+      "excerpt": "Quand aura lieu le premier tête-à-tête entre le premier ministre Mark Carney et son homologue du Québec, Paul St-Pierre Plamondon ? Et où aura lieu la rencontre ?",
+      "published": "2026-11-03T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/52e61ffb9aee3790808010b4596cb27f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T10:59:31.236Z"
+    },
+    {
+      "id": "a2f27f5db5179016",
+      "guid": "f1555b01b3db3868b2a469bbcfd2bc73",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-03/cameras-et-lecteurs-de-plaques/le-spvm-muscle-son-reseau-de-surveillance.php",
+      "title": "Caméras et lecteurs de plaques | Le SPVM muscle son réseau de surveillance",
+      "excerpt": "La police va doubler le nombre de ses caméras de surveillance à Montréal et installer des dizaines de lecteurs automatiques de plaques d’immatriculation, malgré les controverses soulevées par cette technologie aux États-Unis.",
+      "published": "2026-11-03T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/bf9eadb0e0fc3643a9c88002d23bea19.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T10:59:31.236Z"
+    },
+    {
       "id": "33128650b21903c1",
       "guid": "e88f7073c8163c8382edc8ea3819d08e",
       "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-02/attaque-au-vehicule-belier-a-vancouver/l-accuse-dans-l-attentat-de-lapu-lapu-plaide-non-coupable.php",
