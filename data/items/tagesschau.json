@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "bb9a2dabc5b20ed3",
+      "guid": "6eae0ef7-d6aa-415a-b818-9660e8f5cfe6",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+      "title": "Liveblog zu den Midterms: ++ US-Bürger wählen neuen Kongress ++",
+      "excerpt": "Republikaner oder Demokraten - wer überzeugt mehr? In den USA finden heute die Zwischenwahlen statt, ein wichtiger Gradmesser für Trumps Politik. Weltweit wird der Ausgang der Wahl mit Spannung erwartet - die Entwicklungen hier im Liveblog.",
+      "published": "2026-11-03T07:13:43.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d775fd00-1fc3-49de-88a2-37912a1b02cb/AAABoaAmjE8/AAABnSSvrFg/16x9-big/us-zwischenwahl-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T07:16:52.170Z"
+    },
+    {
+      "id": "ba8b3cdf88b8000f",
+      "guid": "f5e756f1-3f45-413b-a226-4dff465c0bd5",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-streik-100.html",
+      "title": "Warum Tschechiens Rundfunk heute streikt",
+      "excerpt": "In Tschechien streikt der öffentlich-rechtliche Rundfunk. Grund: ein Gesetz, das die Rundfunkgebühr abschafft - und den Rundfunk vom Staat finanzieren soll. Kritiker fürchten um die Unabhängigkeit der Berichterstattung. Von K. Peetz.",
+      "published": "2026-11-03T06:19:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a9d2ddd9-5d19-41ad-8edc-73d69d4c49df/AAABoZ-0Abw/AAABnSSvrFg/16x9-big/proteste-prag-110.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T07:16:52.170Z"
+    },
+    {
+      "id": "169b4d269a584366",
+      "guid": "bd0e6467-0001-4361-b1d7-1c512b4a33bc",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
+      "title": "Marktbericht: DAX fällt vor US-Midterms wohl zurück",
+      "excerpt": "Vor den US-Zwischenwahlen sind die Anleger nervös, der DAX dürfte zum Handelsstart zurückfallen. Auch die Quartalsbilanz von Apple ist Gesprächsthema am Markt. Der Ausblick enttäuschte die Erwartungen.",
+      "published": "2026-11-03T06:19:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/9bd5bc24-38f8-4a9b-9b45-4cf4d573875a/AAABm-SuQrw/AAABnSSvrFg/16x9-big/boerse-478.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T07:16:52.170Z"
+    },
+    {
       "id": "8d6b1f159db1120e",
       "guid": "65136c16-62e8-4c7e-8649-434d38dcc03b",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
