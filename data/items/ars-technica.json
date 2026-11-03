@@ -3,6 +3,39 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "6e52bc4c45b140de",
+      "guid": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "excerpt": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "published": "2026-11-03T16:03:13.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T17:02:12.488Z"
+    },
+    {
+      "id": "d90dbf7591c1a5df",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+      "excerpt": "Meta faces pressure to protect No Kings Instagram on election day.",
+      "published": "2026-11-03T15:39:30.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T17:02:12.488Z"
+    },
+    {
+      "id": "8ec8eb5dfa462410",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+      "title": "EPA throws in the towel on policing air pollution from factory farms",
+      "excerpt": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
+      "published": "2026-11-03T14:49:00.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T17:02:12.488Z"
+    },
+    {
       "id": "fbd0eff8d1e793c2",
       "guid": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
       "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
