@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "01521fff24ab8add",
+      "guid": "https://ici.radio-canada.ca/sports/2297991/mondial-junior-hockey-mark-carney-russie",
+      "link": "https://ici.radio-canada.ca/sports/2297991/mondial-junior-hockey-mark-carney-russie",
+      "title": "Mondial junior de hockey : Mark Carney annonce que la Russie ne sera pas admise",
+      "excerpt": "Le Championnat mondial de hockey junior débutera le 26 décembre à Edmonton et Red Deer, en Alberta.",
+      "published": "2026-11-03T23:30:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-93831.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T23:46:26.885Z"
+    },
+    {
       "id": "0b809825f3ecd219",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297927/accident-train-espagne-ministre-transport-demission",
       "link": "https://ici.radio-canada.ca/nouvelle/2297927/accident-train-espagne-ministre-transport-demission",
@@ -12,6 +23,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/oscar-puente.jpg",
       "type": "article",
       "addedAt": "2026-11-03T22:52:13.712Z"
+    },
+    {
+      "id": "05a5aa7a7eb9a04a",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297951/denis-dubois-desjardins-virement-interac-double",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297951/denis-dubois-desjardins-virement-interac-double",
+      "title": "Virements doublés : « On ne souhaite pas que ça se reproduise », dit le PDG de Desjardins",
+      "excerpt": "Denis Dubois assure que ses équipes feront un examen au cours des prochains jours.",
+      "published": "2026-11-03T22:00:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/denis-dubois.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-03T23:46:26.885Z"
     },
     {
       "id": "257892f2251346e6",
@@ -56,6 +78,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/camera-genetec-flock-riviere-des-prairies-82344.jpg",
       "type": "article",
       "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
+      "id": "6d47a14f7601a64c",
+      "guid": "https://ici.radio-canada.ca/info/long-format/2296294/etats-unis-resultats-elections-mi-mandat-2026",
+      "link": "https://ici.radio-canada.ca/info/long-format/2296294/etats-unis-resultats-elections-mi-mandat-2026",
+      "title": "Suivez les résultats des élections de mi-mandat aux États-Unis",
+      "excerpt": "435 postes de représentants, 35 de sénateurs et 39 de gouverneurs sont en jeu dans ce rendez-vous électoral.",
+      "published": "2026-11-03T18:28:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/capitol-mi-mandat.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T23:46:26.885Z"
     },
     {
       "id": "fc2ac3670a15c82b",
