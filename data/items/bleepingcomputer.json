@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "b0a8ea5b69867de6",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "excerpt": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+      "published": "2026-11-03T22:18:50.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-03T22:52:13.712Z"
+    },
+    {
       "id": "27b11b6379190f00",
       "guid": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
       "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
