@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "d64002218200472e",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/point-du-jour/segments/rattrapage/2519725/bilan-saison-roughriders",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/point-du-jour/segments/rattrapage/2519725/bilan-saison-roughriders",
+      "title": "Une saison décevante pour les Roughriders?",
+      "excerpt": "Avec la saison 2026 qui a pris fin samedi dernier pour les Roughriders de la Saskatchewan, à la suite de leur défaite contre les Lions de la Colombie-Britannique, l’heure est maintenant au bilan.",
+      "published": "2026-11-03T13:07:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/corey-mace-roughriders-saskatchewan-football--76205.png",
+      "type": "article",
+      "addedAt": "2026-11-03T15:58:31.459Z"
+    },
+    {
       "id": "38b5ba676241356c",
       "guid": "https://ici.radio-canada.ca/sports/2297741/norvege-finlande-boycott-russie-hockey",
       "link": "https://ici.radio-canada.ca/sports/2297741/norvege-finlande-boycott-russie-hockey",
@@ -56,6 +67,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/nikita-kucherov-lightning-canadiens.jpg",
       "type": "article",
       "addedAt": "2026-11-02T23:43:58.624Z"
+    },
+    {
+      "id": "a56e23ed7c8909e5",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/fin-pm/segments/rattrapage/2518931/deux-trifluviens-champions-monde-arts-martiaux",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/fin-pm/segments/rattrapage/2518931/deux-trifluviens-champions-monde-arts-martiaux",
+      "title": "Deux champions du monde en sport de combat dans la région",
+      "excerpt": "Près de 1000 athlètes en provenance de 18 pays se sont affrontés la semaine dernière en Espagne. Deux compétiteurs de la région se sont illustrés en Point Fight, un sport lié au karaté.",
+      "published": "2026-11-02T23:27:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/emile-tremblay-competition-mondiale-point-fight.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T15:58:31.459Z"
     },
     {
       "id": "ae17db18602f52c1",

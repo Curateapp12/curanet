@@ -3,6 +3,50 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "8beb86139002342c",
+      "guid": "https://globalnews.ca/?p=12130577",
+      "link": "https://globalnews.ca/news/12130577/man-sentenced-to-15-years-for-role-in-killing-naramata-woman/",
+      "title": "Man sentenced to 15 years for role in killing Naramata woman",
+      "excerpt": "More than five years after Kathleen Richardson was killed in her Naramata home, one of the two men responsible for her death has been sentenced to 15 years in prison.",
+      "published": "2026-11-03T15:20:26.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/julie-robertson.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T15:58:31.459Z"
+    },
+    {
+      "id": "61e47ff7b8f35b77",
+      "guid": "https://globalnews.ca/?p=12134303",
+      "link": "https://globalnews.ca/news/12134303/food-insecurity-groceries-affordability/",
+      "title": "Nearly a third of Canadians skipping meals due to food insecurity: survey",
+      "excerpt": "Results from an annual national poverty survey paint a worsening picture of food affordability in Canada, especially for young people.",
+      "published": "2026-11-03T14:52:35.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP176093265-e1793716649660.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T15:58:31.459Z"
+    },
+    {
+      "id": "8c861b9c7e8c9f09",
+      "guid": "https://globalnews.ca/?p=12134307",
+      "link": "https://globalnews.ca/news/12134307/peter-matthews-alexander-knox-pickering-crash/",
+      "title": "Road worker dies after being hit by dump truck in Pickering",
+      "excerpt": "A road worker died Monday after being hit by a dump truck near Peter Matthews and Alexander Knox drives in Pickering, Durham Regional Police say.",
+      "published": "2026-11-03T14:47:42.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/14f0b14d8d209f0b91a6be627eb8d8aa99543552fb5a2e78dd10d68825476033.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T15:58:31.459Z"
+    },
+    {
+      "id": "ab4d4e48892edcc6",
+      "guid": "https://globalnews.ca/?p=12134300",
+      "link": "https://globalnews.ca/news/12134300/stephen-harper-memoir-mark-carney/",
+      "title": "Harper offered Mark Carney government role, new memoir reveals",
+      "excerpt": "The book offers Harper's perspective on his tenure in Canadian politics, from uniting the right under the modern Conservative party through a decade in government.",
+      "published": "2026-11-03T14:38:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/0f5867afb87e550224bc762970d0e260a18b6ee954752d7195ef5b70cb381fd8.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T15:58:31.459Z"
+    },
+    {
       "id": "d087c84ac3c736f1",
       "guid": "https://globalnews.ca/?p=12134274",
       "link": "https://globalnews.ca/news/12134274/military-helicopter-damaged-night-landing-no-injuries/",

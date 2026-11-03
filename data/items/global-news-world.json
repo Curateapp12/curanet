@@ -3,6 +3,50 @@
   "sourceId": "global-news-world",
   "items": [
     {
+      "id": "70cda2d956b0d6ed",
+      "guid": "https://globalnews.ca/?p=12134258",
+      "link": "https://globalnews.ca/news/12134258/jesus-de-miguel-soccer-star-dead-following-on-field-collision/",
+      "title": "30-year-old Spanish soccer star dead following on-field collision",
+      "excerpt": "Jesús de Miguel was challenging for the ball near midfield when he was struck in the chest by the Andorra goalkeeper Jesús Owono during added time.",
+      "published": "2026-11-03T15:55:54.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Jesus-de-Miguel-dead.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T15:58:31.459Z"
+    },
+    {
+      "id": "99e519acb82ed427",
+      "guid": "https://globalnews.ca/?p=12134358",
+      "link": "https://globalnews.ca/news/12134358/stock-markets-midterm-elections/",
+      "title": "Stock markets shaky ahead of U.S. midterm election as Apple faces pressure",
+      "excerpt": "North American stock markets are drifting in mixed trading on Tuesday morning, with Apple dropping sharply in early trading ahead of the U.S. midterm elections.",
+      "published": "2026-11-03T15:45:16.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP177100041-e1793720395907.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T15:58:31.459Z"
+    },
+    {
+      "id": "d0c93201a9e653f7",
+      "guid": "https://globalnews.ca/?p=12134293",
+      "link": "https://globalnews.ca/news/12134293/us-annual-aid-israel-ending-selling-military-hardware/",
+      "title": "U.S. to end $4B annual aid to Israel, switching to selling arms: Trump",
+      "excerpt": "Trump says Israel doesn’t need the aid and it’s a lot of money for the U.S. to spend. But Trump also says that U.S. aid to Israel has become a Democratic talking point.",
+      "published": "2026-11-03T14:25:27.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/8aba5d288b17e026ecaf495bf0279ac10e95cd5dc883caa11bc4806ef5b213ef.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T15:58:31.459Z"
+    },
+    {
+      "id": "2543318529397dc1",
+      "guid": "https://globalnews.ca/?p=12134290",
+      "link": "https://globalnews.ca/news/12134290/mark-carney-antigua-commonwealth-meeting/",
+      "title": "Carney meeting with Commonwealth leaders in Antigua and Barbuda",
+      "excerpt": "Prime Minister Mark Carney is in Antigua and Barbuda today for a meeting of Commonwealth heads of government.",
+      "published": "2026-11-03T14:24:57.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP177200364-e1793715779831.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T15:58:31.459Z"
+    },
+    {
       "id": "c9b1fee7827ed9a1",
       "guid": "https://globalnews.ca/?p=12118698",
       "link": "https://globalnews.ca/news/12118698/australian-tv-reporter-rescues-man-sinking-car-video/",
