@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "41b0e0faf0a25030",
+      "guid": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo",
+      "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
+      "excerpt": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated.",
+      "published": "2026-11-03T01:52:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f668/live/3bd75400-d6dd-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T02:08:04.274Z"
+    },
+    {
+      "id": "5a631c746d84ef9b",
+      "guid": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo",
+      "title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
+      "excerpt": "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.",
+      "published": "2026-11-03T01:49:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9c/live/1d134c40-d6d8-11f1-a701-fddedf244c16.png",
+      "type": "article",
+      "addedAt": "2026-11-03T02:08:04.274Z"
+    },
+    {
       "id": "bd00c40b174e0d2e",
       "guid": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1",
       "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
@@ -34,6 +56,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d9b/live/e575c5c0-d712-11f1-b19c-4d0080e30e42.jpg",
       "type": "article",
       "addedAt": "2026-11-03T01:10:04.424Z"
+    },
+    {
+      "id": "45389c740186d8d2",
+      "guid": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo",
+      "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
+      "excerpt": "Authorities have razed hundreds of houses in a neighbourhood in central Delhi, saying they were built on government land.",
+      "published": "2026-11-03T00:20:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ed/live/39e7bed0-d676-11f1-a806-e976ee8757a1.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T02:08:04.274Z"
+    },
+    {
+      "id": "29aaf9c15c93ccfa",
+      "guid": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "excerpt": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "published": "2026-11-03T00:07:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T02:08:04.274Z"
     },
     {
       "id": "03d3937308f512ab",
