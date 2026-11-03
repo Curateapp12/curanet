@@ -3,6 +3,50 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "ebd1dfe05279f6b9",
+      "guid": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
+      "title": "UK also affected by cyber-attack which hit European supermarket fridges",
+      "excerpt": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+      "published": "2026-11-03T09:43:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T09:59:34.770Z"
+    },
+    {
+      "id": "85c663559f7e5f01",
+      "guid": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo",
+      "title": "Mahmood refuses to detail cost of revised settlement plans",
+      "excerpt": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future.",
+      "published": "2026-11-03T09:31:25.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7457/live/a8002b30-d768-11f1-a956-ff083523ef77.png",
+      "type": "article",
+      "addedAt": "2026-11-03T09:59:34.770Z"
+    },
+    {
+      "id": "dd751d1cadc7c319",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#5",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go",
+      "title": "West Ham sack head coach Nuno Espirito Santo",
+      "excerpt": "West Ham United sack head coach Nuno Espirito Santo after their disappointing start to the Championship season.",
+      "published": "2026-11-03T09:29:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e63/live/690aaf60-d766-11f1-a956-ff083523ef77.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T09:59:34.770Z"
+    },
+    {
+      "id": "aad821ded2b085fb",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#1",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo",
+      "title": "Spanish footballer dies after collision with goalkeeper during match",
+      "excerpt": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
+      "published": "2026-11-03T09:09:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae7/live/95eedac0-d76a-11f1-a956-ff083523ef77.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T09:59:34.770Z"
+    },
+    {
       "id": "ce861fa85f624a43",
       "guid": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo#2",
       "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo",
@@ -111,6 +155,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d46/live/2f770bd0-d6bd-11f1-aacc-5b5f23abff4b.jpg",
       "type": "article",
       "addedAt": "2026-11-03T07:16:52.170Z"
+    },
+    {
+      "id": "9f0977be2562d501",
+      "guid": "https://www.bbc.co.uk/news/articles/cjzxlewk7wzwo#5",
+      "link": "https://www.bbc.co.uk/news/articles/cjzxlewk7wzwo",
+      "title": "Family of girl murdered by ex given law change hope",
+      "excerpt": "The family of Holly Newton, stabbed to death at 15, is told the law will change after their campaigning.",
+      "published": "2026-11-03T06:05:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5725/live/46174130-9866-11ef-8538-e1655f5a8342.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T09:59:34.770Z"
     },
     {
       "id": "fdbe9a642e2102f8",
@@ -364,6 +419,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf47/live/e05ef5c0-d6f4-11f1-93e1-3b657b665bcf.png",
       "type": "article",
       "addedAt": "2026-11-02T23:43:58.624Z"
+    },
+    {
+      "id": "ce4b7c68e9d99ead",
+      "guid": "https://www.bbc.co.uk/news/videos/c6m2dg0d7e8ko#2",
+      "link": "https://www.bbc.co.uk/news/videos/c6m2dg0d7e8ko",
+      "title": "Watch: Trump targets midterm voters with final campaign speech at Reflecting Pool",
+      "excerpt": "In his last public speech before crucial midterm elections, the president gave a detailed recounting of the Washington landmark's troubled renovation.",
+      "published": "2026-11-02T23:02:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f266/live/cd346e50-d710-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T09:59:34.770Z"
     },
     {
       "id": "454c92f00c5f9590",
@@ -7162,6 +7228,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
       "type": "article",
       "addedAt": "2026-10-25T00:48:49.474Z"
+    },
+    {
+      "id": "f9eec94a08865dcb",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkvykz?at_mid=OkMhuP2D0J&at_campaign=Newscast_The_US_Midterms_Unpacked_In_39_Minutes_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_US_Midterms_Unpacked_In_39_Minutes_news_rail&at_bbc_team=BBC&at_creation=News#7",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pkvykz?at_audience_id=SS&at_bbc_team=BBC&at_brand=p05299nl&at_campaign_type=owned&at_creation=News&at_format=image&at_link_title=Newscast_The_US_Midterms_Unpacked_In_39_Minutes_news_rail&at_mid=OkMhuP2D0J&at_nation=NET&at_objective=consumption&at_product=sounds&at_ptr_name=bbc&at_ptr_type=media",
+      "title": "The US Midterms Unpacked In 39 Minutes",
+      "excerpt": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+      "published": "2026-10-25T00:00:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T09:59:34.770Z"
     },
     {
       "id": "d2b313a2ab684042",

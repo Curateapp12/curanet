@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "726b98a48ffdef30",
+      "guid": "769828f1-17d0-458b-bd71-24589a28eca2",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-102.html",
+      "title": "Midterms: \"Entscheidende Wahl für Entwicklung der US-Demokratie\"",
+      "excerpt": "Unter Trump haben die USA eine autoritäre Phase erreicht, sagt der Historiker Manfred Berg. Ob diese Entwicklung weitergehe, hänge von dieser und der Wahl 2028 ab. Doch selbst bei einer Niederlage werde Trump an seinem Politikstil festhalten.",
+      "published": "2026-11-03T09:40:40.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/08dcceb7-adf0-4aae-8686-7da07ddccd35/AAABoaB401w/AAABnSSvrFg/16x9-big/donald-trump-984.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T09:59:34.770Z"
+    },
+    {
+      "id": "6120b8699e3f229b",
+      "guid": "e6fa99f5-2b41-4b0a-a339-3d0c5861b3bc",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/midterms-usa-deutschland-102.html",
+      "title": "US-Wahlen: Wie Trumps Kurs die Bundesregierung herausfordert",
+      "excerpt": "Bei den Kongresswahlen entscheidet sich, ob Präsident Trump seine Politik weiterhin weitgehend ungehindert durchziehen kann. Das wird auch von der Bundespolitik aufmerksam beobachtet. Von Nicole Markwald.",
+      "published": "2026-11-03T09:22:54.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1280d8f3-0d7d-444b-904a-6c9bbd3b8553/AAABnrclt_M/AAABnSSvrFg/16x9-big/donald-trump-friedrich-merz-washington-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T09:59:34.770Z"
+    },
+    {
+      "id": "76077779bcaa2595",
+      "guid": "a14fe9d4-4b83-480f-afc5-c3d61f2ab279",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html",
+      "title": "Kahlschlag bei Schaeffler: Stellenabbau und Standortschließungen",
+      "excerpt": "Die Krise der deutschen Autoindustrie lässt Schaeffler zu drastischen Maßnahmen greifen. Tausende Stellen werden gestrichen. In Deutschland stehen vier Werke vor dem Aus.",
+      "published": "2026-11-03T09:02:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/55af8e4e-1a69-4f3b-ac44-cfcdb698acfa/AAABoaBsy90/AAABnSSvrFg/16x9-big/schaeffler-146.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T09:59:34.770Z"
+    },
+    {
       "id": "30d51b901f03ecf9",
       "guid": "62e3c807-d3f9-4fe0-bad9-aa29026ea897",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-rekordumsatz-100.html",
