@@ -3,6 +3,83 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "ce861fa85f624a43",
+      "guid": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo",
+      "title": "When will we know the US midterms results?",
+      "excerpt": "Once polls close, it is possible the results will not be projected for several hours, days or even weeks",
+      "published": "2026-11-03T07:56:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e286/live/58c44510-d6d2-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
+      "id": "558fb7b7e3a4bea0",
+      "guid": "https://www.bbc.co.uk/news/articles/ck9dzg5eq926o#2",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzg5eq926o",
+      "title": "How to follow the US midterm elections on the BBC",
+      "excerpt": "Whether you plan to follow the US midterms on TV, radio or online, the BBC has you covered.",
+      "published": "2026-11-03T07:55:34.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38de/live/5ddf6020-d2e5-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
+      "id": "3ada36474ccc2869",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/c862y1en5vrzo#9",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c862y1en5vrzo",
+      "title": "Do Ferrari need rules of engagement? F1 Q&A",
+      "excerpt": "BBC F1 correspondent Andrew Benson answers your latest questions after the Mexico City Grand Prix.",
+      "published": "2026-11-03T07:53:14.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7996/live/4ab025d0-d6c7-11f1-ac20-7783925c811f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
+      "id": "f061bb9311cdc053",
+      "guid": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno#3",
+      "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno",
+      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "excerpt": "The men and women who rummage through commercial bins to take clothes and other items.",
+      "published": "2026-11-03T07:50:14.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7f/live/0436c4d0-d75b-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
+      "id": "9f42f56bc0ba2cea",
+      "guid": "https://www.bbc.co.uk/news/videos/cwdr8veexkrzo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cwdr8veexkrzo",
+      "title": "Billions of times smaller than an atom: What is the zeptoverse?",
+      "excerpt": "BBC science correspondent, Pallab Ghosh, takes us into the zeptoverse and explains how it could change our ideas of how the universe works.",
+      "published": "2026-11-03T07:33:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2988/live/542a8cb0-d756-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
+      "id": "c2bcbdf2cfd9c0f8",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo",
+      "title": "Emery looks to show Villa can compete with elite",
+      "excerpt": "Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.",
+      "published": "2026-11-03T07:33:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/006a/live/84fb8ca0-d6ec-11f1-a741-236ee91c2e25.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
+      "id": "c3da8629295715ce",
+      "guid": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo",
+      "title": "Major study into 'forever chemicals' in people's bodies launched in UK",
+      "excerpt": "The government is launching the first study to measure PFAS in the UK population to understand the risks.",
+      "published": "2026-11-03T07:19:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fc4/live/e5c68700-d6d4-11f1-b2be-0146bf989691.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
       "id": "bc0846f7cdf3d586",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#9",
       "link": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo",
@@ -166,6 +243,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b9c/live/3d06bb60-d721-11f1-b335-69af4183ea6e.jpg",
       "type": "article",
       "addedAt": "2026-11-03T01:10:04.424Z"
+    },
+    {
+      "id": "e7258bd498ca7418",
+      "guid": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro",
+      "title": "Who are the victims of the deadly Florida jet crash?",
+      "excerpt": "Sunday's crash killed all nine people aboard, including a tech entrepreneur and his young family, as well as the 20-year-old copilot.",
+      "published": "2026-11-03T00:54:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
     },
     {
       "id": "f1f696f097dae603",

@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "30d51b901f03ecf9",
+      "guid": "62e3c807-d3f9-4fe0-bad9-aa29026ea897",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-rekordumsatz-100.html",
+      "title": "Starkes iPhone-Geschäft sorgt für Rekordumsatz bei Apple",
+      "excerpt": "Apple hat unter dem neuen Konzernchef John Ternus ‌die Erwartungen von Börsenprofis übertroffen. Der iPhone-Umsatz und die Konzernerlöse haben im dritten Quartal Rekordwerte erreicht. Die Aktie fällt trotzdem.",
+      "published": "2026-11-03T08:13:13.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/739702b0-9d20-4009-a87c-03549d5473b2/AAABoIEOLkw/AAABnSSvrFg/16x9-big/apple-452.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
+      "id": "ce8f24e65773b234",
+      "guid": "fd629c32-3d34-49d4-be08-37e15caaf374",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-ablauf-100.html",
+      "title": "Midterms: So läuft der Wahltag in den USA ab",
+      "excerpt": "Wann ist bei den Zwischenwahlen mit verlässlichen Ergebnissen zu rechnen? Wie lange haben die Wahllokale geöffnet - und wann nehmen die neugewählten Abgeordneten ihre Arbeit im Kongress auf? Ein Überblick über den Ablauf der Midterms.",
+      "published": "2026-11-03T08:06:22.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1b208994-0db4-4b3c-bea0-9d308f8f20c6/AAABoYjV8A0/AAABnSSvrFg/16x9-big/waehlerin-wahllokal-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
+      "id": "125f1b1846a23c1b",
+      "guid": "8459d388-b7af-470d-8c01-15835873513b",
+      "link": "https://www.tagesschau.de/inland/bilger-handy-blitzer-100.html",
+      "title": "Bilger will sogenannte Handy-Blitzer bundesweit einführen",
+      "excerpt": "Mit sogenannten Handy-Blitzern können Fahrer erwischt werden, die das Mobiltelefon am Steuer nutzen. Das gibt es bislang nur in Rheinland-Pfalz, Bundesverkehrsminister Bilger will die Technik bundesweit einführen.",
+      "published": "2026-11-03T07:39:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d61f38e3-bcf6-4f92-b5ed-c977aadc7306/AAABoaAvie0/AAABnSSvrFg/16x9-big/handy-steuer-116.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
+      "id": "e0b2ec4aa86b39a6",
+      "guid": "6a8d396a-2673-4f20-94aa-5d9396e0a8b0",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/polen-boom-wirtschaftswunder-100.html",
+      "title": "Was Polens Wirtschaft boomen lässt",
+      "excerpt": "Jahrzehntelang galt Polen als der arme Nachbar im Osten. Ein längst veraltetes Klischee: Die polnische Wirtschaft wächst stark - was viele Menschen aus Deutschland anlockt. Von Christiane Cichy.",
+      "published": "2026-11-03T07:23:57.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/60d0b75e-d3a9-4275-8738-3a235b237f93/AAABm39VrEM/AAABnSSvrFg/16x9-big/polen-514.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T08:26:37.338Z"
+    },
+    {
       "id": "bb9a2dabc5b20ed3",
       "guid": "6eae0ef7-d6aa-415a-b818-9660e8f5cfe6",
       "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
