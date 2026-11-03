@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "27a620f67ac8e6f3",
+      "guid": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+      "title": "US strikes Iran ahead of midterm elections",
+      "excerpt": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "published": "2026-11-03T03:39:08.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T03:57:38.243Z"
+    },
+    {
+      "id": "784823ca0a811932",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "excerpt": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "published": "2026-11-03T03:32:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T03:57:38.243Z"
+    },
+    {
       "id": "1def2c7316ba7d63",
       "guid": "https://www.bbc.co.uk/weather/articles/cr5ynw8np52vo#5",
       "link": "https://www.bbc.co.uk/weather/articles/cr5ynw8np52vo",
