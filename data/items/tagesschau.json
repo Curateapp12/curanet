@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "3424ee094c4aa0b4",
+      "guid": "a503b9ae-029e-4d01-8b05-4b2be6c39b5e",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
+      "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
+      "excerpt": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser.",
+      "published": "2026-11-03T13:33:24.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d726ff5b-764a-4fd1-abcc-2f3341838768/AAABmMuktaQ/AAABnSSvrFg/16x9-big/nyse-412.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T14:21:58.340Z"
+    },
+    {
+      "id": "20835610cc89dc55",
+      "guid": "b25377bd-0892-40f3-bb27-21856a2c6ae1",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html",
+      "title": "EU genehmigt MediaMarktSaturn-Übernahme durch JD.com",
+      "excerpt": "Der chinesische Tech-Riese JD.com darf Europas größten Elektronikfachhändler MediaMarktSaturn übernehmen. Das hat die EU-Kommission entschieden. Doch aus Brüssel kommen Auflagen.",
+      "published": "2026-11-03T13:25:20.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/95591cc8-7e78-42f1-92f2-fc324115d59b/AAABoaEcUVU/AAABnSSvrFg/16x9-big/mediamarkt-saturn-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T14:21:58.340Z"
+    },
+    {
       "id": "f89489600690be8f",
       "guid": "520a97d5-ecb3-4b0b-b842-eb87827efe89",
       "link": "https://www.tagesschau.de/inland/razzia-linksextremismus-100.html",
