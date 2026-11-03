@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "9be50228b3c037d6",
+      "guid": "https://globalnews.ca/?p=12134651",
+      "link": "https://globalnews.ca/news/12134651/convicted-murderer-jacob-morley-recaptured-tennessee-prison/",
+      "title": "Convicted murderer who escaped from Tennessee prison recaptured, officials say",
+      "excerpt": "Jacob Morley, 28, escaped from the Northwest Correctional Complex in Tennessee's far northwestern corner on Oct. 25, after he slipped through a fence in his prison clothes.",
+      "published": "2026-11-03T18:59:00.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/jacob-morley-escape-prison.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
+      "id": "5241232cca240d23",
+      "guid": "https://globalnews.ca/?p=12134553",
+      "link": "https://globalnews.ca/news/12134553/transalta-parkland-county-data-centre/",
+      "title": "TransAlta gathering community input on potential new Parkland County data centre",
+      "excerpt": "The site, directly south of TransAlta's existing gas-fired Keephills Generating Station, has been granted 230 megawatts through Alberta's grid operator for an initial phase.",
+      "published": "2026-11-03T18:48:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Keephills-Generating-Station.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
+      "id": "df5702d6fa1887d2",
+      "guid": "https://globalnews.ca/?p=12134527",
+      "link": "https://globalnews.ca/news/12134527/tyler-bell-rcmp-nanaimo-clippers/",
+      "title": "B.C. hockey team says it wasn’t aware new executive was under RCMP probe",
+      "excerpt": "The Nanaimo Clippers said it has parted ways with Tyler King. He was arrested Friday at a Canada-U.S. border crossing in Ontario on child sexual exploitation charges.",
+      "published": "2026-11-03T18:31:01.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Tyler-King_35d692.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
+      "id": "5a16bc3b033dfe42",
+      "guid": "https://globalnews.ca/news/12134587/european-players-wary-of-russias-hockey-return/",
+      "link": "https://globalnews.ca/news/12134587/european-players-wary-of-russias-hockey-return/",
+      "title": "European players wary of Russia’s hockey return",
+      "excerpt": "MacKenzie Weegar says he enjoys watching Russia play in the top hockey tournaments. But the Canadian defenceman says Russia's return to international competition might be viewed differently by European players.",
+      "published": "2026-11-03T18:19:38.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/fe5de0968591436c2766d0a642ce8edf3eaadf2fbaf13f7492d5d1529b0a570b_d45b12.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
+      "id": "b28e343755c101a7",
+      "guid": "https://globalnews.ca/news/12134575/b-c-team-unaware-executive-under-investigation/",
+      "link": "https://globalnews.ca/news/12134575/b-c-team-unaware-executive-under-investigation/",
+      "title": "B.C. team unaware executive under investigation",
+      "excerpt": "A junior hockey team in British Columbia says it was not aware of sexual exploitation allegations against an executive when he was hired.",
+      "published": "2026-11-03T18:15:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/71c3f28f72f93f8afdfafe14f66279fc0f2301178ed1b258e3c53e3d6ecbaad1_430e65.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
+      "id": "3c7b8e994f5aa10f",
+      "guid": "https://globalnews.ca/news/12134564/lions-sankey-named-cfls-top-defensive-player/",
+      "link": "https://globalnews.ca/news/12134564/lions-sankey-named-cfls-top-defensive-player/",
+      "title": "Lions’ Sankey named CFL’s top defensive player",
+      "excerpt": "A historic first season with the B.C. Lions landed middle linebacker Darnell Sankey the CFL's top defensive player award.",
+      "published": "2026-11-03T18:12:39.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/4c5243d6cea80e9ff43fac74fe4dffc2cf01937450b3fc2df862c4e7583b538c.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
+      "id": "423558c3f2000f05",
+      "guid": "https://globalnews.ca/?p=12134514",
+      "link": "https://globalnews.ca/news/12134514/alberta-electoral-boundary-redraw-danielle-smith/",
+      "title": "Danielle Smith defends proposed Alberta riding redraw that Opposition calls cheating",
+      "excerpt": "The boundary redrawing process has been a controversial, complicated affair since the premier rejected the main recommendations of a public boundaries commission early this year.",
+      "published": "2026-11-03T18:02:53.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/9ea8ca532c7f9bcd629c7638332806cf26928b3e2c143281af10aa6306c30b63.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
       "id": "890313c46f785e64",
       "guid": "https://globalnews.ca/?p=12130736",
       "link": "https://globalnews.ca/news/12130736/kelowna-host-world-senior-curling-championships-2027-2029/",

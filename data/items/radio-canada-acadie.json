@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "d05b91ef5a6adce2",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10800491/quels-sont-dangers-radon",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10800491/quels-sont-dangers-radon",
+      "title": "Quels sont les dangers du radon?",
+      "excerpt": "Le radon est la première cause du cancer du poumon chez les non-fumeurs. Comment connaître la concentration de radon dans sa maison? Karine Godin ouvre la discussion avec des experts.",
+      "published": "2026-11-03T18:29:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-radon-sens-large.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
+      "id": "74a24a582a25d89c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297829/collecte-sinistres-incendie-immeuble-shediac",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297829/collecte-sinistres-incendie-immeuble-shediac",
+      "title": "Shediac se mobilise pour aider les sinistrés de l’incendie de la rue Cornwall",
+      "excerpt": "La population de Shediac a mis sur pied un centre de collecte et de distribution destiné aux sinistrés.",
+      "published": "2026-11-03T18:28:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/feu-shediac-immeuble-detruit.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
+      "id": "3de6d103af42482b",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10800485/cascades-une-formation-qui-tombe-bien",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10800485/cascades-une-formation-qui-tombe-bien",
+      "title": "Cascades : une formation qui tombe bien",
+      "excerpt": "En Atlantique, on produit de plus en plus de télé et de cinéma. Pour répondre aux besoins grandissants du milieu, la maison de production Connexions Productions a offert des cours de cascades à des comédiens de la région. Le journaliste culturel et sportif Félix Arseneault était la personne idéale…",
+      "published": "2026-11-03T18:14:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/cascade-formation-ryan-doucette.png",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
       "id": "23108744b9d8e938",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297770/susan-holt-annonce-defense-gagetown",
       "link": "https://ici.radio-canada.ca/nouvelle/2297770/susan-holt-annonce-defense-gagetown",
@@ -89,6 +122,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/kelly-lamrock-defenseur-nouveau-brunswick-2.jpeg",
       "type": "article",
       "addedAt": "2026-11-03T01:10:04.424Z"
+    },
+    {
+      "id": "45ba63f95ab62195",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2519193/etudiants-internationaux-vrai-defi-commence-apres-diplome-selon-soa",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2519193/etudiants-internationaux-vrai-defi-commence-apres-diplome-selon-soa",
+      "title": "« Sortir de sa zone de confort » : Soa Manantoanina raconte son intégration",
+      "excerpt": "Arrivée au Nouveau-Brunswick à 18 ans pour étudier à l’Université de Moncton, Soa Manantoanina a obtenu son diplôme en 2026. Aujourd’hui agente de projet au CODAC NB à Saint-Jean, elle poursuit son intégration dans la communauté.",
+      "published": "2026-11-02T23:27:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/soa-manantoanina-semaine-nationale-immigration-codac-nb.png",
+      "type": "article",
+      "addedAt": "2026-11-03T18:59:50.038Z"
     },
     {
       "id": "5f613c8a0e245da4",
