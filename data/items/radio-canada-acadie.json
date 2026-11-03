@@ -3,6 +3,17 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "7818b5781dfd3b99",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297821/mqm-tracadie-financement-agrandissement",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297821/mqm-tracadie-financement-agrandissement",
+      "title": "Quatre millions $ des gouvernements pour permettre à MQM, à Tracadie, de grandir",
+      "excerpt": "Les fonds permettront à MQM Quality Manufacturing d'agrandir et de moderniser ses installations.",
+      "published": "2026-11-03T19:24:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mqm-tracadie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T19:58:29.978Z"
+    },
+    {
       "id": "d05b91ef5a6adce2",
       "guid": "https://ici.radio-canada.ca/en-bref/1-10800491/quels-sont-dangers-radon",
       "link": "https://ici.radio-canada.ca/en-bref/1-10800491/quels-sont-dangers-radon",
@@ -34,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/cascade-formation-ryan-doucette.png",
       "type": "article",
       "addedAt": "2026-11-03T18:59:50.038Z"
+    },
+    {
+      "id": "964a86588487d9ee",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2519947/est-ce-que-acadie-accueille-bien-ses-nouveaux-residents-francophones",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2519947/est-ce-que-acadie-accueille-bien-ses-nouveaux-residents-francophones",
+      "title": "Immigration : est-ce que les nouveaux résidents sont bien accueillis en Acadie?",
+      "excerpt": "C'est la Semaine nationale de l'immigration francophone. Le français représente un atout pour les immigrants qui choisissent l'Atlantique. Comment fait-on pour trouver sa place en Acadie? Par quoi passe l'intégration? Karine Godin ouvre la discussion.",
+      "published": "2026-11-03T16:33:25.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/emission/16x9/sens-large-emission-karine-godin-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T19:58:29.978Z"
     },
     {
       "id": "23108744b9d8e938",

@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "dbb71b89cf08fc4c",
+      "guid": "https://globalnews.ca/?p=12134728",
+      "link": "https://globalnews.ca/news/12134728/bella-coola-suspected-grizzly-bear-attack/",
+      "title": "1 dead, 1 missing in suspected grizzly bear attack on B.C.’s central coast",
+      "excerpt": "The Ministry of Environment said that one person was found dead in the Snooka West Trail area on Monday afternoon after RCMP and Search and Rescue crews were called out.",
+      "published": "2026-11-03T19:52:31.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2019/11/cpt10832368.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T19:58:29.978Z"
+    },
+    {
+      "id": "51e59c0a745b8ff7",
+      "guid": "https://globalnews.ca/?p=12134730",
+      "link": "https://globalnews.ca/news/12134730/second-ontario-ministry-facing-external-audit-over-inconsistencies-in-funding-use/",
+      "title": "Second Ontario ministry facing external audit over ‘inconsistencies’ in funding use",
+      "excerpt": "Labour Minister Trevor Jones confirmed to Global News the ministry tapped KMPG to review Better Jobs Ontario and has paused new applications to the program.",
+      "published": "2026-11-03T19:40:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/a4c429971e6a5fbc3ef705fd73653184ce5041996a3e397616498d4a8de279fa.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T19:58:29.978Z"
+    },
+    {
+      "id": "4d98b873df105db5",
+      "guid": "https://globalnews.ca/?p=12134513",
+      "link": "https://globalnews.ca/news/12134513/alberta-teen-isis-terrorism/",
+      "title": "Alberta teen accused of terrorism offences connected to ISIS",
+      "excerpt": "A teenager in Alberta has been arrested and charged with engaging in terrorism-related offences, after police said they were talking online with people affiliated with ISIS.",
+      "published": "2026-11-03T19:18:16.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2021/06/Screen-Shot-2021-06-23-at-10.20.29-AM.png",
+      "type": "article",
+      "addedAt": "2026-11-03T19:58:29.978Z"
+    },
+    {
+      "id": "274afc7d30606432",
+      "guid": "https://globalnews.ca/?p=12134538",
+      "link": "https://globalnews.ca/news/12134538/esterhazy-saskatchewan-tremor-earthquakes-canada/",
+      "title": "‘Mining-induced event’ suspected cause of Saskatchewan tremor: Earthquakes Canada",
+      "excerpt": "Esterhazy, Sask., was awoken by seismic activity Tuesday morning after a suspected mining-induced event triggered a tremor, Earthquakes Canada said.",
+      "published": "2026-11-03T19:09:21.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/saskatchewan-tremor-seismic-activity.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T19:58:29.978Z"
+    },
+    {
+      "id": "5b602565283d0661",
+      "guid": "https://globalnews.ca/?p=12134603",
+      "link": "https://globalnews.ca/news/12134603/russia-hockey-reinstatement-boycott/",
+      "title": "Boycott grows against Russia hockey reinstatement, leaves questions about World Juniors",
+      "excerpt": "Hockey Canada says it's talking with the IIHF about the impact Russia's reinstatement to international competition — and the blowback it's caused — could have on the world juniors.",
+      "published": "2026-11-03T19:08:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/35d22d5ebb0f4d3df9d98e583b8d606cb8eb407a95f4c72e983624d16dffbc49.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T19:58:29.978Z"
+    },
+    {
+      "id": "b0d52021508bbad7",
+      "guid": "https://globalnews.ca/?p=12134630",
+      "link": "https://globalnews.ca/news/12134630/lapu-lapu-attack-suspect-pleads-not-guilty-42-charges/",
+      "title": "Lapu Lapu attack suspect pleads not guilty to all 42 charges",
+      "excerpt": "The BC Prosecution Service said that Kai Ji Adam Lo pleaded not guilty to 11 counts of second-degree murder and 31 counts of attempted murder during a court appearance on Monday.",
+      "published": "2026-11-03T19:07:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/07/lapu-lapu-suspect-kai-ji-adam-lo.jpeg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T19:58:29.978Z"
+    },
+    {
+      "id": "9757faa26ff00569",
+      "guid": "https://globalnews.ca/?p=12134506",
+      "link": "https://globalnews.ca/news/12134506/bank-of-canada-interest-rates-budget/",
+      "title": "Bank of Canada maintains stance on rate hike ahead of Nov. 5 budget release",
+      "excerpt": "The Bank of Canada is standing by its decision last week to hike interest rates for the first time in three years, and as Ottawa gets set to table its budget.",
+      "published": "2026-11-03T19:05:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP177201162-e1793730703322.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T19:58:29.978Z"
+    },
+    {
       "id": "9be50228b3c037d6",
       "guid": "https://globalnews.ca/?p=12134651",
       "link": "https://globalnews.ca/news/12134651/convicted-murderer-jacob-morley-recaptured-tennessee-prison/",
