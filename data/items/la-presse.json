@@ -3,6 +3,50 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "942f3a6f38d3c0e8",
+      "guid": "7984012133b33ef3b040025c907484fa",
+      "link": "https://www.lapresse.ca/actualites/2026-11-03/ce-qu-il-faut-savoir-ce-mardi/elections-de-mi-mandat-arrestation-apres-la-mort-d-un-cycliste-et-vandalisme-a-charlevoix.php",
+      "title": "Ce qu’il faut savoir ce mardi | Élections de mi-mandat, arrestation après la mort d’un cycliste et vandalisme à Charlevoix",
+      "excerpt": "La journée passe vite. Voici les trois nouvelles qui ont marqué l’actualité jusqu’ici.",
+      "published": "2026-11-03T21:45:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0d1c192303d63a8cb5c99c1251a7d2ff.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T21:52:34.367Z"
+    },
+    {
+      "id": "116bb2e1afce509b",
+      "guid": "134f8db6b07d3140ba0f90ca6aa13c85",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-03/cycliste-happe-a-mort-a-montreal/le-spvm-arrete-un-suspect-de-17-ans.php",
+      "title": "Cycliste happé à mort à Montréal | Le SPVM arrête un suspect de 17 ans",
+      "excerpt": "Un adolescent de 17 ans a été arrêté pour le meurtre d’Isaac Larivée, le cycliste happé mortellement lors d’un délit de fuite vendredi dernier, dans l’arrondissement d’Ahuntsic-Cartierville.",
+      "published": "2026-11-03T21:27:31.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/6e8aa8d804d93a72ba6c69b8604bad27.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T21:52:34.367Z"
+    },
+    {
+      "id": "6319ffe2d7e16ed4",
+      "guid": "fd7e818f17ec3160806386da94421343",
+      "link": "https://www.lapresse.ca/actualites/national/2026-11-03/attaque-presumee-d-un-grizzli/une-personne-a-ete-tuee-et-une-autre-est-portee-disparue-en-colombie-britannique.php",
+      "title": "Attaque présumée d’un grizzli | Une personne a été tuée et une autre est portée disparue en Colombie-Britannique",
+      "excerpt": "Une personne est morte et une autre est portée disparue à la suite d’une attaque présumée d’un grizzli près de Bella Coola, en Colombie-Britannique, a indiqué le Service des agents de conservation de la Colombie-Britannique.",
+      "published": "2026-11-03T21:23:26.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/3fe9df92db7535f5a3eda1b1a637db2f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T21:52:34.367Z"
+    },
+    {
+      "id": "62f6d7389ed05c2e",
+      "guid": "8efbc3c86b083fbeab189731e2e7cc1d",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-03/congediement-de-sept-policiers/le-syndicat-va-contester-la-decision-du-spvm.php",
+      "title": "Congédiement de sept policiers | Le syndicat va contester la décision du SPVM",
+      "excerpt": "Le syndicat qui représente les policiers de Montréal va contester la décision qu’il juge « non conforme » et potentiellement « préjudiciable » du chef Fady Dagher. Celui-ci a congédié lundi sept policiers dans la foulée des récentes allégations concernant des gestes discriminatoires et racistes.",
+      "published": "2026-11-03T21:13:57.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/198df60649ed3975bcbb18a4910429d6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T21:52:34.367Z"
+    },
+    {
       "id": "3bb40ae1ee5fef8a",
       "guid": "e74d0310676e34848ebf195a52960e37",
       "link": "https://www.lapresse.ca/actualites/sante/2026-11-03/le-quebec-compte-plus-de-2-millions-de-proches-aidants.php",
