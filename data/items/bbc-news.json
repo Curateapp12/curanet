@@ -3,6 +3,39 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "cf41939f6df7d81a",
+      "guid": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o#3",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o",
+      "title": "How 'mogging' went from toxic term to mainstream",
+      "excerpt": "Mogging, named Collins English Dictionary's word of the year, was once the preserve of the manosphere but has become part of everyday discourse.",
+      "published": "2026-11-03T17:41:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7724/live/f5d4bcf0-d7ad-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T17:56:07.641Z"
+    },
+    {
+      "id": "89847370cf02aace",
+      "guid": "https://www.bbc.co.uk/news/articles/c6dxw8r7rd1go#5",
+      "link": "https://www.bbc.co.uk/news/articles/c6dxw8r7rd1go",
+      "title": "Speeding driver jailed for fatal Lamborghini crash",
+      "excerpt": "Humaira Batool, 26, is sentenced for causing for the death of 20-year-old Mohammed Shaan Hussain.",
+      "published": "2026-11-03T17:27:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75aa/live/495fc600-ac5f-11f1-be57-03729df1d736.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T17:56:07.641Z"
+    },
+    {
+      "id": "ffa68dda07f67e18",
+      "guid": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno#1",
+      "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno",
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "excerpt": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+      "published": "2026-11-03T17:04:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80d/live/1a61d4e0-d7a9-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T17:56:07.641Z"
+    },
+    {
       "id": "f0d51e6fa0e58d9c",
       "guid": "https://www.bbc.co.uk/news/articles/c65ynez5y599o#1",
       "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o",
@@ -12,6 +45,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eae/live/d2df48e0-d79a-11f1-b441-2b33b063138f.jpg",
       "type": "article",
       "addedAt": "2026-11-03T17:02:12.488Z"
+    },
+    {
+      "id": "fc3239de0a07d078",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po",
+      "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
+      "excerpt": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+      "published": "2026-11-03T16:54:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T17:56:07.641Z"
     },
     {
       "id": "9637d6a4f4db408d",
@@ -34,6 +78,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg",
       "type": "article",
       "addedAt": "2026-11-03T17:02:12.488Z"
+    },
+    {
+      "id": "05b97240c0d3245b",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo",
+      "title": "Lionesses to face France and Portugal in Nations League",
+      "excerpt": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
+      "published": "2026-11-03T15:39:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T17:56:07.641Z"
     },
     {
       "id": "2e646e2e8cafd9c4",
