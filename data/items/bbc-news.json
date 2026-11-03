@@ -3,6 +3,72 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "3af2f109bf6fcd1e",
+      "guid": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o#5",
+      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o",
+      "title": "Indian national killed after two helicopters collide near Everest base camp",
+      "excerpt": "Two helicopters crashed just metres from the ground after trying to land at the same spot near the base camp.",
+      "published": "2026-11-03T11:51:08.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/029f/live/4eb51590-d772-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T11:54:59.786Z"
+    },
+    {
+      "id": "74d19b3565375a6a",
+      "guid": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
+      "title": "Flights from UK airports among three targeted by bomb threats",
+      "excerpt": "Two passenger planes are being inspected after landing in Warsaw and a third in Murcia in Spain, following a series of bomb threats.",
+      "published": "2026-11-03T11:50:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b459/live/61564d20-d774-11f1-a956-ff083523ef77.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T11:54:59.786Z"
+    },
+    {
+      "id": "0f544a8177099963",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do",
+      "title": "McTominay returns as Penrice earns first Scotland call",
+      "excerpt": "Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.",
+      "published": "2026-11-03T11:29:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T11:54:59.786Z"
+    },
+    {
+      "id": "79a1117c54ce12c2",
+      "guid": "https://www.bbc.co.uk/news/articles/cx8dznljndyzo#5",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dznljndyzo",
+      "title": "Alton Towers closes World of David Walliams",
+      "excerpt": "The closure comes following a \"regular review of rides and attractions\", Alton Towers says.",
+      "published": "2026-11-03T11:17:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c72/live/29953380-d777-11f1-9539-05485195b558.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T11:54:59.786Z"
+    },
+    {
+      "id": "a9d2c85ac16e7211",
+      "guid": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po#5",
+      "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po",
+      "title": "Drivers may get compensation offers before car finance saga ends",
+      "excerpt": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+      "published": "2026-11-03T10:56:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5c/live/9c202ea0-d6dc-11f1-b2be-0146bf989691.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T11:54:59.786Z"
+    },
+    {
+      "id": "225a0050a5a6b6fd",
+      "guid": "https://www.bbc.co.uk/news/videos/cqj346nndl0yo#2",
+      "link": "https://www.bbc.co.uk/news/videos/cqj346nndl0yo",
+      "title": "Voter voices: Trump's influence on US midterm voters",
+      "excerpt": "We asked voters whether they supported Trump in 2024, and how his performance in office is shaping their choices this time.",
+      "published": "2026-11-03T10:55:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a2/live/60ec9cd0-d6da-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-03T11:54:59.786Z"
+    },
+    {
       "id": "3d533ff89641f924",
       "guid": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#1",
       "link": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o",
@@ -23,6 +89,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c5/live/c5f1f200-d771-11f1-93e1-3b657b665bcf.jpg",
       "type": "article",
       "addedAt": "2026-11-03T10:59:31.236Z"
+    },
+    {
+      "id": "be85c800cbe1a652",
+      "guid": "https://www.bbc.co.uk/news/articles/cwj34rm146kno#2",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34rm146kno",
+      "title": "Which stars have made the leap into US politics? Try our midterms quiz",
+      "excerpt": "It's been a dramatic campaign - but how much have you picked up along the way? Take our quiz.",
+      "published": "2026-11-03T10:22:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a39/live/3045c8a0-c937-11f1-9a39-31b474234113.png",
+      "type": "article",
+      "addedAt": "2026-11-03T11:54:59.786Z"
     },
     {
       "id": "ebd1dfe05279f6b9",
