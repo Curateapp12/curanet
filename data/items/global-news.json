@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "13a1b7b729bdff7b",
+      "guid": "https://globalnews.ca/?p=12130750",
+      "link": "https://globalnews.ca/news/12130750/winnipeg-police-add-to-reports-of-sharp-metal-found-in-halloween-candy/",
+      "title": "Winnipeg police add to reports of sharp metal found in Halloween candy",
+      "excerpt": "Winnipeg police are encouraging parents and guardians to check their children's Halloween candy after receiving reports of metal objects embedded inside.",
+      "published": "2026-11-03T00:31:53.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/TWIX.png",
+      "type": "article",
+      "addedAt": "2026-11-03T01:10:04.424Z"
+    },
+    {
+      "id": "a1b3e1d7e6db82b7",
+      "guid": "https://globalnews.ca/?p=12130691",
+      "link": "https://globalnews.ca/news/12130691/city-of-edmonton-budget-2027-2030-proposal/",
+      "title": "City of Edmonton unveils proposed 4-year budget with higher taxes — but more services",
+      "excerpt": "The City of Edmonton's proposed 2027-2030 budget means the average owner of a $500,000 home would pay around $340 a month in property taxes.",
+      "published": "2026-11-03T00:04:00.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/12/Edmonton-council.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T01:10:04.424Z"
+    },
+    {
+      "id": "7d861004cff1ffcc",
+      "guid": "https://globalnews.ca/?p=12130453",
+      "link": "https://globalnews.ca/news/12130453/businesses-adjust-to-darker-mornings-and-schedules-in-new-manitoba-standard-time/",
+      "title": "Businesses adjust to darker mornings and schedules in new Manitoba Standard Time",
+      "excerpt": "Manitobans are adapting to a new time zone, impacting IT teams and scheduling issues for construction workers due to darker mornings.",
+      "published": "2026-11-02T23:59:56.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/81af5ac2f5648511f4d249a8689fb654269913284b2bbf208e282dc31ffe6dd6.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-03T01:10:04.424Z"
+    },
+    {
       "id": "983b1d44ab7d9c78",
       "guid": "https://globalnews.ca/?p=12130609",
       "link": "https://globalnews.ca/news/12130609/bc-first-nations-file-challenges-pacific-link-pipeline-decision/",
