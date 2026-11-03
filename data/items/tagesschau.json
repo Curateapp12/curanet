@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "8d6b1f159db1120e",
+      "guid": "65136c16-62e8-4c7e-8649-434d38dcc03b",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
+      "title": "USA greifen iranische Ziele in Straße von Hormus an",
+      "excerpt": "Kurz vor den Midterms in den USA sollen die USA wieder Iran angegriffen haben. Dabei soll es sich um einzelne Angriffe handeln - und keine vollständige Wiederaufnahme der Kampfhandlungen.",
+      "published": "2026-11-03T04:05:38.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c46f62dc-c9a2-446e-b6b2-842dfd189d8a/AAABoZ85e7g/AAABnSSvrFg/16x9-big/trump-5400.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T05:00:06.212Z"
+    },
+    {
+      "id": "0ae5d927b5af63d6",
+      "guid": "cdb5b07d-8cac-4e98-83ba-e36a530b3751",
+      "link": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
+      "title": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
+      "excerpt": "Die USA, Russland und die Ukraine haben zuletzt im Februar im Dreierformat miteinander gesprochen. Kommende Woche wollen sie wieder zusammenkommen. US-Sondergesandter Wittkoff hat konkrete Ziele.",
+      "published": "2026-11-03T03:55:28.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1b12b7ff-2ca8-4272-8679-a4ee42bd6fc3/AAABoZ96qyE/AAABnSSvrFg/16x9-big/witkoff-164.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-03T05:00:06.212Z"
+    },
+    {
       "id": "bbd939f10ee2088c",
       "guid": "fc67a632-7724-4e45-a2cc-0bc6464f5aab",
       "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
