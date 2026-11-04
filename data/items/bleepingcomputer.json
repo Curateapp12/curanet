@@ -3,6 +3,17 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "1413af0079f42d2d",
+      "guid": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "excerpt": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+      "published": "2026-11-04T19:05:19.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-04T20:02:28.621Z"
+    },
+    {
       "id": "801b944f5621a71c",
       "guid": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
       "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
