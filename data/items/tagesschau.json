@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "f36893f06e92142f",
+      "guid": "a5ffa92f-b913-49ee-934d-c816d47fe051",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html",
+      "title": "Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung",
+      "excerpt": "Der spektakuläre Triumph der US-Demokraten bei den Zwischenwahlen hat weltweit Reaktionen ausgelöst: Russland setzt weiter auf Präsident Trump, China hält sich bedeckt, in der EU und Südafrika macht sich Hoffnung breit.",
+      "published": "2026-11-04T15:42:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b3cb576f-40ba-47ba-a7cc-7f7564434499/AAABoab4aBc/AAABnSSvrFg/16x9-big/flagge-kapitol-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "24ffd534fff6b388",
+      "guid": "5ca86a25-a702-4c3e-88b4-25e2fbab62a2",
+      "link": "https://www.tagesschau.de/kultur/janosch-reaktionen-tod-100.html",
+      "title": "Reaktionen auf Janoschs Tod: Er machte \"Kindern Mut zum Träumen\"",
+      "excerpt": "Ein Kinderbuchautor, dessen Figuren Generationen begleitet haben: Nach Janoschs Tod ist die Anteilnahme groß. Bundespräsident Steinmeier würdigte den Schriftsteller als \"Lebensbegleiter für ungezählte Kinder und ungezählte Erwachsene\".",
+      "published": "2026-11-04T15:10:30.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/8790c180-6098-4e10-a397-5deee191fdfc/AAABoaa7xHA/AAABnSSvrFg/16x9-big/janosch-202.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "3b8b2e7adbd50639",
+      "guid": "b62a4e78-6299-474f-acab-eccf09dcc52d",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html",
+      "title": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
+      "excerpt": "In Deutschland und Frankreich sind neue Fälle von durch Hacker manipulierten Kühlsystemen bekannt geworden. In Bayern traf es eine Metzgerei. In Frankreich einen besonders sensiblen Bereich: den Blutspendedienst.",
+      "published": "2026-11-04T14:42:11.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2f3feb18-d476-442c-b74c-a730e790cef9/AAABm_B9Nrc/AAABnSSvrFg/16x9-big/tastatur-laptop-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "0c21eca645bb5c1e",
+      "guid": "6dad0389-4b3a-47f9-861b-00f63d44eeac",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
+      "title": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
+      "excerpt": "Der frühere niederländische Zentralbankchef Knot ist nun offiziell für den EZB-Chefsessel nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge der scheidenden Christine Lagarde.",
+      "published": "2026-11-04T14:30:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c8b6006a-2850-4e36-9caf-f20ee945d5d4/AAABoabiLPc/AAABnSSvrFg/16x9-big/klaas-knot-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
       "id": "b63285c8caa58016",
       "guid": "8c6b8ff1-9621-491c-ab01-a16344bba188",
       "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",

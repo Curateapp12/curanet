@@ -3,6 +3,83 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "6b286be5efa07823",
+      "guid": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo#5",
+      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
+      "title": "Israel's president to begin consultations with parties after election deadlock",
+      "excerpt": "Herzog warned politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+      "published": "2026-11-04T15:45:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b097/live/1ca811c0-d861-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "4bc1bbd35f699ea7",
+      "guid": "https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o",
+      "title": "Time to focus on cost of living, says PM after US election results",
+      "excerpt": "Andy Burnham says prices won't come down until the US's conflict with Iran is resolved.",
+      "published": "2026-11-04T15:35:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5caa/live/138c7900-d85c-11f1-94f3-cf7d1e52bb8c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "0b8687b7b6cc7908",
+      "guid": "https://www.bbc.co.uk/news/articles/c977p01kgmmko#5",
+      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko",
+      "title": "Secret police files released in Hungary, 47 years after fall of communism",
+      "excerpt": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+      "published": "2026-11-04T15:28:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b3/live/39dbf5e0-d861-11f1-85ab-b3cc3b5498c6.png",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "381c8f769b280439",
+      "guid": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#2",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro",
+      "title": "Russian hacktivists say they were behind freezer hacks, but speculation remains",
+      "excerpt": "Noname and Z-Pentest Alliance are claiming responsibility - but this is being met with scepticism.",
+      "published": "2026-11-04T15:19:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "38388d24d29ffd18",
+      "guid": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego#5",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego",
+      "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+      "excerpt": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
+      "published": "2026-11-04T15:18:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb9/live/c954f440-d84f-11f1-b710-b15e87d8ef65.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "20617a05d88ffd48",
+      "guid": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no#5",
+      "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no",
+      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+      "excerpt": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
+      "published": "2026-11-04T15:01:10.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "70b811da46f92b07",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo#9",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo",
+      "title": "Ocon dropped - is it the end of his F1 career?",
+      "excerpt": "Esteban Ocon's career as a Formula 1 race driver is over - at least for the foreseeable future - after falling out with Haas. Andrew Benson looks at what the future holds for the Frenchman.",
+      "published": "2026-11-04T15:00:26.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3822/live/1d503240-d859-11f1-94f3-cf7d1e52bb8c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
       "id": "fd2c85d9d850cce1",
       "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/c615j8v2d2npo#9",
       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c615j8v2d2npo",
@@ -23,6 +100,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
       "type": "article",
       "addedAt": "2026-11-04T14:25:04.566Z"
+    },
+    {
+      "id": "5dce150845b140ce",
+      "guid": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o",
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "excerpt": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+      "published": "2026-11-04T13:33:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
     },
     {
       "id": "88e83951d1ca16a3",

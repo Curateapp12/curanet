@@ -3,6 +3,61 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "5f8990bd8390fc73",
+      "guid": "https://globalnews.ca/?p=12136258",
+      "link": "https://globalnews.ca/news/12136258/taylor-red-nicole-taylor-dead/",
+      "title": "Country singer Nicole Taylor of group Taylor Red dead at 35",
+      "excerpt": "'Nicole, the oldest of us three sisters, will be greatly missed. She was our leader and our best friend,' Nicole Taylor's triplet sisters Nika and Natalie said.",
+      "published": "2026-11-04T15:32:11.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/nicole-taylor-dead.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "612df4b2893badf5",
+      "guid": "https://globalnews.ca/?p=12136313",
+      "link": "https://globalnews.ca/news/12136313/rbc-worker-guilty-carney-data/",
+      "title": "Ex-RBC worker found guilty after viewing Carney’s data, opening accounts",
+      "excerpt": "A former RBC employee has been found guilty of three criminal charges after opening fraudulent accounts and viewing the personal banking information of Prime Minister Mark Carney.",
+      "published": "2026-11-04T15:30:15.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP165986458-e1793806126966.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "e2a67aedbbe8c9ab",
+      "guid": "https://globalnews.ca/?p=12136301",
+      "link": "https://globalnews.ca/news/12136301/afn-chief-says-no-one-besides-carney-kinew-talked-about-abolishing-indian-act/",
+      "title": "AFN chief says no one besides Carney, Kinew talked about abolishing Indian Act",
+      "excerpt": "Talk of reforming or abolishing the Indian Act comes as Mark Carney works to speed up development of major projects alongside the provinces and Indigenous Peoples.",
+      "published": "2026-11-04T14:58:15.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/224205d7a3e9a98e82aebecf1228486f1769e2e20a117b93574fa65a35209909.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "e6ce87df5d2b223b",
+      "guid": "https://globalnews.ca/?p=12135020",
+      "link": "https://globalnews.ca/news/12135020/green-line-lrt-extension-study-proposed-north-calgary-councillors-seek-bus-service-improvements/",
+      "title": "Green Line LRT extension study proposed, north Calgary councillors seek bus service improvements",
+      "excerpt": "A city committee endorsed exploring curbside bus lanes along Centre Street in north Calgary to improve rapid bus-service in lieu of a future Green Line LRT extension.",
+      "published": "2026-11-04T14:35:13.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/V2-GREENLINE-EXTENSION-THUMBNAIL.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
+      "id": "479569641e86d265",
+      "guid": "https://globalnews.ca/?p=12136274",
+      "link": "https://globalnews.ca/news/12136274/nova-scotia-ai-data-centre-community-questions/",
+      "title": "Second night for community questions on Nova Scotia’s first proposed AI data centre",
+      "excerpt": "Cape Bretoners with questions about Nova Scotia's first planned artificial intelligence data centre have a second chance to speak up.",
+      "published": "2026-11-04T14:30:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/94f30c68760137d1b4e06e60867b89fbe4db5c06b0b489c8a9997775d392a065.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-04T15:59:38.377Z"
+    },
+    {
       "id": "ecef720420fd561f",
       "guid": "https://globalnews.ca/?p=12136245",
       "link": "https://globalnews.ca/news/12136245/midterm-election-results-canada/",
