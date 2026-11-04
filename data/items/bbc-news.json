@@ -3,6 +3,17 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "c4541921be78b526",
+      "guid": "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo",
+      "title": "How voter shifts in Texas helped elect a Democratic senator and governor",
+      "excerpt": "The BBC's Ros Atkins looks at the state's long track record of voting Republican and what was different in this year's election.",
+      "published": "2026-11-04T20:21:14.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f49/live/c7c73110-d88b-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T20:58:06.467Z"
+    },
+    {
       "id": "8a8d13ff8b27a222",
       "guid": "https://www.bbc.co.uk/news/articles/cqy7lz5d4k35o#5",
       "link": "https://www.bbc.co.uk/news/articles/cqy7lz5d4k35o",
@@ -177,6 +188,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c5a/live/e353adf0-d863-11f1-85ab-b3cc3b5498c6.jpg",
       "type": "article",
       "addedAt": "2026-11-04T17:01:07.124Z"
+    },
+    {
+      "id": "ace649c2815e9f37",
+      "guid": "https://www.bbc.co.uk/news/articles/cqn734d24l0go#5",
+      "link": "https://www.bbc.co.uk/news/articles/cqn734d24l0go",
+      "title": "UK government to outlaw new North Sea drilling",
+      "excerpt": "Labour ministers have published legislation that would end the granting of new oil and gas licences.",
+      "published": "2026-11-04T16:28:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fe8/live/e0d51c90-d867-11f1-85ab-b3cc3b5498c6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T20:58:06.467Z"
     },
     {
       "id": "92779389e4d7e62c",
