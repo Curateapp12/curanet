@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "56642f252563769a",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10800985/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10800985/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-11-04T04:30:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T05:04:24.895Z"
+    },
+    {
+      "id": "d2afbfc317ddf15d",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10800980/sports-express-3-novembre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10800980/sports-express-3-novembre",
+      "title": "Sports Express - 3 novembre",
+      "excerpt": "Les nouvelles du sport avec Jérémie Turbide",
+      "published": "2026-11-04T04:23:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T05:04:24.895Z"
+    },
+    {
+      "id": "1128c2ad8f375304",
+      "guid": "https://ici.radio-canada.ca/sports/2298113/devils-oilers-tirs-de-barrage-lnh",
+      "link": "https://ici.radio-canada.ca/sports/2298113/devils-oilers-tirs-de-barrage-lnh",
+      "title": "Les Devils s’imposent face aux Oilers en tirs de barrage",
+      "excerpt": "Jack Hughes a inscrit deux buts et une aide dans une victoire de 4-3 des Devils face aux Oilers.",
+      "published": "2026-11-04T04:21:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/jack-hughes-devils-oilers.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T05:04:24.895Z"
+    },
+    {
+      "id": "2e6129cf619f762b",
+      "guid": "https://ici.radio-canada.ca/sports/2298109/mammoth-maple-leafs-lnh",
+      "link": "https://ici.radio-canada.ca/sports/2298109/mammoth-maple-leafs-lnh",
+      "title": "Le Mammoth bat les Maple Leafs à Toronto avant d’affronter le Canadien",
+      "excerpt": "Nick Schmaltz a inscrit le but gagnant pour le Mammoth en avantage numérique, en fin de troisième période.",
+      "published": "2026-11-04T04:10:21.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/mammoth-maple-leafs.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T05:04:24.895Z"
+    },
+    {
       "id": "1c600a2347e60e77",
       "guid": "https://ici.radio-canada.ca/sports/2298104/canadien-jets-defaite-lnh-centre-bell",
       "link": "https://ici.radio-canada.ca/sports/2298104/canadien-jets-defaite-lnh-centre-bell",
