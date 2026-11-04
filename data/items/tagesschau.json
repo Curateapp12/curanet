@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "68291e63c77b89c5",
+      "guid": "05647cce-5deb-4a72-b661-ce971bcb3240",
+      "link": "https://www.tagesschau.de/kultur/janosch-gestorben-100.html",
+      "title": "Kinderbuchautor und Illustrator Janosch mit 95 Jahren gestorben",
+      "excerpt": "Liebevoll illustrierte Geschichten mit Herz - das ist das Markenzeichen der Kinderbücher von Janosch. Nun ist Horst Eckert - wie der Illustrator und Schriftsteller mit bürgerlichem Namen heißt - im Alter von 95 Jahren auf Teneriffa gestorben.",
+      "published": "2026-11-04T09:57:45.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/64ed9483-5db7-4adc-86f1-56af64fb9c7d/AAABoaXa6Rs/AAABnSSvrFg/16x9-big/janosch-148.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T10:10:05.763Z"
+    },
+    {
+      "id": "d92b9981bdb38ff3",
+      "guid": "466e21c4-5a65-4bac-960a-b3ecc6c7519a",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html",
+      "title": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
+      "excerpt": "In Israel starten heute die entscheidenden Konsultationen über die Bildung einer neuen Regierung. Nach der Parlamentswahl steckt das Land in einer Blockade. Staatspräsident Herzog ruft zu historischen Kompromissen auf. Von Julio Segador.",
+      "published": "2026-11-04T09:43:26.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b2f2524d-772c-46f6-9f34-819ba44b950a/AAABoaXCJOY/AAABnSSvrFg/16x9-big/herzog-180.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T10:10:05.763Z"
+    },
+    {
+      "id": "9af150e7d3e24c4c",
+      "guid": "3966dd5f-6b63-4ec6-8b42-0617d096b059",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-analyse-100.html",
+      "title": "Midterms-Analyse: Sechs Erkenntnisse nach der \"blauen Welle\"",
+      "excerpt": "Das Midterms-Ergebnis ist deutlich, die Gründe auch: ein unbeliebter Präsident und hohe Preise. Aber was heißt das alles für den Rest der Präsidentschaft - und die Zeit danach? Von Martin Ganslmeier.",
+      "published": "2026-11-04T09:24:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/83cc031f-9dc2-4b56-8a0b-c0126ecfe6bc/AAABoaAiKuw/AAABnSSvrFg/16x9-big/uskongress-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T10:10:05.763Z"
+    },
+    {
       "id": "3b7863d2318c2d9f",
       "guid": "399ff083-8ed4-4e12-8ed0-9d9946591958",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-midterms-100.html",
