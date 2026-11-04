@@ -3,6 +3,72 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "43493c555ecc98be",
+      "guid": "https://globalnews.ca/?p=12135260",
+      "link": "https://globalnews.ca/news/12135260/winnipeg-council-sworn-in-2026/",
+      "title": "New Winnipeg city council takes office, sets agenda at inaugural meeting",
+      "excerpt": "Mayor Scott Gillingham and the 15 freshly elected representatives on Winnipeg city council took the Declaration of Office Tuesday.",
+      "published": "2026-11-04T01:07:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/winnipeg-council-swear-in-ceremony.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-04T01:11:23.536Z"
+    },
+    {
+      "id": "31331324d41ec05b",
+      "guid": "https://globalnews.ca/?p=12135069",
+      "link": "https://globalnews.ca/news/12135069/manitoba-producers-hopes-for-stability-from-u-s-midterms/",
+      "title": "Manitoba producers hopes for stability from U.S. midterms",
+      "excerpt": "Manitobans are watching the U.S. midterms closely on Tuesday evening hoping for some relief after tariffs continue to hamper the agricultural industry.",
+      "published": "2026-11-04T01:03:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/4966b6d154683a293af232a89a0833c7c23987871ccce1ade2d7b92344bec36a.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-04T01:11:23.536Z"
+    },
+    {
+      "id": "829db1b909af67f1",
+      "guid": "https://globalnews.ca/?p=12135018",
+      "link": "https://globalnews.ca/news/12135018/mcgill-convicted-murderer-no-longer-enrolled/",
+      "title": "McGill confirms convicted murderer no longer enrolled as a law student",
+      "excerpt": "McGill's provost, Angela Campbell, informed students and staff about the news in a statement sent on Monday.",
+      "published": "2026-11-04T00:48:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/6P-MCGILL-MURDERER-PROS_OM022ZQU.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-04T01:11:23.536Z"
+    },
+    {
+      "id": "c460e297b9c60520",
+      "guid": "https://globalnews.ca/?p=12134652",
+      "link": "https://globalnews.ca/news/12134652/montreal-police-officers-fired-reaction-union/",
+      "title": "‘Want to see more’: Further action demanded after 7 Montreal police officers fired",
+      "excerpt": "Activists are cautiously welcoming the firing of seven officers over misconduct allegations, calling the move a step toward accountability while also pressing for further action.",
+      "published": "2026-11-04T00:37:46.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/montreal-police-nov-2.png",
+      "type": "article",
+      "addedAt": "2026-11-04T01:11:23.536Z"
+    },
+    {
+      "id": "20a373a5097d683d",
+      "guid": "https://globalnews.ca/news/12135252/raptors-leonard-completes-swollen-knee-treatment/",
+      "link": "https://globalnews.ca/news/12135252/raptors-leonard-completes-swollen-knee-treatment/",
+      "title": "Raptors’ Leonard completes swollen knee treatment",
+      "excerpt": "The Toronto Raptors confirmed Tuesday night that forward Kawhi Leonard has successfully completed treatment to address swelling in his left knee.",
+      "published": "2026-11-04T00:20:15.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/2c89d3b85c409d219c083ae1cc3a9e2174d5ca3a6128c49fcf29eda1abfd307a_cd860d.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-04T01:11:23.536Z"
+    },
+    {
+      "id": "a7a67cc209edf089",
+      "guid": "https://globalnews.ca/?p=12135176",
+      "link": "https://globalnews.ca/news/12135176/city-of-edmonton-draft-budget-2027-2030-reaction/",
+      "title": "Mixed reaction to City of Edmonton’s proposed 2027-2030 budgets",
+      "excerpt": "The proposed budget means Edmontonians would pay about $68 per month in property taxes for every $100,000 of their assessed home value in 2027.",
+      "published": "2026-11-03T23:48:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2020/10/Edmonton-city-hall.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-04T01:11:23.536Z"
+    },
+    {
       "id": "f3168e84db982cb9",
       "guid": "https://globalnews.ca/?p=12135170",
       "link": "https://globalnews.ca/news/12135170/carney-trump-intense-trade-negotiation-us/",

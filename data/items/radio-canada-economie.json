@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "0a3bdbc19a5f0e00",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298033/toyrs-r-us-bureau-en-gros",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298033/toyrs-r-us-bureau-en-gros",
+      "title": "Toys\"R\"Us Canada s’installera dans 300 magasins Bureau en gros d’ici la fin 2027",
+      "excerpt": "Ce partenariat sera lancé le 14 novembre dans un magasin de Richmond Hill, en Ontario.",
+      "published": "2026-11-04T00:42:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/toys-r-us-magasin-fermeture-carrefour-estrie-sherbrooke.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-04T01:11:23.536Z"
+    },
+    {
+      "id": "7ddf25881a8c9f8c",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10800932/cout-vie-au-coeur-elections",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10800932/cout-vie-au-coeur-elections",
+      "title": "le coût de la vie, au coeur des élections",
+      "excerpt": "La guerre en Iran a poussé les prix du pétrole à plus de 100 $ le baril, entraînant une hausse du prix de l'essence et du diesel. Et la politique tarifaire ajoute à la pression sur l'inflation. Analyse de l'état de l'économie américaine avec les économistes Sébastien McMahon et Mathieu…",
+      "published": "2026-11-04T00:29:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/zoneeconomie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T01:11:23.536Z"
+    },
+    {
       "id": "c5e391c2126a0c71",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297994/politiques-budgetaire-monetaire-tiff-macklem-ottawa",
       "link": "https://ici.radio-canada.ca/nouvelle/2297994/politiques-budgetaire-monetaire-tiff-macklem-ottawa",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/gouverneur-banque-du-canada-tiff-macklem-ottawa.jpg",
       "type": "article",
       "addedAt": "2026-11-03T23:46:26.885Z"
+    },
+    {
+      "id": "595793c08672ba7b",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/segments/rattrapage/2520356/une-epicerie-cooperative-dans-vallee-fraser-charlotte-groulx",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/segments/rattrapage/2520356/une-epicerie-cooperative-dans-vallee-fraser-charlotte-groulx",
+      "title": "Une épicerie coopérative dans la vallée du Fraser",
+      "excerpt": "La région de l’Okanagan est reconnue pour ses vergers et ses vignobles, mais, depuis plusieurs années, elle vit des bouleversements climatiques importants, avec des sécheresses et des feux de forêt qui reviennent presque chaque été. C’est en anticipant ces perturbations que l’épicerie coopérative…",
+      "published": "2026-11-03T23:05:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/lumby-epicerie-coop-okanagan-achats.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T01:11:23.536Z"
     },
     {
       "id": "c151e7cafd90850e",
@@ -56,6 +89,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/zoneinfo.jpg",
       "type": "article",
       "addedAt": "2026-11-03T20:54:36.588Z"
+    },
+    {
+      "id": "618411e8271507fb",
+      "guid": "https://ici.radio-canada.ca/tele/la-facture/site/segments/reportage/2520037/assurance-habitation-maison-vacante-inoccupee",
+      "link": "https://ici.radio-canada.ca/tele/la-facture/site/segments/reportage/2520037/assurance-habitation-maison-vacante-inoccupee",
+      "title": "La question de la semaine sur les maisons vacantes et inoccupées",
+      "excerpt": "En matière d’assurance habitation, quelle est la différence entre une maison vacante et une maison inoccupée ?",
+      "published": "2026-11-03T16:53:00.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/72519000-b06d-4aad-9480-83281ef3698f/HR/2026-11-03_19_30_00_LF_0946_02_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-04T01:11:23.536Z"
     },
     {
       "id": "58ec5218f0542f02",
