@@ -3,6 +3,28 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "e1c1939fe48e68ba",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo",
+      "title": "Why is it going so wrong for Le Bris at Sunderland?",
+      "excerpt": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?",
+      "published": "2026-11-04T08:27:25.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a04/live/cf211500-d6c1-11f1-ac20-7783925c811f.png",
+      "type": "article",
+      "addedAt": "2026-11-04T09:01:51.937Z"
+    },
+    {
+      "id": "1ce7d8d1f6f1127e",
+      "guid": "https://www.bbc.co.uk/news/articles/c699z8792n7ro#5",
+      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "excerpt": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "published": "2026-11-04T07:39:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/383e2830-d810-11f1-bc0e-b5a9e0785e4b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T09:01:51.937Z"
+    },
+    {
       "id": "690fcedc76a52730",
       "guid": "https://www.bbc.co.uk/sport/boxing/articles/c6n047870jzeo#9",
       "link": "https://www.bbc.co.uk/sport/boxing/articles/c6n047870jzeo",
@@ -23,6 +45,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b66/live/97a4b9a0-d6d1-11f1-ac20-7783925c811f.jpg",
       "type": "article",
       "addedAt": "2026-11-04T07:24:02.138Z"
+    },
+    {
+      "id": "9552923ad23e8dc9",
+      "guid": "https://www.bbc.co.uk/sport/rugby-league/articles/c9kgj3elgmkzo#9",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c9kgj3elgmkzo",
+      "title": "Why rugby league needs Tonga-Samoa World Cup final",
+      "excerpt": "Tonga will face New Zealand after winning all three group matches, before Samoa face Australia in a repeat of the 2022 final.",
+      "published": "2026-11-04T07:00:16.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d8b/live/18463090-d798-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T09:01:51.937Z"
+    },
+    {
+      "id": "43c3d728653be263",
+      "guid": "https://www.bbc.co.uk/news/articles/cmq8n9y8ex55o#5",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8n9y8ex55o",
+      "title": "Runner walks final London Marathon mile six months on after cardiac arrest",
+      "excerpt": "Gareth Hopkins suffered a cardiac arrest at the 25th mile of the London Marathon in April.",
+      "published": "2026-11-04T05:53:05.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d85a/live/7eba8770-d821-11f1-a9b6-0f4245e849b7.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T09:01:51.937Z"
     },
     {
       "id": "29ae32388e5cdaae",
@@ -201,6 +245,17 @@
       "addedAt": "2026-11-04T01:11:23.536Z"
     },
     {
+      "id": "57e44e3d60a9882d",
+      "guid": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo#5",
+      "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo",
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "excerpt": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "published": "2026-11-04T00:09:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba8f/live/30731660-d82e-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T09:01:51.937Z"
+    },
+    {
       "id": "b0514df6d055e483",
       "guid": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no#2",
       "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no",
@@ -320,6 +375,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7db5/live/2033de90-d7c7-11f1-a719-bf3dc3a3d5b5.jpg",
       "type": "article",
       "addedAt": "2026-11-04T01:11:23.536Z"
+    },
+    {
+      "id": "b954aa676089db5f",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/ck054q3g5jnpo#9",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ck054q3g5jnpo",
+      "title": "Ocon dropped by Haas for rest of season after row",
+      "excerpt": "F1 team Haas says Estaban Ocon will \"no longer compete on its behalf in the 2026 world championship\" after he was dropped for the Mexico Grand Prix.",
+      "published": "2026-11-03T21:15:53.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/768d/live/8674eeb0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T09:01:51.937Z"
     },
     {
       "id": "a16314a2c701d2e4",
