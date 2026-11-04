@@ -3,6 +3,39 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "82f27a49ccd964bf",
+      "guid": "fcca1084dc873f9a970396b2cb16f7d6",
+      "link": "https://www.lapresse.ca/actualites/2026-11-04/ce-qu-il-faut-savoir-ce-mercredi/defaite-republicaine-negociations-commerciales-et-delit-de-fuite.php",
+      "title": "Ce qu’il faut savoir ce mercredi | Défaite républicaine, négociations commerciales et délit de fuite",
+      "excerpt": "La journée passe vite. Voici les trois nouvelles qui ont marqué l’actualité jusqu’ici.",
+      "published": "2026-11-04T21:45:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/77de1610527337859ae19af51cf0b584.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T21:54:25.164Z"
+    },
+    {
+      "id": "92ad2864a51fe54e",
+      "guid": "e62cad3aea1c35ba9af6e66ba6d0dcce",
+      "link": "https://www.lapresse.ca/actualites/national/2026-11-04/forces-armees-canadiennes/cour-martiale-pour-un-militaire-accuse-d-avoir-partage-des-secrets-avec-l-ukraine.php",
+      "title": "Forces armées canadiennes | Cour martiale pour un militaire accusé d’avoir partagé des secrets avec l’Ukraine",
+      "excerpt": "Un militaire canadien arrêté l’an dernier pour avoir partagé des informations sensibles avec l’Ukraine sera finalement jugé devant une cour martiale en décembre, a annoncé le bureau du juge militaire en chef mercredi.",
+      "published": "2026-11-04T21:24:09.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/f5e5f6f3d1d1331fafd985be44ce0bb8.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T21:54:25.164Z"
+    },
+    {
+      "id": "14dd192dab41113b",
+      "guid": "102f567e9a1734f8ad1f929c46a8860b",
+      "link": "https://www.lapresse.ca/actualites/editoriaux/2026-11-04/elections-de-mi-mandat/merci-encore-pour-l-electrochoc-m-trump.php",
+      "title": "Élections de mi-mandat | Merci encore pour l’électrochoc, M. Trump",
+      "excerpt": "Même si Donald Trump sort extrêmement affaibli des élections de mi-mandat, le Canada ne doit jamais oublier l’électrochoc que le président américain lui a fait subir.",
+      "published": "2026-11-04T21:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T21:54:25.164Z"
+    },
+    {
       "id": "8ae14b9655ba5307",
       "guid": "e79fd116bc583934b6e0aac7ae984543",
       "link": "https://www.lapresse.ca/actualites/sante/2026-11-04/budget-federal/le-quebec-reclame-une-hausse-des-transferts-en-sante.php",

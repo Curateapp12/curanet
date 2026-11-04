@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "de78875600613269",
+      "guid": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "excerpt": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "published": "2026-11-04T21:31:18.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-04T21:54:25.164Z"
+    },
+    {
+      "id": "0fd87eaf33b4e085",
+      "guid": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "excerpt": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+      "published": "2026-11-04T20:58:19.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-04T21:54:25.164Z"
+    },
+    {
       "id": "1413af0079f42d2d",
       "guid": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
