@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "9a25104deb4fefaf",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298247/budget-federal-fonctionnaires-federaux",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298247/budget-federal-fonctionnaires-federaux",
+      "title": "Budget fédéral : « Il faut renforcer la fonction publique », selon les syndicats",
+      "excerpt": "Les syndicats soulignent l'importance des fonctionnaires pour mettre en œuvre les promesses budgétaires.",
+      "published": "2026-11-04T17:41:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/fonction-publique-pre-budget.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T17:57:29.107Z"
+    },
+    {
+      "id": "a01b8406e33b35a4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298258/prolongation-accord-chine-canola-acier",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298258/prolongation-accord-chine-canola-acier",
+      "title": "La Chine et le Canada prolongent jusqu’à fin 2028 l’accord sur le canola et l’acier",
+      "excerpt": "Ottawa s’est fixé pour objectif d’augmenter ses exportations vers la Chine de 50 % d’ici 2030.",
+      "published": "2026-11-04T17:39:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/agriculture-champ-fleur-canola-saskatchewan-68019.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T17:57:29.107Z"
+    },
+    {
+      "id": "eafb7cab2736df80",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298222/surprise-deficit-finances-publiques-quebec-pspp",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298222/surprise-deficit-finances-publiques-quebec-pspp",
+      "title": "PSPP dénonce des « surprises » dans les finances publiques",
+      "excerpt": "Le premier ministre du Québec attribue la responsabilité aux précédents gouvernements de la CAQ.",
+      "published": "2026-11-04T17:03:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/paul-st-pierre-plamondon-premier-ministre-quebec.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T17:57:29.107Z"
+    },
+    {
+      "id": "24da62ae8041c625",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298219/commissaire-droits-enfants-protection-quebec",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298219/commissaire-droits-enfants-protection-quebec",
+      "title": "Quel est le rôle de la Commissaire au bien-être et aux droits des enfants?",
+      "excerpt": "Entretien avec la nouvelle commissaire, Marie-Ève Brunet Kitchen.",
+      "published": "2026-11-04T16:12:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/le-15-18-enfant-adoption-dpj.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T17:57:29.107Z"
+    },
+    {
       "id": "03e16c3b2e1d678c",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298207/accusation-extradition-cyberattaque-cryptomonnaie-canada",
       "link": "https://ici.radio-canada.ca/nouvelle/2298207/accusation-extradition-cyberattaque-cryptomonnaie-canada",
@@ -23,6 +67,28 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/sous-marin-defense-militaire-tkms.jpg",
       "type": "article",
       "addedAt": "2026-11-04T17:01:07.124Z"
+    },
+    {
+      "id": "db4e26c8112f67eb",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298178/prix-femina-yannick-haenel-professeurs",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298178/prix-femina-yannick-haenel-professeurs",
+      "title": "Le prix Femina décerné à Yannick Haenel pour La solitude des professeurs est infinie",
+      "excerpt": "Ce roman fait le récit de ses années d'enseignement dans des établissements scolaires de banlieue défavorisée.",
+      "published": "2026-11-04T15:28:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/yannick-haenel.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T17:57:29.107Z"
+    },
+    {
+      "id": "dd1a474d3791dc77",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298172/poursuite-cb-autruches-acia-grc",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298172/poursuite-cb-autruches-acia-grc",
+      "title": "Autruches abattues en C.-B. : la ferme poursuit le fédéral, l’ACIA et la GRC pour 200 M$",
+      "excerpt": "Des centaines d'autruches avaient été abattues par l'Agence canadienne d'inspection des aliments il y a un an.",
+      "published": "2026-11-04T14:17:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/autruches-universal-ostrich-edgewood-acia-88021.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T17:57:29.107Z"
     },
     {
       "id": "203eb24e11ed7244",
