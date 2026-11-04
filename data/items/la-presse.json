@@ -3,6 +3,72 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "1f2f63eadba06eef",
+      "guid": "785d8a23ec533dc1b9b14d604c1b3f23",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/saint-laurent/une-boulangerie-patisserie-ravagee-par-un-deuxieme-incendie.php",
+      "title": "Saint-Laurent | Une boulangerie-pâtisserie ravagée par un deuxième incendie",
+      "excerpt": "Pour la deuxième fois en 48 heures, une boulangerie-pâtisserie située sur la rue Saint-Louis, dans l’arrondissement de Saint-Laurent, a été visée par un incendie criminel.",
+      "published": "2026-11-04T12:47:04.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/a362f3df83753d729f5981023958f771.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T13:12:29.746Z"
+    },
+    {
+      "id": "4eef10cbb0cbc452",
+      "guid": "5496cb28565a3ccf849cd7ad645b1f3c",
+      "link": "https://www.lapresse.ca/actualites/caricatures/2026-11-04/elections-de-mi-mandat/plongeon-a-haut-risque.php",
+      "title": "Élections de mi-mandat | Plongeon à haut risque",
+      "excerpt": "",
+      "published": "2026-11-04T12:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/1d4444016a3f3e24ac2328923ea6a39d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T13:12:29.746Z"
+    },
+    {
+      "id": "b579f18dd9c00b4a",
+      "guid": "6bfc544528013797b3fba82553884d6d",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-04/transports-en-direct/tout-va-bien.php",
+      "title": "Transports en direct | Tout va bien",
+      "excerpt": "Quelque chose à signaler sur les routes ou sur les rails ? La Presse examine le réseau en cette heure de pointe matinale et précise la couleur des feux de circulation.",
+      "published": "2026-11-04T11:09:38.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/3e349ca7d525373d8382eead137150a6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T13:12:29.746Z"
+    },
+    {
+      "id": "20aaab4b63137a57",
+      "guid": "bd56474dad9c30b1b38d73b7b5b6fb6d",
+      "link": "https://www.lapresse.ca/actualites/2026-11-04/ce-qu-on-suit-ce-mercredi/francois-philippe-champagne-qs-adisq.php",
+      "title": "Ce qu’on suit ce mercredi | François-Philippe Champagne, QS, ADISQ",
+      "excerpt": "Voici les évènements au programme aujourd’hui.",
+      "published": "2026-11-04T11:01:03.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/f8ec6696dc333193a339c8a16b8dc1fa.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T13:12:29.746Z"
+    },
+    {
+      "id": "e106d4bc86007cdd",
+      "guid": "cd2aaa59ac0d393e9330bd440d2ed3d9",
+      "link": "https://www.lapresse.ca/actualites/2026-11-04/la-revue-de-presse-de-paul-arcand/degelee-pour-trump-suspect-arrete-pour-la-mort-d-un-cycliste-le-syndicat-defend-les-policiers-congedies.php",
+      "title": "La revue de presse de Paul Arcand | Dégelée pour Trump, suspect arrêté pour la mort d’un cycliste, le syndicat défend les policiers congédiés",
+      "excerpt": "À l’occasion de sa revue de presse, mercredi, Paul Arcand analyse la dégelée subie par le Parti républicain du président Donald Trump aux élections de mi-mandat aux États-Unis.",
+      "published": "2026-11-04T10:59:08.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/af5002d52e043fe692ad53450eec76e4.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T13:12:29.746Z"
+    },
+    {
+      "id": "9ad2bf8e14211d9f",
+      "guid": "dc97cfa154f33c0288680b6ec49d3042",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/ottawa/un-ancien-employe-de-banque-reconnu-coupable-d-avoir-consulte-les-donnees-de-mark-carney.php",
+      "title": "Ottawa | Un ancien employé de banque reconnu coupable d’avoir consulté les données de Mark Carney",
+      "excerpt": "Un ancien employé de la Banque Royale du Canada (RBC) a été reconnu coupable de trois chefs d’accusation après avoir ouvert des comptes frauduleux et consulté les informations bancaires personnelles du premier ministre Mark Carney.",
+      "published": "2026-11-04T10:37:33.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/28fb2e84/9b107f2c78503ce3ab47ffbefc58dcc1.jpg",
+      "type": "article",
+      "addedAt": "2026-11-04T13:12:29.746Z"
+    },
+    {
       "id": "c7c79fb40eda99b4",
       "guid": "1c559535842b33fcb52b90bf94e61155",
       "link": "https://www.lapresse.ca/actualites/sciences/2026-11-03/conferences-internationales-a-montreal/des-solutions-contre-la-pollution-et-les-pandemies.php",
