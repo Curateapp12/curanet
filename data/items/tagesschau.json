@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "b63285c8caa58016",
+      "guid": "8c6b8ff1-9621-491c-ab01-a16344bba188",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",
+      "title": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
+      "excerpt": "Viele Länder möchten EU-Mitglied werden - für Montenegro läuft es am besten. Die EU hält einen Beitritt des kleinen Balkan-Landes schon 2028 für möglich. Für andere Staaten gebe es hingegen gerade eher keine Perspektive.",
+      "published": "2026-11-04T14:11:39.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bfb067fd-4f50-4786-9bb3-536328b63559/AAABoaauQlo/AAABnSSvrFg/16x9-big/flagge-montenegro-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T14:25:04.566Z"
+    },
+    {
+      "id": "68b0200c2b77fa8f",
+      "guid": "8bf552e4-5de0-46de-8fa9-4ca52a592366",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
+      "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
+      "excerpt": "Ein Teilerfolg für die Demokraten war erwartet worden. Doch die Zwischenwahlen in den USA kommen einem Desaster für Präsident Trump gleich. Was war dafür ausschlaggebend und wie geht es jetzt weiter? Fragen und Antworten zu den Midterms.",
+      "published": "2026-11-04T13:44:41.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f44d6ac1-c09a-4c37-a1e1-86f6499d7ece/AAABoabOAVo/AAABnSSvrFg/16x9-big/trump-maga-caps-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T14:25:04.566Z"
+    },
+    {
+      "id": "6ca5bb0a0a3b8712",
+      "guid": "b23346e5-2b2b-4fe4-831d-1ab7964f4a23",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/rna-forschung-chancen-und-risiken-100.html",
+      "title": "RNA-Medizin: Was kommt nach der Corona-Impfung?",
+      "excerpt": "Bekannt wurde die RNA-Medizin vor allem während der Corona-Pandemie - durch die mRNA-Impfstoffe. Künftig könnten solche Therapien auch bei Herz-Kreislauf-Erkrankungen, seltenen Krankheiten oder Krebs zum Einsatz kommen.",
+      "published": "2026-11-04T13:21:52.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1dff1ba1-1ca1-426c-bd98-a978989a711e/AAABoaZX6-s/AAABnSSvrFg/16x9-big/rna-forschung-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T14:25:04.566Z"
+    },
+    {
+      "id": "316daddd515a182b",
+      "guid": "f699017b-cfd2-4c44-a6db-b33d0ac9c5e1",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
+      "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
+      "excerpt": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren könnten.",
+      "published": "2026-11-04T13:11:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/87e3db69-9963-4b9d-a2cc-526e0306ecd2/AAABoaamGdo/AAABnSSvrFg/16x9-big/midterms-218.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-04T14:25:04.566Z"
+    },
+    {
       "id": "1fae516a6ccaaf13",
       "guid": "9cbcf7b0-e720-4912-86bc-3571fab288c1",
       "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
