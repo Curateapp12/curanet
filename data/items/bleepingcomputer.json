@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "dad53d7e3ed50329",
+      "guid": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "title": "Closing the Identity Gap at the Service Desk",
+      "excerpt": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account…",
+      "published": "2026-11-05T15:00:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-05T15:26:38.116Z"
+    },
+    {
+      "id": "da77af0f435fbc61",
+      "guid": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "excerpt": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+      "published": "2026-11-05T09:18:29.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-05T15:26:38.116Z"
+    },
+    {
       "id": "de78875600613269",
       "guid": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
       "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
