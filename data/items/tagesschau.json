@@ -3,6 +3,105 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "4e2a8eaf0ebfc062",
+      "guid": "10c0ed06-be89-4389-8922-b359b4b76c5e",
+      "link": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
+      "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
+      "excerpt": "Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, es kam mancherorts dennoch zu Ausschreitungen.",
+      "published": "2026-11-05T21:18:10.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/91b8d417-f963-4987-bdfb-b61f4d228ca8/AAABoazzJoA/AAABnSSvrFg/16x9-big/demonstranten-paris-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "6438a773e61f93f9",
+      "guid": "687076d5-8576-4404-9d03-d98abc08888e",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
+      "title": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
+      "excerpt": "Im Oktober war ein Häftling in Essen während eines Arztbesuchs von Komplizen befreit worden und ist seitdem auf der Flucht. Nun räumte der NRW-Justizminister ein: Den Schlüssel für die Fußfessel gab es für 10 Euro im Internet zu kaufen.",
+      "published": "2026-11-05T19:34:20.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c1bdd1c2-4645-4955-9679-36718a4a205b/AAABoa0unLk/AAABnSSvrFg/16x9-big/essen-polizei-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "dfed495e675cfe8d",
+      "guid": "00987f54-a0d3-43a7-975f-58f673827631",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
+      "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
+      "excerpt": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff",
+      "published": "2026-11-05T19:11:03.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1a3ebc67-f846-4558-b6e1-dbc96f6cdfa1/AAABoaaLDok/AAABnSSvrFg/16x9-big/cyberangriff-supermarkt-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "772659164fa3f0cf",
+      "guid": "b81ad0aa-493e-440d-a17f-33be78bab47e",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
+      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
+      "excerpt": "Inmitten einer schweren Bankenkrise seines Landes hat Paraguays Präsident Peña seinen Rücktritt eingereicht. Ihm wurden geschäftliche Beziehungen zur Muttergesellschaft der Pleitebank vorgeworfen. Von A. Herrberg.",
+      "published": "2026-11-05T18:26:37.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoa0KZI8/AAABnSSvrFg/16x9-big/pena-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "ca6c0f981c5dcad9",
+      "guid": "774eef01-b89f-44e1-9711-aadbb779f7bc",
+      "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
+      "title": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
+      "excerpt": "Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig.",
+      "published": "2026-11-05T17:56:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/22c9fede-c3b6-42bf-9d65-2296423a5980/AAABoazFYc4/AAABnSSvrFg/16x9-big/rene-benko-126.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "3a663741c26724e0",
+      "guid": "9f8005c7-2b47-4a91-aa3e-cd29bd6a6c3c",
+      "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
+      "title": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
+      "excerpt": "Ukrainische Antikorruptionsbehörden haben neue Ermittlungsergebnisse veröffentlicht, die schockieren: Der Korruptionsskandal zieht offenbar noch weitere Kreise als bisher bekannt - und betrifft auch Geheimdienst und Polizei. Von F. Kellermann.",
+      "published": "2026-11-05T17:03:34.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ad914db0-3836-4392-8519-371c55954844/AAABoaymX6M/AAABnSSvrFg/16x9-big/ukraine-flagge-114.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "b55b763ee57db170",
+      "guid": "7d60cf75-d6fb-4b6a-82b3-cc8283193a15",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
+      "title": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
+      "excerpt": "82 Prozent der Menschen in Deutschland findet, dass die Politik die Anliegen junger Menschen nicht gut genug berücksichtigt. Die junge Generation selbst vertraut im ARD-DeutschlandTrend vor allem zwei Parteien. Von Christian Basl.",
+      "published": "2026-11-05T17:01:09.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/cc3708c1-f48c-43a9-ad65-499b2ce07d74/AAABmamZfiU/AAABnSSvrFg/16x9-big/deutschlandtrend-3337.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "8b1e13e0cc6f07ef",
+      "guid": "96903353-9533-4561-b1d2-96267a8868dc",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-midterms-trump-alaska-100.html",
+      "title": "Trump kritisiert die Midterms-Auszählung im Bundesstaat Alaska",
+      "excerpt": "Noch läuft die Auszählung der Senatoren-Wahl in Alaska. Es zeichnet sich ein knappes Rennen ab. Nun mischt sich US-Präsident Trump ein: Er fordert, die Stimmen für Dan J. Sullivan dem Republikaner Dan S. Sullivan zuzuschlagen.",
+      "published": "2026-11-05T16:58:22.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c74d76ff-3c36-4b7d-9d6f-262a04d07e36/AAABoaxKWOk/AAABnSSvrFg/16x9-big/donald-trump-994.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "2ddedc2481f7f3b7",
+      "guid": "1074db23-1f49-453b-942f-b4d5b3917695",
+      "link": "https://www.tagesschau.de/ausland/europa/russell-brand-verurteilung-100.html",
+      "title": "Britischer Komiker Brand der Vergewaltigung schuldig gesprochen",
+      "excerpt": "Russell Brand - der britische Komiker und Schauspieler - blickt einer Gefängnisstrafe entgegen. Der 51-Jährige ist in einem Prozess um sexuelle Gewalt in mehreren Punkten für schuldig befunden worden.",
+      "published": "2026-11-05T15:42:30.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/fe0f04f7-8477-4ba0-9a2b-11acb26a57fa/AAABoaxREqU/AAABnSSvrFg/16x9-big/russell-brand-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
       "id": "079d29997e986c44",
       "guid": "ed086999-60d7-442e-8dc7-d095b3da866f",
       "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html",

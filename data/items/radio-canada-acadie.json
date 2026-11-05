@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "b3d46e2e804ea508",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10802674/erosion-cotiere-est-ce-qu-il-existe-solutions",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10802674/erosion-cotiere-est-ce-qu-il-existe-solutions",
+      "title": "Érosion côtière : est-ce qu’il existe des solutions?",
+      "excerpt": "L’érosion côtière s’est accélérée dans les dernières années au Nouveau-Brunswick. Des communautés cherchent des solutions. Peut-on ralentir ce phénomène ou mitiger son effet?",
+      "published": "2026-11-05T21:19:29.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-sens-large-erosion-cotiere.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "90c2b33b20246f0a",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298675/ecole-anglophone-dieppe-anglicisation",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298675/ecole-anglophone-dieppe-anglicisation",
+      "title": "École anglophone à Dieppe : l’anglicisation, une « inquiétude réelle », dit Susan Holt",
+      "excerpt": "Susan Holt dit comprendre les inquiétudes des citoyens qui s’opposent au projet.",
+      "published": "2026-11-05T20:49:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/susan-holt-claire-johnson-ecole-anglophone-dieppe.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "130fd9b03955f30c",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10802533/centre-culturel-chaloupe-largue-amarres",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10802533/centre-culturel-chaloupe-largue-amarres",
+      "title": "Le centre culturel La Chaloupe largue les amarres!",
+      "excerpt": "Un nouveau centre culturel et communautaire francophone ouvre ses portes au centre-ville d'Halifax. La vidéojournaliste Stéphanie Blanchet nous fait découvrir ses installations.",
+      "published": "2026-11-05T19:11:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/centre-culturel-francophone-chaloupe-halifax.png",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "91e9ebebae2c4cc7",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2522065/est-ce-possible-ralentir-erosion-au-nouveau-brunswick",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2522065/est-ce-possible-ralentir-erosion-au-nouveau-brunswick",
+      "title": "L’érosion côtière au Nouveau-Brunswick, qu’elles sont les solutions?",
+      "excerpt": "L’érosion côtière s’est accélérée dans les dernières années dans plusieurs régions au Nouveau-Brunswick. Des communautés cherchent des solutions, mais le financement se fait attendre. Peut-on ralentir ce phénomène ou mitiger son effet ? Karine Godin ouvre la discussion.",
+      "published": "2026-11-05T18:59:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/le-goulet-nb-paysage-hiver-acadie-erosion.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "9342cdaf29b14d77",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298525/feu-train-rogersville-cn",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298525/feu-train-rogersville-cn",
+      "title": "L’activité ferroviaire, seule cause probable des feux de broussailles à Rogersville",
+      "excerpt": "La cause présumée des feux du 5 mai dernier n'a pas pu être confirmée par les enquêteurs de la province.",
+      "published": "2026-11-05T18:18:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/feu-rogersville.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "016e61a187ebe1d7",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298555/consultation-fracturation-gaz-schiste-sussex",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298555/consultation-fracturation-gaz-schiste-sussex",
+      "title": "Gaz de schiste : barrage de questions à Sussex lors d’une consultation publique",
+      "excerpt": "Des participants redoutent des effets négatif, d'autres espèrent une prospérité économique.",
+      "published": "2026-11-05T17:45:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/consultation-fracturation-gaz-schiste-sussex-nouveau-brunswick.png",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "123495af81139548",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298570/operation-nez-rouge-gaetan-germain",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298570/operation-nez-rouge-gaetan-germain",
+      "title": "Nez rouge honore Gaétan Germain, fondateur du service dans la Péninsule",
+      "excerpt": "Le service sera disponible du 27 novembre au 31 décembre dans trois régions du Nouveau-Brunswick.",
+      "published": "2026-11-05T17:29:38.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/operation-nez-rouge-gaetan-germain.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
       "id": "d578287700d8603b",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298543/ecole-anglophone-dieppe-eleves",
       "link": "https://ici.radio-canada.ca/nouvelle/2298543/ecole-anglophone-dieppe-eleves",
@@ -23,6 +100,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/telejournal-acadie-karine-godin-4-novembre.jpg",
       "type": "article",
       "addedAt": "2026-11-05T15:26:38.116Z"
+    },
+    {
+      "id": "1af5ef9ac2b7a9b5",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2521926/parcours-inspirants-immigration-francophone",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2521926/parcours-inspirants-immigration-francophone",
+      "title": "Des parcours inspirants en immigration francophone",
+      "excerpt": "À chaque début novembre, c’est la Semaine de l'immigration francophone au Canada. Pour marquer l'occasion, le Réseau en immigration francophone du NB propose de courtes vidéos où des nouveaux arrivants racontent leur expérience migratoire et leur intégration, en français, chez nous.",
+      "published": "2026-11-05T13:09:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/rija-rabearivelo-madagascar-infirmier-georges-dumont.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
     },
     {
       "id": "082281e8ee2c9071",

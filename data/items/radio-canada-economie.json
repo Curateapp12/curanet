@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "92225e145bb042a0",
+      "guid": "https://ici.radio-canada.ca/espaces-autochtones/2298663/budget-2026-milliards-infrastructures-programmes-autochtones",
+      "link": "https://ici.radio-canada.ca/espaces-autochtones/2298663/budget-2026-milliards-infrastructures-programmes-autochtones",
+      "title": "Le budget 2026 mise sur les infrastructures et les programmes sociaux autochtones",
+      "excerpt": "Les services destinés aux jeunes autochtones sont au cœur des investissements sociaux du gouvernement.",
+      "published": "2026-11-05T21:30:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/chantier-premiere-nation.png",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "9f327be2a089cebb",
+      "guid": "https://ici.radio-canada.ca/espaces-autochtones/2298581/hydro-kahnawake-projet-ligne-transport",
+      "link": "https://ici.radio-canada.ca/espaces-autochtones/2298581/hydro-kahnawake-projet-ligne-transport",
+      "title": "Hydro vendra à Kahnawà:ke une partie d’une ligne de transport d’électricité",
+      "excerpt": "La communauté mohawk pourrait devenir actionnaire d’un tronçon de 58 kilomètres vers l’État de New York.",
+      "published": "2026-11-05T20:45:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/images-generiques-de-hydro-quebec-lignes-de-transmissions-tour-stations-electricite-transformateurs-equipements-tension-energie-energeteique-photo-prise-dans-la-region-de-montreal-quebec-canada--26562.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "e98c1ff539dfc502",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10802566/employes-amazon-se-mobilisent-avec-unifor-en-ontario",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10802566/employes-amazon-se-mobilisent-avec-unifor-en-ontario",
+      "title": "Des employés d’Amazon se mobilisent avec Unifor en Ontario",
+      "excerpt": "Unifor lance une campagne pour syndiquer des employés d’Amazon dans la région du Grand Toronto. Manisha Joshi-Vijayan est une organisatrice de la campagne des travailleurs avec Unifor.",
+      "published": "2026-11-05T19:27:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/amazon-prime-paquets.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "d0322a2e735f8efd",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17733/deduction-carney-federal-budget-champagne-finances-canada",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17733/deduction-carney-federal-budget-champagne-finances-canada",
+      "title": "Qu’est-ce que la « mégadéduction » du gouvernement fédéral?",
+      "excerpt": "Cette mesure, qui vise à favoriser les investissements en productivité au Canada, a été promise par le gouvernement Carney et figurera dans le budget fédéral.",
+      "published": "2026-11-05T18:41:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-sommet-investissement-86638.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
       "id": "eb54837127e68c14",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10802120/a-quoi-doit-on-s-attendre-en-ce-jour-budget-a-ottawa",
       "link": "https://ici.radio-canada.ca/info/videos/1-10802120/a-quoi-doit-on-s-attendre-en-ce-jour-budget-a-ottawa",
@@ -67,6 +111,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/techniques-policiere-cegep-baie-comeau.jpg",
       "type": "article",
       "addedAt": "2026-11-04T23:49:08.000Z"
+    },
+    {
+      "id": "1e66039dd8d2150d",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-retour/segments/rattrapage/2521132/un-couple-restaurateurs-pris-dans-un-enfer-administratif-violette-cantin",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-retour/segments/rattrapage/2521132/un-couple-restaurateurs-pris-dans-un-enfer-administratif-violette-cantin",
+      "title": "Après un sinistre, ce restaurant de Piedmont tente de survivre",
+      "excerpt": "Un couple, propriétaire d’un restaurant à Piedmont, dans les Laurentides, doit vivre avec les conséquences financières d’un sinistre survenu il y a plus de trois ans. En mode survie depuis ce temps, le duo doit composer avec des dédales administratifs, tout en travaillant sans relâche pour garder…",
+      "published": "2026-11-04T22:08:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/generateur-images/16x9/merci-la-vie-restaurant-piemont-facade-ohdio-votre-retour.png",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
     },
     {
       "id": "0ee6b6a1a3a9e486",

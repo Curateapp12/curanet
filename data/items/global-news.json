@@ -3,6 +3,116 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "7c4524258c8ecce8",
+      "guid": "https://globalnews.ca/?p=12138808&preview=true&preview_id=12138808",
+      "link": "https://globalnews.ca/news/12138808/budget-2026-journalism-tax-credit/",
+      "title": "Ottawa boosts journalist tax credit by $501M to give ‘greater stability’",
+      "excerpt": "The federal government is extending its journalism tax credit by $501 million over five years, with $85 million in ongoing annual funding.",
+      "published": "2026-11-05T21:57:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/e64fe83fe20ac27596a2ca99835a7c87c204ef1a9f538caf2bbcb22b93b1c567.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "03f6d37ece14300e",
+      "guid": "https://globalnews.ca/?p=12138708",
+      "link": "https://globalnews.ca/news/12138708/development-fees-halifax-nova-scotia/",
+      "title": "Halifax councillors question how infrastructure will be funded after extended fee freeze",
+      "excerpt": "Nova Scotia has extended its freeze on increasing development fees in Halifax and some councillors say they're concerned about where to find money for infrastructure upgrades.",
+      "published": "2026-11-05T21:47:05.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/halifax-development.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "9fb1c9aa0bd99731",
+      "guid": "https://globalnews.ca/?p=12138831",
+      "link": "https://globalnews.ca/news/12138831/stamp-prices-budget-2026/",
+      "title": "Stamp prices are going up for Canadians under Budget 2026",
+      "excerpt": "The 40 per cent increase will have a 'relatively limited impact' on consumers and small businesses, the government said in the federal budget.",
+      "published": "2026-11-05T21:43:28.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Canada-Post-stamps-e1793914412387.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "2137b2c9548bbe0d",
+      "guid": "https://globalnews.ca/?p=12138814&preview=true&preview_id=12138814",
+      "link": "https://globalnews.ca/news/12138814/budget-2026-cultural-promises/",
+      "title": "Free museums for youth, free digital books among budget culture vows",
+      "excerpt": "The Liberal government says it is providing 'unprecedented' support in the new federal budget for culture and recreation through $4 billion in funding over five years.",
+      "published": "2026-11-05T21:39:30.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/budget-2026-culture.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "d1b592e5383a205b",
+      "guid": "https://globalnews.ca/?p=12138773",
+      "link": "https://globalnews.ca/news/12138773/police-escorting-students-bella-coola-fatal-grizzly-attack/",
+      "title": "Police escorting students in Bella Coola after fatal grizzly attack",
+      "excerpt": "The Nuxalk Nation said in a social media update that police will also be conducting more night patrols in the area and offering voluntary rides home for youth who are out at night.",
+      "published": "2026-11-05T21:35:40.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/JENNY-AND-SELAH-1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "221c073be77e7bbd",
+      "guid": "https://globalnews.ca/?p=12138810&preview=true&preview_id=12138810",
+      "link": "https://globalnews.ca/news/12138810/budget-2026-by-the-numbers/",
+      "title": "A closer look at Budget 2026 by some of the key numbers",
+      "excerpt": "How many times was the word 'sovereignty' mentioned? A look at some of the numbers in the 2026 federal budget, tabled on Thursday.",
+      "published": "2026-11-05T21:32:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/decfb68e5ac9463952712d8fe7a99150738b62e8e9b9ca048c7e746ebeaa2759.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "26009249c948d8da",
+      "guid": "https://globalnews.ca/?p=12138010",
+      "link": "https://globalnews.ca/news/12138010/ndp-call-emergency-debate-ai-data-centre/",
+      "title": "NDP renews call for emergency debate on $10B Cape Breton AI data centre project",
+      "excerpt": "The Official Opposition in Nova Scotia is renewing its call for emergency debate in the legislature following last month's announcement of a $10-billion AI data centre project.",
+      "published": "2026-11-05T21:31:34.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/data-centre-concerns-e1793905188772.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "cf9d778031b5b400",
+      "guid": "https://globalnews.ca/?p=12138376",
+      "link": "https://globalnews.ca/news/12138376/calgary-water-system-had-systemic-issues-before-pipe-failure-report/",
+      "title": "Calgary water system had ‘systemic’ issues before pipe failure: Report",
+      "excerpt": "The report found the 2024 and 2025 failures exposed systemic governance, asset-management, financial-management and accountability weaknesses — rather than simply a failed pipe.",
+      "published": "2026-11-05T21:30:58.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Bearspaw-goldie.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "511992b94992341e",
+      "guid": "https://globalnews.ca/?p=12138816&preview=true&preview_id=12138816",
+      "link": "https://globalnews.ca/news/12138816/budget-2026-homelessness/",
+      "title": "Ottawa vows to end homelessness in 10 years in Budget 2026",
+      "excerpt": "The Carney government is promising to end homelessness in Canada within a decade, vowing a focus on transitional housing and work with the provinces.",
+      "published": "2026-11-05T21:28:13.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/a5e7a3d290f0866125eb4fd87850dfd3eb35787846fdebe655a95c8aaa2a7cba_ca9718.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "0fe84f876f2bbce7",
+      "guid": "https://globalnews.ca/?p=12138670",
+      "link": "https://globalnews.ca/news/12138670/budget-2026-canada-defence/",
+      "title": "Canada’s military and spy agency are getting spending boosts in Budget 2026",
+      "excerpt": "The budget documents said the increased funding would help CSIS 'better protect Canadians from terrorism, foreign interference, espionage and other evolving threats.'",
+      "published": "2026-11-05T21:11:57.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/budget-2026-defence.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
       "id": "ceb814a50f7335f1",
       "guid": "https://globalnews.ca/?p=12137988",
       "link": "https://globalnews.ca/news/12137988/canadian-astronaut-joshua-kutryk-spacewalk/",
