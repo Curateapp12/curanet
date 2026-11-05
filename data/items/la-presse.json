@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "4388d4aed4687827",
+      "guid": "f990936cd49e3c68846d6b994e5b7f6f",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/incendie-mortel-dans-le-vieux-montreal/les-deux-accuses-plaident-coupable.php",
+      "title": "Incendie mortel dans le Vieux-Montréal | Les deux accusés plaident coupable",
+      "excerpt": "Deux jeunes hommes ont admis avoir allumé un incendie ayant causé la mort de deux touristes françaises en 2024, à Montréal, lors d’une comparution en cour mardi. En plaidant coupable à des accusations réduites, ils pourraient éviter la prison à vie.",
+      "published": "2026-11-05T04:05:04.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0521feb3b06035adae3fab8fd3a7e878.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T06:42:38.588Z"
+    },
+    {
+      "id": "a4c9797ff5ec47e2",
+      "guid": "37d57ad1549434a2a7480c1ffcbaedaa",
+      "link": "https://www.lapresse.ca/actualites/national/2026-11-04/une-mere-et-sa-fille-tuees/plusieurs-ours-pourraient-etre-impliques-dans-l-attaque-mortelle-en-colombie-britannique.php",
+      "title": "Une mère et sa fille tuées | Plusieurs ours pourraient être impliqués dans l’attaque mortelle en Colombie-Britannique",
+      "excerpt": "Le Service des agents de conservation de la Colombie-Britannique a indiqué qu’un ou plusieurs grizzlis pourraient avoir été impliqués dans une attaque d’ours qui, selon des proches, a coûté la vie à une mère et à sa fille à Bella Coola, sur la côte centrale de la province.",
+      "published": "2026-11-05T03:42:53.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/a8ce4f63/87c2c7058f76368784407ed6aa534594.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T06:42:38.588Z"
+    },
+    {
+      "id": "909910195efc13e8",
+      "guid": "085852ef075932188051b231f5f5ba25",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-11-04/alexander-macdonald-nomme-president-de-l-agence-spatiale-canadienne.php",
+      "title": "Alexander MacDonald nommé président de l’Agence spatiale canadienne",
+      "excerpt": "Le spécialiste des politiques et de l’économie spatiales, qui a contribué, entre autres, à la mise en œuvre de la stratégie « De la Lune à Mars » et du programme Artemis, Alexander MacDonald, a été nommé, mercredi, président de l’Agence spatiale canadienne (ASC). Il succède ainsi à Lisa Campbell…",
+      "published": "2026-11-05T03:16:23.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0ea40a2c8d9f3138b323111d94db49f8.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T06:42:38.588Z"
+    },
+    {
+      "id": "fdec00abdabcbe3d",
+      "guid": "485b4c01eea738778f6a024c726a0b0a",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/montrealaise-tuee-en-pleine-visioconference/l-accuse-est-mort-en-prison.php",
+      "title": "Montréalaise tuée en pleine visioconférence | L’accusé est mort en prison",
+      "excerpt": "L’accusé du meurtre de Leïla Ben Salem, une Montréalaise tuée en pleine visioconférence en septembre, est mort. Youcef Moussaoui se serait enlevé la vie en prison une semaine après son arrestation.",
+      "published": "2026-11-05T01:15:40.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/cdcbed444ff5345fa40a5690b9f12fb2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T06:42:38.588Z"
+    },
+    {
+      "id": "f52f888c66fc83a3",
+      "guid": "a74b76c6683f3dfd843cd6f41c40dbdc",
+      "link": "https://www.lapresse.ca/actualites/national/2026-11-04/incendie-funeste-sur-une-base-militaire-en-alberta/de-nombreux-militaires-toujours-a-l-hopital.php",
+      "title": "Incendie funeste sur une base militaire en Alberta | De nombreux militaires toujours à l’hôpital",
+      "excerpt": "Près de trois semaines après l’incendie mortel à la base militaire de Wainwright, en Alberta, 25 militaires sont toujours hospitalisés. D’autres sont depuis rentrés à la maison, mais la route du rétablissement sera longue pour certains.",
+      "published": "2026-11-05T00:19:19.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/63e869e0b27f39a3a765ddebb6b31765.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T06:42:38.588Z"
+    },
+    {
       "id": "2df88f35369063d8",
       "guid": "ba5e25ff47a836b3a1fa0f8d7fe4c90d",
       "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/cycliste-happe-a-mort-a-montreal/pourquoi-l-adolescent-de-17-ans-risque-t-il-une-peine-pour-adulte.php",

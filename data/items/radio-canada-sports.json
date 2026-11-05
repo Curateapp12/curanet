@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "a1691c921914511a",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10802051/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10802051/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-11-05T04:25:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T06:42:38.588Z"
+    },
+    {
+      "id": "a79701a3fadcbb23",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10802050/sports-express-4-novembre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10802050/sports-express-4-novembre",
+      "title": "Sports Express - 4 novembre",
+      "excerpt": "Les nouvelles du sport avec Jérémie Turbide",
+      "published": "2026-11-05T04:21:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T06:42:38.588Z"
+    },
+    {
+      "id": "1f03b9f1bbc43a5c",
+      "guid": "https://ici.radio-canada.ca/sports/2298330/gala-sports-quebec-dubois-vallieres-mill",
+      "link": "https://ici.radio-canada.ca/sports/2298330/gala-sports-quebec-dubois-vallieres-mill",
+      "title": "Magdeleine Vallières Mill et Steven Dubois sont les athlètes internationaux de l’année",
+      "excerpt": "La cycliste et le patineur de vitesse ont gagné les prix les plus prestigieux du Gala Sports Québec.",
+      "published": "2026-11-05T04:20:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/jeux-olympiques/16x9/steven-dubois-courte-piste-medaille-or-podium.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T06:42:38.588Z"
+    },
+    {
+      "id": "ef2a92c5571f6734",
+      "guid": "https://ici.radio-canada.ca/sports/2298513/senateurs-amadio-sabres-lnh",
+      "link": "https://ici.radio-canada.ca/sports/2298513/senateurs-amadio-sabres-lnh",
+      "title": "Les Sénateurs reviennent de l’arrière et défont les Sabres",
+      "excerpt": "Michael Amadio a touché la cible en fin de troisième période dans un gain de 2-1 des Sénateurs, à Buffalo.",
+      "published": "2026-11-05T03:52:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/senateurs-sabres.jpg",
+      "type": "article",
+      "addedAt": "2026-11-05T06:42:38.588Z"
+    },
+    {
       "id": "9f0d64094295b281",
       "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-actuel/segments/rattrapage/2521136/victoire-incroyable-jets-apres-9-defaites-consecutives",
       "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-actuel/segments/rattrapage/2521136/victoire-incroyable-jets-apres-9-defaites-consecutives",
