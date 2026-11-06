@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "27e79071d15b7f94",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298897/loi-brocanteurs-vols-cuivre",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298897/loi-brocanteurs-vols-cuivre",
+      "title": "Bientôt de nouvelles mesures pour contrer le vol de cuivre",
+      "excerpt": "Une victime de vols très coûteux à Moncton se demande si cela suffira pour dissuader les voleurs.",
+      "published": "2026-11-06T17:12:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vol-cuivre-bell-clarendon-welsford-nouveau-brunswick.png",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "3fe8408e99b7738a",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10802797/telejournal-acadie-5-novembre",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10802797/telejournal-acadie-5-novembre",
+      "title": "Le téléjournal Acadie du 5 novembre",
+      "excerpt": "Amazon lance la construction d'un entrepôt près d'Halifax et annonce la création de 1000 emplois. La première ministre du Nouveau-Brunswick, Susan Holt, dit comprendre les inquiétudes de résidents de Dieppe face à la possible construction d'une école anglophone.",
+      "published": "2026-11-06T15:24:51.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/9d9becee-9018-495b-974f-526acb8421f5/HR/2026-11-05_17_59_30_tjacadie_0000_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "def6f705f4fb5e12",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298822/cyborg-slayer-lancement-album-moontunes",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298822/cyborg-slayer-lancement-album-moontunes",
+      "title": "Les Moontunes proposent une apocalypse robotique en musique",
+      "excerpt": "Le groupe rock progressif acadien lance son troisième album intitulé Cyborg Slayer.",
+      "published": "2026-11-06T15:10:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/moontunes-cyborg-slayer-lancement-album.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "884cd10668251133",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2523119/cafe-politique-matinale",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2523119/cafe-politique-matinale",
+      "title": "Le café politique du 6 novembre",
+      "excerpt": "Cette semaine au café politique de la matinale, le journaliste de CBC à Fredericton Jacques Poitras et l'éditorialiste de l'Acadie Nouvelle François Gravel s'intéressent au budget fédéral, aux élections de mi-mandat aux États-Unis et au projet de nouvelle école anglophone à Dieppe.",
+      "published": "2026-11-06T13:14:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cafe-politique-169-bonif.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "e9f9d0d747aaa400",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298801/perte-emplois-parcs-canada-kouchibouguac-beaurivage",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298801/perte-emplois-parcs-canada-kouchibouguac-beaurivage",
+      "title": "« Ce n’est pas encourageant » : Beaurivage s’inquiète de pertes d’emplois à Kouchibouguac",
+      "excerpt": "Au Nouveau-Brunswick, plus de 150 employés pourraient être touchés par le réaménagement des effectifs.",
+      "published": "2026-11-06T10:56:15.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/danielle-dugas-mairesse-beaurivage-13388.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
       "id": "11f66cc027cea416",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298583/eglise-saint-simon-nb-reconstruction",
       "link": "https://ici.radio-canada.ca/nouvelle/2298583/eglise-saint-simon-nb-reconstruction",

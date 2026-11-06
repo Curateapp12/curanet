@@ -3,6 +3,259 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "c937c61b4a1f1978",
+      "guid": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "excerpt": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "published": "2026-11-06T17:03:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "05a7f285022629df",
+      "guid": "https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo#5",
+      "link": "https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo",
+      "title": "Tube drivers to stage strikes in Christmas run-up",
+      "excerpt": "The union is in dispute with London Underground over working arrangements for drivers.",
+      "published": "2026-11-06T16:50:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95f0/live/1836d5d0-d9de-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "ce0e30a3ad835855",
+      "guid": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o",
+      "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+      "excerpt": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+      "published": "2026-11-06T16:49:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a3b/live/5a892120-d9f4-11f1-bb10-cdca6001fbcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "23f8978852269697",
+      "guid": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo",
+      "title": "Met Police boss 'wouldn't be surprised' if more allegations made about Brand",
+      "excerpt": "Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to \"victim blaming\".",
+      "published": "2026-11-06T16:43:07.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cc3/live/52586f50-d9c8-11f1-bb8e-efaa31738708.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "bff82de6e919bdb4",
+      "guid": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po",
+      "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
+      "excerpt": "Two schools went into lockdown following the incident and one woman has been arrested.",
+      "published": "2026-11-06T16:31:15.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f77d/live/11159660-d9ed-11f1-bbe5-797ee05bee69.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "06ad0089e78c1a62",
+      "guid": "https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o#5",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o",
+      "title": "Huntingdon train attack victim thought 'this is what it feels like to die', court told",
+      "excerpt": "Scott Bletcher says he found police and told them 'am I glad to see you, I've been stabbed\".",
+      "published": "2026-11-06T16:30:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aeb/live/13711af0-d9df-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "a460b03fb6ca6635",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o",
+      "title": "Is Palmer's England career over under Tuchel?",
+      "excerpt": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
+      "published": "2026-11-06T16:30:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "4413e5eccbae4335",
+      "guid": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo",
+      "title": "Spate of bomb threats poses serious challenge to airline industry",
+      "excerpt": "After a week of disruption, airlines are facing both safety and financial concerns.",
+      "published": "2026-11-06T16:18:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f23/live/39514eb0-d9f9-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "76a494d6bd7574f8",
+      "guid": "https://www.bbc.co.uk/news/articles/cjkgee4yw3xno#2",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgee4yw3xno",
+      "title": "Burnham responds to BBC question over Labour's past links to Brand",
+      "excerpt": "The prime minister says that Labour politicians courting the comedian a decade ago had not been aware of his crimes.",
+      "published": "2026-11-06T16:14:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa87/live/996f6ca0-d9f4-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "6654bc4a3a64c646",
+      "guid": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo#3",
+      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+      "title": "Could the US midterms burst the AI bubble?",
+      "excerpt": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+      "published": "2026-11-06T16:14:23.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "39cd815211092562",
+      "guid": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko#5",
+      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "excerpt": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "published": "2026-11-06T15:30:42.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "466b2a58a9546ba9",
+      "guid": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo",
+      "title": "New wave of bomb threats hit European airlines",
+      "excerpt": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "published": "2026-11-06T15:25:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c047/live/33f77d10-d9ed-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "4016a524083399ca",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno",
+      "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
+      "excerpt": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
+      "published": "2026-11-06T15:21:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d43/live/757ba1c0-d9e9-11f1-bbe5-797ee05bee69.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "3771ee2f94f217d6",
+      "guid": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo#1",
+      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "excerpt": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
+      "published": "2026-11-06T15:02:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fbf/live/c3a237d0-d9f1-11f1-bb10-cdca6001fbcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "e277c2d008b7de3c",
+      "guid": "https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o#5",
+      "link": "https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o",
+      "title": "Childminder who left more than 20 children alone in her home jailed",
+      "excerpt": "Amanda Mathewson was caught neglecting children at her home in Dunfermline after being spied on by parents.",
+      "published": "2026-11-06T14:19:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbc/live/14f4a550-d9ed-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "f1f1484fdbb4a13d",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#3",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo",
+      "title": "'A beautiful story' as Bellingham brothers called up",
+      "excerpt": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
+      "published": "2026-11-06T14:16:34.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "d425920da104e527",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cv4g11wr6l5jo#9",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv4g11wr6l5jo",
+      "title": "Fly-half Smith fit to steer England against Wallabies",
+      "excerpt": "Fly-half Fin Smith recovers from a calf injury and will start for England in their opening Test of the autumn against Australia on Sunday.",
+      "published": "2026-11-06T14:00:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3e/live/5813ff40-d9f0-11f1-bb10-cdca6001fbcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "9c1efbe88c189277",
+      "guid": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo",
+      "title": "US midterm results spark fears in Israel over future of two countries' ties",
+      "excerpt": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
+      "published": "2026-11-06T13:23:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a34/live/c88c2b10-d9c5-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "b52be4d17bed5503",
+      "guid": "https://www.bbc.co.uk/news/articles/cxyvrr686lzqo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvrr686lzqo",
+      "title": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
+      "excerpt": "The comedian had previously spoken about an unnamed \"predator\" in the entertainment industry.",
+      "published": "2026-11-06T13:12:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b84/live/76485280-d9e7-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "db3de0741f168baf",
+      "guid": "https://www.bbc.co.uk/news/articles/ckx2dd91vz51o#5",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2dd91vz51o",
+      "title": "Man investigated for leaving 17-year-old on Germany's highest mountain",
+      "excerpt": "The teenager was eventually rescued on Zugspitze and has since been discharged from hospital.",
+      "published": "2026-11-06T12:31:34.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a16/live/dd2f48f0-d9ce-11f1-9e5a-c30c5e3d8c85.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "bf4506c74602eb7e",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo",
+      "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+      "excerpt": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
+      "published": "2026-11-06T12:16:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c438/live/d83946e0-d87d-11f1-a364-a1fce50dd192.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "6913d0b805a11d3a",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo#5",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo",
+      "title": "'Clicky Ponting' cheating scandal cricketer banned from sport for two years",
+      "excerpt": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
+      "published": "2026-11-06T12:00:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8850/live/cc8c8630-d9dc-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "fde6c37cf9e1b908",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o",
+      "title": "Has Anderson lived up to the hype after Man City move?",
+      "excerpt": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
+      "published": "2026-11-06T12:00:18.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
       "id": "51df0cd0d74323b7",
       "guid": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo#4",
       "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
@@ -4467,6 +4720,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
       "type": "article",
       "addedAt": "2026-10-31T16:43:37.784Z"
+    },
+    {
+      "id": "6974b719c10b9477",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&at_campaign=Sense_and_Sensibility&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0027nc1&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Sense_and_Sensibility&at_bbc_team=BBC#8",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_audience_id=SS&at_bbc_team=BBC&at_brand=m0027nc1&at_campaign_type=owned&at_format=image&at_link_title=Sense_and_Sensibility&at_mid=CzprLxMc6q&at_objective=consumption&at_product=iplayer&at_ptr_name=bbc&at_ptr_type=media",
+      "title": "Emma Thompson, Kate Winslet and Hugh Grant star in a 1995 adaptation",
+      "excerpt": "Elinor and Marianne Dashwood are thrown into sudden hardship on the death of their father.",
+      "published": "2026-10-31T15:35:30.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
     },
     {
       "id": "84d56b82d9814aed",
@@ -9560,6 +9824,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
       "type": "article",
       "addedAt": "2026-10-25T00:48:49.474Z"
+    },
+    {
+      "id": "f83dc1424473564c",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkvz4v?at_mid=yhF6v4viux&at_campaign=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_bbc_team=BBC&at_creation=News#7",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pkvz4v?at_audience_id=SS&at_bbc_team=BBC&at_brand=p05299nl&at_campaign_type=owned&at_creation=News&at_format=image&at_link_title=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_mid=yhF6v4viux&at_nation=NET&at_objective=consumption&at_product=sounds&at_ptr_name=bbc&at_ptr_type=media",
+      "title": "What Trump's Midterms Defeat Means For Everyone Else",
+      "excerpt": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+      "published": "2026-10-25T00:00:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
     },
     {
       "id": "d02b7f04362f8453",

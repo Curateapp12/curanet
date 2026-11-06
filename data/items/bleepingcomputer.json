@@ -3,6 +3,61 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "c4daeac5c98ce27b",
+      "guid": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "excerpt": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+      "published": "2026-11-06T17:04:23.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "af6d1b8b9d253e74",
+      "guid": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "excerpt": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+      "published": "2026-11-06T15:25:31.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "3647bbef0072cccd",
+      "guid": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+      "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+      "excerpt": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
+      "published": "2026-11-06T15:00:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "f8e9629a67be56c3",
+      "guid": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+      "title": "Chainalysis says breach exposed credentials for all customers",
+      "excerpt": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+      "published": "2026-11-06T14:17:07.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "d0b8b49f25cecdbc",
+      "guid": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+      "excerpt": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+      "published": "2026-11-06T12:37:22.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
       "id": "3a8f9a3bb5fda75d",
       "guid": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
       "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",

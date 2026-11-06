@@ -3,6 +3,39 @@
   "sourceId": "ctv-news-politics",
   "items": [
     {
+      "id": "b5903bbc3ecd8c19",
+      "guid": "https://www.ctvnews.ca/politics/article/poilievre-accuses-government-of-cooking-books-on-immigration/",
+      "link": "https://www.ctvnews.ca/politics/article/poilievre-accuses-government-of-cooking-books-on-immigration/",
+      "title": "Poilievre accuses government of cooking books on immigration",
+      "excerpt": "Conservative Leader Pierre Poilievre says the government is hiding the facts on the number of newcomers it’s bringing to Canada, despite the focus in the new immigration levels plan on people who are already here.",
+      "published": "2026-11-06T17:56:58.532Z",
+      "thumbnail": "https://www.ctvnews.ca/resizer/v2/TR4BQDRRDDC26XFSDGLYIPQ3DQ.jpg?auth=dde2718894012f53f442ccaad223cb77204f47201f3c1b91146d3ff3946b0a9a&smart=true&width=1400&height=951",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "bdc6b858ac8641a6",
+      "guid": "https://www.ctvnews.ca/politics/article/joly-asks-comp-bureau-to-probe-stelco-deal-after-ceo-comments/",
+      "link": "https://www.ctvnews.ca/politics/article/joly-asks-comp-bureau-to-probe-stelco-deal-after-ceo-comments/",
+      "title": "Joly asks Comp Bureau to probe Stelco deal after CEO comments",
+      "excerpt": "Industry Minister Mélanie Joly is asking the Competition Bureau to examine whether Cleveland-Cliffs’ rationale for acquiring Stelco Inc. was conducted in bad faith.",
+      "published": "2026-11-06T17:56:58.532Z",
+      "thumbnail": "https://www.ctvnews.ca/resizer/v2/OORMUPYXEX46D2IBHABDDJWL2Y.jpg?auth=55a06a4e8cda1f4e87cf54559a37661e49d2bdc3f42f3905760deb4143cd72b2&smart=true&width=1400&height=933",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "4515a5a002111980",
+      "guid": "https://www.ctvnews.ca/winnipeg/article/carney-heads-to-winnipeg-to-tout-budget-plan-to-end-homelessness-in-10-years/",
+      "link": "https://www.ctvnews.ca/winnipeg/article/carney-heads-to-winnipeg-to-tout-budget-plan-to-end-homelessness-in-10-years/",
+      "title": "Carney heads to Winnipeg to tout budget plan to end homelessness in 10 years",
+      "excerpt": "Prime Minister Mark Carney is expected in Winnipeg today to highlight new measures in the federal budget aimed at eliminating homelessness within 10 years.",
+      "published": "2026-11-06T17:54:06.000Z",
+      "thumbnail": "https://www.ctvnews.ca/resizer/v2/3RBRELNLXQHRHMF26F5IW35SJ4.jpg?auth=9760138002d966e41a65f511002aa8e4d5f1487754090c567c8edadbab8f6b34&smart=true&width=1400&height=1007",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
       "id": "7b02cdde6832f7ca",
       "guid": "https://www.ctvnews.ca/politics/article/champagne-carney-travelling-across-country-to-sell-federal-budget-to-canadians/",
       "link": "https://www.ctvnews.ca/politics/article/champagne-carney-travelling-across-country-to-sell-federal-budget-to-canadians/",
@@ -23,6 +56,28 @@
       "thumbnail": "https://www.ctvnews.ca/resizer/v2/5TMB55CLJBEGRBWTL34TLSRFBI.jpeg?auth=322ee95ee865c37c6be526c421064ce743076bd537ad368199b26e8561e7b68e&smart=true&width=1920&height=1080",
       "type": "article",
       "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "af2f7c11fa05f119",
+      "guid": "https://www.ctvnews.ca/politics/article/six-things-you-need-to-know-about-the-federal-budget/",
+      "link": "https://www.ctvnews.ca/politics/article/six-things-you-need-to-know-about-the-federal-budget/",
+      "title": "Six things you need to know about the federal budget",
+      "excerpt": "Alongside the big-ticket items in the federal budget, there are some perks for artists, hockey players and those who send mail the old- fashioned way. Here are six things you need to know right now.",
+      "published": "2026-11-06T04:28:06.000Z",
+      "thumbnail": "https://www.ctvnews.ca/resizer/v2/V5VUDYGPJNGMVH4XULMSVBCDCA.png?auth=dc3f421e6ba75706ba041ec0e00a93136ea36f7e8add1666358b1b0ae7e1c938&smart=true&width=1376&height=768",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "c34461e79f2b9a6c",
+      "guid": "https://www.ctvnews.ca/politics/article/canadas-new-immigration-plan-revealed-in-federal-budget/",
+      "link": "https://www.ctvnews.ca/politics/article/canadas-new-immigration-plan-revealed-in-federal-budget/",
+      "title": "Canada’s new immigration plan revealed in federal budget",
+      "excerpt": "The government’s updated immigration plan looks to maintain broad targets for permanent and temporary resident admissions while offering permanent status to up to 200,000 longtime temporary residents who have already applied.",
+      "published": "2026-11-06T03:35:48.000Z",
+      "thumbnail": "https://www.ctvnews.ca/resizer/v2/5YU33JN5JNO6HGR63EOL7VPBLE.jpg?auth=e9dc5b9fb6e989cd7b2acd4663d85cb7cc8ff1b039d5959977e5560ae38c71fa&smart=true&width=1400&height=933",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
     },
     {
       "id": "4ed6b1522f6d5072",

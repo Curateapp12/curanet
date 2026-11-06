@@ -3,6 +3,94 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "6fa2368fdc5fd66e",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10803289/mi-mandat-defaite-parti-trump-analysee-par-rafael-jacob",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10803289/mi-mandat-defaite-parti-trump-analysee-par-rafael-jacob",
+      "title": "Mi-mandat : la défaite du parti de Trump analysée par Rafael Jacob",
+      "excerpt": "Le Parti républicain a subi toute une raclée aux élections de mi-mandat du 3 novembre.",
+      "published": "2026-11-06T17:44:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/essentiels-info/16x9/rafael-jacob-donald-trump-hors-des-ondes-balado-patrice-roy-mi-mandat.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "846d9b94ddb4ef51",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt",
+      "title": "Hydro-Québec achète l’ancien terrain de Northvolt",
+      "excerpt": "La société d'État veut y construire un poste électrique et un centre logistique sur la Rive-Sud de Montréal.",
+      "published": "2026-11-06T17:44:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/northvolt-chantier-monteregie.png",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "3f6c5fb4a85cb144",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298930/stelco-cleveland-cliffs-acier-concurrence",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298930/stelco-cleveland-cliffs-acier-concurrence",
+      "title": "Achat de Stelco : Cleveland-Cliffs aurait voulu nuire au marché canadien, dit Joly",
+      "excerpt": "La ministre de l’Industrie demande au Bureau de la concurrence d’ouvrir une enquête.",
+      "published": "2026-11-06T17:30:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/melanie-joly-90190.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "d7f3cf0fafe74be6",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298915/2026-2e-annee-plus-chaude",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298915/2026-2e-annee-plus-chaude",
+      "title": "2026 en voie d’être la 2e année la plus chaude jamais enregistrée dans le monde",
+      "excerpt": "Les températures ont atteint des records en octobre, dopées par El Niño.",
+      "published": "2026-11-06T16:46:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/canicule-europe-grece.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "bdf17c4e6db09b69",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298855/nouveaux-vols-vises-alertes-bombe",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298855/nouveaux-vols-vises-alertes-bombe",
+      "title": "Une nouvelle vague de fausses alertes à la bombe agite l’Europe",
+      "excerpt": "Onze vols au départ ou à destination de Prague et de Sofia ont fait l'objet d'une alerte à la bombe.",
+      "published": "2026-11-06T15:23:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/alerte-bombe-europe-prague.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "c42f250007166b11",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298873/itinerance-budget-federal-quebec-ottawa",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298873/itinerance-budget-federal-quebec-ottawa",
+      "title": "Bruno Marchand invite Ottawa et Québec à s’entendre sur le budget en itinérance",
+      "excerpt": "« Arrêtez de gosser sur des enjeux situationnels alors qu’il y a du monde dans la rue » a lancé le maire.",
+      "published": "2026-11-06T15:11:25.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/hotel-de-ville-de-quebec-ceremonie-dinvestiture-de-christine-frechette-a-titre-de-mairesse-honoraire-designee-de-la-capitale-nationale-du-quebec-sur-la-photo-gauche-a-droite-bruno-marchand-photo-10415.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "0352156374f7f6e4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298865/legere-hausse-taux-chomage-octobre",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298865/legere-hausse-taux-chomage-octobre",
+      "title": "Le taux de chômage a augmenté pour atteindre 6,7 % en octobre au pays",
+      "excerpt": "Au Québec, le taux de chômage a reculé de 0,3 point de pourcentage d'un mois à l'autre pour s'établir à 5,7 %.",
+      "published": "2026-11-06T13:50:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/travailleur-canada-ingenieur-dexploitation.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "f872e80fbaed9734",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298852/succursales-banque-laurentienne-fermeture",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298852/succursales-banque-laurentienne-fermeture",
+      "title": "Les 55 succursales de la Banque Laurentienne fermeront vendredi après-midi",
+      "excerpt": "Les services bancaires seront transférés à la Banque Nationale.",
+      "published": "2026-11-06T12:11:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/image-generiques-de-la-banque-laurentienne-a-montreal-photo-prise-au-1609-boul-rene-levesque-ouest-a-montreal-quebec-sur-la-photo-gauche-a-droite-20241202-2-decembre-2025-photo-radio-canada-ivan-62375.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
       "id": "196b7be95bc2a04c",
       "guid": "https://ici.radio-canada.ca/info/long-format/2296555/ross-river-autonomie-gouvernementale-yukon-entente",
       "link": "https://ici.radio-canada.ca/info/long-format/2296555/ross-river-autonomie-gouvernementale-yukon-entente",

@@ -3,6 +3,116 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "e8514c1439c78c50",
+      "guid": "https://ici.radio-canada.ca/sports/2298944/hockey-feminin-mondial-canada-suede",
+      "link": "https://ici.radio-canada.ca/sports/2298944/hockey-feminin-mondial-canada-suede",
+      "title": "Une première victoire convaincante pour le Canada au mondial de hockey féminin",
+      "excerpt": "Jessie Eldridge réussit un doublé dans un gain de 5-1 contre la Suède.",
+      "published": "2026-11-06T17:31:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/jessie-eldridge.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "e9c4849795bc8975",
+      "guid": "https://ici.radio-canada.ca/sports/2298929/championnat-monde-hockey-allemagne-boycottage",
+      "link": "https://ici.radio-canada.ca/sports/2298929/championnat-monde-hockey-allemagne-boycottage",
+      "title": "Le gouvernement allemand veut garder le Championnat mondial de hockey masculin",
+      "excerpt": "Le pays espère tenir le tournoi malgré les menaces de boycottage en raison de la présence des Russes.",
+      "published": "2026-11-06T17:06:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/berlin-allemagne-mur-histoire-archives-2.png",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "7cf54582604f4c10",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10803389/on-a-teste-un-simulateur-course-avec-raphael-lessard",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10803389/on-a-teste-un-simulateur-course-avec-raphael-lessard",
+      "title": "On a testé un simulateur de course avec Raphaël Lessard",
+      "excerpt": "Récemment de retour de son «Eurotrip» NASCAR, le pilote Raphaël Lessard retire une grande fierté de cette expérience. Il a rencontré le journaliste Philippe L’Heureux dans un simulateur de course.",
+      "published": "2026-11-06T16:58:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/raphael-lessard-simulateur-course-nascar-euro.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "e26c4c33f4ff3a87",
+      "guid": "https://ici.radio-canada.ca/sports/2298912/zach-collaros-quart-bombers-lcf",
+      "link": "https://ici.radio-canada.ca/sports/2298912/zach-collaros-quart-bombers-lcf",
+      "title": "La présence du quart des Blue Bombers Zach Collaros est incertaine face aux Alouettes",
+      "excerpt": "Blessé aux côtes en fin de saison, Zach Collaros n'a pas joué en demi-finale de la Division est.",
+      "published": "2026-11-06T16:23:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/zach-collaros-quart-blue-bombers-winnipeg-football-lcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "c9662b440e5a6b4b",
+      "guid": "https://ici.radio-canada.ca/sports/2298891/shelton-fritz-alcaraz-masters-paris",
+      "link": "https://ici.radio-canada.ca/sports/2298891/shelton-fritz-alcaraz-masters-paris",
+      "title": "Ben Shelton s’offre sa première demi-finale au Masters 1000 de Paris",
+      "excerpt": "Il bat son compatriote Tommy Paul en trois manches de 6-4, 4-6 et 6-3.",
+      "published": "2026-11-06T15:48:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/ben-shelton-tennis-paris.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "1a3bb7c8b0991218",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10803251/mathieu-joseph-est-superstitieux",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10803251/mathieu-joseph-est-superstitieux",
+      "title": "Mathieu Joseph est superstitieux",
+      "excerpt": "Les Oilers continuent de connaître du succès. Après 16 rencontres, l'équipe occupe le premier rang dans l'association Ouest avec 25 points. Ce soir, l'équipe reçoit les Ducks d'Anaheim, voici ce que Patrick Henri et son fils Guillaume nous ont préparé.",
+      "published": "2026-11-06T15:44:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/evan-bouchard-mattias-ekholm-oilers-edmonton.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "05284563d9dd3145",
+      "guid": "https://ici.radio-canada.ca/sports/2298864/hockey-feminin-canada-rosalie-tremblay",
+      "link": "https://ici.radio-canada.ca/sports/2298864/hockey-feminin-canada-rosalie-tremblay",
+      "title": "Rosalie Tremblay, la future vedette de l’équipe canadienne?",
+      "excerpt": "À 18 ans, elle est la plus jeune joueuse à faire partie de l'équipe canadienne depuis Marie-Philip Poulin.",
+      "published": "2026-11-06T15:34:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rosalie-tremblay-25767.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "31c155781ae1cb95",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10803183/que-retire-raphael-lessard-son-experience-en-serie-nascar-euro",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10803183/que-retire-raphael-lessard-son-experience-en-serie-nascar-euro",
+      "title": "Que retire Raphaël Lessard de son expérience en série NASCAR Euro?",
+      "excerpt": "Le pilote beauceron Raphaël Lessard revient sur son aventure en série NASCAR Euro, lui qui a dû s’adapter de toutes sortes de façons aux réalités européennes. Entrevue au volant d’un simulateur de course avec le journaliste Philippe L’Heureux.",
+      "published": "2026-11-06T15:14:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/raphael-lessard-nascar-euro-pilote-automobile.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "0c04ccdaa1134959",
+      "guid": "https://ici.radio-canada.ca/sports/2298882/halterophilie-suspension-dopage-bozhidar-dimitrov-andreev",
+      "link": "https://ici.radio-canada.ca/sports/2298882/halterophilie-suspension-dopage-bozhidar-dimitrov-andreev",
+      "title": "Un médaillé olympique en haltérophilie suspendu pour dopage",
+      "excerpt": "Le Bulgare Bozhidar Dimitrov Andreev est suspendu pour quatre ans pour usage d’un stéroïde anabolisant.",
+      "published": "2026-11-06T14:59:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/bozhidar-dimitrov-andreev.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "f2bd7eaa5d937d4b",
+      "guid": "https://ici.radio-canada.ca/sports/2298858/golf-liv-fin",
+      "link": "https://ici.radio-canada.ca/sports/2298858/golf-liv-fin",
+      "title": "C’est la fin pour le circuit dissident de golf LIV",
+      "excerpt": "L'abandon d'un projet de relance en raison de la perte de son principal soutien saoudien en est la cause.",
+      "published": "2026-11-06T12:49:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/golf-98325.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
       "id": "b42104f483f98ffa",
       "guid": "https://ici.radio-canada.ca/sports/2298710/petite-histoire-repechage-patrice-bergeron-temple-renommee-hockey",
       "link": "https://ici.radio-canada.ca/sports/2298710/petite-histoire-repechage-patrice-bergeron-temple-renommee-hockey",
