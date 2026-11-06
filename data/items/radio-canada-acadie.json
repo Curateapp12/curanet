@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "7b7b1cd695579c7e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298979/soutien-victimes-pretres-dionne-daigle-tracadie",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298979/soutien-victimes-pretres-dionne-daigle-tracadie",
+      "title": "Violences sexuelles : Tracadie accusée de manquer de sensibilité à l’endroit des victimes",
+      "excerpt": "Le refus de la municipalité de retirer le nom de curés visés par des allégations de nature sexuelle déçoit.",
+      "published": "2026-11-06T20:59:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/arena-dionne-tracadie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "fe272cbb268b336a",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10803694/construction-une-ecole-anglophone-a-dieppe-fait-debat",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10803694/construction-une-ecole-anglophone-a-dieppe-fait-debat",
+      "title": "La construction d’une école anglophone à Dieppe fait débat",
+      "excerpt": "Le projet de construction d’une école anglophone à Dieppe fait débat dans la communauté. Margaud Castadère explique.",
+      "published": "2026-11-06T20:45:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-vignette-ecole-margaud.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "e33f4355281663b8",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10803655/sens-large-ecole-anglophone-a-dieppe-entre-equite-et-egalite",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10803655/sens-large-ecole-anglophone-a-dieppe-entre-equite-et-egalite",
+      "title": "Sens large | École anglophone à Dieppe : entre équité et égalité",
+      "excerpt": "Louis Léger, ancien sous-ministre, et Kevin Arseneau, ancien député, analysent le dossier de la possible construction d’une école anglophone à Dieppe au micro de Sens large.",
+      "published": "2026-11-06T20:25:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-sens-large-ecole-anglophone-dieppe-karine.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
       "id": "27e79071d15b7f94",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298897/loi-brocanteurs-vols-cuivre",
       "link": "https://ici.radio-canada.ca/nouvelle/2298897/loi-brocanteurs-vols-cuivre",
@@ -12,6 +45,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vol-cuivre-bell-clarendon-welsford-nouveau-brunswick.png",
       "type": "article",
       "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "2e04d509aa961f39",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2523181/ecole-anglophone-politique-americaine-et-panel-sens-large",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2523181/ecole-anglophone-politique-americaine-et-panel-sens-large",
+      "title": "Le panel | Le projet d’une école anglophone à Dieppe soulève les passion et retour sur le budget fédéral",
+      "excerpt": "Louis Léger, ancien sous-ministre et chef de cabinet conservateur, et Kevin Arseneau, ancien député pour le Parti vert du Nouveau-Brunswick, reviennent sur la possible construction d'une école anglophone à Dieppe. Ils analysent également le budget fédéral et proposent un retour sur les élections…",
+      "published": "2026-11-06T16:33:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/emission/16x9/sens-large-emission-karine-godin-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
     },
     {
       "id": "3fe8408e99b7738a",

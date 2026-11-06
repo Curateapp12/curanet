@@ -3,6 +3,39 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "b99b441690fc8bf8",
+      "guid": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "excerpt": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+      "published": "2026-11-06T22:27:25.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "ba147c5fc5c98202",
+      "guid": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "excerpt": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+      "published": "2026-11-06T20:24:19.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "a97be9095b72e1db",
+      "guid": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "excerpt": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+      "published": "2026-11-06T18:46:52.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
       "id": "c4daeac5c98ce27b",
       "guid": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
       "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",

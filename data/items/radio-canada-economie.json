@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "95a11f29a9610791",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17755/laurentienne-banque-fermeture",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17755/laurentienne-banque-fermeture",
+      "title": "La Banque Laurentienne ferme, voici ce que ses clients doivent savoir",
+      "excerpt": "Dès vendredi, la Banque Laurentienne fermera et transférera ses clients à la Banque Nationale. Voici un guide pour vous retrouver dans le processus de migration.",
+      "published": "2026-11-06T20:07:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/essentiels-info/16x9/banque-laurentienne-fairstone-femme.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "03602965a444dbcb",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17751/semi-conducteurs-mi-mandat-democrates-intelligence-artificielle",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17751/semi-conducteurs-mi-mandat-democrates-intelligence-artificielle",
+      "title": "La bourse de l’IA vacille depuis les élections de mi-mandat",
+      "excerpt": "Le secteur boursier des technologies, grandement stimulé par le développement de l’intelligence artificielle, a été tiré vers le bas par la vague bleue démocrate des élections de mi-mandat.",
+      "published": "2026-11-06T18:36:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bourse-ia-centre-donnees-midterms-intelligence-artificielle.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
       "id": "ab26d7ac5612371c",
       "guid": "https://ici.radio-canada.ca/en-bref/1-10803441/top-01-paie-t-il-50-impot-une-etude-recente-montre-que-non",
       "link": "https://ici.radio-canada.ca/en-bref/1-10803441/top-01-paie-t-il-50-impot-une-etude-recente-montre-que-non",
@@ -45,6 +67,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/budget-federal-2026-francois-philippe-champagne-mark-carney.jpg",
       "type": "article",
       "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "a3423c2eeb8f1657",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/matins-sans-frontieres/segments/rattrapage/2522940/cultivateurs-reagissent-au-budget-federal",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/matins-sans-frontieres/segments/rattrapage/2522940/cultivateurs-reagissent-au-budget-federal",
+      "title": "Budget fédéral : du positif pour les agriculteurs, selon Michel Dignard",
+      "excerpt": "Le gouvernement Carney a présenté son budget fédéral pour l’exercice 2026-2027 ce jeudi. Ce budget, qui prévoir des revenus de plus de 540 milliards de dollars et des dépenses de plus de 602 milliards, pour un déficit de 62,3 milliards, cible notamment la relève agricole. Un bon pas dans la bonne…",
+      "published": "2026-11-06T13:09:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/michel-dignard-ucfo-cultivateur-est-ontarien.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
     },
     {
       "id": "e338ad452036f2a1",

@@ -3,6 +3,94 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "d427e0517b10b1ba",
+      "guid": "https://www.ledevoir.com/actualites/education/1023089/pourquoi-dizaines-milliers-etudiants-seront-ils-greve-semaine-prochaine",
+      "link": "https://www.ledevoir.com/actualites/education/1023089/pourquoi-dizaines-milliers-etudiants-seront-ils-greve-semaine-prochaine",
+      "title": "Pourquoi des dizaines de milliers d’étudiants seront-ils en grève la semaine prochaine?",
+      "excerpt": "Ils réclament notamment une réforme de l’aide financière aux études et des stages rémunérés.",
+      "published": "2026-11-06T22:13:57.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "b75cd51e3b57ab1e",
+      "guid": "https://www.ledevoir.com/actualites/1023068/trois-actus-6-novembre-2026",
+      "link": "https://www.ledevoir.com/actualites/1023068/trois-actus-6-novembre-2026",
+      "title": "Les trois actus du 6 novembre 2026",
+      "excerpt": "Hydro-Québec veut récupérer le terrain de Northvolt, Banque Laurentienne et Paraguay: ce qu’il faut retenir.",
+      "published": "2026-11-06T21:06:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "8f90b2fa9c9857ee",
+      "guid": "https://www.ledevoir.com/actualites/transports-urbanisme/1023062/identite-numerique-vient-voyageurs-annonce-aussi-budget",
+      "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1023062/identite-numerique-vient-voyageurs-annonce-aussi-budget",
+      "title": "L’identité numérique s’en vient pour les voyageurs, annonce aussi le budget",
+      "excerpt": "Le Canada emboîterait le pas à d’autres pays qui collectent des données biométriques par souci de sécurité nationale.",
+      "published": "2026-11-06T20:30:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "744a789167d8781f",
+      "guid": "https://www.ledevoir.com/politique/montreal/1023059/plan-carney-mettre-fin-itinerance-recoit-appui-montreal",
+      "link": "https://www.ledevoir.com/politique/montreal/1023059/plan-carney-mettre-fin-itinerance-recoit-appui-montreal",
+      "title": "Le plan de Carney pour mettre fin à l’itinérance reçoit l’appui de Montréal",
+      "excerpt": "La mairesse presse les différents paliers de gouvernements de faire front commun contre l’itinérance.",
+      "published": "2026-11-06T20:14:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "392a41d108087f5d",
+      "guid": "https://www.ledevoir.com/monde/etats-unis/1023053/stephen-miller-representant-droite-identitaire-promu-directeur-cabinet-trump",
+      "link": "https://www.ledevoir.com/monde/etats-unis/1023053/stephen-miller-representant-droite-identitaire-promu-directeur-cabinet-trump",
+      "title": "Stephen Miller, représentant de la droite identitaire, promu directeur de cabinet de Trump",
+      "excerpt": "Le quadragénaire est connu pour être l’architecte de sa politique anti-immigration agressive.",
+      "published": "2026-11-06T19:43:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "846a89dcbdd82908",
+      "guid": "https://www.ledevoir.com/economie/1023050/chute-marches-boursiers-signe-precurseur-bulle-ia",
+      "link": "https://www.ledevoir.com/economie/1023050/chute-marches-boursiers-signe-precurseur-bulle-ia",
+      "title": "La chute des marchés boursiers serait-elle le signe précurseur d’une bulle de l’IA?",
+      "excerpt": "Des experts remettent en question l’existence d’une bulle entourant le boum de cette technologie.",
+      "published": "2026-11-06T19:24:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "9d3e84bff629cd63",
+      "guid": "https://www.ledevoir.com/economie/1023038/hydro-quebec-veut-recuperer-terrain-northvolt",
+      "link": "https://www.ledevoir.com/economie/1023038/hydro-quebec-veut-recuperer-terrain-northvolt",
+      "title": "Hydro-Québec veut récupérer le terrain de Northvolt",
+      "excerpt": "La société d’État dit avoir conclu une entente pour acquérir le terrain de 18 millions de pieds carrés.",
+      "published": "2026-11-06T18:42:41.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "2bbce6ef6dfa0c38",
+      "guid": "https://www.ledevoir.com/economie/1023035/bureau-concurrence-est-invite-enqueter-entente-concernant-stelco",
+      "link": "https://www.ledevoir.com/economie/1023035/bureau-concurrence-est-invite-enqueter-entente-concernant-stelco",
+      "title": "Le Bureau de la concurrence est invité à enquêter sur l’entente concernant Stelco",
+      "excerpt": "Ottawa veut savoir si les motifs avancés par Cleveland-Cliffs pour acheter l’aciérie relevaient de la mauvaise foi.",
+      "published": "2026-11-06T18:27:38.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
       "id": "cadca1cfb2771ce7",
       "guid": "https://www.ledevoir.com/actualites/environnement/1023014/antalya-monde-divise-chevet-climat",
       "link": "https://www.ledevoir.com/actualites/environnement/1023014/antalya-monde-divise-chevet-climat",

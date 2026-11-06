@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "9527064b23e867b3",
+      "guid": "781f35e7-3aea-4895-b8f6-b0f3150917d1",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+      "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+      "excerpt": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
+      "published": "2026-11-06T20:54:46.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/890830ce-f3e2-4cc6-9c60-48f856b24345/AAABobKrX_4/AAABnSSvrFg/16x9-big/aigner-140.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "39e9b30e779d18af",
+      "guid": "42ac8aeb-96b4-4e46-98f7-0a7e12a6b0dc",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
+      "title": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+      "excerpt": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
+      "published": "2026-11-06T20:20:30.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1cd77871-0b49-4151-8d19-989f245b430d/AAABobKFGkk/AAABnSSvrFg/16x9-big/susie-wiles-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "65d8d0c93bad2b1c",
+      "guid": "e9897bb7-ffb4-4de7-8ab2-b5bf75952dfb",
+      "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
+      "title": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+      "excerpt": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\".",
+      "published": "2026-11-06T19:39:20.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bc698291-00e6-4417-b67d-f273c2c25cb1/AAABobJfbWA/AAABnSSvrFg/16x9-big/ryanair-lissabon-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "7c155a4bfbff3431",
+      "guid": "tagesschau_fm-story-br24-VaCjyBT",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-tum-100.html",
+      "title": "Erneut Hackerangriff auf Münchener Universität - TUM betroffen",
+      "excerpt": "Unbekannte haben Hochschulsysteme der Technischen Universität München gehackt. Sie konnten etwa Adressen und Passwörter einsehen. Es ist bereits der zweite Hackerangriff auf eine große Uni in München.",
+      "published": "2026-11-06T19:23:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/884ab4b0-42e8-4393-920d-f9faa5f64eb1/AAABobG9GPA/AAABnSSvrFg/16x9-big/br-haupteingang-der-technischen-universitaet-muenchen-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "c2a83240c6f45451",
+      "guid": "409336d5-9c7c-4d74-808d-d3597fd5be1b",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
+      "title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+      "excerpt": "Die Eishockey-WM in Deutschland steht wegen der möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung bringt das in ein Dilemma. Von Felix Jakobs.",
+      "published": "2026-11-06T18:53:38.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f06decaf-b051-4d8e-80d5-8d1459e0cba1/AAABlgUgph8/AAABnSSvrFg/16x9-big/eishockey-163.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
       "id": "41162a6c5b20274f",
       "guid": "f22be591-04e0-422b-9495-8e1cff57937f",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
