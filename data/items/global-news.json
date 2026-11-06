@@ -3,6 +3,116 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "f241ec79407d9ae2",
+      "guid": "https://globalnews.ca/?p=12138955",
+      "link": "https://globalnews.ca/news/12138955/vancouver-landlords-fined-90k-dividing-home-21-rooms-17-tenants/",
+      "title": "Vancouver landlords fined $90K after dividing home into 21 rooms for 17 tenants",
+      "excerpt": "Following an investigation, the Residential Tenancy Branch found the landlords did not maintain the rental property in compliance with health, safety and housing standards.",
+      "published": "2026-11-06T00:18:01.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/EAST-VAN-RENTAL.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "2839e3c77947c620",
+      "guid": "https://globalnews.ca/?p=12139081",
+      "link": "https://globalnews.ca/news/12139081/chinese-state-owned-xcmg-official-facing-criminal-charges-alleged-fraud-case/",
+      "title": "Chinese state-owned XCMG official facing criminal charges in alleged fraud case",
+      "excerpt": "Police in Ontario have filed criminal charges against one of XCMG's officials for allegedly tampering with serial number plates on equipment they were selling in Canada.",
+      "published": "2026-11-05T23:55:38.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/xmcg-logo-on-equipment.png",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "e35c4adb73513cdc",
+      "guid": "https://globalnews.ca/?p=12139001",
+      "link": "https://globalnews.ca/news/12139001/project-revive-arrests-winnipeg/",
+      "title": "Winnipeg police ‘toxic drug crisis’ project leads to more than 600 arrests",
+      "excerpt": "Hundreds of arrests were made, and a quarter-million dollars' worth of drugs were seized, as part of a months-long police project in Winnipeg, police said.",
+      "published": "2026-11-05T23:54:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/winnipeg-project-revive-results.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "dc430170e98c179d",
+      "guid": "https://globalnews.ca/video/12139101/residents-sound-off-over-squalid-conditions-at-central-edmonton-apartment-building/",
+      "link": "https://globalnews.ca/news/12139111/edmonton-mccauley-apartment-building-living-conditions/",
+      "title": "Tenants upset with squalid conditions at central Edmonton apartment building",
+      "excerpt": "The apartment building in the McCauley neighbourhood, where the water and heat hasn't worked in a week, shows signs of disrepair on the outside and evidence of drug use inside.",
+      "published": "2026-11-05T23:53:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/vlcsnap-00002.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "ce816fcb0b8a1f54",
+      "guid": "https://globalnews.ca/video/12139117/ucp-says-ministers-kentucky-spending-in-line-with-transportation-expenses/",
+      "link": "https://globalnews.ca/news/12139176/alberta-dale-nally-kentucky-travel-expenses/",
+      "title": "UCP minister’s Kentucky travel expenses trigger debate in Alberta legislature",
+      "excerpt": "About $4,000 in travel expenses by UCP minister Dale Nally on a government trip to Kentucky last September are not going down smooth.",
+      "published": "2026-11-05T23:51:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Nally-4.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "1de00ff76196437c",
+      "guid": "https://globalnews.ca/news/12139053/rourke-b-c-lions-focused-ahead-of-west-final/",
+      "link": "https://globalnews.ca/news/12139053/rourke-b-c-lions-focused-ahead-of-west-final/",
+      "title": "Rourke, B.C. Lions focused ahead of West final",
+      "excerpt": "Nathan Rourke and the B.C. Lions have been here before.",
+      "published": "2026-11-05T23:14:07.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/21fd7e7d2b00e31de879390cc190ae8f188d4153ae3851af3315d70a0d8bb6bc.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "bf46e791016173ff",
+      "guid": "https://globalnews.ca/?p=12139021&preview=true&preview_id=12139021",
+      "link": "https://globalnews.ca/news/12139021/elections-alberta-referendum-cost/",
+      "title": "Separatism referendum cost $84 million, exceeded Elections Alberta budget",
+      "excerpt": "Elections Alberta said the price tag is nearly $50 million more than its annual budget could pay for and needs the province to cover the rest through additional funding.",
+      "published": "2026-11-05T23:13:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/09/Elections-Alberta-Referendum-ballot-7.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "b2e88de537f52b0e",
+      "guid": "https://globalnews.ca/?p=12138746",
+      "link": "https://globalnews.ca/news/12138746/budget-2026-immigration-levels/",
+      "title": "Canada’s new immigration level plan revealed in Budget 2026",
+      "excerpt": "Ottawa plans to hold immigration levels mostly steady over the next three years, according to Budget 2026.",
+      "published": "2026-11-05T22:08:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP177215161-e1793915254552.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "fb73b5470c0f28d1",
+      "guid": "https://globalnews.ca/?p=12138820",
+      "link": "https://globalnews.ca/news/12138820/jennifer-stephens-human-trafficking-sentence/",
+      "title": "B.C. woman sentenced to 13 years in prison in sex trafficking case",
+      "excerpt": "The human trafficking victims of Jennifer Lynn Stephens included several adults, as well as a 13-year-old girl who had already been the victim of sex trafficking.",
+      "published": "2026-11-05T22:06:24.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/JENNIFER-LYNN-STEPHENS-SEX-TRAFFICKING.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "393b9b47bea16465",
+      "guid": "https://globalnews.ca/?p=12138812&preview=true&preview_id=12138812",
+      "link": "https://globalnews.ca/news/12138812/budget-2026-first-nations-infrastructure/",
+      "title": "Budget 2026 commit $32B for First Nations infrastructure",
+      "excerpt": "The new federal budget commits $32 billion over 10 years for First Nations infrastructure — though the Assembly of First Nations says the work will require more.",
+      "published": "2026-11-05T22:01:51.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/d4540c9f19ba28ecf36e8bc30a5ff53d0bf490aded5215a1554f74f59575a70e.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
       "id": "7c4524258c8ecce8",
       "guid": "https://globalnews.ca/?p=12138808&preview=true&preview_id=12138808",
       "link": "https://globalnews.ca/news/12138808/budget-2026-journalism-tax-credit/",

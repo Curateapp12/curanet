@@ -3,6 +3,39 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "5c9e48ba5ab268c9",
+      "guid": "795d68d57fe93e4dac0be6bda745d7e7",
+      "link": "https://www.lapresse.ca/actualites/national/2026-11-05/alberta/le-referendum-sur-la-separation-a-coute-84-millions.php",
+      "title": "Alberta | Le référendum sur la séparation a coûté 84 millions",
+      "excerpt": "L’agence électorale de l’Alberta a indiqué que le référendum sur l’indépendance qui s’est tenu le mois dernier a coûté 84 millions.",
+      "published": "2026-11-06T01:21:51.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/558c2a67a1e83ce696a3766a8a39d9cd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "5ff6512eedc87ec3",
+      "guid": "3ae008062c7835e4954696606c7a2c99",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-05/nemaska-lithium-a-l-arret/quebec-ne-veut-pas-mettre-une-cenne-de-plus.php",
+      "title": "Nemaska Lithium à l’arrêt | Québec ne veut pas mettre « une cenne de plus »",
+      "excerpt": "Le gouvernement de Paul St-Pierre Plamondon n’entend pas mettre « une cenne de plus » dans Nemaska Lithium, qui a déjà reçu 1,2 milliard en aide publique. Québec évalue ses options, comme vendre sa participation pour éviter que le projet ne devienne « un éléphant blanc ».",
+      "published": "2026-11-05T22:44:05.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/a098384c19d431a79feeaafff8d54a90.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "5ab24ad4593a6bbc",
+      "guid": "68b37b1b4c6231e89a3193d298db71b1",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-05/budget-federal/ottawa-veut-eliminer-l-itinerance-en-dix-ans.php",
+      "title": "Budget fédéral | Ottawa veut éliminer l’itinérance en dix ans",
+      "excerpt": "Québec s’est donné pour objectif de réduire l’itinérance de moitié d’ici 2030. Ottawa veut carrément y mettre fin au cours des dix prochaines années. Pour y parvenir, il prévoit injecter 11,2 milliards de dollars sur quatre ans dès l’an prochain, dont 2,3 milliards dès la première année.",
+      "published": "2026-11-05T22:11:37.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/985307c7c3d23a73b5a6a0ad0be7f1c2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
       "id": "dd4a6c8e063a6b4c",
       "guid": "1480aa1620a037d9b5ed6b524d70f89c",
       "link": "https://www.lapresse.ca/actualites/2026-11-05/ce-qu-il-faut-savoir-ce-jeudi/budget-federal-refuges-pour-sans-abri-et-pot-de-vin.php",
@@ -89,6 +122,17 @@
       "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7689fcb4/42ce4bc3f89e39e191548a92dbc40568.jpg",
       "type": "article",
       "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "8cbcd8e1d9308c3e",
+      "guid": "0663f7e09d763a179695fc11ebed1380",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-05/crise-de-l-itinerance/les-villes-apprehendent-un-manque-de-places-cet-hiver-dans-les-refuges.php",
+      "title": "Crise de l’itinérance | Les villes appréhendent un manque de places cet hiver dans les refuges",
+      "excerpt": "La mairesse de Montréal, qui sera à Winnipeg avec Mark Carney jeudi pour discuter itinérance, lance un avertissement au gouvernement St-Pierre Plamondon. Malgré son aide d’urgence de 28 millions, il manquera de places cet hiver dans les refuges de la métropole. Et elle n’est pas la seule : dans…",
+      "published": "2026-11-05T16:48:27.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/48f78cbb24b533618958e5e6b59bd5dc.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
     },
     {
       "id": "6319cb1039632952",

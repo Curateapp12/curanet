@@ -3,6 +3,83 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "e024b4cae3ca7f76",
+      "guid": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+      "excerpt": "\"This is going to be a game-changer.\"",
+      "published": "2026-11-06T00:17:06.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "9ed3b44bda29df97",
+      "guid": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "excerpt": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "published": "2026-11-05T23:09:36.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "a6dd2447219f4c8b",
+      "guid": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+      "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+      "excerpt": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+      "published": "2026-11-05T22:49:03.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "b6411ac47a803928",
+      "guid": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+      "link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+      "title": "Sony revives the original Walkman headphones, adds USB-C",
+      "excerpt": "Orange ear cushions included.",
+      "published": "2026-11-05T21:56:36.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "8fdd6a5d2137a408",
+      "guid": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "excerpt": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "published": "2026-11-05T21:40:36.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "d7bd7c1e685c0dfb",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "excerpt": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "published": "2026-11-05T21:39:40.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "fb2a1ae59af370a7",
+      "guid": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+      "link": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+      "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+      "excerpt": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
+      "published": "2026-11-05T20:45:50.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
       "id": "18bb0a59786ff7df",
       "guid": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
       "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
