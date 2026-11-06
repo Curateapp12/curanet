@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "196b7be95bc2a04c",
+      "guid": "https://ici.radio-canada.ca/info/long-format/2296555/ross-river-autonomie-gouvernementale-yukon-entente",
+      "link": "https://ici.radio-canada.ca/info/long-format/2296555/ross-river-autonomie-gouvernementale-yukon-entente",
+      "title": "Malgré la promesse de millions, cette communauté refuse l’autonomie gouvernementale",
+      "excerpt": "Au Yukon, cette communauté kaska refuse un accord qui, selon elle, compromettrait ses droits territoriaux.",
+      "published": "2026-11-06T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ross-river-yukon.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "32ebb44a1be840f9",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale",
+      "title": "La formation en éthique est optionnelle pour les nouveaux députés québécois",
+      "excerpt": "Des 99 nouveaux élus qui font leur entrée à l'Assemblée nationale, la majorité n'a jamais fait de politique.",
+      "published": "2026-11-06T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/assemblee-nationale-parlement-quebec-18488.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "3cf6e0a219c548b5",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298829/budget-federal-itinerance-productivite",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298829/budget-federal-itinerance-productivite",
+      "title": "Un peu plus d’humain derrière les colonnes de chiffres",
+      "excerpt": "On constate un léger retour du balancier en faveur d’un filet social plus solide dans le budget fédéral 2026.",
+      "published": "2026-11-06T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/budget-federal-2026-francois-philippe-champagne-mark-carney.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "4a77ba81a9f80de2",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298839/budget-federal-2026-reactions-culture",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298839/budget-federal-2026-reactions-culture",
+      "title": "Budget 2026 : le milieu culturel entre « incertitude totale » et « bouffée d’air frais »",
+      "excerpt": "La présentation du budget fédéral de 2026 a été tièdement accueillie par le milieu culturel québécois jeudi.",
+      "published": "2026-11-06T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/francois-philippe-champagne-budget-canada.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "ecb40f0023092a8c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement",
+      "title": "La pinte de lait, le nouveau défi de la consigne au Québec",
+      "excerpt": "Selon les données de Consignaction, ce sont environ 600 millions de nouveaux contenants qui seront consignés.",
+      "published": "2026-11-06T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vjqc-lait-epicerie-frigo-pinte-prix-44928.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
       "id": "21e450ca62bc2e63",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298632/hegseth-menace-procedure-destitution",
       "link": "https://ici.radio-canada.ca/nouvelle/2298632/hegseth-menace-procedure-destitution",

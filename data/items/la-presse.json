@@ -3,6 +3,94 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "634f5de1f8df56ac",
+      "guid": "6b4c7f4e9d8532fe8c84c4fb462b3093",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-06/transports-en-direct/fermeture-de-deux-voies-sur-l-a40-ouest-pres-du-boulevard-henri-bourassa.php",
+      "title": "Transports en direct | Fermeture de deux voies sur l’A40 ouest près du boulevard Henri-Bourassa",
+      "excerpt": "Quelque chose à signaler sur les routes ou sur les rails ? La Presse examine le réseau en cette heure de pointe matinale et précise la couleur des feux de circulation.",
+      "published": "2026-11-06T10:48:58.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/5aa6ea1c834134f7bd12a59f6d46595a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "cac0ce6817ae65ad",
+      "guid": "1ea4df7a803f3eda84a766f391d8a739",
+      "link": "https://www.lapresse.ca/actualites/2026-11-06/ce-que-vous-avez-manque-cette-nuit/banque-laurentienne-rechauffement-climatique-rougeole.php",
+      "title": "Ce que vous avez manqué cette nuit | Banque Laurentienne, réchauffement climatique, rougeole",
+      "excerpt": "La Terre continue de tourner pendant que vous dormez. Voici trois nouvelles à signaler.",
+      "published": "2026-11-06T10:38:28.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/c305ae5681ca3c089385b23ae1bf52cb.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "33177508f240e8ba",
+      "guid": "09e52b81ad4f39f5bbc1723fd8fa598c",
+      "link": "https://www.lapresse.ca/actualites/2026-11-06/loterie/des-billets-de-loto-quebec-en-vente-chez-dollarama.php",
+      "title": "Loterie | Des billets de Loto-Québec en vente chez Dollarama",
+      "excerpt": "On peut maintenant acheter un billet de Lotto 6/49 chez Dollarama. Pour certains clients de la chaîne de magasins à bas prix, c’est « malsain » de les cibler, alors que des experts affirment que cela crée une « banalisation » de la loterie.",
+      "published": "2026-11-06T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0d22e09905913adc9f9f604a9cee6ac2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "9476ff77d361ff3b",
+      "guid": "2fc7f5d4fa673d20ad354fa8818fb98d",
+      "link": "https://www.lapresse.ca/actualites/environnement/2026-11-06/consigne/la-plupart-des-cartons-de-boissons-ne-pourront-pas-etre-recycles-au-quebec.php",
+      "title": "Consigne | La plupart des « cartons » de boissons ne pourront pas être recyclés au Québec",
+      "excerpt": "L’essentiel des quelque 14 000 tonnes de « cartons » de lait et de jus qui seront consignés le 1er mars prochain ne pourra pas être recyclé au Québec, puisque la seule usine pouvant le faire n’a pas la capacité suffisante, une situation que le gouvernement connaissait avant sa réforme de la…",
+      "published": "2026-11-06T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/8449021d5f933ec0afd71ce0752e2209.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "ac13bcaaa19b9cca",
+      "guid": "4ceb3def616e3403beb71713b16001d4",
+      "link": "https://www.lapresse.ca/actualites/editoriaux/2026-11-06/budget-federal/un-pari-ambitieux-dont-on-mesure-mal-le-risque.php",
+      "title": "Budget fédéral | Un pari ambitieux dont on mesure mal le risque",
+      "excerpt": "Qui ne risque rien n’a rien. Le gouvernement Carney fait résolument le pari de la croissance dans son budget présenté jeudi.",
+      "published": "2026-11-06T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "c0f03ee3c98aaab0",
+      "guid": "0c71042a2e1e3993ac6ac5fd956f5860",
+      "link": "https://www.lapresse.ca/actualites/environnement/2026-11-06/demystifier-l-environnement/a-quel-point-l-eau-de-pluie-est-elle-polluee.php",
+      "title": "Démystifier l’environnement | À quel point l’eau de pluie est-elle polluée ?",
+      "excerpt": "Chaque mois, notre journaliste répond aux questions environnementales de lecteurs.",
+      "published": "2026-11-06T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/321206124a4c336dabf6ee84c5a7f886.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "e70f6cfa0ccf4123",
+      "guid": "f48967b02e1b3e3394b77039a07b4276",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-06/avenir-de-la-langue-francaise-au-quebec/la-montee-du-declin.php",
+      "title": "Avenir de la langue française au Québec | La montée du déclin",
+      "excerpt": "« Est-ce que l’immigration a un impact sur le déclin du français ? »",
+      "published": "2026-11-06T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/0f2cdd9cfbab314a9cf0331240a585ff.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "a7c8968a2501b9af",
+      "guid": "35ac622e35123c95964154bed4562458",
+      "link": "https://www.lapresse.ca/actualites/education/2026-11-05/budget-federal/un-meilleur-acces-a-l-education-dans-les-communautes-des-premieres-nations.php",
+      "title": "Budget fédéral | Un meilleur accès à l’éducation dans les communautés des Premières Nations",
+      "excerpt": "Ottawa prévoit d’importantes sommes pour s’attaquer à des problèmes criants dans les communautés autochtones, comme l’accès à l’éducation et à l’eau potable, ainsi qu’au manque d’infrastructures routières.",
+      "published": "2026-11-06T02:46:34.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/9849df53fc4e3ad49ecdc8aa0452c21c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
       "id": "5c9e48ba5ab268c9",
       "guid": "795d68d57fe93e4dac0be6bda745d7e7",
       "link": "https://www.lapresse.ca/actualites/national/2026-11-05/alberta/le-referendum-sur-la-separation-a-coute-84-millions.php",

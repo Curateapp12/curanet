@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "b42104f483f98ffa",
+      "guid": "https://ici.radio-canada.ca/sports/2298710/petite-histoire-repechage-patrice-bergeron-temple-renommee-hockey",
+      "link": "https://ici.radio-canada.ca/sports/2298710/petite-histoire-repechage-patrice-bergeron-temple-renommee-hockey",
+      "title": "La petite histoire derrière la sélection de Patrice Bergeron",
+      "excerpt": "Vingt-trois ans plus tard, sa sélection par les Bruins au 45e rang fait encore couler beaucoup d'encre.",
+      "published": "2026-11-06T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/patrice-bergeron-pro-am-96370.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "77b59f4e8b6e3334",
+      "guid": "https://ici.radio-canada.ca/sports/2298841/nick-suzuki-canadien-montreal-mammoth-utah",
+      "link": "https://ici.radio-canada.ca/sports/2298841/nick-suzuki-canadien-montreal-mammoth-utah",
+      "title": "À bord du bateau du capitaine",
+      "excerpt": "Nick Suzuki inscrit un but et une passe et aide le CH à combler trois retards pour vaincre le Mammoth.",
+      "published": "2026-11-06T06:09:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/suzuki-canadien.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "789523e993c98651",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10802992/sports-express-5-novembre",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10802992/sports-express-5-novembre",
+      "title": "Sports Express - 5 novembre",
+      "excerpt": "Les nouvelles du sport avec Jérémie Turbide",
+      "published": "2026-11-06T04:53:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "6e3f6be3ff018ab2",
+      "guid": "https://ici.radio-canada.ca/sports/2298840/les-jaguars-defont-les-ravens-nfl",
+      "link": "https://ici.radio-canada.ca/sports/2298840/les-jaguars-defont-les-ravens-nfl",
+      "title": "Les Jaguars défont les Ravens",
+      "excerpt": "Trevor Lawrence a lancé pour 242 verges et un touché, et les Jaguars l'ont emporté 33-10 contre les Ravens.",
+      "published": "2026-11-06T04:49:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/jaguars.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "50ef1adfbee13fdb",
+      "guid": "https://ici.radio-canada.ca/sports/2298836/caufield-canadien-mammoth-lnh",
+      "link": "https://ici.radio-canada.ca/sports/2298836/caufield-canadien-mammoth-lnh",
+      "title": "Caufield donne la victoire au Canadien en prolongation face au Mammoth",
+      "excerpt": "Le Tricolore l'a emporte 5-4 jeudi soir, au Centre Bell.",
+      "published": "2026-11-06T04:31:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/canadien-dobes-87302.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "c98fa58ba85117a0",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10802993/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10802993/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-11-06T04:30:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "e31917f00ae64fc4",
+      "guid": "https://ici.radio-canada.ca/sports/2298838/jets-canucks-lnh-skinner",
+      "link": "https://ici.radio-canada.ca/sports/2298838/jets-canucks-lnh-skinner",
+      "title": "Les Jets poursuivent sur leur lancée et défont les Canucks",
+      "excerpt": "Stuart Skinner a bloqué 24 rondelles dans cette deuxième victoire en 11 matchs des Jets.",
+      "published": "2026-11-06T03:34:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/jets-69014.jpg",
+      "type": "article",
+      "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
       "id": "5f2ecd212ddc9008",
       "guid": "https://ici.radio-canada.ca/sports/videos/1-10802889/rouge-et-or-pret-a-en-decoudre-avec-stingers",
       "link": "https://ici.radio-canada.ca/sports/videos/1-10802889/rouge-et-or-pret-a-en-decoudre-avec-stingers",
