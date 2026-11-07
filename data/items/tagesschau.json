@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "8fa3a44584199ae2",
+      "guid": "d0061433-edda-4afd-9279-005e5c747ca2",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+      "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+      "excerpt": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist.",
+      "published": "2026-11-07T20:49:05.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T20:51:53.725Z"
+    },
+    {
+      "id": "71a1532102c4c585",
+      "guid": "fe546ae6-d928-45b6-b657-d7fa25ae66a3",
+      "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+      "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+      "excerpt": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+      "published": "2026-11-07T20:33:23.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/9e147e56-f6c3-400e-b95b-a781c07ba6b5/AAABobe3Qgs/AAABnSSvrFg/16x9-big/pena-110.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T20:51:53.725Z"
+    },
+    {
+      "id": "e68a8d456af96ff4",
+      "guid": "268c5dd6-6854-4a60-8455-0c1a34260f72",
+      "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
+      "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+      "excerpt": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
+      "published": "2026-11-07T20:31:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1468c2f0-97fc-4df3-8608-e7ff13e7a1a9/AAABobeoupM/AAABnSSvrFg/16x9-big/eisenkot-116.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T20:51:53.725Z"
+    },
+    {
+      "id": "2a662087ac22ea79",
+      "guid": "28fddcd4-bcd0-437f-bac3-eebcdd18c369",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+      "title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+      "excerpt": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
+      "published": "2026-11-07T19:56:52.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c08b02e7-e2b9-49aa-9293-2aedfefde92c/AAABobeMIMM/AAABnSSvrFg/16x9-big/papst-leo-226.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T20:51:53.725Z"
+    },
+    {
+      "id": "1d8f430f7920d9ae",
+      "guid": "afeacb15-640c-46fd-b002-c5df9af43524",
+      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
+      "title": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+      "excerpt": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer.",
+      "published": "2026-11-07T18:57:56.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5922e1ba-f927-46dd-9830-2a83cdeab4d7/AAABobbgQaA/AAABnSSvrFg/16x9-big/frankreich-888.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T20:51:53.725Z"
+    },
+    {
       "id": "3ec5331b3dab48a2",
       "guid": "e8c3e647-cf04-4156-a348-03764e0ca868",
       "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
