@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "f2e61e2fecd0376f",
+      "guid": "127518f7-ab7e-41b6-9de5-b1c1837f7051",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html",
+      "title": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
+      "excerpt": "Seit zwei Jahren gibt es in Tschechien zu wenig Schnee und Regen - der wasserreichste Stausee ist mittlerweile halb leer. Sollte auch dieser Winter die Pegelstände nicht anheben, wäre die Versorgung im ganzen Land gefährdet. Von André Berthold.",
+      "published": "2026-11-07T02:08:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/85cdab19-4b63-4e6f-bc57-74cf166b4dd3/AAABobC7KdM/AAABnSSvrFg/16x9-big/orlik-stausee-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T02:46:42.637Z"
+    },
+    {
+      "id": "2d90c5a7c05740ff",
+      "guid": "660062a0-a867-45eb-9d5a-456027cefa2c",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
+      "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+      "excerpt": "Drei Länder in elf Tagen: In Uruguay beginnt Papst Leo XIV. heute seine Südamerika-Reise. Auf ihn warten auch die Heimat seines Vorgängers und ein Wiedersehen mit der eigenen Vergangenheit. Von Anne Herrberg.",
+      "published": "2026-11-07T01:50:19.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/cc733b1a-41a9-4323-9020-173ca154acf1/AAABobOALEY/AAABnSSvrFg/16x9-big/leo-176.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T02:46:42.637Z"
+    },
+    {
+      "id": "c9b2b6d5d3167698",
+      "guid": "400f6e85-c2b4-44a8-9b9d-2f1a94026ee4",
+      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+      "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+      "excerpt": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt.",
+      "published": "2026-11-07T00:06:18.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7bd1dc74-b219-499d-9b06-dc6fe94316da/AAABobNOoTQ/AAABnSSvrFg/16x9-big/pena-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T02:46:42.637Z"
+    },
+    {
       "id": "9527064b23e867b3",
       "guid": "781f35e7-3aea-4895-b8f6-b0f3150917d1",
       "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
