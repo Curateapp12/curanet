@@ -3,6 +3,127 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "fc74ce291315cdc8",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o#9",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o",
+      "title": "New Zealand cruise to victory as Scotland fade",
+      "excerpt": "New Zealand canter to a 43-21 Nations Championship win at Murrayfield as Scotland fall away after a thrilling first half.",
+      "published": "2026-11-07T16:13:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c759/live/32801a10-dac3-11f1-8c3b-f3c0d6bd7c4f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "98b8fe164d544b24",
+      "guid": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
+      "title": "No clear winner after tight New Zealand general election",
+      "excerpt": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "published": "2026-11-07T15:56:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "499afa3031dd39d7",
+      "guid": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "excerpt": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "published": "2026-11-07T15:19:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "a2dfe4ff071ede3b",
+      "guid": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o",
+      "title": "Two men arrested after boy injured in sword attack",
+      "excerpt": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
+      "published": "2026-11-07T15:10:54.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd6/live/c7e3b830-da98-11f1-8206-e519d24a9ca2.png",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "a88d159a972ef1cd",
+      "guid": "https://www.bbc.co.uk/news/articles/c9203x7pj0kjo#3",
+      "link": "https://www.bbc.co.uk/news/articles/c9203x7pj0kjo",
+      "title": "Evacuations in Liverpool city centre after car crash causes gas leak",
+      "excerpt": "The driver stayed at the scene and there is no indication that this was a deliberate act, police say.",
+      "published": "2026-11-07T15:06:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80f2/live/61af1640-dabb-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "cee6b3b726fc3377",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o#9",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o",
+      "title": "Hamilton, Leclerc and Verstappen to have penalties",
+      "excerpt": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
+      "published": "2026-11-07T15:01:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c32/live/d1e82420-daba-11f1-8c3b-f3c0d6bd7c4f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "d183d7899d97a59e",
+      "guid": "https://www.bbc.co.uk/news/articles/cm2l4590188ro#3",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l4590188ro",
+      "title": "Baxters fish soup cans recalled over fears they could 'swell and potentially rupture'",
+      "excerpt": "A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst.",
+      "published": "2026-11-07T14:28:40.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a6b/live/1dd78550-dab7-11f1-8c3b-f3c0d6bd7c4f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "abf0a3fcb4d55ce3",
+      "guid": "https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o#3",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o",
+      "title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
+      "excerpt": "The pop superstar's appearances at NBA games were deemed \"a little performative\" by New York Knicks point guards Tyler Kolek and Miles McBride.",
+      "published": "2026-11-07T13:03:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dc/live/9f7d7c60-daab-11f1-9da2-b11e4d68c08e.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "c51ddbc7c8033a48",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po#3",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "excerpt": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "published": "2026-11-07T12:49:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "bd3167c9ff8d9bd9",
+      "guid": "https://www.bbc.co.uk/news/articles/crgj99j8y998o#1",
+      "link": "https://www.bbc.co.uk/news/articles/crgj99j8y998o",
+      "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+      "excerpt": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
+      "published": "2026-11-07T11:04:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c13/live/008276b0-da8d-11f1-b9cf-cdf633475efd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "66279b4a1dcbcfdf",
+      "guid": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro#3",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro",
+      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+      "excerpt": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
+      "published": "2026-11-07T10:44:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
       "id": "607fe26898371a91",
       "guid": "https://www.bbc.co.uk/news/articles/cr3ellge7qwjo#4",
       "link": "https://www.bbc.co.uk/news/articles/cr3ellge7qwjo",
@@ -727,6 +848,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png",
       "type": "article",
       "addedAt": "2026-11-06T10:50:35.387Z"
+    },
+    {
+      "id": "e1b754cf0d0cce70",
+      "guid": "https://www.bbc.co.uk/news/articles/cmp8gd6l03g3o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cmp8gd6l03g3o",
+      "title": "How computer game Worms went from classroom to classic",
+      "excerpt": "Creator Andy Davidson speaks to the BBC about how he created a game that sold 70 million copies.",
+      "published": "2026-11-06T06:21:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e0a/live/89f1c130-d9bb-11f1-88eb-21fbf261176d.png",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
     },
     {
       "id": "445f3932dbba1222",
@@ -4566,6 +4698,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2da/live/12dda4f0-d5f7-11f1-a6a8-6dc45e4fc351.jpg",
       "type": "article",
       "addedAt": "2026-11-01T13:51:53.840Z"
+    },
+    {
+      "id": "694e961544b85607",
+      "guid": "https://www.bbc.co.uk/news/articles/c6d7qwr12eg4o#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7qwr12eg4o",
+      "title": "Crochet novices create cascading poppy memorial",
+      "excerpt": "The friends took up crocheting a year ago before getting the whole village involved.",
+      "published": "2026-11-01T12:47:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b992/live/7ebb0dc0-dac0-11f1-b441-2b33b063138f.png",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
     },
     {
       "id": "9a7e6bd06c0a457f",

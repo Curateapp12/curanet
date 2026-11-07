@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "c82e27267173fcbd",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299096/pologne-fusillade-cracovie",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299096/pologne-fusillade-cracovie",
+      "title": "Pologne : une fusillade fait cinq morts à Cracovie",
+      "excerpt": "Le suspect a ouvert le feu au hasard sur des passants avant d'être arrêté par la police.",
+      "published": "2026-11-07T16:13:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bestof-topix-80920.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "5abc90446a7b422e",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299082/budget-federal-deception-aide-internationale-oubliee",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299082/budget-federal-deception-aide-internationale-oubliee",
+      "title": "Consternation face au budget fédéral qui ne fait aucune mention d’aide internationale",
+      "excerpt": "Le budget présenté jeudi n’évoque pas non plus l’aide à l’étranger ni le développement international.",
+      "published": "2026-11-07T14:40:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/budget-federal-2026-couverture-churchill-falls-carney-champagne.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "09fd2ffc1f25f54a",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299079/france-policiers-agression-racisme-michel-zecler",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299079/france-policiers-agression-racisme-michel-zecler",
+      "title": "France : trois policiers jugés pour l’agression du producteur noir Michel Zecler",
+      "excerpt": "Cette affaire de violence policière avait provoqué une onde de choc et fait réagir jusqu'au sommet de l'État.",
+      "published": "2026-11-07T13:09:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/policier-france.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "26af28a92ccdf7f4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299080/premier-cas-rage-raton-vache-coaticook",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299080/premier-cas-rage-raton-vache-coaticook",
+      "title": "Un premier cas de rage du raton confirmé chez une vache à Coaticook",
+      "excerpt": "Il s'agit d'un premier cas chez une vache au Québec depuis le début de l'éclosion en 2024, selon le MAPAQ.",
+      "published": "2026-11-07T12:54:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vaches-champs-agriculture.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
       "id": "2ef116ee06126928",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298968/paiement-fractionnes-versements-achats-risques",
       "link": "https://ici.radio-canada.ca/nouvelle/2298968/paiement-fractionnes-versements-achats-risques",

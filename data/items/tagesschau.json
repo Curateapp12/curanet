@@ -3,6 +3,72 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "3ec5331b3dab48a2",
+      "guid": "e8c3e647-cf04-4156-a348-03764e0ca868",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+      "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+      "excerpt": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens fünf Menschen getötet und mehr als zehn Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
+      "published": "2026-11-07T15:55:41.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "99bf0990e05d0443",
+      "guid": "c89daacc-bbf1-499a-8da1-7652895b4f69",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+      "title": "Wofür Trumps neuer Stabschef Miller steht",
+      "excerpt": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+      "published": "2026-11-07T14:57:49.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "ade362f1fd784118",
+      "guid": "c3f1b22f-db2b-40d7-98f7-7447c2b48e05",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+      "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+      "excerpt": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
+      "published": "2026-11-07T14:41:43.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/69dd39a9-cd4a-426a-b9a6-7022abbbfe87/AAABobZ1SjM/AAABnSSvrFg/16x9-big/neuseeland-parlamentswahl-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "e1cdc7ac80ee1fd9",
+      "guid": "tagesschau_fm-story-id-36b557aa-fa05-44a0-a194-4ee9f7d88a4b",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html",
+      "title": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
+      "excerpt": "Der iranische Oppositionelle Pahlavi hat stellvertretend für das iranische Volk den Freiheitspreis der FDP-nahen Friedrich-Naumann-Stiftung entgegengenommen. Während der Verleihung gab es auch Demonstrationen.",
+      "published": "2026-11-07T13:25:25.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/69afd520-0a62-42d7-98a2-21d6b11496fc/AAABobZlGvc/AAABnSSvrFg/16x9-big/hr-reza-pahlavi-wurde-in-der-frankfurter-paulskirche-mit-applaus-und-standing-ovations-empfangen-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "92b52009770f9f5c",
+      "guid": "1a439fde-3fbe-4c3d-b4f7-584ae5e5cf9a",
+      "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
+      "title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+      "excerpt": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
+      "published": "2026-11-07T11:30:37.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/63349e36-d85c-4d78-ae34-e74ef5be0d6e/AAABobXFrsg/AAABnSSvrFg/16x9-big/ilse-aigner-308.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "82c0aeb8731f033c",
+      "guid": "eda9e02d-7360-4c92-b335-981c93421676",
+      "link": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html",
+      "title": "Bandenchef bittet UN um Vermittlung in Haiti",
+      "excerpt": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer.",
+      "published": "2026-11-07T10:51:13.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/73d0bee3-e219-4c15-a9b1-f2f303685d6f/AAABobWYY5E/AAABnSSvrFg/16x9-big/soldaten-transportflugzeuge-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
       "id": "01929f5e22a92c4a",
       "guid": "63146fe4-6e5c-4fef-a098-1fa73017ce16",
       "link": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html",

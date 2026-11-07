@@ -3,6 +3,72 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "4a6ec5ca5a01a0a4",
+      "guid": "97160541c92f3f6dae97b8501bdf6d83",
+      "link": "https://www.lapresse.ca/actualites/2026-11-07/un-cas-de-grippe-aviaire-confirme-a-l-ile-d-orleans.php",
+      "title": "Un cas de grippe aviaire confirmé à l’île d’Orléans",
+      "excerpt": "Un cas de grippe aviaire a été détecté dans un lieu commercial de l’île d’Orléans. L’Agence canadienne d’inspection des aliments (ACIA) a mis en place une zone de contrôle dans le secteur autour du cas confirmé.",
+      "published": "2026-11-07T16:12:03.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/56ccd951031336e788e7d1a1e092ded6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "573dc2cc5558d0b1",
+      "guid": "1bcb07b47cda30b09df70162276bc08a",
+      "link": "https://www.lapresse.ca/actualites/sante/2026-11-07/fort-achalandage/les-urgences-de-l-hopital-royal-victoria-et-l-hopital-general-de-montreal-a-eviter.php",
+      "title": "Fort achalandage | Les urgences de l’hôpital Royal Victoria et l’hôpital général de Montréal à éviter",
+      "excerpt": "Les urgences de l’hôpital Royal Victoria et de l’hôpital général de Montréal font face à un fort achalandage depuis vendredi et le Centre universitaire de santé McGill (CUSM) demande aux citoyens de les éviter s’ils le peuvent.",
+      "published": "2026-11-07T15:01:48.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/e4ba944d/8339a489bcf13adfb5d8f6946d1fdfe3.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "31911efd3e47dc79",
+      "guid": "7e21ce8d01bb3e079f1220e3e96aec6d",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-07/un-elephant-ca-trump-enormement.php",
+      "title": "Un éléphant, ça Trump énormément !",
+      "excerpt": "Pourquoi l’éléphant, un animal qui n’a rien à voir avec le continent américain, est-il devenu l’emblème du Parti républicain ?",
+      "published": "2026-11-07T12:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/c6af7822e92c38e398ba11d29e1b5384.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "54e2a4b104dd6dc3",
+      "guid": "4aa3e570f397381393abdd08da2765f4",
+      "link": "https://www.lapresse.ca/actualites/caricatures/2026-11-07/un-emploi-du-temps-charge.php",
+      "title": "Un emploi du temps chargé",
+      "excerpt": "",
+      "published": "2026-11-07T12:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/21240288/39d7b0c394dc35cfab4d19e62a09e1ec.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "741b35ae138073b4",
+      "guid": "be4b1196c06235d7a3dc4b8e519743e7",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-07/mark-carney-et-paul-st-pierre-plamondon/le-train-ne-s-arretera-pas.php",
+      "title": "Mark Carney et Paul St-Pierre Plamondon | Le train ne s’arrêtera pas",
+      "excerpt": "Ce n’était pas censé être un piège pour Paul St-Pierre Plamondon, mais ça pourrait le devenir. Mark Carney n’est pas le rival idéal avec qui débattre. Son approche est plutôt de passer tout droit quand la discussion l’importune.",
+      "published": "2026-11-07T11:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/14ee1466a0f039abaa3160308e9d1a65.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "8806f7b548337af0",
+      "guid": "aa339342b193369084986ebb84541308",
+      "link": "https://www.lapresse.ca/actualites/environnement/2026-11-07/changement-climatique/cinq-choses-a-savoir-sur-la-cop31.php",
+      "title": "Changement climatique | Cinq choses à savoir sur la COP31",
+      "excerpt": "Le monde se réunit à partir de lundi à Antalya, en Turquie, pour freiner la crise climatique, à l’occasion de la 31e conférence des Nations unies sur les changements climatiques, la COP31. Voici cinq choses à savoir sur l’évènement.",
+      "published": "2026-11-07T11:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/b62b187b7d0c35f99e20e6aff856867e.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
       "id": "1cea1e29c9095b13",
       "guid": "7a6efd672f423fdbb1e6ca95b78eda23",
       "link": "https://www.lapresse.ca/actualites/politique/2026-11-07/politique-municipale/un-an-apres-les-elections-pres-de-140-demissions.php",

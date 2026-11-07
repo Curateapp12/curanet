@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "18079b97b623499e",
+      "guid": "https://globalnews.ca/?p=12141176",
+      "link": "https://globalnews.ca/news/12141176/bc-storms-minor-flooding/",
+      "title": "First of season storms bring ‘minor’ flooding, outages to B.C.",
+      "excerpt": "As storms continue across B.C., authorities are warning about high winds bringing more power outages and the dangers of rising water levels.",
+      "published": "2026-11-07T16:21:46.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/VI-storms-e1794067196218.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "046f27981114b19c",
+      "guid": "https://globalnews.ca/?p=12141153",
+      "link": "https://globalnews.ca/news/12141153/canadians-skipping-cuba-amid-crisis/",
+      "title": "Canadians choosing pricier destinations over Cuba amid crisis: travel agents",
+      "excerpt": "The U.S. oil blockade against Cuba triggered severe fuel shortages in the country prompting Canadian airlines to suspend flights to the island destination earlier this year.",
+      "published": "2026-11-07T15:25:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Cuba-e1794065085602.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "24e0bf5abd19ab9c",
+      "guid": "https://globalnews.ca/?p=12141139",
+      "link": "https://globalnews.ca/news/12141139/budget-2026-foreign-aid/",
+      "title": "Aid sector calls out omission of foreign aid in federal budget",
+      "excerpt": "The budget tabled Thursday by Prime Minister Mark Carney's government makes no mention of international assistance, foreign aid or international development.",
+      "published": "2026-11-07T15:16:48.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Anand-e1794064594276.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "c4f1e3a0bf3d5a64",
+      "guid": "https://globalnews.ca/?p=12141126",
+      "link": "https://globalnews.ca/news/12141126/missile-attacks-wound-9-ukraine/",
+      "title": "Missile attacks wound 9 as Ukraine prepares for talks with Russia, U.S.",
+      "excerpt": "Negotiators from Russia, Ukraine and the U.S. are to meet on Tuesday in Abu Dhabi, the capital of the United Arab Emirates, for talks aimed at ending the war.",
+      "published": "2026-11-07T14:57:30.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/ukraine-4-e1794063428349.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "5e0b47f2627b3978",
+      "guid": "https://globalnews.ca/?p=12141123",
+      "link": "https://globalnews.ca/news/12141123/25-killed-yemen-airstrike/",
+      "title": "25 people killed in airstrike near Yemen’s capital, Houthi official says",
+      "excerpt": "Fighting has escalated between the Iranian-backed Houthis — who control Sanaa, the north and the west of the country — and their Saudi-backed opponents based in the south and east.",
+      "published": "2026-11-07T14:44:31.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Yemen.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "2cfeba0ebaed7aec",
+      "guid": "https://globalnews.ca/?p=12139915",
+      "link": "https://globalnews.ca/news/12139915/premier-scott-moe-calls-federal-budget-best-in-a-decade/",
+      "title": "Premier Scott Moe calls federal budget ‘best in a decade’",
+      "excerpt": "Saskatchewan Premier Scott Moe says he plans to work with the federal government on a cost sharing model for infrastructure projects lacking from the federal budget.",
+      "published": "2026-11-07T14:28:05.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/20261106_201814750_iOS-1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "8f94a7afd29fe4c0",
+      "guid": "https://globalnews.ca/?p=12140812",
+      "link": "https://globalnews.ca/news/12140812/seven-officers-fired-montreal-police-public-trust/",
+      "title": "Seven officers fired, a force under scrutiny: Can Montreal police rebuild public trust?",
+      "excerpt": "Seven officers have been fired amid a sweeping misconduct scandal. Critics question if firings and transparency are enough for Montreal police to deliver accountability.",
+      "published": "2026-11-07T11:00:41.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/GN-MONTREAL-POLICE-OFFICERS-FIRED_OM023GH3.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
       "id": "bcfe541fc94d61a8",
       "guid": "https://globalnews.ca/news/12141077/gauthier-extends-goal-streak-as-ducks-top-flames/",
       "link": "https://globalnews.ca/news/12141077/gauthier-extends-goal-streak-as-ducks-top-flames/",
