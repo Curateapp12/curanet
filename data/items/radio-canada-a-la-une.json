@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "2ef116ee06126928",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298968/paiement-fractionnes-versements-achats-risques",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298968/paiement-fractionnes-versements-achats-risques",
+      "title": "Acheter maintenant, payer plus tard : 5 points à vérifier",
+      "excerpt": "Il vaut mieux vérifier les conditions du contrat avant d'accepter de payer un achat en plusieurs versements.",
+      "published": "2026-11-07T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/paypal-centre-eaton-paiements-differes-versements.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
+      "id": "4a1a4c29da017e5f",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297875/proteines-lait-adaptation-vaches-producteurs-laitiers",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297875/proteines-lait-adaptation-vaches-producteurs-laitiers",
+      "title": "La ruée sur les protéines met les producteurs laitiers au défi",
+      "excerpt": "Génétique, nutrition, gestion des champs : prendre le virage « protéine » à la ferme s’avère complexe.",
+      "published": "2026-11-07T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vaches-proteines-laits.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
+      "id": "9e2acecf623eb1af",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298361/phage-virus-guerison-resistance-bacteries",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298361/phage-virus-guerison-resistance-bacteries",
+      "title": "Le phage, ce virus qui peut vous guérir",
+      "excerpt": "Il s'agit d'un nouvel espoir pour combattre les bactéries résistantes aux antibiotiques.",
+      "published": "2026-11-07T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/phages-virus-bacteries.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
+      "id": "a962234712367053",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq",
+      "title": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
+      "excerpt": "« Comme fonctionnaire, j'avais un certain pouvoir d’influence, mais les médias en ont tout un aussi. »",
+      "published": "2026-11-07T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/olivier-smith-lauzon.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
+      "id": "c507269b9f410aed",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298312/getty-images-faillite-ivanoh-demers",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298312/getty-images-faillite-ivanoh-demers",
+      "title": "Dans l’œil d’Ivanoh : la chute inévitable de Getty Images",
+      "excerpt": "Le photojournaliste Ivanoh Demers commente la restructuration de la plus grande agence photo du monde.",
+      "published": "2026-11-07T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/photographes-downing-street.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
+      "id": "4131721343ab2f94",
+      "guid": "https://ici.radio-canada.ca/info/changements-climatiques/",
+      "link": "https://ici.radio-canada.ca/info/changements-climatiques/",
+      "title": "Le vrai du faux sur le climat",
+      "excerpt": "Nos journalistes se sont penchés sur 40 questions qui alimentent souvent le scepticisme chez les gens.",
+      "published": "2026-11-07T03:49:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/faq-climat-accueil-v4.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
+      "id": "da3834237699924b",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299072/carney-salue-initiative-accord-libre-echange-etats-unis",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299072/carney-salue-initiative-accord-libre-echange-etats-unis",
+      "title": "Carney salue « toute initiative » pour un accord de libre-échange avec les États-Unis",
+      "excerpt": "Des responsables démocrates font de la suppression des droits de douane une priorité.",
+      "published": "2026-11-07T03:40:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-eu-tarifs.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
       "id": "775b00a93b7bb478",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299061/paraguay-pedro-alliana-president-pena-detention",
       "link": "https://ici.radio-canada.ca/nouvelle/2299061/paraguay-pedro-alliana-president-pena-detention",
@@ -67,6 +144,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/logo-iihf.jpg",
       "type": "article",
       "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "e71ca84a8cae9e68",
+      "guid": "https://ici.radio-canada.ca/espaces-autochtones/2297943/adisq-2026-artistes-autochtones",
+      "link": "https://ici.radio-canada.ca/espaces-autochtones/2297943/adisq-2026-artistes-autochtones",
+      "title": "ADISQ 2026 : les artistes autochtones à l’honneur",
+      "excerpt": "Voici les cinq artistes en compétition dans la catégorie Artiste autochtone de l’année.",
+      "published": "2026-11-06T21:08:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/adisq-2026-gagnants-gagnantes-.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
     },
     {
       "id": "3646dbdbefcdc49f",

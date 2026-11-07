@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "1cea1e29c9095b13",
+      "guid": "7a6efd672f423fdbb1e6ca95b78eda23",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-07/politique-municipale/un-an-apres-les-elections-pres-de-140-demissions.php",
+      "title": "Politique municipale | Un an après les élections, près de 140 démissions",
+      "excerpt": "Moins d’un an après avoir été élus, le 2 novembre 2025, près de 140 maires et conseillers municipaux au Québec avaient déjà quitté leurs fonctions. Le climat hostile et la lourdeur de la tâche en ont accablé beaucoup, a constaté La Presse.",
+      "published": "2026-11-07T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/df8fcf33753830339bc2a2186690ef9d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
+      "id": "44c317f496485271",
+      "guid": "a9a130c6be7833149ef05962fc687cec",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-07/rencontre-entre-st-pierre-plamondon-et-carney/le-nouveau-brunswick-veut-aussi-sa-place.php",
+      "title": "Rencontre entre St-Pierre Plamondon et Carney | Le Nouveau-Brunswick veut aussi sa place",
+      "excerpt": "La table où se tiendra la première rencontre entre Paul St-Pierre Plamondon et Mark Carney au Cambodge peut-elle accueillir une chaise supplémentaire ? Si tel est le cas, la première ministre du Nouveau-Brunswick souhaite l’occuper.",
+      "published": "2026-11-07T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/3a8116c014873caba84d648588e14269.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
+      "id": "df3d503257ea52d9",
+      "guid": "44039946e0af3a0d948db3bc2f96cd74",
+      "link": "https://www.lapresse.ca/actualites/editoriaux/2026-11-07/des-tylenol-pour-nicolas-marceau.php",
+      "title": "Des Tylenol pour Nicolas Marceau",
+      "excerpt": "Nicolas Marceau se plaint qu’Ottawa lui donne des maux de tête. Sensibles à la douleur du nouveau ministre des Finances du Québec, nous lui offrons gracieusement quelques solutions en guise de « Tylenol ».",
+      "published": "2026-11-07T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
+      "id": "e75a3fc2003288a0",
+      "guid": "2e0738bf2c67345a96ef30c65bfe015d",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-07/un-projet-de-20-condos-ultraluxueux/tourmente-dans-le-haut-outremont.php",
+      "title": "Un projet de 20 condos ultraluxueux | Tourmente dans le « Haut-Outremont »",
+      "excerpt": "C’est une histoire de « pas dans ma cour », plantée dans les hauteurs d’Outremont. Elle implique des religieuses vieillissantes, un promoteur ambitieux, l’animatrice-vedette Julie Snyder, l’ex-premier ministre Justin Trudeau, Jean-Pierre Léger (autrefois du groupe St-Hubert) et d’autres grands…",
+      "published": "2026-11-07T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/625e1edb687d314e98ce2f4c864641ea.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
+      "id": "eaca759afea474c3",
+      "guid": "cfeaedadd0d032b1983b0c72e911c916",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-06/un-obus-non-explose-retrouve-a-nicolet.php",
+      "title": "Un obus non explosé retrouvé à Nicolet",
+      "excerpt": "Un obus non explosé a été retrouvé au quai de Port-Saint-François, à Nicolet, non loin de Trois-Rivières. Un périmètre de sécurité a été érigé par précaution en attendant que la marée redescende pour permettre à l’armée d’intervenir.",
+      "published": "2026-11-07T03:32:31.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/642b090e/2f0b91fad9113f0296d4da41ba9204c6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-07T10:03:32.400Z"
+    },
+    {
       "id": "060e01f441473620",
       "guid": "b805681fc1203e62973b82933234ef6b",
       "link": "https://www.lapresse.ca/actualites/politique/2026-11-06/paul-st-pierre-plamondon-et-doug-ford-ont-eu-une-premiere-rencontre-productive.php",
