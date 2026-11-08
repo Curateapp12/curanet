@@ -3,6 +3,127 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "2806f2663ff9c9db",
+      "guid": "tagesschau_fm-story-rbb_linke-abgeordnete-vanessa-emde-mandat-fraktion-verzicht-weigerung",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
+      "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
+      "excerpt": "Die Berliner Linken-Abgeordnete Emde hat der Forderung des Parteivorstands, ihr Mandat niederzulegen, eine klare Absage erteilt. Auch von ihrer umstrittenen Haltung zu Israel scheint die Politikerin nicht abzurücken.",
+      "published": "2026-11-08T14:50:57.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6ecdf46a-cf24-4550-810d-9e72c1a23c14/AAABobuoxN0/AAABnSSvrFg/16x9-big/rbb-630259816-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "7dd214e88412e1e1",
+      "guid": "tagesschau_fm-story-rbb_berlin-reichstag-deutschland-palaestina-flagge-einheit",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/reichstag-palaestina-flagge-100.html",
+      "title": "Mann hisst Palästinenser-Flagge vor Berliner Reichstagsgebäude",
+      "excerpt": "Vor dem Berliner Reichstagsgebäude ist ein Mann den fast 30 Meter hohen Flaggenmast hochgeklettert. Er entfernte die Deutschlandflagge und hisste eine Palästinenser-Flagge. Nun ermittelt der Staatsschutz.",
+      "published": "2026-11-08T14:05:08.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5e781bd8-4ff4-400f-9f33-b4c3fef96bf0/AAABobt81QU/AAABnSSvrFg/16x9-big/rbb-palaestina-flagge-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "3c80bc6052edb639",
+      "guid": "2a8b646f-9887-4f0e-bd3c-a5b2fa6e4832",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
+      "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
+      "excerpt": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.",
+      "published": "2026-11-08T12:05:57.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/191b788d-eaa3-44e0-8d43-2c000d71fd4a/AAABobrngk4/AAABnSSvrFg/16x9-big/stadt-stromausfall-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "c813f98b4a11dcbd",
+      "guid": "8b6c2611-d18f-494a-8477-2072f8bb87d0",
+      "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html",
+      "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
+      "excerpt": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen.",
+      "published": "2026-11-08T11:19:37.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/8e7acc0b-1350-4eb2-b37a-a80548dbbca8/AAABobrio8o/AAABnSSvrFg/16x9-big/krakau-schuesse-marktplatz-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "ea0ee91939940295",
+      "guid": "3627488a-842c-4141-b487-b616d4fd82b8",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html",
+      "title": "Leiharbeiter: Nordkoreas Geldquelle in Russland",
+      "excerpt": "Nordkorea stellt nicht nur Soldaten für den Krieg gegen die Ukraine. In Russland sind auch Zehntausende Leiharbeiter tätig. Sie hoffen auf einen besseren Verdienst als in ihrer Heimat - erfüllt sich dieser Wunsch? Von Norbert Hahn.",
+      "published": "2026-11-08T10:32:46.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f4712cf0-6ad0-4a39-811a-e0cfdf23850c/AAABobq3v8E/AAABnSSvrFg/16x9-big/restaurant-synri-moskau-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "dd188c490b136a75",
+      "guid": "18f8631b-59b7-4958-b3ef-2131de2ce377",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
+      "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
+      "excerpt": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Oder gibt es ein Missverständnis?",
+      "published": "2026-11-08T09:59:49.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "7b28f058efa1f0bd",
+      "guid": "1aebc2f0-3f2d-481d-a26c-4f41ae184820",
+      "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
+      "title": "Familienmitglieder des Schützen ebenfalls getötet",
+      "excerpt": "Landesweit gilt in Polen nach den tödlichen Schüssen auf Passanten auf einem Marktplatz in Krakau Staatstrauer. Das Motiv des Schützen bleibt unklar. Er steht im Verdacht, auch seine Eltern und Schwester getötet zu haben.",
+      "published": "2026-11-08T09:58:10.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/9abd0f70-e013-42c1-89d5-8710c5472b62/AAABobqYEFU/AAABnSSvrFg/16x9-big/polen-krakau-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "5e3c0873677fdf9d",
+      "guid": "c168b1e7-c258-4c3f-b745-9171ab8324d9",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
+      "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
+      "excerpt": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
+      "published": "2026-11-08T08:27:56.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/569e6360-4542-49fc-a185-0871ac39e241/AAABobqGs5o/AAABnSSvrFg/16x9-big/papst-uruguay-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "eb0b57fd6ed8404a",
+      "guid": "732bb699-9f66-4743-aad1-da990f0ad59a",
+      "link": "https://www.tagesschau.de/ausland/amerika/guatemala-kampf-korruption-100.html",
+      "title": "Guatemalas Korruptionsbekämpfer riskieren ihr Leben",
+      "excerpt": "Guatemalas Präsident Arévalo versucht, die Korruption im Land zu bekämpfen. Doch der Widerstand einflussreicher Kreise ist massiv. Der Mord an einem der bekanntesten Anwälte des Landes zeigt, wie entschlossen sie sind. Von A. Demmer.",
+      "published": "2026-11-08T07:39:28.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/86a8cd8d-207e-47ea-b096-03a699f80c25/AAABoaus4WI/AAABnSSvrFg/16x9-big/tatort-fussballplatz-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "d4a61396de301ea9",
+      "guid": "21b8e0d5-f2d4-459e-885b-3199f9ed061b",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
+      "title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
+      "excerpt": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.",
+      "published": "2026-11-08T07:35:33.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/18371428-3210-4453-b7ab-1fd97fa2d32f/AAABm5eTw7w/AAABnSSvrFg/16x9-big/statuen-baer-bulle-deutsche-boerse-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "199019d9307af3db",
+      "guid": "e2be1c15-41d8-4444-b5d4-fd0745f454e3",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html",
+      "title": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
+      "excerpt": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen.",
+      "published": "2026-11-08T07:27:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/38870537-2e1c-48c2-93aa-6716c4c8cf86/AAABoboOjEc/AAABnSSvrFg/16x9-big/japan-erdbeben-aichi-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
       "id": "f3851c49d14abc5f",
       "guid": "8d11912c-ccf8-422a-a00e-08c2f93fb46f",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",

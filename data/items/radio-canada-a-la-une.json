@@ -3,6 +3,127 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "d77189bed035be75",
+      "guid": "https://ici.radio-canada.ca/sports/2299183/norvege-exclue-russie-hockey-junior-championnat-du-monde",
+      "link": "https://ici.radio-canada.ca/sports/2299183/norvege-exclue-russie-hockey-junior-championnat-du-monde",
+      "title": "La Norvège exclue du Mondial junior suite à la réintégration de la Russie",
+      "excerpt": "Le Canada a pourtant précisé que les joueurs russes ne se verraient pas accorder de visa pour la compétition.",
+      "published": "2026-11-08T14:28:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/norvege-hockey.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "f4b4c9b6ad4e29f2",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299175/secretaire-general-onu-heure-verite-climat",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299175/secretaire-general-onu-heure-verite-climat",
+      "title": "« C’est l’heure de vérité » pour la lutte climatique, lance le secrétaire général de l’ONU",
+      "excerpt": "À l'approche de la fin de son mandat, António Guterres revient sur ses 10 ans de lutte pour le climat à l'ONU.",
+      "published": "2026-11-08T13:25:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/antonio-guterres-entrevue-fin-mandat.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "4799798915a28e2f",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299173/mission-israel-pas-terminee-ministre-defense",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299173/mission-israel-pas-terminee-ministre-defense",
+      "title": "La mission d’Israël en Iran n’est « pas terminée », déclare le ministre de la Défense",
+      "excerpt": "Israël Katz a réitéré ses accusations selon lesquelles Téhéran chercherait à se doter de l'arme nucléaire.",
+      "published": "2026-11-08T12:20:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/israel-katz-ministre-israelien-de-la-defense.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "1f0da2ce6f736fd3",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2297936/drones-cessna-helicoptere-defense-nationale",
+      "link": "https://ici.radio-canada.ca/nouvelle/2297936/drones-cessna-helicoptere-defense-nationale",
+      "title": "Une simulation de sauvetage hors du commun près d’Ottawa",
+      "excerpt": "Un avion Cessna et un hélicoptère ont été entièrement téléguidés lors de l'opération de sauvetage simulée.",
+      "published": "2026-11-08T10:25:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/operation-sauvetage-teleguidee-autonome-cnrc-ribbit-6878.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "d2d97e1ea02516dc",
+      "guid": "https://ici.radio-canada.ca/info/long-format/2298343/visions-gerard-traduction-boreal-catellier-livre",
+      "link": "https://ici.radio-canada.ca/info/long-format/2298343/visions-gerard-traduction-boreal-catellier-livre",
+      "title": "La voix québécoise de Jack Kerouac restituée",
+      "excerpt": "Grâce à une nouvelle traduction, l'un de ses romans les plus intimes s'affranchit de sa version parisienne.",
+      "published": "2026-11-08T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jack-kerouac-manuscrit-sur-la-route-encheres.png",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "1faf643e0434f62a",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298585/denisovien-ossements-identification-reconstitution-apparence",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298585/denisovien-ossements-identification-reconstitution-apparence",
+      "title": "Voici le visage du Dénisovien, cousin de Sapiens et de Néandertal",
+      "excerpt": "Les Dénisoviens sont apparus en Asie il y a environ 400 000 ans et ont disparu il y a autour de 40 000 ans.",
+      "published": "2026-11-08T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/denisovien-visage-representation-artistique.png",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "4451f199825a5315",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2292697/decroissance-intelligente-villages-rural-finlande-juuka",
+      "link": "https://ici.radio-canada.ca/nouvelle/2292697/decroissance-intelligente-villages-rural-finlande-juuka",
+      "title": "Des villages finlandais s’adaptent pour éviter de mourir",
+      "excerpt": "Le smart shrinking, ou la décroissance intelligente, vise à faire face au déclin des villages.",
+      "published": "2026-11-08T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/finlande-8261.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "543fe54ea0d8a4bd",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299053/budget-carney-champagne-liberal-depenses",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299053/budget-carney-champagne-liberal-depenses",
+      "title": "Un budget tout à fait libéral",
+      "excerpt": "Le premier ministre Mark Carney retrouve la tendance dépensière qui a marqué les années de Justin Trudeau.",
+      "published": "2026-11-08T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-budget-liberal.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "56c21525b3fc5bca",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299099/gala-adisq-angine-poitrine-six-nominations",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299099/gala-adisq-angine-poitrine-six-nominations",
+      "title": "La fièvre Angine de Poitrine s’empare de l’ADISQ",
+      "excerpt": "Le groupe saguenéen fait figure de favori du 48e Gala de l'ADISQ avec un total de six nominations.",
+      "published": "2026-11-08T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/angine-de-poitrine-26926.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "b553c0f6d79613cd",
+      "guid": "https://ici.radio-canada.ca/info/long-format/2298561/rats-ville-climat-new-york-invasion-contraceptif",
+      "link": "https://ici.radio-canada.ca/info/long-format/2298561/rats-ville-climat-new-york-invasion-contraceptif",
+      "title": "Des contraceptifs pour contrôler nos voisins les rats",
+      "excerpt": "Pour contrôler les populations de rats, des villes misent sur de nouvelles approches, comme la contraception.",
+      "published": "2026-11-08T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rat-brun.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "f42925401ba01c67",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2298992/itinerance-gatineau-village-transition-marquis-bissonnette-",
+      "link": "https://ici.radio-canada.ca/nouvelle/2298992/itinerance-gatineau-village-transition-marquis-bissonnette-",
+      "title": "Gestion de l’itinérance à Gatineau : un modèle à reproduire, selon la mairesse",
+      "excerpt": "La mairesse de Gatineau, Maude Marquis-Bissonnette, parle de l'impact de Village Transitiôn sur l'itinérance.",
+      "published": "2026-11-08T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/maude-marquis-bissonnette-gatineau-itinerance.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
       "id": "62de373a66ca53a0",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299159/elks-lions-colombie-britannique-lcf-football",
       "link": "https://ici.radio-canada.ca/nouvelle/2299159/elks-lions-colombie-britannique-lcf-football",
