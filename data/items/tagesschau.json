@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "f3851c49d14abc5f",
+      "guid": "8d11912c-ccf8-422a-a00e-08c2f93fb46f",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
+      "title": "US-Militär attackiert Handelsschiff im Golf von Oman",
+      "excerpt": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, dass gegen die von den USA aufrecht erhaltene Seeblockade verstoßen haben soll. Iran meldet unterdessen, dass zwei Frachter in der Straße von Hormus in Brand geraten seien.",
+      "published": "2026-11-08T06:01:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2ac8994a-5ea1-4474-abc0-16b6fb5d6b79/AAABnKpubcc/AAABnSSvrFg/16x9-big/strasse-von-hormus-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T07:17:25.041Z"
+    },
+    {
+      "id": "00449a50296667a2",
+      "guid": "48fadc5a-91b1-4a20-8935-d77ad87d237f",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
+      "title": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
+      "excerpt": "Vom Sondervermögen des Bundes sollen auch Schulen, Kitas und Wissenschaft profitieren. Doch von den vorgesehenen Mitteln ist bislang offenbar nur ein Bruchteil in die Bildungsinfrastruktur geflossen. Die Grünen kritisieren das.",
+      "published": "2026-11-08T03:28:25.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f8f677e9-6450-420b-b286-94a87282a5ea/AAABnmPDHgs/AAABnSSvrFg/16x9-big/klassenzimmer-stuehle-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T07:17:25.041Z"
+    },
+    {
+      "id": "c86ccf145e72da95",
+      "guid": "f1853eff-e1f2-43d0-b21b-3e281aea4d77",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
+      "title": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
+      "excerpt": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise. Bislang konnte das auch ihr neuer Vorsitzender Kubicki nicht ändern. Von Philipp Eckstein.",
+      "published": "2026-11-08T02:28:44.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c5c63d68-4ab5-4931-8779-0a67c552dcba/AAABnm9Gfq0/AAABnSSvrFg/16x9-big/kubicki-170.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T07:17:25.041Z"
+    },
+    {
+      "id": "df3e770efe8dc95d",
+      "guid": "1b9691c3-4dc6-4b50-950e-21fc39d0af86",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
+      "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
+      "excerpt": "Ein Mann schießt in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrößte Stadt unter Schock. Ermittler suchen Antworten auf die bohrende Frage: Warum? Von Palina Milling.",
+      "published": "2026-11-08T01:50:38.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/68961771-7cd2-466f-9fc6-f5e1ef891cff/AAABobi2DQI/AAABnSSvrFg/16x9-big/krakau-trauer-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T07:17:25.041Z"
+    },
+    {
       "id": "bfbf8e481b320a2a",
       "guid": "ad45acb8-97a1-4878-932d-11da83f091e4",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
