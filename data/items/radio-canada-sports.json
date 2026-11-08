@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "d025d06e6590e785",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10804394/avenir-sport-et-loisir-a-gatineau",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10804394/avenir-sport-et-loisir-a-gatineau",
+      "title": "L'avenir du sport et du loisir à Gatineau",
+      "excerpt": "Des dizaines d'acteurs du milieu du sport et des loisirs se sont rassemblés pour réfléchir au futur du sports dans la Ville de Gatineau",
+      "published": "2026-11-08T00:07:30.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/8b84067e-0c21-4933-98b5-c237a8184897/HR/WEBOTT_2026-11-07_02_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-08T00:33:46.370Z"
+    },
+    {
+      "id": "f5c5bd9c672dcdfb",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10804384/vos-predictions-pour-mondial-hockey-feminin",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10804384/vos-predictions-pour-mondial-hockey-feminin",
+      "title": "Vos prédictions pour le mondial de hockey féminin?",
+      "excerpt": "Christine Roger est allée voir les joueuses de la LPHF pour connaître leurs prédictions en vue du Championnat du monde de hockey féminin!",
+      "published": "2026-11-07T23:56:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/championnat-monde-hockey-feminin.png",
+      "type": "article",
+      "addedAt": "2026-11-08T00:33:46.370Z"
+    },
+    {
+      "id": "877ce09fd63e18d6",
+      "guid": "https://ici.radio-canada.ca/sports/2299149/cf-montreal-termine-saison-2026-defaite-2-0-whitecaps",
+      "link": "https://ici.radio-canada.ca/sports/2299149/cf-montreal-termine-saison-2026-defaite-2-0-whitecaps",
+      "title": "Le CF Montréal termine sa saison 2026 avec une défaite aux mains des Whitecaps",
+      "excerpt": "Le Bleu-banc-noir a été blanchi 2-0, au stade Saputo, samedi.",
+      "published": "2026-11-07T23:33:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/cf-montreal-fin-saison-defaite-whitecaps.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T00:33:46.370Z"
+    },
+    {
+      "id": "b14fe172d4e7dec0",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10804357/soccer-feminin-premier-camp-selection-pour-ember-fc",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10804357/soccer-feminin-premier-camp-selection-pour-ember-fc",
+      "title": "Soccer féminin : premier camp de sélection pour Ember FC",
+      "excerpt": "120 joueuses participent à la première séance d'évaluation et de sélection pour le nouveau club de soccer féminin Ember FC de Winnipeg.",
+      "published": "2026-11-07T23:18:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/soccer-ember-selection-joueuses-winnipeg.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T00:33:46.370Z"
+    },
+    {
+      "id": "53a8bb18b58ed427",
+      "guid": "https://ici.radio-canada.ca/sports/2299139/fihg-exclut-bielorussie-championnats-monde-junior-senior",
+      "link": "https://ici.radio-canada.ca/sports/2299139/fihg-exclut-bielorussie-championnats-monde-junior-senior",
+      "title": "La FIHG exclut la Biélorussie des championnats du monde junior et sénior de 2027",
+      "excerpt": "La FIHG maintient qu’il n’existe pas de fondement juridique permettant d’ordonner la réintégration à ce stade.",
+      "published": "2026-11-07T22:45:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/bielorussie-mondiaux-juniors-hockey.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T00:33:46.370Z"
+    },
+    {
       "id": "2126a1d8d3f7ff12",
       "guid": "https://ici.radio-canada.ca/sports/2299132/lando-norris-qualifications-grand-prix-du-bresil",
       "link": "https://ici.radio-canada.ca/sports/2299132/lando-norris-qualifications-grand-prix-du-bresil",

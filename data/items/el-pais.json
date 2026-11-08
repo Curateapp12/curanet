@@ -3,6 +3,39 @@
   "sourceId": "el-pais",
   "items": [
     {
+      "id": "9e20bb3c2fbab901",
+      "guid": "https://elpais.com/deportes/formula-1/2026-11-07/norris-emerge-en-el-aguacero-del-gp-de-brasil.html",
+      "link": "https://elpais.com/deportes/formula-1/2026-11-07/norris-emerge-en-el-aguacero-del-gp-de-brasil.html",
+      "title": "Norris emerge en el aguacero del GP de Brasil",
+      "excerpt": "El británico de McLaren se adjudica su cuarta ‘pole’ del curso en una sesión que la lluvia estuvo a punto de cancelar",
+      "published": "2026-11-07T22:22:45.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/S7LJ25AM3RNLHEGZY7M3NFPSFA.jpg?auth=6c39a55973db06db3da1c9017443274b6b71f1b2530059dd642b4188df9fbf27",
+      "type": "article",
+      "addedAt": "2026-11-08T00:33:46.370Z"
+    },
+    {
+      "id": "275f50f8aa50fb83",
+      "guid": "https://elpais.com/deportes/futbol/2026-11-07/el-madrid-deja-mestalla-en-ruinas.html",
+      "link": "https://elpais.com/deportes/futbol/2026-11-07/el-madrid-deja-mestalla-en-ruinas.html",
+      "title": "El Madrid deja Mestalla en ruinas",
+      "excerpt": "El equipo de Mourinho golea a un débil Valencia impulsado por Bellingham y Güler y aprieta la Liga antes del Atlético - Barça",
+      "published": "2026-11-07T22:22:43.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/XJPOEWIV7VAOVDWGNFTAGF4GKI.jpg?auth=e43f101e9f9bf8c36ffab3b5c32ee67b087a6a94a8cf0a28d6af7e260bbc7c13",
+      "type": "article",
+      "addedAt": "2026-11-08T00:33:46.370Z"
+    },
+    {
+      "id": "cf13abb35a07c756",
+      "guid": "https://elpais.com/deportes/futbol/2026-11-07/el-manchester-city-ahorra-50-millones-a-pavarotti-marinakis.html",
+      "link": "https://elpais.com/deportes/futbol/2026-11-07/el-manchester-city-ahorra-50-millones-a-pavarotti-marinakis.html",
+      "title": "El Manchester City ahorra 50 millones a ‘Pavarotti’ Marinakis",
+      "excerpt": "El Forest abruma (3-1) a la mejor plantilla de la Premier, su dueño evita tener que despedir e indemnizar a su entrenador, y el Arsenal se escapa a seis puntos",
+      "published": "2026-11-07T20:54:34.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/GYX3IKUZWRP5DCOJNBU7GFDS5Q.jpg?auth=9e0bfaf277015c8bf35899fa48e0fcb32043275669a5c102cfa0aed218e17098",
+      "type": "article",
+      "addedAt": "2026-11-08T00:33:46.370Z"
+    },
+    {
       "id": "3d15985604b80b66",
       "guid": "https://elpais.com/deportes/futbol/2026-11-07/valencia-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
       "link": "https://elpais.com/deportes/futbol/2026-11-07/valencia-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
@@ -474,6 +507,17 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/CQW7EBP24RDR3CU7O6XSHM4MWY.jpg?auth=0f05bf179f07597b79b92eacd06bad6c9297cb5520f78f705b05c0b1dd05904b",
       "type": "article",
       "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "677138611ffec4c1",
+      "guid": "https://elpais.com/opinion/2026-11-07/un-lector-prevenir-no-consiste-en-adivinar-el-futuro-sino-en-analizar-los-riesgos-del-presente.html",
+      "link": "https://elpais.com/opinion/2026-11-07/un-lector-prevenir-no-consiste-en-adivinar-el-futuro-sino-en-analizar-los-riesgos-del-presente.html",
+      "title": "Un lector: “Prevenir no consiste en adivinar el futuro, sino en analizar los riesgos del presente”",
+      "excerpt": "Las cartas de este sábado abordan cómo reducir el peligro de accidentes, la angustia que causan las noticias, padres que increpan a docentes en huelga y la responsabilidad de dimitir como gobernante",
+      "published": "2026-11-07T04:30:01.000Z",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/DTDPO5JTKBPHREPXVHLI6KD32U.jpg?auth=8c9575d15a50fe2b4373542c9824b06d4615a1880e431daa48f54442b0dfaccf",
+      "type": "article",
+      "addedAt": "2026-11-08T00:33:46.370Z"
     },
     {
       "id": "98cb38ed33c4b31a",
