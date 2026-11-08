@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "cdd548e57d4650bc",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299240/600-millions-ottawa-milieu-culturel-fonds-medias",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299240/600-millions-ottawa-milieu-culturel-fonds-medias",
+      "title": "Les détails du 600 M$ promis par Ottawa au milieu culturel dévoilés",
+      "excerpt": "Le ministre Miller a annoncé, dimanche, la répartition de cette somme promise en juin dernier.",
+      "published": "2026-11-08T23:24:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/tiff-le-marche-miller-bailey-80931.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
+      "id": "4cba7f95b274ecca",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299228/nvidia-enquete-huang-espion-chine",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299228/nvidia-enquete-huang-espion-chine",
+      "title": "Nvidia : enquête sur l’espionnage présumé du PDG, qui admet une relation extraconjugale",
+      "excerpt": "Jensen Huang aurait noué une relation étroite avec Alice Huang, soupçonnée d'être une espionne chinoise.",
+      "published": "2026-11-08T22:52:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jensen-huang-nvidia-24478.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
+      "id": "3114f35103d7e252",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299221/elections-mi-mandat-trump-democrate-republicain",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299221/elections-mi-mandat-trump-democrate-republicain",
+      "title": "Raz-de-marée démocrate aux élections de mi-mandat : est-ce la fin de l’ère Trump?",
+      "excerpt": "Certains républicains s'attendent à un retour aux sources de leur parti.",
+      "published": "2026-11-08T22:22:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/donald-trump-etats-unis-35048.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
+      "id": "e898eb6289a1c564",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299231/trump-entrevue-cbs-immigration-mi-mandat",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299231/trump-entrevue-cbs-immigration-mi-mandat",
+      "title": "Trump reconnaît une politique d’expulsions d’immigrés « trop dure »",
+      "excerpt": "C'est ce que révèlent des extraits d'une entrevue diffusés par la chaîne CBS.",
+      "published": "2026-11-08T22:21:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ice-agent-masque-immigration-police-federale-etats-unis.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
+      "id": "5f100b70bd27ac00",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299232/universite-york-vol-renseignements-personnels-cybersecurite",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299232/universite-york-vol-renseignements-personnels-cybersecurite",
+      "title": "Vol de renseignements personnels à l’Université York",
+      "excerpt": "L’Université a appris le 25 octobre qu’« un acteur non autorisé » avait accédé à des formulaires.",
+      "published": "2026-11-08T22:04:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/universite-york-toronto-13358.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
+      "id": "62504e3f09c2fc1f",
+      "guid": "https://ici.radio-canada.ca/sports/2299213/chronique-martin-leclerc-mark-walter-devra-t-il-vendre-la-lphf",
+      "link": "https://ici.radio-canada.ca/sports/2299213/chronique-martin-leclerc-mark-walter-devra-t-il-vendre-la-lphf",
+      "title": "Mark Walter devra-t-il se résoudre à vendre la LPHF?",
+      "excerpt": "Le milliardaire américain liquide son empire sportif; qu’adviendra-t-il de son circuit de hockey féminin?",
+      "published": "2026-11-08T21:20:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/defile-victoire-montreal.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
       "id": "58468b97c5b8e712",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey",
       "link": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey",

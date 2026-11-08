@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "acba0e9c619b13b1",
+      "guid": "1ed834d2-6ec5-48f0-a7e9-3ab2d10fd118",
+      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+      "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+      "excerpt": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben. Von Gabi Biesinger.",
+      "published": "2026-11-08T23:11:37.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob1ZsYo/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
+      "id": "310cfa6841ef2126",
+      "guid": "17b93375-0089-4500-9b4f-c07a7a65e84c",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
+      "title": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
+      "excerpt": "Unionsfraktionschef Frei erteilt der geplanten Plastiksteuer eine Absage. Sie sei \"wirtschaftlich und ökologisch falsch\". Anders klingt das bei SPD-Fraktionschef Miersch, der auf laufende Verhandlungen verweist.",
+      "published": "2026-11-08T20:38:04.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0b4eb7e8-ea70-4f51-ab70-7582d3bc0166/AAABleXrA9I/AAABnSSvrFg/16x9-big/einwegverpackung-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
+      "id": "575cc88483fb6a8e",
+      "guid": "46a03b1a-dfa4-40b8-8e75-168d5a091eb3",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
+      "title": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
+      "excerpt": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe. Von J.-C. Kitzler.",
+      "published": "2026-11-08T20:15:13.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/44a105b9-9c17-4637-8e97-57afaf52ade8/AAABobykDyM/AAABnSSvrFg/16x9-big/gaza-regen-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
+      "id": "91ccbd72a6a2ace4",
+      "guid": "c1e006b4-f123-4591-9a75-9a6209903cb9",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+      "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+      "excerpt": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+      "published": "2026-11-08T20:05:22.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6da58f42-1c07-49a0-b569-a2efe0a6b4c1/AAABobzD-w8/AAABnSSvrFg/16x9-big/aigner-merz-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
+      "id": "d5216acf96af6642",
+      "guid": "7e73b986-7cc5-4ca0-b7e8-ec6eedf9a136",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
+      "title": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
+      "excerpt": "Viele junge Menschen fühlen sich politisch übergangen. Das liege auch daran, dass Pläne wie die Rentenreform nicht umgesetzt würden, sagt Winkel, Vorsitzender der Jungen Union, im Bericht aus Berlin. Die Regierung habe einiges wieder gut zu machen.",
+      "published": "2026-11-08T19:43:02.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ffffe647-adfd-47e5-88b2-29a10420bb82/AAABobyRoyc/AAABnSSvrFg/16x9-big/sendungsbild-1824456.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
       "id": "aafb4ed9b0d1c1c3",
       "guid": "a83feed0-a306-41a0-b330-66f2b7eebd6a",
       "link": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
