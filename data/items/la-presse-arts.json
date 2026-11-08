@@ -3,6 +3,50 @@
   "sourceId": "la-presse-arts",
   "items": [
     {
+      "id": "f433ebfee466a7a1",
+      "guid": "8230b8d1c6ab3da48fd69f8d69e69f18",
+      "link": "https://www.lapresse.ca/arts/litterature/2026-11-08/fraichement-arrives-chez-le-libraire.php",
+      "title": "Fraîchement arrivés chez le libraire",
+      "excerpt": "Parmi tous les livres qui sont arrivés récemment en librairie, en voici quelques-uns qui ont attiré notre attention.",
+      "published": "2026-11-08T18:30:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/f8cba3e2/57810d13cccb37258a0f0d31ac2aa501.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "9b2699f80e6400ec",
+      "guid": "c75dd3b062553724b50125e6b53061a5",
+      "link": "https://www.lapresse.ca/arts/litterature/2026-11-08/critique-de-l-esprit-sportif/passion-deception-obsession.php",
+      "title": "Critique de L’esprit sportif | Passion, déception, obsession",
+      "excerpt": "Jeune mère dans la vingtaine, Gabrielle Morency obtient un nouveau poste dans une boîte de fitness en ligne après avoir perdu son emploi à la fin de son congé de maternité. Étourdie par les exigences de la famille et épuisée par la charge mentale, celle qui est aussi belle-mère remet en même temps…",
+      "published": "2026-11-08T17:30:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/61a78233/69cf4efd03b132f394d5e05f1270f7a9.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "7fd17ee31dcc37e6",
+      "guid": "a89b3bb4846e39f290697846d59e84cd",
+      "link": "https://www.lapresse.ca/arts/litterature/2026-11-08/critique-d-un-ciel-renverse/quand-tout-bascule.php",
+      "title": "Critique d’Un ciel renversé | Quand tout bascule",
+      "excerpt": "Un rassemblement familial pour la fête de la Saint-Jean sera le théâtre de perturbations où des drames enfouis referont surface, faisant basculer l’ordre établi.",
+      "published": "2026-11-08T16:30:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0251a798/c2f54d59003232ecbef37188554012f6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "99cda5cbffcc7dd6",
+      "guid": "dc98a4a52cfe3cf9bc784da821ecbb5c",
+      "link": "https://www.lapresse.ca/arts/litterature/2026-11-08/critique-de-tuer-le-vieux/se-faire-justice.php",
+      "title": "Critique de Tuer le vieux | Se faire justice",
+      "excerpt": "Finaliste des prix Médicis et Décembre, Tuer le vieux est le premier roman de Daria Marx, une militante féministe et blogueuse française qui a cofondé le collectif Gras Politique, également coautrice de « Gros » n’est pas un gros mot (Flammarion) et autrice de Dix questions sur la grossophobie…",
+      "published": "2026-11-08T15:30:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0d2fde20/0aad045a469938fd8a398836a11bfc3a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
       "id": "2525a8efcd8dbf1e",
       "guid": "d02e4192f3c134baa693af6067b45f76",
       "link": "https://www.lapresse.ca/arts/litterature/2026-11-08/critique-de-la-solitude-des-professeurs-est-infinie/la-vocation.php",

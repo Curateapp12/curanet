@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "aafb4ed9b0d1c1c3",
+      "guid": "a83feed0-a306-41a0-b330-66f2b7eebd6a",
+      "link": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
+      "title": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
+      "excerpt": "Die FDP kämpft ums Überleben. Ihre letzte Chance dürften die Landtagswahlen kommendes Jahr sein. Während des digitalen Parteitags versuchte FDP-Chef Kubicki, die Liberalen als Gegengewicht zur Regierung zu etablieren. Von Lissy Kaufmann.",
+      "published": "2026-11-08T18:53:14.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/89d8e7b4-83b5-47f6-b1b6-93504ec8c705/AAABobxqbLc/AAABnSSvrFg/16x9-big/kubicki-182.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "24f9420b2a5acacf",
+      "guid": "d22a64b1-c9e3-4681-912b-528b9f4739d4",
+      "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+      "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+      "excerpt": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
+      "published": "2026-11-08T17:02:14.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "efe2bd5e11391a96",
+      "guid": "a712a4d2-d927-427a-9d85-b95ea9273bed",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+      "title": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
+      "excerpt": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Laut dem französischen Außenminister Barrot ist auch Europa vertreten: Frankreich werde an den Gesprächen mit den Russen teilnehmen.",
+      "published": "2026-11-08T16:33:42.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "726c131d8d8a43af",
+      "guid": "7e61a401-9058-4182-916c-1311dffb0fa1",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
+      "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
+      "excerpt": "Nun ist es offiziell: Israels Präsident Herzog hat den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragt. Der Ex-Militärchef appellierte an die anderen Parteien, \"unkonventionelle politische Schritte\" zu akzeptieren.",
+      "published": "2026-11-08T16:07:41.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/17988e16-b321-4573-a2d7-f8ccec24da95/AAABobvLlHQ/AAABnSSvrFg/16x9-big/gadi-eisenkot-110.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "e3ad5ea6fb394a19",
+      "guid": "558b7dcb-586c-4dfd-b719-ef169f9407f5",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
+      "title": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
+      "excerpt": "Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm.",
+      "published": "2026-11-08T15:28:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/84cb3245-ee5e-4ddc-8677-95217907f565/AAABlZAeuA0/AAABnSSvrFg/16x9-big/hochwasser-schaden-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
       "id": "2806f2663ff9c9db",
       "guid": "tagesschau_fm-story-rbb_linke-abgeordnete-vanessa-emde-mandat-fraktion-verzicht-weigerung",
       "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",

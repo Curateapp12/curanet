@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "d4a02b2afc89fabd",
+      "guid": "https://globalnews.ca/?p=12141962",
+      "link": "https://globalnews.ca/news/12141962/nova-scotia-data-centre-protest-moratorium/",
+      "title": "N.S. protests call for moratorium on data centre proposals in province",
+      "excerpt": "Protesters gathered in front of the provincial legislature at noon Saturday, taking up an entire block of Hollis Street before marching through the city’s downtown core.",
+      "published": "2026-11-08T18:10:16.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/f72a158e11e381ad120c65073ab9ba331fecd7a06054014f0f33d050553fb7b2.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "0b2fa0eb415bc30f",
+      "guid": "https://globalnews.ca/?p=12141963",
+      "link": "https://globalnews.ca/news/12141963/quebec-immigration-fraud-cases-minister-reaction/",
+      "title": "Quebec minister ‘deeply shocked’ by more than 100 alleged fraud cases",
+      "excerpt": "Ex-Immigration Ministry bureaucrat Marilena Ida has been charged with breach of trust and document forgery after an investigation.",
+      "published": "2026-11-08T17:59:45.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/340bee16ec1d9532d2d81bb777033f6e55e41315984f687918b7ff123bb9e6f7.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "6c84e431714651d1",
+      "guid": "https://globalnews.ca/news/12141852/flames-d-man-bahl-suffers-season-ending-injury/",
+      "link": "https://globalnews.ca/news/12141852/flames-d-man-bahl-suffers-season-ending-injury/",
+      "title": "Flames d-man Bahl suffers season-ending injury",
+      "excerpt": "The Calgary Flames say defenceman Kevin Bahl will have season-ending surgery for a ruptured Achilles tendon.",
+      "published": "2026-11-08T17:19:26.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/edd1874be9b6c8aefc89e41c3597e831efaca302899f5ca63d4b39c83a03ed0b.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "250363f3293a02c2",
+      "guid": "https://globalnews.ca/?p=12141842",
+      "link": "https://globalnews.ca/news/12141842/unexploded-shell-st-lawrence-river/",
+      "title": "Unexploded shell recovered by military along St. Lawrence River",
+      "excerpt": "The town says the shell had been submerged under a rising tide in the Port Saint-François area across the St. Lawrence River from Trois-Rivières.",
+      "published": "2026-11-08T17:13:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/340ed8120ed0cfa836a52960605718214f777c027c7c42d0d3247da19f4f762b.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "0b5a89e96f21dd8c",
+      "guid": "https://globalnews.ca/?p=12141827",
+      "link": "https://globalnews.ca/news/12141827/measles-exposure-toronto-pearson-durham-region/",
+      "title": "Toronto Pearson, Durham region ER among possible measles exposure sites",
+      "excerpt": "Known contacts in the Durham Region have been contacted by the department, but officials are issuing the warning after determining there may have been further exposures.",
+      "published": "2026-11-08T16:53:51.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/manitoba-measles-outbreak-over.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "d9bf9ea83e374632",
+      "guid": "https://globalnews.ca/?p=12141815",
+      "link": "https://globalnews.ca/news/12141815/israel-government-whats-next-eisenkot-to-lead/",
+      "title": "What’s next for Israel as Eisenkot tapped to lead government?",
+      "excerpt": "Israel’s new members of Knesset will be sworn in Tuesday. Netanyahu and his Cabinet will remain in office in a caretaker capacity, with limited powers, until a coalition is formed.",
+      "published": "2026-11-08T16:03:56.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/882d619c802a479da072f28e2f23b1a8c4db75a4bc0e37ceac9a9fed88d0bb3d.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "fc54bfa4f19aab25",
+      "guid": "https://globalnews.ca/?p=12141788",
+      "link": "https://globalnews.ca/news/12141788/bc-storms-power-outages-strong-winds/",
+      "title": "1 dead after tree falls on 2 vehicles during second B.C. storm",
+      "excerpt": "A number of storms have hit British Columbia this weekend leaving thousands without power after trees were downed by strong winds, with more wind gusts expected.",
+      "published": "2026-11-08T15:25:20.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/downed-tree.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
       "id": "e6274d928623b6a3",
       "guid": "https://globalnews.ca/?p=12141513",
       "link": "https://globalnews.ca/news/12141513/recipe-chimichurri-rojo-red-chimichurri/",

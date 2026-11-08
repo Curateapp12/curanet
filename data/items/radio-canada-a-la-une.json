@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "58468b97c5b8e712",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey",
+      "title": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
+      "excerpt": "Une collision, un bateau en renfort, l’état d’urgence : la patience des insulaires s'use.",
+      "published": "2026-11-08T19:23:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/traversiers-quai-isle-aux-coudres.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "88b4c00c7f0cc122",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299198/israel-formation-gouvernement-eisenkot-appel-unite",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299198/israel-formation-gouvernement-eisenkot-appel-unite",
+      "title": "Israël : chargé de former un gouvernement, Eisenkot appelle à l’unité",
+      "excerpt": "M. Eisenkot a accusé dimanche Benyamin Nétanyahou d'avoir plongé le pays dans une crise historique.",
+      "published": "2026-11-08T18:19:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/gadi-eisenkot-85049.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "ab50f33b13a293a5",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299193/quatre-candidats-poste-secretaire-general-oif",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299193/quatre-candidats-poste-secretaire-general-oif",
+      "title": "Quatre candidats s’affrontent pour le poste de secrétaire général de l’OIF",
+      "excerpt": "Le vainqueur sera annoncé le 16 novembre à l'issue du 20e Sommet de la Francophonie qui se tient à Phnom Penh.",
+      "published": "2026-11-08T18:16:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/entretien-francois-legault-avec-la-secretaire-generale-de-la-francophonie-son-excellence-mme-louise-mushikiwabo-sur-la-photo-louise-mushikiwabo-le-16-mars-2026_03162026-photo-sylvain-roy-roussel-19514.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "a2500c6ded79f1a2",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299192/americains-canada-elections-mi-mandat-relations",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299192/americains-canada-elections-mi-mandat-relations",
+      "title": "Élections de mi-mandat : des Américains qui vivent au Canada espèrent un rapprochement",
+      "excerpt": "Ils se réjouissent de la victoire démocrate, mais s’attendent à ce que la méfiance des Canadiens persiste.",
+      "published": "2026-11-08T17:45:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/etats-unis-canada.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "1e58b2b660f260ac",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299182/pologne-deuil-confrontee-errorisme-interieur",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299182/pologne-deuil-confrontee-errorisme-interieur",
+      "title": "La Pologne en deuil, aux prises avec le « terrorisme intérieur »",
+      "excerpt": "Les Polonais n'ont pas connu pareil massacre de civils depuis la fin du régime communiste (1944-1989).",
+      "published": "2026-11-08T17:38:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cracovie-attentat.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "c3cfbc386d974603",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299196/egypte-morts-collision-trains",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299196/egypte-morts-collision-trains",
+      "title": "Égypte : au moins quatre morts dans une collision entre deux trains",
+      "excerpt": "Selon un premier bilan du ministère de la Santé, 88 personnes sont actuellement soignées pour des blessures.",
+      "published": "2026-11-08T17:19:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/accident-train-egypte.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "4bc58342117f1dce",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299189/donnees-consommateurs-ventes-entreprises-faillite",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299189/donnees-consommateurs-ventes-entreprises-faillite",
+      "title": "Des entreprises en faillite cèdent les données de leurs clients",
+      "excerpt": "Lors de sa faillite, Toys \"R\" Us Canada a vendu les noms et les coordonnées de ses clients",
+      "published": "2026-11-08T17:03:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/photo-stock-donnees-personnelles-ordinateur-portable-telephone-cellulaire.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "1e4944483cb20a50",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299184/adhesion-canada-erasmus-europe-obstacles",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299184/adhesion-canada-erasmus-europe-obstacles",
+      "title": "Pourquoi l’adhésion du Canada à Erasmus+ est loin d’être gagnée",
+      "excerpt": "Les coûts associés à ce programme d'échanges avec l'Union européenne pourraient être un frein, note un expert.",
+      "published": "2026-11-08T15:39:53.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/carney-parlement-europeen.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "1fc7974e4b08d508",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299185/musi-cafe-fermeture-lac-megantic",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299185/musi-cafe-fermeture-lac-megantic",
+      "title": "Le Musi-Café, symbole de la tragédie ferroviaire de Lac-Mégantic, fermera ses portes",
+      "excerpt": "L’équipe actuelle du Musi-Café servira sa clientèle pour une dernière fois le 21 novembre.",
+      "published": "2026-11-08T15:11:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/musi-cafe-lac-megantic.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
       "id": "d77189bed035be75",
       "guid": "https://ici.radio-canada.ca/sports/2299183/norvege-exclue-russie-hockey-junior-championnat-du-monde",
       "link": "https://ici.radio-canada.ca/sports/2299183/norvege-exclue-russie-hockey-junior-championnat-du-monde",
@@ -12,6 +111,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/norvege-hockey.jpg",
       "type": "article",
       "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "000e9ef65b4c17b4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299165/pensionnat-brandon-poursuite-agression-sexuelle",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299165/pensionnat-brandon-poursuite-agression-sexuelle",
+      "title": "Un survivant des pensionnats pour Autochtones poursuit le Manitoba et Ottawa",
+      "excerpt": "L'établissement de Brandon a cessé ses activités en 1972.",
+      "published": "2026-11-08T14:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pensionnat-brandon-poursuite-agression-sexuelle.jpg",
+      "type": "article",
+      "addedAt": "2026-11-08T19:40:05.976Z"
     },
     {
       "id": "f4b4c9b6ad4e29f2",
