@@ -3,6 +3,72 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "094609239735cd67",
+      "guid": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "excerpt": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+      "published": "2026-11-09T16:12:39.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "d7669d6db99e49f6",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "excerpt": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+      "published": "2026-11-09T16:04:57.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "82ab336fed5a0b35",
+      "guid": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+      "excerpt": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
+      "published": "2026-11-09T15:05:15.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "47fb58a628fdcfe2",
+      "guid": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+      "excerpt": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+      "published": "2026-11-09T14:34:03.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "7ef80ee6e03abb63",
+      "guid": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+      "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+      "excerpt": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+      "published": "2026-11-09T13:28:56.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "53877e7ba1bfab36",
+      "guid": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
+      "excerpt": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+      "published": "2026-11-09T12:16:13.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
       "id": "840fc9184c683327",
       "guid": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
       "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",

@@ -3,6 +3,116 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "ea665d60d0b24ac7",
+      "guid": "46af3d09b72431b5827c3d41ade2eac0",
+      "link": "https://www.lapresse.ca/actualites/2026-11-09/l-essentiel-de-l-information-en-deux-minutes/attentat-de-cracovie-elections-de-mi-mandat-mouvement-de-greve.php",
+      "title": "L’essentiel de l’information en deux minutes | Attentat de Cracovie, élections de mi-mandat, mouvement de grève",
+      "excerpt": "Parce que les nouvelles n’arrêtent jamais, La Presse sélectionne l’essentiel pour que vous soyez à jour.",
+      "published": "2026-11-09T17:25:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/af823d82a1f33f57b41d0b316fa469ec.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "6f234360e0a313af",
+      "guid": "aa58efb9c41136e5878ec9adc28ebdd0",
+      "link": "https://www.lapresse.ca/actualites/education/2026-11-09/mobilisation-contre-l-austerite-et-la-precarite/des-dizaines-de-milliers-d-etudiants-en-greve-cette-semaine.php",
+      "title": "Mobilisation contre l’austérité et la précarité | Des dizaines de milliers d’étudiants en grève cette semaine",
+      "excerpt": "S’apprête-t-on à vivre une variante saisonnière du Printemps érable de 2012 ? Plus de 60 000 cégépiens et d’étudiants universitaires feront la grève cette semaine afin de signaler leur opposition à l’« austérité » et la « précarité » en éducation, pour reprendre le vocable de la CRUES, coalition…",
+      "published": "2026-11-09T17:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/e9b23916/65d505f0968e3a9596d2dc7a7d83b965.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "a1d99fbee5fe8c18",
+      "guid": "ef32f9ec7b463513a5ae75191a2f8efa",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-09/meurtre-de-jeremy-bastien-perron-en-2008/la-couronne-reproche-a-la-meurtriere-d-avouer-son-crime-du-bout-des-levres.php",
+      "title": "Meurtre de Jérémy Bastien-Perron en 2008 | La Couronne reproche à la meurtrière d’avouer son crime du « bout des lèvres »",
+      "excerpt": "Même après 18 ans en détention, la marâtre Stéphanie Meunier reconnaît du « bout des lèvres » avoir tué le garçon de 4 ans de son conjoint. Selon la Couronne, elle est encore loin d’être réhabilitée et ne mérite pas de pouvoir sortir dès maintenant de prison.",
+      "published": "2026-11-09T16:44:37.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/1efad94b/6c09b627a8dd315180cbccb096e4bd87.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "98eac5f2d168e230",
+      "guid": "7c25441ee4d230d188fae92dbf34c70e",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-09/haut-outremont/pas-d-acces-privilegie-pour-les-millionnaires-assure-la-mairesse.php",
+      "title": "Haut-Outremont | Pas d’accès privilégié pour les millionnaires, assure la mairesse",
+      "excerpt": "Les millionnaires opposés à l’arrivée d’un projet de condos dans le Haut-Outremont n’ont pas eu d’accès privilégié à la mairesse de Montréal, a assuré lundi Soraya Martinez Ferrada.",
+      "published": "2026-11-09T16:32:16.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/559ecbb938233af0b58f5f2e09d6ecfd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "72f067afb3e4f9ec",
+      "guid": "39f3a92ce7bf32d2bbf03aef1e3a7565",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-11-09/etude/les-enfants-americains-sont-bombardes-de-publicites-pour-des-aliments-malsains.php",
+      "title": "Étude | Les enfants américains sont bombardés de publicités pour des aliments malsains",
+      "excerpt": "Les enfants et les adolescents américains sont bombardés chaque année de milliers de messages publicitaires sur l’alimentation par le biais des médias numériques, et plus de neuf messages sur dix font la promotion d’aliments malsains, prévient une nouvelle étude publiée par le journal JAMA…",
+      "published": "2026-11-09T16:21:11.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/fe4508cea3363e6d90847e74afb66095.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "d5f8c173e85a50c3",
+      "guid": "f4336a9e7325352997055749049bf34e",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-09/montreal/deux-arrestations-pour-proxenetisme-et-exploitation-d-une-mineure.php",
+      "title": "Montréal | Deux arrestations pour proxénétisme et exploitation d’une mineure",
+      "excerpt": "Deux Montréalais font face à une pluie d’accusations en lien avec la prostitution d’une mineure qu’ils auraient recrutée au début de l’année 2025.",
+      "published": "2026-11-09T15:48:12.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/b06000a9733e352490577bb02b86ac9b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "9bbdeb40a765003e",
+      "guid": "cec27e9aa6973bc3b751c3cec2776d82",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-09/le-fil-politique/francois-legault-se-porte-a-la-defense-de-son-heritage.php",
+      "title": "Le fil politique | François Legault se porte à la défense de son héritage",
+      "excerpt": "Bienvenue dans Le fil politique de La Presse, alimenté par nos journalistes à Québec, Montréal et Ottawa. Retrouvez tout ce qu’il faut savoir : actualités de dernière heure, explications, bruits de coulisses et plus encore…",
+      "published": "2026-11-09T15:31:22.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7042f41699523eadbbecf567d90eee66.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "9f2e118f09d6848f",
+      "guid": "17e800704ecf39cf9cdb37a410fb34e7",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-09/laval/un-homme-dans-la-trentaine-poignarde-dans-un-bar.php",
+      "title": "Laval | Un homme dans la trentaine poignardé dans un bar",
+      "excerpt": "Un homme dans la trentaine a été poignardé « au haut de corps » durant une bagarre à la fermeture d’un bar dans la nuit de dimanche à lundi au Centropolis de Laval.",
+      "published": "2026-11-09T13:15:38.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/c04c2e51c57139c6b6e14cc26e9e1caa.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "524cdd8fc649375e",
+      "guid": "1c26b0e4a49539aa85f3d8e731727287",
+      "link": "https://www.lapresse.ca/actualites/2026-11-09/reunion-du-g7/le-canada-annonce-des-sanctions-supplementaires-contre-la-russie.php",
+      "title": "Réunion du G7 | Le Canada annonce des sanctions supplémentaires contre la Russie",
+      "excerpt": "Le Canada a décidé d’imposer des sanctions supplémentaires contre la Russie « pour alourdir encore davantage le coût économique de la guerre » que Moscou mène contre l’Ukraine, a annoncé lundi la cheffe de la diplomatie canadienne, Anita Anand, en marge d’une réunion ministérielle du G7 à Paris.",
+      "published": "2026-11-09T13:10:33.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/2b24b26f2c813972a8ab42034839c205.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "bd91fd850c1a17b2",
+      "guid": "c51b50128424375b8952029395445d98",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-09/crise-de-l-itinerance/vers-un-village-transition-pour-les-campeurs-de-la-friche-notre-dame.php",
+      "title": "Crise de l’itinérance | Vers un « village Transition » pour les campeurs de la friche Notre-Dame",
+      "excerpt": "Montréal offrira aux itinérants qui peuplent la friche Notre-Dame une option d’hébergement plus sûre et « plus digne » d’ici Noël.",
+      "published": "2026-11-09T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/dd32d8e3da213843a11033ff7aee06b9.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
       "id": "f6c77aff5d55a5e4",
       "guid": "44359cb5628c335eb084d424e5342e79",
       "link": "https://www.lapresse.ca/actualites/education/2026-11-09/enseignement-superieur/divorce-entre-le-cegep-du-vieux-montreal-et-sa-fondation.php",

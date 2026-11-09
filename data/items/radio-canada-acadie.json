@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "dcc0d59fd7c6182b",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10804362/zootherapie-avec-chevaux-pour-quete-sens",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10804362/zootherapie-avec-chevaux-pour-quete-sens",
+      "title": "La zoothérapie avec des chevaux pour la quête de sens",
+      "excerpt": "On vous parle maintenant de la zoothérapie avec des chevaux. Les gens y vont en quête de sens, de réconfort ou de réponses sur soi.",
+      "published": "2026-11-09T15:51:33.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/1eb7160e-706f-43af-bbe7-404d16c497cf/HR/2026-1107-1110_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "6d554fb71f02c4ef",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10801239/episode-7-novembre-2026",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10801239/episode-7-novembre-2026",
+      "title": "Épisode du 7 novembre 2026",
+      "excerpt": "Au menu cette semaine : la célébration des 30 ans de La Francofête en Acadie, le tout nouveau single de Maude Sonier, ainsi que l’adaptation théâtrale du roman à succès 21 novembre. Il sera également question du rôle et de l’impact de l’intelligence artificielle au cœur de la création artistique.",
+      "published": "2026-11-09T12:13:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/billetterie-acadie-anne-marie-parenteau-7-novembre-francofete.png",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "72203bdee61d77b5",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299174/petite-enfance-nb-acces-garderies",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299174/petite-enfance-nb-acces-garderies",
+      "title": "Obtenir une place en garderie, un défi en milieu rural",
+      "excerpt": "Des parents et des propriétaires de garderies déplorent le difficile accès aux services de garde à Memramcook.",
+      "published": "2026-11-09T10:29:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/melanie-gaudet-garderies-memramcook.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
       "id": "4f2485f820ecbccd",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299243/patrice-bergeron-titan-bathurst",
       "link": "https://ici.radio-canada.ca/nouvelle/2299243/patrice-bergeron-titan-bathurst",
@@ -89,6 +122,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sans-abris-moncton-itinerance-2026.jpg",
       "type": "article",
       "addedAt": "2026-11-07T20:51:53.725Z"
+    },
+    {
+      "id": "ae6c0584405fb2b7",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-samedi/segments/rattrapage/2523869/chronique-p-tits-bouts-acadie-remede-ouvriers",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-samedi/segments/rattrapage/2523869/chronique-p-tits-bouts-acadie-remede-ouvriers",
+      "title": "Des p’tits bouts d’Acadie : le remède des ouvriers!",
+      "excerpt": "Cette semaine, l’archiviste et chroniqueur François J. LeBlanc, nous raconte l'histoire des remèdes miracles ou dits de charlatan, avec notamment la parution d'un remède dans le Journal L'Évangéline d'un Remède des Ouvriers par un certain Raymond Hébert de Shediac.",
+      "published": "2026-11-07T13:08:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/remede-ouvrier-ptit-bout-acadie-francois-leblanc.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T17:27:45.820Z"
     },
     {
       "id": "4e9f02ec62cb46f2",
