@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "cbeff5ef73423cc3",
+      "guid": "https://ici.radio-canada.ca/info/en-direct/1014656/48e-gala-adisq-prix-felix-musique-quebec",
+      "link": "https://ici.radio-canada.ca/info/en-direct/1014656/48e-gala-adisq-prix-felix-musique-quebec",
+      "title": "48e Gala de l’ADISQ : les faits saillants",
+      "excerpt": "Angine de Poitrine a triomphé en remportant cinq prix Félix, dont celui de la Chanson de l'année avec Fabienk.",
+      "published": "2026-11-09T05:41:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/angine-de-poitrine-adisq-felix-tapis-rouge.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T06:22:39.996Z"
+    },
+    {
+      "id": "85083ee80f4191b4",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299268/perquisition-santiago-pena-paraguay-justice-destitution",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299268/perquisition-santiago-pena-paraguay-justice-destitution",
+      "title": "Crise bancaire au Paraguay : perquisition au domicile du président destitué",
+      "excerpt": "La perquisition a été menée pour « abus de confiance » et « détournement de fonds à des fins personnelles ».",
+      "published": "2026-11-09T04:25:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/paraguay-president-santiago-pena.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T06:22:39.996Z"
+    },
+    {
+      "id": "5b03f88e5faf1e17",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299242/centres-de-donnees-prix-electricite-alberta",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299242/centres-de-donnees-prix-electricite-alberta",
+      "title": "Quel effet des centres de données sur le prix de l’électricité en Alberta?",
+      "excerpt": "La note pourrait grimper de plusieurs centaines de dollars par an, selon une analyse.",
+      "published": "2026-11-09T00:14:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/electricite-alberta-transmission.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T06:22:39.996Z"
+    },
+    {
       "id": "cdd548e57d4650bc",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299240/600-millions-ottawa-milieu-culturel-fonds-medias",
       "link": "https://ici.radio-canada.ca/nouvelle/2299240/600-millions-ottawa-milieu-culturel-fonds-medias",

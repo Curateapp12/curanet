@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "11bf7f2c7e05e8c8",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10804865/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10804865/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-11-09T04:17:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T06:22:39.996Z"
+    },
+    {
+      "id": "28bfc14f29404a9a",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10804858/sports-express",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10804858/sports-express",
+      "title": "Sports express",
+      "excerpt": "Capsule sports Express 23h00",
+      "published": "2026-11-09T04:06:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/emissions/16x9/sportsexpress.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T06:22:39.996Z"
+    },
+    {
+      "id": "b05dbc51cd5acb38",
+      "guid": "https://ici.radio-canada.ca/sports/2299303/flames-emportent-flyers-prolongation",
+      "link": "https://ici.radio-canada.ca/sports/2299303/flames-emportent-flyers-prolongation",
+      "title": "Les Flames l’emportent sur les Flyers en prolongation",
+      "excerpt": "Zayne Parekh, Zach Whitecloud et Joel Farabee ont été les autres marqueurs des Flames.",
+      "published": "2026-11-09T03:51:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/flames-matt-coronato.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T06:22:39.996Z"
+    },
+    {
+      "id": "3629ec462927d20b",
+      "guid": "https://ici.radio-canada.ca/sports/2299302/maple-leafs-blanchis-devils-hellebuyck",
+      "link": "https://ici.radio-canada.ca/sports/2299302/maple-leafs-blanchis-devils-hellebuyck",
+      "title": "Les Maple Leafs blanchis par les Devils et Hellebuyck",
+      "excerpt": "Hellebuyck est devenu le premier gardien des Devils à gagner ses cinq premières parties avec le club.",
+      "published": "2026-11-09T03:44:38.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/connor-hellebuyck-gardien-devils-lnh.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T06:22:39.996Z"
+    },
+    {
+      "id": "c119b39731f8a985",
+      "guid": "https://ici.radio-canada.ca/sports/2299283/jordan-love-packers-malmenent-patriots",
+      "link": "https://ici.radio-canada.ca/sports/2299283/jordan-love-packers-malmenent-patriots",
+      "title": "Jordan Love et les Packers malmènent les Patriots",
+      "excerpt": "Jordan Love a lancé trois passes de touché pour des gains aériens de 372 verges.",
+      "published": "2026-11-09T02:35:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/jordan-love-packers-green-bay-patriots-nouvelle-angleterre.jpg",
+      "type": "article",
+      "addedAt": "2026-11-09T06:22:39.996Z"
+    },
+    {
+      "id": "de547dbe93ca3e71",
+      "guid": "https://ici.radio-canada.ca/sports/videos/1-10804795/premier-tournoi-provincial-hockey-sonore-a-ottawa",
+      "link": "https://ici.radio-canada.ca/sports/videos/1-10804795/premier-tournoi-provincial-hockey-sonore-a-ottawa",
+      "title": "Premier tournoi provincial de hockey sonore à Ottawa",
+      "excerpt": "La capitale fédérale a accueilli la toute première Coupe de l’Ontario. Ce tournoi de hockey sonore est une occasion pour les personnes ayant une déficience visuelle de s’épanouir sur la glace.",
+      "published": "2026-11-09T00:07:22.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/4e237a09-2af5-4de8-b0c6-961416766507/HR/WEBOTT_2026-11-08_01_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-09T06:22:39.996Z"
+    },
+    {
       "id": "d0727cbb12f82503",
       "guid": "https://ici.radio-canada.ca/sports/2299235/canadiennes-dominent-japon-championnat-monde-hockey",
       "link": "https://ici.radio-canada.ca/sports/2299235/canadiennes-dominent-japon-championnat-monde-hockey",
