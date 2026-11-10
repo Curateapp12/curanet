@@ -3,6 +3,50 @@
   "sourceId": "hospital-news",
   "items": [
     {
+      "id": "a8ded388c7d789d9",
+      "guid": "https://www.hospitalnews.com/?p=146840",
+      "link": "https://www.hospitalnews.com/canadian-healthcare-spending-projected-to-reach-433-billion-in-2026/",
+      "title": "Canadian healthcare spending projected to reach $433 billion in 2026",
+      "excerpt": "New CIHI figures show hospital expenditures rising 5.1 per cent as workforce costs, capacity pressures and investments in healthcare delivery continue to shape spending across Canada. Canada’s total healthcare spending is projected to reach $433 billion in 2026, an increase of 4.8 per cent over…",
+      "published": "2026-11-10T15:23:12.000Z",
+      "thumbnail": "https://www.hospitalnews.com/wp-content/uploads/2026/11/Buenas-practicas-en-la-institucionalizacion-de-las-cuentas-de-salud_-Componentes-de-la-institucionalizacion-de-las-cuentas-de-salud-_-OECD.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "2f48c88cc92d1da5",
+      "guid": "https://www.hospitalnews.com/?p=146837",
+      "link": "https://www.hospitalnews.com/jewish-general-hospital-advances-specialized-care-for-critically-ill-newborns/",
+      "title": "Jewish General Hospital advances specialized care for critically ill newborns",
+      "excerpt": "Montreal hospital combines advanced neonatal monitoring, emergency care technology and family-centred practices to support approximately 550 premature and critically ill infants annually. The Jewish General Hospital in Montreal is highlighting how advanced medical technology, specialized nursing…",
+      "published": "2026-11-10T14:56:56.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "de8226e927669e4e",
+      "guid": "https://www.hospitalnews.com/?p=146833",
+      "link": "https://www.hospitalnews.com/14-eastern-ontario-hospitals-join-forces-to-establish-standards-for-responsible-ai-use/",
+      "title": "14 Eastern Ontario hospitals join forces to establish standards for responsible AI use",
+      "excerpt": "New regional collaborative will develop shared tools to evaluate artificial intelligence, strengthen patient safety and reduce duplication across healthcare organizations. Fourteen hospital organizations across Eastern Ontario are joining forces to establish a coordinated approach to the safe…",
+      "published": "2026-11-10T14:25:04.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "4238eb7e2a7d75d1",
+      "guid": "https://www.hospitalnews.com/?p=146830",
+      "link": "https://www.hospitalnews.com/montreal-heart-institute-introduces-canadas-first-advanced-ai-assisted-cardiovascular-imaging-system/",
+      "title": "Montreal Heart Institute introduces Canada’s first advanced AI-assisted cardiovascular imaging system",
+      "excerpt": "New hemodynamics suite uses artificial intelligence and advanced imaging technology to support precision during minimally invasive cardiac procedures. The Montreal Heart Institute has become the first hospital in Canada to install the Trinias Opera cardiovascular imaging platform, introducing…",
+      "published": "2026-11-10T13:03:27.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "255e82bd05e3311f",
       "guid": "https://www.hospitalnews.com/?p=146826",
       "link": "https://www.hospitalnews.com/nova-scotia-blood-management-program-helping-patients-prepare-for-safer-surgery/",

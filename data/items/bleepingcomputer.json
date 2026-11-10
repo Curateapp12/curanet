@@ -3,6 +3,72 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "82b5e1a648c0d248",
+      "guid": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "excerpt": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+      "published": "2026-11-10T16:17:16.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "89d6f6254d42deea",
+      "guid": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+      "excerpt": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
+      "published": "2026-11-10T15:59:19.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "74f31cae8a39391e",
+      "guid": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+      "title": "Ransomware recovery is now a client retention metric",
+      "excerpt": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times…",
+      "published": "2026-11-10T15:01:11.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "9af5f29020c4c27d",
+      "guid": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "excerpt": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+      "published": "2026-11-10T12:07:03.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "0e899e1e6c12f277",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "excerpt": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+      "published": "2026-11-10T10:10:20.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "8791ad63d4b7382e",
+      "guid": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "excerpt": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+      "published": "2026-11-10T10:04:32.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "7e1f9b33c691b691",
       "guid": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
       "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",

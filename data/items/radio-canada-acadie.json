@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "c3cea6e2982ad949",
+      "guid": "https://ici.radio-canada.ca/article/info/2299543/abandon-accusations-voitures-armes-moncton",
+      "link": "https://ici.radio-canada.ca/article/info/2299543/abandon-accusations-voitures-armes-moncton",
+      "title": "Un homme arrêté lors d’une saisie de 26 véhicules à Moncton n’est plus accusé",
+      "excerpt": "L’homme âgé de 55 ans était accusé de possession de biens volés, d'armes et de drogue.",
+      "published": "2026-11-10T13:56:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/saisie-voitures-voles-armes-feu-argent-droque-moncton-2.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "a4ca07243cc22c91",
+      "guid": "https://ici.radio-canada.ca/videos/1-10805874/francofete-en-acadie-30-ans-vitrine-pour-artistes",
+      "link": "https://ici.radio-canada.ca/videos/1-10805874/francofete-en-acadie-30-ans-vitrine-pour-artistes",
+      "title": "La FrancoFête en Acadie : 30 ans de vitrine pour les artistes",
+      "excerpt": "Du 3 au 8 novembre à Dieppe avait lieu cette édition de la FrancoFête en Acadie soulignant les 30 ans de cette vitrine incomparable pour les artistes.",
+      "published": "2026-11-10T13:07:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/billetterie-acadie-anne-marie-parenteau-veronique-godin.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "d7375f5b0eeb0740",
+      "guid": "https://ici.radio-canada.ca/article/info/2298914/universite-shippagan-edmundston-education-primaire",
+      "link": "https://ici.radio-canada.ca/article/info/2298914/universite-shippagan-edmundston-education-primaire",
+      "title": "U de M: L’idée des formations en enseignement aux campus satellites plaît aux districts",
+      "excerpt": "Les campus de Shippagan et d'Edmundston pourraient bientôt offrir une formation complète en enseignement.",
+      "published": "2026-11-10T11:23:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/campus-edmundston-universite-moncton-enseigne-ete-2023.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "770b19aaa84ae4a1",
+      "guid": "https://ici.radio-canada.ca/article/info/2299532/nouvelle-ecole-anglophone-dieppe-conseil",
+      "link": "https://ici.radio-canada.ca/article/info/2299532/nouvelle-ecole-anglophone-dieppe-conseil",
+      "title": "Dieppe pas encore prête à prendre position dans le dossier de l’école anglophone",
+      "excerpt": "La mairesse a fait le point devant une salle du conseil pleine à craquer, lundi soir.",
+      "published": "2026-11-10T10:34:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/salle-conseil-municipal-dieppe-reunion-ordinaire.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "f06b60e5524377c9",
+      "guid": "https://ici.radio-canada.ca/article/info/2299505/exportations-nouveau-brunswick-asie-europe",
+      "link": "https://ici.radio-canada.ca/article/info/2299505/exportations-nouveau-brunswick-asie-europe",
+      "title": "Le Nouveau-Brunswick se tourne vers l’Europe et l’Asie pour diversifier ses exportations",
+      "excerpt": "Le Nouveau-Brunswick veut réduire sa dépendance aux États-Unis.",
+      "published": "2026-11-10T00:09:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/susan-holt-premiere-ministre-nouveau-brunswick-62623.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "70a8b6acdb8bca5c",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299505/exportations-nouveau-brunswick-asie-europe",
       "link": "https://ici.radio-canada.ca/nouvelle/2299505/exportations-nouveau-brunswick-asie-europe",
@@ -12,6 +67,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/susan-holt-premiere-ministre-nouveau-brunswick-62623.jpg",
       "type": "article",
       "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "9c44d2c5d72466b7",
+      "guid": "https://ici.radio-canada.ca/article/info/2299476/salaire-viable-travailleurs-entreprises-nouveau-brunswick",
+      "link": "https://ici.radio-canada.ca/article/info/2299476/salaire-viable-travailleurs-entreprises-nouveau-brunswick",
+      "title": "Environ 40 % des travailleurs néo-brunswickois sous le revenu de subsistance",
+      "excerpt": "Au Nouveau-Brunswick, le revenu de subsistance serait de 24,84 $/h, selon le Human Development Council.",
+      "published": "2026-11-09T23:12:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/new-twenty-dollar-bill-charles-92904.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "6c9d3927ad22b7ff",
@@ -36,6 +102,28 @@
       "addedAt": "2026-11-10T01:30:07.276Z"
     },
     {
+      "id": "3bb64b30481a1ccb",
+      "guid": "https://ici.radio-canada.ca/ohdio/balados/14015/evelyne-et-gabrielle-font-un-podcast/1287018/la-deportation-des-acadiens",
+      "link": "https://ici.radio-canada.ca/ohdio/balados/14015/evelyne-et-gabrielle-font-un-podcast/1287018/la-deportation-des-acadiens",
+      "title": "La déportation des Acadiens",
+      "excerpt": "Le sujet du jour, la déportation des Acadiens, amène Evelyne à parler de ses liens avec ce peuple et Gabrielle à tenter de situer Louisbourg sur une carte. Les filles jasent aussi des Maritimes, de la guerre de succession d’Espagne et de pelote. Oui, tout ça se tient. Promis!",
+      "published": "2026-11-09T19:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/balado/16x9/evelyne-ferron-gabrielle-caron-histoire-humour.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "e2cf55d209429d86",
+      "guid": "https://ici.radio-canada.ca/article/info/2299392/budget-federal-arts-culture-acadie",
+      "link": "https://ici.radio-canada.ca/article/info/2299392/budget-federal-arts-culture-acadie",
+      "title": "Les artistes acadiens saluent un budget fédéral « sans précédent »",
+      "excerpt": "Le budget fédéral 2026 prévoit 4 milliards de dollars sur cinq ans pour les arts et la culture.",
+      "published": "2026-11-09T18:56:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jean-philippe-raiche-association-acadienne-des-artistes.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "95cc49abe9ec9c63",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299392/budget-federal-arts-culture-acadie",
       "link": "https://ici.radio-canada.ca/nouvelle/2299392/budget-federal-arts-culture-acadie",
@@ -47,6 +135,17 @@
       "addedAt": "2026-11-10T01:30:07.276Z"
     },
     {
+      "id": "7d2ea8292d3ae9e2",
+      "guid": "https://ici.radio-canada.ca/article/info/2299396/ecole-anglophone-dieppe-shirley-maclean-sanb",
+      "link": "https://ici.radio-canada.ca/article/info/2299396/ecole-anglophone-dieppe-shirley-maclean-sanb",
+      "title": "École anglophone à Dieppe : la commissaire aux langues officielles fait une mise en garde",
+      "excerpt": "Shirley MacLean craint les débordements en lien avec le débat entourant la nouvelle école anglophone à Dieppe.",
+      "published": "2026-11-09T18:29:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/shirley-maclean-commissaire-langues-officielles-nouveau-brunswick.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "1095c1bc265d6a92",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299396/ecole-anglophone-dieppe-shirley-maclean-sanb",
       "link": "https://ici.radio-canada.ca/nouvelle/2299396/ecole-anglophone-dieppe-shirley-maclean-sanb",
@@ -56,6 +155,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/shirley-maclean-commissaire-langues-officielles-nouveau-brunswick.jpg",
       "type": "article",
       "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "b7e9bc22e57e78df",
+      "guid": "https://ici.radio-canada.ca/article/info/2299229/tarifs-homard-chine-canada-etats-unis",
+      "link": "https://ici.radio-canada.ca/article/info/2299229/tarifs-homard-chine-canada-etats-unis",
+      "title": "Homard : l’accord avec la Chine bien accueilli par l’industrie",
+      "excerpt": "Les gouvernements chinois et canadien ont annoncé la prolongation d'un accord sur la baisse des tarifs.",
+      "published": "2026-11-09T17:50:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/homard-peche-congres-union-maritime.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "71da351b02439ee2",
@@ -102,6 +212,17 @@
       "addedAt": "2026-11-10T01:30:07.276Z"
     },
     {
+      "id": "2159436360b3f81f",
+      "guid": "https://ici.radio-canada.ca/videos/1-10801239/episode-7-novembre-2026",
+      "link": "https://ici.radio-canada.ca/videos/1-10801239/episode-7-novembre-2026",
+      "title": "Épisode du 7 novembre 2026",
+      "excerpt": "Au menu cette semaine : la célébration des 30 ans de La Francofête en Acadie, le tout nouveau single de Maude Sonier, ainsi que l’adaptation théâtrale du roman à succès 21 novembre. Il sera également question du rôle et de l’impact de l’intelligence artificielle au cœur de la création artistique.",
+      "published": "2026-11-09T12:13:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/billetterie-acadie-anne-marie-parenteau-7-novembre-francofete.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "6d554fb71f02c4ef",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10801239/episode-7-novembre-2026",
       "link": "https://ici.radio-canada.ca/info/videos/1-10801239/episode-7-novembre-2026",
@@ -111,6 +232,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/billetterie-acadie-anne-marie-parenteau-7-novembre-francofete.png",
       "type": "article",
       "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "c860633450fd2bbc",
+      "guid": "https://ici.radio-canada.ca/article/info/2299174/petite-enfance-nb-acces-garderies",
+      "link": "https://ici.radio-canada.ca/article/info/2299174/petite-enfance-nb-acces-garderies",
+      "title": "Obtenir une place en garderie, un défi en milieu rural",
+      "excerpt": "Des parents et des propriétaires de garderies déplorent l'accès difficile aux services de garde à Memramcook.",
+      "published": "2026-11-09T10:29:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/melanie-gaudet-garderies-memramcook.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "72203bdee61d77b5",
@@ -124,6 +256,17 @@
       "addedAt": "2026-11-09T17:27:45.820Z"
     },
     {
+      "id": "7ee539101da16649",
+      "guid": "https://ici.radio-canada.ca/article/info/2299243/patrice-bergeron-titan-bathurst",
+      "link": "https://ici.radio-canada.ca/article/info/2299243/patrice-bergeron-titan-bathurst",
+      "title": "À Bathurst, on n’a pas oublié les exploits de Patrice Bergeron",
+      "excerpt": "Son entrée au Temple de la renommée est pleinement méritée, dit son ancienne famille d'accueil.",
+      "published": "2026-11-08T23:25:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/patrice-bergeron-18940.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "4f2485f820ecbccd",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299243/patrice-bergeron-titan-bathurst",
       "link": "https://ici.radio-canada.ca/nouvelle/2299243/patrice-bergeron-titan-bathurst",
@@ -133,6 +276,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/patrice-bergeron-18940.jpg",
       "type": "article",
       "addedAt": "2026-11-08T23:41:40.823Z"
+    },
+    {
+      "id": "5eef06e6325aa08c",
+      "guid": "https://ici.radio-canada.ca/article/info/2299204/prix-excellence-arts-nb",
+      "link": "https://ici.radio-canada.ca/article/info/2299204/prix-excellence-arts-nb",
+      "title": "Dyane Léger et Diane Losier reçoivent le Prix de la lieutenante-gouverneure",
+      "excerpt": "Les lauréats avaient été annoncés au mois d'octobre et ont reçu leur prix officiellement cette fin de semaine.",
+      "published": "2026-11-08T20:20:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/residence-gouverneur-nb-lieutenant-gouverneur-lieutenante-gouverneure.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "b1591d88cb66f808",
@@ -146,6 +300,17 @@
       "addedAt": "2026-11-08T23:41:40.823Z"
     },
     {
+      "id": "dab357c9cb092483",
+      "guid": "https://ici.radio-canada.ca/article/info/2298950/therapie-cheval-pleine-conscience-madawaska",
+      "link": "https://ici.radio-canada.ca/article/info/2298950/therapie-cheval-pleine-conscience-madawaska",
+      "title": "L’équithérapie, l’art d’apprendre à se connaître grâce aux chevaux",
+      "excerpt": "Balance with Hooves propose des séances de bien-être avec des chevaux depuis plus de dix ans.",
+      "published": "2026-11-08T17:29:15.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/equitherapie-zootherapie-sainte-anne-madawaska.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "29dea491c07e5642",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298950/therapie-cheval-pleine-conscience-madawaska",
       "link": "https://ici.radio-canada.ca/nouvelle/2298950/therapie-cheval-pleine-conscience-madawaska",
@@ -155,6 +320,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/equitherapie-zootherapie-sainte-anne-madawaska.jpeg",
       "type": "article",
       "addedAt": "2026-11-08T19:40:05.976Z"
+    },
+    {
+      "id": "a2aa7d195be38326",
+      "guid": "https://ici.radio-canada.ca/article/info/2295885/kim-chamberlain-intimidation-mairesse-bathurst",
+      "link": "https://ici.radio-canada.ca/article/info/2295885/kim-chamberlain-intimidation-mairesse-bathurst",
+      "title": "Harcèlement des élus : la mairesse de Bathurst a craint pour sa sécurité",
+      "excerpt": "Les proches de Madame Chamberlain craignent pour sa sécurité.",
+      "published": "2026-11-08T15:38:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/kim-chamberlain-mairesse-bathurst-39227.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "612b138d391d472d",
@@ -168,6 +344,28 @@
       "addedAt": "2026-11-08T19:40:05.976Z"
     },
     {
+      "id": "fc53e7c1dd7cb2d8",
+      "guid": "https://ici.radio-canada.ca/article/info/2299154/francofete-acadie-gagnants-2026-izabelle",
+      "link": "https://ici.radio-canada.ca/article/info/2299154/francofete-acadie-gagnants-2026-izabelle",
+      "title": "La FrancoFête en Acadie décerne les prix de sa 30e édition",
+      "excerpt": "Festivals, vitrines et tournées attendent les lauréats.",
+      "published": "2026-11-08T15:28:21.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/francofete-acadie-30.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "025d5c97abdac6b6",
+      "guid": "https://ici.radio-canada.ca/article/info/2299134/ecole-anglophone-riverview-parents",
+      "link": "https://ici.radio-canada.ca/article/info/2299134/ecole-anglophone-riverview-parents",
+      "title": "Des parents militent pour la construction d’une école francophone à Riverview",
+      "excerpt": "Ces parents ont formé un comité en faveur de la construction de l'école.",
+      "published": "2026-11-08T11:27:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/edmundston-auto-ecole-louis-collin-classe.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "226562516d0e7ee8",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299134/ecole-anglophone-riverview-parents",
       "link": "https://ici.radio-canada.ca/nouvelle/2299134/ecole-anglophone-riverview-parents",
@@ -177,6 +375,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/edmundston-auto-ecole-louis-collin-classe.jpg",
       "type": "article",
       "addedAt": "2026-11-08T15:10:01.435Z"
+    },
+    {
+      "id": "5aeaa7735a997035",
+      "guid": "https://ici.radio-canada.ca/article/info/2297625/blessures-travail-foyers-soins-lit",
+      "link": "https://ici.radio-canada.ca/article/info/2297625/blessures-travail-foyers-soins-lit",
+      "title": "Plus de blessures au travail dans le secteur de la santé que dans celui de la construction",
+      "excerpt": "Un lit spécialisé est à l'étude et pourrait venir faciliter le travail des employés des foyers de soins.",
+      "published": "2026-11-08T11:14:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/blessure-foyers-soins-lit-nb-couverture.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "43ca52dae3bf0cc7",
@@ -201,6 +410,17 @@
       "addedAt": "2026-11-08T07:17:25.041Z"
     },
     {
+      "id": "4da57575f0769b9f",
+      "guid": "https://ici.radio-canada.ca/article/info/2299115/budget-federal-financement-itinerance",
+      "link": "https://ici.radio-canada.ca/article/info/2299115/budget-federal-financement-itinerance",
+      "title": "Budget fédéral : le Nouveau-Brunswick touchera sa part du financement pour l’itinérance",
+      "excerpt": "La province pourrait toucher plusieurs centaines de millions des fonds promis la semaine dernière.",
+      "published": "2026-11-07T20:21:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sans-abris-moncton-itinerance-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "7124c57368fad4d8",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299115/budget-federal-financement-itinerance",
       "link": "https://ici.radio-canada.ca/nouvelle/2299115/budget-federal-financement-itinerance",
@@ -223,6 +443,17 @@
       "addedAt": "2026-11-10T01:30:07.276Z"
     },
     {
+      "id": "0c84e92406b10767",
+      "guid": "https://ici.radio-canada.ca/article/info/2299047/voiture-corps-riviere-petitcodiac-moncton",
+      "link": "https://ici.radio-canada.ca/article/info/2299047/voiture-corps-riviere-petitcodiac-moncton",
+      "title": "Un corps et un véhicule repêchés dans la rivière Petitcodiac à Moncton",
+      "excerpt": "Un homme de 67 ans a été retrouvé sans vie dans la voiture.",
+      "published": "2026-11-07T15:35:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/incident-riviere-petitcodiac-moncton.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "ae6c0584405fb2b7",
       "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-samedi/segments/rattrapage/2523869/chronique-p-tits-bouts-acadie-remede-ouvriers",
       "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-samedi/segments/rattrapage/2523869/chronique-p-tits-bouts-acadie-remede-ouvriers",
@@ -232,6 +463,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/remede-ouvrier-ptit-bout-acadie-francois-leblanc.jpg",
       "type": "article",
       "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "759f0a43874d66ee",
+      "guid": "https://ici.radio-canada.ca/article/info/2298905/francofete-acadie-radarts-musique",
+      "link": "https://ici.radio-canada.ca/article/info/2298905/francofete-acadie-radarts-musique",
+      "title": "30 ans de rayonnement d’artistes à la FrancoFête en Acadie",
+      "excerpt": "Depuis 1997, les créateurs des arts de la scène se réunissent dans le Grand Moncton.",
+      "published": "2026-11-07T11:35:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/francofete-acadie-30.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "4e9f02ec62cb46f2",
@@ -256,6 +498,17 @@
       "addedAt": "2026-11-07T16:24:56.925Z"
     },
     {
+      "id": "5729ef4cc13774f4",
+      "guid": "https://ici.radio-canada.ca/article/info/2299023/ecole-anglophone-dieppe-parents",
+      "link": "https://ici.radio-canada.ca/article/info/2299023/ecole-anglophone-dieppe-parents",
+      "title": "École anglophone à Dieppe : « Ce serait un énorme avantage pour ma fille »",
+      "excerpt": "Sheldon Drover espère que le projet verra le jour avant que sa fille termine ses études.",
+      "published": "2026-11-07T11:22:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sheldon-drover-ecole-anglophone-dieppe-84539.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "769befed9b1e22e2",
       "guid": "https://ici.radio-canada.ca/nouvelle/2299023/ecole-anglophone-dieppe-parents",
       "link": "https://ici.radio-canada.ca/nouvelle/2299023/ecole-anglophone-dieppe-parents",
@@ -265,6 +518,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sheldon-drover-ecole-anglophone-dieppe-84539.jpeg",
       "type": "article",
       "addedAt": "2026-11-07T16:24:56.925Z"
+    },
+    {
+      "id": "007c9464b9be0daf",
+      "guid": "https://ici.radio-canada.ca/article/info/2299044/infirmieres-agence-campbellton-dalhousie",
+      "link": "https://ici.radio-canada.ca/article/info/2299044/infirmieres-agence-campbellton-dalhousie",
+      "title": "Les infirmières d’agence de retour à l’hôpital de Campbellton",
+      "excerpt": "Selon Vitalité, il s'agit d'une mesure temporaire pour assurer la continuité des services dans cet hôpital.",
+      "published": "2026-11-07T00:01:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hopital-regional-campbellton-546.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "dc9b9db467abc2d2",
@@ -287,6 +551,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/incident-riviere-petitcodiac-moncton.jpg",
       "type": "article",
       "addedAt": "2026-11-07T02:46:42.637Z"
+    },
+    {
+      "id": "87d88c4fc64b6258",
+      "guid": "https://ici.radio-canada.ca/article/info/2298979/soutien-victimes-pretres-dionne-daigle-tracadie",
+      "link": "https://ici.radio-canada.ca/article/info/2298979/soutien-victimes-pretres-dionne-daigle-tracadie",
+      "title": "Violences sexuelles : Tracadie accusée de manquer de sensibilité à l’endroit des victimes",
+      "excerpt": "Le refus de la municipalité de retirer le nom de curés visés par des allégations de nature sexuelle déçoit.",
+      "published": "2026-11-06T20:59:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/arena-dionne-tracadie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "7b7b1cd695579c7e",
@@ -333,6 +608,17 @@
       "addedAt": "2026-11-10T01:30:07.276Z"
     },
     {
+      "id": "f24135b533c5ba61",
+      "guid": "https://ici.radio-canada.ca/article/info/2298897/loi-brocanteurs-vols-cuivre",
+      "link": "https://ici.radio-canada.ca/article/info/2298897/loi-brocanteurs-vols-cuivre",
+      "title": "Bientôt de nouvelles mesures pour contrer le vol de cuivre",
+      "excerpt": "Une victime de vols très coûteux à Moncton se demande si cela suffira pour dissuader les voleurs.",
+      "published": "2026-11-06T17:12:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vol-cuivre-bell-clarendon-welsford-nouveau-brunswick.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "27e79071d15b7f94",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298897/loi-brocanteurs-vols-cuivre",
       "link": "https://ici.radio-canada.ca/nouvelle/2298897/loi-brocanteurs-vols-cuivre",
@@ -366,6 +652,17 @@
       "addedAt": "2026-11-06T17:56:58.532Z"
     },
     {
+      "id": "65bffa0ebb1fff89",
+      "guid": "https://ici.radio-canada.ca/article/info/2298822/cyborg-slayer-lancement-album-moontunes",
+      "link": "https://ici.radio-canada.ca/article/info/2298822/cyborg-slayer-lancement-album-moontunes",
+      "title": "Les Moontunes proposent une apocalypse robotique en musique",
+      "excerpt": "Le groupe rock progressif acadien lance son troisième album intitulé Cyborg Slayer.",
+      "published": "2026-11-06T15:10:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/moontunes-cyborg-slayer-lancement-album.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "def6f705f4fb5e12",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298822/cyborg-slayer-lancement-album-moontunes",
       "link": "https://ici.radio-canada.ca/nouvelle/2298822/cyborg-slayer-lancement-album-moontunes",
@@ -388,6 +685,17 @@
       "addedAt": "2026-11-06T17:56:58.532Z"
     },
     {
+      "id": "329abb5799d0552e",
+      "guid": "https://ici.radio-canada.ca/article/info/2298801/perte-emplois-parcs-canada-kouchibouguac-beaurivage",
+      "link": "https://ici.radio-canada.ca/article/info/2298801/perte-emplois-parcs-canada-kouchibouguac-beaurivage",
+      "title": "« Ce n’est pas encourageant » : Beaurivage s’inquiète de pertes d’emplois à Kouchibouguac",
+      "excerpt": "Au Nouveau-Brunswick, plus de 150 employés pourraient être touchés par le réaménagement des effectifs.",
+      "published": "2026-11-06T10:56:15.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/danielle-dugas-mairesse-beaurivage-13388.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "e9f9d0d747aaa400",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298801/perte-emplois-parcs-canada-kouchibouguac-beaurivage",
       "link": "https://ici.radio-canada.ca/nouvelle/2298801/perte-emplois-parcs-canada-kouchibouguac-beaurivage",
@@ -397,6 +705,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/danielle-dugas-mairesse-beaurivage-13388.jpg",
       "type": "article",
       "addedAt": "2026-11-06T17:56:58.532Z"
+    },
+    {
+      "id": "6032c5962beb98c1",
+      "guid": "https://ici.radio-canada.ca/article/info/2298583/eglise-saint-simon-nb-reconstruction",
+      "link": "https://ici.radio-canada.ca/article/info/2298583/eglise-saint-simon-nb-reconstruction",
+      "title": "La construction d’une petite église privilégiée par des paroissiens de Saint-Simon",
+      "excerpt": "Des résidents préfèrent cette option à la conversion de la salle paroissiale en lieu de culte.",
+      "published": "2026-11-06T10:29:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/eglise-de-saint-simon-incendie-26781.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "11f66cc027cea416",
@@ -421,6 +740,17 @@
       "addedAt": "2026-11-05T21:58:30.255Z"
     },
     {
+      "id": "01dbcf0d0e7c047d",
+      "guid": "https://ici.radio-canada.ca/article/info/2298675/ecole-anglophone-dieppe-anglicisation",
+      "link": "https://ici.radio-canada.ca/article/info/2298675/ecole-anglophone-dieppe-anglicisation",
+      "title": "École anglophone à Dieppe : l’anglicisation, une « inquiétude réelle », dit Susan Holt",
+      "excerpt": "Susan Holt dit comprendre les inquiétudes des citoyens qui s’opposent au projet.",
+      "published": "2026-11-05T20:49:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/susan-holt-claire-johnson-ecole-anglophone-dieppe.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "90c2b33b20246f0a",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298675/ecole-anglophone-dieppe-anglicisation",
       "link": "https://ici.radio-canada.ca/nouvelle/2298675/ecole-anglophone-dieppe-anglicisation",
@@ -441,6 +771,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ray-ban-facebook-lunette-intelligente.jpg",
       "type": "article",
       "addedAt": "2026-11-06T02:24:51.818Z"
+    },
+    {
+      "id": "1369f85d8daabb41",
+      "guid": "https://ici.radio-canada.ca/videos/1-10802533/centre-culturel-chaloupe-largue-amarres",
+      "link": "https://ici.radio-canada.ca/videos/1-10802533/centre-culturel-chaloupe-largue-amarres",
+      "title": "Le centre culturel La Chaloupe largue les amarres!",
+      "excerpt": "Un nouveau centre culturel et communautaire francophone ouvre ses portes au centre-ville d'Halifax. La vidéojournaliste Stéphanie Blanchet nous fait découvrir ses installations.",
+      "published": "2026-11-05T19:11:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/centre-culturel-francophone-chaloupe-halifax.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "130fd9b03955f30c",
@@ -465,6 +806,17 @@
       "addedAt": "2026-11-05T21:58:30.255Z"
     },
     {
+      "id": "b47e3611a8060640",
+      "guid": "https://ici.radio-canada.ca/article/info/2298525/feu-train-rogersville-cn",
+      "link": "https://ici.radio-canada.ca/article/info/2298525/feu-train-rogersville-cn",
+      "title": "L’activité ferroviaire, seule cause probable des feux de broussailles à Rogersville",
+      "excerpt": "La cause présumée des feux du 5 mai dernier n'a pas pu être confirmée par les enquêteurs de la province.",
+      "published": "2026-11-05T18:18:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/feu-rogersville.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "9342cdaf29b14d77",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298525/feu-train-rogersville-cn",
       "link": "https://ici.radio-canada.ca/nouvelle/2298525/feu-train-rogersville-cn",
@@ -474,6 +826,28 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/feu-rogersville.jpg",
       "type": "article",
       "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "4fdd57ae667b822e",
+      "guid": "https://ici.radio-canada.ca/article/info/2298349/heures-foyers-soins",
+      "link": "https://ici.radio-canada.ca/article/info/2298349/heures-foyers-soins",
+      "title": "Plaidoyer à Fredericton pour plus d’heures de soins dans les foyers",
+      "excerpt": "Fredericton promet 3,3 heures de soins par jour par résident, alors que les foyers réclament 4,1 heures.",
+      "published": "2026-11-05T18:16:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/norma-dube-presidente-association-aines-francophones-nb.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "c542e93b7f115206",
+      "guid": "https://ici.radio-canada.ca/article/info/2298555/consultation-fracturation-gaz-schiste-sussex",
+      "link": "https://ici.radio-canada.ca/article/info/2298555/consultation-fracturation-gaz-schiste-sussex",
+      "title": "Gaz de schiste : barrage de questions à Sussex lors d’une consultation publique",
+      "excerpt": "Des participants redoutent des effets négatif, d'autres espèrent une prospérité économique.",
+      "published": "2026-11-05T17:45:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/consultation-fracturation-gaz-schiste-sussex-nouveau-brunswick.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "016e61a187ebe1d7",
@@ -487,6 +861,17 @@
       "addedAt": "2026-11-05T21:58:30.255Z"
     },
     {
+      "id": "ca3352995312fc9f",
+      "guid": "https://ici.radio-canada.ca/article/info/2298570/operation-nez-rouge-gaetan-germain",
+      "link": "https://ici.radio-canada.ca/article/info/2298570/operation-nez-rouge-gaetan-germain",
+      "title": "Nez rouge honore Gaétan Germain, fondateur du service dans la Péninsule",
+      "excerpt": "Le service sera disponible du 27 novembre au 31 décembre dans trois régions du Nouveau-Brunswick.",
+      "published": "2026-11-05T17:29:38.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/operation-nez-rouge-gaetan-germain.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "123495af81139548",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298570/operation-nez-rouge-gaetan-germain",
       "link": "https://ici.radio-canada.ca/nouvelle/2298570/operation-nez-rouge-gaetan-germain",
@@ -496,6 +881,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/operation-nez-rouge-gaetan-germain.jpeg",
       "type": "article",
       "addedAt": "2026-11-05T21:58:30.255Z"
+    },
+    {
+      "id": "5a430fba794ba70a",
+      "guid": "https://ici.radio-canada.ca/article/info/2298543/ecole-anglophone-dieppe-eleves",
+      "link": "https://ici.radio-canada.ca/article/info/2298543/ecole-anglophone-dieppe-eleves",
+      "title": "La nouvelle école anglophone de Dieppe déjà pleine, même avant sa construction",
+      "excerpt": "Tous les matins, 1150 élèves anglophones quittent leur communauté pour recevoir une éducation.",
+      "published": "2026-11-05T14:58:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/classe-cours-education-sexuelle-2-32930.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "d578287700d8603b",
@@ -542,6 +938,17 @@
       "addedAt": "2026-11-05T15:26:38.116Z"
     },
     {
+      "id": "4c283b2698882d3a",
+      "guid": "https://ici.radio-canada.ca/article/info/2298392/terrains-vacants-municipalites-nouveau-brunswick",
+      "link": "https://ici.radio-canada.ca/article/info/2298392/terrains-vacants-municipalites-nouveau-brunswick",
+      "title": "Crise du logement : les municipalités pourraient taxer les terrains vacants",
+      "excerpt": "La mesure vise à promouvoir la croissance, particulièrement dans les centres-villes, selon le gouvernement.",
+      "published": "2026-11-05T10:18:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/centre-ville-moncton-trois-soeurs-construction-stationnement.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "3cf963d0772967d2",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298392/terrains-vacants-municipalites-nouveau-brunswick",
       "link": "https://ici.radio-canada.ca/nouvelle/2298392/terrains-vacants-municipalites-nouveau-brunswick",
@@ -553,6 +960,17 @@
       "addedAt": "2026-11-05T15:26:38.116Z"
     },
     {
+      "id": "2ea29bfd2cabaaaf",
+      "guid": "https://ici.radio-canada.ca/article/info/2298400/clara-guitard-volleyball-unb",
+      "link": "https://ici.radio-canada.ca/article/info/2298400/clara-guitard-volleyball-unb",
+      "title": "Volleyball féminin : les Reds de UNB misent sur la jeunesse",
+      "excerpt": "L'Acadienne Clara Guitard fait partie de l'équipe de volleyball des Reds de UNB.",
+      "published": "2026-11-04T22:29:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/clara-guitard-volleyball-unb.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "19c147008f9b35df",
       "guid": "https://ici.radio-canada.ca/nouvelle/2298400/clara-guitard-volleyball-unb",
       "link": "https://ici.radio-canada.ca/nouvelle/2298400/clara-guitard-volleyball-unb",
@@ -562,6 +980,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/clara-guitard-volleyball-unb.jpg",
       "type": "article",
       "addedAt": "2026-11-04T22:54:29.591Z"
+    },
+    {
+      "id": "6208077c0382d0f8",
+      "guid": "https://ici.radio-canada.ca/article/info/2298380/mi-mandat-etats-unis-reaction-atlantique",
+      "link": "https://ici.radio-canada.ca/article/info/2298380/mi-mandat-etats-unis-reaction-atlantique",
+      "title": "Élections de mi-mandat : les PM de la N.-É. et du N.-B. espèrent de meilleures relations",
+      "excerpt": "Tim Houston et Susan Holt se disent optimistes pour l'avenir des relations entre les États-Unis et le Canada.",
+      "published": "2026-11-04T21:23:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/drapeau-canada-etats-unis-ottawa-guerre-commerciale-conflit-tarifaire.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "b3f4c595b1bf0021",
@@ -595,6 +1024,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cortege-pleureuses-theatre-vent-debout-tourbieres-lameque-emma-hache.png",
       "type": "article",
       "addedAt": "2026-11-04T23:49:08.000Z"
+    },
+    {
+      "id": "3750ffc9fd13d8e2",
+      "guid": "https://ici.radio-canada.ca/article/info/2298232/manganese-eau-moncton-dieppe-riverview",
+      "link": "https://ici.radio-canada.ca/article/info/2298232/manganese-eau-moncton-dieppe-riverview",
+      "title": "Des sédiments signalés dans l’eau potable du Grand Moncton",
+      "excerpt": "« Cette décoloration ne pose aucun risque pour la santé », assure la Ville de Moncton.",
+      "published": "2026-11-04T17:28:15.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/eau-moncton-sediment-manganese-evier-lavabo-baignoire.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "87a0b48491589d56",
@@ -641,6 +1081,17 @@
       "addedAt": "2026-11-04T20:58:06.467Z"
     },
     {
+      "id": "6f0698ffef9d3116",
+      "guid": "https://ici.radio-canada.ca/videos/1-10801095/salon-livre-francofest-rencontre-avec-auteurs",
+      "link": "https://ici.radio-canada.ca/videos/1-10801095/salon-livre-francofest-rencontre-avec-auteurs",
+      "title": "Salon du livre du Francofest : rencontre avec les auteurs",
+      "excerpt": "Le Salon du livre du Francofest se déroulait du 28 au 31 octobre à l'École du Carrefour de Dartmouth. La journaliste Caroline Lévesque était sur place pour la journée d'ouverture. Elle a rencontré plusieurs auteurs, incluant Zachary Richard et Céleste Godin, ainsi que Dany et Daniel Bouffard, les…",
+      "published": "2026-11-04T13:06:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/salon-livre-francofest-dany-daniel-bouffard-capitaine-acadie.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "59863bedddd27d09",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10801095/salon-livre-francofest-rencontre-avec-auteurs",
       "link": "https://ici.radio-canada.ca/info/videos/1-10801095/salon-livre-francofest-rencontre-avec-auteurs",
@@ -663,6 +1114,17 @@
       "addedAt": "2026-11-04T13:12:29.746Z"
     },
     {
+      "id": "bcc25fa9d40638c8",
+      "guid": "https://ici.radio-canada.ca/article/info/2297857/ecole-anglophone-dieppe-lettre-ouverte",
+      "link": "https://ici.radio-canada.ca/article/info/2297857/ecole-anglophone-dieppe-lettre-ouverte",
+      "title": "Mobilisation citoyenne contre la construction d’une école anglophone à Dieppe",
+      "excerpt": "Une centaine de personnes ont signé une lettre ouverte pour demander au gouvernement de revoir ses plans.",
+      "published": "2026-11-04T10:41:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/martin-leblanc-rioux.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "7a50e946afc9fb5c",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297857/ecole-anglophone-dieppe-lettre-ouverte",
       "link": "https://ici.radio-canada.ca/nouvelle/2297857/ecole-anglophone-dieppe-lettre-ouverte",
@@ -672,6 +1134,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/martin-leblanc-rioux.jpeg",
       "type": "article",
       "addedAt": "2026-11-04T13:12:29.746Z"
+    },
+    {
+      "id": "fec8897323bf87bb",
+      "guid": "https://ici.radio-canada.ca/article/info/2297958/bac-4-ans-universite-shippagan-edmundston",
+      "link": "https://ici.radio-canada.ca/article/info/2297958/bac-4-ans-universite-shippagan-edmundston",
+      "title": "Un projet de loi pour plus de baccalauréats complets à Edmundston et Shippagan",
+      "excerpt": "La Loi sur l’Université de Moncton empêche présentement les campus d'offrir certains programmes de 4 ans.",
+      "published": "2026-11-03T23:55:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/universite-moncton-campus-shippagan-inscription.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "b602bd9075f0125e",
@@ -685,6 +1158,17 @@
       "addedAt": "2026-11-04T01:11:23.536Z"
     },
     {
+      "id": "99a5d6296b7cf563",
+      "guid": "https://ici.radio-canada.ca/article/info/2297872/securite-ligne-jeunes-marketing-deloyal-nouveau-brunswick",
+      "link": "https://ici.radio-canada.ca/article/info/2297872/securite-ligne-jeunes-marketing-deloyal-nouveau-brunswick",
+      "title": "Les jeunes pourraient bientôt être protégés contre le marketing déloyal en ligne",
+      "excerpt": "Le projet de loi déposé inclut aussi la nouvelle politique d'interdiction des cellulaires en classe.",
+      "published": "2026-11-03T22:56:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/generique-carte-credit-ordinateur-fraude-achat-en-ligne-arnaque.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "441eb3ee4335a96f",
       "guid": "https://ici.radio-canada.ca/nouvelle/2297872/securite-ligne-jeunes-marketing-deloyal-nouveau-brunswick",
       "link": "https://ici.radio-canada.ca/nouvelle/2297872/securite-ligne-jeunes-marketing-deloyal-nouveau-brunswick",
@@ -694,6 +1178,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/generique-carte-credit-ordinateur-fraude-achat-en-ligne-arnaque.jpg",
       "type": "article",
       "addedAt": "2026-11-03T23:46:26.885Z"
+    },
+    {
+      "id": "7c4cdd23cd4c22c5",
+      "guid": "https://ici.radio-canada.ca/article/info/2297940/retrait-accusation-agression-sexuelle-sanjeev-sirpal",
+      "link": "https://ici.radio-canada.ca/article/info/2297940/retrait-accusation-agression-sexuelle-sanjeev-sirpal",
+      "title": "Une autre accusation d’agression sexuelle contre Sanjeev Sirpal retirée en N.-É.",
+      "excerpt": "La Couronne a justifié le retrait en invoquant l'absence de perspective raisonnable de condamnation.",
+      "published": "2026-11-03T22:24:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sanjeev-sirpal-medecin-edmundston-nouveau-brunswick-accusation.png",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
     },
     {
       "id": "44e3f6c88620d5c3",

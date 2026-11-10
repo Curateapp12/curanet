@@ -3,6 +3,94 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "c5b4bb51ba8b6637",
+      "guid": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+      "link": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+      "title": "High oil prices have led to a dip in global carbon emissions",
+      "excerpt": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
+      "published": "2026-11-10T16:29:27.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "4c4fe289b24da25d",
+      "guid": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+      "link": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+      "title": "One space station company sues another for copying its work",
+      "excerpt": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
+      "published": "2026-11-10T16:17:51.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "004c51f512e0fac4",
+      "guid": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "excerpt": "The new model is up to twice as successful at some tasks.",
+      "published": "2026-11-10T15:00:39.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "952761630128c9fa",
+      "guid": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+      "excerpt": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+      "published": "2026-11-10T14:53:05.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "50bad3cfec0305a0",
+      "guid": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+      "excerpt": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
+      "published": "2026-11-10T14:43:49.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "e65f1a95fdc7833e",
+      "guid": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+      "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+      "title": "Polestar has a new look with its Formula 2030 concept",
+      "excerpt": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
+      "published": "2026-11-10T14:22:02.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Polestar-260929-HBL_B0001178_v003-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "ffd1be60b8ac1c68",
+      "guid": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "excerpt": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "published": "2026-11-10T12:15:32.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "1e5c1e122cc52eb2",
+      "guid": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+      "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+      "excerpt": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+      "published": "2026-11-10T12:00:21.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648-1794321189.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
       "id": "e80c606f4c727dd8",
       "guid": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
       "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
