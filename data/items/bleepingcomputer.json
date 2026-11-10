@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "7e1f9b33c691b691",
+      "guid": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "excerpt": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+      "published": "2026-11-10T08:51:25.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T09:46:50.445Z"
+    },
+    {
+      "id": "7d2482c88528a363",
+      "guid": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "excerpt": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+      "published": "2026-11-10T07:49:58.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T09:46:50.445Z"
+    },
+    {
       "id": "48d9ef3d98d6483b",
       "guid": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
       "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
