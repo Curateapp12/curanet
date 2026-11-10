@@ -3,6 +3,105 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "eae5970b07524ba1",
+      "guid": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "excerpt": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "published": "2026-11-10T23:02:39.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
+      "id": "cd1dc6d6e6bd42c3",
+      "guid": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "excerpt": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "published": "2026-11-10T22:35:01.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
+      "id": "61142563917e9a95",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "excerpt": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "published": "2026-11-10T21:55:26.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
+      "id": "b686da68349e5f78",
+      "guid": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "excerpt": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "published": "2026-11-10T21:12:59.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
+      "id": "c4b2e9a50337f305",
+      "guid": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "excerpt": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+      "published": "2026-11-10T20:30:01.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
+      "id": "0e4a97de00333460",
+      "guid": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+      "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+      "title": "Google Fi adds support for a second 5G network, won't say which one",
+      "excerpt": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+      "published": "2026-11-10T19:35:59.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Google-Fi-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
+      "id": "b40010d3be3b788a",
+      "guid": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "excerpt": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+      "published": "2026-11-10T19:00:26.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
+      "id": "25c872dbbbb572b1",
+      "guid": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "link": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "excerpt": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+      "published": "2026-11-10T18:39:16.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
+      "id": "b5a0a06fa977e7e6",
+      "guid": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+      "link": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+      "excerpt": "Benchmark tools for generic gaming rigs could be coming soon.",
+      "published": "2026-11-10T17:26:44.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
       "id": "c5b4bb51ba8b6637",
       "guid": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
       "link": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",

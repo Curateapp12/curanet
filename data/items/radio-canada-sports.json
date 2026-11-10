@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "a8746492cacd334f",
+      "guid": "https://ici.radio-canada.ca/article/info/2299731/gee-gees-hockey-ottawa-forfait-sanction",
+      "link": "https://ici.radio-canada.ca/article/info/2299731/gee-gees-hockey-ottawa-forfait-sanction",
+      "title": "Cinq victoires retirées aux Gee-Gees pour un joueur « inadmissible »",
+      "excerpt": "L’équipe masculine de hockey universitaire a signalé elle-même l’infraction à U Sports.",
+      "published": "2026-11-10T22:52:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/gee-gees-hockey-ottawa.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
+      "id": "c242b502c77d1ad2",
+      "guid": "https://ici.radio-canada.ca/videos/1-10806537/mathieu-beaudoin-halterophile-releve",
+      "link": "https://ici.radio-canada.ca/videos/1-10806537/mathieu-beaudoin-halterophile-releve",
+      "title": "Mathieu Beaudoin, haltérophile de la relève",
+      "excerpt": "Mathieu Beaudoin a débuté l’haltérophilie à peine quelques mois avant d’être sacré champion canadien junior. Sous l’aile de la championne olympique Maude Charron, sa jeune carrière ne fait que commencer!",
+      "published": "2026-11-10T21:45:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/mathieu-beaudoin-halterophilie.png",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
+    },
+    {
       "id": "96d2f03553861de6",
       "guid": "https://ici.radio-canada.ca/article/info/2299607/sommet-sport-canada-athletes-laurent-duvernay-tardif",
       "link": "https://ici.radio-canada.ca/article/info/2299607/sommet-sport-canada-athletes-laurent-duvernay-tardif",
@@ -177,6 +199,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/kaiden-guhle-canadien-avalanche.jpg",
       "type": "article",
       "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "9bc051b2da3f34ea",
+      "guid": "https://ici.radio-canada.ca/article/info/2299488/yukon-ski-sima-station-snowboard-neige",
+      "link": "https://ici.radio-canada.ca/article/info/2299488/yukon-ski-sima-station-snowboard-neige",
+      "title": "La station du mont Sima, au Yukon, fait le plein d’athlètes en novembre",
+      "excerpt": "Plusieurs athlètes nationaux et internationaux s’y entraînent en présaison.",
+      "published": "2026-11-09T22:43:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/yukon-whitehorse-mont-sima-ski-fis-alpine-competition-course.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T23:17:28.802Z"
     },
     {
       "id": "00b82b68431ad6e5",
