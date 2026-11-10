@@ -3,6 +3,171 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "a81377b717b01643",
+      "guid": "https://www.ledevoir.com/economie/1023692/postes-canada-espere-remettre-flot-haussant-prix-courrier-international",
+      "link": "https://www.ledevoir.com/economie/1023692/postes-canada-espere-remettre-flot-haussant-prix-courrier-international",
+      "title": "Postes Canada espère se remettre à flot en haussant le prix des timbres",
+      "excerpt": "La société d’État a enregistré l’an dernier des pertes record de 1,57 milliard de dollars.",
+      "published": "2026-11-09T23:48:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "6a3674e696f7b229",
+      "guid": "https://www.ledevoir.com/economie/consommation/1023632/systeme-paiement-temps-reel-est-lance-comment-notre-facon-payer-va-elle-changer",
+      "link": "https://www.ledevoir.com/economie/consommation/1023632/systeme-paiement-temps-reel-est-lance-comment-notre-facon-payer-va-elle-changer",
+      "title": "Le système de paiement en temps réel est lancé. Comment notre façon de payer va-t-elle changer?",
+      "excerpt": "Faire et recevoir des paiements instantanément et sans effort sera bientôt une réalité partout au Canada.",
+      "published": "2026-11-09T23:13:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "7715451dcbdb5058",
+      "guid": "https://www.ledevoir.com/actualites/1023677/jeune-femme-meurt-apres-avoir-ete-happee-train-rem",
+      "link": "https://www.ledevoir.com/actualites/1023677/jeune-femme-meurt-apres-avoir-ete-happee-train-rem",
+      "title": "Une jeune femme meurt après avoir été happée par un train du REM",
+      "excerpt": "Le tragique événement est survenu entre les stations Deux-Montagnes et Grand-Moulin en fin de matinée lundi.",
+      "published": "2026-11-09T22:40:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "544dda6fae20ed0d",
+      "guid": "https://www.ledevoir.com/politique/canada/1023674/ottawa-radie-4-5-milliards-prestations-liees-covid-19",
+      "link": "https://www.ledevoir.com/politique/canada/1023674/ottawa-radie-4-5-milliards-prestations-liees-covid-19",
+      "title": "Ottawa radie 4,5 milliards $ de prestations liées à la COVID-19",
+      "excerpt": "La vérificatrice générale relève aussi des retards persistants dans la paie des fonctionnaires.",
+      "published": "2026-11-09T22:34:12.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "42132a5ff04b75ed",
+      "guid": "https://www.ledevoir.com/economie/1023671/canada-chine-renforceront-liens-secteur-financier",
+      "link": "https://www.ledevoir.com/economie/1023671/canada-chine-renforceront-liens-secteur-financier",
+      "title": "Le Canada et la Chine renforceront leurs liens dans le secteur financier",
+      "excerpt": "Cela inclut l’octroi d’un meilleur accès au marché pour les services financiers.",
+      "published": "2026-11-09T22:14:43.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "cc5a301121d9db8a",
+      "guid": "https://www.ledevoir.com/sports/1023659/joey-saputo-compte-vendre-cf-montreal",
+      "link": "https://www.ledevoir.com/sports/1023659/joey-saputo-compte-vendre-cf-montreal",
+      "title": "Joey Saputo compte vendre le CF Montréal",
+      "excerpt": "L’homme d’affaires n’a pas écarté l’idée de vendre l’équipe à un investisseur qui déménagerait celle-ci.",
+      "published": "2026-11-09T21:17:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "e892d86184c88db4",
+      "guid": "https://www.ledevoir.com/politique/canada/1023650/ottawa-depense-19-milliards-dollars-consultants-externes-an-dernier",
+      "link": "https://www.ledevoir.com/politique/canada/1023650/ottawa-depense-19-milliards-dollars-consultants-externes-an-dernier",
+      "title": "Ottawa a dépensé 19 milliards de dollars en consultants externes l’an dernier",
+      "excerpt": "Le premier ministre Carney avait promis en campagne électorale de réduire le recours à ces services.",
+      "published": "2026-11-09T20:44:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "89c006fec2ee312c",
+      "guid": "https://www.ledevoir.com/actualites/immigration/1023620/etats-unis-ne-sont-pas-pays-demandeurs-asile-denoncent-manifestants",
+      "link": "https://www.ledevoir.com/actualites/immigration/1023620/etats-unis-ne-sont-pas-pays-demandeurs-asile-denoncent-manifestants",
+      "title": "Les États-Unis ne sont pas un «pays sûr» pour les demandeurs d’asile, dénoncent des manifestants",
+      "excerpt": "Ils réclament le retrait du Canada de l’Entente sur les tiers pays sûrs, contestée au même moment à Toronto.",
+      "published": "2026-11-09T20:14:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "7cc1d70c052b97f9",
+      "guid": "https://www.ledevoir.com/actualites/transports-urbanisme/1023617/ligne-bleue-metro-sera-fermee-pendant-quelques-heures-samedi-matin",
+      "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1023617/ligne-bleue-metro-sera-fermee-pendant-quelques-heures-samedi-matin",
+      "title": "La ligne bleue du métro sera fermée pendant quelques heures samedi matin",
+      "excerpt": "Hydro-Québec doit réaliser des travaux jugés «essentiels» pour la fiabilité de l’alimentation électrique du réseau.",
+      "published": "2026-11-09T20:06:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "3b456d2b1265d251",
+      "guid": "https://www.ledevoir.com/monde/etats-unis/1023605/procedure-destitution-secretaire-americain-defense-est-lancee-congres",
+      "link": "https://www.ledevoir.com/monde/etats-unis/1023605/procedure-destitution-secretaire-americain-defense-est-lancee-congres",
+      "title": "Une procédure de destitution du secrétaire à la Défense est lancée au Congrès",
+      "excerpt": "Le républicain Thomas Massie reproche à Pete Hegseth d’avoir mené la guerre en Iran sans l’aval du Congrès.",
+      "published": "2026-11-09T19:25:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "cf483f913636879a",
+      "guid": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres",
+      "link": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres",
+      "title": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
+      "excerpt": "La télémédecine et un quai à Baie-Saint-Paul permettraient de briser la précarité des insulaires, croient des élus.",
+      "published": "2026-11-09T19:09:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "ccd07d2e9b96332e",
+      "guid": "https://www.ledevoir.com/culture/1023596/ottawa-devoile-details-enveloppe-600-millions-contenu-canadien",
+      "link": "https://www.ledevoir.com/culture/1023596/ottawa-devoile-details-enveloppe-600-millions-contenu-canadien",
+      "title": "Ottawa dévoile les détails d’une enveloppe de 600 millions pour le contenu canadien",
+      "excerpt": "C’est le Fonds des médias du Canada qui en recevra la plus grande part.",
+      "published": "2026-11-09T18:52:43.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "819966461f87d057",
+      "guid": "https://www.ledevoir.com/lire/1023593/prestigieux-prix-booker-decerne-lundi-soir-londres",
+      "link": "https://www.ledevoir.com/lire/1023593/prestigieux-prix-booker-decerne-lundi-soir-londres",
+      "title": "L’auteur de science-fiction britannique M. John Harrison remporte le Booker Prize",
+      "excerpt": "On comptait parmi les finalistes deux femmes, ainsi que deux anciens lauréats, Marlon James et Douglas Stuart.",
+      "published": "2026-11-09T18:45:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "f888d3b41173c66f",
+      "guid": "https://www.ledevoir.com/economie/1023575/carney-nomme-femme-tete-premier-fonds-investissement-souverain-canadien",
+      "link": "https://www.ledevoir.com/economie/1023575/carney-nomme-femme-tete-premier-fonds-investissement-souverain-canadien",
+      "title": "Carney nomme une femme à la tête du premier fonds d’investissement souverain canadien",
+      "excerpt": "Karen Karniol-Tambour serait la première présidente-directrice générale du «Fonds pour un Canada fort».",
+      "published": "2026-11-09T18:05:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "08240294a6a4f6cc",
+      "guid": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires",
+      "link": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires",
+      "title": "Ottawa assouplit certaines règles relatives aux travailleurs étrangers temporaires",
+      "excerpt": "Il prolonge la durée pendant laquelle une entreprise peut employer un travailleur étranger temporaire à faible salaire.",
+      "published": "2026-11-09T17:09:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
       "id": "3ac73532087b92c9",
       "guid": "https://www.ledevoir.com/economie/1023530/savons-nous-affaire-espionnage-secoue-nvidia-patron",
       "link": "https://www.ledevoir.com/economie/1023530/savons-nous-affaire-espionnage-secoue-nvidia-patron",
@@ -56,6 +221,17 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "84e4f2a7f349fd29",
+      "guid": "https://www.ledevoir.com/culture/musique/1023500/gala-famille-40e-idees-heureuses",
+      "link": "https://www.ledevoir.com/culture/musique/1023500/gala-famille-40e-idees-heureuses",
+      "title": "Gala en famille pour le 40e des Idées heureuses",
+      "excerpt": "Musiciens, famille et amis ont rendu hommage à Geneviève Soly, dimanche.",
+      "published": "2026-11-09T15:30:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
     },
     {
       "id": "d7d440483dcde718",

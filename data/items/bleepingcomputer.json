@@ -3,6 +3,72 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "48d9ef3d98d6483b",
+      "guid": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "excerpt": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+      "published": "2026-11-09T23:52:12.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "fb65eccd7583e9db",
+      "guid": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "excerpt": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+      "published": "2026-11-09T22:09:33.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "8d206c962ee8a1f7",
+      "guid": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "excerpt": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+      "published": "2026-11-09T21:26:25.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "b9b072a1ed15fab1",
+      "guid": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "title": "York University breach exposed personal information dating to 2007",
+      "excerpt": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+      "published": "2026-11-09T21:22:31.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "e89c57c6d564ca26",
+      "guid": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+      "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "excerpt": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
+      "published": "2026-11-09T18:32:42.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "073e03d22daec48f",
+      "guid": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+      "excerpt": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+      "published": "2026-11-09T17:50:32.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
       "id": "094609239735cd67",
       "guid": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
       "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",

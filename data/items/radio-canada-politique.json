@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-politique",
   "items": [
     {
+      "id": "f9f2f258beb821fc",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10805763/ottawa-consulte-orgnanismes-francos",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10805763/ottawa-consulte-orgnanismes-francos",
+      "title": "Ottawa consulte les orgnanismes francos",
+      "excerpt": "La place du français au Canada : le fédéral consulte et les organisations locales font leur liste de doléances. On fera point sur les demandes des organismes francophones de la Colombie-Britannique.",
+      "published": "2026-11-10T01:19:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/telejournal-colombie-britannique-julie-carpentier-noemie-moukanda.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "3fcd7ff0189e2242",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10805759/un-siege-plus-pour-conservateurs",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10805759/un-siege-plus-pour-conservateurs",
+      "title": "Un siège de plus pour les conservateurs",
+      "excerpt": "Le décompte officiel des votes de l'élection provinciale du mois d'octobre est terminé. Le Parti conservateur remporte un siège supplémentaire grâce à quelques dizaines de voix.",
+      "published": "2026-11-10T01:15:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/telejournal-colombie-britannique-julie-carpentier-noemie-moukanda.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "1eb269e395220722",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10805738/apres-sa-rencontre-avec-doug-ford-pspp-devrait-rencontrer-mark-carney",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10805738/apres-sa-rencontre-avec-doug-ford-pspp-devrait-rencontrer-mark-carney",
+      "title": "Après sa rencontre avec Doug Ford, PSPP devrait rencontrer Mark Carney",
+      "excerpt": "Paul Saint-Pierre Plamondon a rencontré Doug Ford la semaine dernière. Il a déclaré avoir eu une rencontre très constructive avec le premier ministre ontarien. PSPP n’a cependant pas encore rencontré Mark Carney. Une rencontre entre les deux hommes devrait avoir lieu à Phnom Penh, au Cambodge…",
+      "published": "2026-11-10T00:32:24.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/dc7b3de3-ccee-4da1-91af-7dca82364165/HR/2026-1109-2023_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "f1f1d5f84e026d5c",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10805704/un-taux-inoccupation-a-0-sur-racine-se-felicite-marchand",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10805704/un-taux-inoccupation-a-0-sur-racine-se-felicite-marchand",
+      "title": "Un taux d’inoccupation à 0 % sur Racine, se félicite Marchand",
+      "excerpt": "Dans un point de presse aux allures de campagne électorale, le maire Bruno Marchand a vanté le bilan de sa formation politique en matière de revitalisation des artères commerciales au cours des cinq dernières années.",
+      "published": "2026-11-10T00:03:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rue-racube.png",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "32606001c7d4c6e1",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10805707/comment-budget-federal-profitera-t-il-a-region",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10805707/comment-budget-federal-profitera-t-il-a-region",
+      "title": "Comment le budget fédéral profitera-t-il à la région?",
+      "excerpt": "Le ministre Joël Lightbound était de passage au Téléjournal Québec pour expliquer comment le budget fédéral profitera à la région.",
+      "published": "2026-11-10T00:02:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/tjqc-joel-lightbound-ministre-services-publics.png",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "fa1a06e1bd955b5c",
+      "guid": "https://ici.radio-canada.ca/info/videos/1-10805415/bataille-dans-vachon-n-est-pas-terminee",
+      "link": "https://ici.radio-canada.ca/info/videos/1-10805415/bataille-dans-vachon-n-est-pas-terminee",
+      "title": "La bataille dans Vachon n’est pas terminée",
+      "excerpt": "Le PLQ conteste le résultat du recomptage judiciaire dans Vachon, qui a donné la victoire au PQ. Le parti estime que 31 bulletins, majoritairement libéraux, ont été rejetés à tort en raison d’une interprétation trop restrictive des règles par le juge. Le PLQ a-t-il un argument ? La réponse de…",
+      "published": "2026-11-09T19:46:08.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/dc6cf843-e26a-4117-8d44-6c530ac41416/HR/2026-1109-1654_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
       "id": "f97fcbc3b4d63981",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10805107/scott-martin-demeure-chef-listuguj",
       "link": "https://ici.radio-canada.ca/info/videos/1-10805107/scott-martin-demeure-chef-listuguj",

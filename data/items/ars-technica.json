@@ -3,6 +3,72 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "e80c606f4c727dd8",
+      "guid": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "excerpt": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "published": "2026-11-09T21:55:35.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "ac80b58c91d9e11c",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "excerpt": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "published": "2026-11-09T21:13:39.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "1f8464b9a8d55e33",
+      "guid": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "excerpt": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "published": "2026-11-09T20:49:09.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "8abde1ce00befc7c",
+      "guid": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "excerpt": "\"*sshole\" poses a serious threat to Internet security.",
+      "published": "2026-11-09T19:41:34.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "04df3a9aa5cdedc2",
+      "guid": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+      "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+      "excerpt": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+      "published": "2026-11-09T19:08:37.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "4065836ff3f518ca",
+      "guid": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "excerpt": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "published": "2026-11-09T17:24:26.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
       "id": "8af7bc60b8918a4b",
       "guid": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
       "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",

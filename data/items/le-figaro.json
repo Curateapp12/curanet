@@ -3,6 +3,193 @@
   "sourceId": "le-figaro",
   "items": [
     {
+      "id": "4751f564b4ea6e38",
+      "guid": "https://www.lefigaro.fr/sciences/climat-une-baisse-historique-des-emissions-de-co2-dans-le-monde-en-2026-20261110",
+      "link": "https://www.lefigaro.fr/sciences/climat-une-baisse-historique-des-emissions-de-co2-dans-le-monde-en-2026-20261110",
+      "title": "Climat : une baisse historique des émissions de CO2 dans le monde en 2026",
+      "excerpt": "ANALYSE - La crise pétrolière mondiale provoquée par le blocage du détroit d’Ormuz accélère la transition vers des sources d’énergie qui émettent moins de gaz carbonique.",
+      "published": "2026-11-10T01:00:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/09/40272991a721061741a7bbffec44a40c5dc54f14b3666f293b953459bba86962.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "b78d76d2282cbabb",
+      "guid": "https://www.lefigaro.fr/international/la-coree-du-nord-teste-de-nouvelles-torpilles-pour-sa-marine-20261110",
+      "link": "https://www.lefigaro.fr/international/la-coree-du-nord-teste-de-nouvelles-torpilles-pour-sa-marine-20261110",
+      "title": "La Corée du Nord teste de nouvelles torpilles pour sa marine",
+      "excerpt": "Pyongyang a multiplié ces dernières semaines les essais de missiles, de drones et de torpilles.",
+      "published": "2026-11-09T23:43:26.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1990_crop/2026/11/10/f8f7d2d4149e7d9289aab708b553e483c9dffc3294b8bc5e0bbc0594c5e67b86.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "e322004bd99dc2f6",
+      "guid": "https://www.lefigaro.fr/international/guerre-en-iran-trump-evoque-un-elan-positif-vers-un-accord-20261110",
+      "link": "https://www.lefigaro.fr/international/guerre-en-iran-trump-evoque-un-elan-positif-vers-un-accord-20261110",
+      "title": "Guerre en Iran : Trump évoque un «élan positif» vers un accord",
+      "excerpt": "Téhéran dénonce des «discussions imaginaires» alors que le président américain évoque un possible accord pour mettre fin à la guerre. Les autorités iraniennes affirment que les frappes se poursuivent.",
+      "published": "2026-11-09T23:15:25.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2002_crop/2026/11/10/cf7d91979d0cdb2c71f14a93e8f6edb02b21a52fd5f34339356dfe4d2ca22477.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "c9bcda3d91c3f1a3",
+      "guid": "https://www.lefigaro.fr/livres/a-81-ans-l-auteur-britannique-m-john-harrison-remporte-le-booker-prize-pour-the-end-of-everything-20261110",
+      "link": "https://www.lefigaro.fr/livres/a-81-ans-l-auteur-britannique-m-john-harrison-remporte-le-booker-prize-pour-the-end-of-everything-20261110",
+      "title": "À 81 ans, l'auteur britannique M. John Harrison remporte le Booker Prize pour The End of Everything",
+      "excerpt": "Cette figure singulière et emblématique de la littérature de science-fiction britannique établit un record en devenant le lauréat le plus âgé de cette récompense.",
+      "published": "2026-11-09T23:03:50.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/09/01ace591af0ac09ffef437805395fe431989db2fbbfb550dfc9edf254fd4afa6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "617b6028ee3214c5",
+      "guid": "https://www.lefigaro.fr/marseille/le-recit-glacant-du-boucher-sur-le-sort-reserve-a-une-victime-du-triple-narchomicide-pres-de-marseille-20261109",
+      "link": "https://www.lefigaro.fr/marseille/le-recit-glacant-du-boucher-sur-le-sort-reserve-a-une-victime-du-triple-narchomicide-pres-de-marseille-20261109",
+      "title": "Le récit glaçant du « Boucher » sur le sort réservé à une victime du triple narchomicide près de Marseille",
+      "excerpt": "COMPTE RENDU D’AUDIENCE - Au procès du triple assassinat qui a notamment coûté la vie à Brahim Chabane, le frère aîné d’Amine Kessaci, l’un des accusés a détaillé le démembrement d’une des victimes à l’aide d’une feuille de boucher.",
+      "published": "2026-11-09T22:46:32.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/09/4d6a184d4af22b5ecb9a3e4a73592052a8b894f15b7f20e94e375daf7fd29f16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "f83d5fa2f1d5efe2",
+      "guid": "https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-pourquoi-la-liaison-de-jensen-huang-avec-une-espionne-chinoise-pourrait-faire-vaciller-tout-le-secteur-de-l-ia-20261109",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-pourquoi-la-liaison-de-jensen-huang-avec-une-espionne-chinoise-pourrait-faire-vaciller-tout-le-secteur-de-l-ia-20261109",
+      "title": "Affaire Nvidia : pourquoi la liaison de Jensen Huang avec une espionne chinoise pourrait faire vaciller tout le secteur de l’IA",
+      "excerpt": "DÉCRYPTAGE - Cette liaison extraconjugale pose la question du maintien du PDG et cofondateur du géant californien, et plonge le groupe dans la tourmente. Au-delà, l’affaire fragilise le pilier industriel et financier de l’écosystème.",
+      "published": "2026-11-09T22:22:11.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/09/e86d86e453dcebbef9b10432ed10203f644703e94874c88ac77cfeee1d2a0608.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "9c1f5593df20a00a",
+      "guid": "https://www.lefigaro.fr/international/guerre-en-ukraine-des-hackeurs-revelent-la-mort-de-400-000-russes-au-combat-20261109",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-des-hackeurs-revelent-la-mort-de-400-000-russes-au-combat-20261109",
+      "title": "Guerre en Ukraine : des hackeurs révèlent la mort de 400.000 Russes au combat",
+      "excerpt": "Des hackeurs biélorusses et ukrainiens ont réussi à pénétrer le réseau interne de Rosstat, le service fédéral des statistiques d’État et révèlent des chiffres tenus secrets jusque-là par le Kremlin.",
+      "published": "2026-11-09T21:35:22.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2003_crop/2026/11/09/69a5af1dc385251055b97f1995c519e05c5236f1361f8e3dab3d5ea7f88f0c13.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "64a5c0df9b5312f1",
+      "guid": "https://www.lefigaro.fr/international/etats-unis-le-ministre-americain-de-la-defense-pete-hegseth-vise-par-une-procedure-de-destitution-20261109",
+      "link": "https://www.lefigaro.fr/international/etats-unis-le-ministre-americain-de-la-defense-pete-hegseth-vise-par-une-procedure-de-destitution-20261109",
+      "title": "États-Unis : le ministre américain de la Défense Pete Hegseth visé par une procédure de destitution",
+      "excerpt": "Le député Thomas Massie, fréquent critique du président républicain, a annoncé depuis l’hémicycle lancer cette procédure d’«impeachment».",
+      "published": "2026-11-09T20:22:32.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/orig/2026/11/09/e25af76f0da224bf8125e995295c419f1d10e9307a9cc2a676f0d0e31cbae91e.JPG",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "e93cb72f7250f281",
+      "guid": "https://www.lefigaro.fr/international/on-a-prie-pour-que-la-paix-arrive-enfin-apres-le-cessez-le-feu-la-reprise-des-combats-a-kherson-20261109",
+      "link": "https://www.lefigaro.fr/international/on-a-prie-pour-que-la-paix-arrive-enfin-apres-le-cessez-le-feu-la-reprise-des-combats-a-kherson-20261109",
+      "title": "« On a prié pour que la paix arrive enfin… » : après le cessez-le-feu, la reprise des combats à Kherson",
+      "excerpt": "RÉCIT - Après près de six jours de trêve, la Russie a repris des attaques de drones sur Kherson, depuis ses positions renforcées à Olechky, sur la rive opposée du Dniepr.",
+      "published": "2026-11-09T20:00:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/11/09/e74cfcf0dae45abd88b1674c9c05df731601db637f0c5e8a110e2f58f3674d3b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "ac10afbda76dab65",
+      "guid": "https://www.lefigaro.fr/secteur/high-tech/plongee-dans-les-operations-secretes-de-shahid-kaveh-l-armee-de-l-ombre-iranienne-suspectee-d-avoir-sabote-les-frigos-de-supermarches-francais-20261109",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/plongee-dans-les-operations-secretes-de-shahid-kaveh-l-armee-de-l-ombre-iranienne-suspectee-d-avoir-sabote-les-frigos-de-supermarches-francais-20261109",
+      "title": "Plongée dans les opérations secrètes de Shahid Kaveh, l’armée de l’ombre iranienne suspectée d’avoir saboté les frigos de supermarchés français",
+      "excerpt": "DÉCRYPTAGE - Aussi connus sous le nom de «CyberAv3ngers» et de «Intelligence Team 13», ces hackeurs iraniens, liés au régime de Téhéran, sont considérés par nombre d’observateurs comme l’«une des unités les plus agressives» des Gardiens de la Révolution islamique.",
+      "published": "2026-11-09T19:42:04.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/09/650316d87ddb3b55c1c68bd4a8a72b9d85fa1ad4f2745d0939e21eee6a07dc8b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "e97b8436a7818828",
+      "guid": "https://www.lefigaro.fr/international/a-la-frontiere-polono-ukrainienne-la-coalition-des-volontaires-s-approche-de-la-realite-du-terrain-20261109",
+      "link": "https://www.lefigaro.fr/international/a-la-frontiere-polono-ukrainienne-la-coalition-des-volontaires-s-approche-de-la-realite-du-terrain-20261109",
+      "title": "À la frontière polono-ukrainienne, la « coalition des volontaires » s’approche de la réalité du terrain",
+      "excerpt": "RÉCIT - Le premier exercice, Koalicja, de la Force multinationale pour l’Ukraine, qui réunit 2 800 soldats, principalement venus de France, a commencé ce lundi. Il se terminera le 22 novembre.",
+      "published": "2026-11-09T19:41:42.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/09/e86355902ae42afc5742608cd3ad1623ff8749a3dbad2b744408660a8252e18f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "3208372fda0f24a2",
+      "guid": "https://www.lefigaro.fr/international/faute-de-courage-politique-l-europe-releguee-au-second-role-dans-les-negociations-sur-l-ukraine-a-abu-dhabi-20261109",
+      "link": "https://www.lefigaro.fr/international/faute-de-courage-politique-l-europe-releguee-au-second-role-dans-les-negociations-sur-l-ukraine-a-abu-dhabi-20261109",
+      "title": "Faute de courage politique, l’Europe reléguée au second rôle dans les négociations sur l’Ukraine, à Abu Dhabi",
+      "excerpt": "ANALYSE - L’Europe sera présente aux Émirats arabes unis, mais elle ne sera pas à la table des négociations, où Vladimir Poutine et Donald Trump, face à Volodymyr Zelensky, entendent imposer une nouvelle architecture de sécurité européenne.",
+      "published": "2026-11-09T19:40:39.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/09/bc15c24311edac516a6aa371b04dc7d86bee4f4e4245df0456bd19560310c0db.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "bc904b4f9aa652fd",
+      "guid": "https://www.lefigaro.fr/secteur/high-tech/le-scandale-autour-de-jensen-huang-happe-un-fervent-partisan-de-la-detente-entre-la-chine-et-les-etats-unis-20261109",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/le-scandale-autour-de-jensen-huang-happe-un-fervent-partisan-de-la-detente-entre-la-chine-et-les-etats-unis-20261109",
+      "title": "Le scandale autour de Jensen Huang happe un fervent partisan de la détente entre la Chine et les États-Unis",
+      "excerpt": "DÉCRYPTAGE - L’affaire d’espionnage érafle la fragile trêve, à la veille de la visite de Donald Trump à Shenzhen, illustrant la rivalité technologique sans merci à laquelle se livrent les deux premières puissances mondiales.",
+      "published": "2026-11-09T19:34:53.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/2468x1388_crop/2026/11/09/e7d155a4075be154b32e5b51e10668961e797dff8c379bbb0aa4581267da3a34.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "9fb06880eeef2753",
+      "guid": "https://www.lefigaro.fr/international/guerre-en-ukraine-vladimir-medinski-un-ideologue-a-la-tete-de-la-delegation-russe-aux-pourparlers-d-abu-dhabi-20261109",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-vladimir-medinski-un-ideologue-a-la-tete-de-la-delegation-russe-aux-pourparlers-d-abu-dhabi-20261109",
+      "title": "Guerre en Ukraine : Vladimir Medinski, un idéologue à la tête de la délégation russe aux pourparlers d’Abu Dhabi",
+      "excerpt": "DÉCRYPTAGE - L’ex-ministre de la Culture de Vladimir Poutine est réputé pour son intransigeance ainsi que pour son attachement à une lecture nationaliste et conservatrice de l’histoire.",
+      "published": "2026-11-09T19:30:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/09/5bfe9ab35b517c689d5dd99f5b71ea900e04b9ca53a3194e12a928a9a2bc3aad.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "db078f94453b9876",
+      "guid": "https://www.lefigaro.fr/economie/retraites-fonctionnaires-tva-les-mesures-chocs-de-la-cour-des-comptes-pour-reduire-le-deficit-20261109",
+      "link": "https://www.lefigaro.fr/economie/retraites-fonctionnaires-tva-les-mesures-chocs-de-la-cour-des-comptes-pour-reduire-le-deficit-20261109",
+      "title": "Retraites, fonctionnaires, TVA... Les mesures chocs de la Cour des comptes pour réduire le déficit",
+      "excerpt": "DÉCRYPTAGE - L’institution dévoile ses pistes pour économiser plus de 32 milliards d’euros. Un rapport d’une vingtaine de propositions a été présenté.",
+      "published": "2026-11-09T18:14:44.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/09/a7705184f2146e96df50d4a5e60c26d356f0b4bb0c16302cea5f039dc28f6cfd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "f2200e27eb351bf4",
+      "guid": "https://www.lefigaro.fr/secteur/high-tech/qui-est-jensen-huang-le-puissant-patron-de-nvidia-englue-dans-une-affaire-d-espionnage-presume-et-d-adultere-20261109",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/qui-est-jensen-huang-le-puissant-patron-de-nvidia-englue-dans-une-affaire-d-espionnage-presume-et-d-adultere-20261109",
+      "title": "Qui est Jensen Huang, le puissant patron de Nvidia englué dans une affaire d’espionnage présumé et d’adultère ?",
+      "excerpt": "PORTRAIT - Le parcours de l’homme d’affaires de 63 ans, à la tête du géant des semi-conducteurs Nvidia, l’un des moteurs de la révolution de l’IA, avait tout du rêve américain. Jusqu’à ce qu’il soit rattrapé par une liaison dangereuse avec une espionne chinoise présumée.",
+      "published": "2026-11-09T17:49:29.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/09/dfa222b0ceb76cbaadcf045240c0b1fe872a3b146eb319d6a9bb7c2562158c63.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "6cdf72b66327f1df",
+      "guid": "https://www.lefigaro.fr/sciences/cop31-le-pari-du-tout-electrique-peut-il-vraiment-sauver-le-climat-20261109",
+      "link": "https://www.lefigaro.fr/sciences/cop31-le-pari-du-tout-electrique-peut-il-vraiment-sauver-le-climat-20261109",
+      "title": "COP31 : le pari du tout-électrique peut-il vraiment sauver le climat ?",
+      "excerpt": "DÉCRYPTAGE - Voitures, chauffage, industrie… La conférence internationale sur le climat qui vient de démarrer en Turquie veut accélérer leur passage à l’électrique pour réduire les émissions de gaz à effet de serre. Mais les défis restent nombreux pour remplir les objectifs.",
+      "published": "2026-11-09T17:45:00.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/09/946277c0b636d54bdb37069ac9cd92dd39c124c6b96c8f14d0ad846279200f93.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
       "id": "d39767873077308a",
       "guid": "https://www.lefigaro.fr/international/etats-unis-la-maison-blanche-brievement-bouclee-apres-un-accident-dans-les-environs-20261109",
       "link": "https://www.lefigaro.fr/international/etats-unis-la-maison-blanche-brievement-bouclee-apres-un-accident-dans-les-environs-20261109",
@@ -166,6 +353,17 @@
       "thumbnail": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/09/9b59b798d7b13c65f2f59623578eed92e70df688135c2f75d30c0434f39bb411.jpg",
       "type": "article",
       "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "01ea0bc658e06671",
+      "guid": "https://www.lefigaro.fr/secteur/high-tech/qui-est-alice-huang-la-femme-d-affaires-soupconnee-d-avoir-seduit-et-espionne-le-patron-de-nvidia-20261109",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/qui-est-alice-huang-la-femme-d-affaires-soupconnee-d-avoir-seduit-et-espionne-le-patron-de-nvidia-20261109",
+      "title": "Qui est Alice Huang, la femme d’affaires soupçonnée d’avoir séduit et espionné le patron de Nvidia ?",
+      "excerpt": "Jensen Huang a reconnu avoir eu une relation extraconjugale. Si l’identité de la partenaire n’a pas été publiée, tous les regards se tournent vers cette énigmatique femme chinoise.",
+      "published": "2026-11-09T14:55:44.000Z",
+      "thumbnail": "https://i.f1g.fr/media/cms/orig/2026/11/09/7e272af41147f8702806ed1fb9a68b431f953225e309321676318f954cebce15.JPG",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
     },
     {
       "id": "127bf96bbf2759d7",

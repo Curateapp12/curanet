@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "70a8b6acdb8bca5c",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299505/exportations-nouveau-brunswick-asie-europe",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299505/exportations-nouveau-brunswick-asie-europe",
+      "title": "Le Nouveau-Brunswick se tourne vers l’Europe et l’Asie pour diversifier ses exportations",
+      "excerpt": "Le Nouveau-Brunswick veut réduire sa dépendance aux États-Unis.",
+      "published": "2026-11-10T00:09:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/susan-holt-premiere-ministre-nouveau-brunswick-62623.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "6c9d3927ad22b7ff",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299476/salaire-viable-travailleurs-entreprises-nouveau-brunswick",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299476/salaire-viable-travailleurs-entreprises-nouveau-brunswick",
+      "title": "Environ 40 % des travailleurs néo-brunswickois sous le revenu de subsistance",
+      "excerpt": "Au Nouveau-Brunswick, le revenu de subsistance serait de 24,84 $/h, selon le Human Development Council.",
+      "published": "2026-11-09T23:12:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/new-twenty-dollar-bill-charles-92904.png",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "c54a03d58ce08f80",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10805374/reseaux-sociaux-quel-est-impact-chez-jeunes",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10805374/reseaux-sociaux-quel-est-impact-chez-jeunes",
+      "title": "Réseaux sociaux : quel est l’impact chez les jeunes?",
+      "excerpt": "Ottawa souhaite établir à 16 ans l’âge minimal pour utiliser les réseaux sociaux. Cette technologie a bouleversé la façon dont on communique. Comment affecte-t-elle les jeunes?",
+      "published": "2026-11-09T19:07:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-sens-large-reseaux-sociaux-jeune-steve-legault.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "95cc49abe9ec9c63",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299392/budget-federal-arts-culture-acadie",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299392/budget-federal-arts-culture-acadie",
+      "title": "Les artistes acadiens saluent un budget fédéral « sans précédent »",
+      "excerpt": "Le budget fédéral 2026 prévoit 4 milliards de dollars sur cinq ans pour les arts et la culture.",
+      "published": "2026-11-09T18:56:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/handicap-art-peinture-artiste-pinceaux-visuel-tableaux-palette.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "1095c1bc265d6a92",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299396/ecole-anglophone-dieppe-shirley-maclean-sanb",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299396/ecole-anglophone-dieppe-shirley-maclean-sanb",
+      "title": "École anglophone à Dieppe : la commissaire aux langues officielles fait une mise en garde",
+      "excerpt": "Shirley MacLean craint les débordements en lien avec le débat entourant la nouvelle école anglophone à Dieppe.",
+      "published": "2026-11-09T18:29:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/shirley-maclean-commissaire-langues-officielles-nouveau-brunswick.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "71da351b02439ee2",
+      "guid": "https://ici.radio-canada.ca/nouvelle/2299229/tarifs-homard-chine-canada-etats-unis",
+      "link": "https://ici.radio-canada.ca/nouvelle/2299229/tarifs-homard-chine-canada-etats-unis",
+      "title": "Homard : l’accord avec la Chine bien accueilli par l’industrie",
+      "excerpt": "Les gouvernements chinois et canadien ont annoncé la prolongation d'un accord sur la baisse des tarifs.",
+      "published": "2026-11-09T17:50:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/homard-peche-congres-union-maritime.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
+      "id": "fee0bc62f4b68115",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2525005/bannir-reseaux-sociaux-chez-jeunes-solution-miracle",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2525005/bannir-reseaux-sociaux-chez-jeunes-solution-miracle",
+      "title": "Doit-on interdire les réseaux sociaux aux ados?",
+      "excerpt": "Les réseaux sociaux ont grandement changé la façon dont on communique. Cette technologie n'est cependant pas sans problème. Chez les jeunes, on parle de cyberintimidations et de dépendance aux écrans. Alors, doit-on interdire l'accès aux réseaux sociaux aux moins de 16 ans? Steve Legault ouvre la…",
+      "published": "2026-11-09T16:34:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/emission/16x9/sens-large-emission-karine-godin-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
       "id": "dcc0d59fd7c6182b",
       "guid": "https://ici.radio-canada.ca/info/videos/1-10804362/zootherapie-avec-chevaux-pour-quete-sens",
       "link": "https://ici.radio-canada.ca/info/videos/1-10804362/zootherapie-avec-chevaux-pour-quete-sens",
@@ -12,6 +89,17 @@
       "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/1eb7160e-706f-43af-bbe7-404d16c497cf/HR/2026-1107-1110_01.jpeg",
       "type": "article",
       "addedAt": "2026-11-09T17:27:45.820Z"
+    },
+    {
+      "id": "ae003f8a1ef5b7d8",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2524758/ecole-anglophone-a-dieppe-mise-en-garde-clo-shirley-maclean",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2524758/ecole-anglophone-a-dieppe-mise-en-garde-clo-shirley-maclean",
+      "title": "École anglophone à Dieppe : mise en garde de la CLO",
+      "excerpt": "Le projet de construire une école anglophone maternelle-12e année à Dieppe a fait couler beaucoup d'encre, la semaine dernière. Une lettre d’opposition d’une centaine de signatures a été rendue publique et ces signataires soutiennent que cet établissement risquerait d'angliciser une région où les…",
+      "published": "2026-11-09T12:59:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rue-pelagie-dieppe.jpg",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
     },
     {
       "id": "6d554fb71f02c4ef",
@@ -124,6 +212,17 @@
       "addedAt": "2026-11-07T20:51:53.725Z"
     },
     {
+      "id": "fc9deb62b57efd7b",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-grande-jasette/segments/rattrapage/2518780/grande-jasette-honorable-louise-imbeault",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-grande-jasette/segments/rattrapage/2518780/grande-jasette-honorable-louise-imbeault",
+      "title": "La lieutenante-gouverneure du Nouveau-Brunswick Louise Imbeault retrace son enfance",
+      "excerpt": "L'honorable Louise Imbeault, lieutenante-gouverneure du Nouveau-Brunswick, retrace ses premières années à Moncton et son parcours imprégné par la culture acadienne. Elle évoque la vie de son quartier, ses leçons de piano et la mobilisation de la communauté pour bâtir l'école Vanier, première école…",
+      "published": "2026-11-07T16:07:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/louise-imbeault-90-ans-radio-canada-importance-acadie-histoire-directrice.png",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
+    },
+    {
       "id": "ae6c0584405fb2b7",
       "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-samedi/segments/rattrapage/2523869/chronique-p-tits-bouts-acadie-remede-ouvriers",
       "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-samedi/segments/rattrapage/2523869/chronique-p-tits-bouts-acadie-remede-ouvriers",
@@ -221,6 +320,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-sens-large-ecole-anglophone-dieppe-karine.jpg",
       "type": "article",
       "addedAt": "2026-11-06T23:06:20.350Z"
+    },
+    {
+      "id": "67ee57a53256e12b",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2523160/30e-francofete-en-acadie-quel-avenir-pour-modele-vitrines-artistes",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2523160/30e-francofete-en-acadie-quel-avenir-pour-modele-vitrines-artistes",
+      "title": "Comment les diffuseurs choisissent leurs artistes en Acadie",
+      "excerpt": "À l'occasion de la 30e FrancoFête en Acadie à Moncton, les diffuseurs Matthieu Girard et Émile Déraspe abordent les défis de la diffusion culturelle et le rôle essentiel du spectacle vivant à l'ère du numérique.",
+      "published": "2026-11-06T20:07:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/30e-francofete-acadie-avenir-vitrines-artistes.png",
+      "type": "article",
+      "addedAt": "2026-11-10T01:30:07.276Z"
     },
     {
       "id": "27e79071d15b7f94",
