@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "bd29448af18bf2e9",
+      "guid": "https://ici.radio-canada.ca/info/en-direct/1014661/canada-jour-souvenir-2026-commemoration",
+      "link": "https://ici.radio-canada.ca/info/en-direct/1014661/canada-jour-souvenir-2026-commemoration",
+      "title": "Le Canada commémore le jour du Souvenir",
+      "excerpt": "D'un océan à l'autre, les citoyens honorent la mémoire des personnes qui ont servi dans les Forces armées.",
+      "published": "2026-11-11T14:17:25.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/coquelicots-jour-souvenir-main-42733.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
+      "id": "0a00b00a2236303a",
+      "guid": "https://ici.radio-canada.ca/article/info/2299513/patrick-labrie-mort-exercice-militaire-wainwright",
+      "link": "https://ici.radio-canada.ca/article/info/2299513/patrick-labrie-mort-exercice-militaire-wainwright",
+      "title": "L’impossible deuil d’une mère de militaire mort à l’entraînement",
+      "excerpt": "La mère de Patrick Labrie parle de sa douleur ravivée par la tragédie de Wainwright.",
+      "published": "2026-11-11T10:35:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/julie-rivard-fils-patrick-labrie-militaire.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
+      "id": "2e51ba501bd2de18",
+      "guid": "https://ici.radio-canada.ca/article/info/2299535/pierre-tombale-soldat-acadien-memramcook",
+      "link": "https://ici.radio-canada.ca/article/info/2299535/pierre-tombale-soldat-acadien-memramcook",
+      "title": "Devoir de mémoire au N.-B. envers un soldat acadien oublié",
+      "excerpt": "Une pierre tombale a été installée à Memramcook pour honorer un soldat acadien tombé dans l'oubli.",
+      "published": "2026-11-11T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pierre-tombale-eloi-arsenault-memramcook-gaudet-64407.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
+      "id": "578c3a712d65027a",
+      "guid": "https://ici.radio-canada.ca/article/info/2299676/mission-veteran-armee-forces-temoignage",
+      "link": "https://ici.radio-canada.ca/article/info/2299676/mission-veteran-armee-forces-temoignage",
+      "title": "25 ans de la mission en Afghanistan : « une partie de nous reste là-bas »",
+      "excerpt": "Deux vétérans de la mission en Afghanistan témoignent de leur devoir de mémoire et de leur longue guérison.",
+      "published": "2026-11-11T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/erick-theberge-monument-afghanistan.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
+      "id": "6f33faedecb2e904",
+      "guid": "https://ici.radio-canada.ca/article/info/2299677/republicain-democrates-opposition-trump-mi-mandat",
+      "link": "https://ici.radio-canada.ca/article/info/2299677/republicain-democrates-opposition-trump-mi-mandat",
+      "title": "Chez les démocrates, quels objectifs au-delà de l’opposition à Trump?",
+      "excerpt": "Les démocrates devront adopter une stratégie pour rester uni entre progressistes et centristes.",
+      "published": "2026-11-11T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/schumer-democrates.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
+      "id": "81e4e5aedb333792",
+      "guid": "https://ici.radio-canada.ca/article/sports/2299720/soccer-cfmtl-placentino-supra-quebec",
+      "link": "https://ici.radio-canada.ca/article/sports/2299720/soccer-cfmtl-placentino-supra-quebec",
+      "title": "Sans CF Montréal, la Première ligue canadienne doit viser Québec, selon Rocco Placentino",
+      "excerpt": "Le président du Supra croit qu’un déménagement du CF MTL rendrait « encore plus nécessaire » cette expansion.",
+      "published": "2026-11-11T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/rocco-placentino-99112.png",
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
+      "id": "ff15b31e7f18fece",
+      "guid": "https://ici.radio-canada.ca/article/info/2299706/film-villeneuve-ascension-legende-course-automobile",
+      "link": "https://ici.radio-canada.ca/article/info/2299706/film-villeneuve-ascension-legende-course-automobile",
+      "title": "Le film Villeneuve : l’ascension d’une légende arrive enfin au cinéma",
+      "excerpt": "Le film biographique sur Gilles Villeneuve arrive en salle mercredi, cinq ans après avoir été annoncé.",
+      "published": "2026-11-11T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/remi-goulet-gilles-villeneuve-ascension-legende-film-2235.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
       "id": "7267aa4edd92b9a3",
       "guid": "https://ici.radio-canada.ca/article/info/2299792/carney-rencontre-president-chinois-xi-jinping",
       "link": "https://ici.radio-canada.ca/article/info/2299792/carney-rencontre-president-chinois-xi-jinping",

@@ -3,6 +3,50 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "693679885746ae3d",
+      "guid": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "excerpt": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+      "published": "2026-11-11T12:32:27.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
+      "id": "15c0b59087ed2dd0",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "excerpt": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+      "published": "2026-11-11T11:18:36.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
+      "id": "474586429e7c5c19",
+      "guid": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "excerpt": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+      "published": "2026-11-11T10:12:08.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
+      "id": "6cc65111539402d1",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "excerpt": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+      "published": "2026-11-11T09:07:27.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-11T14:20:52.366Z"
+    },
+    {
       "id": "16367edd00b63500",
       "guid": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
       "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
