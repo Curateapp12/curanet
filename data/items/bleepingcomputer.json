@@ -3,6 +3,61 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "a4a34375ee4e181d",
+      "guid": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "excerpt": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+      "published": "2026-11-11T21:27:40.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "4555dea146472ff7",
+      "guid": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "excerpt": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+      "published": "2026-11-11T20:54:20.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "4c32248b415f7e41",
+      "guid": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "excerpt": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "published": "2026-11-11T16:24:18.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "9c9df925add3b480",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "excerpt": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+      "published": "2026-11-11T15:12:59.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "a9021fd4336250c7",
+      "guid": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "excerpt": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems…",
+      "published": "2026-11-11T15:01:11.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
       "id": "693679885746ae3d",
       "guid": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
       "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",

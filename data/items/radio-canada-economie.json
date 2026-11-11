@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "c357be438d8cda11",
+      "guid": "https://ici.radio-canada.ca/article/info/2299961/entree-bourse-anthropic-ia-investissement",
+      "link": "https://ici.radio-canada.ca/article/info/2299961/entree-bourse-anthropic-ia-investissement",
+      "title": "L’entrée en bourse d’Anthropic, un test de confiance pour l’IA",
+      "excerpt": "Son introduction en bourse pourrait donner le ton au développement de l'IA, estiment des analystes.",
+      "published": "2026-11-11T21:48:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/claude-anthropic-ia.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "2fc77e98c246aec1",
+      "guid": "https://ici.radio-canada.ca/article/info/2299874/bernard-belanger-deces-premier-tech",
+      "link": "https://ici.radio-canada.ca/article/info/2299874/bernard-belanger-deces-premier-tech",
+      "title": "Le président du CA de Premier Tech, Bernard Bélanger, est décédé",
+      "excerpt": "Il s'était lancé dans le domaine des produits horticoles en 1963, en achetant Tourbières du Saint-Laurent.",
+      "published": "2026-11-11T21:24:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/bernard-belanger-president-du-conseil-dadministration-de-premier-tech-officier-2024-jeanblanger.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "967d72472975df97",
+      "guid": "https://ici.radio-canada.ca/article/info/2299890/london-publicites-intelligence-artificielle-commerces",
+      "link": "https://ici.radio-canada.ca/article/info/2299890/london-publicites-intelligence-artificielle-commerces",
+      "title": "Des publicités créées par l’IA qui font fuir certains clients à London",
+      "excerpt": "Pour les petits commerçants, cette technologie permet d'économiser du temps et de l'argent.",
+      "published": "2026-11-11T20:17:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ia-affichage-publicite-petite-entreprise-locale-london.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "e6b7ede94aa8c4e5",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17798/bernard-belanger-premiertech-multinationale-president",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17798/bernard-belanger-premiertech-multinationale-president",
+      "title": "Qui était Bernard Bélanger, à la tête de Premier Tech?",
+      "excerpt": "On revient sur la vie du président du C.A. de la multinationale Premier Tech, Bernard Bélanger, qui est décédé à l’âge de 92 ans, le 10 novembre.",
+      "published": "2026-11-11T19:13:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bernard-belanger-premier-tech-riviereduloup-bassaintlaurent-multinationale-president.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "31f52e3ffc3eb650",
+      "guid": "https://ici.radio-canada.ca/article/info/2299900/cogeco-plainte-rogers-hockey-lnh",
+      "link": "https://ici.radio-canada.ca/article/info/2299900/cogeco-plainte-rogers-hockey-lnh",
+      "title": "Rogers gonfle les prix pour regarder le hockey de la LNH, dit Cogeco",
+      "excerpt": "Les câblodistributeurs Cogeco, Eastlink et SaskTel ont déposé une plainte contre Rogers auprès du CRTC.",
+      "published": "2026-11-11T19:09:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/dobes-tavares.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "7f392a195ecaad91",
+      "guid": "https://ici.radio-canada.ca/article/info/2299876/economie-region-mines-first-phosphate-niobium-mines-exploitation",
+      "link": "https://ici.radio-canada.ca/article/info/2299876/economie-region-mines-first-phosphate-niobium-mines-exploitation",
+      "title": "Industrie minière : des retombées potentielles de 24 milliards au Saguenay-Lac-Saint-Jean",
+      "excerpt": "La PDG de l’Association minière du Québec était de passage à Saguenay, mercredi.",
+      "published": "2026-11-11T18:11:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/first-phosphate-gisement-begin-lamarche.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "a9a1ee7e320ce45c",
+      "guid": "https://ici.radio-canada.ca/article/info/2299843/pneus-hiver-vehicule-meilleure-adherence-police",
+      "link": "https://ici.radio-canada.ca/article/info/2299843/pneus-hiver-vehicule-meilleure-adherence-police",
+      "title": "Pneus d’hiver : n’attendez pas la première neige pour les installer, prévient la PPO",
+      "excerpt": "Les pneus d’hiver conservent leur souplesse par temps glacial.",
+      "published": "2026-11-11T16:50:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/est-algoma-ppo-programme-sante-mentale.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "01fe6ddbf1cc1fce",
+      "guid": "https://ici.radio-canada.ca/article/info/2299833/sentier-bloque-motoneige-acces-rimouski",
+      "link": "https://ici.radio-canada.ca/article/info/2299833/sentier-bloque-motoneige-acces-rimouski",
+      "title": "Les motoneigistes devront prendre un autre chemin pour rejoindre Rimouski",
+      "excerpt": "Le Club Sportif Populaire du Bas-St-Laurent est actuellement en discussion avec des propriétaires.",
+      "published": "2026-11-11T15:15:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/sentier-motoneige-ferme-au-centre-ville-de-rimouski-hotel-rimouski-denis-langevin-directeur-des-communications-club-sportif-du-bas-st-laurent-img5824.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "e04507ed492c710b",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10807018/tommy-neron-quitter-rds-pour-ecole-humour",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10807018/tommy-neron-quitter-rds-pour-ecole-humour",
+      "title": "Tommy Néron : quitter RDS pour l’École de l’humour",
+      "excerpt": "L’humoriste Tommy Néron parle de sa décision de quitter un emploi stable à RDS pour tenter sa chance à l’École nationale de l’humour.",
+      "published": "2026-11-11T15:06:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/generateur-images/16x9/tommy-neron-sauve-qui-peut.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
       "id": "90ff2f4fbbc805e3",
       "guid": "https://ici.radio-canada.ca/article/info/2299740/forum-choose-france-ontario-entreprises",
       "link": "https://ici.radio-canada.ca/article/info/2299740/forum-choose-france-ontario-entreprises",

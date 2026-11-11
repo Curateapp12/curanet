@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "308af1894298afe6",
+      "guid": "https://ici.radio-canada.ca/videos/1-10807234/gregory-charles-et-maude-charron-lies-par-mentorat-rendez-vous-podium",
+      "link": "https://ici.radio-canada.ca/videos/1-10807234/gregory-charles-et-maude-charron-lies-par-mentorat-rendez-vous-podium",
+      "title": "Gregory Charles et Maude Charron, liés par le mentorat | Rendez-vous Podium",
+      "excerpt": "Quand Gregory Charles a rencontré l'haltérophile et Olympienne Maude Charron, il a tout de suite reconnu en elle le potentiel d'une mentore. Que ce soit dans la pratique d'un sport ou d'un instrument de musique, les entraîneurs et enseignants jouent un rôle primordial pour aider la relève à briller.",
+      "published": "2026-11-11T20:50:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/gregory-charles-maude-charron-rendez-vous-podium.png",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "ed2fa8a96195abe5",
+      "guid": "https://ici.radio-canada.ca/article/sports/2299946/soccer-bilan-saison-cf-montreal-luca-saputo-eullafroy",
+      "link": "https://ici.radio-canada.ca/article/sports/2299946/soccer-bilan-saison-cf-montreal-luca-saputo-eullafroy",
+      "title": "Philippe Eullaffroy ne reviendra pas à la barre du CF Montréal",
+      "excerpt": "Entraîneur-chef sur une base intérimaire, il avait été nommé après le congédiement de Marco Donadel.",
+      "published": "2026-11-11T20:18:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/philippe-eullaffroy-1752.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "e2dd8b6e14bf61b9",
+      "guid": "https://ici.radio-canada.ca/article/info/2299860/lyne-tremblay-medailles-parakayak-argentine",
+      "link": "https://ici.radio-canada.ca/article/info/2299860/lyne-tremblay-medailles-parakayak-argentine",
+      "title": "Lyne Tremblay ajoute 4 médailles à sa collection en Argentine",
+      "excerpt": "Elle a notamment remporté une médaille d’argent à l’épreuve du marathon en kayak de vitesse.",
+      "published": "2026-11-11T16:47:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/lyne-tremblay-linda-gagnon.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "fcdd80117dcf5f00",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10807066/que-represente-carey-price-pour-partisans",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10807066/que-represente-carey-price-pour-partisans",
+      "title": "Que représente Carey Price pour les partisans?",
+      "excerpt": "On dit souvent que Carey Price a marqué toute une génération, mais qu’en pensent les partisans?",
+      "published": "2026-11-11T15:59:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/carey-price-partisans-temple-renommee.png",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
+      "id": "a858fc88caad5bc4",
+      "guid": "https://ici.radio-canada.ca/article/info/2299821/uqtr-soccer-gabrielle-lambert-roses",
+      "link": "https://ici.radio-canada.ca/article/info/2299821/uqtr-soccer-gabrielle-lambert-roses",
+      "title": "De l’UQTR à la finale avec les Roses, Gabrielle Lambert veut gagner",
+      "excerpt": "Elle garde dans son cœur l'UQTR alors que s'amorcera samedi la finale.",
+      "published": "2026-11-11T14:37:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/gabrielle-lambert-roses-montreal-21879.png",
+      "type": "article",
+      "addedAt": "2026-11-11T21:55:51.742Z"
+    },
+    {
       "id": "b810274f9264c5a1",
       "guid": "https://ici.radio-canada.ca/article/sports/2299794/carey-price-ovation-jacob-fowler",
       "link": "https://ici.radio-canada.ca/article/sports/2299794/carey-price-ovation-jacob-fowler",
