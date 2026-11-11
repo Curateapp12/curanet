@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-politique",
   "items": [
     {
+      "id": "41f5fd8bab2d4b41",
+      "guid": "https://ici.radio-canada.ca/article/info/2299789/etats-unisconservateur-jim-jordan-elu-chef-republicains",
+      "link": "https://ici.radio-canada.ca/article/info/2299789/etats-unisconservateur-jim-jordan-elu-chef-republicains",
+      "title": "États-Unis : le très conservateur Jim Jordan élu chef des députés républicains",
+      "excerpt": "Il devra guider son camp après la déroute récente des républicains aux élections de mi-mandat.",
+      "published": "2026-11-11T04:13:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jim-jordan-republicains-etats-unis.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
+    },
+    {
+      "id": "e18c842040555807",
+      "guid": "https://ici.radio-canada.ca/article/info/2299779/conseil-municipal-shawinigan-investissement-citoyens",
+      "link": "https://ici.radio-canada.ca/article/info/2299779/conseil-municipal-shawinigan-investissement-citoyens",
+      "title": "Conseil de Shawinigan : l’eau usée et les berges au cœur des priorités",
+      "excerpt": "Le conseil municipal se retrouve pour son premier rendez-vous du mois de novembre.",
+      "published": "2026-11-11T03:02:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hotel-de-ville-shawinigan-exterieur-hiver-23482.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
+    },
+    {
+      "id": "ae7eeac916567b4d",
+      "guid": "https://ici.radio-canada.ca/videos/1-10805872/barack-obama-est-a-quebec-et-il-repartira-avec-un-morceau-chateau-frontenac",
+      "link": "https://ici.radio-canada.ca/videos/1-10805872/barack-obama-est-a-quebec-et-il-repartira-avec-un-morceau-chateau-frontenac",
+      "title": "Barack Obama est à Québec (et il repartira avec un morceau du Château Frontenac)",
+      "excerpt": "L’ancien président américain Barack Obama est arrivé à Québec lundi soir (9 novembre). Il prononcera mardi (10 novembre) une conférence devant la Corporation des concessionnaires automobiles du Québec (CCAQ). Colin Côté-Paulette nous donne plus de détails.",
+      "published": "2026-11-11T02:09:36.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/a2873919-bbd5-4e55-883e-e5e2f46fce54/HR/2026-1110-1095_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
+    },
+    {
+      "id": "89b43a94c8438e61",
+      "guid": "https://ici.radio-canada.ca/article/info/2299765/budget-calgary-2027-2030",
+      "link": "https://ici.radio-canada.ca/article/info/2299765/budget-calgary-2027-2030",
+      "title": "Forte augmentation des taxes foncières et des tarifs d’eau prévue à Calgary",
+      "excerpt": "Calgary prévoit des hausses des taxes foncières résidentielles de 15 % et des tarifs d’eau de 12 % pour 2027.",
+      "published": "2026-11-11T00:19:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hotel-de-ville-calgary-85444.png",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
+    },
+    {
+      "id": "2d918219faf44d73",
+      "guid": "https://ici.radio-canada.ca/article/info/2299746/subvention-importante-saumon-atlantique",
+      "link": "https://ici.radio-canada.ca/article/info/2299746/subvention-importante-saumon-atlantique",
+      "title": "Ottawa verse 10 M$ pour la conservation du saumon atlantique",
+      "excerpt": "Le financement va bonifier un fonds dédié à des projets au Québec et dans les provinces maritimes.",
+      "published": "2026-11-10T23:50:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/saumon-atlantique-quebec-36847.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
+    },
+    {
+      "id": "40b11309f771e822",
+      "guid": "https://ici.radio-canada.ca/videos/1-10806459/mesures-fiscales-ministre-champagne-presentees-aux-pme-winnipeg",
+      "link": "https://ici.radio-canada.ca/videos/1-10806459/mesures-fiscales-ministre-champagne-presentees-aux-pme-winnipeg",
+      "title": "Les mesures fiscales du ministre Champagne présentées aux PME de Winnipeg",
+      "excerpt": "Le ministre fédéral des Finances, François-Philippe Champagne, a rencontré des entrepreneurs de Winnipeg lors d'une activité organisée par la Chambre de commerce locale. Au cœur des discussions : les mesures du budget fédéral de 2026 visant à stimuler les investissements, la productivité et la…",
+      "published": "2026-11-10T23:33:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/16x9/francois-philippe-champagne-tum-ministre-federal.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
+    },
+    {
+      "id": "6d36d5cd1409f9db",
+      "guid": "https://ici.radio-canada.ca/article/info/2299645/enseigne-mcdonalds-caraquet",
+      "link": "https://ici.radio-canada.ca/article/info/2299645/enseigne-mcdonalds-caraquet",
+      "title": "Le restaurant McDonald’s de Caraquet aura une enseigne moins imposante que prévu",
+      "excerpt": "Caraquet a obtenu que le nouveau restaurant McDonald's, en construction, ait une enseigne moins imposante.",
+      "published": "2026-11-10T23:32:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mcdonalds-caraquet-45118.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
+    },
+    {
       "id": "0f606f96789f8eb3",
       "guid": "https://ici.radio-canada.ca/article/info/2299749/whitehorse-budget-investissement-quatre-ans",
       "link": "https://ici.radio-canada.ca/article/info/2299749/whitehorse-budget-investissement-quatre-ans",

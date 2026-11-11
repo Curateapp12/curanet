@@ -3,6 +3,39 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "535de23d9c1e9bca",
+      "guid": "3e17f78b80423b7c9027cd11fbd91a6e",
+      "link": "https://www.lapresse.ca/actualites/national/2026-11-10/colombie-britannique/quatre-grizzlis-impliques-dans-l-attaque-mortelle-d-une-mere-et-de-sa-fille.php",
+      "title": "Colombie-Britannique | Quatre grizzlis impliqués dans l’attaque mortelle d’une mère et de sa fille",
+      "excerpt": "Le Service des agents de conservation de la Colombie-Britannique a annoncé que les quatre grizzlis qu’il a capturés à Bella Coola ces derniers jours étaient tous impliqués dans une attaque mortelle qui a coûté la vie à une mère et à sa fille dans cette municipalité ce mois-ci.",
+      "published": "2026-11-11T02:28:04.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0e9a482374bb3c51b6486a06d89cc076.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
+    },
+    {
+      "id": "97d637fb649fbc04",
+      "guid": "4ae095ed2bf9347a98371e7ebacb6e7b",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-10/sondage-pallas-data-qc125/deja-la-fin-de-la-lune-de-miel-pour-le-nouveau-gouvernement-pequiste.php",
+      "title": "Sondage Pallas Data-Qc125 | Déjà la fin de la lune de miel pour le nouveau gouvernement péquiste ?",
+      "excerpt": "Alors que ces dernières semaines ont été marquées par des tensions avec Ottawa, la majorité des Québécois restent pour le moins sceptiques vis-à-vis du nouveau gouvernement de Paul St-Pierre Plamondon. C’est ce que révèle un nouveau sondage Pallas Data, commandé par Qc125.",
+      "published": "2026-11-11T01:59:49.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/5893515b48f63ba8a901971ebf74c819.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
+    },
+    {
+      "id": "c0ab1b41ac0937a0",
+      "guid": "61492d9c910b321892207aabe70710c9",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-10/riviere-des-prairies-a-pierrefonds/des-annees-de-rejets-a-cause-de-promoteurs-mafieux.php",
+      "title": "Rivière des Prairies à Pierrefonds | Des années de rejets à cause de promoteurs mafieux",
+      "excerpt": "Les propriétaires devront payer pour corriger cette situation dont la Ville est informée depuis 2017",
+      "published": "2026-11-11T00:45:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/ff103032abb039cdbb9e891c3e0f5be2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
+    },
+    {
       "id": "5eb1fdbc71b4333a",
       "guid": "f9e9e69841473108b2eb5a566de8b2b4",
       "link": "https://www.lapresse.ca/actualites/education/2026-11-10/universite-du-quebec/la-ministre-lefebvre-en-faveur-d-un-nouveau-programme-de-medecine.php",
@@ -199,6 +232,17 @@
       "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/13bb0ac3684833c3ba6842dd0def024a.jpg",
       "type": "article",
       "addedAt": "2026-11-10T17:48:46.839Z"
+    },
+    {
+      "id": "8ad275a0af523d32",
+      "guid": "852fd52209d23e34b41926d67e29fd21",
+      "link": "https://www.lapresse.ca/actualites/national/2026-11-10/seconde-guerre-mondiale-et-guerre-de-coree/le-canada-compte-4306-veterans.php",
+      "title": "Seconde Guerre mondiale et guerre de Corée | Le Canada compte 4306 vétérans",
+      "excerpt": "Le nombre d’anciens combattants canadiens encore en vie ayant participé à la Seconde Guerre mondiale et à la guerre de Corée a fortement diminué depuis le jour du Souvenir de l’année dernière.",
+      "published": "2026-11-10T13:18:13.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/3e10ba6747f4335b957085de71ab1376.jpg",
+      "type": "article",
+      "addedAt": "2026-11-11T06:12:58.065Z"
     },
     {
       "id": "ebccce7f4ae52042",
