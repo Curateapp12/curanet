@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "7f241c94ac846596",
+      "guid": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "excerpt": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+      "published": "2026-11-11T23:01:31.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-12T02:57:21.299Z"
+    },
+    {
+      "id": "ccdd6c7f3ffe5679",
+      "guid": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "excerpt": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+      "published": "2026-11-11T22:56:21.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-12T02:57:21.299Z"
+    },
+    {
       "id": "a4a34375ee4e181d",
       "guid": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
       "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",

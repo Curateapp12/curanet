@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "1b29629fc2b404fb",
+      "guid": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques",
+      "link": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques",
+      "title": "Santé Québec annule un projet pilote de chirurgies au privé",
+      "excerpt": "Actuellement, au Québec, plus de 1000 patients attendent une chirurgie orthopédique depuis plus d'un an.",
+      "published": "2026-11-12T02:50:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/chirurgies-attente-hopitaux-orthopedie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T02:57:21.299Z"
+    },
+    {
+      "id": "60d34d688307055e",
+      "guid": "https://ici.radio-canada.ca/article/info/2300033/jour-souvenir-victimes-wainwright-mark-carney",
+      "link": "https://ici.radio-canada.ca/article/info/2300033/jour-souvenir-victimes-wainwright-mark-carney",
+      "title": "En ce jour du Souvenir, « nous pleurons » les victimes de Wainwright, dit Carney",
+      "excerpt": "Quatre personnes ont perdu la vie et des dizaines ont été blessés dans un incendie récent à Wainwright.",
+      "published": "2026-11-12T02:32:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/carney-remembrance-day-lay-wreath.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T02:57:21.299Z"
+    },
+    {
+      "id": "8e214cea4e76d9fa",
+      "guid": "https://ici.radio-canada.ca/article/info/2300016/democrate-scott-colom-senateur-mississippi",
+      "link": "https://ici.radio-canada.ca/article/info/2300016/democrate-scott-colom-senateur-mississippi",
+      "title": "Exploit des démocrates dans le Mississippi, qui décrochent un siège au Sénat",
+      "excerpt": "Scott Colom défait la ‌sénatrice républicaine sortante Cindy Hyde-Smith.",
+      "published": "2026-11-12T02:04:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/scott-colom-election-2026-mississippi-senat.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T02:57:21.299Z"
+    },
+    {
+      "id": "bc871d3e247bbdc9",
+      "guid": "https://ici.radio-canada.ca/article/info/2297491/produits-chine-changement-perception-innovation",
+      "link": "https://ici.radio-canada.ca/article/info/2297491/produits-chine-changement-perception-innovation",
+      "title": "Innovation et performance : les perceptions du « fabriqué en Chine » changent",
+      "excerpt": "Les marques « made in China » séduisent un public international jeune.",
+      "published": "2026-11-11T21:45:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/stephen-curry-li-ning-chaussures.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T02:57:21.299Z"
+    },
+    {
       "id": "ddf587b59265b3c7",
       "guid": "https://ici.radio-canada.ca/article/info/2299957/espagne-manifestations-crise-logement-cout-vie",
       "link": "https://ici.radio-canada.ca/article/info/2299957/espagne-manifestations-crise-logement-cout-vie",
