@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "4ff316c988223775",
+      "guid": "https://ici.radio-canada.ca/article/info/2300054/effondrement-immeuble-new-york-morts",
+      "link": "https://ici.radio-canada.ca/article/info/2300054/effondrement-immeuble-new-york-morts",
+      "title": "Effondrement d’un immeuble à New York : le bilan monte à 8 morts",
+      "excerpt": "Les recherches continuent, environ 250 pompiers et secouristes ont été mobilisés.",
+      "published": "2026-11-12T18:37:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/immeuble-effondrement-brooklyn-new-york-recherches.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "3d283d0ba140b322",
+      "guid": "https://ici.radio-canada.ca/article/info/2300077/employes-cssmi-suspendus-casiers-apaisement",
+      "link": "https://ici.radio-canada.ca/article/info/2300077/employes-cssmi-suspendus-casiers-apaisement",
+      "title": "Élèves enfermés dans un casier : des employés d’une école suspendus",
+      "excerpt": "Des élèves à besoins particuliers se seraient enfermés dans un casier aménagé à cet effet.",
+      "published": "2026-11-12T18:34:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/corridor-ecole-couloir-casiers-eleves-generique.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "c756abab9937abc6",
+      "guid": "https://ici.radio-canada.ca/article/info/2300093/rafeo-ontario-aide-finaciere-college-prive",
+      "link": "https://ici.radio-canada.ca/article/info/2300093/rafeo-ontario-aide-finaciere-college-prive",
+      "title": "RAFEO : l’Ontario serre la vis aux collèges privés après des allégations de fraude",
+      "excerpt": "L'Ontario déposera un projet de loi le 16 novembre pour encadrer les collèges privés",
+      "published": "2026-11-12T17:48:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/nolan-quinn-osap-ontario-31627.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "3b428aa5e3f8247c",
+      "guid": "https://ici.radio-canada.ca/article/info/2300111/carney-pspp-rencontre-sommet-francophonie",
+      "link": "https://ici.radio-canada.ca/article/info/2300111/carney-pspp-rencontre-sommet-francophonie",
+      "title": "Carney et St-Pierre Plamondon se verront en tête-à-tête dimanche au Cambodge",
+      "excerpt": "La rencontre entre les deux premiers ministres ne devrait durer qu'une trentaine de minutes.",
+      "published": "2026-11-12T17:31:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-pm-canada-84408.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "257c58f6f244be71",
+      "guid": "https://ici.radio-canada.ca/article/info/2300070/tirs-arme-feu-maison-blanche-washington",
+      "link": "https://ici.radio-canada.ca/article/info/2300070/tirs-arme-feu-maison-blanche-washington",
+      "title": "Un tireur fait un mort et quatre blessés à Washington",
+      "excerpt": "Le tireur s'est donné la mort après s'être barricadé dans un appartement, selon la police.",
+      "published": "2026-11-12T17:17:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/fusillade-washington-policier-logan-circle.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "b5d6c577d1f3f252",
+      "guid": "https://ici.radio-canada.ca/article/info/2300068/pdg-nvidia-jensen-huang-demission-scandale-espionnage",
+      "link": "https://ici.radio-canada.ca/article/info/2300068/pdg-nvidia-jensen-huang-demission-scandale-espionnage",
+      "title": "Dans la tourmente, le PDG de Nvidia, Jensen Huang, démissionne",
+      "excerpt": "C'est la vice-présidente Colette Kress qui lui succède, par intérim.",
+      "published": "2026-11-12T16:55:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jensen-huang-nvidia-54413.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "aea8962fc2cf0704",
+      "guid": "https://ici.radio-canada.ca/article/info/2300052/stellantis-roshell-brampton-usine-jeep",
+      "link": "https://ici.radio-canada.ca/article/info/2300052/stellantis-roshell-brampton-usine-jeep",
+      "title": "Vente de l’usine Stellantis : Joly nie qu’Ottawa a joué un rôle actif dans les discussions",
+      "excerpt": "Des médias, dont CBC News, ont affirmé qu’Ottawa était au courant des démarches liées à la vente de l’usine.",
+      "published": "2026-11-12T13:00:15.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/mark-carney-melanie-joly-et-marc-miller-visite-dun-atelier-dartistes-dans-le-quartier-chabanel-barrage-de-questions-concernant-stellantis-et-la-suggestion-de-pierre-poilievre-que-melanie-joly-devrait-54049.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
       "id": "12e31fbc6ad19a3f",
       "guid": "https://ici.radio-canada.ca/article/info/2299972/oif-canada-france-financement-francophonie",
       "link": "https://ici.radio-canada.ca/article/info/2299972/oif-canada-france-financement-francophonie",

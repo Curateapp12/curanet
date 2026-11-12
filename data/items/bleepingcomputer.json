@@ -3,6 +3,61 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "ad9757975fce9e1b",
+      "guid": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "excerpt": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+      "published": "2026-11-12T16:04:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "62ff99ae778bcb02",
+      "guid": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "excerpt": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
+      "published": "2026-11-12T15:07:20.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "28ab9a11f8377371",
+      "guid": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+      "excerpt": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint…",
+      "published": "2026-11-12T15:00:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "7927f7b9de97b7ad",
+      "guid": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "excerpt": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+      "published": "2026-11-12T14:36:47.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "00c8c05e542b9aad",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "excerpt": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+      "published": "2026-11-12T12:11:11.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
       "id": "a3551b4d40496c87",
       "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",

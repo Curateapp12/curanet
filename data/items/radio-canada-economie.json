@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "c317e5f88a6e33d7",
+      "guid": "https://ici.radio-canada.ca/article/info/2300124/motocycliste-rassemblement-port-dover-tradition",
+      "link": "https://ici.radio-canada.ca/article/info/2300124/motocycliste-rassemblement-port-dover-tradition",
+      "title": "Vendredi 13 : un rassemblement plus calme de motocyclistes prévu à Port Dover",
+      "excerpt": "Pendant l'été, chaque vendredi 13, des milliers de motocyclistes se rassemblent à Port Dover, près de Toronto.",
+      "published": "2026-11-12T17:52:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rassemblement-motocycliste-tradition-port-dover.png",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "442074293d2769a2",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10807835/pdg-nvidia-demissionne-investisseurs-dans-flou",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10807835/pdg-nvidia-demissionne-investisseurs-dans-flou",
+      "title": "Le PDG de Nvidia démissionne, les investisseurs dans le flou",
+      "excerpt": "Le patron de Nvidia, Jensen Huang, a démissionné, emporté par le scandale sur ses relations extraconjugales, dont l’une avec une femme accusée d’espionnage au profit de la Chine.",
+      "published": "2026-11-12T17:03:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/nvidia-jensen-huang.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "81ff565f851188a7",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10807718/un-cartel-boeuf",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10807718/un-cartel-boeuf",
+      "title": "Un « cartel » du bœuf?",
+      "excerpt": "On le sait : le boeuf est l’un des aliments dont le prix a le plus augmenté récemment. Mais y aurait-il eu un cartel du bœuf qui aurait contribué à nous faire payer notre viande plus cher?",
+      "published": "2026-11-12T15:40:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cartel-boeuf-vignette.png",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "4a26b56d071cb3c1",
+      "guid": "https://ici.radio-canada.ca/article/info/2300062/football-infrastructure-sport",
+      "link": "https://ici.radio-canada.ca/article/info/2300062/football-infrastructure-sport",
+      "title": "Une dernière Coupe Grey pour le Stade McMahon de Calgary?",
+      "excerpt": "Plusieurs gérants sportifs souhaitent la construction d’un nouveau stade.",
+      "published": "2026-11-12T14:38:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/stade-mcmahon.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "4ffedb2cb0f7cf9b",
+      "guid": "https://ici.radio-canada.ca/article/info/2299953/journee-economie-sociale-abitibi-temiscamingue",
+      "link": "https://ici.radio-canada.ca/article/info/2299953/journee-economie-sociale-abitibi-temiscamingue",
+      "title": "Comment encourager les entreprises d’économie sociale locales?",
+      "excerpt": "En Abitibi-Témiscamingue, Espace Entrepreneuriat Collectif vous incite à joindre le mouvement.",
+      "published": "2026-11-12T13:08:06.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/manutex-rouyn-noranda-economie-sociale-2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "19bcc4e3c2fab1e7",
+      "guid": "https://ici.radio-canada.ca/article/info/2299902/renovation-residences-etudiantes-cegep-rimouski",
+      "link": "https://ici.radio-canada.ca/article/info/2299902/renovation-residences-etudiantes-cegep-rimouski",
+      "title": "11 M$ pour rénover une tour des résidences du Cégep de Rimouski",
+      "excerpt": "La tour rose subira une cure de jouvence complète à compter de la fin du mois de novembre.",
+      "published": "2026-11-12T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/residences-etudiantes-cegep-rimouski-dsc00950copy.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
       "id": "7cace80843d60d2a",
       "guid": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois",
       "link": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois",
