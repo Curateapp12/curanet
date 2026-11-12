@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "a3551b4d40496c87",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "excerpt": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+      "published": "2026-11-12T10:24:07.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "3ca0085eba4f5e00",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "excerpt": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+      "published": "2026-11-12T09:38:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
       "id": "7f241c94ac846596",
       "guid": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
       "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",

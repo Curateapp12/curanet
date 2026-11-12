@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "12e31fbc6ad19a3f",
+      "guid": "https://ici.radio-canada.ca/article/info/2299972/oif-canada-france-financement-francophonie",
+      "link": "https://ici.radio-canada.ca/article/info/2299972/oif-canada-france-financement-francophonie",
+      "title": "Francophonie : le Canada dépasse la France comme premier financeur de l’OIF",
+      "excerpt": "Pour la première fois, Ottawa et les provinces contribuent plus que Paris au financement de l’OIF.",
+      "published": "2026-11-12T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/essentiels-info/16x9/carney-macron-rencontre-france.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "4f77436b0591212a",
+      "guid": "https://ici.radio-canada.ca/article/info/2300009/mourir-indignite-pere-retrouve-mort-toilette-urgences",
+      "link": "https://ici.radio-canada.ca/article/info/2300009/mourir-indignite-pere-retrouve-mort-toilette-urgences",
+      "title": "Mourir dans l’indignité : leur père retrouvé mort dans les toilettes des urgences",
+      "excerpt": "Fernand Tanguay a été retrouvé mort dans les toilettes de l'urgence à Terrebonne le 2 novembre dernier.",
+      "published": "2026-11-12T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/deces-toilettes-hopital-terrebonne-17982.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "62d67afdcf8ab9ea",
+      "guid": "https://ici.radio-canada.ca/article/info/recit/17181/cardiologie-ekuanitshit-communautes-autochtones-mobile",
+      "link": "https://ici.radio-canada.ca/article/info/recit/17181/cardiologie-ekuanitshit-communautes-autochtones-mobile",
+      "title": "Un cœur à la fois : Des Innues témoignent de l'importance des soins de santé spécialisés en région",
+      "excerpt": "Une cardiologue et son équipe dépistent les problèmes cardiaques dans les communautés autochtones et éloignées",
+      "published": "2026-11-12T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/empreintes---cardiologie---clinique---mobile--ekuanitshit-conducteur-sans-logo.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "a4a17c55a9bc1bf2",
+      "guid": "https://ici.radio-canada.ca/article/info/2299624/artefacts-autochtones-outaouais-laurentides-lac-gagnon",
+      "link": "https://ici.radio-canada.ca/article/info/2299624/artefacts-autochtones-outaouais-laurentides-lac-gagnon",
+      "title": "Des artéfacts autochtones découverts en Outaouais et dans les Laurentides",
+      "excerpt": "Une équipe dirigée par un Anishinabe permet ces trouvailles au nord du Lac Gagnon.",
+      "published": "2026-11-12T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/aire-protegee-marie-lefranc-petite-nation.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "e9e9dcafe563301e",
+      "guid": "https://ici.radio-canada.ca/article/info/2300019/ottawa-seme-confusion-sur-immigration",
+      "link": "https://ici.radio-canada.ca/article/info/2300019/ottawa-seme-confusion-sur-immigration",
+      "title": "Ottawa sème la confusion sur l’immigration",
+      "excerpt": "Il semble y avoir des contradictions entre les affirmations figurant dans le budget et certaines politiques.",
+      "published": "2026-11-12T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/immigration-refugies-citoyennete-canada-95467.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "b21889495516f66f",
+      "guid": "https://ici.radio-canada.ca/article/info/2300044/deux-personnes-meurent-effondrement-immeuble-new-york",
+      "link": "https://ici.radio-canada.ca/article/info/2300044/deux-personnes-meurent-effondrement-immeuble-new-york",
+      "title": "Deux personnes meurent dans l’effondrement d’un immeuble à New York",
+      "excerpt": "Au moins 17 personnes ont été hospitalisées pour des blessures, dont quatre dans un état critique.",
+      "published": "2026-11-12T04:43:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/batiment-effondrement-new-york-flatbush.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "c93671ab9f7d25a8",
+      "guid": "https://ici.radio-canada.ca/article/info/2300040/nvidia-limoger-dirigeant-jensen-huang",
+      "link": "https://ici.radio-canada.ca/article/info/2300040/nvidia-limoger-dirigeant-jensen-huang",
+      "title": "Nvidia s’apprête à limoger son dirigeant, Jensen Huang, selon des médias américains",
+      "excerpt": "Le dirigeant du géant des puces électroniques fait face à une liste croissante de polémiques.",
+      "published": "2026-11-12T03:41:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jensen-huang-nvidia-61133.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
       "id": "1b29629fc2b404fb",
       "guid": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques",
       "link": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques",

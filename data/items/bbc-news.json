@@ -3,6 +3,204 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "b42bf19262a19770",
+      "guid": "https://www.bbc.co.uk/news/articles/cm3egj0n3qyyo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm3egj0n3qyyo",
+      "title": "Man arrested after sexual assaults at University of Huddersfield",
+      "excerpt": "Seven women were approached and grabbed in Huddersfield, police say, with a 29-year-old man held.",
+      "published": "2026-11-12T10:54:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81b0/live/db04a630-ddff-11f1-8445-15eb55286f71.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "d0c974abe8840ea4",
+      "guid": "https://www.bbc.co.uk/news/articles/cmdx1635xkkdo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1635xkkdo",
+      "title": "DJ Tim Westwood denies two more sexual offences",
+      "excerpt": "His latest pleas of not guilty mean he now denies a total of 17 charges concerning allegations from 1983 to 2016.",
+      "published": "2026-11-12T10:53:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/408b/live/2498e9d0-de7f-11f1-b88b-3f1671ea859d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "6c0a92e9dc647fe8",
+      "guid": "https://www.bbc.co.uk/news/articles/cqvg25r6lx38o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg25r6lx38o",
+      "title": "Oil spill closes 18 beaches across Kent",
+      "excerpt": "The source of the oil, which has closed beaches in Ramsgate and Margate, has not been identified.",
+      "published": "2026-11-12T10:50:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/710c/live/5ba81ef0-de84-11f1-b88b-3f1671ea859d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "91ad99b1f71bed31",
+      "guid": "https://www.bbc.co.uk/news/articles/c6x20x380z12o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6x20x380z12o",
+      "title": "Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel",
+      "excerpt": "Activist Danny Tommo pleads guilty to criminal damage at Portsmouth Crown Court.",
+      "published": "2026-11-12T10:48:24.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9c/live/988b6390-be7c-11f1-8a45-cd59664d243b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "2b49a019e43a2f49",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo#2",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo",
+      "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+      "excerpt": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+      "published": "2026-11-12T10:21:29.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e373/live/dbd80f70-de86-11f1-b88b-3f1671ea859d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "bfc79de3c35c353d",
+      "guid": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+      "excerpt": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "published": "2026-11-12T10:08:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "b492a23bee05e448",
+      "guid": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+      "excerpt": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "published": "2026-11-12T10:02:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "097fc4f244c4543f",
+      "guid": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "excerpt": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "published": "2026-11-12T09:43:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "c7092e51859d1a79",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4gnqdkjp29o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gnqdkjp29o",
+      "title": "Threat was to RAF Mildenhall not to the town, says MP",
+      "excerpt": "A Suffolk MP says the government tells him the threat was not imminent.",
+      "published": "2026-11-12T09:35:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5df4/live/8d233e40-dd2d-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "c571c5b682c9552d",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo#8",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo",
+      "title": "England legend Anderson, 44, joins Surrey",
+      "excerpt": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
+      "published": "2026-11-12T09:32:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4274/live/de53bba0-de77-11f1-9115-cfe6d179af3a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "e0a50f321b9fcb6f",
+      "guid": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o",
+      "title": "Was Delhi pollution data during Diwali misleading?",
+      "excerpt": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be.",
+      "published": "2026-11-12T09:01:56.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/330d/live/345eef50-ddfc-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "cbe2a653449a434f",
+      "guid": "https://www.bbc.co.uk/weather/articles/cmy49yd4z0jko#4",
+      "link": "https://www.bbc.co.uk/weather/articles/cmy49yd4z0jko",
+      "title": "Cold health alerts begin as surge of Arctic air sees temperatures plummet",
+      "excerpt": "Colder than average conditions are spreading across the UK with overnight temperatures set to drop to -7C but the chilly snap may not last too long.",
+      "published": "2026-11-12T09:01:52.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e2/live/ad9b3db0-ddd9-11f1-b865-d17d8611efca.png",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "6ba7c36b31c59c25",
+      "guid": "https://www.bbc.co.uk/news/videos/c94gnv5e31gno#1",
+      "link": "https://www.bbc.co.uk/news/videos/c94gnv5e31gno",
+      "title": "Watch: 'Life-changing moment' boy turns on Tourette syndrome device to help stop tics",
+      "excerpt": "The wrist device, which has been developed by researchers in Nottingham, has been described as \"life-changing\".",
+      "published": "2026-11-12T08:27:02.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b225/live/b3f63e50-de77-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "e71add26d9b2a6de",
+      "guid": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cq0l38rw2w7ro#8",
+      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cq0l38rw2w7ro",
+      "title": "Nurmagomedov slaps Dvalishvili to spark hotel brawl",
+      "excerpt": "Former UFC bantamweight champion Merab Dvalishvili and PFL lightweight champion Usman Nurmagomedov are involved in a physical altercation in Abu Dhabi.",
+      "published": "2026-11-12T08:08:01.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8329/live/f32a3f30-de78-11f1-93e1-3b657b665bcf.png",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "00df9dd843dca4b3",
+      "guid": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "excerpt": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "published": "2026-11-12T07:59:33.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "d91996dd79f9265a",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o",
+      "title": "Robertson set to make history but his hero Dalglish will always be King",
+      "excerpt": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English.",
+      "published": "2026-11-12T07:19:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e440/live/1b368480-de00-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "3ba53c6a1accf977",
+      "guid": "https://www.bbc.co.uk/news/videos/ckedq17174v3o#2",
+      "link": "https://www.bbc.co.uk/news/videos/ckedq17174v3o",
+      "title": "Why did a day off for Finland's embassy in Australia go viral?",
+      "excerpt": "Sleuths shared their \"despair\" when Finland's embassy in Australia's capital closed for 24 hours to hold a planning day and expressed \"relief\" when it reopened.",
+      "published": "2026-11-12T07:12:19.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ab/live/cbda3580-de63-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
+      "id": "1438b20011c97598",
+      "guid": "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o",
+      "title": "Media industry could be forced to improve safeguards after Walliams allegations",
+      "excerpt": "Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands.",
+      "published": "2026-11-12T04:01:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eec/live/b34cd430-de51-11f1-b0c0-99d486f024fd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
+    },
+    {
       "id": "d5932b4e7c7d2d91",
       "guid": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo#4",
       "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo",
@@ -12,6 +210,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png",
       "type": "article",
       "addedAt": "2026-11-12T02:57:21.299Z"
+    },
+    {
+      "id": "2107ab7399a656c8",
+      "guid": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go#4",
+      "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go",
+      "title": "Survivor pulled from rubble of deadly building collapse in New York",
+      "excerpt": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
+      "published": "2026-11-12T02:33:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a6/live/aaaef620-de7c-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-12T11:02:33.473Z"
     },
     {
       "id": "0b51d5459e486b0f",
