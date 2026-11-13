@@ -3,6 +3,61 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "db3fd3a5adb8fb92",
+      "guid": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "excerpt": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security…",
+      "published": "2026-11-13T15:01:11.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "293c69c9ee5ba956",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+      "title": "Microsoft says November security updates cause printing issues",
+      "excerpt": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+      "published": "2026-11-13T12:27:40.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "e49e186a5eabd302",
+      "guid": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "title": "Check Point warns of zero-day flaw exploited for root access",
+      "excerpt": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+      "published": "2026-11-13T10:44:22.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "8762a201a24f4db2",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "excerpt": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+      "published": "2026-11-13T09:36:18.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "3ff055feac947c37",
+      "guid": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+      "excerpt": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+      "published": "2026-11-13T08:34:20.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
       "id": "3b8d7732462b6761",
       "guid": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
       "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",

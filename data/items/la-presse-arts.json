@@ -3,6 +3,72 @@
   "sourceId": "la-presse-arts",
   "items": [
     {
+      "id": "9587a8cd4290b886",
+      "guid": "05656dc2e6e4352896bacf5ab093f28c",
+      "link": "https://www.lapresse.ca/arts/musique/2026-11-13/outils-lances-par-deux-quebecoises/quand-l-ia-devient-agent-d-artiste.php",
+      "title": "Outils lancés par deux Québécoises | Quand l’IA devient agent d’artiste",
+      "excerpt": "Si l’utilisation de l’intelligence artificielle (IA) dans la création musicale est remise en question par nombre d’artistes, son utilité peut se manifester ailleurs : deux femmes de l’industrie de la musique québécoise lancent chacune ces jours-ci des outils pour aider l’artiste à se concentrer…",
+      "published": "2026-11-13T14:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/cfb8963b704d3956adbb9c2c42b5f101.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "6f950df60e84b6cc",
+      "guid": "238764866a76337f89b40deab0881908",
+      "link": "https://www.lapresse.ca/arts/chroniques/2026-11-13/sur-le-fil/dans-la-rue-et-en-plein-coeur.php",
+      "title": "Sur le fil | Dans la rue et en plein cœur",
+      "excerpt": "J’aime quand la télé québécoise s’extirpe des milieux bourgeois et nous téléporte dans un parc de maisons mobiles, où habite une grand-maman qui boit son vinier dans un verre qui a déjà servi de pot de moutarde.",
+      "published": "2026-11-13T13:15:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/61f31e6053f2371b83d8e64936cc2fd2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "9d38e2f6b9695c3b",
+      "guid": "21d90c3f352a35a883720ebfd97bec94",
+      "link": "https://www.lapresse.ca/arts/musique/2026-11-13/critique-de-carnaval-de-luz/u2-en-quete-de-sa-grandeur.php",
+      "title": "Critique de Carnaval de Luz | U2 en quête de sa grandeur",
+      "excerpt": "Est-ce que U2, qui n’a publié aucun grand disque depuis 20 ans, voit la lumière au bout du tunnel avec Carnaval de Luz ? Un peu, oui, mais sans beaucoup de magie.",
+      "published": "2026-11-13T13:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/f7917233b15e35d587471c3cfe560d67.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "11eb448640090d5d",
+      "guid": "646aeffa9ebb30a5ad4d947f2c1b21d8",
+      "link": "https://www.lapresse.ca/arts/chroniques/2026-11-13/les-25-nouveaux-classiques-quebecois/un-canon-tele-qui-fait-boum.php",
+      "title": "Les 25 nouveaux classiques québécois | Un canon télé qui fait boum !",
+      "excerpt": "Les voici, les voilà, les 25 nouveaux classiques du petit écran québécois qui ont diverti, ému, ébranlé ou fait réfléchir les téléspectateurs d’ici depuis le passage à l’an 2000.",
+      "published": "2026-11-13T12:15:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/61f31e6053f2371b83d8e64936cc2fd2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "232f3af34b0d07e2",
+      "guid": "4cedaa0f0f9032d487ac279896145bf2",
+      "link": "https://www.lapresse.ca/arts/musique/2026-11-13/souffrant-d-acouphenes/le-batteur-de-duran-duran-quitte-le-groupe.php",
+      "title": "Souffrant d’acouphènes | Le batteur de Duran Duran quitte le groupe",
+      "excerpt": "Le batteur de Duran Duran, Roger Taylor, quitte le groupe britannique et met fin à sa carrière en raison de l’aggravation de ses acouphènes, a annoncé la formation phare de la new wave des années 1980.",
+      "published": "2026-11-13T11:25:07.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/edb70d6eeca93c5e9108187b288189dc.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "cc61070b4baee7bf",
+      "guid": "cca95c45d4c832339b0465a1bb01c8ad",
+      "link": "https://www.lapresse.ca/arts/arts-visuels/2026-11-13/cinq-nouvelles-oeuvres-dans-le-rem.php",
+      "title": "Cinq nouvelles œuvres dans le REM",
+      "excerpt": "La Caisse dévoile les noms des artistes qui signent les dernières œuvres permanentes du Réseau express métropolitain (REM).",
+      "published": "2026-11-13T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/acb41fc2b7fa3521874aecbe4d77c799.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
       "id": "bb3ad90dd45ec530",
       "guid": "5217cee25eec37e6aad347cb2707fd19",
       "link": "https://www.lapresse.ca/arts/quoi-regarder/2026-11-12/plateformes/dix-series-a-voir-des-maintenant.php",

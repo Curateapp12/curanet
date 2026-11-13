@@ -3,6 +3,127 @@
   "sourceId": "radio-canada-politique",
   "items": [
     {
+      "id": "935a14a21884b4b6",
+      "guid": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement",
+      "link": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement",
+      "title": "Québec solidaire craint de perdre son statut au Parlement",
+      "excerpt": "Le parti dénonce la réticence du PQ à lui accorder le droit de former un groupe parlementaire.",
+      "published": "2026-11-13T15:57:21.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/assemblee-nationale-entree-de-la-periode-des-questions-sur-la-photo-alexandre-leduc-photo-prise-a-lassemblee-nationale-quebec-canada-le-28-mai-2026_28052026-photo-sylvain-roy-roussel-cbc-radio-canada.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "dfb9b76d23e9c78b",
+      "guid": "https://ici.radio-canada.ca/article/info/2300349/deneigement-ville-quebec-carte",
+      "link": "https://ici.radio-canada.ca/article/info/2300349/deneigement-ville-quebec-carte",
+      "title": "Une carte pour suivre la progression du déneigement à Québec",
+      "excerpt": "La Ville de Québec estime un budget similaire à celui de l'an dernier pour le déneigement.",
+      "published": "2026-11-13T15:46:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/premiere-neige-ville-quebec-centre-rue-novembre-2022-86075.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "efaf7156be083ec1",
+      "guid": "https://ici.radio-canada.ca/article/info/2300334/eolien-mer-nouvelle-ecosse-massachusetts-entente",
+      "link": "https://ici.radio-canada.ca/article/info/2300334/eolien-mer-nouvelle-ecosse-massachusetts-entente",
+      "title": "La Nouvelle-Écosse et le Massachusetts s’associent autour de l’éolien en mer",
+      "excerpt": "Les deux territoires souhaitent collaborer ensemble sur ce dossier pour approvisionner la Nouvelle-Angleterre.",
+      "published": "2026-11-13T15:29:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/eolienne-mer-parc.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "e485d1c030355108",
+      "guid": "https://ici.radio-canada.ca/article/info/2300335/rafeo-bourses-prets-etudiants-npd",
+      "link": "https://ici.radio-canada.ca/article/info/2300335/rafeo-bourses-prets-etudiants-npd",
+      "title": "RAFEO : des étudiants de Windsor craignent de s’endetter davantage",
+      "excerpt": "La cheffe du NPD et des étudiants de Windsor dénoncent les changements du gouvernement Ford au RAFEO.",
+      "published": "2026-11-13T14:35:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/manifestation-ontario-etudiante-rafeo.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "e15641848b4ff209",
+      "guid": "https://ici.radio-canada.ca/article/info/2300333/rafeo-aide-financiere-college-prive-ontario",
+      "link": "https://ici.radio-canada.ca/article/info/2300333/rafeo-aide-financiere-college-prive-ontario",
+      "title": "Un collège d’enseignement professionnel privé a vu le recours au RAFEO bondir de 6000 %",
+      "excerpt": "Un collège privé a vu son nombre d’étudiants au RAFEO bondir de 6000 % sans être sanctionné au printemps.",
+      "published": "2026-11-13T14:33:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/nolan-quinn-osap-ontario-89035.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "e9cc1ee0567da87f",
+      "guid": "https://ici.radio-canada.ca/article/info/2300327/alerte-naissance-recours-collectif",
+      "link": "https://ici.radio-canada.ca/article/info/2300327/alerte-naissance-recours-collectif",
+      "title": "Revers pour la province dans un recours collectif concernant les alertes à la naissance",
+      "excerpt": "Les femmes autochtones étaient davantage touchées par cette pratique, selon des données gouvernementales.",
+      "published": "2026-11-13T13:58:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/berceau-bebe-hopital.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "fb83acfdc5cf70d2",
+      "guid": "https://ici.radio-canada.ca/article/info/2300260/tunnel-massey-pont-transition-conservateurs-npd",
+      "link": "https://ici.radio-canada.ca/article/info/2300260/tunnel-massey-pont-transition-conservateurs-npd",
+      "title": "Lorne Doerkson demande au NPD de freiner les travaux du tunnel George-Massey",
+      "excerpt": "Le NPD affirme que les fonctionnaires sont indépendants pendant la période de transition.",
+      "published": "2026-11-13T12:40:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/lorne-doerkson-conservateurs-cb-81997.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "81ba03d2228f80d9",
+      "guid": "https://ici.radio-canada.ca/article/info/2300318/augmentation-salaire-conseil-municipal-ottawa",
+      "link": "https://ici.radio-canada.ca/article/info/2300318/augmentation-salaire-conseil-municipal-ottawa",
+      "title": "Les élus d’Ottawa s’apprêtent à augmenter leurs salaires de plus de 17 000 $",
+      "excerpt": "Le salaire du maire Mark Sutlciffe pourrait augmenter de 14 000 $.",
+      "published": "2026-11-13T11:53:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/city-hall-exterior-65426.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "a246570c9c782444",
+      "guid": "https://ici.radio-canada.ca/article/info/2300198/recul-zones-humides-ipe",
+      "link": "https://ici.radio-canada.ca/article/info/2300198/recul-zones-humides-ipe",
+      "title": "La nouvelle politique des zones humides de l’Île-du-Prince-Édouard est décriée",
+      "excerpt": "Des groupes environnementaux et des chercheurs déplorent un recul dans la protection des zones humides.",
+      "published": "2026-11-13T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/zones-humides-ipe.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "f50531540afc84e3",
+      "guid": "https://ici.radio-canada.ca/article/info/2300255/route-293-aqueduc-notre-dame-neiges-aide-mtq",
+      "link": "https://ici.radio-canada.ca/article/info/2300255/route-293-aqueduc-notre-dame-neiges-aide-mtq",
+      "title": "Route 293 : Le MTQ refuse de bonifier son aide pour prolonger l’aqueduc",
+      "excerpt": "Le ministère des Transports répond par la négative à la demande des Basques de payer l'entièreté des travaux.",
+      "published": "2026-11-13T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/route-293-notre-dame-des-neiges-courbes-dangereuses-dany-larrivee-directeur-general-nddn-julie-marcoux-ministere-des-transports-du-quebec-img2969.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "72d2af136f26c4a7",
+      "guid": "https://ici.radio-canada.ca/article/info/2300123/orford-nouveau-vote-salaire-elu",
+      "link": "https://ici.radio-canada.ca/article/info/2300123/orford-nouveau-vote-salaire-elu",
+      "title": "Les élus d’Orford devront voter une nouvelle fois leur hausse de salaire",
+      "excerpt": "C'est en raison d’un oubli dans l’avis public que les élus d'Orford devront reprendre le vote.",
+      "published": "2026-11-13T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/alain-brisson-maire-orford-estrie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
       "id": "d1e99d5c36bcbac3",
       "guid": "https://ici.radio-canada.ca/article/info/2300275/conseillers-maires-delta-luc-boivin",
       "link": "https://ici.radio-canada.ca/article/info/2300275/conseillers-maires-delta-luc-boivin",

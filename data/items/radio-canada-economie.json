@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "088c2da0de26ff04",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10808676/prendre-volant-ferrari-daytona-1972",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10808676/prendre-volant-ferrari-daytona-1972",
+      "title": "Prendre le volant de la Ferrari Daytona 1972",
+      "excerpt": "« 2 minutes, 2 secondes et 5 dixièmes », c’est le meilleur temps que Jacques Duval a réalisé pour un tour avec ce bolide sur le circuit Mont-Tremblant. Source : Prenez le volant, 19 décembre 1972",
+      "published": "2026-11-13T15:44:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ferrari-daytona-essai-routier-archives.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "02ff8bc9cd7f5357",
+      "guid": "https://ici.radio-canada.ca/article/info/2300328/kruger-cogeneration-biomasse-usine",
+      "link": "https://ici.radio-canada.ca/article/info/2300328/kruger-cogeneration-biomasse-usine",
+      "title": "L’usine de cogénération de Kruger à Brompton fermée pour une durée indéterminée",
+      "excerpt": "Une vingtaine d'employés sont touchés par la nouvelle.",
+      "published": "2026-11-13T13:37:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/kruger-usine-brompton.png",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "7ed6194128b74ff9",
+      "guid": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement",
+      "link": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement",
+      "title": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
+      "excerpt": "Le raccordement au réseau électrique tarde pendant que les promoteurs et Hydro-Québec se renvoient la balle.",
+      "published": "2026-11-13T11:25:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/immeubles-dcl-amos-branchement-hydro-quebec-arnold-akili-jeannot-cote.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "4541732f39ab0af3",
+      "guid": "https://ici.radio-canada.ca/article/info/2300170/arenas-budget-municiaplite-biligues-reaction-communaute-federal",
+      "link": "https://ici.radio-canada.ca/article/info/2300170/arenas-budget-municiaplite-biligues-reaction-communaute-federal",
+      "title": "Des municipalités manitobaines saluent les fonds alloués par Ottawa aux arénas",
+      "excerpt": "Des municipalités manitobaines applaudissent le financement d'Ottawa pour les arénas communautaires.",
+      "published": "2026-11-13T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/arena-saint-malo.png",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "eaa534c601542d62",
+      "guid": "https://ici.radio-canada.ca/article/info/2300221/poste-arnaud-2-travaux-hydro-quebec",
+      "link": "https://ici.radio-canada.ca/article/info/2300221/poste-arnaud-2-travaux-hydro-quebec",
+      "title": "Poste Arnaud 2 : Hydro-Québec débute ses études terrain",
+      "excerpt": "Ces travaux s’inscrivent dans le projet Axe Côte-Nord devant renforcer le réseau hydroélectrique.",
+      "published": "2026-11-13T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/poste-arnaud-electricite-hydro-quebec-sous-station-sept-iles.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "0c98171d88367e44",
+      "guid": "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget",
+      "link": "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget",
+      "title": "Eaux usées : quelle facture pour les nouvelles usines de Lévis?",
+      "excerpt": "L’explosion de la facture survient dans un contexte où les finances de Lévis sont déjà sous pression.",
+      "published": "2026-11-13T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/usine-traitement-eaux-usees-levis-86272.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
       "id": "887832f56cb289c8",
       "guid": "https://ici.radio-canada.ca/article/info/2300294/oilers-flames-baisse-billets",
       "link": "https://ici.radio-canada.ca/article/info/2300294/oilers-flames-baisse-billets",

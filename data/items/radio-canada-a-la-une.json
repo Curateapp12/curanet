@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "35e15a8a63f742ae",
+      "guid": "https://ici.radio-canada.ca/article/info/2300355/quebec-test-systeme-alerte-mercredi",
+      "link": "https://ici.radio-canada.ca/article/info/2300355/quebec-test-systeme-alerte-mercredi",
+      "title": "Québec testera son système d’alerte mercredi prochain",
+      "excerpt": "Le message d'urgence sera diffusé le 18 novembre à 13 h 55 sur les téléphones, à la radio et à la télévision.",
+      "published": "2026-11-13T15:51:56.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/test-systeme-en-alerte.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "812d19f2f92d321b",
+      "guid": "https://ici.radio-canada.ca/article/info/2300313/panne-mondiale-outlook-pas-cyberattaque",
+      "link": "https://ici.radio-canada.ca/article/info/2300313/panne-mondiale-outlook-pas-cyberattaque",
+      "title": "Panne mondiale de Microsoft : le rétablissement progresse",
+      "excerpt": "Microsoft affirme percevoir de premières améliorations en vue d'un retour à la normale, en Amérique du Nord.",
+      "published": "2026-11-13T14:50:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/microsoft-azure-cloud-logo.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "6d1ca9366b085c9a",
+      "guid": "https://ici.radio-canada.ca/article/info/2299580/retraite-anticipee-fonction-publique-humain",
+      "link": "https://ici.radio-canada.ca/article/info/2299580/retraite-anticipee-fonction-publique-humain",
+      "title": "« Pourquoi mon poste? » : l’humain derrière les compressions dans la fonction publique",
+      "excerpt": "La dernière année a été mouvementée pour les fonctionnaires fédéraux.",
+      "published": "2026-11-13T10:41:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/isabelle-robichaud-fonctionnaire-sackville.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "23688b8cd5c96df2",
+      "guid": "https://ici.radio-canada.ca/article/info/2300231/nvidia-secretaire-commerce-lutnick-chine",
+      "link": "https://ici.radio-canada.ca/article/info/2300231/nvidia-secretaire-commerce-lutnick-chine",
+      "title": "Le scandale de Nvidia place le secrétaire au Commerce américain dans la tourmente",
+      "excerpt": "Howard Lutnick est montré du doigt pour son inaction à l’égard de l’entreprise Megaspeed.",
+      "published": "2026-11-13T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/howard-lutnick-donald-trump.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "4c56269a37f09c59",
+      "guid": "https://ici.radio-canada.ca/article/info/2300178/gta-6-wow-forever-zelda-ocarina-sortie",
+      "link": "https://ici.radio-canada.ca/article/info/2300178/gta-6-wow-forever-zelda-ocarina-sortie",
+      "title": "GTA, Zelda et WoW : un mois de novembre mémorable pour les joueurs",
+      "excerpt": "Il se pourrait que vos collègues joueurs s’absentent plus souvent du bureau en novembre.",
+      "published": "2026-11-13T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/grand-theft-auto-vi-violence-polemique-jeu-video-gta.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "5013c9aa5981019a",
+      "guid": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres",
+      "link": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres",
+      "title": "Quand Santé Québec coupe dans les soins palliatifs",
+      "excerpt": "Cinq postes d’infirmière ont été abolis à l’unité des soins palliatifs de l’Hôtel-Dieu de Lévis.",
+      "published": "2026-11-13T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/hotel-dieu-de-levis-tso-sit-in-urgence.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "60ecff72cf5a7d56",
+      "guid": "https://ici.radio-canada.ca/article/info/2300155/carie-dentaire-enfant-fluorure-diamine-argent",
+      "link": "https://ici.radio-canada.ca/article/info/2300155/carie-dentaire-enfant-fluorure-diamine-argent",
+      "title": "Bienfait confirmé d’un traitement simple contre la carie chez l’enfant",
+      "excerpt": "La carie dentaire est la maladie chronique la plus fréquente chez les enfants au Canada.",
+      "published": "2026-11-13T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/dentiste-traitement-fillette.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "a2ee89e5a44644dc",
+      "guid": "https://ici.radio-canada.ca/article/info/2300248/homme-malade-europe-crise-france",
+      "link": "https://ici.radio-canada.ca/article/info/2300248/homme-malade-europe-crise-france",
+      "title": "L’homme malade de l’Europe",
+      "excerpt": "La France est accablée par plusieurs affections qui se croisent et s’exacerbent.",
+      "published": "2026-11-13T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/manifestation-france-drapeau-incendie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "b79cb0a2271274c3",
+      "guid": "https://ici.radio-canada.ca/article/info/2300227/scrooge-film-johnny-depp-retour-amber-heard",
+      "link": "https://ici.radio-canada.ca/article/info/2300227/scrooge-film-johnny-depp-retour-amber-heard",
+      "title": "Scrooge : le grand retour de Johnny Depp à Hollywood",
+      "excerpt": "Quatre ans après son procès contre Amber Heard, Johnny Depp revient au cinéma dans un rôle de premier plan.",
+      "published": "2026-11-13T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/johnny-depp-ebenezer-scrooge-film.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
       "id": "435e928b207c1f5e",
       "guid": "https://ici.radio-canada.ca/article/info/2300301/haiti-forces-gangs-reprise-stade-soccer",
       "link": "https://ici.radio-canada.ca/article/info/2300301/haiti-forces-gangs-reprise-stade-soccer",

@@ -3,6 +3,50 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "94ac4aab3cb1ab5f",
+      "guid": "https://ici.radio-canada.ca/article/info/2300314/menace-ecole-bouctouche-clement-cormier-marguerite-michaud",
+      "link": "https://ici.radio-canada.ca/article/info/2300314/menace-ecole-bouctouche-clement-cormier-marguerite-michaud",
+      "title": "« Menace potentielle » : deux écoles de Bouctouche fermées vendredi",
+      "excerpt": "L’École Clément-Cormier et l’école Dr-Marguerite-Michaud sont fermées pour la journée.",
+      "published": "2026-11-13T11:03:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/leaf-rapids-grc-homicide-meurtre.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "ebf2446a41f01601",
+      "guid": "https://ici.radio-canada.ca/article/info/2300184/education-neqotkuk-esgenoopetitj-elsipogtog",
+      "link": "https://ici.radio-canada.ca/article/info/2300184/education-neqotkuk-esgenoopetitj-elsipogtog",
+      "title": "Éducation : écarts importants entre 3 communautés autochtones et leurs voisines",
+      "excerpt": "Ivan Augustine, dirigeant de l’autorité scolaire d’Elsipogtog, espère plus de financement d’Ottawa.",
+      "published": "2026-11-13T10:28:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ivan-augustine-autorite-scolaire-elsipogtog.png",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "1cd41a53aa951af1",
+      "guid": "https://ici.radio-canada.ca/article/info/2300160/centre-donnees-intelligence-artificielle-comprendre",
+      "link": "https://ici.radio-canada.ca/article/info/2300160/centre-donnees-intelligence-artificielle-comprendre",
+      "title": "Centre de données : un petit guide pour mieux comprendre",
+      "excerpt": "Les projets de construction de centres de données se multiplient un peu partout au pays.",
+      "published": "2026-11-13T10:20:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/centre-donnees-serveurs-ordinateurs-ia-25725.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "6768158196751592",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10807994/c-est-quoi-un-centre-donnees",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10807994/c-est-quoi-un-centre-donnees",
+      "title": "C’est quoi un centre de données?",
+      "excerpt": "Les centres de données, on en parle beaucoup, mais on a parfois du mal à vraiment comprendre. C’est quoi au juste? Comment l’IA accélère leur construction et pourquoi ils divisent?",
+      "published": "2026-11-13T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-margaud-centre-donnees-explainer-22385.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
       "id": "5065469896320381",
       "guid": "https://ici.radio-canada.ca/en-bref/1-10808173/gaz-schiste-une-coalition-acadienne-est-formee",
       "link": "https://ici.radio-canada.ca/en-bref/1-10808173/gaz-schiste-une-coalition-acadienne-est-formee",

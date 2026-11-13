@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "e409dd0c6ebe93d4",
+      "guid": "https://ici.radio-canada.ca/article/info/2300359/pantheon-sports-victoriaville-athlete",
+      "link": "https://ici.radio-canada.ca/article/info/2300359/pantheon-sports-victoriaville-athlete",
+      "title": "Les exploits d’athlètes victoriavillois récompensés",
+      "excerpt": "Plusieurs coureurs sont intronisés au Panthéon des sports de Victoriaville.",
+      "published": "2026-11-13T16:11:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jesse-lacourse.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "0c227bd8325be606",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300300/football-commissaire-lcf-candidature-equipe-quebec",
+      "link": "https://ici.radio-canada.ca/article/sports/2300300/football-commissaire-lcf-candidature-equipe-quebec",
+      "title": "La LCF n’est pas prête à annoncer une nouvelle équipe à Québec",
+      "excerpt": "Le commissaire a néanmoins confirmé que Québec était la principale candidate pour une expansion.",
+      "published": "2026-11-13T16:07:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/stewart-johnston-lcf-coupe-grey.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "0272497dc40599ac",
+      "guid": "https://ici.radio-canada.ca/article/info/2300329/cheval-coupe-grey-football",
+      "link": "https://ici.radio-canada.ca/article/info/2300329/cheval-coupe-grey-football",
+      "title": "Traitement de roi pour Taffy-Tuffy, le cheval de la Coupe Grey",
+      "excerpt": "Depuis 1948, un cheval fait son entrée dans un hôtel de la ville hôte de la finale de la Coupe Grey.",
+      "published": "2026-11-13T14:07:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/cheval-coupe-grey.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "a1b9fa596631544a",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10808507/un-nouveau-centre-pickleball-a-jonquiere",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10808507/un-nouveau-centre-pickleball-a-jonquiere",
+      "title": "Un nouveau centre de pickleball à Jonquière",
+      "excerpt": "La popularité du pickleball ne se dément pas! D’ailleurs, les mordus de ce sport auront désormais accès à un nouveau centre. Cette installation vient tout juste de voir le jour à Jonquière.",
+      "published": "2026-11-13T13:36:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/centre-pickleball-saguenay-10739.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "38b98e289d088075",
+      "guid": "https://ici.radio-canada.ca/article/info/2297864/juju-watkins-wnba-tempo-repechage",
+      "link": "https://ici.radio-canada.ca/article/info/2297864/juju-watkins-wnba-tempo-repechage",
+      "title": "Qui pourra repêcher JuJu Watkins, la prochaine Caitlin Clark?",
+      "excerpt": "Un tirage de la WNBA déterminera dimanche si le Tempo de Toronto obtiendra le premier choix au repêchage.",
+      "published": "2026-11-13T12:44:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/juju-watkins-wnba.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
       "id": "0ceaaad6b62260b3",
       "guid": "https://ici.radio-canada.ca/article/info/2300303/coupe-grey-football-cody-fajardo",
       "link": "https://ici.radio-canada.ca/article/info/2300303/coupe-grey-football-cody-fajardo",
