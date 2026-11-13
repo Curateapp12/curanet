@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "b6a025bac4afed92",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300282/leadership-davis-alexander-louange-par-ses-adversaires",
+      "link": "https://ici.radio-canada.ca/article/sports/2300282/leadership-davis-alexander-louange-par-ses-adversaires",
+      "title": "Le leadership de Davis Alexander est louangé par tous, même ses adversaires",
+      "excerpt": "Le quart-arrière des Alouettes de Montréal vanté pour son énergie et sa prestance.",
+      "published": "2026-11-13T00:06:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/davis-alexander-alouettes-montreal-roughriders-243.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "f00efabc9fbcd802",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300270/alouettes-servent-defaites-2024-2025-motivation",
+      "link": "https://ici.radio-canada.ca/article/sports/2300270/alouettes-servent-defaites-2024-2025-motivation",
+      "title": "Les défaites de 2024 et 2025 servent de motivation aux Alouettes en vue de la Coupe Grey",
+      "excerpt": "Le design de leur chandail d'entraînement rappelle les échecs des deux dernières finales.",
+      "published": "2026-11-12T23:26:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/roughriders-match-coupe-grey.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "acf44f2d1c704190",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300263/les-blue-jays-presentent-leurs-excuses-a-la-communaute-musulmane-et-a-leurs-partisans",
+      "link": "https://ici.radio-canada.ca/article/sports/2300263/les-blue-jays-presentent-leurs-excuses-a-la-communaute-musulmane-et-a-leurs-partisans",
+      "title": "Les Blue Jays présentent leurs excuses à la communauté musulmane et à leurs partisans",
+      "excerpt": "Santander est demeuré silencieux au sujet de ses propos antimusulmans sur les réseaux sociaux.",
+      "published": "2026-11-12T22:58:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/anthony-santander.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "e8e26a8a935d846f",
+      "guid": "https://ici.radio-canada.ca/article/info/2300233/tennis-leger-pickleball-terrain-interieurs",
+      "link": "https://ici.radio-canada.ca/article/info/2300233/tennis-leger-pickleball-terrain-interieurs",
+      "title": "Des adeptes ravis au nouveau Centre Pickleball Saguenay",
+      "excerpt": "Il est situé à l'intérieur du Centre Jonquière et comprend huit terrains.",
+      "published": "2026-11-12T21:37:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/centre-pickleball-saguenay-10739.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "7d18ca081ed358a3",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17822/filles-sports-canada-rapport",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17822/filles-sports-canada-rapport",
+      "title": "Les filles pratiquent (encore) moins le sport que les garçons",
+      "excerpt": "La création de ligues et d’équipes féminines a augmenté l’intérêt des filles pour le sport, mais un rapport montre que des écarts de participation persistent.",
+      "published": "2026-11-12T20:32:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/balle-molle-charlottetown-sport-ecole-filles.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "03d0758f11d12ede",
+      "guid": "https://ici.radio-canada.ca/jeunesse/maj/2300195/karl-bushby-expedition-goliath-aventure",
+      "link": "https://ici.radio-canada.ca/jeunesse/maj/2300195/karl-bushby-expedition-goliath-aventure",
+      "title": "Un homme rentre à la maison… après une marche de 28 ans!",
+      "excerpt": "En 1998, l'aventurier britannique Karl Bushby a commencé à marcher vers l’Angleterre, à partir de la Patagonie. Presque 30 ans plus tard, il a terminé son impressionnant périple.",
+      "published": "2026-11-12T20:01:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/jeunesse/16x9/maj-karl-bushby-expedition-goliath-aventure.png",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
       "id": "a3442d26765e3d9c",
       "guid": "https://ici.radio-canada.ca/article/sports/2300146/participation-filles-sport-canada-emergence-ligues-professionnelles",
       "link": "https://ici.radio-canada.ca/article/sports/2300146/participation-filles-sport-canada-emergence-ligues-professionnelles",

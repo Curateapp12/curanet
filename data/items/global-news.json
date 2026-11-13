@@ -3,6 +3,116 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "6e627a6082ceea8e",
+      "guid": "https://globalnews.ca/news/12148814/elks-kicker-blanchard-wrote-it-down-in-2026/",
+      "link": "https://globalnews.ca/news/12148814/elks-kicker-blanchard-wrote-it-down-in-2026/",
+      "title": "Elks kicker Blanchard wrote it down in 2026",
+      "excerpt": "Vincent Blanchard began writing things down this season.",
+      "published": "2026-11-12T23:32:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/84fb5815ef1b8e5c25c872178aba0af8410b5de4904eaa60e83be8a6a6e4830e.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "baa8fd657df2783a",
+      "guid": "https://globalnews.ca/news/12148727/philpot-ford-matchup-an-intriguing-one-in-grey-cup/",
+      "link": "https://globalnews.ca/news/12148727/philpot-ford-matchup-an-intriguing-one-in-grey-cup/",
+      "title": "Philpot-Ford matchup an intriguing one in Grey Cup",
+      "excerpt": "Football is a game of matchups, and the Grey Cup on Sunday will present no shortage of them.",
+      "published": "2026-11-12T22:43:12.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/58bf44dc68a512c3930163144d49d7a1ec72cdb8e31f76ad15647160c194bb95.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "87d2a8853733d0ff",
+      "guid": "https://globalnews.ca/?p=12148313",
+      "link": "https://globalnews.ca/news/12148313/generations-foundation-holiday-food-toy-drive-where-to-donate/",
+      "title": "Generations Foundation holiday food and toy drive kicks off: Here’s where to donate",
+      "excerpt": "The Generations Foundation’s annual holiday food and toy drive is underway. Here’s where to donate toys, non-perishable food and money to support Montreal families in need.",
+      "published": "2026-11-12T22:30:14.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2019/12/img_5331-e1576692996589.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "8324dcc8dc306a16",
+      "guid": "https://globalnews.ca/?p=12148595",
+      "link": "https://globalnews.ca/news/12148595/artificial-intelligence-housing-approvals/",
+      "title": "N.S. municipal politicians weigh in on whether AI can speed up housing approvals",
+      "excerpt": "Municipal politicians in Nova Scotia are reacting after the federal government pitched artificial intelligence as a way of speeding up housing approvals.",
+      "published": "2026-11-12T22:26:08.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2022/03/CP13240346.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "1e7aa4c33c97200e",
+      "guid": "https://globalnews.ca/?p=12148605",
+      "link": "https://globalnews.ca/news/12148605/saskatoon-police-hit-stable-hospital/",
+      "title": "Saskatoon police officer who was hit by vehicle stable, still in hospital",
+      "excerpt": "The Saskatoon police officer who was stuck by a vehicle on Wednesday afternoon is still undergoing treatment in hospital, but is now stable, SPS Chief Cameron McBride said.",
+      "published": "2026-11-12T22:23:08.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/saskatoon-officer-hit-by-car.bmp",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "28f9385dd3926a29",
+      "guid": "https://globalnews.ca/?p=12148582",
+      "link": "https://globalnews.ca/news/12148582/chappelle-creighton-place-shooting/",
+      "title": "Suspected targeted shooting caught on video in southwest Edmonton",
+      "excerpt": "Surveillance video captured a man getting out of a car, shooting a man and woman in another car, and quickly fleeing the scene on Creighton Place in the Chappelle neighbourhood.",
+      "published": "2026-11-12T22:19:31.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Creighton-Place-shooting.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "ad61600cbf90e5b9",
+      "guid": "https://globalnews.ca/?p=12148478",
+      "link": "https://globalnews.ca/news/12148478/nursing-home-without-walls/",
+      "title": "Program that supports seniors living at home expands in rural New Brunswick",
+      "excerpt": "A new program in rural New Brunswick is bringing some of the benefits of a nursing home directly to the community.",
+      "published": "2026-11-12T22:01:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/seniors.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "59f2a4c72fe88ab8",
+      "guid": "https://globalnews.ca/?p=12148571",
+      "link": "https://globalnews.ca/news/12148571/lorne-doerkson-letter-outgoing-ndp-government-massey-tunnel-project/",
+      "title": "Lorne Doerkson sends letter to outgoing NDP government about Massey Tunnel project",
+      "excerpt": "Premier-designate Lorne Doerkson has committed to replacing the tunnel with a bridge, despite work on a new tunnel already being underway.",
+      "published": "2026-11-12T22:01:20.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/05/TP.png",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "a3baf7ca4e806c47",
+      "guid": "https://globalnews.ca/?p=12148479",
+      "link": "https://globalnews.ca/news/12148479/nvidia-jensen-huang-honey-trap-scandal/",
+      "title": "Amid Nvidia’s suspected Chinese spy scandal, what is a ‘honey trap?’",
+      "excerpt": "The Canadian Security Intelligence Service (CSIS) said 'cultivation' — which includes romantic entanglements — is an effective tool deployed by intelligence services.",
+      "published": "2026-11-12T21:55:35.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP177124696-e1794489916758.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "b49ce07f3fcdc834",
+      "guid": "https://globalnews.ca/?p=12148310",
+      "link": "https://globalnews.ca/news/12148310/life-size-statue-jesus-stolen-bc-catholic-school-brazen-act/",
+      "title": "Life-size statue of Jesus Christ stolen from B.C. Catholic school in ‘brazen’ act",
+      "excerpt": "Someone drove through the school's security gates early on Wednesday morning, went to the courtyard around the back and took the statue.",
+      "published": "2026-11-12T21:29:31.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/jesus-statue.png",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
       "id": "973ba01aed83a909",
       "guid": "https://globalnews.ca/?p=12147719",
       "link": "https://globalnews.ca/news/12147719/payments-canada-rtr-scotiabank/",

@@ -3,6 +3,61 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "3b8d7732462b6761",
+      "guid": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "excerpt": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
+      "published": "2026-11-12T22:53:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "674c4b85088a00ce",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "excerpt": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+      "published": "2026-11-12T22:25:30.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "fd416d58448acaf0",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "excerpt": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+      "published": "2026-11-12T20:15:16.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "5e7c3d53ea737937",
+      "guid": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "excerpt": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
+      "published": "2026-11-12T19:51:16.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "fac8887887ba8ddd",
+      "guid": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "excerpt": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+      "published": "2026-11-12T19:12:55.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
       "id": "ad9757975fce9e1b",
       "guid": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
       "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",

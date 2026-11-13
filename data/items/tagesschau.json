@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "0daee256730294a2",
+      "guid": "74bb8a0d-79da-473e-aaa0-21185875ea37",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
+      "title": "Auch Outlook betroffen: Microsoft-Dienste weltweit mit Störungen",
+      "excerpt": "Ein großflächiger Ausfall von Microsoft-Diensten, darunter Outlook: Innerhalb der Anwendungspalette des Technologiekonzerns kommt es weltweit zu Störungen. Das Unternehmen arbeite mit Hochdruck an einer Lösung.",
+      "published": "2026-11-12T23:08:03.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/f88dd7d2-f43e-4a23-85cb-139aab8c4930/AAABodHzeW4/AAABnSSvrFg/16x9-big/microsoft-210.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "bde34e79642d953e",
+      "guid": "dd7dcd42-4324-4395-9b7b-5872af9752d1",
+      "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+      "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+      "excerpt": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+      "published": "2026-11-12T21:09:07.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7aa52c28-02c2-447e-8843-707c8a2139e5/AAABodGXxPU/AAABnSSvrFg/16x9-big/quantum-systems-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
       "id": "83104f354e96b51e",
       "guid": "b4847fda-36ba-40d7-b324-258acc331c00",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",

@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "5760b659a30c2e47",
+      "guid": "https://ici.radio-canada.ca/article/info/2300244/caravane-migrants-mexique-trump-menace-tarifs",
+      "link": "https://ici.radio-canada.ca/article/info/2300244/caravane-migrants-mexique-trump-menace-tarifs",
+      "title": "Caravane de migrants au Mexique : Trump menace de doubler les droits de douane",
+      "excerpt": "Plus de 1000 migrants centraméricains voulant entrer aux États-Unis sont arrivés sur le territoire mexicain.",
+      "published": "2026-11-12T22:59:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/migrants-centramericains-mexique.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "3ffd225ac569fed4",
+      "guid": "https://ici.radio-canada.ca/article/info/2300199/panne-microsoft-365-outlook-teams",
+      "link": "https://ici.radio-canada.ca/article/info/2300199/panne-microsoft-365-outlook-teams",
+      "title": "Une panne généralisée touche les applications de messagerie de Microsoft",
+      "excerpt": "Des milliers d'utilisateurs de Microsoft 365, Outlook et Teams ont été privés de service jeudi.",
+      "published": "2026-11-12T22:54:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/microsoft-logo.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "53b0371f1226a2bc",
+      "guid": "https://ici.radio-canada.ca/article/info/2300250/effondrement-new-york-gentrification",
+      "link": "https://ici.radio-canada.ca/article/info/2300250/effondrement-new-york-gentrification",
+      "title": "Après l’effondrement d’un immeuble à New York, les habitants dénoncent l’embourgeoisement",
+      "excerpt": "Le chantier a fait l'objet d'une injonction d'arrêt des travaux, selon des documents consultés par l'AFP.",
+      "published": "2026-11-12T22:29:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/edifice-ouvert-effondrement-new-york-brooklyn.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "422d0861fc1044ae",
+      "guid": "https://ici.radio-canada.ca/article/info/2300230/stellantis-brampton-usine-accord-joly",
+      "link": "https://ici.radio-canada.ca/article/info/2300230/stellantis-brampton-usine-accord-joly",
+      "title": "Vente de l’usine de Brampton : Ottawa met fin aux discussions avec Stellantis",
+      "excerpt": "Dans une lettre, la ministre Joly accuse le constructeur automobile de contrevenir à un accord de 2022.",
+      "published": "2026-11-12T21:44:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/melanie-joly-ministre-industrie-19990.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "f9566ad9746358ec",
+      "guid": "https://ici.radio-canada.ca/article/info/2300177/cop31-climat-venezuela-promotion-petrole",
+      "link": "https://ici.radio-canada.ca/article/info/2300177/cop31-climat-venezuela-promotion-petrole",
+      "title": "À la COP31 sur le climat, le Venezuela fait la promotion de son pétrole",
+      "excerpt": "La présidente par intérim du Venezuela a défendu son « droit souverain » à développer l’industrie pétrolière.",
+      "published": "2026-11-12T20:03:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/delcy-rodriguez-49775.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "6751984cad44a440",
+      "guid": "https://ici.radio-canada.ca/article/info/2300168/upa-tgv-train-grande-frequence",
+      "link": "https://ici.radio-canada.ca/article/info/2300168/upa-tgv-train-grande-frequence",
+      "title": "Projet de TGV : l’UPA demande à Ottawa de privilégier un train à grande fréquence",
+      "excerpt": "Une étude propose d'optimiser les voies existantes plutôt que d'ouvrir un nouveau corridor pour un TGV.",
+      "published": "2026-11-12T19:37:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/alto-tgv-train-canada.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
       "id": "4ff316c988223775",
       "guid": "https://ici.radio-canada.ca/article/info/2300054/effondrement-immeuble-new-york-morts",
       "link": "https://ici.radio-canada.ca/article/info/2300054/effondrement-immeuble-new-york-morts",

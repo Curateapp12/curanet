@@ -3,6 +3,28 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "7555ad9d3c2b59f7",
+      "guid": "1d2b88388bd73e3fb9406cccf841810f",
+      "link": "https://www.lapresse.ca/actualites/2026-11-12/rapport-de-l-universite-mcgill/un-reseau-d-hypertrucages-comme-source-de-divisions-politiques.php",
+      "title": "Rapport de l’Université McGill | Un réseau d’hypertrucages comme « source de divisions politiques »",
+      "excerpt": "Un réseau probablement basé hors du Canada utilise des hypertrucages pour diffuser des contenus « suscitant des divisions politiques » auprès des Canadiens, selon un nouveau rapport publié jeudi.",
+      "published": "2026-11-12T23:33:48.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/95311c51514e3107bc6b26c7f276415a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "bb8566c555699608",
+      "guid": "a3d30a4324243417bba90e31bc53a13f",
+      "link": "https://www.lapresse.ca/actualites/2026-11-12/ce-qu-il-faut-savoir-ce-jeudi/nvidia-train-a-grande-frequence-et-enfants-enfermes.php",
+      "title": "Ce qu’il faut savoir ce jeudi | Nvidia, train à grande fréquence et enfants enfermés",
+      "excerpt": "La journée passe vite. Voici les trois nouvelles qui ont marqué l’actualité jusqu’ici.",
+      "published": "2026-11-12T21:45:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0ae6b2bed82f394cb0ba0f4c5d5f39fa.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
       "id": "d13609c40673752d",
       "guid": "b0d9f57221bd361da372f413bb9b126e",
       "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-12/villeray-saint-michel-parc-extension/une-pietonne-de-79-ans-happee-par-un-vus-dans-un-etat-critique.php",
@@ -89,6 +111,17 @@
       "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/4240aca4a0833fc5b401bc8496e36aca.jpg",
       "type": "article",
       "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "835876f1bdd04976",
+      "guid": "9964759dfac6380c8cceff70ff21ba9c",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-12/incendies-repetes/deconstruction-d-urgence-dans-un-campement-du-plateau-mont-royal.php",
+      "title": "Incendies répétés | Déconstruction d’urgence dans un campement du Plateau Mont-Royal",
+      "excerpt": "Une déconstruction de structures dans un campement pour personne en situation d’itinérance est en cours dans le Plateau Mont-Royal. Huit installations ont été défaites, à la demande du Service de sécurité incendie de Montréal (SIM).",
+      "published": "2026-11-12T15:11:24.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/02a45c23e9db3d7395257e73ee051bdd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
     },
     {
       "id": "5c6532dce309402b",

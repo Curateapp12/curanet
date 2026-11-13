@@ -3,6 +3,138 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "06a06756d850d921",
+      "guid": "https://ici.radio-canada.ca/article/info/2300278/transit-edmonton-transport-en-commun",
+      "link": "https://ici.radio-canada.ca/article/info/2300278/transit-edmonton-transport-en-commun",
+      "title": "Un partenariat pour améliorer l’expérience de transport collectif à Edmonton",
+      "excerpt": "Transit devient l’application officielle du transport en commun à Edmonton.",
+      "published": "2026-11-12T23:59:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/transit-edmonton-transport-en-commun.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "9a6bb12ef31ea799",
+      "guid": "https://ici.radio-canada.ca/article/info/2300165/emploi-foire-etudiants-marche-ontario",
+      "link": "https://ici.radio-canada.ca/article/info/2300165/emploi-foire-etudiants-marche-ontario",
+      "title": "Trouver un emploi pour le temps des fêtes : le souhait de plusieurs jeunes diplômés",
+      "excerpt": "À l'approche des fêtes de fin d'année, la concurrence s'intensifie sur le marché du travail, selon un expert.",
+      "published": "2026-11-12T23:57:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/emploi-foire-etudiants-marche-ontario.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "f9f1bd4dd7b962af",
+      "guid": "https://ici.radio-canada.ca/article/info/2300280/innotex-perte-emploi-richmond-pompiers",
+      "link": "https://ici.radio-canada.ca/article/info/2300280/innotex-perte-emploi-richmond-pompiers",
+      "title": "Une quarantaine d’employés d’Innotex perdent leur emploi",
+      "excerpt": "Avec les tarifs douaniers de 50 %, le PDG dit ne plus y arriver.",
+      "published": "2026-11-12T23:56:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/innotex-perte-emploi-richmond-pompiers.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "874dbc29d957d713",
+      "guid": "https://ici.radio-canada.ca/article/info/2300267/emploi-temiscaming-foire-salon-immigrants",
+      "link": "https://ici.radio-canada.ca/article/info/2300267/emploi-temiscaming-foire-salon-immigrants",
+      "title": "Témiscaming vante ses opportunités d’emploi malgré l’incertitude économique",
+      "excerpt": "Témiscaming a tenu une Foire de l’emploi en présence de chercheurs d'emplois venus de Montréal.",
+      "published": "2026-11-12T23:26:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/foire-emploi-temiscaming-travailleurs.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "9d6feaab6a42bb3b",
+      "guid": "https://ici.radio-canada.ca/article/info/2300252/parcs-canada-femeture-detachements-nord",
+      "link": "https://ici.radio-canada.ca/article/info/2300252/parcs-canada-femeture-detachements-nord",
+      "title": "Parcs Canada va fermer trois détachements de gardes de parc dans le Nord canadien",
+      "excerpt": "L'agence fédérale compte centraliser ces services de garde de parc à Yellowknife.",
+      "published": "2026-11-12T22:46:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/parc-national-reserve-kluane-yukon.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "05d6b7da810d41c9",
+      "guid": "https://ici.radio-canada.ca/article/info/2300247/quebec-linge-licensiemment-usine-nettoyage",
+      "link": "https://ici.radio-canada.ca/article/info/2300247/quebec-linge-licensiemment-usine-nettoyage",
+      "title": "Une vingtaine d’employés licenciés chez Québec Linge à Saguenay",
+      "excerpt": "L'usine ferme son département de nettoyage d'uniformes, alors que les opérations se poursuivent.",
+      "published": "2026-11-12T22:15:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/quebec-linge-licensiemment-usine-nettoyage.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "fd91732eb866af42",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10808156/50-ans-pour-premier-centre-commercial-autochtone-au-pays",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10808156/50-ans-pour-premier-centre-commercial-autochtone-au-pays",
+      "title": "50 ans pour le premier centre commercial autochtone au pays",
+      "excerpt": "Les Galeries montagnaises sont un moteur économique pour la communauté de Uashat mak Mani-utenam, même si beaucoup de choses ont changé en un demi-siècle.",
+      "published": "2026-11-12T22:09:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sdeum-itum-conseil-bande-economie-36015.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "3b413b2f2c07c481",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10808126/50-ans-pour-premier-centre-commercial-autochtone-au-pays",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10808126/50-ans-pour-premier-centre-commercial-autochtone-au-pays",
+      "title": "50 ans pour le premier centre commercial autochtone au pays",
+      "excerpt": "Les Galeries montagnaises sont un moteur économique pour la communauté de Uashat mak Mani-utenam, même si beaucoup de choses ont changé en un demi-siècle.",
+      "published": "2026-11-12T22:02:09.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "2b7d676a03ecc1c3",
+      "guid": "https://ici.radio-canada.ca/article/info/2300210/ile-granville-consultation-publique-vancouver",
+      "link": "https://ici.radio-canada.ca/article/info/2300210/ile-granville-consultation-publique-vancouver",
+      "title": "L’île Granville s’interroge sur son avenir",
+      "excerpt": "L’emblématique péninsule de Vancouver a besoin de 250 millions de dollars pour entretenir ses infrastructures.",
+      "published": "2026-11-12T21:17:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ile-granville-consultation-publique-vancouver.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "68df158635d230f1",
+      "guid": "https://ici.radio-canada.ca/article/info/2300224/rachat-permis-peche-huitres-ipe-msx",
+      "link": "https://ici.radio-canada.ca/article/info/2300224/rachat-permis-peche-huitres-ipe-msx",
+      "title": "125 pêcheurs ont renoncé à leur permis de pêche aux huîtres à l’Î.-P.-É.",
+      "excerpt": "L’industrie a été décimée par deux maladies de l’huître. Le fédéral offrait de racheter les permis.",
+      "published": "2026-11-12T21:09:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bob-macleod-huitres-pei-shellfish-association.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "cc1e028eb4659580",
+      "guid": "https://ici.radio-canada.ca/videos/1-10808004/une-formation-en-hotellerie-a-sapiniere-val-david-en-1957",
+      "link": "https://ici.radio-canada.ca/videos/1-10808004/une-formation-en-hotellerie-a-sapiniere-val-david-en-1957",
+      "title": "Une formation en hôtellerie à La Sapinière de Val-David en 1957",
+      "excerpt": "En 1957, le journaliste Jean Ducharme consacre un reportage à la formation du personnel hôtelier au Québec. À l’hôtel La Sapinière de Val-David, dans les Laurentides, des cours de perfectionnement du ministère du Commerce et de l'Industrie du Québec sont spécialement conçus pour les propriétaires…",
+      "published": "2026-11-12T19:34:07.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/61ac5118-3630-4a88-8027-732d2dd81e75/HR/2026-11-12_14_22_47_ARCHIVESWEB_0001_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "555bf2dd3aacf2af",
+      "guid": "https://ici.radio-canada.ca/article/info/2300151/electricite-hydro-quebec-branchement-retard",
+      "link": "https://ici.radio-canada.ca/article/info/2300151/electricite-hydro-quebec-branchement-retard",
+      "title": "Des raccordements plus complexes expliquent en partie les délais d’Hydro-Québec",
+      "excerpt": "Hydro-Québec fait face à un volume plus important de demandes de raccordement au réseau électrique.",
+      "published": "2026-11-12T19:02:29.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/monteurs-de-lignes-hydro-quebec-tempete-2022.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
       "id": "c317e5f88a6e33d7",
       "guid": "https://ici.radio-canada.ca/article/info/2300124/motocycliste-rassemblement-port-dover-tradition",
       "link": "https://ici.radio-canada.ca/article/info/2300124/motocycliste-rassemblement-port-dover-tradition",

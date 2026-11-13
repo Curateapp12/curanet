@@ -3,6 +3,149 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "d3ec8c5195b7c49a",
+      "guid": "https://www.ledevoir.com/economie/techno/1024715/fondateur-successeur-designe-nvidia-navigue-vue",
+      "link": "https://www.ledevoir.com/economie/techno/1024715/fondateur-successeur-designe-nvidia-navigue-vue",
+      "title": "Sans son fondateur et sans successeur désigné, Nvidia navigue à vue",
+      "excerpt": "Examen des répercussions de la tempête causée par la démission de Jensen Huang.",
+      "published": "2026-11-12T23:58:53.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "2a65a9ad0e14c51f",
+      "guid": "https://www.ledevoir.com/economie/1024703/ottawa-transmet-stellantis-avis-defaut",
+      "link": "https://www.ledevoir.com/economie/1024703/ottawa-transmet-stellantis-avis-defaut",
+      "title": "Ottawa transmet à Stellantis un avis de défaut",
+      "excerpt": "La ministre de l’Industrie, Mélanie Joly, indique que l’entreprise dispose de 30 jours pour remédier à la situation.",
+      "published": "2026-11-12T23:29:35.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "63b4afe277ee3527",
+      "guid": "https://www.ledevoir.com/monde/europe/1024694/journalistes-francais-demandent-respect-droit-informer-lors-manifestations",
+      "link": "https://www.ledevoir.com/monde/europe/1024694/journalistes-francais-demandent-respect-droit-informer-lors-manifestations",
+      "title": "Les journalistes français demandent le respect du droit d’informer lors des manifestations",
+      "excerpt": "Plusieurs plaintes pénales ont été déposées par des reporters blessés.",
+      "published": "2026-11-12T23:09:13.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "0edc1a1933cc59ed",
+      "guid": "https://www.ledevoir.com/monde/etats-unis/1024646/quoi-victoire-democrate-mississippi-releve-elle-presque-miracle",
+      "link": "https://www.ledevoir.com/monde/etats-unis/1024646/quoi-victoire-democrate-mississippi-releve-elle-presque-miracle",
+      "title": "En quoi la victoire démocrate au Mississippi relève-t-elle presque du miracle?",
+      "excerpt": "À 43 ans, Scott Colom devient le premier homme noir à remporter un siège de sénateur du Mississippi depuis 1881.",
+      "published": "2026-11-12T22:25:55.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "8a42c792d19a23fc",
+      "guid": "https://www.ledevoir.com/monde/etats-unis/1024679/huit-morts-effondrement-immeuble-new-york",
+      "link": "https://www.ledevoir.com/monde/etats-unis/1024679/huit-morts-effondrement-immeuble-new-york",
+      "title": "Huit morts dans l’effondrement d’un immeuble à New York",
+      "excerpt": "Les secouristes ont passé la nuit à fouiller le site où l’immeuble s’est effondré à Flatbush.",
+      "published": "2026-11-12T22:22:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "74c9dfc2156e4b9a",
+      "guid": "https://www.ledevoir.com/culture/cinema/1024676/incertitudes-quant-tenue-proces-appel-gerard-depardieu-agressions-sexuelles",
+      "link": "https://www.ledevoir.com/culture/cinema/1024676/incertitudes-quant-tenue-proces-appel-gerard-depardieu-agressions-sexuelles",
+      "title": "Incertitudes quant à la tenue du procès en appel de Gérard Depardieu pour agressions sexuelles",
+      "excerpt": "L’acteur envisagerait de se désister, ce qui rendrait définitive sa condamnation à 18 mois de prison avec sursis.",
+      "published": "2026-11-12T21:40:55.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "eb005b3650818012",
+      "guid": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu",
+      "link": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu",
+      "title": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+      "excerpt": "Certaines d’elles assument des responsabilités qui incombaient à deux personnes, dit le ministère du Conseil exécutif.",
+      "published": "2026-11-12T21:31:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "bbe6ec49f888b055",
+      "guid": "https://www.ledevoir.com/actualites/justice/1024634/quebec-defend-devant-juge-constitutionnalite-tribunal-unifie-famille",
+      "link": "https://www.ledevoir.com/actualites/justice/1024634/quebec-defend-devant-juge-constitutionnalite-tribunal-unifie-famille",
+      "title": "Devant la justice, Québec plaide en faveur du Tribunal unifié de la famille",
+      "excerpt": "L’avocate Anne-France Goldwater cherche à faire déclarer inconstitutionnelle la loi qui a créé ce tribunal l’an dernier.",
+      "published": "2026-11-12T21:02:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "7896d38c8914a358",
+      "guid": "https://www.ledevoir.com/culture/1024628/lachee-lousse-rachelle-elie-toute-splendeur",
+      "link": "https://www.ledevoir.com/culture/1024628/lachee-lousse-rachelle-elie-toute-splendeur",
+      "title": "«Lâchée lousse» : Rachelle Elie dans toute sa splendeur",
+      "excerpt": "Libérateur, inspirant et férocement comique, le premier spectacle solo en français de Rachelle Elie donne des ailes.",
+      "published": "2026-11-12T20:50:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "324bcd7ba71fdc03",
+      "guid": "https://www.ledevoir.com/politique/quebec/1024625/sebastien-atsous-autoproclame-ministre-bonheur-prend-risque-zero",
+      "link": "https://www.ledevoir.com/politique/quebec/1024625/sebastien-atsous-autoproclame-ministre-bonheur-prend-risque-zero",
+      "title": "Sébastien D’Astous, autoproclamé «ministre du Bonheur», critique l’approche «risque zéro»",
+      "excerpt": "Le nouveau ministre délégué à l’Efficacité croit que l’État ne doit pas le viser par les normes qu’il impose.",
+      "published": "2026-11-12T20:47:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "cf136e2733c99e84",
+      "guid": "https://www.ledevoir.com/economie/techno/1024616/panne-generalisee-touche-applications-messagerie-microsoft",
+      "link": "https://www.ledevoir.com/economie/techno/1024616/panne-generalisee-touche-applications-messagerie-microsoft",
+      "title": "Une panne majeure touche la messagerie Outlook de Microsoft",
+      "excerpt": "Les utilisateurs signalent des problèmes avec Outlook, Teams, Copilot et l’ensemble des services Microsoft 365.",
+      "published": "2026-11-12T20:01:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "33de5d849d2584ac",
+      "guid": "https://www.ledevoir.com/culture/musique/1024610/50-ans-apres-sortie-heptade-resonne-comme-geste-profond-amitie-connexion",
+      "link": "https://www.ledevoir.com/culture/musique/1024610/50-ans-apres-sortie-heptade-resonne-comme-geste-profond-amitie-connexion",
+      "title": "50 ans après sa sortie, «L’heptade» résonne comme un geste profond «d’amitié et de connexion»",
+      "excerpt": "Pour une partie de la relève musicale québécoise, l’ultime album d’Harmonium est devenu un album référence.",
+      "published": "2026-11-12T19:38:15.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "0c6bd488083aa1b1",
+      "guid": "https://www.ledevoir.com/actualites/societe/1024601/educ-alcool-veut-concretiser-virage-vers-informations-scientifiques-plus-jour",
+      "link": "https://www.ledevoir.com/actualites/societe/1024601/educ-alcool-veut-concretiser-virage-vers-informations-scientifiques-plus-jour",
+      "title": "Éduc’alcool modernise sa façon de parler d’alcool",
+      "excerpt": "L’organisme organise un sommet pour «mettre la science» au cœur des discussions.",
+      "published": "2026-11-12T19:01:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
       "id": "edf3400783230a9e",
       "guid": "https://www.ledevoir.com/actualites/science/1024583/exposition-insuffisante-lumiere-augmenterait-risque-demence",
       "link": "https://www.ledevoir.com/actualites/science/1024583/exposition-insuffisante-lumiere-augmenterait-risque-demence",
@@ -166,6 +309,17 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-11-12T18:53:36.692Z"
+    },
+    {
+      "id": "e7b0c0e3ce4908a8",
+      "guid": "https://www.ledevoir.com/actualites/societe/1024613/pietonne-79-ans-etat-critique-montreal",
+      "link": "https://www.ledevoir.com/actualites/societe/1024613/pietonne-79-ans-etat-critique-montreal",
+      "title": "Une piétonne de 79 ans dans un état critique à Montréal",
+      "excerpt": "L’accident s’est produit sur l’avenue Papineau, dans l’arrondissement de Villeray–Saint-Michel–Parc-Extension.",
+      "published": "2026-11-12T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
     },
     {
       "id": "067f53e06dbe752a",

@@ -3,6 +3,83 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "70b00f33cb175999",
+      "guid": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "excerpt": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+      "published": "2026-11-12T22:59:51.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "c95a2fac556e00d3",
+      "guid": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "excerpt": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "published": "2026-11-12T22:28:47.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "75c7ee7437ec7c0d",
+      "guid": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "excerpt": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "published": "2026-11-12T19:59:59.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "68e844945f31335f",
+      "guid": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+      "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+      "excerpt": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
+      "published": "2026-11-12T19:49:11.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "77a7ce670b8cd0eb",
+      "guid": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "excerpt": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "published": "2026-11-12T19:23:03.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "0d3c69cac347f41e",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+      "excerpt": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+      "published": "2026-11-12T19:09:57.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "3a3ea46b43b8fa68",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "excerpt": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "published": "2026-11-12T18:57:45.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
       "id": "ebb31e4e108a5c4d",
       "guid": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
       "link": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
