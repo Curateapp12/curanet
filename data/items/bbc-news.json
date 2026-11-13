@@ -3,6 +3,149 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "a2c37565d5f6a3f8",
+      "guid": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo",
+      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+      "excerpt": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+      "published": "2026-11-13T22:12:33.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d291/live/9c151020-dfa5-11f1-ab35-8541e0a03fdd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "3b15f8e2fa56893e",
+      "guid": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo",
+      "title": "New campaign against EU membership launches ahead of UK-EU summit",
+      "excerpt": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
+      "published": "2026-11-13T21:39:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b01/live/7a54b2f0-c723-11f1-b881-4391ac746e04.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "92c82038e9486b65",
+      "guid": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo#5",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo",
+      "title": "Dept Q crew member dies after being injured at Edinburgh film studio",
+      "excerpt": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
+      "published": "2026-11-13T21:23:46.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f46/live/9a3c9120-df59-11f1-9172-871e44a840d8.png",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "5388d13b7a3706f0",
+      "guid": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "excerpt": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "published": "2026-11-13T21:15:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "a87af2f6d322bc3a",
+      "guid": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "excerpt": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "published": "2026-11-13T21:14:22.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "3c8ae75a09960951",
+      "guid": "https://www.bbc.co.uk/news/articles/c84gn943kne1o#5",
+      "link": "https://www.bbc.co.uk/news/articles/c84gn943kne1o",
+      "title": "Driver who fled to Latvia after killing schoolboy jailed",
+      "excerpt": "Aleksanders Dolars is brought to justice after fleeing the UK when he hit Keaton Slater at 70mph.",
+      "published": "2026-11-13T20:53:14.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f748/live/15eaf150-df81-11f1-93e1-3b657b665bcf.png",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "33dd2a3d8cb3f269",
+      "guid": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo#5",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo",
+      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+      "excerpt": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+      "published": "2026-11-13T19:01:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f2/live/78f78100-df9a-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "6c8b906f7bd8c833",
+      "guid": "https://www.bbc.co.uk/news/articles/cr5y139wplppo#5",
+      "link": "https://www.bbc.co.uk/news/articles/cr5y139wplppo",
+      "title": "Tories pay artist for Burnham images after legal threat",
+      "excerpt": "Stanley Chow had threatened to sue the Conservative Party for using his illustrations of the PM.",
+      "published": "2026-11-13T18:41:13.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d4/live/e6b0b330-c0cb-11f1-a5b0-6f550c662e91.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "fab849f83c619135",
+      "guid": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "excerpt": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "published": "2026-11-13T18:34:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "62482aa106911392",
+      "guid": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo#9",
+      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo",
+      "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
+      "excerpt": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
+      "published": "2026-11-13T17:15:52.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6642/live/c4fcb950-df84-11f1-a8e2-5b59832bb2f1.png",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "7ecf8ed008b0d8e2",
+      "guid": "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo",
+      "title": "Man jailed for grooming at least 70 girls online",
+      "excerpt": "Bilal Kazi targeted his victims - aged between 10 and 17 - using Snapchat, Wink and Roblox.",
+      "published": "2026-11-13T17:10:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5d4/live/26159f10-df8d-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "7330b4a06b5b289b",
+      "guid": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o",
+      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "excerpt": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
+      "published": "2026-11-13T16:53:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d86/live/54377b90-df86-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "d52444b99fb9fa3e",
+      "guid": "https://www.bbc.co.uk/news/articles/cq39glwprknjo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "excerpt": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "published": "2026-11-13T16:40:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
       "id": "397c0c6145764f63",
       "guid": "https://www.bbc.co.uk/news/articles/c51k9709krxvo#1",
       "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo",
@@ -34,6 +177,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece6/live/20d43a70-df60-11f1-a701-fddedf244c16.jpg",
       "type": "article",
       "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "eb58be9688893c53",
+      "guid": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go#5",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "excerpt": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "published": "2026-11-13T15:42:52.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
     },
     {
       "id": "66e81a998246cd46",
@@ -243,6 +397,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg",
       "type": "article",
       "addedAt": "2026-11-13T16:19:45.187Z"
+    },
+    {
+      "id": "51fb1172a6c84f32",
+      "guid": "https://www.bbc.co.uk/news/articles/c6702z750zvyo#3",
+      "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "excerpt": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+      "published": "2026-11-13T08:20:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
     },
     {
       "id": "9024dba0337b63a3",

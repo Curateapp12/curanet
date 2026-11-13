@@ -3,6 +3,72 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "d1bdb0722f55f2a3",
+      "guid": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "excerpt": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "published": "2026-11-13T21:59:01.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "c479f2841d4a388a",
+      "guid": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "excerpt": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "published": "2026-11-13T21:20:47.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "577455be57bd818e",
+      "guid": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "title": "In elephants, the resilience of communities has its limits",
+      "excerpt": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+      "published": "2026-11-13T20:03:13.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156609-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "61497b9e7ad86e53",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "excerpt": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+      "published": "2026-11-13T19:49:16.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "743e8b03b2d96bb7",
+      "guid": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "excerpt": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "published": "2026-11-13T17:25:45.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "fcdcf30ed87c5681",
+      "guid": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "excerpt": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "published": "2026-11-13T16:26:32.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
       "id": "625517f21d455e7b",
       "guid": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
       "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",

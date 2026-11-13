@@ -3,6 +3,39 @@
   "sourceId": "la-presse-arts",
   "items": [
     {
+      "id": "ff1e678b469a4df1",
+      "guid": "88ef30bc833a3717b03e5c6331af3ab5",
+      "link": "https://www.lapresse.ca/arts/television/2026-11-13/l-animatrice-aline-desjardins-n-est-plus.php",
+      "title": "L’animatrice Aline Desjardins n’est plus",
+      "excerpt": "La journaliste et animatrice Aline Desjardins est morte ce vendredi.",
+      "published": "2026-11-13T19:45:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/e6aa5be7/e160dde78d423f7cb4232849575764f5.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "648fbeff54a85c91",
+      "guid": "ac4562de8d633f5eb1422701e684b6ec",
+      "link": "https://www.lapresse.ca/arts/theatre/2026-11-13/critique-de-confessions-d-un-enfant-du-siecle-dernier/michel-tremblay-en-cinq-voix.php",
+      "title": "Critique de Confessions d’un enfant du siècle dernier | Michel Tremblay en cinq voix",
+      "excerpt": "Les interprètes de cette dernière création du dramaturge portent la voix de Tremblay avec brio",
+      "published": "2026-11-13T19:15:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7a27fa8faf773ca4b5c0c4f8966b24cc.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "0fd6a03689b67261",
+      "guid": "386ea100f1203806bbb5a667eddae3e2",
+      "link": "https://www.lapresse.ca/arts/musique/2026-11-13/sorties-musicales-du-vendredi/de-fine-food-market-a-teddybear-quels-sont-les-albums-a-ecouter-cette-semaine.php",
+      "title": "Sorties musicales du vendredi | De Fine Food Market à TeddyBear… Quels sont les albums à écouter cette semaine ?",
+      "excerpt": "Cent mille pistes sont déposées sur les plateformes d’écoute chaque jour. Nos journalistes attirent votre attention sur les albums qui les emballent ces jours-ci.",
+      "published": "2026-11-13T18:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/c93647f4e5c23a279c53f6d29b2cbc9d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
       "id": "9587a8cd4290b886",
       "guid": "05656dc2e6e4352896bacf5ab093f28c",
       "link": "https://www.lapresse.ca/arts/musique/2026-11-13/outils-lances-par-deux-quebecoises/quand-l-ia-devient-agent-d-artiste.php",

@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "06ac28e1256e4ec6",
+      "guid": "https://ici.radio-canada.ca/article/info/2300497/fermeture-temporaire-scierie-outardes",
+      "link": "https://ici.radio-canada.ca/article/info/2300497/fermeture-temporaire-scierie-outardes",
+      "title": "Domtar annonce une fermeture temporaire de la scierie Outardes",
+      "excerpt": "Domtar a annoncé la fermeture pour une durée indéterminée de la Scierie des Outardes de Pointe-aux-Outardes.",
+      "published": "2026-11-13T22:03:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/videojournal/16x9/vjcn-pessamit-domtar-plainte-ministere-quebec-foret-innu.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "f0a0ea114b8cbda5",
+      "guid": "https://ici.radio-canada.ca/article/info/2300395/faillite-scierie-st-michel-tarifs",
+      "link": "https://ici.radio-canada.ca/article/info/2300395/faillite-scierie-st-michel-tarifs",
+      "title": "La Scierie St-Michel ferme définitivement ses portes",
+      "excerpt": "Après des mois de difficultés liés aux tarifs douaniers, la Scierie a fait faillite mardi.",
+      "published": "2026-11-13T21:48:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/scierie-st-michel.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "85212fb218b32545",
+      "guid": "https://ici.radio-canada.ca/article/info/2300482/vols-interieurs-arret-faa-controle-aerien",
+      "link": "https://ici.radio-canada.ca/article/info/2300482/vols-interieurs-arret-faa-controle-aerien",
+      "title": "Les États-Unis clouent au sol tous les vols « pour des raisons de sécurité »",
+      "excerpt": "La FAA a signalé de graves problèmes de communication avec le contrôle aérien.",
+      "published": "2026-11-13T21:40:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/etats-unis-aeroport-avions.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "befa48789c0136e4",
+      "guid": "https://ici.radio-canada.ca/article/info/2300472/hotel-sherbrooke-tournoi-hockey",
+      "link": "https://ici.radio-canada.ca/article/info/2300472/hotel-sherbrooke-tournoi-hockey",
+      "title": "Réserver une chambre d’hôtel à Sherbrooke, un défi?",
+      "excerpt": "Lors de son dernier passage à Sherbrooke, l'Océanic de Rimouski a dû loger ses joueurs à Victoriaville.",
+      "published": "2026-11-13T21:02:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/nouvelle-chambre-hotel-rimouski-imge3665.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "592559cacfab49a5",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10809014/ouverture-une-librairie-independante-a-drummondville",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10809014/ouverture-une-librairie-independante-a-drummondville",
+      "title": "Ouverture d’une librairie indépendante à Drummondville",
+      "excerpt": "Saviez-vous que le Centre-du-Québec était la seule région sans librairie indépendante? Dès le 14 novembre, la librairie Temps Libre s’installe au centre-ville de Drummondville.",
+      "published": "2026-11-13T20:18:53.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/drummondville-librairie-temps-libre-14454.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "6b7a63214f7dcae1",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10809013/au-coeur-une-manifestation-etudiante",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10809013/au-coeur-une-manifestation-etudiante",
+      "title": "Au cœur d’une manifestation étudiante",
+      "excerpt": "On a assisté à une manifestation des étudiants de l’Université du Québec à Rimouski pour comprendre ce qu’ils revendiquent. Ils étaient 3000 en grève cette semaine, à Rimouski.",
+      "published": "2026-11-13T20:18:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/manifestation-uqar-rimouski-etudiants-greve.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "de321d1ff394a12a",
+      "guid": "https://ici.radio-canada.ca/article/info/2300423/temiscaming-seduction-emploi-immigrant",
+      "link": "https://ici.radio-canada.ca/article/info/2300423/temiscaming-seduction-emploi-immigrant",
+      "title": "Témiscaming lance la campagne « Choisir le S.U.D. » pour attirer des travailleurs",
+      "excerpt": "Malgré les temps incertains qui touchent sa municipalité, le maire de Témiscaming reste optimiste.",
+      "published": "2026-11-13T19:41:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/restaurant-temrose-temiscaming.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "0f2b448f7d7e98ce",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17860/uber-conductrice-femme-canada",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17860/uber-conductrice-femme-canada",
+      "title": "Bientôt possible de demander une conductrice sur Uber",
+      "excerpt": "À compter du 17 novembre au Canada, l’application Uber permettra aux passagères et aux adolescents de s’assurer qu’une femme soit derrière le volant.",
+      "published": "2026-11-13T18:02:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/uber-femme-passagere-trajet.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "e1223d140888dad5",
+      "guid": "https://ici.radio-canada.ca/article/info/2300144/tredsi-bois-traite-ottawa-pcp",
+      "link": "https://ici.radio-canada.ca/article/info/2300144/tredsi-bois-traite-ottawa-pcp",
+      "title": "Bois traité : un répit d’Ottawa redonne espoir à Tred’si",
+      "excerpt": "Tred'si est la seule entreprise à recycler ces poteaux électriques au Québec.",
+      "published": "2026-11-13T17:19:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/tredsi-poteaux-recuperes-bois-.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
       "id": "088c2da0de26ff04",
       "guid": "https://ici.radio-canada.ca/en-bref/1-10808676/prendre-volant-ferrari-daytona-1972",
       "link": "https://ici.radio-canada.ca/en-bref/1-10808676/prendre-volant-ferrari-daytona-1972",
