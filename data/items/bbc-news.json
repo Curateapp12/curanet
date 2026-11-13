@@ -3,6 +3,215 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "9024dba0337b63a3",
+      "guid": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+      "title": "What we know about the global Microsoft outage",
+      "excerpt": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "published": "2026-11-13T07:37:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41f4/live/622835f0-df31-11f1-911b-97a04d97270a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "f9485dd5e7326042",
+      "guid": "https://www.bbc.co.uk/sport/boxing/articles/c623jlg88yymo#8",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c623jlg88yymo",
+      "title": "How Riley went from KSI's trainer to world-title dream",
+      "excerpt": "Viddal Riley - who defends his European cruiserweight title on Saturday - talks through his journey from training YouTuber KSI to nearing a world-title shot.",
+      "published": "2026-11-13T07:30:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/099d/live/4d635300-ddda-11f1-b865-d17d8611efca.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "9804582556c770d5",
+      "guid": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o#2",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o",
+      "title": "What happened overnight with the Microsoft global outage",
+      "excerpt": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "published": "2026-11-13T07:18:17.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b972/live/302b14b0-df30-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "b8b602b92172ee8f",
+      "guid": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "excerpt": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+      "published": "2026-11-13T07:01:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c93/live/2288e9c0-df28-11f1-b396-2b394d1b806d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "054e48408218d523",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o",
+      "title": "Liverpool and Van Dijk have a decision to make",
+      "excerpt": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
+      "published": "2026-11-13T06:57:25.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f4/live/e4ed5c50-ddeb-11f1-9204-cdcddf7d901c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "49310a8c1f16115e",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo#8",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo",
+      "title": "Whatever happened to the diamond that went missing in F1 crash?",
+      "excerpt": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
+      "published": "2026-11-13T06:12:20.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "6266a3e7dbcb5ced",
+      "guid": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo",
+      "title": "Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds",
+      "excerpt": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
+      "published": "2026-11-13T06:00:44.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bf/live/f63106d0-de89-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "9de32c41f69cc2e9",
+      "guid": "https://www.bbc.co.uk/news/articles/cm702zql1l0lo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm702zql1l0lo",
+      "title": "The Papers: 'Nvidia chief quits' and 'Six women say they too were preyed on by Brand'",
+      "excerpt": "The resignation of Jensen Huang following reports he had an affair with a suspected spy leads a number Friday's papers.",
+      "published": "2026-11-13T04:36:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/d3f15750-defc-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "3f1845f4c4b83952",
+      "guid": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro#4",
+      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro",
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "excerpt": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+      "published": "2026-11-13T02:24:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f20/live/af01cfe0-df08-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "68db755fc1321f4b",
+      "guid": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "excerpt": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "published": "2026-11-13T02:01:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "20de2a73c46c325b",
+      "guid": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo",
+      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+      "excerpt": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+      "published": "2026-11-13T01:17:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "70234e83dc7a4d30",
+      "guid": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo#1",
+      "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo",
+      "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+      "excerpt": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+      "published": "2026-11-13T00:55:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e505/live/77db9650-dec1-11f1-86d5-71a9f29d1c99.png",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "5887f5dbec2da7a6",
+      "guid": "https://www.bbc.co.uk/news/articles/c98r7dlj6v2go#4",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7dlj6v2go",
+      "title": "MI5 will need proof to be believed in future, says Leveson after BBC investigation",
+      "excerpt": "The BBC exposed how the security service had lied to three courts concerning Agent X.",
+      "published": "2026-11-13T00:54:50.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79c9/live/375f6790-decc-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "8e124288b6b70953",
+      "guid": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o",
+      "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
+      "excerpt": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+      "published": "2026-11-13T00:54:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8023/live/c0a54e10-df2c-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "24b1f7e9adc38ef9",
+      "guid": "https://www.bbc.co.uk/news/articles/cm369259g0j2o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm369259g0j2o",
+      "title": "The school where white working-class pupils defy the odds",
+      "excerpt": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity",
+      "published": "2026-11-13T00:53:49.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2494/live/5aab5220-deb5-11f1-93e1-3b657b665bcf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "4d04ee3d6636af71",
+      "guid": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo#2",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo",
+      "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
+      "excerpt": "She is the first British female solo singer to play a five-gig residency at the venue.",
+      "published": "2026-11-13T00:24:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5082/live/72d9ab70-df33-11f1-a701-fddedf244c16.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "97dfd9f2516761f6",
+      "guid": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o#2",
+      "link": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o",
+      "title": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
+      "excerpt": "The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault.",
+      "published": "2026-11-13T00:15:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12b4/live/eae03630-de92-11f1-a701-fddedf244c16.png",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "9bbf4200ce3ea618",
+      "guid": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o",
+      "title": "Ankle injuries are more common than you think - here's how to protect yours",
+      "excerpt": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after your ankles.",
+      "published": "2026-11-13T00:14:12.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/292f/live/caa45880-deae-11f1-8253-3f203a001288.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "5d96793560738122",
+      "guid": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "excerpt": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "published": "2026-11-13T00:13:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
       "id": "d2ed64d26f67dc6c",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#1",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo",
@@ -100,6 +309,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa9/live/70d26730-deda-11f1-a701-fddedf244c16.jpg",
       "type": "article",
       "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "a0cf1eb8b2629e95",
+      "guid": "https://www.bbc.co.uk/news/articles/cmkgk0w34lkpo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgk0w34lkpo",
+      "title": "Weekly quiz: Who's joining Wayne Rooney in the I'm A Celebrity jungle?",
+      "excerpt": "How much attention did you pay to what happened in the world over the past seven days?",
+      "published": "2026-11-12T20:22:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/3c227540-dec9-11f1-b441-2b33b063138f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
     },
     {
       "id": "86a5f3e77fe39dac",

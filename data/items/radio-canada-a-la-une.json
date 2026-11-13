@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "435e928b207c1f5e",
+      "guid": "https://ici.radio-canada.ca/article/info/2300301/haiti-forces-gangs-reprise-stade-soccer",
+      "link": "https://ici.radio-canada.ca/article/info/2300301/haiti-forces-gangs-reprise-stade-soccer",
+      "title": "Les forces haïtiennes reprennent aux gangs le stade de l’équipe nationale de soccer",
+      "excerpt": "En raison des violences des gangs, la sélection de soccer haïtienne était contrainte de jouer à Curaçao.",
+      "published": "2026-11-13T04:11:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/haiti-87465.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "58729af23fe261c2",
+      "guid": "https://ici.radio-canada.ca/article/info/2300304/paraguay-asuncion-crise-bancaire-ueno",
+      "link": "https://ici.radio-canada.ca/article/info/2300304/paraguay-asuncion-crise-bancaire-ueno",
+      "title": "« L’argent a disparu » : onde de choc de la crise bancaire Ueno au Paraguay",
+      "excerpt": "Les paiements au marché se faisaient surtout par voie numérique, et le liquide avait presque disparu.",
+      "published": "2026-11-13T03:17:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/paraguay-25721.png",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
+      "id": "58172d0966a802b2",
+      "guid": "https://ici.radio-canada.ca/article/info/2300296/negociations-ukraine-presence-europeens-zelensky",
+      "link": "https://ici.radio-canada.ca/article/info/2300296/negociations-ukraine-presence-europeens-zelensky",
+      "title": "Les Européens présents aux prochaines négociations sur l’Ukraine, annonce Zelensky",
+      "excerpt": "Le président ukrainien, Volodymyr Zelensky, a rencontré jeudi les émissaires américains à Dublin, en Irlande.",
+      "published": "2026-11-13T01:13:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/volodymyr-zelensky-steve-witkoff-jared-kushner.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
+    },
+    {
       "id": "5760b659a30c2e47",
       "guid": "https://ici.radio-canada.ca/article/info/2300244/caravane-migrants-mexique-trump-menace-tarifs",
       "link": "https://ici.radio-canada.ca/article/info/2300244/caravane-migrants-mexique-trump-menace-tarifs",
@@ -45,6 +78,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/melanie-joly-ministre-industrie-19990.jpg",
       "type": "article",
       "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "c1675977a3c30f2e",
+      "guid": "https://ici.radio-canada.ca/article/info/2300186/pollution-changement-climat",
+      "link": "https://ici.radio-canada.ca/article/info/2300186/pollution-changement-climat",
+      "title": "L’Alberta, potentiel maillon faible contre le méthane",
+      "excerpt": "L’Alberta et Ottawa négocient une équivalence dans la réduction de ces émissions.",
+      "published": "2026-11-12T20:29:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/flaring-mine-suncor-sables-bitumineux.jpg",
+      "type": "article",
+      "addedAt": "2026-11-13T07:55:31.070Z"
     },
     {
       "id": "f9566ad9746358ec",
