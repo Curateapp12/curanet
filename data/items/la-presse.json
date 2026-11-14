@@ -3,6 +3,72 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "5e1634ae286ee52d",
+      "guid": "2ef0783d11c4318198c780ed79d49489",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-14/condamne-a-deux-ans-de-penitencier/un-ex-enseignant-terrorisait-une-ado-grace-a-l-ia.php",
+      "title": "Condamné à deux ans de pénitencier | Un ex-enseignant terrorisait une ado grâce à l’IA",
+      "excerpt": "Un ex-enseignant montréalais a été condamné lundi à deux ans de pénitencier. Ce cyberprédateur sans empathie pour ses victimes a terrorisé une adolescente en lui envoyant des photos d’elle modifiées par l’intelligence artificielle.",
+      "published": "2026-11-14T17:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/b4742b849f16327587293c9a22027c0d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T17:05:00.373Z"
+    },
+    {
+      "id": "fdd8b3490bfc3760",
+      "guid": "1f04d4311e593b3baad26145acc819ca",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-14/lanaudiere/une-collision-frontale-fait-un-mort-et-deux-blesses-graves.php",
+      "title": "Lanaudière | Une collision frontale fait un mort et deux blessés graves",
+      "excerpt": "Une personne a perdu la vie et deux autres se trouvaient dans une situation critique, samedi matin, après une collision frontale entre deux véhicules à Saint-Lin–Laurentides, dans la région de Lanaudière.",
+      "published": "2026-11-14T16:47:31.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/8d5c02a0a13f3d2a90bcff9285be4c5c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T17:05:00.373Z"
+    },
+    {
+      "id": "c341dd00003fc141",
+      "guid": "57b644d6a7b93936a79862cced8d41e1",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-14/guerre-en-ukraine/le-canada-ne-faiblira-pas-dans-son-soutien-a-l-otan-affirme-mark-carney.php",
+      "title": "Guerre en Ukraine | Le Canada ne faiblira pas dans son soutien à l’OTAN, affirme Mark Carney",
+      "excerpt": "Le premier ministre Mark Carney a déclaré que le Canada ne faiblirait pas dans son soutien envers ses alliés de l’OTAN, alors que les dirigeants européens s’inquiètent de la volonté de la Russie de redéfinir l’équilibre sécuritaire sur le continent dans le cadre des négociations avec l’Ukraine.",
+      "published": "2026-11-14T15:51:33.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/f173dcba3e693da0abee90cf982d9489.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T17:05:00.373Z"
+    },
+    {
+      "id": "438ff84fc05fca6b",
+      "guid": "fccb805590633dd5b338a586baf70fbe",
+      "link": "https://www.lapresse.ca/actualites/2026-11-14/reouverture-de-l-espace-aerien/d-autres-annulations-et-des-retards-a-montreal.php",
+      "title": "Réouverture de l’espace aérien | D’autres annulations et des retards à Montréal",
+      "excerpt": "Le retour à la normale pour les voyageurs à l’aéroport Montréal-Trudeau pourrait prendre encore un certain temps, malgré la reprise du trafic aérien aux États-Unis après une panne nationale de quatre heures vendredi.",
+      "published": "2026-11-14T13:32:55.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/a004b84f6ee03439a2655c345fe1e109.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T17:05:00.373Z"
+    },
+    {
+      "id": "639f522036794fe9",
+      "guid": "4ed431bebb4f350c917744a4987dacc7",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-14/la-caq-l-ecureuil-et-les-batteries.php",
+      "title": "La CAQ, l’écureuil et les batteries",
+      "excerpt": "L’écureuil gris est un animal qui nous ressemble un peu.",
+      "published": "2026-11-14T12:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/c6af7822e92c38e398ba11d29e1b5384.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T17:05:00.373Z"
+    },
+    {
+      "id": "6964a2e56275ea22",
+      "guid": "3e55ef5b81f73931bcc5c573d22e1cdc",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-14/premier-gouvernement-du-parti-quebecois/derriere-la-grande-histoire.php",
+      "title": "Premier gouvernement du Parti québécois | Derrière la grande histoire",
+      "excerpt": "Le 15 novembre 1976, le Québec est en ébullition. C’est jour de vote.",
+      "published": "2026-11-14T11:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/14ee1466a0f039abaa3160308e9d1a65.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T17:05:00.373Z"
+    },
+    {
       "id": "6b44d2362fd941a4",
       "guid": "435ebddae3e438469ab941a601c25e44",
       "link": "https://www.lapresse.ca/actualites/politique/2026-11-14/premier-gouvernement-du-parti-quebecois/l-heritage-de-rene-levesque-50-ans-plus-tard.php",
