@@ -3,6 +3,72 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "6b44d2362fd941a4",
+      "guid": "435ebddae3e438469ab941a601c25e44",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-14/premier-gouvernement-du-parti-quebecois/l-heritage-de-rene-levesque-50-ans-plus-tard.php",
+      "title": "Premier gouvernement du Parti québécois | L’héritage de René Lévesque, 50 ans plus tard",
+      "excerpt": "Il y a 50 ans, le Québec élisait un gouvernement souverainiste pour la première fois de son histoire. En près de neuf ans, René Lévesque a entrepris bon nombre de réformes, dont plusieurs façonnent encore la société d’aujourd’hui. L’essayiste Jean-Charles Panneton, auteur de trois livres sur le…",
+      "published": "2026-11-14T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/a4b19d948ee6311baf38fc95abac8a43.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T10:22:46.724Z"
+    },
+    {
+      "id": "7cda5f054744e305",
+      "guid": "bed3c810ea0533d3a31dc5cd1c0f9e93",
+      "link": "https://www.lapresse.ca/actualites/editoriaux/2026-11-14/les-etudiants-ont-la-meche-courte.php",
+      "title": "Les étudiants ont la mèche courte",
+      "excerpt": "Manifestons d’abord, négocions ensuite. Voilà en gros la stratégie des étudiants qui ont brandi des pancartes toute la semaine en rêvant de « faire tomber la province entière en grève à l’hiver 2027 ».",
+      "published": "2026-11-14T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T10:22:46.724Z"
+    },
+    {
+      "id": "b5cf4548d337eff5",
+      "guid": "aaf086a886693d8b979df076fa1777e9",
+      "link": "https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php",
+      "title": "Grève étudiante | Première crise pour St-Pierre Plamondon ?",
+      "excerpt": "« On a la réputation d’être des petits enfants de riches, snobs et déconnectés, mais la mobilisation actuelle montre que les choses sont en train de changer. »",
+      "published": "2026-11-14T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/9f11a6ee60d43b45a3e0e93f8f370672.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T10:22:46.724Z"
+    },
+    {
+      "id": "bc04381750e5128a",
+      "guid": "b2e8d5419f7a3bba8a7d06b6324bd9aa",
+      "link": "https://www.lapresse.ca/actualites/caricatures/2026-11-14/apaisement-101.php",
+      "title": "Apaisement 101",
+      "excerpt": "",
+      "published": "2026-11-14T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/4bf48d3b/f4b0bc5a98873d64bfc6df7b484a6d8a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T10:22:46.724Z"
+    },
+    {
+      "id": "dd4b954c53efe986",
+      "guid": "cd7178d71cda3e739a8adb069496b937",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-14/quebec-et-ottawa-ne-veulent-pas-devoir-traduire-la-constitution.php",
+      "title": "Québec et Ottawa ne veulent pas devoir traduire la Constitution",
+      "excerpt": "Les gouvernements du Québec et du Canada auront au moins un point en commun lors du Sommet de la Francophonie : ils ne veulent pas que les tribunaux les obligent à adopter la Constitution canadienne en français dans son intégralité.",
+      "published": "2026-11-14T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7e75e5b121113bd781dd75a6d624088b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T10:22:46.724Z"
+    },
+    {
+      "id": "33a17f8cc337e4f5",
+      "guid": "864b0c4e511f3319bdf5f93c29f1de3d",
+      "link": "https://www.lapresse.ca/actualites/2026-11-14/espace-aerien-paralyse/bloques-a-l-aeroport-entre-deception-et-resignation.php",
+      "title": "Espace aérien paralysé | Bloqués à l’aéroport, entre déception et résignation",
+      "excerpt": "Stéphanie Rémillard s’est mise en route vers l’aéroport avec son conjoint et leurs trois enfants, tous excités au possible de partir pour Disney World, à Orlando. « Un voyage qui devait être magique », lance-t-elle, dépitée.",
+      "published": "2026-11-14T05:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/12efec469ec43b1194e65c708bac3da7.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T10:22:46.724Z"
+    },
+    {
       "id": "3295886add9ef7cf",
       "guid": "e94236dc44d136e0af9fb621c8eb2ccb",
       "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-13/blainville/le-casier-n-etait-pas-punitif-plaident-des-representants-des-employes.php",

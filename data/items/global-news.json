@@ -3,6 +3,39 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "96df685b0229f7ba",
+      "guid": "https://globalnews.ca/?p=12150796",
+      "link": "https://globalnews.ca/news/12150796/canada-philippines-trade-deal/",
+      "title": "Canada, Philippines conclude negotiations for free-trade agreement, aiming for 2027",
+      "excerpt": "Canada is also pursuing a broader trade agreement with the ASEAN bloc, which includes the Philippines and 10 other countries such as Thailand.",
+      "published": "2026-11-14T03:39:49.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/2d5a8cb1797081da08c85efd347cf9dc480df876e35d9b7f2df0ad207f53def2.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-14T10:22:46.724Z"
+    },
+    {
+      "id": "f0cc2caa096eb265",
+      "guid": "https://globalnews.ca/?p=12150452",
+      "link": "https://globalnews.ca/news/12150452/family-appeals-help-finding-missing-penticton-senior-dementia/",
+      "title": "Family appeals for help finding missing Penticton senior with dementia",
+      "excerpt": "The disappearance of 72-year-old Penticton resident Lawrence Jerry McAnulty, who goes by Jerry, is especially concerning as the senior has dementia.",
+      "published": "2026-11-14T03:36:20.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Jerry-missing.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-14T10:22:46.724Z"
+    },
+    {
+      "id": "d57ac0a2fa9c4991",
+      "guid": "https://globalnews.ca/?p=12149973",
+      "link": "https://globalnews.ca/news/12149973/video-chilliwack-reportedly-shows-assault-young-girl-rcmp/",
+      "title": "Video circulating in Chilliwack reportedly shows assault of young girl, RCMP says",
+      "excerpt": "Officers said that on Nov. 8, they received a report of an alleged assault involving a group of youths and a female victim that happened that evening.",
+      "published": "2026-11-14T03:31:20.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/WEB-6P-CHILLIWACK-ASSAULT-VIDEO.png",
+      "type": "article",
+      "addedAt": "2026-11-14T10:22:46.724Z"
+    },
+    {
       "id": "d2006f422992708a",
       "guid": "https://globalnews.ca/?p=12150290",
       "link": "https://globalnews.ca/news/12150290/alberta-oilsands-growth-program-royalties/",
@@ -12,6 +45,17 @@
       "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/04/March-unemployment.jpg?quality=65&strip=all",
       "type": "article",
       "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "7415dae475293bf5",
+      "guid": "https://globalnews.ca/?p=12149220",
+      "link": "https://globalnews.ca/the-curator/12149220/clever-sharkninja-products/",
+      "title": "The Curator: Wait, SharkNinja makes that? 8 clever products you didn’t know you needed",
+      "excerpt": "Discover 8 clever SharkNinja products you didn't know you needed, from innovative kitchen appliances and smart cleaning tools to beauty gadgets and outdoor cooking essentials.",
+      "published": "2026-11-14T01:00:24.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Frame-428-6.png",
+      "type": "article",
+      "addedAt": "2026-11-14T10:22:46.724Z"
     },
     {
       "id": "ecc14fcc59771ff8",
