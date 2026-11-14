@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "9bd498bf42863c4d",
+      "guid": "https://globalnews.ca/?p=12151278",
+      "link": "https://globalnews.ca/news/12151278/5-dead-cfb-wainwright/",
+      "title": "Fifth Canadian soldier has died after fire in Wainwright, CAF says",
+      "excerpt": "A fifth Canadian soldier has died from injuries sustained during a training exercise last month at Canadian Forces Base Wainwright in Alberta.",
+      "published": "2026-11-14T21:11:09.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Screenshot-2026-11-14-162717.png",
+      "type": "article",
+      "addedAt": "2026-11-14T21:28:14.031Z"
+    },
+    {
+      "id": "7a632b8d91ca7f52",
+      "guid": "https://globalnews.ca/?p=12151263",
+      "link": "https://globalnews.ca/news/12151263/new-orleans-port-sues/",
+      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship",
+      "excerpt": "All 197 passengers and crew on the American Heritage cruise ship survived Friday as well as the crew on the tanker.",
+      "published": "2026-11-14T20:35:39.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/New-Orleans-cruise-ship-e1794688516614.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-14T21:28:14.031Z"
+    },
+    {
+      "id": "5ef25474d8b9cf5a",
+      "guid": "https://globalnews.ca/?p=12151238",
+      "link": "https://globalnews.ca/news/12151238/mayerthorpe-alberta-fire/",
+      "title": "‘Major’ fire tears through small town northwest of Edmonton",
+      "excerpt": "At least three businesses were lost following a “major” fire that burned through the town centre in Mayerthorpe, Atla., the local mayor said.",
+      "published": "2026-11-14T20:18:32.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/mayerthorpe-fire-e1794686181244.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-14T21:28:14.031Z"
+    },
+    {
+      "id": "ceb20fcae7255378",
+      "guid": "https://globalnews.ca/news/12151214/alouettes-looking-for-better-result-in-grey-cup/",
+      "link": "https://globalnews.ca/news/12151214/alouettes-looking-for-better-result-in-grey-cup/",
+      "title": "Alouettes looking for better result in Grey Cup",
+      "excerpt": "Montreal Alouettes safety Nate Beauchemin has been experiencing a homecoming of sorts this week even though the Alouettes are officially the visiting team when they face the Edmonton Elks in Sunday's Grey Cup.",
+      "published": "2026-11-14T19:22:42.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/22844bec581cb80690a75a650c87e2a7172a5bfccb70e84437ee7022fd4c29de.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-14T21:28:14.031Z"
+    },
+    {
+      "id": "556230a59714185e",
+      "guid": "https://globalnews.ca/news/12151160/avalanche-stars-mackinnon-makar-to-miss-weeks/",
+      "link": "https://globalnews.ca/news/12151160/avalanche-stars-mackinnon-makar-to-miss-weeks/",
+      "title": "Avalanche stars MacKinnon, Makar to miss weeks",
+      "excerpt": "The Colorado Avalanche will have to make do without their two biggest stars in the coming weeks.",
+      "published": "2026-11-14T18:21:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/9ed178c4f211ada62b2b5a40dbbd52c83ec265ec32857f09778ffb50fec59665.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-14T21:28:14.031Z"
+    },
+    {
+      "id": "afa611e607c158f8",
+      "guid": "https://globalnews.ca/?p=12151096",
+      "link": "https://globalnews.ca/news/12151096/flights-resume-delays-cancellations-continue/",
+      "title": "Air travel schedule should recover by Sunday, FAA says",
+      "excerpt": "Passengers can expect some delays and cancellations to continue throughout the day Saturday as air travel returns to normal following the U.S. ground stop order Friday.",
+      "published": "2026-11-14T17:21:47.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/flight-delays-e1794675600412.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-14T21:28:14.031Z"
+    },
+    {
+      "id": "a085d2e4f29429b5",
+      "guid": "https://globalnews.ca/?p=12151109",
+      "link": "https://globalnews.ca/news/12151109/canada-us-trade-deal-conditions/",
+      "title": "Canada-U.S. trade deal must include viable auto sector, Carney says",
+      "excerpt": "Prime Minister Mark Carney says trade talks with the U.S. are making progress, but Ottawa won't accept a deal that doesn't allow for a viable auto sector.",
+      "published": "2026-11-14T17:20:17.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Mark-Carney-2-e1794676778879.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-14T21:28:14.031Z"
+    },
+    {
       "id": "270c7d73df3a5622",
       "guid": "https://globalnews.ca/?p=12151021",
       "link": "https://globalnews.ca/the-curator/12151021/i-tried-the-ninja-crispi-microwave-and-air-fryer-is-it-worth-replacing-two-appliances/",
