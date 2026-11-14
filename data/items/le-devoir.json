@@ -3,6 +3,83 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "b4f28339142d0dfb",
+      "guid": "https://www.ledevoir.com/monde/etats-unis/1025027/apres-peril-rouge-gauche-americaine-empare-socialisme",
+      "link": "https://www.ledevoir.com/monde/etats-unis/1025027/apres-peril-rouge-gauche-americaine-empare-socialisme",
+      "title": "Après le péril rouge, la gauche américaine s’empare du socialisme",
+      "excerpt": "Les Socialistes démocrates d’Amérique sont passés de deux à huit élus lors des élections de mi-mandat.",
+      "published": "2026-11-14T01:40:45.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "f1992fd45d287851",
+      "guid": "https://www.ledevoir.com/economie/techno/1025009/medias-canadiens-pourront-poursuivre-openai-ontario",
+      "link": "https://www.ledevoir.com/economie/techno/1025009/medias-canadiens-pourront-poursuivre-openai-ontario",
+      "title": "Des médias canadiens pourront poursuivre OpenAI en Ontario",
+      "excerpt": "Les éditeurs accusent l’entreprise d’utiliser leurs articles sans autorisation pour entraîner ChatGPT.",
+      "published": "2026-11-14T00:11:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "6b626eb6bec9d2e8",
+      "guid": "https://www.ledevoir.com/actualites/justice/1025003/spvm-demantele-reseau-voleurs-bijoux",
+      "link": "https://www.ledevoir.com/actualites/justice/1025003/spvm-demantele-reseau-voleurs-bijoux",
+      "title": "Le SPVM démantèle un réseau de voleurs de bijoux",
+      "excerpt": "La majorité des vols a eu lieu dans des bijouteries de l’agglomération de Montréal au cours des derniers mois.",
+      "published": "2026-11-13T23:45:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "e74b7a0a2d277c9b",
+      "guid": "https://www.ledevoir.com/economie/1024988/bombardier-confirme-contrat-790-arabie-saoudite",
+      "link": "https://www.ledevoir.com/economie/1024988/bombardier-confirme-contrat-790-arabie-saoudite",
+      "title": "Bombardier confirme un contrat de 790 millions en Arabie saoudite",
+      "excerpt": "La commande porte sur 12 avions d’affaires et pourrait atteindre 60 appareils.",
+      "published": "2026-11-13T23:20:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "8252d8220e8059f1",
+      "guid": "https://www.ledevoir.com/monde/europe/1024985/drone-suspect-survole-base-militaire-americaine-angleterre",
+      "link": "https://www.ledevoir.com/monde/europe/1024985/drone-suspect-survole-base-militaire-americaine-angleterre",
+      "title": "Un drone suspect survole une base militaire américaine en Angleterre",
+      "excerpt": "Téhéran a menacé de frapper des bases américaines en Europe si elles servaient à attaquer l’Iran.",
+      "published": "2026-11-13T23:09:03.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "830e75d1c7937377",
+      "guid": "https://www.ledevoir.com/economie/1024982/joly-espere-encore-empecher-vente-usine-stellantis-brampton",
+      "link": "https://www.ledevoir.com/economie/1024982/joly-espere-encore-empecher-vente-usine-stellantis-brampton",
+      "title": "Mélanie Joly espère encore empêcher la vente de l’usine de Stellantis à Brampton",
+      "excerpt": "Le syndicat Unifor se montre moins optimiste, estimant que la vente a déjà eu lieu et qu’il faudrait l’annuler.",
+      "published": "2026-11-13T22:48:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "ac5117b361eb0c52",
+      "guid": "https://www.ledevoir.com/sports/1024979/gardien-andorre-suspendu-12-matchs-apres-mort-jesus-miguel",
+      "link": "https://www.ledevoir.com/sports/1024979/gardien-andorre-suspendu-12-matchs-apres-mort-jesus-miguel",
+      "title": "Le gardien d’Andorre suspendu 12 matchs après la mort de Jesús de Miguel",
+      "excerpt": "Le joueur de 25 ans dit vivre «les jours les plus difficiles» de sa vie depuis le drame.",
+      "published": "2026-11-13T22:28:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
       "id": "73d0456041227c1b",
       "guid": "https://www.ledevoir.com/economie/1024976/stelco-va-reintegrer-175-salaries-licencies-hamilton",
       "link": "https://www.ledevoir.com/economie/1024976/stelco-va-reintegrer-175-salaries-licencies-hamilton",
@@ -67,6 +144,17 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "e6747c15b1da2e8d",
+      "guid": "https://www.ledevoir.com/actualites/education/1024955/manifestation-etudiante-degenere-montreal",
+      "link": "https://www.ledevoir.com/actualites/education/1024955/manifestation-etudiante-degenere-montreal",
+      "title": "Une manifestation étudiante dégénère à Montréal",
+      "excerpt": "Des manifestants ont lancé des roches et des feux d’artifice. Le SPVM a arrêté une personne et utilisé du gaz lacrymogène.",
+      "published": "2026-11-13T20:37:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
     },
     {
       "id": "c2aec58d80827a6f",

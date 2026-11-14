@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "06f800b86704e54e",
+      "guid": "https://ici.radio-canada.ca/article/info/2300515/aeroport-ottawa-decollage-arrete-usa",
+      "link": "https://ici.radio-canada.ca/article/info/2300515/aeroport-ottawa-decollage-arrete-usa",
+      "title": "Des vols à destination des États-Unis déroutés vers l’aéroport d’Ottawa",
+      "excerpt": "La FAA a levé l'interdiction de décollage du sol américain à 20 h 15.",
+      "published": "2026-11-14T02:03:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/aeroport-ottawa-vols-blocage-usa.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "97104e68b3ca18ec",
+      "guid": "https://ici.radio-canada.ca/article/info/2300526/pearson-billy-bishop-interdiction-etats-unis",
+      "link": "https://ici.radio-canada.ca/article/info/2300526/pearson-billy-bishop-interdiction-etats-unis",
+      "title": "Interdiction de décollage aux États-Unis : les vols à Pearson et Billy Bishop perturbés",
+      "excerpt": "NAV Canada affirme suivre de près la situation liée à cette interdiction de décollage.",
+      "published": "2026-11-14T01:59:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pearson-arret-decollage-etats-unis-39575.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "9e951871c07d4e81",
+      "guid": "https://ici.radio-canada.ca/article/info/2300585/ophq-lancement-campagne-drummondville-association-handicapees",
+      "link": "https://ici.radio-canada.ca/article/info/2300585/ophq-lancement-campagne-drummondville-association-handicapees",
+      "title": "Drummond salue la campagne pour l’accessibilité de l’OPHQ",
+      "excerpt": "L'OPHQ rappelle qu'un commerce accessible réduit les coûts pour les municipalités et augmente la clientèle.",
+      "published": "2026-11-14T00:23:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/office-personnes-hadicapees-quebec.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "2c3daecd56cacfaa",
+      "guid": "https://ici.radio-canada.ca/article/info/2300497/fermeture-indeterminee-scierie-outardes",
+      "link": "https://ici.radio-canada.ca/article/info/2300497/fermeture-indeterminee-scierie-outardes",
+      "title": "Domtar annonce une fermeture pour une durée indéterminée de la scierie Outardes",
+      "excerpt": "Domtar a annoncé la fermeture pour une durée indéterminée de la scierie Outardes de Pointe-aux-Outardes.",
+      "published": "2026-11-14T00:16:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/domtar-scierie-usine-outarde-4879.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "adadb691cf98a4d8",
+      "guid": "https://ici.radio-canada.ca/article/info/2300481/gnl-woodfibre-hausse-capacite-squamish",
+      "link": "https://ici.radio-canada.ca/article/info/2300481/gnl-woodfibre-hausse-capacite-squamish",
+      "title": "Ottawa accorde 200 M$ à Woodfibre LNG pour augmenter sa production de GNL",
+      "excerpt": "Selon Ottawa, le projet soutiendra 100 emplois à temps plein une fois en exploitation à la fin 2027.",
+      "published": "2026-11-13T23:49:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/lorne-doerkson-conservateurs-cb-tim-hodgson.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "ae4c3862fb03f7a1",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10809284/au-coeur-une-manifestation-etudiante",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10809284/au-coeur-une-manifestation-etudiante",
+      "title": "Au cœur d’une manifestation étudiante",
+      "excerpt": "On a assisté à une manifestation des étudiants de l’Université du Québec à Rimouski pour comprendre ce qu’ils revendiquent. Ils étaient 3000 en grève cette semaine, à Rimouski.",
+      "published": "2026-11-13T23:20:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/manifestation-uqar-rimouski-etudiants-greve.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
+      "id": "e18dfc97cb12f4f6",
+      "guid": "https://ici.radio-canada.ca/article/info/2300454/yellowknife-propose-hausse-5-25-impots",
+      "link": "https://ici.radio-canada.ca/article/info/2300454/yellowknife-propose-hausse-5-25-impots",
+      "title": "Yellowknife propose une hausse de 5,25 % des impôts fonciers pour 2027",
+      "excerpt": "Le nouveau conseil municipal peut amorcer ses débats en vue de l'adoption du budget, prévue le 16 décembre.",
+      "published": "2026-11-13T22:38:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/yellowknife-hotel-de-ville-town-hall-automne-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
       "id": "06ac28e1256e4ec6",
       "guid": "https://ici.radio-canada.ca/article/info/2300497/fermeture-temporaire-scierie-outardes",
       "link": "https://ici.radio-canada.ca/article/info/2300497/fermeture-temporaire-scierie-outardes",
@@ -34,6 +111,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/etats-unis-aeroport-avions.jpg",
       "type": "article",
       "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "787d13472246bfae",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-retour/segments/rattrapage/2529263/phenomene-sephora-kids-avec-ariane-cipriani",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-retour/segments/rattrapage/2529263/phenomene-sephora-kids-avec-ariane-cipriani",
+      "title": "« Sephora kids » : utiliser des cosmétiques dès l’enfance",
+      "excerpt": "L'industrie des cosmétiques alimente l’intérêt des jeunes filles pour les produits de beauté. On les surnomme les « Sephora kids ». Ce phénomène soulève des inquiétudes sur l'image de soi et la construction de l’identité de ces jeunes. La collaboratrice Ariane Cipriani s’est intéressée à ce…",
+      "published": "2026-11-13T21:08:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/generateur-images/16x9/sephora-kids-cosmetique-phenomene-reseaux-sociaux-votre-retour-ohdio.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
     },
     {
       "id": "befa48789c0136e4",
@@ -124,6 +212,17 @@
       "addedAt": "2026-11-13T16:19:45.187Z"
     },
     {
+      "id": "a2b055bc4071921a",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/2528743/bottes-en-fourrure-toujours-aussi-populaires",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/2528743/bottes-en-fourrure-toujours-aussi-populaires",
+      "title": "Les bottes en fourrure toujours très populaires",
+      "excerpt": "À l'approche de la saison froide, les fabricants de bottes et de manteaux d'hiver sont très occupés. C'est entre autres le cas pour Fourrures Grenier de Barraute, qui vend au bas mot 3500 paires de botte de poil par année, son produit vedette.",
+      "published": "2026-11-13T13:09:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/fourrure-grenier-bottes-de-poil-abitibi-barraute-val-dor.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
+    },
+    {
       "id": "7ed6194128b74ff9",
       "guid": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement",
       "link": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement",
@@ -210,6 +309,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/innotex-perte-emploi-richmond-pompiers.jpeg",
       "type": "article",
       "addedAt": "2026-11-13T00:20:18.219Z"
+    },
+    {
+      "id": "e591960987c9f815",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/segments/rattrapage/2528402/projet-tgv-entre-vancouver-et-seattle-refait-surface-yan-cimon",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/segments/rattrapage/2528402/projet-tgv-entre-vancouver-et-seattle-refait-surface-yan-cimon",
+      "title": "Le projet de TGV entre Vancouver et Seattle refait surface",
+      "excerpt": "Cascadia, le train à grande vitesse (TGV) qui doit relier Vancouver, Seattle et Portland, revient dans l'actualité. L'État de Washington, la Colombie-Britannique et l'Oregon collaborent pour élaborer un plan de développement des services. Ce plan, qui est attendu pour 2028, vise à déterminer si le…",
+      "published": "2026-11-12T23:31:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/balado/16x9/ca-sexplique-ohdio-tgv.jpg",
+      "type": "article",
+      "addedAt": "2026-11-14T03:12:10.056Z"
     },
     {
       "id": "874dbc29d957d713",
