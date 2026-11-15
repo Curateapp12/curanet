@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "3e100a6a30cab21e",
+      "guid": "https://ici.radio-canada.ca/article/info/2300835/activite-porturaire-ville-traffic-fleuve",
+      "link": "https://ici.radio-canada.ca/article/info/2300835/activite-porturaire-ville-traffic-fleuve",
+      "title": "Le port de Trois-Rivières prend à nouveau de l’expansion",
+      "excerpt": "De nouveaux espaces d’entreposage de marchandises ont été ajoutés au nord des limites de la zone portuaire.",
+      "published": "2026-11-15T21:30:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/activite-porturaire-ville-traffic-fleuve.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
+      "id": "4e206ff4b8fdc461",
+      "guid": "https://ici.radio-canada.ca/article/info/2300830/centres-de-donnees-fiabilite-reseau",
+      "link": "https://ici.radio-canada.ca/article/info/2300830/centres-de-donnees-fiabilite-reseau",
+      "title": "La fiabilité du réseau électrique albertain face aux centres de données",
+      "excerpt": "L’imprévisibilité de leur consommation d’énergie complique la gestion du réseau électrique.",
+      "published": "2026-11-15T20:52:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/centre-donnees-intelligence-artificielle-ordinateur.png",
+      "type": "article",
+      "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
+      "id": "a89dc747b9eee8ec",
+      "guid": "https://ici.radio-canada.ca/article/info/2300821/pal-airlines-incident-perd-une-roue",
+      "link": "https://ici.radio-canada.ca/article/info/2300821/pal-airlines-incident-perd-une-roue",
+      "title": "Avion qui perd ses roues : le BST n’a pas encore décidé s’il enquêtera",
+      "excerpt": "Un avion a perdu deux roues en deux semaines. Le Bureau de la sécurité des transports évalue la situation.",
+      "published": "2026-11-15T20:18:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/avion-pal-airlines-roue-manquante-aeroport-st-jean-tnl.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
       "id": "386f0d1211c4bd78",
       "guid": "https://ici.radio-canada.ca/article/info/2300787/penurie-foin-fermiers-terre-neuve",
       "link": "https://ici.radio-canada.ca/article/info/2300787/penurie-foin-fermiers-terre-neuve",

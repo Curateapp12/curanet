@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "c390e2397e368ad8",
+      "guid": "https://ici.radio-canada.ca/info/en-direct/1014676/coupe-grey-alouettes-elks",
+      "link": "https://ici.radio-canada.ca/info/en-direct/1014676/coupe-grey-alouettes-elks",
+      "title": "Coupe Grey : les Alouettes de Montréal affrontent les Elks d’Edmonton",
+      "excerpt": "Suivez les derniers développements de la 113e édition de la grande rencontre du football canadien.",
+      "published": "2026-11-15T21:38:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/travis-theis-alouettes.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
+      "id": "6b347cdfc1590431",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300811/canadiennes-joueront-pour-lor-au-mondial-hockey-feminin",
+      "link": "https://ici.radio-canada.ca/article/sports/2300811/canadiennes-joueront-pour-lor-au-mondial-hockey-feminin",
+      "title": "Les Canadiennes joueront pour l’or au mondial de hockey féminin",
+      "excerpt": "Une victoire de 3 à 0 face à la Suède permet à Équipe Canada d'atteindre la finale du tournoi.",
+      "published": "2026-11-15T21:28:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/sarah-wozniewicz-canada-danemark-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
+      "id": "8c2fd1ac620e6888",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300815/iihf-confirme-que-la-russie-ne-sera-pas-au-mondial-junior",
+      "link": "https://ici.radio-canada.ca/article/sports/2300815/iihf-confirme-que-la-russie-ne-sera-pas-au-mondial-junior",
+      "title": "L’IIHF confirme que la Russie ne sera pas au mondial junior",
+      "excerpt": "Le Canada demeurera le pays hôte du Championnat mondial de hockey junior 2026.",
+      "published": "2026-11-15T20:33:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/russie-mondial-junior-2021.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
+      "id": "b127cabd1dd477d7",
+      "guid": "https://ici.radio-canada.ca/article/info/2300824/seisme-gaspesie-tremblement-terre",
+      "link": "https://ici.radio-canada.ca/article/info/2300824/seisme-gaspesie-tremblement-terre",
+      "title": "Un séisme de magnitude 3,5 a été ressenti en Gaspésie",
+      "excerpt": "À 13 h 29 dimanche, un tremblement de terre a été enregistré par Séismes Canada au large de Cap-Chat.",
+      "published": "2026-11-15T20:29:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/carte-seisme-tremblement-terre-cap-chat-gaspesie-15-novembre-2026.png",
+      "type": "article",
+      "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
+      "id": "537a82ef6ee9b940",
+      "guid": "https://ici.radio-canada.ca/article/info/2300819/washington-nvidia-contrebande-puces-chine",
+      "link": "https://ici.radio-canada.ca/article/info/2300819/washington-nvidia-contrebande-puces-chine",
+      "title": "La Maison-Blanche veut savoir si Nvidia a fermé les yeux sur la contrebande de puces",
+      "excerpt": "Washington interdit l'exportation vers la Chine des puces d'IA les plus avancées.",
+      "published": "2026-11-15T19:41:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/scott-bessent-32149.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
+      "id": "c849eae315af960a",
+      "guid": "https://ici.radio-canada.ca/article/info/2300810/petrole-imperial-oil-suncor-production",
+      "link": "https://ici.radio-canada.ca/article/info/2300810/petrole-imperial-oil-suncor-production",
+      "title": "Le secteur des sables bitumineux est sous pression en Alberta",
+      "excerpt": "Les actionnaires et les bailleurs de fonds limitent l'appétit du secteur pour des investissements massifs.",
+      "published": "2026-11-15T18:15:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/cenovus-christina-lake.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
+      "id": "29db2101b12ce148",
+      "guid": "https://ici.radio-canada.ca/article/info/2300805/fonction-publique-syndicat-afpc-vote-greve",
+      "link": "https://ici.radio-canada.ca/article/info/2300805/fonction-publique-syndicat-afpc-vote-greve",
+      "title": "Le plus gros syndicat de fonctionnaires fédéraux se prononcera sur un mandat de grève",
+      "excerpt": "Les assemblées d’information et les votes doivent se poursuivre jusqu’au 22 janvier.",
+      "published": "2026-11-15T17:21:46.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/afpc-syndicat-fonctionnaire-49280.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
       "id": "1ec299e8ca4a5cb7",
       "guid": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp",
       "link": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp",
