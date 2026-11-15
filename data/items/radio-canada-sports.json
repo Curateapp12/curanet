@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "4e59ac2d4d45fb3e",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300540/bernard-poisson-escalade-deces",
+      "link": "https://ici.radio-canada.ca/article/sports/2300540/bernard-poisson-escalade-deces",
+      "title": "Bernard Poisson, un pionnier de l’escalade au Québec, n’est plus",
+      "excerpt": "À Val-David, une fameuse voie rocheuse est connue sous le nom du Toit de Ben.",
+      "published": "2026-11-15T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/bernard-poisson.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
+      "id": "1db13d39fc665d6a",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10809814/roses-s-inclinent-tete-haute-en-finale-sln",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10809814/roses-s-inclinent-tete-haute-en-finale-sln",
+      "title": "Les Roses s’inclinent la tête haute en finale de la SLN",
+      "excerpt": "Les Roses n’ont pas eu le résultat espéré à leur première finale dans la Super ligue du nord, mais elles ont de quoi être fières!",
+      "published": "2026-11-15T04:26:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/roses-montreal-sln-finale-96033.png",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
+      "id": "4eb337389aee4efe",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300775/lehkonen-avalanche-canadien-centre-bell-dobes",
+      "link": "https://ici.radio-canada.ca/article/sports/2300775/lehkonen-avalanche-canadien-centre-bell-dobes",
+      "title": "Lehkonen et l’Avalanche l’emportent face au Canadien au Centre Bell",
+      "excerpt": "Le Canadien pensait bien pouvoir profiter de l’absence de Nathan MacKinnon et de Cale Makar pour poursuivre sur sa lancée, mais l’indiscipline et le manque d’exécution ont finalement eu raison de sa séquence sans défaite en temps réglementaire.",
+      "published": "2026-11-15T04:25:33.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/dobes-lehkonen-canadien-avalanche.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
+      "id": "3c0009ec8ed78786",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300777/devon-levi-oilers-maple-leafs-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2300777/devon-levi-oilers-maple-leafs-lnh",
+      "title": "Devon Levi et les Oilers blanchissent les Maple Leafs",
+      "excerpt": "Devon Levi a obtenu son premier jeu blanc dans la LNH en stoppant 20 tirs, aidant les Oilers d'Edmonton à gagner 1-0 face aux Maple Leafs, samedi, à Toronto.",
+      "published": "2026-11-15T03:52:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/oilers-maple-leafs.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
+      "id": "d39b4834bbea9179",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300776/giroux-stutzle-senateurs-penguins-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2300776/giroux-stutzle-senateurs-penguins-lnh",
+      "title": "Giroux et Stützle marquent dans une victoire des Sénateurs sur les Penguins",
+      "excerpt": "Claude Giroux a inscrit le but vainqueur et les Sénateurs d'Ottawa ont battu les Penguins de Pittsburgh 4-1, samedi soir.",
+      "published": "2026-11-15T03:44:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/giroux-senateurs-penguins.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
       "id": "a794909f9dd854f8",
       "guid": "https://ici.radio-canada.ca/article/sports/2300769/scheifele-hawerchuk-jets-lnh",
       "link": "https://ici.radio-canada.ca/article/sports/2300769/scheifele-hawerchuk-jets-lnh",

@@ -3,6 +3,83 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "917a0b7017409092",
+      "guid": "fd83f888-d563-4951-b283-58cd05151041",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
+      "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+      "excerpt": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
+      "published": "2026-11-15T09:09:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/cfa04f79-ad8c-4715-92f8-9f25a2c9a38c/AAABod5Tybk/AAABnSSvrFg/16x9-big/klingbeil-466.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
+      "id": "44d2ef05e8327cde",
+      "guid": "2954dcb2-a5ab-4cf1-a44a-a52d836ddd03",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-bilanz-100.html",
+      "title": "Papst Leo in Südamerika: Empfangen wie ein lang vermisster alter Freund",
+      "excerpt": "Auf seiner bisher längsten Auslandsreise als Papst wird Leo XIV. vor allem in Peru und Argentinien begeistert empfangen. Welche Akzente hat er in seiner \"zweiten Heimat\" gesetzt? Eine erste Bilanz des Südamerika-Besuchs. Von Tilmann Kleinjung.",
+      "published": "2026-11-15T07:35:51.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4d4b7c29-3f12-497e-a2cf-84b26132a12b/AAABod3Z2vo/AAABnSSvrFg/16x9-big/papst-peru-110.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
+      "id": "a29364676fbd598d",
+      "guid": "5beed82d-0d34-4fba-ae17-65f2dd1060f8",
+      "link": "https://www.tagesschau.de/kultur/wolf-biermann-portraet-neunzig-100.html",
+      "title": "Wolf Biermann wird 90: Zwei Wunden als Auftrag fürs Leben",
+      "excerpt": "In Hamburg geboren, in die DDR ausgewandert - und von ihr 1976 spektakulär ausgebürgert: Heute wird Wolf Biermann 90 Jahre alt. Geprägt wird er vor allem von Erfahrungen aus seiner frühen Kindheit. Von Alexander Solloch.",
+      "published": "2026-11-15T07:24:10.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/cb67c2c2-317a-4d5f-a74d-5c5aafd24eef/AAABocr9oWc/AAABnSSvrFg/16x9-big/biermann-188.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
+      "id": "74d74b38e9aebb46",
+      "guid": "5bd2582b-4a42-4e03-b88c-29ac8bb59d30",
+      "link": "https://www.tagesschau.de/ausland/afrika/pressefreiheit-aegypten-100.html",
+      "title": "Journalisten in Ägypten: Verbote, Drohungen und Gefängnisstrafen",
+      "excerpt": "Journalisten in Ägypten sind enormem Druck ausgesetzt - teilweise werden ganze Redaktionen verhaftet. Mutige Journalisten versuchen dennoch weiterzumachen. Sie hoffen auf Solidarität aus dem Ausland. Von M. Behrendt.",
+      "published": "2026-11-15T04:11:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5eedb824-45bf-4073-9a5a-475c1eba3a6f/AAABodxvjsc/AAABnSSvrFg/16x9-big/aegypten-pressefreiheit-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
+      "id": "d8eeb2b81f7fc46d",
+      "guid": "59288756-49ba-45b1-9f47-8c845054de43",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/vapes-baller-liquids-drogen-jugendliche-100.html",
+      "title": "Illegale Drogen in Vapes - \"Baller-Liquids\" gefährden Jugendliche",
+      "excerpt": "Sie fallen nicht auf und sind einfach zu bekommen: sogenannte Baller-Liquids - starke Drogen für die E-Zigarette. Die Flüssigkeiten werden gezielt an Teenager verkauft. Doch ihr schneller Rausch kann lebensbedrohlich sein. Von Jenny Witt.",
+      "published": "2026-11-15T04:11:26.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/033e1cf4-0da9-47ed-ba1a-15c32e1b0381/AAABodTRS7k/AAABnSSvrFg/16x9-big/vapen-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
+      "id": "91236ab5d9092059",
+      "guid": "71a037b0-dcaa-4e9d-8523-64fdc2348447",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-wahlkampf-108.html",
+      "title": "Europamagazin: Ein Aufschwung, den die Spanier nicht spüren",
+      "excerpt": "Die spanische Wirtschaft wächst - doch bei den Menschen kommt der Aufschwung nicht an. Wohnungskrise und hohe Lebenshaltungskosten beherrschen den Wahlkampf. Regierungschef Sánchez droht in zwei Wochen die Abwahl. Von Kristina Böker.",
+      "published": "2026-11-15T04:11:16.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/8f524bfd-5f4d-482c-b9d6-9a0f2e1abf13/AAABodVCnas/AAABnSSvrFg/16x9-big/rathaus-madrid-schluesselbund-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
+      "id": "efa3a00dc221726a",
+      "guid": "6d481a3d-e883-462e-beb4-f5efa116b8df",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html",
+      "title": "Frankreich: Zehntausende bei Demos, rund 200 Festnahmen",
+      "excerpt": "Erneut sind in Frankreich Zehntausende Menschen in mehreren Städten auf die Straßen gegangen. Sie forderten bessere Bildungschancen und eine Stärkung der Kaufkraft der Menschen. Die Behörden meldeten mehr als 200 Festnahmen.",
+      "published": "2026-11-15T04:10:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/54546af2-f364-4bfa-83ec-92c117e2986b/AAABody76tk/AAABnSSvrFg/16x9-big/frankreich-protest-124.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-15T09:22:04.685Z"
+    },
+    {
       "id": "abe6ae4f23d1f922",
       "guid": "61a312c9-17e5-41a7-8c30-0b670538f00a",
       "link": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
