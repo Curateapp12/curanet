@@ -3,6 +3,50 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "17b88290612c92fd",
+      "guid": "https://www.ledevoir.com/lire/1025111/quoi-lire-cette-semaine",
+      "link": "https://www.ledevoir.com/lire/1025111/quoi-lire-cette-semaine",
+      "title": "Quoi lire cette semaine?",
+      "excerpt": "Une sélection de nos critiques pour guider vos lectures de la semaine.",
+      "published": "2026-11-15T15:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "f26a21cf75ce4203",
+      "guid": "https://www.ledevoir.com/politique/quebec/1025105/paul-st-pierre-plamondon-demande-on-juge-100-premiers-jours",
+      "link": "https://www.ledevoir.com/politique/quebec/1025105/paul-st-pierre-plamondon-demande-on-juge-100-premiers-jours",
+      "title": "Paul St-Pierre Plamondon demande qu’on le juge sur ses 100 premiers jours",
+      "excerpt": "Son gouvernement entame son mandat avec un taux de satisfaction plutôt bas, selon le dernier sondage Pallas Data.",
+      "published": "2026-11-15T13:40:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "7204384cf7c9c891",
+      "guid": "https://www.ledevoir.com/politique/quebec/1025102/premiere-rencontre-entre-carney-pspp-marge-sommet-francophonie",
+      "link": "https://www.ledevoir.com/politique/quebec/1025102/premiere-rencontre-entre-carney-pspp-marge-sommet-francophonie",
+      "title": "Paul St-Pierre Plamondon enchanté de sa première rencontre avec Mark Carney",
+      "excerpt": "La prise de bec que certains attendaient n’aura finalement pas eu lieu.",
+      "published": "2026-11-15T13:20:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "3a34e76a3d8e175c",
+      "guid": "https://www.ledevoir.com/politique/quebec/1024793/savez-vous-gouvernement-levesque-elu-il-y-50-ans",
+      "link": "https://www.ledevoir.com/politique/quebec/1024793/savez-vous-gouvernement-levesque-elu-il-y-50-ans",
+      "title": "Que savez-vous du gouvernement Lévesque, élu il y a 50 ans?",
+      "excerpt": "Venez tester vos connaissances sur le premier gouvernement péquiste.",
+      "published": "2026-11-15T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
       "id": "db65e35c675d7a05",
       "guid": "https://www.ledevoir.com/sports/1025099/avalanche-emporte-met-fin-sequence-canadien",
       "link": "https://www.ledevoir.com/sports/1025099/avalanche-emporte-met-fin-sequence-canadien",

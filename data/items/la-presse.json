@@ -3,6 +3,116 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "1394c3deb28242f1",
+      "guid": "14e40f29de5039b6b56351267fc8c2e3",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-11-15/revolution-dans-le-vaccin-contre-la-grippe.php",
+      "title": "Révolution dans le vaccin contre la grippe",
+      "excerpt": "L’arrivée au Canada du vaccin ARN messager de Moderna pourrait révolutionner la lutte contre la grippe. Plus rapide à concevoir, ce nouveau type de vaccin pourrait être basé sur les souches circulant en Australie en juin plutôt que sur celles circulant en février.",
+      "published": "2026-11-15T17:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/eef0119f0e1c37138d74a2a119f2d82c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "486a3c95b1655621",
+      "guid": "becd69500e6637929396b12e3e24fda3",
+      "link": "https://www.lapresse.ca/actualites/national/2026-11-15/l-approvisionnement-en-eau-douce-pourrait-menacer-la-securite-du-canada.php",
+      "title": "L’approvisionnement en eau douce pourrait menacer la sécurité du Canada",
+      "excerpt": "Les pressions qui pèsent sur l’approvisionnement en eau douce posent des défis qui, s’ils ne sont pas pris en compte, auront des répercussions sur « la sécurité et la prospérité à long terme » du Canada, met en garde une note interne du gouvernement.",
+      "published": "2026-11-15T16:19:50.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/9bc1d38e989e380e8129030cfb169b5e.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "e3832910c227650e",
+      "guid": "48470bf205f2357c94d4119c7f2800ad",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-15/granby/un-homme-tue-dans-une-residence-une-femme-gravement-blessee.php",
+      "title": "Granby | Un homme tué dans une résidence, une femme gravement blessée",
+      "excerpt": "Une attaque dans une résidence de Granby a laissé un bilan sanglant, samedi soir. Deux hommes en ont abattu un autre par balle, puis blessé gravement une femme, tous deux dans la trentaine.",
+      "published": "2026-11-15T14:54:25.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/01e658cc2abc3723a0d04cbbe1c6f09f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "bf5eaca69e8267e4",
+      "guid": "076da825163d32b68a4f2e61489c0cf7",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-15/la-presse-au-cambodge/la-glace-est-brisee-entre-carney-et-st-pierre-plamondon.php",
+      "title": "La Presse au Cambodge | La glace est brisée entre Carney et St-Pierre Plamondon",
+      "excerpt": "Fini la bisbille ! Après des semaines d’attente, l’air du Cambodge aura insufflé un vent d’optimisme dans les relations Québec-Ottawa.",
+      "published": "2026-11-15T13:21:39.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/f1bc333a574b3708938510fa1ef059ae.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "5e6eac2875afd86e",
+      "guid": "509bcc3a842c36508a0009d7ca67c81a",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-15/l-amour-l-argent-et-le-sport-professionnel.php",
+      "title": "L’amour, l’argent et le sport professionnel",
+      "excerpt": "Une équipe sportive est pour une ville ce qu’un amoureux ou une amoureuse est pour un individu, une raison d’aimer.",
+      "published": "2026-11-15T11:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/006334e2-9183-11ea-b33c-02fe89184577.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "868d8d5585d9c944",
+      "guid": "222e019061b730fabd3cc4478b163407",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-11-15/demystifier-la-science/comment-est-apparue-la-vie.php",
+      "title": "Démystifier la science | Comment est apparue la vie",
+      "excerpt": "Chaque semaine, notre journaliste répond aux questions scientifiques de lecteurs.",
+      "published": "2026-11-15T11:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7ae9994a5eb73331892c7aeb09d1c82f.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "32fe187ae73fec8f",
+      "guid": "7037e6dbabd73bb3b06d223cf42e2685",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-15/camping-naturiste-a-terrebonne/un-coin-de-paradis-transforme-en-champ-de-bataille.php",
+      "title": "Camping naturiste à Terrebonne | Un coin de paradis transformé en champ de bataille",
+      "excerpt": "C’est triste à dire, mais quand on est locataire, on n’est jamais tout à fait à l’abri de voir sa tranquillité s’envoler du jour au lendemain.",
+      "published": "2026-11-15T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/6fe0431ac2e03c2db67fdbfe7afc2b6e.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "886b1a23b4ab1ef3",
+      "guid": "d293a7f4849b3abaa40f02a6b7dafa3f",
+      "link": "https://www.lapresse.ca/actualites/sante/2026-11-15/radon/un-tueur-silencieux-et-trop-peu-connu.php",
+      "title": "Radon | Un tueur silencieux… et trop peu connu",
+      "excerpt": "Le radon, gaz inodore et incolore présent dans les maisons, tue environ 1000 Québécois par année, soit trois fois plus que les accidents de la route. Pourtant, le gouvernement provincial y consacre beaucoup moins d’argent. Pourquoi une cause reconnue du cancer du poumon obtient-elle si peu…",
+      "published": "2026-11-15T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/9413b8b1/2ad06d62e5243d0da7730786d30a528a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "d94ff35f84d65d2c",
+      "guid": "4a6733319e6a34feb5a8f0978537802f",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-15/sante/de-la-gauche-a-la-droite-pour-reformer-la-premiere-ligne.php",
+      "title": "Santé | De la gauche à la droite pour réformer la première ligne",
+      "excerpt": "Passé d’un parti souverainiste de gauche à un parti fédéraliste de droite, le nouveau député conservateur Guillaume Langlois explique son parcours atypique par la nécessité de réformer la première ligne en santé et services sociaux. Au-delà de l’idéologie, ce médecin communautaire veut d’abord…",
+      "published": "2026-11-15T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/9bf9679ef2d53bcaa3f2ac50a06acd61.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
+      "id": "ddc59a59df1a8177",
+      "guid": "c5811551222035b58e971553c86fefdb",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-11-15/sur-la-piste-de-la-plus-vieille-epave-au-monde.php",
+      "title": "Sur la piste de la plus vieille épave au monde",
+      "excerpt": "En octobre, des archéologues ont annoncé avoir trouvé près de la Turquie la plus vieille épave au monde. Elle aurait sombré il y a plus de 4400 ans. Pourquoi la Méditerranée abrite-t-elle les plus vieilles épaves recensées ?",
+      "published": "2026-11-15T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7593d8c177b63152a7f84e023bcd2967.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T17:07:31.622Z"
+    },
+    {
       "id": "c579c7c8ce17d29a",
       "guid": "4ae470644a40391caaa2b34420de9e3a",
       "link": "https://www.lapresse.ca/actualites/politique/2026-11-14/sommet-en-asie-du-sud-est/mark-carney-annonce-540-millions-pour-proteger-les-forets-tropicales-humides.php",
