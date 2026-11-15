@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "0b26be52f85ed31e",
+      "guid": "https://ici.radio-canada.ca/article/info/2300765/aeroport-vancouver-vols-panne-faa",
+      "link": "https://ici.radio-canada.ca/article/info/2300765/aeroport-vancouver-vols-panne-faa",
+      "title": "Des Britanno-Colombiens touchés par la suspension des décollages aux É.-U.",
+      "excerpt": "À l’aéroport de Vancouver, 54 vols ont été annulés ce vendredi et 23 autres vols ont été annulés ce samedi.",
+      "published": "2026-11-15T00:55:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/yvr-aeroport-international-vancouver-vols.png",
+      "type": "article",
+      "addedAt": "2026-11-15T01:53:16.180Z"
+    },
+    {
+      "id": "dfa338e3062d7468",
+      "guid": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes",
+      "link": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes",
+      "title": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+      "excerpt": "Aucune solution à court terme n'a pu être trouvée pour éviter sa fermeture, indique le cabinet de la ministre.",
+      "published": "2026-11-15T00:01:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/scierie-outardes-bois-oeuvre-cote-nord-resolu-6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T01:53:16.180Z"
+    },
+    {
+      "id": "9d2b38548f779490",
+      "guid": "https://ici.radio-canada.ca/article/info/2300743/expocadeaux-artisans-valdor-culture-economie-noel",
+      "link": "https://ici.radio-canada.ca/article/info/2300743/expocadeaux-artisans-valdor-culture-economie-noel",
+      "title": "Une année record à l’Expo-Cadeaux des artisans de Val-d’Or",
+      "excerpt": "Les profits de l'événement sont remis au stage international des étudiants du CFP Val-d'Or.",
+      "published": "2026-11-14T22:47:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/expo-cadeaux-artisans-val-dor-sylvie-rheaume-vanessa-morin-nadeau.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-15T01:53:16.180Z"
+    },
+    {
+      "id": "3be17a87411306c9",
+      "guid": "https://ici.radio-canada.ca/article/info/2300739/aeroport-ottawa-retour-normal",
+      "link": "https://ici.radio-canada.ca/article/info/2300739/aeroport-ottawa-retour-normal",
+      "title": "Retour à la normale à l’aéroport d’Ottawa après les perturbations",
+      "excerpt": "Une panne du système de communication des centres de contrôle aérien américains est survenue vendredi.",
+      "published": "2026-11-14T22:39:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/aeroport-ottawa-vol-annule-retarde-img1601.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-15T01:53:16.180Z"
+    },
+    {
+      "id": "653bea6e007dd45d",
+      "guid": "https://ici.radio-canada.ca/article/info/2300737/eclosion-grippe-aviaire-exposition-volaille",
+      "link": "https://ici.radio-canada.ca/article/info/2300737/eclosion-grippe-aviaire-exposition-volaille",
+      "title": "Des cas de grippe aviaire détectés dans 3 provinces après une exposition de volailles",
+      "excerpt": "L’Exposition canadienne de volaillesa eu lieu le 7 novembre dernier, à Moose Jaw.",
+      "published": "2026-11-14T21:55:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/eclosion-grippe-aviaire-exposition-volaille.jpg",
+      "type": "article",
+      "addedAt": "2026-11-15T01:53:16.180Z"
+    },
+    {
       "id": "aba9cec5a8f7ef15",
       "guid": "https://ici.radio-canada.ca/article/info/2300706/salon-artisans-noel-rouyn-noranda",
       "link": "https://ici.radio-canada.ca/article/info/2300706/salon-artisans-noel-rouyn-noranda",

@@ -3,6 +3,28 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "abe6ae4f23d1f922",
+      "guid": "61a312c9-17e5-41a7-8c30-0b670538f00a",
+      "link": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+      "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+      "excerpt": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Raketenstufe wieder auf der Erde.",
+      "published": "2026-11-14T23:12:16.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/adcb012d-ef76-4b35-9e82-de8032b4f0b2/AAABodwBRNA/AAABnSSvrFg/16x9-big/space-x-rakete-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-15T01:53:16.180Z"
+    },
+    {
+      "id": "b67121f9b75580a3",
+      "guid": "tagesschau_fm-story-rbb_berlin-charlottenburg-gen-z-regelt-demo-jugend-protest-polizei",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+      "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+      "excerpt": "In Berlin haben Hunderte Menschen bei einer \"Gen Z regelt\"-Demo mitgemacht. Es ging unter anderem um kaputte Schulen, Wehrpflicht sowie Uni- und Sozialkürzungen. Mehrere Menschen wurden festgenommen.",
+      "published": "2026-11-14T21:31:18.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b41983c0-6c75-4d18-96a3-1239171ee613/AAABodvNmOE/AAABnSSvrFg/16x9-big/rbb-632976574-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-15T01:53:16.180Z"
+    },
+    {
       "id": "0381902c2d456b40",
       "guid": "ab1e0db7-67e7-4f70-82b8-d37f3ce984f9",
       "link": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
