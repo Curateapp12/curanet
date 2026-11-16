@@ -3,6 +3,94 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "f66e964ba9d367ad",
+      "guid": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "excerpt": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+      "published": "2026-11-16T19:57:13.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "18b00fe2b40c75f5",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "excerpt": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+      "published": "2026-11-16T16:43:24.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "d29e040f404457ab",
+      "guid": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+      "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+      "title": "Fandango says hackers stole payment card details from checkout pages",
+      "excerpt": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+      "published": "2026-11-16T15:44:21.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "1cea14202697e149",
+      "guid": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "excerpt": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain…",
+      "published": "2026-11-16T15:01:11.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "2e40619c86da1dec",
+      "guid": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "excerpt": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "published": "2026-11-16T14:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "a1dd8f56b81d84a7",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+      "excerpt": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+      "published": "2026-11-16T12:53:18.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "7a50b6f63907df2f",
+      "guid": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+      "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+      "title": "Australian retail giant Coles investigates cybersecurity incident",
+      "excerpt": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+      "published": "2026-11-16T11:18:09.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "b9812e4ced013f91",
+      "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+      "excerpt": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
+      "published": "2026-11-16T11:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
       "id": "7d4f6584a3c99034",
       "guid": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
       "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",

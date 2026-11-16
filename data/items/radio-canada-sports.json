@@ -3,6 +3,94 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "606bbd9695e081ac",
+      "guid": "https://ici.radio-canada.ca/article/info/2301115/universite-bishop-crosse-rugby-financement",
+      "link": "https://ici.radio-canada.ca/article/info/2301115/universite-bishop-crosse-rugby-financement",
+      "title": "L’Université Bishop’s largue deux de ses équipes sportives",
+      "excerpt": "Les équipes de la crosse masculin et de rugby féminin ne reviendront pas à l’Université Bishop’s.",
+      "published": "2026-11-16T20:16:59.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bishop-recrutement-etudiants-reseaux-sociaux-49967.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "e6ff97c30fb47ec6",
+      "guid": "https://ici.radio-canada.ca/article/info/2301050/vincent-blanchard-panneau-germain-grantham-coupe-grey",
+      "link": "https://ici.radio-canada.ca/article/info/2301050/vincent-blanchard-panneau-germain-grantham-coupe-grey",
+      "title": "Saint-Germain-de-Grantham célèbre la Coupe Grey de Vincent Blanchard",
+      "excerpt": "Un panneau lumineux expose le portrait de Vincent Blanchard.",
+      "published": "2026-11-16T19:58:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vincent-blanchard-coupe-grey-saint-germain-de-grantham-12055.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "8dc9a45a49ac0e68",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301051/drake-maye-blessure-cheville-patriots",
+      "link": "https://ici.radio-canada.ca/article/sports/2301051/drake-maye-blessure-cheville-patriots",
+      "title": "Le quart des Patriots Drake Maye sur la touche pour une période indéterminée",
+      "excerpt": "Il s'est blessé à la cheville quand il a encaissé un sac de la part d'Aidan Hutchinson, des Lions.",
+      "published": "2026-11-16T17:31:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/drake-maye-aidan-hutchinson-patriots-lions-blessure-football-nfl.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "068b56dce88fb954",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301035/soccer-candidature-philippe-diallo-presidence-fifa",
+      "link": "https://ici.radio-canada.ca/article/sports/2301035/soccer-candidature-philippe-diallo-presidence-fifa",
+      "title": "L’UEFA propose le patron du soccer français à la présidence de la FIFA",
+      "excerpt": "Une course à trois se dessine pour la présidence.",
+      "published": "2026-11-16T16:24:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/philippe-diallo.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "37ee6bec63b8b230",
+      "guid": "https://ici.radio-canada.ca/article/info/2300996/kenny-macdonald-365-matchs-sports",
+      "link": "https://ici.radio-canada.ca/article/info/2300996/kenny-macdonald-365-matchs-sports",
+      "title": "365 matchs en moins d’un an, le défi relevé par un Ottavien",
+      "excerpt": "Kenny MacDonald a participé à 365 rencontres dans une douzaine de sports, du hockey au volleyball.",
+      "published": "2026-11-16T16:04:33.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/kenny-macdonald-painfully-average-365-sports-365-jours-9052.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "65c3e1eb214fca82",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300982/49ers-cowboys-vikings-packers-nfl",
+      "link": "https://ici.radio-canada.ca/article/sports/2300982/49ers-cowboys-vikings-packers-nfl",
+      "title": "McCaffrey et Samuel aident les 49ers à vaincre les Cowboys 46-40",
+      "excerpt": "Kirk Cousins effectue un retour triomphal avec les Vikings.",
+      "published": "2026-11-16T13:58:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/brock-purdy-49ers-san-francisco-cowboys-dallas-football-nfl.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "cca2778f6510fe70",
+      "guid": "https://ici.radio-canada.ca/article/info/2300978/tempo-toronto-wnba-juju-watkins",
+      "link": "https://ici.radio-canada.ca/article/info/2300978/tempo-toronto-wnba-juju-watkins",
+      "title": "Le Tempo de Toronto remporte la loterie et repêchera premier",
+      "excerpt": "L’équipe pourrait avoir la chance de sélectionner JuJu Watkins.",
+      "published": "2026-11-16T13:06:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/tempo-toronto.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "9f375e8c7ff7297c",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300859/hurricanes-statistiques-avancees-lnh-martin-leclerc",
+      "link": "https://ici.radio-canada.ca/article/sports/2300859/hurricanes-statistiques-avancees-lnh-martin-leclerc",
+      "title": "Les Hurricanes ont-ils maîtrisé l’art de gagner… éternellement?",
+      "excerpt": "Tout le monde vante le système de jeu de Rod Brind’Amour, mais il y a plus que cela, explique Martin Leclerc.",
+      "published": "2026-11-16T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/hurricanes-91601.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
       "id": "f30e3c56e94dcd9d",
       "guid": "https://ici.radio-canada.ca/article/sports/2300957/alouettes-elks-finale-grey-lcf-fajardo",
       "link": "https://ici.radio-canada.ca/article/sports/2300957/alouettes-elks-finale-grey-lcf-fajardo",
@@ -67,6 +155,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/mirra-andreeva-67368.jpg",
       "type": "article",
       "addedAt": "2026-11-16T02:03:41.291Z"
+    },
+    {
+      "id": "2476abf98dde1e14",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10810050/quelle-journee-pour-valerie-maltais-a-pekin",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10810050/quelle-journee-pour-valerie-maltais-a-pekin",
+      "title": "Quelle journée pour Valérie Maltais à Pékin!",
+      "excerpt": "Valérie Maltais a remporté deux médailles de bronze dimanche, à Pékin, à la poursuite et au départ groupé.",
+      "published": "2026-11-15T19:45:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/patinage-vitesse-longue-piste-valerie-maltais.png",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
     },
     {
       "id": "57162e202e254e4f",

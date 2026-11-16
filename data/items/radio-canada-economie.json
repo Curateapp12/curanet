@@ -3,6 +3,116 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "17f696524d7d7ccb",
+      "guid": "https://ici.radio-canada.ca/article/info/2301096/bilan-avelo-velopartage-quebec",
+      "link": "https://ici.radio-canada.ca/article/info/2301096/bilan-avelo-velopartage-quebec",
+      "title": "àVélo a frôlé les 2,5 millions de déplacements en 2026",
+      "excerpt": "Il s’agit d’une hausse de 23 % des déplacements par rapport à l’an dernier.",
+      "published": "2026-11-16T20:01:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/avelo-rtc-pietons-syl04175-22867.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "389170cd329b9a17",
+      "guid": "https://ici.radio-canada.ca/article/info/2301088/pont-amours-travaux-detour-circulation",
+      "link": "https://ici.radio-canada.ca/article/info/2301088/pont-amours-travaux-detour-circulation",
+      "title": "Le pont D’Amours rouvrira vendredi à Rivière-du-Loup",
+      "excerpt": "Les travaux de réhabilitation se terminent après sept mois, soit un mois plus tôt que prévu.",
+      "published": "2026-11-16T20:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/debut-des-travaux-pont-damour-de-riviere-du-loup-a7s03843copie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "b5fd7dcbc7d04979",
+      "guid": "https://ici.radio-canada.ca/article/info/2301077/powell-river-exportation-electricite-audience",
+      "link": "https://ici.radio-canada.ca/article/info/2301077/powell-river-exportation-electricite-audience",
+      "title": "Powell River : le sort de l’électricité au cœur d’une audience fédérale inédite",
+      "excerpt": "Selon la Régie de l’énergie du Canada, il s'agit d’un processus « unique en son genre ».",
+      "published": "2026-11-16T19:57:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/powell-river-usine.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "b9e4c88b8edf75d0",
+      "guid": "https://ici.radio-canada.ca/article/info/2301082/telus-offre-achat-quebecor-rimouski",
+      "link": "https://ici.radio-canada.ca/article/info/2301082/telus-offre-achat-quebecor-rimouski",
+      "title": "Possible achat par Québecor : Rimouski espère conserver les emplois de Telus",
+      "excerpt": "Le maire de Rimouski, Guy Caron, espère que la présence de Telus soit maintenue à Rimouski.",
+      "published": "2026-11-16T19:48:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/telus-edifices-a-rimouski-murale-jules-a-brillant-img3334.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "06012f0df78d7d8a",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10810731/services-via-rail-quelles-sont-vos-attentes",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10810731/services-via-rail-quelles-sont-vos-attentes",
+      "title": "Services de VIA Rail : quelles sont vos attentes?",
+      "excerpt": "Quelles sont les attentes de la population quant à un éventuel retour de VIA Rail entre New Carlisle et Québec? C’est ce que veut savoir une Coalition gaspésienne.",
+      "published": "2026-11-16T19:48:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/via-rail-matapedia-en-gaspesie-img3112.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "024c865a99210801",
+      "guid": "https://ici.radio-canada.ca/article/info/2301055/bbq-quebec-faillite-max-lavoie",
+      "link": "https://ici.radio-canada.ca/article/info/2301055/bbq-quebec-faillite-max-lavoie",
+      "title": "BBQ Québec déclare officiellement faillite",
+      "excerpt": "L'entreprise née dans la région de Québec a déclaré faillite le 6 novembre dernier",
+      "published": "2026-11-16T18:18:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/max-lavoie-president-et-fondateur-de-bbq-quebec.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "4d051a38a4ac15ba",
+      "guid": "https://ici.radio-canada.ca/article/info/2300977/villes-sault-sainte-marie-ontario-michigan-relations-tensions",
+      "link": "https://ici.radio-canada.ca/article/info/2300977/villes-sault-sainte-marie-ontario-michigan-relations-tensions",
+      "title": "Tarifs douaniers : Sault-Sainte-Marie et sa jumelle du Michigan renforcent leurs liens",
+      "excerpt": "Les droits de douane américains mettent leurs relations à l’épreuve.",
+      "published": "2026-11-16T16:42:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/drapeaux-etats-unis-canada-pont-sault-sainte-marie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "245943d042d27638",
+      "guid": "https://ici.radio-canada.ca/article/culture/segment/2530746/astra-pont-mobile-suisse-chantier-routier",
+      "link": "https://ici.radio-canada.ca/article/culture/segment/2530746/astra-pont-mobile-suisse-chantier-routier",
+      "title": "Un pont suisse révolutionnaire pour réparer les routes",
+      "excerpt": "En Suisse, un pont mobile permet de rénover une route sous la circulation sans créer d’embouteillages.",
+      "published": "2026-11-16T16:26:06.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/infoman-765-suisse-pont-mobile.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "c0023a8b53a45964",
+      "guid": "https://ici.radio-canada.ca/videos/1-10810422/plus-espace-chargement-pour-port-trois-rivieres",
+      "link": "https://ici.radio-canada.ca/videos/1-10810422/plus-espace-chargement-pour-port-trois-rivieres",
+      "title": "Plus d'espace de chargement pour le Port de Trois-Rivières",
+      "excerpt": "Le port de Trois-Rivières étend encore un peu plus ses activités à l’intérieur de la ville. De nouveaux espaces d’entreposage de marchandises ont été ajoutés au nord des limites de la zone portuaire. Le reportage de Louis Cloutier",
+      "published": "2026-11-16T15:08:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/port-trois-rivieres-cargo-glace-72912.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "59f2053bc11a027a",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/2530489/on-mange-plus-en-plus-oeufs",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/2530489/on-mange-plus-en-plus-oeufs",
+      "title": "La Ferme avicole Paul Richard et fils en voie d’augmenter la production d’œufs",
+      "excerpt": "La hausse de la consommation d'œufs qui se poursuit permet aux propriétaires de la Ferme avicole Paul Richard et fils d’augmenter la production.",
+      "published": "2026-11-16T14:08:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/poules-oeufs-generique-ferme-paul-richard-abitibi.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
       "id": "8c9f613448b2a5fc",
       "guid": "https://ici.radio-canada.ca/article/info/2300501/assurance-auto-vol-risque-frequent",
       "link": "https://ici.radio-canada.ca/article/info/2300501/assurance-auto-vol-risque-frequent",

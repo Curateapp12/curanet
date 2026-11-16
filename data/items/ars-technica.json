@@ -3,6 +3,94 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "c967050d516a6f52",
+      "guid": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+      "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+      "excerpt": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+      "published": "2026-11-16T19:54:21.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "6fa189556cdd89d3",
+      "guid": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+      "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+      "title": "When will humans actually fly on Starship?",
+      "excerpt": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
+      "published": "2026-11-16T19:46:08.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX-1152x648.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "a9324f50b44e0751",
+      "guid": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
+      "link": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
+      "title": "Meet the new James Bond: Robert Pattinson",
+      "excerpt": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
+      "published": "2026-11-16T19:36:25.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "df8e5203f1144bae",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "title": "US moves to cut China’s remote access to AI chips",
+      "excerpt": "Trump bets China won’t mind US blocking remote access to AI chips.",
+      "published": "2026-11-16T19:10:09.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "a6cd4dd92886a54b",
+      "guid": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "excerpt": "International authorities will announce US lost its elimination status Tuesday.",
+      "published": "2026-11-16T16:39:29.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "c0787d91eb5d8df5",
+      "guid": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "excerpt": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "published": "2026-11-16T14:06:16.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "c485adc10855baba",
+      "guid": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+      "link": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+      "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+      "excerpt": "The point-to-point driver assist is coming to the US and Germany in 2027.",
+      "published": "2026-11-16T14:00:05.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "f28da12bda663f90",
+      "guid": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+      "link": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+      "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
+      "excerpt": "For those who have lived under armed drones, the sound overhead can be distressing.",
+      "published": "2026-11-16T12:00:57.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2298538124-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
       "id": "2eef4a5b12a19995",
       "guid": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
       "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
