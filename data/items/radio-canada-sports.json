@@ -3,6 +3,39 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "f30e3c56e94dcd9d",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300957/alouettes-elks-finale-grey-lcf-fajardo",
+      "link": "https://ici.radio-canada.ca/article/sports/2300957/alouettes-elks-finale-grey-lcf-fajardo",
+      "title": "Les Alouettes s’inclinent devant les Elks en finale de la Coupe Grey",
+      "excerpt": "Pour une deuxième année de suite, les Alouettes de Montréal ont mordu la poussière à la Coupe Grey.",
+      "published": "2026-11-16T06:30:15.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/alouettes-alexander-51218.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "c9870bea3874d4cf",
+      "guid": "https://ici.radio-canada.ca/article/info/2300964/elks-coupe-grey-lcf-djabome-pace-blanchard",
+      "link": "https://ici.radio-canada.ca/article/info/2300964/elks-coupe-grey-lcf-djabome-pace-blanchard",
+      "title": "Un rêve réalisé pour les joueur des Elks",
+      "excerpt": "C’est sous une pluie de confettis verts et jaunes que les joueur des Elks ont célébré leur victoire.",
+      "published": "2026-11-16T05:56:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/elks-coupe-grey.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "840db6718353fb3d",
+      "guid": "https://ici.radio-canada.ca/article/sports/2300959/connor-mcdavid-record-wayne-gretzky-oilers",
+      "link": "https://ici.radio-canada.ca/article/sports/2300959/connor-mcdavid-record-wayne-gretzky-oilers",
+      "title": "Connor McDavid égale un record de Wayne Gretzky dans une victoire des Oilers",
+      "excerpt": "Connor McDavid a obtenu trois points, dont un but, pour mener les Oilers d'Edmonton vers une victoire de 5-2 contre les Flyers de Philadelphie, dimanche soir, au Xfinity Mobile Arena.",
+      "published": "2026-11-16T04:14:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/connor-mcdavid-8423.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
       "id": "117b5f791dd77427",
       "guid": "https://ici.radio-canada.ca/videos/1-10810172/regina-accueille-essais-patinage-vitesse-en-vue-jeux-canada",
       "link": "https://ici.radio-canada.ca/videos/1-10810172/regina-accueille-essais-patinage-vitesse-en-vue-jeux-canada",
@@ -452,6 +485,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/justin-pace.png",
       "type": "article",
       "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "b2d51310326c9913",
+      "guid": "https://ici.radio-canada.ca/article/culture/segment/2529426/inactivite-physique",
+      "link": "https://ici.radio-canada.ca/article/culture/segment/2529426/inactivite-physique",
+      "title": "Comment faire bouger nos jeunes?",
+      "excerpt": "Une personne adolescente sur sept fait de l'activité physique tous les jours.",
+      "published": "2026-11-13T20:12:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/on-va-se-le-dire-sylvie-frechette.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
     },
     {
       "id": "e0111d755cee4cb2",

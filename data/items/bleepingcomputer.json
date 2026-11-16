@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "7d4f6584a3c99034",
+      "guid": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "excerpt": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "published": "2026-11-16T09:30:04.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "a60b8a453d05816c",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+      "excerpt": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+      "published": "2026-11-16T08:26:52.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
       "id": "4201db3ac6828cb2",
       "guid": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",

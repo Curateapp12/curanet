@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "8c9f613448b2a5fc",
+      "guid": "https://ici.radio-canada.ca/article/info/2300501/assurance-auto-vol-risque-frequent",
+      "link": "https://ici.radio-canada.ca/article/info/2300501/assurance-auto-vol-risque-frequent",
+      "title": "Assurance auto : ce qu’il faut savoir avant d’acheter un véhicule à haut risque de vol",
+      "excerpt": "Bien que les vols de voitures soient en baisse au Canada, le coût élevé des réclamations et le différend tarifaire maintiennent les primes d'assurance à un niveau élevé. Les conducteurs des modèles les plus volés font généralement face aux primes les plus salées, mais, selon les experts, quelques…",
+      "published": "2026-11-16T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vol-voiture-voleur-78856.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "8f41e7b544471ab1",
+      "guid": "https://ici.radio-canada.ca/article/info/2298642/deuil-animal-industrie-funeraire-cremation",
+      "link": "https://ici.radio-canada.ca/article/info/2298642/deuil-animal-industrie-funeraire-cremation",
+      "title": "Ce qui se cache derrière l’industrie funéraire pour animaux",
+      "excerpt": "Le monde funéraire entourant le deuil animalier constitue une source de profit pour des multinationales.",
+      "published": "2026-11-16T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/deuil-animal-compagnie-euthanasie-cremation-img2065.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
       "id": "6e5862de47013333",
       "guid": "https://ici.radio-canada.ca/videos/1-10810174/wollaston-lake-celebre-mise-en-route-autoroute-995",
       "link": "https://ici.radio-canada.ca/videos/1-10810174/wollaston-lake-celebre-mise-en-route-autoroute-995",
@@ -364,6 +386,28 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/manifestation-uqar-rimouski-etudiants-greve.jpg",
       "type": "article",
       "addedAt": "2026-11-13T22:36:27.973Z"
+    },
+    {
+      "id": "dc4c7f5c0d877590",
+      "guid": "https://ici.radio-canada.ca/article/culture/segment/2529427/tupperware-maria-meriano-empire",
+      "link": "https://ici.radio-canada.ca/article/culture/segment/2529427/tupperware-maria-meriano-empire",
+      "title": "La reine du Tupperware en vedette dans une série",
+      "excerpt": "La série Diamonds & Plastic trace le parcours de Maria Meriano, surnommée la reine du Tupperware.",
+      "published": "2026-11-13T20:14:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/tout-le-monde-en-parle-lepage-maria-meriano.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "2ae7442db7c1f150",
+      "guid": "https://ici.radio-canada.ca/article/culture/segment/2529422/nvidia-jensen-huang-espionnage-scandale",
+      "link": "https://ici.radio-canada.ca/article/culture/segment/2529422/nvidia-jensen-huang-espionnage-scandale",
+      "title": "Pierre-Yves McSween décortique la saga Nvidia",
+      "excerpt": "Jensen Huang, le président de Nvidia, a démissionné de son poste jeudi.",
+      "published": "2026-11-13T20:04:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/tout-le-monde-en-parle-lepage-pierre-yves-mcsween.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
     },
     {
       "id": "de321d1ff394a12a",

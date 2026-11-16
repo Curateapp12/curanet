@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "04d51cd3b65a8e9f",
+      "guid": "https://ici.radio-canada.ca/article/info/2300458/garcons-aide-cegep-reussites-donnes-cours-echec",
+      "link": "https://ici.radio-canada.ca/article/info/2300458/garcons-aide-cegep-reussites-donnes-cours-echec",
+      "title": "Les garçons ont besoin d’aide au cégep aussi, confirment des données",
+      "excerpt": "« Trop de garçons arrivent au cégep sans les compétences et les connaissances pour y réussir. »",
+      "published": "2026-11-16T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cegeps-reussite-scolaire-garcons-edouard-montpetit.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "304006241b9d5ff5",
+      "guid": "https://ici.radio-canada.ca/article/info/2300430/espaces-autochtones-anniversaire-10-ans",
+      "link": "https://ici.radio-canada.ca/article/info/2300430/espaces-autochtones-anniversaire-10-ans",
+      "title": "Espaces autochtones : retour sur 10 ans de terrain et de rencontres",
+      "excerpt": "De 2016 à 2026, des luttes et des mobilisations ont façonné l’actualité autochtone.",
+      "published": "2026-11-16T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vatican-delegation-autochtone.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "758480eb658728f2",
+      "guid": "https://ici.radio-canada.ca/article/info/2300733/cop31-canada-transition-energies-fossiles-critiques",
+      "link": "https://ici.radio-canada.ca/article/info/2300733/cop31-canada-transition-energies-fossiles-critiques",
+      "title": "COP31 : pas de feuille de route du Canada pour la transition hors des énergies fossiles",
+      "excerpt": "À la COP31, le refus d’Ottawa de planifier la sortie des énergies fossiles suscite de vives critiques.",
+      "published": "2026-11-16T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cop31-antalya-turquie-changements-climatiques.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "8d758b8aaebd47dd",
+      "guid": "https://ici.radio-canada.ca/article/info/2300358/asfc-agent-frontalier-arme-salaire-accommodement",
+      "link": "https://ici.radio-canada.ca/article/info/2300358/asfc-agent-frontalier-arme-salaire-accommodement",
+      "title": "Port d’arme à feu obligatoire : des agents frontaliers se font rétrograder",
+      "excerpt": "Malgré des restrictions médicales, 63 employés de l'ASFC seront affectés à des postes moins bien rémunérés.",
+      "published": "2026-11-16T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/asfc-agent-frontalier-arme-.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "f1111b9db0a79e7c",
+      "guid": "https://ici.radio-canada.ca/article/info/2300910/mark-carney-visite-chine-xi-jinping-diplomatie",
+      "link": "https://ici.radio-canada.ca/article/info/2300910/mark-carney-visite-chine-xi-jinping-diplomatie",
+      "title": "Mark Carney en Chine : le ballet diplomatique",
+      "excerpt": "Le tête-à-tête entre le premier ministre canadien et le président chinois Xi Jinping est prévu pour mardi.",
+      "published": "2026-11-16T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-premier-ministre-canada-manille.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "9fbe7a0e6728972b",
+      "guid": "https://ici.radio-canada.ca/article/info/2300931/interruption-vols-etats-unis-panne-aviation",
+      "link": "https://ici.radio-canada.ca/article/info/2300931/interruption-vols-etats-unis-panne-aviation",
+      "title": "Pas de retour à la normale avant lundi dans le ciel américain",
+      "excerpt": "La suspension du trafic aérien est dû à une panne lors des travaux de modernisation sur des infrastructures.",
+      "published": "2026-11-16T03:38:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/aeroport-etats-unis-transport-panne-vols.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "1b526e5a6c2b4050",
+      "guid": "https://ici.radio-canada.ca/article/info/2300939/estonie-fermeture-frontiere-russie-sabotage-guerre",
+      "link": "https://ici.radio-canada.ca/article/info/2300939/estonie-fermeture-frontiere-russie-sabotage-guerre",
+      "title": "L’Estonie fermera sa frontière avec la Russie après une nouvelle tentative de sabotage",
+      "excerpt": "Ce pays balte accuse la Russie de provocations hybrides depuis son invasion de l'Ukraine en 2022.",
+      "published": "2026-11-16T03:16:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/estonie-frontiere-russie-surveillance-patrouille-securite.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "ba5012ccc0d8ebf8",
+      "guid": "https://ici.radio-canada.ca/article/info/2300933/naufrage-nouvelle-orleans-gouvernail-petrolier-",
+      "link": "https://ici.radio-canada.ca/article/info/2300933/naufrage-nouvelle-orleans-gouvernail-petrolier-",
+      "title": "Naufrage à La Nouvelle-Orléans : le gouvernail du pétrolier serait resté bloqué",
+      "excerpt": "La cause de la défaillance du système de direction n’est pas encore clairement établie, selon les autorités.",
+      "published": "2026-11-16T02:31:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/accident-collision-bateau-croisiere-mississippi-nouvelle-orleans.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
+      "id": "9ddb284b6a1822b2",
+      "guid": "https://ici.radio-canada.ca/article/info/2300923/ukraine-guerre-negociation-paix-coalition-allies",
+      "link": "https://ici.radio-canada.ca/article/info/2300923/ukraine-guerre-negociation-paix-coalition-allies",
+      "title": "Guerre en Ukraine : début des préparations pour définir la position des alliés de Kiev",
+      "excerpt": "Volodymyr Zelensky a souligné le potentiel historique d'une réunion de la Coalition des volontaires.",
+      "published": "2026-11-16T02:15:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/volodymyr-zelensky-35768.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T09:38:34.213Z"
+    },
+    {
       "id": "97a8f83dfde3fa3d",
       "guid": "https://ici.radio-canada.ca/article/info/2300870/gaza-aide-humanitaire-canada-declaration-israel",
       "link": "https://ici.radio-canada.ca/article/info/2300870/gaza-aide-humanitaire-canada-declaration-israel",
