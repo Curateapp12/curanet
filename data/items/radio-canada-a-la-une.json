@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "97a8f83dfde3fa3d",
+      "guid": "https://ici.radio-canada.ca/article/info/2300870/gaza-aide-humanitaire-canada-declaration-israel",
+      "link": "https://ici.radio-canada.ca/article/info/2300870/gaza-aide-humanitaire-canada-declaration-israel",
+      "title": "Gaza : Ottawa et trois pays exigent un accès humanitaire « sans entrave » et « immédiat »",
+      "excerpt": "La déclaration indique que 150 000 tentes et autres fournitures vitales sont bloquées à la frontière de Gaza.",
+      "published": "2026-11-15T23:20:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/camion-aide-humanitaire-guerre-israel-hamas-gaza-rafah-passage-attaque-anniversaire.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T02:03:41.291Z"
+    },
+    {
+      "id": "7aa6c2d150a6d84e",
+      "guid": "https://ici.radio-canada.ca/article/info/2300836/eisenkot-israel-netanyahou-elections-depart",
+      "link": "https://ici.radio-canada.ca/article/info/2300836/eisenkot-israel-netanyahou-elections-depart",
+      "title": "Israël : pour Eisenkot, Nétanyahou ne peut pas rester « une minute de plus » en poste",
+      "excerpt": "Gadi Einsenkot a qualifié le comportement de M. Nétanyahou de « menace concrète » pour la démocratie d'Israël.",
+      "published": "2026-11-15T21:49:59.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/israel-elections-gadi-eisenkot-drapeau.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T02:03:41.291Z"
+    },
+    {
       "id": "c390e2397e368ad8",
       "guid": "https://ici.radio-canada.ca/info/en-direct/1014676/coupe-grey-alouettes-elks",
       "link": "https://ici.radio-canada.ca/info/en-direct/1014676/coupe-grey-alouettes-elks",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/travis-theis-alouettes.jpg",
       "type": "article",
       "addedAt": "2026-11-15T21:47:13.035Z"
+    },
+    {
+      "id": "53223302b10506ca",
+      "guid": "https://ici.radio-canada.ca/videos/1-10809455/incursion-a-gaza-on-a-suivi-une-medecin-pendant-plusieurs-jours",
+      "link": "https://ici.radio-canada.ca/videos/1-10809455/incursion-a-gaza-on-a-suivi-une-medecin-pendant-plusieurs-jours",
+      "title": "Incursion à Gaza : on a suivi une médecin pendant plusieurs jours",
+      "excerpt": "Pendant plusieurs jours, nous avons suivi le quotidien d’une jeune médecin dans la bande de Gaza. L’accès libre à l’enclave palestinienne reste interdit à la presse internationale depuis le 7 octobre 2023. Impossible pour nous de la rencontrer en personne, tout comme les autres intervenants que…",
+      "published": "2026-11-15T21:29:27.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/medecin-haneen-al-dayeh.jpg",
+      "type": "article",
+      "addedAt": "2026-11-16T02:03:41.291Z"
     },
     {
       "id": "6b347cdfc1590431",
