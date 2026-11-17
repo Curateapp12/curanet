@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "ba217b3fef5e5a10",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2531082/centre-excellence-3dexperience-edu-a-universite-moncton",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2531082/centre-excellence-3dexperience-edu-a-universite-moncton",
+      "title": "Un premier centre d’excellence en gestion du territoire à Moncton",
+      "excerpt": "L'Université de Moncton accueillera le tout premier centre d'excellence académique 3DEXPERIENCE Edu au Canada. Développé avec l'entreprise française Dassault Systèmes, ce pôle est le premier au monde à se consacrer exclusivement à la gestion du territoire, selon l'établissement.",
+      "published": "2026-11-16T21:06:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/francis-leblanc-chaire-recherche-cannabis-therapeutique-universite-moncton.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "312ebe1a58ca63d9",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10810796/centres-donnees-entre-gains-fiscaux-et-inquietudes",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10810796/centres-donnees-entre-gains-fiscaux-et-inquietudes",
+      "title": "Centres de données : entre gains fiscaux et inquiétudes",
+      "excerpt": "Des projets de centres de données à Saint-Jean et Miramichi, au Nouveau-Brunswick, promettent des millions en impôts fonciers, mais soulèvent des inquiétudes.",
+      "published": "2026-11-16T20:46:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vv-centre-donnees-retombees-margaud.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
       "id": "bf1225d27de8bc57",
       "guid": "https://ici.radio-canada.ca/videos/1-10810778/allo-anne-marie-sommet-francophonie-au-cambodge",
       "link": "https://ici.radio-canada.ca/videos/1-10810778/allo-anne-marie-sommet-francophonie-au-cambodge",
@@ -45,6 +67,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/prix-lieutenante-gouverneure-nb-excellence-arts-diane-losier-dyane-leger.png",
       "type": "article",
       "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "030a309bba1aa609",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17883/baleines-noirs-naissances-record-2026",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17883/baleines-noirs-naissances-record-2026",
+      "title": "Nombre record de baleineaux noirs de l’Atlantique Nord en 2026",
+      "excerpt": "Il s’agit d’un record de naissances depuis 2009. L’espèce demeure menacée, principalement en raison des empêtrements et des collisions avec les navires.",
+      "published": "2026-11-16T18:28:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/baleineau-baleine-noire-atlantique-nord.png",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
     },
     {
       "id": "9b3b8149c19e2cb6",
@@ -166,6 +199,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/monique-poirier-pays-de-la-sagouine-parler-de-paradis.png",
       "type": "article",
       "addedAt": "2026-11-14T17:05:00.373Z"
+    },
+    {
+      "id": "f391879216ed87d7",
+      "guid": "https://ici.radio-canada.ca/article/info/2300664/equipes-hockey-mineur-arnaque-inscription-tournois",
+      "link": "https://ici.radio-canada.ca/article/info/2300664/equipes-hockey-mineur-arnaque-inscription-tournois",
+      "title": "Des équipes de hockey des Maritimes volées pour de fausses inscriptions",
+      "excerpt": "Les malfaiteurs envoient par courriel de faux formulaires d’inscription pour de véritables tournois.",
+      "published": "2026-11-14T16:00:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hockey-mineur-espanola-61835.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
     },
     {
       "id": "2d8c3dd780608c65",

@@ -3,6 +3,61 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "c9bdcaf265096e22",
+      "guid": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "excerpt": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "published": "2026-11-16T22:58:27.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "948b78f962378e67",
+      "guid": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "title": "Three small failures combined to take down Microsoft 365",
+      "excerpt": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "published": "2026-11-16T21:56:39.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "1a436479b568fcdc",
+      "guid": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "excerpt": "Study attempts to tally hyperscalers’ energy use and emissions.",
+      "published": "2026-11-16T20:52:10.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "84f741940fbdaff2",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "excerpt": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "published": "2026-11-16T20:37:47.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "44692743b794c872",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+      "excerpt": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
+      "published": "2026-11-16T20:27:58.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
       "id": "c967050d516a6f52",
       "guid": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
       "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",

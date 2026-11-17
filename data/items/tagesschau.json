@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "aa95f2259f644905",
+      "guid": "deb98b60-b489-43a9-90a5-9c9c96722d50",
+      "link": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html",
+      "title": "Krieg gegen die Ukraine: Europas Unterhändler bringen sich in Stellung",
+      "excerpt": "Europa hat erstmals mit den USA und Kiew über eine Beendigung des Kriegs diskutiert - und dabei die Vertreter, die später mit Russland verhandeln, instruiert.",
+      "published": "2026-11-17T03:28:15.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/72e095aa-b4d5-4985-bafa-5f9eb422aadf/AAABoed9J3I/AAABnSSvrFg/16x9-big/ukraine-eu-126.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "bfddad442c1979c6",
+      "guid": "c46e5139-3dc5-4c95-9059-52c9cacbc7ce",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-chipindustrie-nvidia-100.html",
+      "title": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",
+      "excerpt": "Konkurrenten wie AMD oder Qualcomm reiben sich nach dem Abgang von Huang als CEO bei Nvidia schon die Hände. Was ist dran am möglichen Umbruch der Chip-Branche - und wie viel hat er tatsächlich mit dem Abtritt Huangs zu tun? Von R. Spiegelhauer.",
+      "published": "2026-11-17T03:16:17.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6d633769-30ea-47f6-8dc2-3bdccfad7fdb/AAABoedAQPQ/AAABnSSvrFg/16x9-big/amd-chip-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "9bff4fbd2e8657ed",
+      "guid": "e2b9f399-1638-435d-9c89-81e412950f42",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-188.html",
+      "title": "Proteste in Frankreich: Die Wut der Schüler, die Ohnmacht der Schulen",
+      "excerpt": "Gewerkschaften und Gelbwesten haben in Frankreich für heute erneut zu Protesten aufgerufen. Schüler wollen sich daran beteiligen. Schulleiter und Schulleiterinnen fühlen sich allein gelassen. Von Julia Borutta.",
+      "published": "2026-11-17T02:20:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e7e502cf-ddf9-419e-b061-574de7cab9dc/AAABoeYP5kw/AAABnSSvrFg/16x9-big/proteste-frankreich-190.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "46ce8723dea0eeef",
+      "guid": "4458af17-bbfb-4b56-96a5-bfbdbeb779d6",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
+      "title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Cyberangriffen",
+      "excerpt": "Der Generalstaatsanwalt von Kalifornien klagt OpenAI an - ein gefährliches Produkt ohne angemessene Sicherheitsverfahren oder Aufsicht habe das Unternehmen entwickelt und getestet. Von R. Spiegelhauer.",
+      "published": "2026-11-17T01:16:16.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/107293a0-c863-4c97-aa48-5a6679dbacfa/AAABoebsccw/AAABnSSvrFg/16x9-big/altman-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
       "id": "f578df7bab0520d5",
       "guid": "8dd45da1-d116-492d-81be-7651d9e9f262",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html",

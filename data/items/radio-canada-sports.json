@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "14aef1c2fa2e76ac",
+      "guid": "https://ici.radio-canada.ca/videos/1-10811020/venue-une-equipe-lcf-a-quebec-plus-compliquee-que-prevu",
+      "link": "https://ici.radio-canada.ca/videos/1-10811020/venue-une-equipe-lcf-a-quebec-plus-compliquee-que-prevu",
+      "title": "La venue d'une équipe de la LCF à Québec plus compliquée que prévu?",
+      "excerpt": "Avec un possible stade sur le site d'ExpoCité, le projet pourrait se heurter à une clause de non-concurrence accordée à Québecor par la Ville de Québec.",
+      "published": "2026-11-17T01:09:33.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/lcf-ligue-canadienne-football-ballon.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "5b2184b594c885a5",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301132/hockey-feminin-mondial-canada-etats-unis-fillier-tremblay",
+      "link": "https://ici.radio-canada.ca/article/sports/2301132/hockey-feminin-mondial-canada-etats-unis-fillier-tremblay",
+      "title": "Une équipe canadienne prometteuse face à un projet américain abouti",
+      "excerpt": "De jeunes joueuses comme Rosalie Tremblay ont obtenu leur chance.",
+      "published": "2026-11-16T23:59:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/canada-hockey-feminin.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "a8f3d598b4611cf6",
+      "guid": "https://ici.radio-canada.ca/article/info/2301136/finale-regionale-jeux-quebec-pickleball",
+      "link": "https://ici.radio-canada.ca/article/info/2301136/finale-regionale-jeux-quebec-pickleball",
+      "title": "Val-d’Or met le paquet pour le retour de la Finale régionale des Jeux du Québec",
+      "excerpt": "L’organisation prépare une grande édition pour le retour des Jeux à Val-d’Or après une absence de 12 ans.",
+      "published": "2026-11-16T21:48:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/finale-regionale-jeux-quebec-valdor-lavoie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "88eab517a29b7c05",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10810844/tempo-pourra-t-il-repecher-juju-watkins",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10810844/tempo-pourra-t-il-repecher-juju-watkins",
+      "title": "Le Tempo pourra-t-il repêcher JuJu Watkins?",
+      "excerpt": "Détenteur du premier choix de l’encan 2027 de la WNBA, le Tempo de Toronto devra convaincre la vedette des Trojans de l’USC, JuJu Watkins, de quitter les rangs universitaires pour la repêcher.",
+      "published": "2026-11-16T21:32:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/juju-watkins-34891.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "c9202d14bf23f934",
+      "guid": "https://ici.radio-canada.ca/jeunesse/maj/2301133/football-canadien-coupe-grey-finale",
+      "link": "https://ici.radio-canada.ca/jeunesse/maj/2301133/football-canadien-coupe-grey-finale",
+      "title": "Coupe Grey : les Elks couronnés, les Alouettes déplumées",
+      "excerpt": "Les Elks d'Edmonton ont remporté la 113e Coupe Grey grâce à une victoire de 37 à 30 contre les Alouettes de Montréal le dimanche 15 novembre 2026.",
+      "published": "2026-11-16T21:14:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/fajardo-elks.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
       "id": "606bbd9695e081ac",
       "guid": "https://ici.radio-canada.ca/article/info/2301115/universite-bishop-crosse-rugby-financement",
       "link": "https://ici.radio-canada.ca/article/info/2301115/universite-bishop-crosse-rugby-financement",
@@ -12,6 +67,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bishop-recrutement-etudiants-reseaux-sociaux-49967.jpeg",
       "type": "article",
       "addedAt": "2026-11-16T20:26:58.844Z"
+    },
+    {
+      "id": "5a94de5d633e367d",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17886/defi-365-matchs-moins-un-annee",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17886/defi-365-matchs-moins-un-annee",
+      "title": "Il relève un défi de jouer 365 matchs en moins d’un an",
+      "excerpt": "Kenny MacDonald, un passionné de sport d’Ottawa a repoussé les limites de l’exercice physique dans la dernière année en participant à 365 rencontres sportives.",
+      "published": "2026-11-16T20:13:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/kenny-macdonald-painfully-average-365-sports-365-jours-9052.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
     },
     {
       "id": "e6ff97c30fb47ec6",

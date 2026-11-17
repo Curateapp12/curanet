@@ -3,6 +3,50 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "05b6417e274f8133",
+      "guid": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
+      "title": "Optimizely supply chain attack infects major brands' sites with malware",
+      "excerpt": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit…",
+      "published": "2026-11-17T02:12:17.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "60f99194645fc286",
+      "guid": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "excerpt": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+      "published": "2026-11-16T22:54:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "6cd4bc50c4facab1",
+      "guid": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "excerpt": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+      "published": "2026-11-16T21:31:44.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "f7229d91014fb235",
+      "guid": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "excerpt": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world…",
+      "published": "2026-11-16T20:59:44.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
       "id": "f66e964ba9d367ad",
       "guid": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
       "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
