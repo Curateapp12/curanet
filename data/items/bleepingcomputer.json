@@ -3,6 +3,83 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "ddec81ba80b1014f",
+      "guid": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "excerpt": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "published": "2026-11-17T21:27:17.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "1dff6dd6c93a2fcc",
+      "guid": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "excerpt": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "published": "2026-11-17T20:51:21.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "6b76a35deee9b607",
+      "guid": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "excerpt": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+      "published": "2026-11-17T19:24:07.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "a2076d4177b97094",
+      "guid": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "excerpt": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+      "published": "2026-11-17T18:21:24.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "6b32b3a765865b84",
+      "guid": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "excerpt": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+      "published": "2026-11-17T18:04:15.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "3241c5d0e909d790",
+      "guid": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "excerpt": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+      "published": "2026-11-17T16:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "148f7e8fc320b8f8",
+      "guid": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "excerpt": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+      "published": "2026-11-17T15:01:11.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
       "id": "1dc4676c8263e5ee",
       "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",

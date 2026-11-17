@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "1540e49e0ab111b4",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10811885/refuge-a-inkerman-population-divisee",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10811885/refuge-a-inkerman-population-divisee",
+      "title": "Refuge à Inkerman : la population divisée",
+      "excerpt": "Des citoyens d’Inkerman, dans la Péninsule acadienne, dénoncent le manque de consultation autour d’un nouveau centre de réchauffement pour personnes itinérantes.",
+      "published": "2026-11-17T21:36:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vignette-centre-rechauffement-inkerman.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "84a6ce7cde22c9c1",
+      "guid": "https://ici.radio-canada.ca/article/info/2301286/ficfa-cinema-acadie-film-anniversaire",
+      "link": "https://ici.radio-canada.ca/article/info/2301286/ficfa-cinema-acadie-film-anniversaire",
+      "title": "FICFA : la genèse d’un festival rassembleur",
+      "excerpt": "Le 40e Festival international de cinéma francophone en Acadie (FICFA) prend son envol mardi.",
+      "published": "2026-11-17T20:43:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ficfa-40.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "9cf26632a564661d",
+      "guid": "https://ici.radio-canada.ca/videos/1-10811631/serena-wu-et-mayaya-a-semaine-musique-n-e",
+      "link": "https://ici.radio-canada.ca/videos/1-10811631/serena-wu-et-mayaya-a-semaine-musique-n-e",
+      "title": "Serena Wu et Mayaya à la Semaine de la musique de la N.-É.",
+      "excerpt": "La Semaine de la musique de la Nouvelle-Écosse se déroulait du 12 au 15 novembre à Truro. Plusieurs artistes francophones étaient à l'honneur, y compris les deux autrices-compositrices-interprètes émergentes Serena Wu et Mayaya. La journaliste culturelle Caroline Lévesque les a reçues en entrevue.",
+      "published": "2026-11-17T18:07:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/serena-wu-mayaya-semaine-musique-nouvelle-ecosse-halifax.png",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "f4023b460a02aac2",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2531879/industrie-ostreicole-en-danger-en-atlantique",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2531879/industrie-ostreicole-en-danger-en-atlantique",
+      "title": "Production des huîtres : le mystère de la MSX",
+      "excerpt": "L’industrie de l'huître fait face à une crise dans les Maritimes. Deux maladies, la MSX et la dermo, s’attaquent aux élevages. Des millions d'huîtres sont mortes dans nos régions, mettant en péril toute une industrie. Des programmes gouvernementaux aident des producteurs et de la recherche est en…",
+      "published": "2026-11-17T16:33:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/huitres-mortes-msx-js-oysters-cocagne-nouveau-brunswick.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "fca00f8b5491f08f",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2531785/marche-immobilier-ralentit-meme-a-moncton",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2531785/marche-immobilier-ralentit-meme-a-moncton",
+      "title": "Moncton : le marché immobilier ralentit",
+      "excerpt": "La rapidité et le prix des ventes de maisons ont atteint des niveaux records, durant la pandémie de COVID-19, mais cet engouement semble déjà bien loin derrière nous.",
+      "published": "2026-11-17T14:54:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/alexandre-maltais-agent-immobilier-nouveau-brunswick.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
       "id": "8fab7d8a1f7441a2",
       "guid": "https://ici.radio-canada.ca/article/info/2301180/centre-rechauffement-urgence-tension-inkerman",
       "link": "https://ici.radio-canada.ca/article/info/2301180/centre-rechauffement-urgence-tension-inkerman",
@@ -232,6 +287,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hockey-mineur-espanola-61835.jpg",
       "type": "article",
       "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "aa3018c0f28658c5",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-samedi/segments/rattrapage/2529653/un-coup-oeil-au-festival-litteraire-terre-neuve",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-samedi/segments/rattrapage/2529653/un-coup-oeil-au-festival-litteraire-terre-neuve",
+      "title": "Danielle Loranger au Festival littéraire de T.-N.-L.",
+      "excerpt": "Le Festival littéraire de Terre-Neuve-et-Labrador se déroule du 12 au 19 novembre à différents endroits dans la province sous le thème « Paroles, Mystères et Traditions ».",
+      "published": "2026-11-14T14:07:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/danielle-loranger-autrice-illustratrice-sam-sixmoineaux.png",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
     },
     {
       "id": "2d8c3dd780608c65",

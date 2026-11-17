@@ -3,6 +3,94 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "d2f90fb918d969fe",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "excerpt": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "published": "2026-11-17T20:32:55.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "77e9d4b8bfaa7086",
+      "guid": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+      "link": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+      "title": "Civilization studio Firaxis Games lays off a third of staff",
+      "excerpt": "Studio head Heather Hazen is among those departing.",
+      "published": "2026-11-17T19:45:25.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/civ7-graphics-1-1152x648-1738360684.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "43f1125fa4c663c5",
+      "guid": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+      "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "excerpt": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+      "published": "2026-11-17T18:26:26.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-1152x648-1794938366.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "89d80c21bb59fe17",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "excerpt": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "published": "2026-11-17T18:13:34.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "1cc34e861f35d556",
+      "guid": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "link": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "excerpt": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "published": "2026-11-17T18:00:51.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "a513c3b2bdeaedaa",
+      "guid": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "excerpt": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "published": "2026-11-17T16:50:10.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "88b9d79fac3cae3f",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+      "title": "House Democrats promise a US return to global climate talks",
+      "excerpt": "A new House majority can push climate policy, but a full US return remains uncertain.",
+      "published": "2026-11-17T15:32:43.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
+      "id": "0e789c02d67386aa",
+      "guid": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "excerpt": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "published": "2026-11-17T14:00:29.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T22:20:28.053Z"
+    },
+    {
       "id": "0feeb055e8204699",
       "guid": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
       "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
