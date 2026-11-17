@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "b6d9a58d75698cf2",
+      "guid": "https://ici.radio-canada.ca/article/info/2301206/vente-maisons-canada-octobre-2026",
+      "link": "https://ici.radio-canada.ca/article/info/2301206/vente-maisons-canada-octobre-2026",
+      "title": "Immobilier : les ventes et les prix se maintiennent au Canada en octobre",
+      "excerpt": "Les ventes ont progressé de 0,3 % de septembre à octobre, dit l'Association canadienne de l'immobilier.",
+      "published": "2026-11-17T13:05:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/quebec-vente-maison-residentielle-immobilier.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
+      "id": "0d707183f164ab45",
+      "guid": "https://ici.radio-canada.ca/article/info/2296812/qualinet-apres-sinistre-avis-google-inondation-degat-eau",
+      "link": "https://ici.radio-canada.ca/article/info/2296812/qualinet-apres-sinistre-avis-google-inondation-degat-eau",
+      "title": "Opération nettoyage : voici comment Qualinet a manipulé sa réputation en ligne",
+      "excerpt": "Des employés ont rédigé des avis élogieux pour étouffer la grogne de clients dénonçant des factures gonflées.",
+      "published": "2026-11-17T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/qualinet-la-facture.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
+      "id": "1b29f84344b7e121",
+      "guid": "https://ici.radio-canada.ca/article/info/2301145/guerre-verre-consigne-recyclage",
+      "link": "https://ici.radio-canada.ca/article/info/2301145/guerre-verre-consigne-recyclage",
+      "title": "La guerre du verre fait rage au Québec",
+      "excerpt": "Différents acteurs convoitent la manne financière que représente la consignation des bouteilles de vin.",
+      "published": "2026-11-17T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bouteilles-vides-vin.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
+      "id": "4e19ab1de2835a23",
+      "guid": "https://ici.radio-canada.ca/article/info/2301036/agression-sexuelle-presumee-actes-violents-ecoles-protecteur-eleve-plaintes",
+      "link": "https://ici.radio-canada.ca/article/info/2301036/agression-sexuelle-presumee-actes-violents-ecoles-protecteur-eleve-plaintes",
+      "title": "Agression sexuelle présumée de son fils : « On s’est sentis abandonnés »",
+      "excerpt": "108 plaintes ont été faites contre des écoles concernant la gestion d'actes à caractère sexuel cette année.",
+      "published": "2026-11-17T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/polyvalente-ancienne-lorette1.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
+      "id": "7b47da8ea31391cd",
+      "guid": "https://ici.radio-canada.ca/article/autochtones/2300425/conference-nations-unies-climat-jeunes-autochtones-attentes",
+      "link": "https://ici.radio-canada.ca/article/autochtones/2300425/conference-nations-unies-climat-jeunes-autochtones-attentes",
+      "title": "« Notre avenir est en jeu » : trois voix autochtones à la COP31",
+      "excerpt": "Entre terres contaminées et droits menacés, trois jeunes Autochtones portent leurs espoirs à la COP31.",
+      "published": "2026-11-17T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cop-31-manifestation-societe-civile-pollueurs-environnement.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
+      "id": "8f3cc13341c68851",
+      "guid": "https://ici.radio-canada.ca/article/info/2300341/cop31-climat-turquie-consensus-lobbyistes",
+      "link": "https://ici.radio-canada.ca/article/info/2300341/cop31-climat-turquie-consensus-lobbyistes",
+      "title": "Après 30 ans de sommets climatiques, la machine des COP peut-elle être réparée?",
+      "excerpt": "COP31 : comment réformer les sommets climatiques devenus trop lourds et lents pour agir efficacement?",
+      "published": "2026-11-17T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cop31-climat-turquie-antalya-94531.jpg",
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
       "id": "575a3cafe8bccd68",
       "guid": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique",
       "link": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique",

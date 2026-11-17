@@ -3,6 +3,61 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "1dc4676c8263e5ee",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "excerpt": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+      "published": "2026-11-17T11:19:51.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
+      "id": "10eb36112f400437",
+      "guid": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "excerpt": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+      "published": "2026-11-17T09:44:22.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
+      "id": "3ad387c63ed54320",
+      "guid": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+      "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "excerpt": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+      "published": "2026-11-17T08:35:42.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
+      "id": "d51a92f2bc9a5405",
+      "guid": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "excerpt": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+      "published": "2026-11-17T07:25:44.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
+      "id": "50204565d4ff3ec5",
+      "guid": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "excerpt": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit…",
+      "published": "2026-11-17T02:12:17.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-17T13:21:52.169Z"
+    },
+    {
       "id": "05b6417e274f8133",
       "guid": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
       "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
