@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "5ba454a5c2798ec2",
+      "guid": "https://ici.radio-canada.ca/article/culture/2301640/eulalie-serie-peuple-acadien-deportation",
+      "link": "https://ici.radio-canada.ca/article/culture/2301640/eulalie-serie-peuple-acadien-deportation",
+      "title": "Une série sur la déportation du peuple acadien bientôt en tournage",
+      "excerpt": "C’est Myriam Verreault qui portera à l’écran l’histoire d’Eulalie La Tour, d’après le roman d’Alfred Silver.",
+      "published": "2026-11-18T21:15:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/ajlh-deportation-acadiens-grand-derangement.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T21:55:06.640Z"
+    },
+    {
+      "id": "96800752e7cd63f3",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17913/consanguinite-baleines-noires-atlantique-nord",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17913/consanguinite-baleines-noires-atlantique-nord",
+      "title": "La consanguinité nuit au rétablissement des baleines noires",
+      "excerpt": "Jusqu'à 70 % des fœtus de baleine noire de l'Atlantique Nord sont perdus en raison de la consanguinité, selon des recherches préliminaires.",
+      "published": "2026-11-18T16:43:59.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/baleine-noire-10442.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T21:55:06.640Z"
+    },
+    {
+      "id": "e5ef92dfd3a2dc41",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2532940/ce-qui-est-derriere-debat-une-nouvelle-ecole-anglophone-a-dieppe",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2532940/ce-qui-est-derriere-debat-une-nouvelle-ecole-anglophone-a-dieppe",
+      "title": "École anglophone à Dieppe : l’analyse du débat",
+      "excerpt": "Le projet de construction d'une nouvelle école anglophone à Dieppe, au Nouveau-Brunswick, soulève les passions. D’un côté, des francophones craignent l’anglicisation de la plus grande ville acadienne. De l’autre, des parents soulignent les besoins criants en éducation dans leur communauté. Sous…",
+      "published": "2026-11-18T16:33:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/boulevard-dieppe-inauguration.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T21:55:06.640Z"
+    },
+    {
+      "id": "05a24ba707086274",
+      "guid": "https://ici.radio-canada.ca/article/info/2301451/consanguinite-baleine-noire-atlantique-nord",
+      "link": "https://ici.radio-canada.ca/article/info/2301451/consanguinite-baleine-noire-atlantique-nord",
+      "title": "La consanguinité fait obstacle au rétablissement des baleines noires",
+      "excerpt": "Jusqu'à 70 % des fœtus sont perdus en raison de la consanguinité, selon des recherches préliminaires.",
+      "published": "2026-11-18T14:10:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/baleine-noire-atlantique-nord-bebe-baleineau-ghost.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T21:55:06.640Z"
+    },
+    {
+      "id": "178fc1d6867af65a",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2532788/proche-aidance-personnes-francophones-agees-75-ans-et-plus",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2532788/proche-aidance-personnes-francophones-agees-75-ans-et-plus",
+      "title": "Proche aidance : une journée de réflexion",
+      "excerpt": "Un événement, organisé aujourd’hui par l’école de travail social de l’Université de Moncton, vise à sensibiliser la population au soutien qu’offrent les personnes âgées francophones proches aidantes de 75 ans et plus.",
+      "published": "2026-11-18T13:28:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/semaine-proche-aidant-95596.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T21:55:06.640Z"
+    },
+    {
       "id": "147871af318fdc0c",
       "guid": "https://ici.radio-canada.ca/article/info/2301429/poulailler-riviere-verte-edmundston-westco",
       "link": "https://ici.radio-canada.ca/article/info/2301429/poulailler-riviere-verte-edmundston-westco",

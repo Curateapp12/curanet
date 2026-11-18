@@ -3,6 +3,50 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "ede0adf4c578028e",
+      "guid": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "excerpt": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+      "published": "2026-11-18T20:49:32.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-18T21:55:06.640Z"
+    },
+    {
+      "id": "9f639cd35360f889",
+      "guid": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "excerpt": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+      "published": "2026-11-18T19:39:33.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-18T21:55:06.640Z"
+    },
+    {
+      "id": "4d21e756021aad15",
+      "guid": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+      "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+      "excerpt": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
+      "published": "2026-11-18T16:58:42.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-18T21:55:06.640Z"
+    },
+    {
+      "id": "8e8debc4b233d460",
+      "guid": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "excerpt": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering…",
+      "published": "2026-11-18T15:00:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-18T21:55:06.640Z"
+    },
+    {
       "id": "57cf485fa9212e04",
       "guid": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
       "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
