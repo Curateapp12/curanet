@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "147871af318fdc0c",
+      "guid": "https://ici.radio-canada.ca/article/info/2301429/poulailler-riviere-verte-edmundston-westco",
+      "link": "https://ici.radio-canada.ca/article/info/2301429/poulailler-riviere-verte-edmundston-westco",
+      "title": "Projet de poulailler industriel à Rivière-Verte : la Ville pose une série de conditions",
+      "excerpt": "Le nombre de bâtiments, la gestion des eaux usées et l'entreposage du fumier en font partie.",
+      "published": "2026-11-18T11:39:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/westco-edmundston-conseil-municipal-17-novembre-2026.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "7c8402616e2a4f41",
+      "guid": "https://ici.radio-canada.ca/article/info/2301272/marche-immobilier-nouveau-brunswick-octobre",
+      "link": "https://ici.radio-canada.ca/article/info/2301272/marche-immobilier-nouveau-brunswick-octobre",
+      "title": "Vers un marché immobilier favorable aux acheteurs au Nouveau-Brunswick",
+      "excerpt": "Les maisons restent en vente plus longtemps et les acheteurs ont plus de choix.",
+      "published": "2026-11-18T10:37:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/marche-immobilier-moncton-dieppe-nouveau-brunswick.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
       "id": "1540e49e0ab111b4",
       "guid": "https://ici.radio-canada.ca/en-bref/1-10811885/refuge-a-inkerman-population-divisee",
       "link": "https://ici.radio-canada.ca/en-bref/1-10811885/refuge-a-inkerman-population-divisee",
@@ -320,6 +342,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hockey-mineur-espanola-61835.jpg",
       "type": "article",
       "addedAt": "2026-11-17T03:51:29.687Z"
+    },
+    {
+      "id": "39c540855636da3e",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-samedi/segments/rattrapage/2529659/courant-atlantique-pour-stimuler-releve-musicale",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-samedi/segments/rattrapage/2529659/courant-atlantique-pour-stimuler-releve-musicale",
+      "title": "Courant Atlantique : pour stimuler la relève musicale",
+      "excerpt": "ICI Musique et la Fondation SOCAN créent le programme immersif « Courant atlantique » pour encourager la création de musique francophone en Atlantique.",
+      "published": "2026-11-14T15:07:50.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/istudio-musique-kapuskasing-releve-franco-ontarien.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
     },
     {
       "id": "aa3018c0f28658c5",

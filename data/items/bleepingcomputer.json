@@ -3,6 +3,50 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "57cf485fa9212e04",
+      "guid": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "excerpt": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+      "published": "2026-11-18T11:50:25.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "4f4cc6f190747ed0",
+      "guid": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "excerpt": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+      "published": "2026-11-18T10:35:05.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "4ccf67b96d4a380e",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "excerpt": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+      "published": "2026-11-18T09:24:31.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "0ad69605a84900f7",
+      "guid": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "excerpt": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+      "published": "2026-11-18T08:24:18.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
       "id": "126567e065a77521",
       "guid": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
       "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",

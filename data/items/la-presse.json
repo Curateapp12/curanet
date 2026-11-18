@@ -3,6 +3,116 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "710dc3bdf512329e",
+      "guid": "a1579946401836d9a0804fc56b34ced8",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-18/meurtre-a-granby/appel-au-public-pour-retrouver-trois-suspects.php",
+      "title": "Meurtre à Granby | Appel au public pour retrouver trois suspects",
+      "excerpt": "Quatre jours après un meurtre sordide dans une résidence de Granby, les policiers demandent l’aide de la population pour identifier trois suspects, « deux hommes de race blanche et un homme de race noire qui auraient été aperçus alors qu’ils s’enfuyaient du secteur ».",
+      "published": "2026-11-18T13:48:55.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/15d4e3f1d1e3366b979780e80d5ee494.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "d907670272820a98",
+      "guid": "2662a23115253c08a3962e8ad4c101a6",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-11-18/colombie-britannique/des-chercheurs-utilisent-des-drones-pour-prelever-du-mucus-de-baleine.php",
+      "title": "Colombie-Britannique | Des chercheurs utilisent des drones pour prélever du mucus de baleine",
+      "excerpt": "Des chercheurs qui étudient les baleines à bosse au large des côtes de la Colombie-Britannique utilisent des drones pour prélever du « mucus de baleine », ce qui a permis aux scientifiques de réaliser un séquençage complet du génome sans recourir à des fléchettes, à des biopsies ni à une approche…",
+      "published": "2026-11-18T13:27:29.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/d150f6b69080393d83887ab7b0d51025.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "b018885fa246676d",
+      "guid": "f91fb9cbaed830bda9e0804f694ad8c7",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-18/metro-de-montreal/des-equipements-vandalises-a-la-station-universite-de-montreal.php",
+      "title": "Métro de Montréal | Des équipements vandalisés à la station Université-de-Montréal",
+      "excerpt": "Un groupe se présentant comme « le Conseil pour le maintien des hostilités » a vandalisé mercredi matin des équipements à la station de métro Université-de-Montréal.",
+      "published": "2026-11-18T13:20:57.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/8dc222eca72a30df844d1449f48fc0d3.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "67cb3f066c1db4a9",
+      "guid": "47861f46d331343c98edcb2c15c5ce57",
+      "link": "https://www.lapresse.ca/actualites/environnement/2026-11-18/cop31/les-ministres-en-conseil-pour-tenter-de-debloquer-les-negociations.php",
+      "title": "COP31 | Les ministres en conseil pour tenter de débloquer les négociations",
+      "excerpt": "Au 10e jour de la grande réunion annuelle de l’ONU sur le climat COP31 à Antalya, en Turquie, les désaccords restent nombreux et les ministres doivent se retrouver en fin de journée pour tenter de faire avancer les négociations.",
+      "published": "2026-11-18T12:36:57.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/cc12562b8b0e3889a612a12291d45fda.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "93dc4e6ba9445258",
+      "guid": "7ee2b2a17593342ea4dc2d19bf227afb",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-18/brossard/un-homme-de-67-ans-aurait-ete-tue-par-son-colocataire.php",
+      "title": "Brossard | Un homme de 67 ans aurait été tué par son colocataire",
+      "excerpt": "Un appartement de la rue Beaulac, à Brossard, a été le théâtre du troisième meurtre de 2026 dans l’agglomération de Longueuil quand un conflit entre colocataires aurait dégénéré.",
+      "published": "2026-11-18T12:32:44.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/95da9105fc4f369990cd1f3f4d54da11.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "a8c65c9d82280fec",
+      "guid": "871fc45720a53ccdb3a1d5519d4ae949",
+      "link": "https://www.lapresse.ca/actualites/caricatures/2026-11-18/cibles-climatiques/sur-la-bonne-voie.php",
+      "title": "Cibles climatiques | Sur la bonne voie ?",
+      "excerpt": "",
+      "published": "2026-11-18T12:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/a0cdc30c/3812354a9f363fbebb70e2730a2b6068.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "82fdd9cc625cbc0d",
+      "guid": "63c8cf877a4c357abb9918ddd52bd331",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-11-18/la-sonde-voyager-1-desormais-a-un-jour-lumiere-de-la-terre.php",
+      "title": "La sonde Voyager 1 désormais à un jour-lumière de la Terre",
+      "excerpt": "La sonde Voyager 1 de la NASA, qui voyage depuis près de 50 ans dans l’espace, a atteint mercredi la distance symbolique d’un jour-lumière par rapport à la Terre.",
+      "published": "2026-11-18T11:58:51.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0d382746/fdb01a2813c0310b9f4a5b017bcec674.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "a13a005d057bbc46",
+      "guid": "b96658518ce03109b3b25418ba4fe484",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-18/accessibilite-de-la-justice/le-barreau-propose-un-credit-d-impot-et-un-811.php",
+      "title": "Accessibilité de la justice | Le Barreau propose un crédit d’impôt et un 811",
+      "excerpt": "Devant un système de justice de plus en plus inaccessible et coûteux, le Barreau du Québec propose des solutions, notamment une ligne d’information juridique de type 811 et un crédit d’impôt remboursable pour des honoraires juridiques en matière familiale.",
+      "published": "2026-11-18T11:55:55.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/dbd7c6f7/fdbe6022090836f299e9f3beec05d14d.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "4a14fc97e3bda337",
+      "guid": "bd636436fca234dbbca030e5b3409913",
+      "link": "https://www.lapresse.ca/actualites/2026-11-18/canada/le-systeme-en-alerte-sera-mis-a-l-essai-mercredi.php",
+      "title": "Canada | Le système « En Alerte » sera mis à l’essai mercredi",
+      "excerpt": "Le système canadien d’alertes au public, « En Alerte », sera mis à l’essai d’un bout à l’autre du pays mercredi. Au Québec, le test aura lieu à 13 h 55.",
+      "published": "2026-11-18T11:47:55.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/9c533413/ba3bf954ac4c38b89382dd2f9cafca40.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "b3c3ddf7a585f285",
+      "guid": "f6b9eb59719e3e908449e23083e8ba5a",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-18/la-presse-en-chine/carney-a-rencontre-trump-sur-le-terrain-de-xi.php",
+      "title": "La Presse en Chine | Carney a rencontré Trump sur le terrain de Xi",
+      "excerpt": "Le premier ministre Mark Carney a rencontré mercredi le président Donald Trump en sol chinois pour faire le point sur les relations commerciales entre le Canada et les États-Unis.",
+      "published": "2026-11-18T10:37:22.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/fa49ba352a7938f39051796cdb521dbd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
       "id": "a0803873a62c947e",
       "guid": "d94b517474ae3ad9aa51e8e2c9f03ece",
       "link": "https://www.lapresse.ca/actualites/politique/2026-11-17/ex-premier-ministre-de-l-alberta/jason-kenney-croit-aux-chances-d-eric-duhaime-de-prendre-le-pouvoir.php",

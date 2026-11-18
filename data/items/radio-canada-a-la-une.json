@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "3a4df2c1f8970ebd",
+      "guid": "https://ici.radio-canada.ca/article/info/2301461/rencontre-carney-trump-apec-negociation-guerre-commerciale",
+      "link": "https://ici.radio-canada.ca/article/info/2301461/rencontre-carney-trump-apec-negociation-guerre-commerciale",
+      "title": "Mark Carney a rencontré Donald Trump en marge du sommet de l’APEC en Chine",
+      "excerpt": "La rencontre, qui a duré une vingtaine de minutes, n'était pas à l'agenda original du premier ministre.",
+      "published": "2026-11-18T13:17:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/drapeau-canada-etats-unis-ottawa-guerre-commerciale-conflit-tarifaire.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "08efe548c08e85c2",
+      "guid": "https://ici.radio-canada.ca/article/info/2301427/sante-quebec-change-vocabulaire-plaire-pq",
+      "link": "https://ici.radio-canada.ca/article/info/2301427/sante-quebec-change-vocabulaire-plaire-pq",
+      "title": "Menacée par le PQ, Santé Québec adopte un vocabulaire plus nationaliste",
+      "excerpt": "La haute direction a demandé aux équipes d’éviter l'usage des termes « province » et « provincial ».",
+      "published": "2026-11-18T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/genevieve-biron-patrice-roy.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "35513df48f724bbb",
+      "guid": "https://ici.radio-canada.ca/article/info/recit/17579/slovenie-sports-forme-physique-sante-enfants",
+      "link": "https://ici.radio-canada.ca/article/info/recit/17579/slovenie-sports-forme-physique-sante-enfants",
+      "title": "La recette slovène : comment élever les enfants les plus en forme au monde?",
+      "excerpt": "La Slovénie développe depuis 1987 une méthode à faible coût pour garder ses jeunes exceptionnellement actifs.",
+      "published": "2026-11-18T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/la-recette-slovene-enfants-conducteurs.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "431a7e1149c9d1bd",
+      "guid": "https://ici.radio-canada.ca/article/info/2301105/intelligence-artificielle-fiabilite-climat-unesco",
+      "link": "https://ici.radio-canada.ca/article/info/2301105/intelligence-artificielle-fiabilite-climat-unesco",
+      "title": "En matière de climat, l’IA donnerait souvent raison à l’utilisateur sans égard aux faits",
+      "excerpt": "Après avoir testé 33 modèles d'IA, une étude de l'UNESCO conclut que ces outils sont peu fiables.",
+      "published": "2026-11-18T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/chatbot-chatgpt.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "4b66439a4988c456",
+      "guid": "https://ici.radio-canada.ca/article/info/2301396/pays-europe-plan-expulsion-migrants-rwanda",
+      "link": "https://ici.radio-canada.ca/article/info/2301396/pays-europe-plan-expulsion-migrants-rwanda",
+      "title": "Voici comment des pays européens veulent expulser des migrants vers le Rwanda",
+      "excerpt": "Des experts interrogés par Radio-Canada critiquent ce projet controversé, qui inquiète l’ONU.",
+      "published": "2026-11-18T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/migrants-manche-angleterre-bateau-clandestin-migration-asile.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "af9802ecff73eb4c",
+      "guid": "https://ici.radio-canada.ca/article/info/2301406/rapprochement-chine-pari-risque-mark-carney",
+      "link": "https://ici.radio-canada.ca/article/info/2301406/rapprochement-chine-pari-risque-mark-carney",
+      "title": "Rapprochement avec la Chine : un pari risqué de Mark Carney, disent des experts",
+      "excerpt": "Le Canada met en jeu son économie, mais aussi ses valeurs, soulignent-ils.",
+      "published": "2026-11-18T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/carney-xi-chine-relations.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
+      "id": "12e701e9b40f6c65",
+      "guid": "https://ici.radio-canada.ca/article/info/2301439/democrates-remportent-alaska-obtenant-plus-large-majorite-senat",
+      "link": "https://ici.radio-canada.ca/article/info/2301439/democrates-remportent-alaska-obtenant-plus-large-majorite-senat",
+      "title": "Les démocrates remportent l’Alaska, obtenant leur plus large majorité au Sénat en 16 ans",
+      "excerpt": "Mary Peltola s'impose avec 50,12 % des voix face au sénateur républicain sortant, Dan Sullivan.",
+      "published": "2026-11-18T04:46:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/peltola-victoire-alaska-democrates-senat.jpg",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
+    },
+    {
       "id": "ddd9526f338630b4",
       "guid": "https://ici.radio-canada.ca/article/info/2301431/pannes-etats-unis-aucune-preuve-lien-malveillance-rubio",
       "link": "https://ici.radio-canada.ca/article/info/2301431/pannes-etats-unis-aucune-preuve-lien-malveillance-rubio",
@@ -12,6 +89,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/marco-rubio-33672.jpg",
       "type": "article",
       "addedAt": "2026-11-18T04:17:49.172Z"
+    },
+    {
+      "id": "a71665a21405ef8c",
+      "guid": "https://ici.radio-canada.ca/article/info/2301425/deraillement-terrace-riviere-skeena",
+      "link": "https://ici.radio-canada.ca/article/info/2301425/deraillement-terrace-riviere-skeena",
+      "title": "Le déraillement d’un train du CN fait deux blessés près de Terrace en C.-B.",
+      "excerpt": "Les blessés se trouvent dans un « état grave, mais stable ».",
+      "published": "2026-11-18T02:49:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/deraillement-train-terrace.png",
+      "type": "article",
+      "addedAt": "2026-11-18T13:55:55.285Z"
     },
     {
       "id": "9aa11615fcf379ce",
