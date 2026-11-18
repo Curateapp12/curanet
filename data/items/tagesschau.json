@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "015eaa7a280a7052",
+      "guid": "2e6900e4-4c2e-409c-afce-9836ab2bd37d",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
+      "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
+      "excerpt": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
+      "published": "2026-11-18T04:02:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bc2c6c80-990a-4148-9db6-e13a5380ef36/AAABocl4vCo/AAABnSSvrFg/16x9-big/inflation-300.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-18T04:17:49.172Z"
+    },
+    {
+      "id": "72f4fdc2e39ac283",
+      "guid": "cf0a7a28-ec74-4bbb-8352-7ecc7290703f",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html",
+      "title": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
+      "excerpt": "Das israelische Parlament hat Matan Kahana zu seinem neuen Präsidenten und Sprecher gewählt - damit hat der Anti-Netanjahu-Block einen wichtigen Schritt gemacht. Von B. Meier.",
+      "published": "2026-11-18T03:10:48.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a65ffd42-8668-4426-aae9-7c3278c8f863/AAABoew78DU/AAABnSSvrFg/16x9-big/kahana-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-18T04:17:49.172Z"
+    },
+    {
+      "id": "64ee4d4ef310fb7e",
+      "guid": "efc00ebd-c9c9-44ff-8659-7dcdb3058ee4",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-beendet-verhandlungen-100.html",
+      "title": "Mögliche Stromsteuersenkung: Verhandlung beendet - Verkündung am Morgen",
+      "excerpt": "Die Spitzen von CDU, CSU und SPD haben ihre Beratungen im Kanzleramt am frühen Mittwochmorgen beendet - ohne eine Einigung zur Stromsteuersenkung zu verkünden. Die Details sollen am frühen Morgen bekanntgegeben werden.",
+      "published": "2026-11-18T02:12:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0088d04f-ea54-41f0-8519-068dd899b393/AAABoexbXIM/AAABnSSvrFg/16x9-big/bundeskanzleramt-224.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-18T04:17:49.172Z"
+    },
+    {
+      "id": "9d4439b330358536",
+      "guid": "bd235885-2dd4-46d8-9781-12e72e8937e5",
+      "link": "https://www.tagesschau.de/ausland/amerika/masern-usa-118.html",
+      "title": "Laut Gesundheitsbehörde: Warum die USA nicht mehr masernfrei sind",
+      "excerpt": "Die USA erleben den schlimmsten Masern-Ausbruch seit mehr als 35 Jahren. Und haben nun auch ihren Status als masernfreies Land verloren. Das hat die Panamerikanische Gesundheitsorganisation (PAHO) offiziell bekannt gegeben. Von N. Barth.",
+      "published": "2026-11-18T01:34:24.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/1efc46ba-62c4-4f11-b186-d1bbef0e7a84/AAABoev_xZM/AAABnSSvrFg/16x9-big/robert-f-kennedy-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-18T04:17:49.172Z"
+    },
+    {
+      "id": "2e7137c9825228a7",
+      "guid": "75792074-049c-4449-a3ef-b9887d19446d",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
+      "title": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
+      "excerpt": "Wenige Tage nach der Spionageaffäre rund um den bisherigen Konzernchef Huang hat Nvidia überraschend starke Quartalsergebnisse vorgelegt. Die Zahlen des US-Chipkonzerns lagen deutlich über den Erwartungen von Analysten.",
+      "published": "2026-11-18T00:59:30.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7a5ba079-19f9-4775-bb58-6418efd0b5e7/AAABoewqDOw/AAABnSSvrFg/16x9-big/nvidia-logo-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-18T04:17:49.172Z"
+    },
+    {
       "id": "26759d27693eecd7",
       "guid": "c6843791-f78d-426a-b231-b470450b8fb5",
       "link": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
