@@ -3,6 +3,116 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "dbb1fdd324d13c3f",
+      "guid": "24156d8f9512390daf4875b0f8191a26",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-19/entre-janvier-et-aout/moins-de-morts-et-de-blesses-graves-sur-les-routes-du-quebec.php",
+      "title": "Entre janvier et août | Moins de morts et de blessés graves sur les routes du Québec",
+      "excerpt": "Le nombre de morts et de blessés graves ont tous deux été en baisse sur les routes du Québec lors des huit premiers mois de l’année comparativement à la même période en 2025.",
+      "published": "2026-11-19T12:48:48.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/119f27b4ea76359da12fd89899188c46.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "1abdd6bad56b3d9e",
+      "guid": "5149026f69af39bb9062008d788adaac",
+      "link": "https://www.lapresse.ca/actualites/2026-11-19/balado-en-immersion/m-lamothe-ne-veut-plus-mourir.php",
+      "title": "Balado En immersion | M. Lamothe ne veut plus mourir",
+      "excerpt": "Le balado En immersion vous entraîne au cœur des problèmes de notre époque, dans quatre lieux inaccessibles au grand public qui se trouvent au confluent d’une actualité brûlante. Aujourd’hui : la maison Carpe Diem.",
+      "published": "2026-11-19T12:19:22.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/937ec7b4/a84d2124c7e13d92a2c71daf6886b9d1.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "7e17edcdb4b7794e",
+      "guid": "66b86f2d8d313375a33db6fd16897aea",
+      "link": "https://www.lapresse.ca/actualites/caricatures/2026-11-19/le-francais-de-doug-ford.php",
+      "title": "Le français de Doug Ford",
+      "excerpt": "",
+      "published": "2026-11-19T12:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/9178343a/8b8740bc31d63b53bbfb8d47f019dab9.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "ccc3daabd14436a2",
+      "guid": "aa4d5332a15c300bbc578b1452ecd9d4",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-19/transports-en-direct/rien-a-signaler.php",
+      "title": "Transports en direct | Rien à signaler",
+      "excerpt": "Quelque chose à signaler sur les routes ou sur les rails ? La Presse examine le réseau en cette heure de pointe matinale et précise la couleur des feux de circulation.",
+      "published": "2026-11-19T11:06:02.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/d5de4ffbf92834359d80efd794f340dc.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "d3688fbed974b10e",
+      "guid": "a513688a53b43ab58edfba9ea93ecf86",
+      "link": "https://www.lapresse.ca/actualites/2026-11-19/ce-qu-on-suit-ce-jeudi/pcq-canadien-victoire.php",
+      "title": "Ce qu’on suit ce jeudi | PCQ, Canadien, Victoire",
+      "excerpt": "Voici les évènements au programme aujourd’hui.",
+      "published": "2026-11-19T11:05:22.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/902eac838ad53a92ab5aaef7e3bdd9f6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "19f85e0f0b249e72",
+      "guid": "abdfbe3c2eec3a14a7f5eaa77f07f552",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-19/refection-d-un-pont-de-l-autoroute-520/quebec-reclame-sept-millions-a-dorval.php",
+      "title": "Réfection d’un pont de l’autoroute 520 | Québec réclame sept millions à Dorval",
+      "excerpt": "Plus de trois ans après la reconstruction d’un pont d’étagement jugé dangereux, Québec et Dorval n’arrivent toujours pas à s’entendre sur le partage des coûts des travaux. Le gouvernement poursuit aujourd’hui la municipalité pour plus de 7 millions, a appris La Presse.",
+      "published": "2026-11-19T11:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/bf9fabe874b63594af1db42b797c04e3.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "9c656bd11055aadc",
+      "guid": "e1610f392c733e55ad18089abc6f8505",
+      "link": "https://www.lapresse.ca/actualites/2026-11-19/la-revue-de-presse-de-paul-arcand/sommet-trump-poutine-xi-des-records-de-temps-d-attente-dans-les-urgences-et-l-hiver-est-en-retard.php",
+      "title": "La revue de presse de Paul Arcand | Sommet Trump-Poutine-Xi, des records de temps d’attente dans les urgences et l’hiver est en retard",
+      "excerpt": "À l’occasion de sa revue de presse, jeudi, Paul Arcand fait le point sur le sommet réunissant Donald Trump, Vladimir Poutine et Xi Jinping à Shenzhen, en Chine.",
+      "published": "2026-11-19T10:58:39.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/af5002d52e043fe692ad53450eec76e4.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "626832b821d21f90",
+      "guid": "922094c59699389db8234bc13d7bdcc3",
+      "link": "https://www.lapresse.ca/actualites/environnement/2026-11-19/la-presse-a-la-cop31/de-jeunes-quebecois-s-immergent-au-coeur-des-negociations.php",
+      "title": "La Presse à la COP31 | De jeunes Québécois s’immergent au coeur des négociations",
+      "excerpt": "Une délégation de six jeunes adultes québécois participe à la COP31 à l’invitation de l’Association québécoise des organismes de coopération internationale, eux dont la génération sera la plus touchée par les effets du changement climatique.",
+      "published": "2026-11-19T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/ea904c55c01f3b3fb8561a56cd44edbf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "71beb4ffa9a2c8cb",
+      "guid": "0850aca88a303facac0dfff859277aed",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-19/entrevue-avec-l-ex-ministre-sonia-belanger/sante-quebec-doit-changer-mais-pas-disparaitre.php",
+      "title": "Entrevue avec l’ex-ministre Sonia Bélanger | Santé Québec doit changer, mais pas disparaître",
+      "excerpt": "Santé Québec doit parler moins de budget et plus de soins aux patients, mais son abolition serait « scandaleuse », assène l’ex-ministre caquiste de la Santé Sonia Bélanger dans une sortie qui vise à la fois la créature de son propre gouvernement et la réforme promise par le Parti québécois.",
+      "published": "2026-11-19T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/ad4705db74f430a19ff22bd19d0271cb.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "b3d164bf023a6aaf",
+      "guid": "154fc5c03bd33c4baf238ae07e0fe9e1",
+      "link": "https://www.lapresse.ca/actualites/2026-11-19/centre-jeunesse-en-abitibi/un-garde-manger-comme-unite-de-debordement.php",
+      "title": "Centre jeunesse en Abitibi | Un « garde-manger » comme unité de débordement",
+      "excerpt": "Un centre jeunesse de l’Abitibi s’est servi d’un « garde-manger » comme unité de débordement pour héberger des adolescents handicapés et vulnérables, faute d’espace adéquat, révèle la Commission des droits de la personne et des droits de la jeunesse (CDPDJ).",
+      "published": "2026-11-19T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7e47762d2f6a31908c354c382d739ebd.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
       "id": "c226e014edd031a3",
       "guid": "9ad25597fec7355689d3298de04b5edf",
       "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-18/monteregie/les-controleurs-routiers-commencent-a-patrouiller-armes-sur-les-routes.php",

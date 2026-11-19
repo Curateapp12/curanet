@@ -3,6 +3,39 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "937f390d6b182cf8",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+      "excerpt": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+      "published": "2026-11-19T11:46:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "1fc34cf6486a0e11",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+      "title": "Microsoft confirms app installation, launch issues after hotpatch",
+      "excerpt": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+      "published": "2026-11-19T10:35:05.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "7aba46b2e297d42b",
+      "guid": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+      "excerpt": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+      "published": "2026-11-19T09:23:21.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
       "id": "b326b8531a9216c7",
       "guid": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",

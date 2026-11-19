@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "fe45e19dfc87f17c",
+      "guid": "https://ici.radio-canada.ca/article/info/2301720/feu-centre-ville-moncton-calactus",
+      "link": "https://ici.radio-canada.ca/article/info/2301720/feu-centre-ville-moncton-calactus",
+      "title": "Important incendie à Moncton, une partie du centre-ville fermée",
+      "excerpt": "Le restaurant Calactus et une maison sont la proie des flammes. Une femme a été secourue par les pompiers.",
+      "published": "2026-11-19T12:16:38.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/feu-moncton.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
+      "id": "bed0db48d3603103",
+      "guid": "https://ici.radio-canada.ca/article/info/2301624/ancien-champ-tir-tracadie-coupes-blanc",
+      "link": "https://ici.radio-canada.ca/article/info/2301624/ancien-champ-tir-tracadie-coupes-blanc",
+      "title": "Des coupes à blanc sur l’ancien champ de tir de Tracadie ravivent des tensions",
+      "excerpt": "La GRC a été appelée à intervenir sur un incident pendant les opérations de déboisement.",
+      "published": "2026-11-19T10:50:59.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/coupes-blanc-ancien-champ-tir-tracadie.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-19T13:00:40.415Z"
+    },
+    {
       "id": "23be88df7fb10e7e",
       "guid": "https://ici.radio-canada.ca/article/info/2301678/ambulanciers-hopital-miramichi",
       "link": "https://ici.radio-canada.ca/article/info/2301678/ambulanciers-hopital-miramichi",
