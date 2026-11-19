@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "1a0893342ab187e4",
+      "guid": "ceb73a43-b933-49d4-b585-127550aa8de2",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+      "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
+      "excerpt": "Zum ersten Mal geht mit Anthropic ein maßgebliches KI-Unternehmen an den Markt. Der Börsengang könnte der größte der Welt werden - und sogar den bisherigen Rekord von Elon Musk mit SpaceX hinter sich lassen. Von G. Ucar.",
+      "published": "2026-11-19T03:14:09.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6962dfba-07c1-4aa0-aa94-86857f740465/AAABofETAbs/AAABnSSvrFg/16x9-big/anthropic-138.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "ae599f4ed2cb065d",
+      "guid": "bf9f5767-ac71-4356-b31e-022bf0bf384f",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
+      "title": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
+      "excerpt": "Die USA und Venezuela haben ein Militärabkommen unterzeichnet, wie US-Verteidigungsminister Hegseth mitteilte. Mit dem bereits angekündigten Ölabkommen werde die Straße von Hormus zudem \"irrelevant\".",
+      "published": "2026-11-19T02:10:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0c11c42d-43e1-4c3c-83bc-84d0c7b69f5d/AAABofGRwZ0/AAABnSSvrFg/16x9-big/hegseth-192.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "968edddae7fbfc75",
+      "guid": "422f56fa-2f6e-4cce-8a95-b47eca669baf",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+      "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+      "excerpt": "Die italienische Bank und deren Chef Orcel sind bei der Übernahme der Commerzbank einen wichtigen Schritt weiter - die Bundesregierung einigte sich mit UniCredit.",
+      "published": "2026-11-19T01:06:22.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
       "id": "fec55d4721f64416",
       "guid": "e39f38c1-719a-4a80-8e00-e95d90d35ac6",
       "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",

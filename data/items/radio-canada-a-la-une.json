@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "4899130d8b0e46ac",
+      "guid": "https://ici.radio-canada.ca/article/info/2301700/xi-trump-poutine-reunis-sommet",
+      "link": "https://ici.radio-canada.ca/article/info/2301700/xi-trump-poutine-reunis-sommet",
+      "title": "Xi, Trump et Poutine réunis pour un sommet inédit face à des crises multiples",
+      "excerpt": "La rencontre ne devrait pas durer « plus d'une heure », selon le porte-parole du Kremlin, Dmitri Peskov.",
+      "published": "2026-11-19T02:05:59.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/trump-xi-poutine.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "6ee459dff0670fe6",
+      "guid": "https://ici.radio-canada.ca/article/info/2301685/anthropic-introduction-bourse-ia-actions",
+      "link": "https://ici.radio-canada.ca/article/info/2301685/anthropic-introduction-bourse-ia-actions",
+      "title": "Anthropic va lever 79,4 milliards $ US pour son introduction en bourse",
+      "excerpt": "Le créateur de l'intelligence artificielle Claude a fixé le prix de ses actions à 83 $ US.",
+      "published": "2026-11-19T01:17:56.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/dario-amodei-anthropic.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "cace77f21b362526",
+      "guid": "https://ici.radio-canada.ca/article/info/2301696/etats-unis-venezuela-entente-retablir-relations-militaires",
+      "link": "https://ici.radio-canada.ca/article/info/2301696/etats-unis-venezuela-entente-retablir-relations-militaires",
+      "title": "Les États-Unis et le Venezuela s’entendent pour rétablir leurs relations militaires",
+      "excerpt": "L'accord signé va de la formation au partage de renseignements.",
+      "published": "2026-11-19T00:53:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pete-hegseth-venezuela-accord.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "a4001a38099f326f",
+      "guid": "https://ici.radio-canada.ca/article/info/2301670/wegovy-ozempic-mounjaro-zepbound-poids",
+      "link": "https://ici.radio-canada.ca/article/info/2301670/wegovy-ozempic-mounjaro-zepbound-poids",
+      "title": "Perte de poids : une pilule quotidienne pour remplacer les injections d’Ozempic",
+      "excerpt": "Selon les spécialistes, l'option d'un comprimé pourrait séduire de nombreux patients réticents aux injections.",
+      "published": "2026-11-18T22:48:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ozempic-medicament-perte-poids-traitement.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "92dbc44d6d584a93",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301666/equipe-mls-cf-montreal-canada-martin-leclerc",
+      "link": "https://ici.radio-canada.ca/article/sports/2301666/equipe-mls-cf-montreal-canada-martin-leclerc",
+      "title": "Que vaut une équipe de la MLS au Canada?",
+      "excerpt": "Et combien vaut une équipe de la MLS à Montréal? Ça semble encore moins clair, estime Martin Leclerc.",
+      "published": "2026-11-18T22:35:59.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/cf-montreal-sounders-seattle-mls.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "0982ecd16740da5c",
+      "guid": "https://ici.radio-canada.ca/article/info/2301501/robot-cuisinier-jasper-maison-aines",
+      "link": "https://ici.radio-canada.ca/article/info/2301501/robot-cuisinier-jasper-maison-aines",
+      "title": "Un robot et son IA remplacent les cuisiniers d’une maison des aînés",
+      "excerpt": "Doté d'un bras mécanisé, le robot infatigable nourrit plus de 100 personnes et personnalise leurs repas.",
+      "published": "2026-11-18T22:31:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/alimentation/articles/16x9/robot-jasper-restauration-main-doeuvre-cafeteria-86393.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "68abb760325603f2",
+      "guid": "https://ici.radio-canada.ca/article/info/2301651/usine-ibm-bromont-suspension-temporaire-production",
+      "link": "https://ici.radio-canada.ca/article/info/2301651/usine-ibm-bromont-suspension-temporaire-production",
+      "title": "L’usine d’IBM à Bromont a suspendu sa production pendant quelques jours",
+      "excerpt": "IBM Bromont ne fait pas de lien entre cette suspension et des vulnérabilités informatiques.",
+      "published": "2026-11-18T22:25:29.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/breaking-ambiance-conference-de-presse-de-justin-trudeau-a-bromont-un-robot-cobot-devant-le-logo-de-ibm.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
       "id": "4b3e04d91e25d97f",
       "guid": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse",
       "link": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse",

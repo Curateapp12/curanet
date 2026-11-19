@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-politique",
   "items": [
     {
+      "id": "7c3ab358dac4f141",
+      "guid": "https://ici.radio-canada.ca/article/info/2301705/conseil-municipal-fry-vancouver",
+      "link": "https://ici.radio-canada.ca/article/info/2301705/conseil-municipal-fry-vancouver",
+      "title": "Vancouver : des promesses à la réalité, le défi du nouveau conseil municipal",
+      "excerpt": "Onze motions ont été déposées et approuvées lors d'une rencontre du comité des finances.",
+      "published": "2026-11-19T02:51:53.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/nouveaux-conseillers-vancouver.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "3f4de45bf3f24b72",
+      "guid": "https://ici.radio-canada.ca/article/info/2301703/pistes-cyclables-portail-plainte-alberta",
+      "link": "https://ici.radio-canada.ca/article/info/2301703/pistes-cyclables-portail-plainte-alberta",
+      "title": "Que pensent les Albertains des pistes cyclables?",
+      "excerpt": "Selon le ministre des Transports, le gouvernement a reçu plus de 14 000 commentaires.",
+      "published": "2026-11-19T01:59:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/piste-cyclable-edmonton-97993.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "d8f9168cdc5785e7",
+      "guid": "https://ici.radio-canada.ca/videos/1-10813119/un-complexe-multisport-propose-pour-relancer-arena-baribeau",
+      "link": "https://ici.radio-canada.ca/videos/1-10813119/un-complexe-multisport-propose-pour-relancer-arena-baribeau",
+      "title": "Un complexe multisport proposé pour relancer l'aréna Baribeau",
+      "excerpt": "Un organisme à but non lucratif propose de transformer l'aréna Baribeau, fermé depuis 2021, en un complexe multisport intérieur. L'instigateur du projet demande à la Ville de Gatineau de céder l'immeuble pour un dollar afin de répondre aux besoins grandissants des athlètes de la région.",
+      "published": "2026-11-19T01:18:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/arena-vetuste-baribeau-gatineau-31231.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "ae80b844ce9254a7",
+      "guid": "https://ici.radio-canada.ca/article/info/2301699/mairesse-toronto-discours-ouverture-chow",
+      "link": "https://ici.radio-canada.ca/article/info/2301699/mairesse-toronto-discours-ouverture-chow",
+      "title": "Le logement et les finances publiques au menu du nouveau mandat d’Olivia Chow",
+      "excerpt": "Son discours, prononcé mercredi, a marqué la première séance du nouveau conseil municipal de Toronto.",
+      "published": "2026-11-19T01:05:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/olivia-chow-nate-erskine-smith-toronto.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "2e8752e299a7f801",
+      "guid": "https://ici.radio-canada.ca/videos/1-10813032/ville-quebec-surpasse-objectifs-son-plan-climat",
+      "link": "https://ici.radio-canada.ca/videos/1-10813032/ville-quebec-surpasse-objectifs-son-plan-climat",
+      "title": "La Ville de Québec surpasse les objectifs de son plan climat",
+      "excerpt": "La Ville de Québec indique qu'elle a investi 276,4 M$ dans son plan climatique depuis son lancement, il y a cinq ans, « surpassant ainsi ses objectifs »",
+      "published": "2026-11-19T00:04:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rue-saint-vallier-ouest-reouverture.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "7fe03fb48155172d",
+      "guid": "https://ici.radio-canada.ca/article/info/2301662/levis-steven-blaney-moratoire-isabelle-lefebvre",
+      "link": "https://ici.radio-canada.ca/article/info/2301662/levis-steven-blaney-moratoire-isabelle-lefebvre",
+      "title": "Poursuites de promoteurs : le maire de Lévis accuse l’opposition de nuire au processus",
+      "excerpt": "Le maire contredit l'opposition en soutenant que Lévis a des provisions pour les poursuites de promoteurs.",
+      "published": "2026-11-18T22:50:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/debat-levis-steven-blaney-elections.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "5cdfca7730bd4268",
+      "guid": "https://ici.radio-canada.ca/article/info/2301650/transformation-services-enfants-inuit-pirutsiagutiit",
+      "link": "https://ici.radio-canada.ca/article/info/2301650/transformation-services-enfants-inuit-pirutsiagutiit",
+      "title": "ITK et Ottawa s’entendent pour le transfert des services aux enfants inuit",
+      "excerpt": "Le programme Pirutsiagutiit viendra remplacer « l’Initiative : Les enfants inuits d’abord ».",
+      "published": "2026-11-18T22:14:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/alaska-enfants-jeunes-inuit-neige-arctique.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "fe36294739dcd538",
+      "guid": "https://ici.radio-canada.ca/article/info/2301618/apprentissage-francais-doug-ford-ontario",
+      "link": "https://ici.radio-canada.ca/article/info/2301618/apprentissage-francais-doug-ford-ontario",
+      "title": "Doug Ford et le français : « C’est un peu plus difficile »",
+      "excerpt": "À Montréal, le premier ministre ontarien a tenté difficilement de prononcer quelques mots en français.",
+      "published": "2026-11-18T21:55:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/doug-ford-premier-ministre-ontario-66497.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "f547d306a7dbabce",
+      "guid": "https://ici.radio-canada.ca/article/info/2301630/cataracte-operation-prive-chirurgie-dornan",
+      "link": "https://ici.radio-canada.ca/article/info/2301630/cataracte-operation-prive-chirurgie-dornan",
+      "title": "Pas de financement supplémentaire pour soigner les cataractes au privé cette année",
+      "excerpt": "L'année dernière une clinique aurait pu fermer temporairement sans ce financement.",
+      "published": "2026-11-18T21:52:52.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/operation-cataracte.png",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
       "id": "bc9641df2ec0913e",
       "guid": "https://ici.radio-canada.ca/article/info/2301641/cpat-energie-environnement-electricite-abitibi-temiscamingue-politique",
       "link": "https://ici.radio-canada.ca/article/info/2301641/cpat-energie-environnement-electricite-abitibi-temiscamingue-politique",

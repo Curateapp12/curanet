@@ -3,6 +3,28 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "23be88df7fb10e7e",
+      "guid": "https://ici.radio-canada.ca/article/info/2301678/ambulanciers-hopital-miramichi",
+      "link": "https://ici.radio-canada.ca/article/info/2301678/ambulanciers-hopital-miramichi",
+      "title": "Des paramédics en soins avancés appelés en renfort à l’hôpital de Miramichi",
+      "excerpt": "Horizon s’engage à couvrir leurs frais de déplacements et d’hébergement",
+      "published": "2026-11-18T23:44:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/service-obstetrique-hopital-regional-miramichi.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
+      "id": "595d0098e89f10c9",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10812877/projet-poulailler-a-riviere-verte-conditions-imposees-a-westco",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10812877/projet-poulailler-a-riviere-verte-conditions-imposees-a-westco",
+      "title": "Projet de poulailler à Rivière-Verte : les conditions imposées à Westco",
+      "excerpt": "La Ville d’Edmundston précise ses exigences pour le poulailler industriel de Westco à Rivière-Verte. Allyson Dubé résume les conditions de la Municipalité et les inquiétudes des citoyens.",
+      "published": "2026-11-18T21:58:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/westco-edmundston-conseil-municipal-17-novembre-2026.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
+    },
+    {
       "id": "5ba454a5c2798ec2",
       "guid": "https://ici.radio-canada.ca/article/culture/2301640/eulalie-serie-peuple-acadien-deportation",
       "link": "https://ici.radio-canada.ca/article/culture/2301640/eulalie-serie-peuple-acadien-deportation",
@@ -12,6 +34,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/ajlh-deportation-acadiens-grand-derangement.jpg",
       "type": "article",
       "addedAt": "2026-11-18T21:55:06.640Z"
+    },
+    {
+      "id": "bcc8cc0d21da091b",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2532806/foyers-soins-au-n-b-16-m-pour-prevenir-blessures-preposes",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-de-pointe-acadie/segments/rattrapage/2532806/foyers-soins-au-n-b-16-m-pour-prevenir-blessures-preposes",
+      "title": "Prévenir les blessures dans les foyers de soins du Nouveau-Brunswick",
+      "excerpt": "Au Nouveau-Brunswick, 70 % du personnel préposé aux soins de longue durée déclare avoir subi une blessure physique au travail, selon une étude. Pour mieux comprendre ces risques, l’Université de Moncton, en collaboration avec l’Université du Nouveau-Brunswick, mène un projet de recherche de 1,6…",
+      "published": "2026-11-18T21:07:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/16x9/michelle-cardoso-wayne-albert-ergonomie-soins-longue-duree-nouveau-brunswick.png",
+      "type": "article",
+      "addedAt": "2026-11-19T03:24:19.903Z"
     },
     {
       "id": "96800752e7cd63f3",
