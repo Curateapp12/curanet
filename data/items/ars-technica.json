@@ -3,6 +3,94 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "f7101bc1bc3dc1cd",
+      "guid": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+      "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+      "excerpt": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+      "published": "2026-11-19T21:19:12.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-870760928-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "545852a9591f5a6b",
+      "guid": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "excerpt": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "published": "2026-11-19T20:29:46.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "a18d40e53c3a1f38",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "excerpt": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "published": "2026-11-19T20:19:28.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "2fefa24a16c29da0",
+      "guid": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "excerpt": "\"Project Suncatcher is a long-term moonshot.\"",
+      "published": "2026-11-19T19:52:54.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "2c6337293b99c71e",
+      "guid": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+      "excerpt": "Some models fare better, but all fail in similar ways.",
+      "published": "2026-11-19T18:44:39.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "b2b7370ed71a765c",
+      "guid": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+      "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+      "title": "Google will launch Android app verification requirement globally in January 2027",
+      "excerpt": "Google says almost all developers have already gotten on board with verification.",
+      "published": "2026-11-19T18:00:33.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "983221233ae8e1af",
+      "guid": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "title": "Mouse fight club might explain why we like to watch violent things",
+      "excerpt": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+      "published": "2026-11-19T14:04:38.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "a2d0889c92dfae8f",
+      "guid": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "link": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+      "excerpt": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+      "published": "2026-11-19T13:40:02.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
       "id": "45584a3597b1228a",
       "guid": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
       "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",

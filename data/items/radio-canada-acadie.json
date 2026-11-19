@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-acadie",
   "items": [
     {
+      "id": "a072a13a462bd47c",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10813785/cinema-intelligence-artificielle-doit-elle-avoir-sa-place",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10813785/cinema-intelligence-artificielle-doit-elle-avoir-sa-place",
+      "title": "Cinéma : l’intelligence artificielle doit-elle avoir sa place?",
+      "excerpt": "Dans le cadre du FICFA, la question de l’IA dans l’industrie du cinéma fait surface. Quelle place doit avoir cette technologie dans l’industrie? Karine Godin pose la question au micro de Sens large.",
+      "published": "2026-11-19T20:26:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/senslarge-ia-intelligence-artificielle-cinema-ficfa-acadie-film-vignette.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "b0c1a2297c77fb8c",
+      "guid": "https://ici.radio-canada.ca/article/info/2301831/urgence-hopital-chalmers-fredericton",
+      "link": "https://ici.radio-canada.ca/article/info/2301831/urgence-hopital-chalmers-fredericton",
+      "title": "L’urgence de Fredericton fréquentée à 400 %, un médecin tire la sonnette d’alarme",
+      "excerpt": "« Ça nous frappe au cœur, vraiment, on ne veut pas voir du monde souffrir dans la salle d’attente. »",
+      "published": "2026-11-19T20:17:43.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/urgence-fredericton-hopital-everett-chalmers.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "82a590a44dac4133",
+      "guid": "https://ici.radio-canada.ca/article/info/2301764/eulalie-serie-deportation-productions-milieu-grand-derangement",
+      "link": "https://ici.radio-canada.ca/article/info/2301764/eulalie-serie-deportation-productions-milieu-grand-derangement",
+      "title": "Eulalie, une nouvelle série d’envergure sur la déportation des Acadiens",
+      "excerpt": "Le tournage de la nouvelle série d'envergure Eulalie débutera l’année prochaine.",
+      "published": "2026-11-19T17:56:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/histo-grand-derangement-deportation-acadiens-1755.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "31ab76f0823fddc1",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2534116/question-utilisation-ia-dans-univers-cinema",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/sens-large/segments/rattrapage/2534116/question-utilisation-ia-dans-univers-cinema",
+      "title": "L’utilisation de l’IA au cinéma",
+      "excerpt": "Dans le cadre du Festival international du cinéma francophone en Acadie (FICFA), la question de l’intelligence artificielle dans l’industrie du cinéma fait surface. Alors que cette technologie suscite des discussions animées au sein du milieu, quels en sont les enjeux fondamentaux, jusqu’où…",
+      "published": "2026-11-19T16:32:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ficfa-theatre-escaouette-moncton.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "89757d3820504965",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2533866/chats-errants-haut-madawaska-ont-besoin-un-refuge-pour-hiver",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/la-matinale/segments/rattrapage/2533866/chats-errants-haut-madawaska-ont-besoin-un-refuge-pour-hiver",
+      "title": "Chats errants : un projet embryonnaire de refuge à Haut-Madawaska",
+      "excerpt": "Les chats se multiplient dans le Madawaska et ils n'ont pas toujours d’endroit où se loger. L'urgence de leur trouver un refuge a amené une citoyenne à commencer des démarches pour créer un refuge pour ces animaux.",
+      "published": "2026-11-19T12:30:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/chat-rue-errant-haut-madawaska-refuge.jpg",
+      "type": "article",
+      "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
       "id": "fe45e19dfc87f17c",
       "guid": "https://ici.radio-canada.ca/article/info/2301720/feu-centre-ville-moncton-calactus",
       "link": "https://ici.radio-canada.ca/article/info/2301720/feu-centre-ville-moncton-calactus",
