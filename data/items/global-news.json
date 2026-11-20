@@ -3,6 +3,116 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "e1eb4e4b3c829414",
+      "guid": "https://globalnews.ca/?p=12159745",
+      "link": "https://globalnews.ca/news/12159745/alberta-orphan-oil-and-gas-well-cleanup-fund/",
+      "title": "Rancher says Alberta well cleanup fund a positive step — but litany of concerns remain",
+      "excerpt": "Energy companies would initially hand over up to $50,000, followed by incremental payments across 10 years, with the funds attached to each well regardless of ownership changes.",
+      "published": "2026-11-20T20:13:22.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP19586901.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "d54663cc4cd889ba",
+      "guid": "https://globalnews.ca/?p=12159720",
+      "link": "https://globalnews.ca/news/12159720/saskatchewan-expand-bioenergy/",
+      "title": "‘Waste to opportunity’: Saskatchewan government to expand bioenergy in north",
+      "excerpt": "Premier Scott Moe said Friday's announcement will support the power grid and forestry sector to prepare both for the future demands they are projected to see.",
+      "published": "2026-11-20T20:09:38.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/saskatchewan-bioenergy-announcement-moe.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "78117985b3c10153",
+      "guid": "https://globalnews.ca/?p=12159626",
+      "link": "https://globalnews.ca/news/12159626/execution-death-penalty-texas-reinaldo-dennes/",
+      "title": "Texas execution dragged on for an hour as inmate moaned in pain",
+      "excerpt": "Reinaldo Dennes was sentenced to death for murder of Janos Szucs, a diamond dealer who was found with multiple gunshot wounds in his Houston office in January 1996.",
+      "published": "2026-11-20T20:08:39.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Reinaldo-Dennes-execution-texas.png",
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "79f4cad3c4e8d54d",
+      "guid": "https://globalnews.ca/?p=12159822",
+      "link": "https://globalnews.ca/news/12159822/14-charged-alleged-california-train-heist-ring/",
+      "title": "14 charged in alleged $22.5M California train heist ring, officials say",
+      "excerpt": "More than a dozen men were charged with burglarizing at least three dozen trains and stealing over $22 million worth of Nike sneakers, Crocs footwear and other products.",
+      "published": "2026-11-20T19:41:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/california-train-theft.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "0c3714cb604b6341",
+      "guid": "https://globalnews.ca/?p=12159807",
+      "link": "https://globalnews.ca/news/12159807/indian-national-sentenced-19-years-prison-plot-assassinate-sikh-leader/",
+      "title": "Indian national gets more than 19 years in prison over plot to kill Sikh leader",
+      "excerpt": "Nikhil Gupta pleaded guilty earlier this year to charges related to a murder-for-hire scheme for attempting to kill Gurpatwant Singh Pannun.",
+      "published": "2026-11-20T19:08:51.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/06/gupta-arrest-prague.jpeg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "c7746542f58cdc13",
+      "guid": "https://globalnews.ca/?p=12159879",
+      "link": "https://globalnews.ca/news/12159879/anthropic-stock-correction/",
+      "title": "S&P 500, Dow on track for correction as Anthropic retreat weighs on AI stocks",
+      "excerpt": "Both benchmarks were down 10 per cent from their record closing highs. An index falling 10 per cent or more below its record high on a close-to-close basis is called a correction.",
+      "published": "2026-11-20T19:07:42.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/stock-market-e1795201628448.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "acad6bec75947c05",
+      "guid": "https://globalnews.ca/?p=12159810",
+      "link": "https://globalnews.ca/news/12159810/ndrangheta-vaughan-us-sanctions/",
+      "title": "Alleged Toronto faction of Italy-based mafia group sanctioned by U.S.",
+      "excerpt": "A Canadian faction of an alleged organized crime group founded in southern Italy has been sanctioned by the United States Treasury Department.",
+      "published": "2026-11-20T19:05:58.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/03/GettyImages-2154883404.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "4b4d77dfdc4b04f4",
+      "guid": "https://globalnews.ca/?p=12159793",
+      "link": "https://globalnews.ca/news/12159793/donald-trump-us-data-centre-tax/",
+      "title": "Trump threatens U.S. firms building data centres elsewhere with major taxes",
+      "excerpt": "American tech companies will face a 'tremendous tax' if they build data centres in other countries, U.S. President Donald Trump said.",
+      "published": "2026-11-20T18:48:33.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Trump-2-e1795199162612.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "802b839e86dac6e2",
+      "guid": "https://globalnews.ca/?p=12159786",
+      "link": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
+      "title": "Ontario, Ottawa committing $250M to help fund new port in Sault Ste. Marie",
+      "excerpt": "Ontario and the federal government say they're committing $250 million to help build a new port in Sault Ste. Marie on the north shore of the Saint Marys River.",
+      "published": "2026-11-20T18:22:18.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "404193911eccab0a",
+      "guid": "https://globalnews.ca/news/12159801/alouettes-fire-assistant-coach-noel-thorpe/",
+      "link": "https://globalnews.ca/news/12159801/alouettes-fire-assistant-coach-noel-thorpe/",
+      "title": "Alouettes fire assistant coach Noel Thorpe",
+      "excerpt": "The Montreal Alouettes fired defensive co-ordinator/defensive backs coach Noel Thorpe on Friday.",
+      "published": "2026-11-20T18:21:15.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/e0338e8eef5ae1dbfd8331102e624cf89e0f263495c8b1fcb783cbc916cb6df9_6f49f8.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
       "id": "f7eb14d96eca765f",
       "guid": "https://globalnews.ca/news/12159341/wilds-hughes-kaprizov-chasing-history-in-win/",
       "link": "https://globalnews.ca/news/12159341/wilds-hughes-kaprizov-chasing-history-in-win/",

@@ -3,6 +3,72 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "6c623452a14a6d23",
+      "guid": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "excerpt": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+      "published": "2026-11-20T18:51:43.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "0abe4221510a96d0",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "excerpt": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "published": "2026-11-20T17:30:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "bbc19bb6f991b9cb",
+      "guid": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "excerpt": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+      "published": "2026-11-20T15:58:06.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "19cca4f1450a3e90",
+      "guid": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "excerpt": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify…",
+      "published": "2026-11-20T15:00:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "d9a325150570d699",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "title": "N-able says recent security breach led to major service outage",
+      "excerpt": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+      "published": "2026-11-20T13:18:36.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "fc7b1a32d55e6eab",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "excerpt": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+      "published": "2026-11-20T12:14:28.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
       "id": "6a744f24eada9345",
       "guid": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
       "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
