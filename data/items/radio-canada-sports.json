@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "45124e821ed73e80",
+      "guid": "https://ici.radio-canada.ca/article/info/2301997/olympiques-gatineau-67s-ottawa-bataille-riviere",
+      "link": "https://ici.radio-canada.ca/article/info/2301997/olympiques-gatineau-67s-ottawa-bataille-riviere",
+      "title": "Place à un nouveau chapitre de la Bataille de la rivière des Outaouais",
+      "excerpt": "Les Olympiques de Gatineau et les 67's d'Ottawa vont s'affronter deux fois en trois jours.",
+      "published": "2026-11-20T11:24:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/olympiques-gatineau-lhjmq-67-ottawa-ohl.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "129ae51387916256",
+      "guid": "https://ici.radio-canada.ca/article/info/recit/17580/tadej-pogacar-slovenie-sports-athletes-olympiques-forme-physique-sante",
+      "link": "https://ici.radio-canada.ca/article/info/recit/17580/tadej-pogacar-slovenie-sports-athletes-olympiques-forme-physique-sante",
+      "title": "La recette slovène : développer des champions au royaume de Pogacar",
+      "excerpt": "Comment une nation de deux millions d’habitants en est venue à dominer plusieurs sports mondialement?",
+      "published": "2026-11-20T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/la-recette-slovene-tadej-pogacar-conducteurs.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "8ffb752b6fea64fe",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301995/c-j-stroud-lance-trois-passes-de-touche-et-les-texans-ecrasent-les-colts",
+      "link": "https://ici.radio-canada.ca/article/sports/2301995/c-j-stroud-lance-trois-passes-de-touche-et-les-texans-ecrasent-les-colts",
+      "title": "C.J. Stroud lance trois passes de touché et les Texans écrasent les Colts",
+      "excerpt": "C.J. Stroud a lancé trois passes de touchés et obtenu 194 verges par la voie des airs pour mener les Texans de Houston vers une victoire facile de 26-3 face aux Colts d'Indianapolis, jeudi soir.",
+      "published": "2026-11-20T05:12:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/cj-stroud-87965.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "fd326fbbeafeff8e",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301992/hutson-dobes-canadien-montreal-hurricanes-caroline",
+      "link": "https://ici.radio-canada.ca/article/sports/2301992/hutson-dobes-canadien-montreal-hurricanes-caroline",
+      "title": "Exploits individuels, mais affaire d’équipe",
+      "excerpt": "Lane Hutson inscrit un doublé et le Canadien bat les Hurricanes 2-1 en prolongation.",
+      "published": "2026-11-20T04:39:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/hutson-dobes-canadien.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "a189a6aac705aee7",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301990/maple-leafs-kings-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2301990/maple-leafs-kings-lnh",
+      "title": "Les Maple Leafs encaissent un huitième revers de suite",
+      "excerpt": "Adrian Kempe a été le seul buteur en fusillade et les Kings ont défait les Maple Leafs par la marque de 4-3.",
+      "published": "2026-11-20T03:59:53.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/maple-leafs-kings.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "4978a2c033c67481",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301989/lightning-oilers-connor-mcdavid-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2301989/lightning-oilers-connor-mcdavid-lnh",
+      "title": "Le Lightning bat les Oilers et met fin à la séquence de Connor McDavid",
+      "excerpt": "Le capitaine des Oilers avait obtenu au moins un point lors de ses 23 premières parties cette saison.",
+      "published": "2026-11-20T03:51:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/mcdavid-oilers-lightning.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "5544142fb8a68d8a",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301988/senateurs-flyers-ottawa-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2301988/senateurs-flyers-ottawa-lnh",
+      "title": "Les Sénateurs s’écrasent en troisième période et s’inclinent contre les Flyers",
+      "excerpt": "Travis Konecny a inscrit le but vainqueur en prolongation pour les Flyers.",
+      "published": "2026-11-20T03:36:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/flyers-senateurs-74148.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
       "id": "a58cd0e7479c35e6",
       "guid": "https://ici.radio-canada.ca/article/sports/2301983/lane-hutson-canadien-hurricanes-dobes",
       "link": "https://ici.radio-canada.ca/article/sports/2301983/lane-hutson-canadien-hurricanes-dobes",
@@ -122,6 +199,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/maryse-bard-martel-entraineuse-chef-roses.jpg",
       "type": "article",
       "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "5c49b505c2c4491a",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301854/hockey-feminin-victoire-camp-entrainement-marie-philip-poulin",
+      "link": "https://ici.radio-canada.ca/article/sports/2301854/hockey-feminin-victoire-camp-entrainement-marie-philip-poulin",
+      "title": "Pas de retour avant le printemps pour Marie-Philip Poulin",
+      "excerpt": "Les joueuses de la Victoire qui ont participé au mondial brillaient par leur absence en ouverture de camp.",
+      "published": "2026-11-19T20:23:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/marie-philip-poulin-79358.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
     },
     {
       "id": "db0f41214bb85d91",

@@ -3,6 +3,182 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "09e89be44d993034",
+      "guid": "https://www.ledevoir.com/culture/cinema/1026473/i-play-rocky-making-of-nostalgique",
+      "link": "https://www.ledevoir.com/culture/cinema/1026473/i-play-rocky-making-of-nostalgique",
+      "title": "«I Play Rocky»: un «making-of» nostalgique",
+      "excerpt": "Anthony Ippolito est épatant en Sylvester Stallone dans ce retour comico-anecdotique sur la production de «Rocky».",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "32414fc2e8c42596",
+      "guid": "https://www.ledevoir.com/lire/1026398/louise-bienvenue-honoree-biographie-marie-claire-daveluy",
+      "link": "https://www.ledevoir.com/lire/1026398/louise-bienvenue-honoree-biographie-marie-claire-daveluy",
+      "title": "Louise Bienvenue honorée pour sa biographie de Marie-Claire Daveluy",
+      "excerpt": "L’historienne a reçu mercredi le Prix d’histoire du Gouverneur général pour l’excellence en recherche savante.",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "5172bf42f255509b",
+      "guid": "https://www.ledevoir.com/opinion/editoriaux/1026458/sous-joug-pays-petroliers",
+      "link": "https://www.ledevoir.com/opinion/editoriaux/1026458/sous-joug-pays-petroliers",
+      "title": "Sous le joug des pays pétroliers",
+      "excerpt": "À la COP31, les énergies fossiles s’effacent du texte. À Ottawa, les cibles sont en recul.",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "5482d47ebc1261cf",
+      "guid": "https://www.ledevoir.com/culture/cinema/1026470/minautore-andrei-zviaguintsev-maitrise-art-bien-refaire-chef-oeuvre",
+      "link": "https://www.ledevoir.com/culture/cinema/1026470/minautore-andrei-zviaguintsev-maitrise-art-bien-refaire-chef-oeuvre",
+      "title": "Avec «Minautore», Andreï Zviaguintsev maîtrise l’art de bien refaire un chef-d’œuvre",
+      "excerpt": "Andreï Zviaguintsev parle de son remake de «La femme infidèle», campé au début de l’invasion russe en Ukraine.",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "59477034e1b03665",
+      "guid": "https://www.ledevoir.com/opinion/idees/1026389/liste-paul-st-pierre-plamondon",
+      "link": "https://www.ledevoir.com/opinion/idees/1026389/liste-paul-st-pierre-plamondon",
+      "title": "La liste de Paul St-Pierre Plamondon",
+      "excerpt": "Priver Santé Québec de ses pouvoirs avant le vote, ce serait refaire le coup du ministère de la Cybersécurité.",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "68e90c017e42bb6f",
+      "guid": "https://www.ledevoir.com/opinion/idees/1026392/ne-meprisons-plus-bibliotheques",
+      "link": "https://www.ledevoir.com/opinion/idees/1026392/ne-meprisons-plus-bibliotheques",
+      "title": "Ne méprisons plus nos bibliothèques",
+      "excerpt": "Notre travail se complexifie, les attentes augmentent, mais la reconnaissance de nos responsabilités ne suit pas.",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "904109525154a317",
+      "guid": "https://www.ledevoir.com/culture/cinema/1026401/rayons-ombres-traverser-horreur-oeilleres",
+      "link": "https://www.ledevoir.com/culture/cinema/1026401/rayons-ombres-traverser-horreur-oeilleres",
+      "title": "«Les rayons et les ombres» : traverser l’horreur avec des œillères",
+      "excerpt": "Xavier Giannoli revisite la collaboration en France sous l’Occupation nazie dans une fresque à la fois ample et intime.",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "918b36b5858a1e61",
+      "guid": "https://www.ledevoir.com/opinion/idees/1026449/tout-sante-quebec",
+      "link": "https://www.ledevoir.com/opinion/idees/1026449/tout-sante-quebec",
+      "title": "Tout ça pour ça, avec Santé Québec!",
+      "excerpt": "Les Québécois veulent des soins accessibles, des services de qualité et le respect de leurs droits.",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "c4903d236cda188b",
+      "guid": "https://www.ledevoir.com/opinion/chroniques/1026446/loi-101-cegep-vite",
+      "link": "https://www.ledevoir.com/opinion/chroniques/1026446/loi-101-cegep-vite",
+      "title": "La loi 101 au cégep, vite!",
+      "excerpt": "C’est à cet âge qu’on apprend à faire de cette langue une langue apte à dire le monde dans toute sa complexité.",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "cf3220e6dde97d5b",
+      "guid": "https://www.ledevoir.com/culture/musique/1026242/natasha-kanape-fontaine-retrouve-flamme",
+      "link": "https://www.ledevoir.com/culture/musique/1026242/natasha-kanape-fontaine-retrouve-flamme",
+      "title": "Natasha Kanapé Fontaine a retrouvé sa flamme",
+      "excerpt": "Après une période creuse, l’artiste innue présente le spectacle, l’album et le livre «Nikan. Dans cent ans».",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "d556d3fa08a8c4ee",
+      "guid": "https://www.ledevoir.com/actualites/education/1026467/ere-ia-enseignants-veulent-mettre-fin-evaluations-ligne-cegep-virtuel",
+      "link": "https://www.ledevoir.com/actualites/education/1026467/ere-ia-enseignants-veulent-mettre-fin-evaluations-ligne-cegep-virtuel",
+      "title": "À l’ère de l’IA, des enseignants veulent mettre fin aux évaluations en ligne de Cégep virtuel",
+      "excerpt": "Des enseignants réclament qu’elles soient tenues en personne pour réduire le risque de plagiat.",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "f8995f69187ee353",
+      "guid": "https://www.ledevoir.com/opinion/chroniques/1026440/passion-poussiere",
+      "link": "https://www.ledevoir.com/opinion/chroniques/1026440/passion-poussiere",
+      "title": "Passion poussière",
+      "excerpt": "Des filles qui tiennent le haut du pavé.",
+      "published": "2026-11-20T05:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "ac28e057234c5d75",
+      "guid": "https://www.ledevoir.com/sports/1026515/canadien-bat-hurricanes-prolongation",
+      "link": "https://www.ledevoir.com/sports/1026515/canadien-bat-hurricanes-prolongation",
+      "title": "Le Canadien bat les Hurricanes en prolongation",
+      "excerpt": "Lane Hutson a offert une performance d’anthologie et guidé le Tricolore vers la victoire.",
+      "published": "2026-11-20T04:56:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "79dc9792840992ae",
+      "guid": "https://www.ledevoir.com/monde/etats-unis/1026512/directeur-cybersecurite-maison-blanche-limoge",
+      "link": "https://www.ledevoir.com/monde/etats-unis/1026512/directeur-cybersecurite-maison-blanche-limoge",
+      "title": "Le directeur de la cybersécurité de la Maison-Blanche limogé",
+      "excerpt": "La décision survient après que plusieurs incidents techniques ont affecté les États-Unis ces derniers jours.",
+      "published": "2026-11-20T04:40:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "2c9869ec29caa0cd",
+      "guid": "https://www.ledevoir.com/actualites/justice/1026509/cout-justice-freine-nombreux-quebecois-tourner-vers-tribunaux",
+      "link": "https://www.ledevoir.com/actualites/justice/1026509/cout-justice-freine-nombreux-quebecois-tourner-vers-tribunaux",
+      "title": "Le coût de la justice freine de nombreux Québécois à se tourner vers les tribunaux",
+      "excerpt": "C’est ce qui ressort d’un panel organisé jeudi soir dans le cadre des États généraux du droit et de la justice.",
+      "published": "2026-11-20T03:45:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "397d505eb50a7aac",
+      "guid": "https://www.ledevoir.com/actualites/justice/1026506/cour-supreme-examinera-mars-recours-contre-loi-pronoms",
+      "link": "https://www.ledevoir.com/actualites/justice/1026506/cour-supreme-examinera-mars-recours-contre-loi-pronoms",
+      "title": "La Cour suprême examinera en mars un recours contre la loi sur les pronoms",
+      "excerpt": "L’affaire portera sur une loi adoptée en 2023 en Saskatchewan concernant le changement de nom et de prénoms des élèves.",
+      "published": "2026-11-20T02:20:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
       "id": "7f26bdc9900cb396",
       "guid": "https://www.ledevoir.com/culture/1026479/quatre-suggestions-culturelles-fin-semaine",
       "link": "https://www.ledevoir.com/culture/1026479/quatre-suggestions-culturelles-fin-semaine",
@@ -67,6 +243,17 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
+      "id": "a4ddb9ce8ec1a124",
+      "guid": "https://www.ledevoir.com/politique/canada/1026368/cadence-ereintante-parlement-faire-adopter-reforme-approbation-projets",
+      "link": "https://www.ledevoir.com/politique/canada/1026368/cadence-ereintante-parlement-faire-adopter-reforme-approbation-projets",
+      "title": "Cadence éreintante à Ottawa pour faire adopter la réforme de l’approbation des projets",
+      "excerpt": "Débattant jusqu’à minuit tous les soirs, des élus fédéraux manquent la période de questions (et la messe).",
+      "published": "2026-11-19T21:16:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
     },
     {
       "id": "631e72f2268b819e",
@@ -254,6 +441,17 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-11-19T21:30:09.795Z"
+    },
+    {
+      "id": "92c6262a3f8c48cc",
+      "guid": "https://www.ledevoir.com/actualites/environnement/1026215/reference-energies-fossiles-disparait-projet-decision-finale-cop31",
+      "link": "https://www.ledevoir.com/actualites/environnement/1026215/reference-energies-fossiles-disparait-projet-decision-finale-cop31",
+      "title": "La référence aux énergies fossiles disparaît dans le projet de décision finale à la COP31",
+      "excerpt": "Contrairement à une précédente version, le texte publié ne mentionne pas explicitement le pétrole, le gaz et le charbon.",
+      "published": "2026-11-19T14:59:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
     },
     {
       "id": "ef452b91654683ea",

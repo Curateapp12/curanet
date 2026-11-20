@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "f3e58908a711bc37",
+      "guid": "https://ici.radio-canada.ca/article/info/2301999/etude-rapport-alto-retombees-economiques",
+      "link": "https://ici.radio-canada.ca/article/info/2301999/etude-rapport-alto-retombees-economiques",
+      "title": "Selon une étude commandée par Alto, le TGV ajouterait 24,5G$ par année au PIB du pays",
+      "excerpt": "Selon une étude commandée par Alto, le TGV ajouterait 24,5G$ par année au PIB du pays.",
+      "published": "2026-11-20T10:54:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/alto-tgv-train-canada.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "15c8b0d2e9f0d878",
+      "guid": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
+      "link": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
+      "title": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+      "excerpt": "Annoncé au coût estimé de 191,5 millions $ en 2023, le remplacement pourrait frôler les 400 millions $.",
+      "published": "2026-11-20T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/traversier-qui-assure-la-liaison-entre-sorel-tracy-et-berthierville-photo-prise-sur-le-fleuve-saint-laurent-quebec-canada-sur-la-photo-gauche-a-droite-traversier-traverse-transport-maritime-le-1-47685.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "a3ff1c457021bb1d",
+      "guid": "https://ici.radio-canada.ca/article/info/2301522/chantier-davie-pme-recrutement-chaudiere-appalaches",
+      "link": "https://ici.radio-canada.ca/article/info/2301522/chantier-davie-pme-recrutement-chaudiere-appalaches",
+      "title": "Quand la Davie fait mal à des PME de Chaudière-Appalaches",
+      "excerpt": "Le chantier maritime recrute des centaines de travailleurs avec des conditions alléchantes.",
+      "published": "2026-11-20T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/chantier-maritime-davie-exterieur-printempsautomne-ph.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "bf8753d02e99ea1d",
+      "guid": "https://ici.radio-canada.ca/article/info/2301645/mode-circulaire-economie-vetement-couture",
+      "link": "https://ici.radio-canada.ca/article/info/2301645/mode-circulaire-economie-vetement-couture",
+      "title": "Contre la mode ultra éphémère, des créatrices réinventent nos vieux tissus",
+      "excerpt": "Des créatrices de mode se sont lancées dans le surcyclage : faire du neuf avec du vieux, du taché ou de l'usé.",
+      "published": "2026-11-20T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pascale-viau-surcyclage.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "c64c65d7dee160e5",
+      "guid": "https://ici.radio-canada.ca/article/info/2301996/shenzhen-trump-poutine-xi-sommet-vainqueurs",
+      "link": "https://ici.radio-canada.ca/article/info/2301996/shenzhen-trump-poutine-xi-sommet-vainqueurs",
+      "title": "À Shenzhen, deux vainqueurs et un facilitateur",
+      "excerpt": "Le président chinois Xi Jinping a réussi à s'imposer au cœur des affaires mondiales.",
+      "published": "2026-11-20T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vladimir-poutine-xi-jinping-donald-trump-shenzhen.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
+      "id": "e5fa0a56df8de603",
+      "guid": "https://ici.radio-canada.ca/article/info/recit/16082/epaulards-mobydoll-aquarium-marineland-vancouver",
+      "link": "https://ici.radio-canada.ca/article/info/recit/16082/epaulards-mobydoll-aquarium-marineland-vancouver",
+      "title": "La sombre histoire des orques captives",
+      "excerpt": "Du monstre à l'icône : comment la capture inattendue d’une orque à Vancouver a changé le cours des choses?",
+      "published": "2026-11-20T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/epaulard-resident-sud-epaulard-miami-premieres-nations-2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T11:35:04.818Z"
+    },
+    {
       "id": "cbd040fd8565504a",
       "guid": "https://ici.radio-canada.ca/article/info/2301968/openai-tumbler-ridge-fusillade-chatgpt",
       "link": "https://ici.radio-canada.ca/article/info/2301968/openai-tumbler-ridge-fusillade-chatgpt",
