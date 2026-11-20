@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "c5e24a06d3952b8f",
+      "guid": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "excerpt": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+      "published": "2026-11-20T00:26:25.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
+      "id": "df29d71aedcbd867",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+      "excerpt": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+      "published": "2026-11-19T22:25:42.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
       "id": "3797ecb529a51da9",
       "guid": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
       "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",

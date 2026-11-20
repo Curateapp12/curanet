@@ -3,6 +3,94 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "cbd040fd8565504a",
+      "guid": "https://ici.radio-canada.ca/article/info/2301968/openai-tumbler-ridge-fusillade-chatgpt",
+      "link": "https://ici.radio-canada.ca/article/info/2301968/openai-tumbler-ridge-fusillade-chatgpt",
+      "title": "Tuerie de Tumbler Ridge : de nouveaux détails jugés troublants",
+      "excerpt": "Le magazine américain Mother Jones a publié d'autres extraits des conversations entre la tireuse et ChatGPT.",
+      "published": "2026-11-20T01:40:38.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/technology-horizontal-40334.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
+      "id": "bac918e507a434e0",
+      "guid": "https://ici.radio-canada.ca/article/info/2301970/climat-cop31-turquie-accord-incertain",
+      "link": "https://ici.radio-canada.ca/article/info/2301970/climat-cop31-turquie-accord-incertain",
+      "title": "Climat : ultimes heures pour un accord incertain à la COP31",
+      "excerpt": "La question des financements à verser aux pays en développement est âprement débattue.",
+      "published": "2026-11-20T01:07:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cop31-5031.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
+      "id": "faa8ca35d6eb4dc9",
+      "guid": "https://ici.radio-canada.ca/article/info/2301965/carney-condamne-invasion-ukraine-russie-poutine",
+      "link": "https://ici.radio-canada.ca/article/info/2301965/carney-condamne-invasion-ukraine-russie-poutine",
+      "title": "En présence de Poutine, Carney condamne l’invasion de l’Ukraine par la Russie",
+      "excerpt": "Le premier ministre canadien a fait cette déclaration lors des discours des dirigeants au sommet de l’APEC.",
+      "published": "2026-11-20T00:44:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mark-carney-6123.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
+      "id": "a6d973fde08014c7",
+      "guid": "https://ici.radio-canada.ca/article/info/2301959/robert-miller-deboute-action-collective-abus-sexuels",
+      "link": "https://ici.radio-canada.ca/article/info/2301959/robert-miller-deboute-action-collective-abus-sexuels",
+      "title": "Action collective pour abus sexuels : la Cour d’appel déboute Robert Miller",
+      "excerpt": "Environ 100 mineures seraient concernées dans l’affaire Robert Miller.",
+      "published": "2026-11-19T23:50:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/robert-g-miller-63283.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
+      "id": "7fe81c0533031418",
+      "guid": "https://ici.radio-canada.ca/article/info/2301948/briser-isolement-solitude-veronique-hivon",
+      "link": "https://ici.radio-canada.ca/article/info/2301948/briser-isolement-solitude-veronique-hivon",
+      "title": "Briser l’isolement : la solitude, le nouveau combat de Véronique Hivon",
+      "excerpt": "Avec ce documentaire, elle espère lancer un mouvement collectif contre ce mal silencieux.",
+      "published": "2026-11-19T23:26:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/veronique-hivon-58488.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
+      "id": "7bb3e942328909a0",
+      "guid": "https://ici.radio-canada.ca/article/info/2301876/accord-commercial-interimaire-leblanc-trump",
+      "link": "https://ici.radio-canada.ca/article/info/2301876/accord-commercial-interimaire-leblanc-trump",
+      "title": "Un accord commercial intérimaire Ottawa-Washington d’ici la fin de l’année?",
+      "excerpt": "D'autres sources ont précisé à Radio-Canada que le Canada n'avait pas changé d’approche.",
+      "published": "2026-11-19T23:08:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/dominic-leblanc-canada-ottawa.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
+      "id": "c04c7452aa53db92",
+      "guid": "https://ici.radio-canada.ca/article/info/2301878/entree-bourse-anthropic-questions-reponses",
+      "link": "https://ici.radio-canada.ca/article/info/2301878/entree-bourse-anthropic-questions-reponses",
+      "title": "Entrée en bourse d’Anthropic : quels risques pour les investisseurs?",
+      "excerpt": "Doit-on s’attendre à une chute de la valeur de l’action? Éclairage d’experts.",
+      "published": "2026-11-19T21:42:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/entree-bourse-anthropic-nasdaq.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
+      "id": "a9e0a6f7ed39ca7e",
+      "guid": "https://ici.radio-canada.ca/article/info/2301908/arabie-saoudite-tour-riyad-frappe-houthis-yemen",
+      "link": "https://ici.radio-canada.ca/article/info/2301908/arabie-saoudite-tour-riyad-frappe-houthis-yemen",
+      "title": "Arabie saoudite : la plus haute tour de Riyad endommagée par une frappe des Houthis",
+      "excerpt": "Les Houthis affirment que l’attaque est une riposte à des frappes au Yémen ayant tué des civils.",
+      "published": "2026-11-19T21:30:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/yemen-houthis-18368.jpg",
+      "type": "article",
+      "addedAt": "2026-11-20T03:11:45.965Z"
+    },
+    {
       "id": "92d98763fdf7f7fb",
       "guid": "https://ici.radio-canada.ca/article/info/2301751/anthropic-introduction-bourse-nasdaq-debut",
       "link": "https://ici.radio-canada.ca/article/info/2301751/anthropic-introduction-bourse-nasdaq-debut",
