@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "e5129de68a1aaf14",
+      "guid": "https://globalnews.ca/?p=12161111",
+      "link": "https://globalnews.ca/news/12161111/toronto-bolo-arrest/",
+      "title": "Toronto man arrested for homicide after appearing on Canada’s most wanted list",
+      "excerpt": "In September 2026, officers responded to a report of a vehicle on fire in a field near the Steeles Avenue East and Reesor Road area, where they found a 32-year-old man dead inside.",
+      "published": "2026-11-21T23:04:54.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Toronto-Police-3-e1795302261967.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
+      "id": "2876d04fe9be55f9",
+      "guid": "https://globalnews.ca/?p=12161094",
+      "link": "https://globalnews.ca/news/12161094/toronto-zoo-revies-following-fiona-death/",
+      "title": "Toronto zoo reviews enclosures and policies following Fiona the Hippo’s death",
+      "excerpt": "Beloved nine-year-old Fiona died from complications after ingesting a visitor's knit hat that was accidentally flung into her enclosure at the Cincinnati Zoo.",
+      "published": "2026-11-21T22:48:34.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Fiona-e1795301218815.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
+      "id": "72cf3b2ea01d47f1",
+      "guid": "https://globalnews.ca/?p=12161081",
+      "link": "https://globalnews.ca/news/12161081/becky-durhan-nova-scotia-liberals/",
+      "title": "Former Tory minister Becky Druhan elected as N.S. Liberal party leader",
+      "excerpt": "Druhan is the party’s first permanent leader since the Liberals were steamrolled in the 2024 provincial election, dropping from 14 seats to just two.",
+      "published": "2026-11-21T22:37:16.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/B-Druhan.png",
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
+      "id": "ab646240ff974942",
+      "guid": "https://globalnews.ca/?p=12161028",
+      "link": "https://globalnews.ca/news/12161028/quebec-student-strike-affordability-crisis/",
+      "title": "Quebec students consider general strike to protest affordability crisis",
+      "excerpt": "Students are set to vote on the strike after a general assembly that began in the early afternoon at the Université du Québec à Montréal.",
+      "published": "2026-11-21T21:31:34.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/UQAM-e1795296667521.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
+      "id": "be7884f9631c73ac",
+      "guid": "https://globalnews.ca/?p=12160986",
+      "link": "https://globalnews.ca/news/12160986/fbi-hack-investigation/",
+      "title": "FBI investigating apparent hack of key criminal justice info database: AP source",
+      "excerpt": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains, a person familiar with the matter said Saturday.",
+      "published": "2026-11-21T20:46:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Patel-e1795293729764.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
+      "id": "fc2bc7d8801bc4ad",
+      "guid": "https://globalnews.ca/news/12160927/melnyk-sisters-join-toronto-tempo-ownership-group/",
+      "link": "https://globalnews.ca/news/12160927/melnyk-sisters-join-toronto-tempo-ownership-group/",
+      "title": "Melnyk sisters join Toronto Tempo ownership group",
+      "excerpt": "Anna and Olivia Melnyk have joined the ownership group of the WNBA's Toronto Tempo.",
+      "published": "2026-11-21T19:06:38.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/4635916ca3358a80ccdc9817756fcf5eeed83dd8d0d899b5fd7ae97e9d889dba_f998d8.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
+      "id": "d2ce1eae56928d5d",
+      "guid": "https://globalnews.ca/?p=12160884",
+      "link": "https://globalnews.ca/news/12160884/canada-us-defence/",
+      "title": "Canada unaware of U.S. changes to military cooperation policy, McGuinty says",
+      "excerpt": "The Department of War is “taking steps to ensure its engagements with Canada advance tangible U.S. defense objectives, the Chief Pentagon spokesperson told Global News.",
+      "published": "2026-11-21T18:53:58.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/McGuinty-e1795284391944.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
       "id": "8be80d0e29aa613a",
       "guid": "https://globalnews.ca/?p=12160847",
       "link": "https://globalnews.ca/news/12160847/montreal-police-misconduct-investigation-charges/",

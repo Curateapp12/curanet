@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "9f2af01a2aa93e76",
+      "guid": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "excerpt": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "published": "2026-11-21T22:59:58.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
+      "id": "1e1dbef95d66a94a",
+      "guid": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "excerpt": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+      "published": "2026-11-21T18:01:58.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
       "id": "4b6021947b3ef390",
       "guid": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
       "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",

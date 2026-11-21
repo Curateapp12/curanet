@@ -3,6 +3,39 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "69b7817cc9959994",
+      "guid": "7dbd438d-12f4-47d7-bb5c-48863ac2eb15",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+      "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+      "excerpt": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren.",
+      "published": "2026-11-21T20:17:57.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7a1fbb62-7cb1-4204-9940-74c07d536a3b/AAABof-zqeA/AAABnSSvrFg/16x9-big/leyen-340.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
+      "id": "63bc6d4e70ff3937",
+      "guid": "323558b2-a625-459c-b646-83c2458aea3b",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
+      "title": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
+      "excerpt": "Rund um die Chemiefabrik Chemours in den Niederlanden sollen die Bürger kein Obst aus ihren Gärten mehr essen. Dort werden Kunststoffe hergestellt, die zu den sogenannten Ewigkeitschemikalien gehören. Dagegen wehren sich die Bürger. Von O. Chladkova.",
+      "published": "2026-11-21T19:54:06.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e4ae9c3d-5aad-47f4-9fc9-adf267a1886f/AAABofmmXLs/AAABnSSvrFg/16x9-big/chemours-chemiewerk-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
+      "id": "a5f1fc3c7e6ddcc0",
+      "guid": "0fbdf2ed-b7f8-4d7a-af69-09718fe42d42",
+      "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+      "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+      "excerpt": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
+      "published": "2026-11-21T17:32:19.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0f0e8b4e-d884-4b6e-b9b7-7928a016f4c0/AAABof8F-Zo/AAABnSSvrFg/16x9-big/primzahlen-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
       "id": "e060e7b0cd59eac0",
       "guid": "20ada8df-bac5-4401-be22-77c676e7e166",
       "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
