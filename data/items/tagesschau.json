@@ -3,6 +3,116 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "3b0159120cee73c7",
+      "guid": "1248525f-0b14-4fc0-b044-948517cfc3a0",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
+      "title": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
+      "excerpt": "Lange mussten GTA-Fans auf den sechsten Teil der Videospiel-Reihe warten - jetzt trägt der Hype Früchte. Nach Angaben von Rockstar Games erzielte das Spiel am ersten Verkaufstag einen Rekordumsatz von rund 3,8 Milliarden Dollar.",
+      "published": "2026-11-21T09:39:17.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2dc21d0a-7742-47b7-b951-a2b950e8014f/AAABof1N474/AAABnSSvrFg/16x9-big/gta-174.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T09:47:18.026Z"
+    },
+    {
+      "id": "12646496ae1490e4",
+      "guid": "156ca9fb-4b7c-49d3-931a-45e0fc5afe5d",
+      "link": "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
+      "title": "Südafrikas vermeidbare Wasserkrise",
+      "excerpt": "Marode Leitungen, zu hoher Verbrauch, geringe Investitionen: Die Wasserkrise in Südafrika gilt als weitgehend hausgemacht. Weil sich die Lage verschlimmert hat, reagieren die Behörden mit strengeren Regeln. Von Stephan Ueberbach.",
+      "published": "2026-11-21T08:27:21.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c701043d-b493-4b19-acea-00fbd965ac43/AAABofi6LDo/AAABnSSvrFg/16x9-big/demonstration-suedafrika-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T09:47:18.026Z"
+    },
+    {
+      "id": "a18d37a4e6161592",
+      "guid": "58e2f280-e44c-457c-ac1f-43756d24472b",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
+      "title": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
+      "excerpt": "Schweinehaltung in Deutschland ist ein Verlustgeschäft - Liquiditätshilfen in Höhe von 25 Millionen Euro sollen jetzt den Betrieben helfen. Doch das Notfallprogramm allein wird nicht ausreichen, warnen Landwirte und Opposition. Von T. Lehning.",
+      "published": "2026-11-21T08:26:38.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/588d415c-5faf-4022-aadf-35404a995cb3/AAABofmYLNQ/AAABnSSvrFg/16x9-big/ferkel-schweinezucht-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T09:47:18.026Z"
+    },
+    {
+      "id": "a88e9d41c47b2026",
+      "guid": "2b4d1e05-f2ba-4296-ba9d-db578ed628f1",
+      "link": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
+      "title": "\"Palisades Fire\" - Angeklagter im zweiten Anlauf schuldig gesprochen",
+      "excerpt": "Bei dem Brand im Januar 2025 starben 31 Menschen: Nach dem verheerenden Feuer im Nobelvorort Pacific Palisades von Los Angeles ist der Angeklagte schuldig gesprochen worden. Ihm drohen bis zu 40 Jahre Haft.",
+      "published": "2026-11-21T08:14:03.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2e8a116a-f62e-4357-8076-8dff66240fe0/AAABof0TGU8/AAABnSSvrFg/16x9-big/pacific-palisades-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T09:47:18.026Z"
+    },
+    {
+      "id": "83b8ffad512b33ee",
+      "guid": "6faa31a4-e8fb-4e01-9850-5deeb4b858d3",
+      "link": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html",
+      "title": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
+      "excerpt": "\"Killerroboter\" können Ziele auswählen und Angriffe auslösen - ohne menschliche Beteiligung. Die UN sollten dafür Schranken erarbeiten. Das Wann und Wie bleibt aber unter auch wegen des Widerstands aus Russland und den USA ungeklärt.",
+      "published": "2026-11-21T07:57:28.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T09:47:18.026Z"
+    },
+    {
+      "id": "366c46e161411926",
+      "guid": "2873ac32-113b-4821-b42d-0cb9b9c28395",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
+      "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
+      "excerpt": "Hacker sind Medienberichten zufolge in ein Zahlungssystem des US-Agrarministeriums und in eine Datenbank des FBI eingedrungen. Die Angriffe reihen sich in eine Serie von Systemausfällen und Technikpannen in den USA.",
+      "published": "2026-11-21T06:51:20.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c4a8129d-5713-48b5-b0cc-3d6541af9469/AAABlMc781U/AAABnSSvrFg/16x9-big/fbi-hauptquartier-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T09:47:18.026Z"
+    },
+    {
+      "id": "184af5cc238cce7c",
+      "guid": "6853d7a6-eebb-4e3b-8c8d-155eb112167c",
+      "link": "https://www.tagesschau.de/kultur/50-jahre-rocky-100.html",
+      "title": "Happy Birthday \"Rocky\" - Philadelphia feiert 50 Jahre Italian Stallion",
+      "excerpt": "50 Jahre ist es her, dass ein Low-Budget-Film mit einem unbekannten Darsteller in die Kinos kam. Das Boxer-Drama \"Rocky\" machte Sylvester Stallone zum Weltstar. Die Stadt Philadelphia feiert nun ihren fiktiven Sohn. Von T. Börgers und D. Konrad.",
+      "published": "2026-11-21T06:45:37.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5c355dce-07dd-414f-91af-c0afd97d8edb/AAABofzl2Ps/AAABnSSvrFg/16x9-big/sendungsbild-1829876.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T09:47:18.026Z"
+    },
+    {
+      "id": "b41a17ea88cdbb91",
+      "guid": "2625e01a-e2b5-4e42-9222-bca453953790",
+      "link": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
+      "title": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
+      "excerpt": "Für den Chemiekonzern Bayer könnten die Klagen wegen des Unkraut-Vernichters Roundup in den USA bald der Vergangenheit angehören. Ein US-Gericht hat einen milliardenschweren Vergleich des Konzerns mit Vertretern der Kläger gebilligt.",
+      "published": "2026-11-21T03:50:50.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/8abc89ba-9a3f-4036-b1d7-d035db21bc32/AAABnHAaiEY/AAABnSSvrFg/16x9-big/bayer-204.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T09:47:18.026Z"
+    },
+    {
+      "id": "b37f7b315a1b05f3",
+      "guid": "72b1c0ef-6ceb-4784-a9dc-e636d2df0339",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
+      "title": "Tote und Verletzte bei Raketenangriff auf Krywyj Rih",
+      "excerpt": "Krywyj Rih ist die Heimatstadt des ukrainischen Präsidenten Selenskyj. Nun wurde die Industriestadt erneut mit ballistischen Raketen beschossen. Eine Rakete schlug demnach nahe Wohnhäusern und einem Restaurant ein.",
+      "published": "2026-11-21T02:39:59.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/9b3f1d60-628a-4f5d-bb7f-caa6b22aee9a/AAABofv5kMM/AAABnSSvrFg/16x9-big/ukraine-krywyj-rih-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T09:47:18.026Z"
+    },
+    {
+      "id": "83db1d8d5e2072b7",
+      "guid": "8147ca5b-e51d-44ab-b803-d435442a5729",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+      "title": "\"Gen Z regelt\": Jugendliche erneut zu Tausenden auf den Straßen",
+      "excerpt": "Zehntausende junge Menschen haben friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween blieb aber aus.",
+      "published": "2026-11-21T02:38:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/2c703d3c-7472-41bf-bb2d-e59b13301821/AAABofv4RzI/AAABnSSvrFg/16x9-big/jugendproteste-120.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T09:47:18.026Z"
+    },
+    {
       "id": "e5aae274ccbb2b42",
       "guid": "54428622-e61a-42b5-9e1c-17fa9bd8dc51",
       "link": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
