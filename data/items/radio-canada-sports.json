@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "3fd18f7a36e41616",
+      "guid": "https://ici.radio-canada.ca/videos/1-10815130/recette-slovenie-dans-sport",
+      "link": "https://ici.radio-canada.ca/videos/1-10815130/recette-slovenie-dans-sport",
+      "title": "La recette de la Slovénie dans le sport",
+      "excerpt": "Le journaliste Guillaume Piedboeuf s'est rendu en Slovénie pour constater la stratégie de ce pays d'Europe qui connaît de bonnes performances sportives.",
+      "published": "2026-11-21T01:01:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/la-recette-slovene-tadej-pogacar-conducteurs.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "b6be508659565024",
+      "guid": "https://ici.radio-canada.ca/article/info/2302245/exclusivite-hockey-lundi-rogers-replique",
+      "link": "https://ici.radio-canada.ca/article/info/2302245/exclusivite-hockey-lundi-rogers-replique",
+      "title": "Hockey du lundi soir : Rogers renvoie la balle à ses rivaux",
+      "excerpt": "L'entreprise les invite à négocier un accord des droits similaire à celui qu'elle a accordé à sa filiale.",
+      "published": "2026-11-21T01:01:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/gavin-mckenna-82880.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "01ffbc285e190adf",
+      "guid": "https://ici.radio-canada.ca/videos/1-10815060/glen-constantin-passe-flambeau-a-mathieu-bertrand",
+      "link": "https://ici.radio-canada.ca/videos/1-10815060/glen-constantin-passe-flambeau-a-mathieu-bertrand",
+      "title": "Glen Constantin passe le flambeau à Mathieu Bertrand",
+      "excerpt": "Louis-Simon Lapointe a rencontré le nouvel entraîneur-chef du Rouge et Or, Mathieu Bertrand, et son prédécesseur, Glen Constatin, qui lui a passé le flambeau de l'équipe de football cette semaine.",
+      "published": "2026-11-20T23:45:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/rouge-et-or-football-mathieu-bertrand-glen-constantin.png",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "94906ea2fa46c09c",
+      "guid": "https://ici.radio-canada.ca/article/info/2302229/atletico-ottawa-cavalry-fc-plc",
+      "link": "https://ici.radio-canada.ca/article/info/2302229/atletico-ottawa-cavalry-fc-plc",
+      "title": "Après la neige, le froid attend l’Atlético Ottawa en finale",
+      "excerpt": "L'équipe tentera de défendre son titre de champion, samedi après-midi, à Calgary.",
+      "published": "2026-11-20T23:27:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/soccer-atletico-ottawa-cavalry-fc-calgary.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "d186678db84b870b",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2535300/evolution-sport-feminin",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2535300/evolution-sport-feminin",
+      "title": "L’engouement et la professionnalisation du sport féminin",
+      "excerpt": "L’engouement pour le sport féminin se fait sentir partout au pays, mais aussi à l’international. L’arrivée des ligues professionnelles au niveau international se fait sentir aussi aux niveaux national, provincial et régional. Pour discuter de la professionnalisation des équipes et athlètes…",
+      "published": "2026-11-20T23:09:56.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/16x9/17h15-guylaine-demers-isabelle-harvey-cmel.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "0318a074d2c210cb",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302210/finlande-pereira-michaud-tete-classement-programme-court",
+      "link": "https://ici.radio-canada.ca/article/sports/2302210/finlande-pereira-michaud-tete-classement-programme-court",
+      "title": "Pereira et Michaud en tête après le programme court en Finlande",
+      "excerpt": "Les Ontariens ont récolté 74,39 points pour leur prestation.",
+      "published": "2026-11-20T22:18:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/lia-pereira-trennt-michaud-grand-prix-finlande.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "0b59c04c011a42ed",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2535329/sports-dangers-surspecialisation-precoce",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2535329/sports-dangers-surspecialisation-precoce",
+      "title": "Mon enfant, un futur pro ?",
+      "excerpt": "Alors que l’industrie sportive est à son apogée, plusieurs parents tentent de surspécialiser leurs enfants dès un très jeune âge dans l’espoir de les voir évoluer dans le sport de haut niveau ou professionnel. Vincent Huard Pelletier, professeur au département des sciences de l'éducation de…",
+      "published": "2026-11-20T22:11:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/16x9/15h15-ceml-vincent-huard.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "a3621bd7ff14d4e4",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2535295/est-ce-que-c-est-encore-accessible-a-tous-faire-sport",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2535295/est-ce-que-c-est-encore-accessible-a-tous-faire-sport",
+      "title": "Le sport, réservé aux plus riches ?",
+      "excerpt": "Alors que les sports amateurs sont de plus en plus pratiqués au Québec, certains parents voient une augmentation dans le coût de l’équipement, tout comme les frais d’inscription. Pour démystifier si cette sensation est réelle, Alexandro Allison Abaunza, membre de la Chaire de recherche Sécurité et…",
+      "published": "2026-11-20T22:11:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/16x9/16h35-alexandro-allison-abaunza-ceml.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "fa23298629b3a28a",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2535384/financement-athletes-olympiques",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2535384/financement-athletes-olympiques",
+      "title": "Financement des athlètes : quelle est la solution?",
+      "excerpt": "Dans le cadre de son émission spéciale sur le sport, C’est encore mieux l’après-midi s’est penché sur un sujet qui a énormément fait réagir dans le monde du sport cette année : le financement des athlètes. Lors d’une table ronde, Dominick Gauthier, ancien skieur acrobatique et cofondateur de…",
+      "published": "2026-11-20T22:11:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/16x9/16h15-ceml-eric-myles.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
       "id": "a02bfe17998b3854",
       "guid": "https://ici.radio-canada.ca/article/info/2302157/edmonton-ville-champions-elks",
       "link": "https://ici.radio-canada.ca/article/info/2302157/edmonton-ville-champions-elks",

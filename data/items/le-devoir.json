@@ -3,6 +3,138 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "ea5e017d07b33934",
+      "guid": "https://www.ledevoir.com/economie/consommation/1026770/bureau-gros-affirme-avoir-ete-victime-fuite-donnees",
+      "link": "https://www.ledevoir.com/economie/consommation/1026770/bureau-gros-affirme-avoir-ete-victime-fuite-donnees",
+      "title": "Bureau en gros affirme avoir été victime d’une fuite de données",
+      "excerpt": "Le détaillant recommande aux usagers de modifier leurs mots de passe.",
+      "published": "2026-11-21T00:15:36.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "b7d8d68e902c8ccc",
+      "guid": "https://www.ledevoir.com/economie/1026761/joly-dirigeants-stellantis-appretent-nouveau-bras-fer",
+      "link": "https://www.ledevoir.com/economie/1026761/joly-dirigeants-stellantis-appretent-nouveau-bras-fer",
+      "title": "Joly et les dirigeants de Stellantis s’apprêtent à un nouveau bras de fer",
+      "excerpt": "Ottawa a récemment signifié au groupe automobile un avis de défaut concernant son accord de financement de 2022.",
+      "published": "2026-11-20T23:54:22.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "b7b09108f03e4879",
+      "guid": "https://www.ledevoir.com/actualites/societe/1026758/mathematicien-resolu-plus-celebres-problemes-aide-ia",
+      "link": "https://www.ledevoir.com/actualites/societe/1026758/mathematicien-resolu-plus-celebres-problemes-aide-ia",
+      "title": "Un mathématicien a résolu un des plus célèbres problèmes avec l’aide de l’IA",
+      "excerpt": "L’hypothèse de Riemann fait partie des sept problèmes dits du millénaire.",
+      "published": "2026-11-20T23:46:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "6eb75129b29fe91d",
+      "guid": "https://www.ledevoir.com/actualites/1026755/usagers-feront-frais-certaines-mesures-annoncees-stm-denonce-projet-montreal",
+      "link": "https://www.ledevoir.com/actualites/1026755/usagers-feront-frais-certaines-mesures-annoncees-stm-denonce-projet-montreal",
+      "title": "« Les usagers feront les frais » du nouveau budget de la STM, dénonce Projet Montréal",
+      "excerpt": "Le plan dévoilé jeudi prévoit notamment des économies de 30 millions et la suppression de 120 postes.",
+      "published": "2026-11-20T23:38:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "754a70ea95e337b0",
+      "guid": "https://www.ledevoir.com/economie/1026752/trump-affirme-canada-sent-enhardi-mais-accord-est-encore-possible",
+      "link": "https://www.ledevoir.com/economie/1026752/trump-affirme-canada-sent-enhardi-mais-accord-est-encore-possible",
+      "title": "Trump affirme que le Canada se sent «enhardi», mais qu’un accord est encore possible",
+      "excerpt": "Le président a réitéré que Mark Carney souhaite «construire un oléoduc Keystone pour nous».",
+      "published": "2026-11-20T23:21:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "513edf839d43f0ff",
+      "guid": "https://www.ledevoir.com/monde/etats-unis/1026746/deuxieme-juge-bloque-construction-arc-triomphe-trump",
+      "link": "https://www.ledevoir.com/monde/etats-unis/1026746/deuxieme-juge-bloque-construction-arc-triomphe-trump",
+      "title": "Une deuxième juge bloque la construction de l’arc de triomphe de Trump",
+      "excerpt": "Une organisation représentant le plus important cimetière militaire du pays a salué la décision.",
+      "published": "2026-11-20T22:56:19.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "82f843f01f827f25",
+      "guid": "https://www.ledevoir.com/actualites/environnement/1026740/consommation-electricite-centres-donnees-doublera-ici-2030",
+      "link": "https://www.ledevoir.com/actualites/environnement/1026740/consommation-electricite-centres-donnees-doublera-ici-2030",
+      "title": "La consommation d’électricité des centres de données doublera d’ici 2030",
+      "excerpt": "La consommation globale d’électricité pour nourrir les centres de données et l’IA atteint 1,7% de la demande mondiale.",
+      "published": "2026-11-20T22:20:59.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "7d882575ba5b9614",
+      "guid": "https://www.ledevoir.com/actualites/justice/1026725/jonathan-blanchet-ira-directement-proces-meurtre-gabie-renaud",
+      "link": "https://www.ledevoir.com/actualites/justice/1026725/jonathan-blanchet-ira-directement-proces-meurtre-gabie-renaud",
+      "title": "Jonathan Blanchet ira directement en procès pour le meurtre de Gabie Renaud",
+      "excerpt": "De manière exceptionnelle, le DPCP a déposé un acte d’accusation direct, qui permet de contourner l’enquête préliminaire.",
+      "published": "2026-11-20T21:04:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "209a12ad04c570c9",
+      "guid": "https://www.ledevoir.com/monde/1026710/incertitude-conference-onu-robots-tueurs",
+      "link": "https://www.ledevoir.com/monde/1026710/incertitude-conference-onu-robots-tueurs",
+      "title": "Incertitude à la conférence de l’ONU sur les «robots tueurs»",
+      "excerpt": "Les systèmes d’armes létales autonomes suscitent des appels croissants à une réglementation internationale.",
+      "published": "2026-11-20T20:17:05.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "39fa16b338245f9c",
+      "guid": "https://www.ledevoir.com/politique/montreal/1026707/ville-montreal-nomme-responsable-chargee-lutte-contre-racisme",
+      "link": "https://www.ledevoir.com/politique/montreal/1026707/ville-montreal-nomme-responsable-chargee-lutte-contre-racisme",
+      "title": "La Ville de Montréal nomme une responsable chargée de la lutte contre le racisme",
+      "excerpt": "Les préoccupations liées au racisme sont au cœur des débats à la mairie depuis le mois de juin.",
+      "published": "2026-11-20T20:12:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "0ec0ec7df772df76",
+      "guid": "https://www.ledevoir.com/culture/ecrans/1026698/grand-theft-auto-vi-fait-5-4-milliards-journee-vente-lancement-record",
+      "link": "https://www.ledevoir.com/culture/ecrans/1026698/grand-theft-auto-vi-fait-5-4-milliards-journee-vente-lancement-record",
+      "title": "«GTA VI» a fait 5,4 milliards $CA en une journée de vente, un lancement record",
+      "excerpt": "Il s’agit du lancement le plus lucratif de tout le monde du divertissement, dépassant tout autre film, concert ou jeu.",
+      "published": "2026-11-20T20:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "505bb7e4bcce32b9",
+      "guid": "https://www.ledevoir.com/actualites/justice/1026692/action-collective-contre-milliardaire-robert-miller-est-autorisee",
+      "link": "https://www.ledevoir.com/actualites/justice/1026692/action-collective-contre-milliardaire-robert-miller-est-autorisee",
+      "title": "L’action collective contre le milliardaire Robert Miller est autorisée",
+      "excerpt": "La plainte allègue que M. Miller a échangé de l’argent et des cadeaux contre des relations sexuelles avec des mineures.",
+      "published": "2026-11-20T19:30:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
       "id": "a5618bc080126fdd",
       "guid": "https://www.ledevoir.com/sports/1026680/alouettes-congedient-coordonnateur-defense-noel-thorpe",
       "link": "https://www.ledevoir.com/sports/1026680/alouettes-congedient-coordonnateur-defense-noel-thorpe",

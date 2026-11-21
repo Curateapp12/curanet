@@ -3,6 +3,83 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "b05c36fbb62f738b",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "excerpt": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+      "published": "2026-11-20T22:28:24.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "3a6032c14ad0ee31",
+      "guid": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "excerpt": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "published": "2026-11-20T22:16:51.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "5a49fd4a2d776cb4",
+      "guid": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "excerpt": "Google search is making it even easier to access AI tools on the search page.",
+      "published": "2026-11-20T21:58:29.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "c4b0222f29f2f6ae",
+      "guid": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "excerpt": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "published": "2026-11-20T21:47:10.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "99727b65c29013d0",
+      "guid": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "excerpt": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "published": "2026-11-20T20:59:08.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "51cbc0040f4459f8",
+      "guid": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "excerpt": "A recent brightening turned out to be from a star orbiting inside another.",
+      "published": "2026-11-20T20:41:17.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
+      "id": "1400be933d41048d",
+      "guid": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "excerpt": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+      "published": "2026-11-20T20:26:33.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T01:31:28.946Z"
+    },
+    {
       "id": "bd891512041a1726",
       "guid": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
       "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
