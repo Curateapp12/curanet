@@ -3,6 +3,83 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "10ffcdceeddf6de3",
+      "guid": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o#1",
+      "link": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o",
+      "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+      "excerpt": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+      "published": "2026-11-21T16:16:29.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d960/live/d9b714f0-e5bd-11f1-a094-5fdc692f3e33.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "b899eec8aba7faca",
+      "guid": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo#3",
+      "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo",
+      "title": "British man swims through Strait of Hormuz to highlight environmental impact of war",
+      "excerpt": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
+      "published": "2026-11-21T16:12:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "aee70c00cf7ed1c5",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo#1",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo",
+      "title": "England run up record win over New Zealand in rugby union's Nations Championship",
+      "excerpt": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
+      "published": "2026-11-21T16:08:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afc0/live/c8a34840-e5c8-11f1-99a1-253766e7ad8b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "4cba40e95f6834f8",
+      "guid": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo#3",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo",
+      "title": "Scouts say they face £1m tourist tax cost for overnight trips",
+      "excerpt": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
+      "published": "2026-11-21T13:29:55.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a35/live/b16af070-a12a-11f1-8c37-3f30331ac537.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "1c20aabfa0ef2b66",
+      "guid": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "excerpt": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "published": "2026-11-21T13:17:38.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f4/live/23242820-e5a6-11f1-a094-5fdc692f3e33.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "65c03af29341c624",
+      "guid": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o#1",
+      "link": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o",
+      "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+      "excerpt": "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November.",
+      "published": "2026-11-21T12:17:45.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/854c/live/ec249880-e5a2-11f1-a094-5fdc692f3e33.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "d2ffddc4f110493c",
+      "guid": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o",
+      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+      "excerpt": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+      "published": "2026-11-21T12:00:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
       "id": "ec0a4bcf030a68e2",
       "guid": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o#1",
       "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
@@ -529,6 +606,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f8/live/7c960b40-e4ce-11f1-8ebd-0fa6091698b5.jpg",
       "type": "article",
       "addedAt": "2026-11-20T20:13:37.501Z"
+    },
+    {
+      "id": "a1b9649a3ec08d4f",
+      "guid": "https://www.bbc.co.uk/news/articles/cmqj5dr01e85o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cmqj5dr01e85o",
+      "title": "I've only sold five copies of GTA 6, says game shop owner",
+      "excerpt": "Games shop owner Richard Tewksbury says the release of Grand Theft Auto 6 has been a \"write-off\".",
+      "published": "2026-11-20T11:29:33.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7147/live/f2bf16b0-e41d-11f1-9e08-55a8a3b48445.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
     },
     {
       "id": "974fdeb4375ac413",

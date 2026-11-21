@@ -3,6 +3,127 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "e060e7b0cd59eac0",
+      "guid": "20ada8df-bac5-4401-be22-77c676e7e166",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+      "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+      "excerpt": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, zur Besatzung gibt es widersprüchliche Angaben.",
+      "published": "2026-11-21T16:29:37.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4ffc6b7b-b5a0-479c-aad8-927bf984e3dc/AAABof4zEqY/AAABnSSvrFg/16x9-big/sparta-2-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "f5750e74b85f4955",
+      "guid": "85708862-fd19-4f0c-a880-5b5ee24cac5c",
+      "link": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+      "title": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+      "excerpt": "Ab Januar soll der Preisdeckel für Benzin und Diesel gelten. Wirtschaftsministerin Reiche plant offenbar, Autobahntankstellen davon ausnehmen. Ihr neuer Gesetzentwurf ist noch in der Abstimmung zwischen den Ministerien.",
+      "published": "2026-11-21T15:55:59.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/98d0f323-0dad-4ac9-8b0b-6a153c4037a7/AAABof7AlbY/AAABnSSvrFg/16x9-big/tankstelle-398.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "a448c332c239218a",
+      "guid": "67b5831f-dc0a-4695-abd4-ae9b59ff0e11",
+      "link": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
+      "title": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
+      "excerpt": "Die USA fordern von Mexiko schon länger ein hartes Vorgehen gegen Kartelle. Nun ist den Behörden offenbar ein hochrangiger Drogenboss ins Netz gegangen. Der Mann zählte auf der Liste des FBI zu den meistgesuchten Verbrechern.",
+      "published": "2026-11-21T15:36:57.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/93302147-0fc0-4d9f-9e7e-3ebe2ae98112/AAABof6oAwU/AAABnSSvrFg/16x9-big/fausto-isidro-meza-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "23428b4285759f0c",
+      "guid": "833c6bbc-681c-4d27-a97e-a11643d18098",
+      "link": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
+      "title": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
+      "excerpt": "Aufgrund eines riskanten Manövers kenterte die \"Costa Concordia\" 2012 vor der Küste Italiens. 32 Menschen starben. Nun ist der ehemalige Kapitän des Schiffes aus dem Gefängnis entlassen worden. Von Anna Giordano.",
+      "published": "2026-11-21T14:07:14.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0c24484f-639f-48c0-ad82-342eb5c57366/AAABof5OYYo/AAABnSSvrFg/16x9-big/schettino-121.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "d865bd1d5d7173f7",
+      "guid": "cb0e0c19-280e-4132-8c9f-b3d95c0b914f",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
+      "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+      "excerpt": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
+      "published": "2026-11-21T12:48:02.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/59680543-e758-4c86-b9bd-47eec3847061/AAABof4dVkI/AAABnSSvrFg/16x9-big/gennaro-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "299112c2bd1664d9",
+      "guid": "767f3b15-f71c-4d91-a6de-20657cd25e43",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
+      "title": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
+      "excerpt": "Der im Sommer verstorbene Klaus-Michael Kühne war einer der prägendsten Unternehmer der deutschen Nachkriegsgeschichte. Sein Umgang mit der Vergangenheit seines Imperiums war umstritten. Was wird daraus? Von Sandra Biegger.",
+      "published": "2026-11-21T12:36:54.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d48bd407-8eda-449b-b9d1-4d8d6ab87d66/AAABofjuKPA/AAABnSSvrFg/16x9-big/kuehne-nagel-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "b1634d990b88d62d",
+      "guid": "645f576d-4ede-4eda-824f-45aa2aa04c4e",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/grippe-impfstoff-hausaerzte-100.html",
+      "title": "Hausärzte beklagen Mangel an Grippe-Impfstoff",
+      "excerpt": "Sorry, kein Impfstoff da: Wer sich dieser Tage in der Hausarztpraxis gegen Grippe impfen lassen will, könnte mancherorts vertröstet werden. Der Hausärzteverband beklagt zu wenig Impfstoff. Die Apotheker sehen das weniger dramatisch.",
+      "published": "2026-11-21T12:13:27.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3a989699-6525-473b-bcda-95fb3b5a3f4a/AAABof3Ts0M/AAABnSSvrFg/16x9-big/impfausweis-120.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "f2530820d1b27352",
+      "guid": "466a1f66-a9f3-47d1-849c-cc03a5e58f0f",
+      "link": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html",
+      "title": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
+      "excerpt": "Die EU könnte Autokonzernen erlauben, auch nach 2035 neue Verbrenner und Hybride zu verkaufen. Verkehrsminister Bilger knüpft daran eine klare Erwartung: Deutschland müsse starker Produktionstandort bleiben.",
+      "published": "2026-11-21T11:19:36.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/673dcd9f-5137-4447-b004-64a6d4d7f425/AAABof24MAs/AAABnSSvrFg/16x9-big/autoindustrie-126.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "0f49275ea67fe6b0",
+      "guid": "3b603afd-ce06-4ca0-a5c8-aa8c300905e1",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
+      "title": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
+      "excerpt": "Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr neu auf. Die staatliche Förderung könnte beim neuen Altersvorsorgedepot für viele lukrativer sein als beim bisherigen \"Riestern\". Das sollte man beachten. Von P. Sauer.",
+      "published": "2026-11-21T10:20:52.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/3d78b85a-444b-4405-bcd3-f6852feadded/AAABle0sLHE/AAABnSSvrFg/16x9-big/smartphone-boersenkurse-101.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "40390377fb59c7ff",
+      "guid": "c85accd8-bdbc-438b-abc1-7a972ae7c9ab",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
+      "title": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
+      "excerpt": "Zum Jahreswechsel startet das neue Modell der staatlichen Altersvorsorge, das Altersvorsorgedepot. Private Angebote gibt es längst - doch das öffentlich organisierte Basis-Fondsangebot wird dann wohl noch nicht bereit sein.",
+      "published": "2026-11-21T10:16:17.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0c6d5cc7-4763-4984-83f0-1b96f3ffc74e/AAABnb-A6wU/AAABnSSvrFg/16x9-big/passanten-innenstadt-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "3f4502c8ed7afa5f",
+      "guid": "b45993d8-f481-4e35-9379-30cc117f9160",
+      "link": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
+      "title": "Erdbeben erschüttert Perus Andenregion",
+      "excerpt": "Die Erschütterungen waren bis in die Hauptstadt Lima zu spüren: Ein Erdbeben der Stärke 6,7 hat die Andenregion in Peru erschüttert. Über Schäden oder Opfer ist bislang nichts bekannt.",
+      "published": "2026-11-21T09:51:28.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6b6c6cae-4905-4f19-a88d-119b19ec276d/AAABof1qMKc/AAABnSSvrFg/16x9-big/lima-erdbeben-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
       "id": "3b0159120cee73c7",
       "guid": "1248525f-0b14-4fc0-b044-948517cfc3a0",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",

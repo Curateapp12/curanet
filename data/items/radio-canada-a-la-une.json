@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "c99831c4cf319596",
+      "guid": "https://ici.radio-canada.ca/article/info/2302287/spvm-arrestation-deux-policiers-congedies",
+      "link": "https://ici.radio-canada.ca/article/info/2302287/spvm-arrestation-deux-policiers-congedies",
+      "title": "SPVM : arrestation de deux policiers récemment congédiés",
+      "excerpt": "Les deux employés visés ont été libérés sous promesse de comparaître.",
+      "published": "2026-11-21T17:10:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/essentiels-info/16x9/police-montreal-spvm-logo.png",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "e04fd1695551dc91",
+      "guid": "https://ici.radio-canada.ca/article/info/2302260/cop31-climat-negociations-energie-financement",
+      "link": "https://ici.radio-canada.ca/article/info/2302260/cop31-climat-negociations-energie-financement",
+      "title": "Climat : les négociations s’enlisent à la COP31, sans compromis en vue",
+      "excerpt": "Malgré leurs différends sur les énergies fossiles et le financement, les dignitaires essaient de s'entendre.",
+      "published": "2026-11-21T16:43:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cop31-turquie-70336.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "beaa191c0382339e",
+      "guid": "https://ici.radio-canada.ca/article/info/2302276/trump-taxe-centres-donnees-hors-etats-unis",
+      "link": "https://ici.radio-canada.ca/article/info/2302276/trump-taxe-centres-donnees-hors-etats-unis",
+      "title": "Trump veut taxer les entreprises ayant des centres de données hors des États-Unis",
+      "excerpt": "Sans donner de détails, M. Trump a précisé qu’il n’en avait pas encore fait part à ses propres collaborateurs.",
+      "published": "2026-11-21T16:28:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/donald-trump-81012.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "f746507dc00df1b3",
+      "guid": "https://ici.radio-canada.ca/article/info/2302264/piratages-informatiques-departement-agriculture-fbi",
+      "link": "https://ici.radio-canada.ca/article/info/2302264/piratages-informatiques-departement-agriculture-fbi",
+      "title": "États-Unis : piratages informatiques du département de l’Agriculture et du FBI",
+      "excerpt": "Ces piratages ont eu lieu quelques jours après des pannes technologiques dans des secteurs stratégiques.",
+      "published": "2026-11-21T13:52:33.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/siege-fbi.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "746bb7ec3f1a629d",
+      "guid": "https://ici.radio-canada.ca/article/info/2302122/hmr-chantier-amiante-hopital-maisonneuve-rosemont",
+      "link": "https://ici.radio-canada.ca/article/info/2302122/hmr-chantier-amiante-hopital-maisonneuve-rosemont",
+      "title": "La présence d’amiante sur le chantier de Maisonneuve-Rosemont inquiète un CPE",
+      "excerpt": "Le chantier de l’hôpital est compliqué par l’amiante qui se trouve dans le sol, ce qui inquiète le CPE voisin.",
+      "published": "2026-11-21T13:06:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hmr-hopital-travaux-amiante.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "e7f6dc562df03288",
+      "guid": "https://ici.radio-canada.ca/article/info/2301593/oeil-ivanoh-demers-bon-endroit",
+      "link": "https://ici.radio-canada.ca/article/info/2301593/oeil-ivanoh-demers-bon-endroit",
+      "title": "Dans l’œil d’Ivanoh : être au bon endroit au bon moment",
+      "excerpt": "Notre photographe présente ses coups de cœur parmi les images qui ont marqué l’actualité récente.",
+      "published": "2026-11-21T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pape-leon-leon-xiv-perou-bebe-eglise.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
       "id": "0bb9ef2d7ac84ac6",
       "guid": "https://ici.radio-canada.ca/article/info/2301838/cop31-madagascar-changements-climatiques-eau-quotidien",
       "link": "https://ici.radio-canada.ca/article/info/2301838/cop31-madagascar-changements-climatiques-eau-quotidien",

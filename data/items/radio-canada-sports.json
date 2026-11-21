@@ -3,6 +3,94 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "62a9ac252399d1d3",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302284/sarault-roussel-brunelle-courte-piste-seoul",
+      "link": "https://ici.radio-canada.ca/article/sports/2302284/sarault-roussel-brunelle-courte-piste-seoul",
+      "title": "Quatre médailles pour les patineurs courte piste canadiens à Séoul",
+      "excerpt": "Félix Roussel, Mathieu Pelletier, Courtney Sarault et Florence Brunelle montent sur le podium en Corée du Sud.",
+      "published": "2026-11-21T17:14:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/felix-roussel-montreal-courte-piste.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "3b739613df2647f1",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302279/carlos-alcaraz-ben-shelton-atp",
+      "link": "https://ici.radio-canada.ca/article/sports/2302279/carlos-alcaraz-ben-shelton-atp",
+      "title": "Carlos Alcaraz laisse passer l’orage et renverse Ben Shelton aux finales de l’ATP",
+      "excerpt": "Malgré un début de demi-finale raté, l'Espagnol décroche son billet pour sa deuxième finale de suite.",
+      "published": "2026-11-21T16:30:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/carolis-alcaraz-tennis-atp.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "ac386e6c2b360c1b",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302275/max-verstappen-pole-f1-vegas",
+      "link": "https://ici.radio-canada.ca/article/sports/2302275/max-verstappen-pole-f1-vegas",
+      "title": "Verstappen décroche la position de tête à Las Vegas après une pénalité à Antonelli",
+      "excerpt": "La course se tiendra samedi soir.",
+      "published": "2026-11-21T15:41:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/max-verstappen-formule-un-f1-vegas.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "11e6fb703ff9a4aa",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302272/valerie-maltais-laurent-dubreuil-patinage-vitesse",
+      "link": "https://ici.radio-canada.ca/article/sports/2302272/valerie-maltais-laurent-dubreuil-patinage-vitesse",
+      "title": "Valérie Maltais et Laurent Dubreuil montent sur le podium au Japon",
+      "excerpt": "Les vétérans Valérie Maltais et Laurent Dubreuil ont prouvé qu’ils faisaient tous les deux toujours partie de l’élite du patinage de vitesse longue piste, samedi. Maltais est montée sur la troisième marche du podium au 1500 m de la Coupe du monde d’Obihiro, au Japon, alors que Dubreuil s’est lui…",
+      "published": "2026-11-21T15:00:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/valerie-maltais-79458.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "4c0fe2f41140b723",
+      "guid": "https://ici.radio-canada.ca/article/info/2302225/thunderbirds-carabins-football-coupeuteck",
+      "link": "https://ici.radio-canada.ca/article/info/2302225/thunderbirds-carabins-football-coupeuteck",
+      "title": "Les Thunderbirds sont prêts à prendre leur revanche contre les Carabins",
+      "excerpt": "L’équipe de la Colombie-Britannique vise une place en finale nationale du football universitaire.",
+      "published": "2026-11-21T13:15:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/thunderbirds-football-ubc.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "736130ebe6210391",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10814533/sports-hiver-preparatifs-avancent-avant-gel",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10814533/sports-hiver-preparatifs-avancent-avant-gel",
+      "title": "Sports d’hiver : les préparatifs avancent avant le gel",
+      "excerpt": "La douceur de novembre retarde la saison de glisse en Abitibi-Témiscamingue. Mont-Vidéo, Mont Kanasuta et les clubs de motoneige préparent le terrain en attendant le froid.",
+      "published": "2026-11-21T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/mont-kanasuta-sans-neige.png",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "7b6bb0b9426a72c1",
+      "guid": "https://ici.radio-canada.ca/article/info/2302075/champion-volleyball-macdonald-cartier-ofsaa-nossa",
+      "link": "https://ici.radio-canada.ca/article/info/2302075/champion-volleyball-macdonald-cartier-ofsaa-nossa",
+      "title": "Dernier droit pour Marc Savage avec les Panthères de Macdonald-Cartier",
+      "excerpt": "À nouveau champion de la NOSSA, le programme aspire à un deuxième titre provincial en autant d'années.",
+      "published": "2026-11-21T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pantheres-nossa-macdonald-cartier-volleyball.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "9c7435b82cf91fb7",
+      "guid": "https://ici.radio-canada.ca/article/info/2302134/marathon-churchill-ours-polaires-froid",
+      "link": "https://ici.radio-canada.ca/article/info/2302134/marathon-churchill-ours-polaires-froid",
+      "title": "Un marathon à Churchill, la ville des ours polaires",
+      "excerpt": "Le froid représente avant tout un risque majeur pour les coureurs.",
+      "published": "2026-11-21T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/polar-bear-marathon-churchill-manitoba.jpg",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
       "id": "89574fc2a760de20",
       "guid": "https://ici.radio-canada.ca/article/sports/2301822/armel-mukam-football-quebecois-defense-notre-dame-ncaa",
       "link": "https://ici.radio-canada.ca/article/sports/2301822/armel-mukam-football-quebecois-defense-notre-dame-ncaa",

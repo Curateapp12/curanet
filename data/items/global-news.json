@@ -3,6 +3,83 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "8be80d0e29aa613a",
+      "guid": "https://globalnews.ca/?p=12160847",
+      "link": "https://globalnews.ca/news/12160847/montreal-police-misconduct-investigation-charges/",
+      "title": "2 former Montreal police officers charged in misconduct investigation",
+      "excerpt": "The Montreal Police Service said Saturday the two former officers were part of the seven who had recently been administratively dismissed.",
+      "published": "2026-11-21T17:19:44.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/08/809f33498c7b65d0827b9feb6c84273abcfd7fe1fa7a71bd16f22b7a67ee5fe9_bd0345.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "66c3a703d53dbfd7",
+      "guid": "https://globalnews.ca/?p=12160824",
+      "link": "https://globalnews.ca/news/12160824/cadbury-dairy-milk-oreo-recall/",
+      "title": "Cadbury Dairy Milk Oreo treats hit under new recall",
+      "excerpt": "This is the second time Cadbury’s Dairy Milk Oreo candy bar has been recalled this year due to undeclared pistachio.",
+      "published": "2026-11-21T16:06:51.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/dairy-milk-1.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "e77082b229a0a634",
+      "guid": "https://globalnews.ca/?p=12160812",
+      "link": "https://globalnews.ca/news/12160812/missle-attack-central-ukraine/",
+      "title": "Ballistic missile attack in central Ukraine kills 2, wounds 60",
+      "excerpt": "A boy, 7, and a woman, 20, were killed in the attack Friday night on Kryvyi Rih in central Ukraine, Oleksandr Vilkul, head of the city administration, wrote on Telegram.",
+      "published": "2026-11-21T15:28:57.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/drone-attack.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "946bce7c6f5acdc5",
+      "guid": "https://globalnews.ca/?p=12160805",
+      "link": "https://globalnews.ca/news/12160805/ontario-liberals-new-leader/",
+      "title": "Ontario Liberals to name new leader after weeks of voting",
+      "excerpt": "The favourites are said to be caucus member and former hospital president Lee Fairclough, and former Liberal cabinet minister and Rogers Communications executive Navdeep Bains.",
+      "published": "2026-11-21T15:13:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Liberals-e1795273956888.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "05e18c1b7c4a98c7",
+      "guid": "https://globalnews.ca/?p=11851030",
+      "link": "https://globalnews.ca/the-curator/11851030/8-best-fire-pits-for-every-type-of-outdoor-space/",
+      "title": "The Curator: 8 best fire pits for every type of outdoor space",
+      "excerpt": "From patio-friendly picks to backyard upgrades, brands like Solo Stove and Costway offer stylish fire pits that bring warmth and convenience to any outdoor space.",
+      "published": "2026-11-21T15:00:08.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/05/Frame-430-13.png",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "37bc6f6f12cfcbe1",
+      "guid": "https://globalnews.ca/?p=12160799",
+      "link": "https://globalnews.ca/news/12160799/emergency-drug-stockpile-freezer-malfunction/",
+      "title": "$2M from emergency drug stockpile lost after freezer malfunction, Ottawa says",
+      "excerpt": "The agency says the loss involved a small portion of a specific drug treatment for responding to a biological threat.",
+      "published": "2026-11-21T14:51:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/medication-e1795272631161.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
+      "id": "9d0edb2b41dd870e",
+      "guid": "https://globalnews.ca/news/12160772/elks-continue-grey-cup-celebration-with-parade/",
+      "link": "https://globalnews.ca/news/12160772/elks-continue-grey-cup-celebration-with-parade/",
+      "title": "Elks continue Grey Cup celebration with parade",
+      "excerpt": "The Edmonton Elks are set to continue celebrating their Grey Cup win by joining a holiday parade.",
+      "published": "2026-11-21T13:01:13.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/ba42d20657d7c8357a34c0c46472408e20ac67b52365a47a64589d442e9efc45.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-21T17:29:09.707Z"
+    },
+    {
       "id": "420a45c05dc0aea0",
       "guid": "https://globalnews.ca/?p=12160417",
       "link": "https://globalnews.ca/news/12160417/kelowna-city-hall-faces-transparency-questions-wage-hike-quiet/",
