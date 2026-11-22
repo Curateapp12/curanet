@@ -3,6 +3,72 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "3a377b7d650a0961",
+      "guid": "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o",
+      "title": "Kate's 'road to recovery' and 'Brave princess'",
+      "excerpt": "Catherine, Princess of Wales is pictured on several front pages following news of her new documentary.",
+      "published": "2026-11-22T00:43:19.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267d/live/ee856a40-e602-11f1-a094-5fdc692f3e33.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T03:10:13.690Z"
+    },
+    {
+      "id": "55c7e27ba1e37b55",
+      "guid": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "excerpt": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "published": "2026-11-22T00:09:58.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e06/live/d8778490-e503-11f1-9e2f-7fb5281f0b3c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T03:10:13.690Z"
+    },
+    {
+      "id": "36c2df186adb0736",
+      "guid": "https://www.bbc.co.uk/news/articles/c674pejp1110o#3",
+      "link": "https://www.bbc.co.uk/news/articles/c674pejp1110o",
+      "title": "Parents urged to spot online stalking warning signs as cases rise",
+      "excerpt": "From fake profiles to unwanted contact, specialists explain the signs parents should take seriously.",
+      "published": "2026-11-22T00:07:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6755/live/028a3f80-e1de-11f1-911e-f985fea51b18.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T03:10:13.690Z"
+    },
+    {
+      "id": "711996cded47b209",
+      "guid": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo#2",
+      "link": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo",
+      "title": "From pit-stops to go-to destinations: The transformation of service stations",
+      "excerpt": "Once a quick pause on a long trip, service stations are becoming destinations in their own right.",
+      "published": "2026-11-22T00:06:03.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ac1/live/e2886580-e4d6-11f1-ae38-71bf515761f1.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T03:10:13.690Z"
+    },
+    {
+      "id": "fe71d9b3a355d1d0",
+      "guid": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo",
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "excerpt": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "published": "2026-11-22T00:04:07.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T03:10:13.690Z"
+    },
+    {
+      "id": "3a65864b211fc35c",
+      "guid": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo#2",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo",
+      "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+      "excerpt": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
+      "published": "2026-11-22T00:01:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a9/live/aa5abbb0-e50b-11f1-b40b-5f46e8cf687c.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T03:10:13.690Z"
+    },
+    {
       "id": "dd979eacb90a2891",
       "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro#9",
       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro",
@@ -177,6 +243,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
       "type": "article",
       "addedAt": "2026-11-21T23:13:39.747Z"
+    },
+    {
+      "id": "0f5000975f4d5a4b",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo#9",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo",
+      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
+      "excerpt": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
+      "published": "2026-11-21T19:04:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7a/live/8ad75db0-e5d9-11f1-9ab8-8737221634d6.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T03:10:13.690Z"
     },
     {
       "id": "10ffcdceeddf6de3",
