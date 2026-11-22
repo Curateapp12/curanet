@@ -3,6 +3,61 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "a9809bfde7fc5a79",
+      "guid": "f2b8fbe0728a3f5f8fd59566021e6c4e",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-22/violence-conjugale-extreme/un-policier-de-la-sq-merite-4-ans-de-penitencier-selon-la-couronne.php",
+      "title": "Violence conjugale extrême | Un policier de la SQ mérite 4 ans de pénitencier, selon la Couronne",
+      "excerpt": "Un policier de la Sûreté du Québec (SQ) qui a étranglé et battu à répétition sa conjointe de l’époque et une adolescente espère purger sa peine à la maison, alors que son avocat évoque une « mauvaise gestion » des émotions. Il mérite au contraire une peine de quatre ans de pénitencier, selon la…",
+      "published": "2026-11-22T17:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/ad9aa8439eee3b7492601562d8f965a0.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "0e9be82929cf6f97",
+      "guid": "81221fc2261c3242b5d52f028175b969",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-22/devant-le-qg-du-spvm/une-manifestation-contre-la-violence-policiere-organisee-a-montreal.php",
+      "title": "Devant le QG du SPVM | Une manifestation contre la violence policière organisée à Montréal",
+      "excerpt": "Au lendemain du dépôt d’accusations criminelles contre deux ex-agents du Service de police de la Ville de Montréal (SPVM), en lien avec des gestes discriminatoires et racistes au poste de quartier 39, une manifestation contre la violence policière se tient dimanche après-midi au centre-ville.",
+      "published": "2026-11-22T16:30:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0c811289980b3be8833453c90a968726.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "8f581d53a7d9e2b8",
+      "guid": "73d7e58064683a118cd19e5957953b75",
+      "link": "https://www.lapresse.ca/actualites/environnement/2026-11-22/la-presse-en-turquie/la-cop31-echoue-a-conclure-un-accord.php",
+      "title": "La Presse en Turquie | La COP31 échoue à conclure un accord",
+      "excerpt": "La COP31 s’est terminée sans l’adoption d’un accord, dimanche, après le rejet d’une nouvelle ébauche d’accord jugée insuffisante par de nombreux pays.",
+      "published": "2026-11-22T13:12:56.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/b3ed94ede3bf3e84926dd6d0216778ae.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "9e5ed2e88ed58280",
+      "guid": "446666eb1f8635489baddd69c6146bb2",
+      "link": "https://www.lapresse.ca/actualites/politique/2026-11-22/relations-canado-americaines/les-maires-canadiens-veulent-avoir-voix-au-chapitre.php",
+      "title": "Relations canado-américaines | Les maires canadiens veulent avoir voix au chapitre",
+      "excerpt": "Rétablir des relations de confiance entre le Canada et les États-Unis n’incombe pas uniquement au premier ministre Mark Carney, aux premiers ministres des provinces, aux gens d’affaires ou aux leaders des grands syndicats. Les maires des grandes villes ont aussi un rôle incontournable à jouer à…",
+      "published": "2026-11-22T13:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/f172ac86ca5131c6bfc374c1b9ce8d0e.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "0bbb5949d96a7971",
+      "guid": "3fd31f0c9b7436c6a445e50b5542e67e",
+      "link": "https://www.lapresse.ca/actualites/sciences/2026-11-22/demystifier-la-science/rincer-enleve-t-il-les-pesticides-dans-les-fruits-et-legumes.php",
+      "title": "Démystifier la science | Rincer enlève-t-il les pesticides dans les fruits et légumes ?",
+      "excerpt": "Chaque semaine, notre journaliste répond aux questions scientifiques de lecteurs.",
+      "published": "2026-11-22T12:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/8432033cc91d3fa7bd468fe5f18acd77.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
       "id": "00d09a01156f53e9",
       "guid": "a91773fbb9b630848f4e44aca995f20c",
       "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-22/la-plus-grande-chanson-quebecoise.php",

@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "d73fea8c547581e6",
+      "guid": "https://ici.radio-canada.ca/article/info/2302393/bol-or-trois-rivieres-vert-or",
+      "link": "https://ici.radio-canada.ca/article/info/2302393/bol-or-trois-rivieres-vert-or",
+      "title": "Le Vert et Or du Séminaire Saint-Joseph remporte le Bol d’Or",
+      "excerpt": "L’équipe remporte la finale par la marque de 21 à 17 contre les Dragons du Collège St-Jean-Vianney.",
+      "published": "2026-11-22T19:00:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bol-or-trois-rivieres-vert-or-76028.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "a5907dc139496e22",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10815718/courte-piste-un-triple-canadien-au-500-m",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10815718/courte-piste-un-triple-canadien-au-500-m",
+      "title": "Courte piste : un triplé canadien au 500 m",
+      "excerpt": "Un podium tout canadien! Courtney Sarault, Danaé Blais et Florence Brunelle ont réussi le triplé au 500 m à Séoul.",
+      "published": "2026-11-22T16:20:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/patinage-vitesse-courte-piste-triple-canadien.png",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "bb937cf82dd67cb7",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302376/max-verstappen-grand-prix-vegas",
+      "link": "https://ici.radio-canada.ca/article/sports/2302376/max-verstappen-grand-prix-vegas",
+      "title": "Max Verstappen remporte le Grand Prix de Las Vegas pour la 3e fois en 4 ans",
+      "excerpt": "La F1 maintient les Grands Prix du Qatar et d’Abou Dhabi pour clore la saison.",
+      "published": "2026-11-22T14:55:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/max-verstappen-champagne-victoire-f1-formule-las-vegas.png",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "269c758c8aea5c5f",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302377/courte-piste-triple-podium",
+      "link": "https://ici.radio-canada.ca/article/sports/2302377/courte-piste-triple-podium",
+      "title": "Triplé canadien au 500 m féminin en courte piste à Séoul",
+      "excerpt": "Courtney Sarault a obtenu l'or, suivie de Danaé Blais et de Florence Brunelle.",
+      "published": "2026-11-22T14:39:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/courtney-sarault-9050.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "54c10e46db5ccdb7",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17889/pourquoi-les-arts-martiaux-europeens-seduisent-autant",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17889/pourquoi-les-arts-martiaux-europeens-seduisent-autant",
+      "title": "Pourquoi les arts martiaux européens séduisent autant?",
+      "excerpt": "L'Académie Duello de Vancouver propose de renouer avec les traditions de combat de l'Europe médiévale et de la Renaissance",
+      "published": "2026-11-22T13:14:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/academie-duello-vancouver-arts-martiaux-medievaux-65670.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "afdaa02c5f1dd171",
+      "guid": "https://ici.radio-canada.ca/article/info/2301789/miranda-wei-jeux-olympique-dakar",
+      "link": "https://ici.radio-canada.ca/article/info/2301789/miranda-wei-jeux-olympique-dakar",
+      "title": "De Calgary à Dakar, le rêve olympique de Miranda Wei",
+      "excerpt": "Sa sixième place au classement général fait la fierté de Wushu Canada.",
+      "published": "2026-11-22T13:13:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/miranda-wei-jeux-olympiques-dakar.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
       "id": "afe70b1553427730",
       "guid": "https://ici.radio-canada.ca/article/info/2301688/acadien-volleyball-masculin-reds-unb-rseq-usports",
       "link": "https://ici.radio-canada.ca/article/info/2301688/acadien-volleyball-masculin-reds-unb-rseq-usports",

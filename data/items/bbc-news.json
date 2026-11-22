@@ -3,6 +3,116 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "e2830407b36aa712",
+      "guid": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "excerpt": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "published": "2026-11-22T19:26:54.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "7d27c40ff513302c",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo",
+      "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+      "excerpt": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
+      "published": "2026-11-22T19:03:32.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1b0/live/8817d730-e697-11f1-99b6-a35a62fa4264.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "108290effa7efed7",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo",
+      "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+      "excerpt": "How Liverpool and Manchester United's players rated following their Premier League match.",
+      "published": "2026-11-22T18:28:51.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f96/live/26ee3650-e694-11f1-936e-1fd1d31671db.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "233527ac46cd3e5c",
+      "guid": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "excerpt": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "published": "2026-11-22T18:17:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "c5027510d9a07614",
+      "guid": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o#1",
+      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "excerpt": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "published": "2026-11-22T17:57:43.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "126ffb9489dc96cd",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo",
+      "title": "The red card that changed Liverpool-Man Utd: correct call?",
+      "excerpt": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+      "published": "2026-11-22T17:55:54.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/ce5f0cc0-e694-11f1-936e-1fd1d31671db.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "ac8b319940d273ae",
+      "guid": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o",
+      "title": "Russell Brand's wife says she'll honour prison rules after message row",
+      "excerpt": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+      "published": "2026-11-22T16:51:57.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba9/live/b922d470-e691-11f1-936e-1fd1d31671db.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "c570cdf1f1bf1346",
+      "guid": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no#1",
+      "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no",
+      "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+      "excerpt": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
+      "published": "2026-11-22T14:19:06.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b368/live/5ea5bc60-e678-11f1-99b6-a35a62fa4264.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "4e724c4997d2944c",
+      "guid": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o",
+      "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+      "excerpt": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "published": "2026-11-22T13:50:21.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "83ae0d5c8f8dfb74",
+      "guid": "https://www.bbc.co.uk/news/videos/ck782j066elvo#1",
+      "link": "https://www.bbc.co.uk/news/videos/ck782j066elvo",
+      "title": "BBC apologises after noise disruption during Strictly",
+      "excerpt": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
+      "published": "2026-11-22T13:46:00.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ac/live/63709570-e679-11f1-99b6-a35a62fa4264.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
       "id": "bfdf2ec22436762b",
       "guid": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o#9",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o",
@@ -80,6 +190,17 @@
       "addedAt": "2026-11-22T11:19:23.466Z"
     },
     {
+      "id": "b16b0289638a0eaf",
+      "guid": "https://www.bbc.co.uk/news/articles/c6gm38e407zxo#4",
+      "link": "https://www.bbc.co.uk/news/articles/c6gm38e407zxo",
+      "title": "Joanna Page says she nearly messed up Gavin and Stacey audition",
+      "excerpt": "The Swansea actress says she was told her Cardiff accent sounded \"awful\".",
+      "published": "2026-11-22T08:59:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a013/live/c18a7890-e66c-11f1-99b6-a35a62fa4264.png",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
       "id": "d7fd540855b100c5",
       "guid": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo#1",
       "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
@@ -111,6 +232,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/b3a1cf10-e01f-11f1-ad34-45f8f10f7c55.jpg",
       "type": "article",
       "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "d25773686fb74905",
+      "guid": "https://www.bbc.co.uk/news/articles/cqevrx7xxz93o#4",
+      "link": "https://www.bbc.co.uk/news/articles/cqevrx7xxz93o",
+      "title": "Widow fears losing home built by husband after support payments end",
+      "excerpt": "A petition calling for changes to bereavement support is due to be debated by MPs on Monday.",
+      "published": "2026-11-22T07:14:14.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee3a/live/80a5f920-e519-11f1-9835-bf055edbb9ff.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
     },
     {
       "id": "2c8bfaa220e8f4fe",

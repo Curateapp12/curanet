@@ -3,6 +3,39 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "e84afceb005f0d48",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "excerpt": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+      "published": "2026-11-22T18:45:37.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "855a50efe0f3bb9d",
+      "guid": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "excerpt": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+      "published": "2026-11-22T15:43:04.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "2361e0929a29e0d7",
+      "guid": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "excerpt": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+      "published": "2026-11-22T15:15:25.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
       "id": "9f2af01a2aa93e76",
       "guid": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
       "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",

@@ -3,6 +3,61 @@
   "sourceId": "globe-and-mail-business",
   "items": [
     {
+      "id": "5ba71cc2381ed7f2",
+      "guid": "https://www.theglobeandmail.com/investing/personal-finance/article-my-first-home-pei-village-arborist-teacher/",
+      "link": "https://www.theglobeandmail.com/investing/personal-finance/article-my-first-home-pei-village-arborist-teacher/",
+      "title": "Arborist and teacher earning $130,000 buy their first home in a PEI village for under half a million",
+      "excerpt": "Couple purchases four-bedroom, two-bathroom bungalow on a one-acre property as they start a family",
+      "published": "2026-11-22T18:00:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "b2f24f9c5b459c41",
+      "guid": "https://www.theglobeandmail.com/world/article-delta-airline-flights-delayed-atlanta/",
+      "link": "https://www.theglobeandmail.com/world/article-delta-airline-flights-delayed-atlanta/",
+      "title": "Delta flights delayed in Atlanta due to issue with automation system",
+      "excerpt": "Delays come as Americans begin travelling for Thanksgiving holiday",
+      "published": "2026-11-22T17:46:36.000Z",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/v2/S6ETA3FSZZB6PNF2J4SPCD72GI.jpg?auth=508aebe9785d87715ccb1f3be8cef98d78083ac1a61b490603f71f6ca36040a1&smart=true&width=4997&height=3384",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "4ace0b166df73ac6",
+      "guid": "https://www.theglobeandmail.com/world/article-italian-jeweller-paolo-bulgari-obituary/",
+      "link": "https://www.theglobeandmail.com/world/article-italian-jeweller-paolo-bulgari-obituary/",
+      "title": "Italian jeweller Paolo Bulgari dies at 89",
+      "excerpt": "Bulgari helped transform family business into global luxury brand synonymous with glamour and design",
+      "published": "2026-11-22T15:02:28.000Z",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/v2/4JQG2QF5LFDQTGR25O5C5INMDA.jpg?auth=b25a00eec97720c9c1fb560af02ee4ef151a68c9c44a6d4f2ca3aee7142b2d33&smart=true&width=1845&height=1230",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "7be6a1594932013f",
+      "guid": "https://www.theglobeandmail.com/world/article-anthropic-ipo-process-issues/",
+      "link": "https://www.theglobeandmail.com/world/article-anthropic-ipo-process-issues/",
+      "title": "Anthropic’s unusual IPO process chafes some bankers",
+      "excerpt": "Compressed timeline and rushed document approvals among litany of issues that plagued offering process",
+      "published": "2026-11-22T14:49:31.000Z",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/v2/QPB3U46FBJGITI3BMQS5QWFIM4.jpg?auth=a0d058bd1192bb1535a7ddadc814426b5c73591ef8e7aeef83bc294e99cd7c76&smart=true&width=5000&height=3333",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "4882bfeef31252a5",
+      "guid": "https://www.theglobeandmail.com/business/careers/article-ai-was-supposed-to-make-work-easier-so-why-is-it-getting-harder/",
+      "link": "https://www.theglobeandmail.com/business/careers/article-ai-was-supposed-to-make-work-easier-so-why-is-it-getting-harder/",
+      "title": "AI was supposed to make work easier. So why is it getting harder?",
+      "excerpt": "As AI takes over more routine tasks, employees are increasingly responsible for evaluating its output, making complex judgment calls and understanding how different parts of a business fit together",
+      "published": "2026-11-22T14:00:00.000Z",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/v2/3ANGKUOATZDO7I3QNRZRGNWIEM.jpg?auth=269334b58d3f22f6ae57b44c21575716c7176a395777eba97e79ba1ddb83dc06&smart=true&width=4176&height=2202",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
       "id": "448966095c524b9d",
       "guid": "https://www.theglobeandmail.com/business/article-bitcoin-rises-after-falling-to-lowest-level-in-two-years/",
       "link": "https://www.theglobeandmail.com/business/article-bitcoin-rises-after-falling-to-lowest-level-in-two-years/",

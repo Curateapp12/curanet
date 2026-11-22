@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "7fce062e6273f38c",
+      "guid": "https://ici.radio-canada.ca/videos/1-10815739/canada-controle-par-petrole-catherine-potvin-denonce-lobby",
+      "link": "https://ici.radio-canada.ca/videos/1-10815739/canada-controle-par-petrole-catherine-potvin-denonce-lobby",
+      "title": "Le Canada contrôlé par le pétrole? Catherine Potvin dénonce le lobby",
+      "excerpt": "Au micro de Patrice Roy, la biologiste Catherine Potvin dénonce le lobby pétrolier au Canada. Une entrevue sans filtre sur la crise climatique, qui donne l'heure juste et des raisons d'espérer.",
+      "published": "2026-11-22T19:07:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/essentiels-info/16x9/catherine-potvin-environnement-foret-balado-patrice-roy-hors-des-ondes.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "cf41b79a73288170",
+      "guid": "https://ici.radio-canada.ca/article/info/2302381/scarborough-mort-fusillade-police-toronto",
+      "link": "https://ici.radio-canada.ca/article/info/2302381/scarborough-mort-fusillade-police-toronto",
+      "title": "Deux adolescents morts dans une fusillade à Scarborough",
+      "excerpt": "Un troisième adolesdent a aussi subi des blessures, tôt dimanche matin.",
+      "published": "2026-11-22T17:48:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/scarborough-morts-fusillade-toronto-police.png",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "cd974a3bfc2beabe",
+      "guid": "https://ici.radio-canada.ca/article/info/2302365/cop31-changement-climatique-union-europeenne",
+      "link": "https://ici.radio-canada.ca/article/info/2302365/cop31-changement-climatique-union-europeenne",
+      "title": "Climat : la COP31 échoue devant la division des pays sur les énergies fossiles",
+      "excerpt": "L'UE s'est opposée à l'adoption d'un accord final ne mentionnant pas les énergies fossiles.",
+      "published": "2026-11-22T17:21:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cop31-echec.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "48adb5e10bb6868b",
+      "guid": "https://ici.radio-canada.ca/article/info/2302373/onu-entente-limitee-intelligence-artificielle-armement",
+      "link": "https://ici.radio-canada.ca/article/info/2302373/onu-entente-limitee-intelligence-artificielle-armement",
+      "title": "L’ONU adopte une entente limitée sur l’utilisation de l’IA dans l’armement",
+      "excerpt": "Les participants aux négociations menées à Genève ne se sont pas engagés à adopter les règles contraignantes.",
+      "published": "2026-11-22T14:37:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/armes-ia.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "b2d4e17ca0c6d8b3",
+      "guid": "https://ici.radio-canada.ca/article/info/2302374/guerre-ukraine-attaque-russe",
+      "link": "https://ici.radio-canada.ca/article/info/2302374/guerre-ukraine-attaque-russe",
+      "title": "Une attaque russe près de la capitale ukrainienne touche un immeuble résidentiel",
+      "excerpt": "L'attaque aérienne russe a fait au moins deux morts et quatre blessés, selon les autorités.",
+      "published": "2026-11-22T14:36:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ukraine-guerre-russie-54231.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
+      "id": "06b7368e861a3516",
+      "guid": "https://ici.radio-canada.ca/article/info/2302368/israel-eisenkot-netanyahou-pourparlers-coalition",
+      "link": "https://ici.radio-canada.ca/article/info/2302368/israel-eisenkot-netanyahou-pourparlers-coalition",
+      "title": "Israël : les partis d’Eisenkot et de Nétanyahou reprennent leurs pourparlers",
+      "excerpt": "Gadi Eisenkot a jusqu'au 6 décembre, un délai pouvant être prolongé de 14 jours, pour former un gouvernement.",
+      "published": "2026-11-22T13:09:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/gadi-eisenkot-benyamin-netanyahou.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T19:35:57.703Z"
+    },
+    {
       "id": "609a160eb1c6c2c0",
       "guid": "https://ici.radio-canada.ca/article/info/2302107/ecole-saint-edmond-revolution-secondaire-longueuil",
       "link": "https://ici.radio-canada.ca/article/info/2302107/ecole-saint-edmond-revolution-secondaire-longueuil",
