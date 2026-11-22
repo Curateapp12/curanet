@@ -3,6 +3,105 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "2a1a48efc7d4c662",
+      "guid": "9fcdab58-b763-400d-826f-bfebbbfcf53b",
+      "link": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
+      "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+      "excerpt": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen. Nun hat Umweltminister Schneider den Entwurf scharf zurückgewiesen - und erhebt Vorwürfe gegen einige Staaten.",
+      "published": "2026-11-22T10:30:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e953bb69-d5fd-4d66-aeed-83af01d9bb73/AAABogKhx7c/AAABnSSvrFg/16x9-big/schneider-208.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "d1de593bedbcbf0a",
+      "guid": "e7ae1028-9818-4309-9828-9a8d66c841e0",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
+      "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
+      "excerpt": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und komplexer. Von L.-M. Hiltscher und J. Bartlitz.",
+      "published": "2026-11-22T10:25:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7633e50a-12de-42ef-9ab0-b9d3d8dc93f8/AAABlCavHBs/AAABnSSvrFg/16x9-big/dax-244.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "28942fe155d4b55c",
+      "guid": "194b1d09-6482-4636-ad18-9e9b2c7e8fed",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
+      "title": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
+      "excerpt": "Die Bundeswehr hat ein Problem mit sexualisiertem Fehlverhalten. Das belegt eine Studie. Der künftige Generalinspekteur der Bundeswehr, Freuding, will hier \"unerbittlich hart durchgreifen\". Die Zahlen seien \"unerträglich\".",
+      "published": "2026-11-22T09:51:56.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c1199981-91f2-42b6-a91d-021ae253b598/AAABogKXsR4/AAABnSSvrFg/16x9-big/freuding-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "90541cebdeb122fb",
+      "guid": "6b32c36b-fb2c-43d5-8212-5f7a15a4fef9",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
+      "title": "Israel: Warum die Stadt Bat Yam Iran verklagt",
+      "excerpt": "Mehr als ein Jahr nach dem verheerenden Raketenangriff auf ein Wohnviertel im israelischen Bat Yam sind viele Familien nicht in ihre Wohnungen zurückgekehrt. Nun hat die Stadt Klage gegen Iran eingereicht. Von Bettina Meier.",
+      "published": "2026-11-22T09:48:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/77835ed6-01f3-4b3e-9414-b461b31fcd1a/AAABogKmxvw/AAABnSSvrFg/16x9-big/stern-168.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "7447743e0a7cc29a",
+      "guid": "b47a7b89-b393-43f4-89c4-d0b0f81a5b62",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html",
+      "title": "Wie Armut Kinder in Deutschland krank macht",
+      "excerpt": "Kinder aus armutsgefährdeten Familien haben ein höheres Risiko, krank zu werden - körperlich und psychisch. Dabei gibt es in Deutschland viele Hilfen. Warum kommen sie oft nicht an? Von Katharina Spreier.",
+      "published": "2026-11-22T08:26:52.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/82b8fa1d-0f46-4482-8561-964d6aa70ac0/AAABldeZbTM/AAABnSSvrFg/16x9-big/kind-schatten-wand-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "2c6bd1b991dd7510",
+      "guid": "a6f67be0-b1fb-4e43-ba0d-21d0e2667091",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+      "title": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
+      "excerpt": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor.",
+      "published": "2026-11-22T08:16:45.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bbdb6cd3-3bf8-4f12-9e32-9b5ea7ef500a/AAABnrvnwgE/AAABnSSvrFg/16x9-big/stoppt-femizide-banner-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "c45d7d490cee82ab",
+      "guid": "ac34f4d4-dd7b-450f-95e6-440cc54f6079",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
+      "title": "Australien: Social-Media-Verbot mit Lücken und Mängeln",
+      "excerpt": "Jugendliche vor den Folgen von Social Media zu schützen, das war die Idee hinter dem Social-Media-Verbot in Australien. Ein Jahr danach zeigt sich, wo es bei der Umsetzung hakt. Von C. Justus und P. Nöhr.",
+      "published": "2026-11-22T07:26:24.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e72d8620-3202-49aa-8993-7d735b11e9bf/AAABofhDH_g/AAABnSSvrFg/16x9-big/sperre-social-media-seite-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "3c9db3c9c82ec562",
+      "guid": "46690aa9-c51e-4ff1-bf9d-6950f2f3f579",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+      "title": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
+      "excerpt": "Antisemitismus so offen wie seit dem Holocaust nicht mehr: Bundesbeauftragte von Schnurbein warnt vor wachsendem Judenhass in Deutschland. Die \"AfD-Ideologie\" sei ein gefährlicher Angriff auf die Erinnerungskultur.",
+      "published": "2026-11-22T05:47:26.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/5836c0f1-1257-4bf7-9bdb-6d4b4f873133/AAABogHLiwA/AAABnSSvrFg/16x9-big/schnurbein-104.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "d6333b7c96b041c0",
+      "guid": "526c5181-39d2-4028-bb10-d01883bbc315",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+      "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
+      "excerpt": "Bundesweit hatten am Freitag Beschäftigte der Metall- und Elektroindustrie ihre Arbeit niedergelegt. Im Norden will die IG Metall Küste jetzt nachlegen: Nochmal soll für 24 Stunden gestreikt werden - teils schon ab heute Abend.",
+      "published": "2026-11-22T03:50:01.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/63d28ea6-067c-417e-a4a1-eae3ebdaaeb3/AAABogFgCrw/AAABnSSvrFg/16x9-big/ig-metall-290.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
       "id": "557e2a6b5bcd0746",
       "guid": "540a345b-28f5-4fb8-9569-4baeaba9528a",
       "link": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",

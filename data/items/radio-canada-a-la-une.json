@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "609a160eb1c6c2c0",
+      "guid": "https://ici.radio-canada.ca/article/info/2302107/ecole-saint-edmond-revolution-secondaire-longueuil",
+      "link": "https://ici.radio-canada.ca/article/info/2302107/ecole-saint-edmond-revolution-secondaire-longueuil",
+      "title": "Une école qui ose chambouler le statu quo",
+      "excerpt": "Agir partout où c’est possible, c’est la règle que s’est donnée Saint-Édmond, et les résultats se font sentir.",
+      "published": "2026-11-22T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ecole-saint-edmond-refonte-education-eleves-benoit-pilon.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "9191d6e791daa3fc",
+      "guid": "https://ici.radio-canada.ca/article/info/2302303/crise-logement-immobilier-espagne-sanchez-elections",
+      "link": "https://ici.radio-canada.ca/article/info/2302303/crise-logement-immobilier-espagne-sanchez-elections",
+      "title": "Le décès d’une femme de 87 ans causera-t-il un changement de gouvernement en Espagne?",
+      "excerpt": "Le 29 novembre, les Espagnols se rendront aux urnes, en pleine période de tensions sociales sur le logement.",
+      "published": "2026-11-22T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/espagne-51866.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "ae0b83e32e093729",
+      "guid": "https://ici.radio-canada.ca/article/info/2302266/cop31-femmes-engagement-climat",
+      "link": "https://ici.radio-canada.ca/article/info/2302266/cop31-femmes-engagement-climat",
+      "title": "Ces femmes qui réinventent l’avenir du climat",
+      "excerpt": "À la COP31, huit femmes racontent leur combat pour protéger la planète.",
+      "published": "2026-11-22T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/fidji-iles-pacifique-cop31-climat-antalya-turquie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "cd628199094a9638",
+      "guid": "https://ici.radio-canada.ca/article/info/recit/17905/chasse-baleine-islande-millionnaire-loi",
+      "link": "https://ici.radio-canada.ca/article/info/recit/17905/chasse-baleine-islande-millionnaire-loi",
+      "title": "La fin de la chasse à la baleine en Islande bloquée par un millionnaire",
+      "excerpt": "En Islande, la chasse à la baleine subsiste encore par la volonté entêtée d’un seul homme.",
+      "published": "2026-11-22T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/reykjavik-islande-touristes-portrait.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "e45bcd4bab533e53",
+      "guid": "https://ici.radio-canada.ca/article/info/2301913/forets-migration-rechauffement-climat",
+      "link": "https://ici.radio-canada.ca/article/info/2301913/forets-migration-rechauffement-climat",
+      "title": "Faut-il déplacer nos forêts pour les sauver?",
+      "excerpt": "Des scientifiques ont entrepris de le faire pour les aider à s’adapter aux changements climatiques.",
+      "published": "2026-11-22T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/decouverte-migration-forets.png",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
+      "id": "e469bf15c27ff271",
+      "guid": "https://ici.radio-canada.ca/article/info/2302166/lewis-carney-trump-canadien-pouvoir",
+      "link": "https://ici.radio-canada.ca/article/info/2302166/lewis-carney-trump-canadien-pouvoir",
+      "title": "Le chef du NPD craint l’arrivée d’un « Trump canadien » au pouvoir",
+      "excerpt": "Il faut rebâtir la gauche, dit Avi Lewis, qui lie la montée de l'autoritarisme au « désespoir économique ».",
+      "published": "2026-11-22T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/photos-du-chef-du-npd-federal-prisent-lors-du-entrevue-des-coulisses-du-pouvoir-le-19no-dsc01732-89250.jpg",
+      "type": "article",
+      "addedAt": "2026-11-22T11:19:23.466Z"
+    },
+    {
       "id": "1e5060d25f3be169",
       "guid": "https://ici.radio-canada.ca/article/info/2302345/pannes-informatiques-cybersecurite-automatisation",
       "link": "https://ici.radio-canada.ca/article/info/2302345/pannes-informatiques-cybersecurite-automatisation",
