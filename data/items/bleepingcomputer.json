@@ -3,6 +3,105 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "f1397973b7c60ba0",
+      "guid": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "excerpt": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+      "published": "2026-11-23T20:54:51.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "ad3d2932dda18cd6",
+      "guid": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "excerpt": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+      "published": "2026-11-23T20:00:20.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "53716c4432abe034",
+      "guid": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "excerpt": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+      "published": "2026-11-23T19:42:20.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "f714b48247a9be7f",
+      "guid": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "excerpt": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+      "published": "2026-11-23T18:38:40.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "0af9a7510182f44f",
+      "guid": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+      "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+      "excerpt": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
+      "published": "2026-11-23T16:50:01.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "594a8d6fa69747ba",
+      "guid": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+      "title": "AI Agents Are Creating a Shared Responsibility Gap",
+      "excerpt": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
+      "published": "2026-11-23T15:00:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "4be13f5936eab78f",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+      "excerpt": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
+      "published": "2026-11-23T13:28:45.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "f8665cc5b1ef467b",
+      "guid": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+      "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
+      "excerpt": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+      "published": "2026-11-23T12:02:23.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "d0dd2916cf583a59",
+      "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+      "excerpt": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+      "published": "2026-11-23T09:11:15.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
       "id": "5d81d8091009c293",
       "guid": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",

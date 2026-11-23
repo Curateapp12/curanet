@@ -3,6 +3,94 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "2a11a09c82eb688c",
+      "guid": "https://ici.radio-canada.ca/article/info/2302577/planche-roulette-planchodrome-sherbrooke",
+      "link": "https://ici.radio-canada.ca/article/info/2302577/planche-roulette-planchodrome-sherbrooke",
+      "title": "L’engouement pour la planche à roulettes grandi à Sherbrooke",
+      "excerpt": "Le planchodrome intérieur qui a sauvé le programme de sport-études du Triolet est ouvert depuis plus d’un an.",
+      "published": "2026-11-23T21:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/planche-roulette-sherbrooke-sherbrooke.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "c3103151c7423a78",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302601/parahockey-mondial-raphaelle-tousignant-retour",
+      "link": "https://ici.radio-canada.ca/article/sports/2302601/parahockey-mondial-raphaelle-tousignant-retour",
+      "title": "Raphaëlle Tousignant de retour au mondial après une année éprouvante",
+      "excerpt": "Rétablie d’un cancer du sein, la Québécoise participera au Championnat du monde de parahockey en Australie.",
+      "published": "2026-11-23T20:28:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/raphaelle-tousignant-15032.jpg",
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "8419e55b54ca877c",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-17974/kenogami-sport-club",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17974/kenogami-sport-club",
+      "title": "96 000 $ pour remplacer 64 pierres de curling",
+      "excerpt": "Le Club de curling Kénogami doit remplacer ses vieilles pierres de granit qui ont plus de 40 ans.",
+      "published": "2026-11-23T19:52:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/curling-championnats-canadiens-senior-club-de-chicoutimi-maitres.jpg",
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "f72363c5d5d70994",
+      "guid": "https://ici.radio-canada.ca/article/info/2302492/granit-pierre-dons-membres",
+      "link": "https://ici.radio-canada.ca/article/info/2302492/granit-pierre-dons-membres",
+      "title": "De nouvelles pierres pour le Club de curling Kénogami",
+      "excerpt": "Le Club de curling de Kénogami attend l’arrivée de nouvelles pierres en granit d’ici septembre 2027.",
+      "published": "2026-11-23T15:52:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/curling-kenogami-tournoi-u21.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "55e62d6e9baef22f",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302494/soccer-mondial-feminin-2031-etats-unis-2035-royaume-uni",
+      "link": "https://ici.radio-canada.ca/article/sports/2302494/soccer-mondial-feminin-2031-etats-unis-2035-royaume-uni",
+      "title": "Le Mondial féminin aux États-Unis en 2031, au Royaume-Uni en 2035",
+      "excerpt": "La FIFA souhaitait que ces deux poids lourds ne rencontrent aucune opposition.",
+      "published": "2026-11-23T15:28:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/gianni-infantino-fifa-consultation-reforme.jpg",
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "5eb750161b4c244d",
+      "guid": "https://ici.radio-canada.ca/article/info/2302467/patinoire-refrigeree-aylmer-parc-cedres",
+      "link": "https://ici.radio-canada.ca/article/info/2302467/patinoire-refrigeree-aylmer-parc-cedres",
+      "title": "Patiner à 15 °C : la patinoire réfrigérée d’Aylmer ouvre pour une deuxième année",
+      "excerpt": "Selon des données préliminaires de la Ville, près de 40 000 personnes ont foulé la patinoire l’an dernier.",
+      "published": "2026-11-23T14:04:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/patinoire-gatineau-refrigiree-parc-cedres.jpg",
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "f77e1bec73a9178a",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302463/49ers-francisco-vikings-minnesota-nfl",
+      "link": "https://ici.radio-canada.ca/article/sports/2302463/49ers-francisco-vikings-minnesota-nfl",
+      "title": "Purdy et les 49ers ramènent les Vikings sur terre",
+      "excerpt": "San Francisco renverse la meilleure défense de la NFL, 35-10.",
+      "published": "2026-11-23T13:04:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/brock-purdy-49ers-san-francisco-football-nfl.jpg",
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "c3e966bdc2088cc5",
+      "guid": "https://ici.radio-canada.ca/article/info/2302461/sagueneens-lhjmq-huskies-lefebvre-eagles",
+      "link": "https://ici.radio-canada.ca/article/info/2302461/sagueneens-lhjmq-huskies-lefebvre-eagles",
+      "title": "Un seul point pour les Sags en deux matchs",
+      "excerpt": "Les Saguenéens de Chicoutimi ont été incapables de goûter à la victoire devant leurs partisans.",
+      "published": "2026-11-23T12:22:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/huskies-sags-72219.jpg",
+      "type": "article",
+      "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
       "id": "c64d403caebfb001",
       "guid": "https://ici.radio-canada.ca/article/sports/2302445/mets-octroient-tarik-skubal-contrat-neuf-ans-evalue-450-millions",
       "link": "https://ici.radio-canada.ca/article/sports/2302445/mets-octroient-tarik-skubal-contrat-neuf-ans-evalue-450-millions",
