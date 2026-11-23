@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-politique",
   "items": [
     {
+      "id": "2e37bae0fc68bbb2",
+      "guid": "https://ici.radio-canada.ca/videos/1-10815911/cadets-et-parents-preoccupes-par-restrictions-federales",
+      "link": "https://ici.radio-canada.ca/videos/1-10815911/cadets-et-parents-preoccupes-par-restrictions-federales",
+      "title": "Cadets et parents préoccupés par des restrictions fédérales",
+      "excerpt": "Les cadets sont habitués à suivre les ordres, mais cette fois, une décision ne passe pas. Des contraintes financières poussent le gouvernement fédéral à suspendre certaines activités du programme. Une situation qui touche des milliers de jeunes partout au pays, jusque dans la région de la capitale…",
+      "published": "2026-11-22T23:50:16.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/2c2713de-beea-4e84-bbbc-8afe475d9651/HR/WEBOTT_2026-11-22_01_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-23T00:50:04.424Z"
+    },
+    {
+      "id": "90e7694b9e9062fc",
+      "guid": "https://ici.radio-canada.ca/article/info/2302430/saint-honore-escadron-92-ministere-defense-nationale-compression",
+      "link": "https://ici.radio-canada.ca/article/info/2302430/saint-honore-escadron-92-ministere-defense-nationale-compression",
+      "title": "Des parents du Saguenay–Lac-Saint-Jean dénoncent les coupes dans le programme des cadets",
+      "excerpt": "Le gouvernement fédéral est appelé à réévaluer sa décision dans plusieurs pétitions en ligne.",
+      "published": "2026-11-22T22:54:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/coupe-financement-cadet-canada-armee-saint-honore-philippe-etienne-dufour.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-23T00:50:04.424Z"
+    },
+    {
+      "id": "d6c4b8a65db53d62",
+      "guid": "https://ici.radio-canada.ca/article/info/2302423/annulation-transport-regina-habitant-solution",
+      "link": "https://ici.radio-canada.ca/article/info/2302423/annulation-transport-regina-habitant-solution",
+      "title": "Annulation de transport public à Regina : des habitants en quête de solution",
+      "excerpt": "Les opérateurs d’autobus ne seront pas payés après lundi matin.",
+      "published": "2026-11-22T22:16:21.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/autobus-regina-transport-commun.jpg",
+      "type": "article",
+      "addedAt": "2026-11-23T00:50:04.424Z"
+    },
+    {
+      "id": "4d012f08adbc7d23",
+      "guid": "https://ici.radio-canada.ca/article/info/2302417/eau-potable-coloration-consommation-region-station-pompage-vetuste",
+      "link": "https://ici.radio-canada.ca/article/info/2302417/eau-potable-coloration-consommation-region-station-pompage-vetuste",
+      "title": "Des citoyens exaspérés par le problème d’eau brune à Saint-Félix-d’Otis",
+      "excerpt": "Il s’agit d’une situation qui perdure depuis plusieurs années.",
+      "published": "2026-11-22T22:13:36.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/eau-brune-saint-felix-otis-probleme-aqueduc-embouteillee-99118.png",
+      "type": "article",
+      "addedAt": "2026-11-23T00:50:04.424Z"
+    },
+    {
+      "id": "e7ff05984c897d52",
+      "guid": "https://ici.radio-canada.ca/article/info/2302406/pause-caserne-pompiers-notre-dame",
+      "link": "https://ici.radio-canada.ca/article/info/2302406/pause-caserne-pompiers-notre-dame",
+      "title": "La planification d’une nouvelle caserne de pompiers à Notre-Dame-de-Lourdes mise sur pause",
+      "excerpt": "Le projet a été mis sur pause le mois dernier en raison d’une « erreur procédurale ».",
+      "published": "2026-11-22T20:57:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pompier-notre-dame-caserne.jpg",
+      "type": "article",
+      "addedAt": "2026-11-23T00:50:04.424Z"
+    },
+    {
+      "id": "7ea75f618f4e351d",
+      "guid": "https://ici.radio-canada.ca/article/info/2302408/premieres-nations-conservateurs-doerkson",
+      "link": "https://ici.radio-canada.ca/article/info/2302408/premieres-nations-conservateurs-doerkson",
+      "title": "Les Premières Nations sont ouvertes à collaborer avec la province",
+      "excerpt": "Vendredi, le premier ministre a promis des conversations sincères avec chaque Première Nation.",
+      "published": "2026-11-22T20:45:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/videojournal/16x9/vjcb-victoria-parlement-rentree-parlementaire-assemblee-legislative.jpg",
+      "type": "article",
+      "addedAt": "2026-11-23T00:50:04.424Z"
+    },
+    {
       "id": "5c19f22ce440dec3",
       "guid": "https://ici.radio-canada.ca/article/info/2302383/sensibilisation-loi-protection-enfant-ipe",
       "link": "https://ici.radio-canada.ca/article/info/2302383/sensibilisation-loi-protection-enfant-ipe",

@@ -3,6 +3,50 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "6c65540207cea730",
+      "guid": "https://globalnews.ca/?p=12161714",
+      "link": "https://globalnews.ca/news/12161714/deeply-saddened-2-teens-dead-1-injured-after-scarborough-shooting/",
+      "title": "‘Deeply saddened’: 2 teens dead, 1 injured after Scarborough shooting",
+      "excerpt": "Gunshots rang out just after midnight Sunday in Scarborough, during a shooting that claimed the lives of two teens, and critically injured a third.",
+      "published": "2026-11-22T22:52:08.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/scarborough-shooting.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-23T00:50:04.424Z"
+    },
+    {
+      "id": "18c5725b1183a7f5",
+      "guid": "https://globalnews.ca/?p=12161699",
+      "link": "https://globalnews.ca/news/12161699/us-midterms-democrats-house-majority/",
+      "title": "Democrats gain largest House majority since 1992 with North Carolina win",
+      "excerpt": "Democrats have gained 44 House seats so far, four more than the 40 they picked up in U.S. President Donald Trump’s first midterm in 2018.",
+      "published": "2026-11-22T21:26:00.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/US-midterms-Democrats-House-majority.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-23T00:50:04.424Z"
+    },
+    {
+      "id": "610cd5a0c9ef7398",
+      "guid": "https://globalnews.ca/?p=12161533",
+      "link": "https://globalnews.ca/news/12161533/ai-black-friday-scams-harder-to-spot/",
+      "title": "Before you hit ‘buy’: How AI is making Black Friday scams harder to spot",
+      "excerpt": "AI is making fake Black Friday deals harder to spot. RBC’s Amit Sadhu explains how scammers use texts and social media to reach shoppers and what to check before you buy.",
+      "published": "2026-11-22T20:22:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Sequence-02.00_00_20_04.Still003.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-23T00:50:04.424Z"
+    },
+    {
+      "id": "120c25db48cc02aa",
+      "guid": "https://globalnews.ca/?p=12161632",
+      "link": "https://globalnews.ca/news/12161632/tumbler-ridge-new-school-building/",
+      "title": "Tumbler Ridge begins consultation on design for new school building",
+      "excerpt": "Six people were killed in Tumbler Ridge when 18-year-old Jesse Van Rootselaar opened fire at the northeastern B.C. school on Feb. 10.",
+      "published": "2026-11-22T19:40:52.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Tumbler-Ridge-new-school-building.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-23T00:50:04.424Z"
+    },
+    {
       "id": "9441553c7dd2c4ad",
       "guid": "https://globalnews.ca/news/12161600/blackhawks-kaiser-suspended-three-games/",
       "link": "https://globalnews.ca/news/12161600/blackhawks-kaiser-suspended-three-games/",
