@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "03db883f3cc4d534",
+      "guid": "https://ici.radio-canada.ca/article/info/2302686/banques-alimentaires-ottawa-refus-usagers",
+      "link": "https://ici.radio-canada.ca/article/info/2302686/banques-alimentaires-ottawa-refus-usagers",
+      "title": "Faute de nourriture, des banques alimentaires d’Ottawa refusent des usagers",
+      "excerpt": "Le nombre de visites aux banques alimentaires d'Ottawa a plus que doublé depuis 2019.",
+      "published": "2026-11-24T17:33:06.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/soupe-populaire-gatineau-faim-insecurite-alimentaire.png",
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
+      "id": "975c32d8044bd5eb",
+      "guid": "https://ici.radio-canada.ca/videos/1-10816780/ile-lameque-sun-gro-abandonne-sa-demande-changement-zonage",
+      "link": "https://ici.radio-canada.ca/videos/1-10816780/ile-lameque-sun-gro-abandonne-sa-demande-changement-zonage",
+      "title": "Île-de-Lamèque: Sun Gro abandonne sa demande de changement de zonage",
+      "excerpt": "L'entreprise Sun Gro a communiqué à la Municipalité de l'Île-de-Lamèque son intention d'abandonner sa demande de changement de zonage qui lui aurait permis d'exploiter une tourbière dans le secteur de Sainte-Marie-Saint-Raphaël.",
+      "published": "2026-11-24T14:32:47.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/05fea686-e40d-4549-81ce-cf9c04a2dc70/HR/2026-1123-1165_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
+      "id": "8feaf37c95e894ad",
+      "guid": "https://ici.radio-canada.ca/article/info/2302702/avion-bagotville-liaison-yul-ybg",
+      "link": "https://ici.radio-canada.ca/article/info/2302702/avion-bagotville-liaison-yul-ybg",
+      "title": "Air Creebec ajoute un vol le dimanche entre Saguenay et Montréal",
+      "excerpt": "À compter du 29 novembre, la compagnie aérienne ajoute un aller-retour le dimanche soir.",
+      "published": "2026-11-24T13:58:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/aeroport-saguenay-bagotville-hantavirus.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
+      "id": "e84b40f0eca1415b",
+      "guid": "https://ici.radio-canada.ca/article/info/2302695/meteo-chaleur-construction-travailleurs",
+      "link": "https://ici.radio-canada.ca/article/info/2302695/meteo-chaleur-construction-travailleurs",
+      "title": "L’automne chaud donne du répit aux entrepreneurs en construction",
+      "excerpt": "La douceur de l'automne contraste avec la neige hâtive tombée à la mi-novembre l'an dernier.",
+      "published": "2026-11-24T13:48:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/renovations-metier-construction-ouvriers.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
+      "id": "20c74cb4d3afdbee",
+      "guid": "https://ici.radio-canada.ca/article/info/2302205/vente-voiture-electrique-essence-cout-rabais",
+      "link": "https://ici.radio-canada.ca/article/info/2302205/vente-voiture-electrique-essence-cout-rabais",
+      "title": "Au royaume du pétrole, les voitures électriques séduisent de plus en plus",
+      "excerpt": "Il n'y a jamais eu autant de véhicules électriques vendus en Alberta qu’en septembre 2026.",
+      "published": "2026-11-24T11:53:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/charge-voiture-electrique-69829.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
       "id": "f06cd9fa43295ba5",
       "guid": "https://ici.radio-canada.ca/videos/1-10816976/comment-reagir-a-volatilite-bourse",
       "link": "https://ici.radio-canada.ca/videos/1-10816976/comment-reagir-a-volatilite-bourse",
@@ -254,6 +309,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cadettes-rouyn-noranda-caron-theberge.jpeg",
       "type": "article",
       "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "70bf1233f85bffa8",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/les-matins-d-ici/segments/rattrapage/2536425/chronique-economique-avec-marjorie-april",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/les-matins-d-ici/segments/rattrapage/2536425/chronique-economique-avec-marjorie-april",
+      "title": "Comment profiter du Vendredi fou, sans culpabiliser?",
+      "excerpt": "",
+      "published": "2026-11-23T13:08:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/achat-en-ligne-carte-credit-ordinateur-magasinage.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
     },
     {
       "id": "9ff42b37284efcf5",

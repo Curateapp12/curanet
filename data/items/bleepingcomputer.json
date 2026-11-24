@@ -3,6 +3,83 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "63399c74702aaea2",
+      "guid": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "excerpt": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+      "published": "2026-11-24T16:30:19.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
+      "id": "cad292c7e46bbd2d",
+      "guid": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "excerpt": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+      "published": "2026-11-24T16:22:44.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
+      "id": "5ba708d91b205e45",
+      "guid": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "title": "Hackers compromise Check Point Servers in 22 organizations",
+      "excerpt": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+      "published": "2026-11-24T16:15:23.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
+      "id": "1f75de46df5160e7",
+      "guid": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "excerpt": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+      "published": "2026-11-24T15:10:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
+      "id": "a903b208e0b06d44",
+      "guid": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+      "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+      "excerpt": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve…",
+      "published": "2026-11-24T15:01:11.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
+      "id": "230a967c24e64f71",
+      "guid": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "title": "McDonald's Japan data breach exposes customer location information",
+      "excerpt": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+      "published": "2026-11-24T14:09:37.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
+      "id": "e94ac3e9d5200e65",
+      "guid": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "excerpt": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+      "published": "2026-11-24T13:34:23.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-24T17:40:05.242Z"
+    },
+    {
       "id": "f1397973b7c60ba0",
       "guid": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
       "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
