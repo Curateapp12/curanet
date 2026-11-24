@@ -3,6 +3,61 @@
   "sourceId": "globe-and-mail-business",
   "items": [
     {
+      "id": "64412f8c16b44a6b",
+      "guid": "https://www.theglobeandmail.com/business/article-tentative-deal-reached-with-regina-transit-workers-after-one-day/",
+      "link": "https://www.theglobeandmail.com/business/article-tentative-deal-reached-with-regina-transit-workers-after-one-day/",
+      "title": "Tentative deal reached with Regina transit workers after one-day lockout",
+      "excerpt": "Bus service is expected to resume Tuesday afternoon, with ratification vote to be held in coming days",
+      "published": "2026-11-24T05:12:20.000Z",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/v2/RYO5KFJAEVDJ3NZ5UW3PDX2UEQ.jpg?auth=22b02ba7d2a96f7ff74270937a59e5a4f9bc46ff7a9a354dec6eb878d4f818ef&smart=true&width=4032&height=3024",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "f2c2605514844387",
+      "guid": "https://www.theglobeandmail.com/business/technology/article-nvidia-reinstates-jensen-huang-as-ceo-after-trump-intervention/",
+      "link": "https://www.theglobeandmail.com/business/technology/article-nvidia-reinstates-jensen-huang-as-ceo-after-trump-intervention/",
+      "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
+      "excerpt": "Chipmaker’s shares soar as board continues investigation into allegations involving foreign intelligence",
+      "published": "2026-11-24T00:45:21.000Z",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/v2/TMVSVBWMHJB7BBNYQHEUJJI22M.JPG?auth=cc886863b6b81f085271c24364ca17f0edd1832fc454f9c54d0bd21045236d2e&smart=true&width=5792&height=3856",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "be707f2408f651e5",
+      "guid": "https://www.theglobeandmail.com/business/video-wall-street-rebounds-as-jensen-huang-is-reinstated-as-nvidia-ceo/",
+      "link": "https://www.theglobeandmail.com/business/video-wall-street-rebounds-as-jensen-huang-is-reinstated-as-nvidia-ceo/",
+      "title": "Wall Street rebounds as Jensen Huang is reinstated as Nvidia CEO",
+      "excerpt": "U.S. stocks surged on Monday, led by a more than 6 per cent jump in the Nasdaq as Nvidia's reinstatement of Jensen Huang as CEO drove investors back into AI-related shares after last week's rout.",
+      "published": "2026-11-24T00:00:38.000Z",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-23-2026%2Ft_3c6529588d4942bf8641718287c5901f_name_2026_11_23T234212Z_1_LOP071923112026RP1_RTRMADP_BASEIMAGE_960X540_USA_STOCKS_WRAP.JPG?auth=a4cfc397154e1f583c7d5efbc946fee276c8f3a5a12a0c835191e0e2dac7971b&smart=true&width=1920&height=1080",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "835ca14913f2782a",
+      "guid": "https://www.theglobeandmail.com/business/article-telecom-ceos-quebecor-telus-meet-ottawa-november-23/",
+      "link": "https://www.theglobeandmail.com/business/article-telecom-ceos-quebecor-telus-meet-ottawa-november-23/",
+      "title": "CEOs of Quebecor, Telus meet in Ottawa to discuss takeover proposal",
+      "excerpt": "Talks between Pierre Karl Péladeau and Victor Dodig took place at preplanned industry roundtable",
+      "published": "2026-11-23T23:34:19.000Z",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/v2/S2TPRZADXVDETHV54CQPNLHHQE.JPG?auth=b0fbee46d40089c09462f554bcde9c6676269030af5e039e11194758dbbe468d&smart=true&width=6500&height=4364",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "d4fbbeadf6ba5ef4",
+      "guid": "https://www.theglobeandmail.com/business/article-us-blacklists-megaspeed-nvidia-jensen-huang/",
+      "link": "https://www.theglobeandmail.com/business/article-us-blacklists-megaspeed-nvidia-jensen-huang/",
+      "title": "U.S. blacklists Megaspeed, Singapore-based chip firm linked to Nvidia scandal",
+      "excerpt": "Trade restriction imposed as CEO Jensen Huang returns to Nvidia after his resignation over revelations of extramarital affairs",
+      "published": "2026-11-23T22:01:02.000Z",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/v2/OOXGPVO5QRGJNDXXZRYMMKEQEA.jpg?auth=8ab1aa20066e612834c4506fac467d845d66e96396134e216984659e4078fac0&smart=true&width=2800&height=1867",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
       "id": "523f71ecb9c36367",
       "guid": "https://www.theglobeandmail.com/business/commentary/article-jensen-huang-return-nvidia-ceo-bow-before-money/",
       "link": "https://www.theglobeandmail.com/business/commentary/article-jensen-huang-return-nvidia-ceo-bow-before-money/",

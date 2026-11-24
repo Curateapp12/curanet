@@ -3,6 +3,204 @@
   "sourceId": "bbc-news",
   "items": [
     {
+      "id": "cc716434d1ad9859",
+      "guid": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "excerpt": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "published": "2026-11-24T05:33:07.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "8bfe363371d52ebf",
+      "guid": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o",
+      "title": "UK papers: 'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum'",
+      "excerpt": "The reinstatement of Nvidia's chief executive Jensen Huang is a major focus of Tuesday's front pages.",
+      "published": "2026-11-24T05:19:37.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c15/live/dc162f50-e799-11f1-99b6-a35a62fa4264.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "bc330a5f29595397",
+      "guid": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo#1",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "excerpt": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "published": "2026-11-24T02:15:59.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "2c5123ec6b28e232",
+      "guid": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo#1",
+      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo",
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "excerpt": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "published": "2026-11-24T01:21:41.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3b/live/388100e0-e7a3-11f1-99a1-253766e7ad8b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "49df6ddb2cf08bc6",
+      "guid": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro#1",
+      "link": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro",
+      "title": "Benefits review to suggest quicker payment for some disabled people",
+      "excerpt": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
+      "published": "2026-11-24T00:53:31.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bc4/live/776e1e70-e788-11f1-9baa-c1f9a8f8c840.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "6125c8157a862564",
+      "guid": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no",
+      "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
+      "excerpt": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
+      "published": "2026-11-24T00:45:53.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52f/live/4268b250-e79f-11f1-b8f0-1fdd88d7e7ad.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "28dc0120eceed52e",
+      "guid": "https://www.bbc.co.uk/news/articles/c6rrg7jx5gdgo#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7jx5gdgo",
+      "title": "No 10 North will face greater scrutiny as Burnham's 10-year plan looms",
+      "excerpt": "The work of Number 10 North in Manchester has been kept largely away from the headlines since it opened in July.",
+      "published": "2026-11-24T00:31:28.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c8/live/2349edc0-e755-11f1-b407-33329b1ec67a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "37cae4b73bcdf83a",
+      "guid": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o",
+      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+      "excerpt": "Increasing numbers of corporate landlords could usher in big changes for renters",
+      "published": "2026-11-24T00:28:48.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "63c39b84f6e4708b",
+      "guid": "https://www.bbc.co.uk/news/articles/c8d36d43y8po#1",
+      "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po",
+      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "excerpt": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+      "published": "2026-11-24T00:11:08.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f07/live/b4a50c50-df71-11f1-8112-6b9154c79b48.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "ca8407fa0c82ebad",
+      "guid": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo#1",
+      "link": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo",
+      "title": "Coldest spell of autumn continues with risk of hill snow, ice and heavy rain",
+      "excerpt": "Colder weather continues for much of the UK with some ice and hill snow but milder and wetter in the south and west, as Simon King explains",
+      "published": "2026-11-24T00:03:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e86/live/ba8f9be0-e736-11f1-8294-033bd8ee7e95.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "cef482f3944581e3",
+      "guid": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno#2",
+      "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "excerpt": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+      "published": "2026-11-24T00:01:04.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "aec25a1381edc0c4",
+      "guid": "https://www.bbc.co.uk/news/articles/c6rmgjynynero#1",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmgjynynero",
+      "title": "Why I don't always tell potential employers I'm dyslexic",
+      "excerpt": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
+      "published": "2026-11-24T00:00:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d8/live/1c75ed80-e770-11f1-99a1-253766e7ad8b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "56daed9375153e07",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "excerpt": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "published": "2026-11-23T23:26:35.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2b3/live/d71ba9d0-e78f-11f1-8e8a-577b415bb9af.png",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "610da5726b57583a",
+      "guid": "https://www.bbc.co.uk/news/articles/cre3d45key2xo#4",
+      "link": "https://www.bbc.co.uk/news/articles/cre3d45key2xo",
+      "title": "Cold War missile tucked away in a field hides love story for man's late wife",
+      "excerpt": "Adrian Hyde and his wife Janette spent years talking about owning a military vehicle.",
+      "published": "2026-11-23T22:56:11.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9d7/live/6977f830-e4f0-11f1-8781-bf15c9202663.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "2d59a1c5153f25be",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno#8",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno",
+      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+      "excerpt": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?",
+      "published": "2026-11-23T22:43:39.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1142/live/d8901070-e786-11f1-9baa-c1f9a8f8c840.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "8f2afcb9cc10dbeb",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo#8",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo",
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "excerpt": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
+      "published": "2026-11-23T22:31:27.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/41e45e90-e788-11f1-99a1-253766e7ad8b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "c542656acc2db0ce",
+      "guid": "https://www.bbc.co.uk/news/videos/c920x1534e31o#1",
+      "link": "https://www.bbc.co.uk/news/videos/c920x1534e31o",
+      "title": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
+      "excerpt": "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary, Heal.",
+      "published": "2026-11-23T22:01:09.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3824/live/e32c6f10-e786-11f1-99a1-253766e7ad8b.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "f5c16c2ef8e3ef17",
+      "guid": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o#1",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "excerpt": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "published": "2026-11-23T21:24:47.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0fff68f0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
       "id": "e38cce0aa6c13ad5",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo#8",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo",
@@ -199,6 +397,17 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ed6/live/6d550d50-e74b-11f1-99a1-253766e7ad8b.jpg",
       "type": "article",
       "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "fa857320b5acb91f",
+      "guid": "https://www.bbc.co.uk/news/videos/c3y0xjqxy871o#2",
+      "link": "https://www.bbc.co.uk/news/videos/c3y0xjqxy871o",
+      "title": "How Ukraine drone attacks on Russian ships unfolded",
+      "excerpt": "Two Russian ships were hit by Ukrainian drones in Libya on Sunday, with verified videos showing huge fireballs, smoke plumes and sea drones attacking the vessels.",
+      "published": "2026-11-23T14:16:36.000Z",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6943/live/28fffe10-e73e-11f1-a094-5fdc692f3e33.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
     },
     {
       "id": "89f46f6bc2614d82",

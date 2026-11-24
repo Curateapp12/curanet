@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "0ee44f8fc82b911c",
+      "guid": "https://ici.radio-canada.ca/article/info/2302545/autocensure-professeur-universite-canada-liberte-academique",
+      "link": "https://ici.radio-canada.ca/article/info/2302545/autocensure-professeur-universite-canada-liberte-academique",
+      "title": "Les limites de la liberté académique : quand les professeurs s’autocensurent",
+      "excerpt": "« J’ai l’impression que l’autocensure est vraiment triomphante sur les campus. »",
+      "published": "2026-11-24T05:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/liberte-academique-2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "459b74cbbbcfac49",
+      "guid": "https://ici.radio-canada.ca/article/info/2302659/pentagone-critique-depenses-defense-canada",
+      "link": "https://ici.radio-canada.ca/article/info/2302659/pentagone-critique-depenses-defense-canada",
+      "title": "Le Pentagone critique les dépenses de défense du Canada",
+      "excerpt": "« Les lacunes du système de défense canadien parlent d'elles-mêmes. »",
+      "published": "2026-11-24T01:49:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pete-hegseth-secretaire-defense-jour-souvenir-veterans-ceremonie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "3586e3c40ebe0cd5",
+      "guid": "https://ici.radio-canada.ca/article/info/2302647/suspension-programme-cadets-intervention-mcguinty-financement",
+      "link": "https://ici.radio-canada.ca/article/info/2302647/suspension-programme-cadets-intervention-mcguinty-financement",
+      "title": "Le ministre de la Défense intervient, les activités des cadets vont reprendre",
+      "excerpt": "Ottawa accordera un financement supplémentaire au programme des cadets jusqu'à la fin du mois de mars.",
+      "published": "2026-11-23T23:23:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/annulation-activites-cadets-deceptions-nord.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "6c2c36238603edd3",
+      "guid": "https://ici.radio-canada.ca/article/info/2302628/etude-qualite-nutritionnelle-aliments-quebec",
+      "link": "https://ici.radio-canada.ca/article/info/2302628/etude-qualite-nutritionnelle-aliments-quebec",
+      "title": "Encore plus de gras saturés et de sel dans le panier d’épicerie des Québécois",
+      "excerpt": "L’Observatoire de la qualité de l’offre alimentaire a analysé plus de 11 000 aliments préemballés.",
+      "published": "2026-11-23T22:52:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/rayon-produits-surgeles.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "0364593c2b8e65ff",
+      "guid": "https://ici.radio-canada.ca/article/info/2302629/bell-enquete-cyberattaque-donnees-clients",
+      "link": "https://ici.radio-canada.ca/article/info/2302629/bell-enquete-cyberattaque-donnees-clients",
+      "title": "Bell enquête sur une cyberattaque qui a compromis les données de clients",
+      "excerpt": "Il s'agit de données concernant des clients de Bell, Bell Aliant, Bell MTS, Virgin Plus et Lucky Mobile.",
+      "published": "2026-11-23T22:12:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bell-canada-46743.png",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "aa0e23a1f1e3053f",
+      "guid": "https://ici.radio-canada.ca/article/info/2302615/israel-eisenkot-netanyahou-iran-gouvernement",
+      "link": "https://ici.radio-canada.ca/article/info/2302615/israel-eisenkot-netanyahou-iran-gouvernement",
+      "title": "Israël : Eisenkot et Nétanyahou en désaccord sur l’Iran",
+      "excerpt": "Le centriste Gadi Eisenkot a jusqu'au 6 décembre pour former un gouvernement.",
+      "published": "2026-11-23T21:40:57.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/eizenkot-netanyahou.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
       "id": "ad27f94a0b457702",
       "guid": "https://ici.radio-canada.ca/article/info/2302507/trump-nvidia-huang-retour-photomontage-reactions",
       "link": "https://ici.radio-canada.ca/article/info/2302507/trump-nvidia-huang-retour-photomontage-reactions",
@@ -12,6 +78,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jensen-huang-donald-trump-nvidia.jpg",
       "type": "article",
       "addedAt": "2026-11-23T21:19:19.593Z"
+    },
+    {
+      "id": "f8b97afbf3760317",
+      "guid": "https://ici.radio-canada.ca/article/autochtones/2302606/accusations-policiers-calgary-mort-jon-wells-autochtone",
+      "link": "https://ici.radio-canada.ca/article/autochtones/2302606/accusations-policiers-calgary-mort-jon-wells-autochtone",
+      "title": "Trois policiers de Calgary accusés de l’homicide involontaire d’un Autochtone",
+      "excerpt": "Jon Wells aurait reçu des décharges de pistolet à impulsion électrique et des coups même s'il a obtempéré.",
+      "published": "2026-11-23T21:11:59.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jon-wells.png",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
     },
     {
       "id": "cc4148dea88c44a2",

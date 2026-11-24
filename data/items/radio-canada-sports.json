@@ -3,6 +3,94 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "1b33e5db65233040",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302678/commanders-bengals-daniels-nfl",
+      "link": "https://ici.radio-canada.ca/article/sports/2302678/commanders-bengals-daniels-nfl",
+      "title": "Les Commanders battent les Bengals à la toute dernière seconde",
+      "excerpt": "Les Commanders ont créé la surprise en battant les Bengals de Cincinnati par la marque de 22-20, lundi soir.",
+      "published": "2026-11-24T05:13:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/daniels-commanders-bengals.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "69e77f29f199ed92",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302672/dylan-larkin-canadien-kings-centre-bell",
+      "link": "https://ici.radio-canada.ca/article/sports/2302672/dylan-larkin-canadien-kings-centre-bell",
+      "title": "Dylan Larkin et le Canadien s’inclinent devant les Kings",
+      "excerpt": "Les Kings ont gagné au compte de 2-1 malgré le premier point de Larkin avec la formation montréalaise.",
+      "published": "2026-11-24T05:07:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/larkin-canadien-kings.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "008a1b45adbdb9fe",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302676/gabriel-vilardi-brille-dans-la-victoire-des-jets",
+      "link": "https://ici.radio-canada.ca/article/sports/2302676/gabriel-vilardi-brille-dans-la-victoire-des-jets",
+      "title": "Gabriel Vilardi brille dans la victoire des Jets",
+      "excerpt": "Gabriel Vilardi a réussi un tour du chapeau dans une victoire de 4-2 des Jets de Winnipeg contre le Mammoth de l'Utah.",
+      "published": "2026-11-24T04:17:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/gabriel-vilardi-jets.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "04fa4fbde110dd3d",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302675/linus-ullmark-senateurs-flames-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2302675/linus-ullmark-senateurs-flames-lnh",
+      "title": "Linus Ullmark mène les Sénateurs vers la victoire face aux Flames",
+      "excerpt": "Linus Ullmark a poursuivi son excellent début de saison lundi, réalisant 34 arrêts pour mener les Sénateurs d'Ottawa vers une victoire de 2-1 contre les Flames de Calgary.",
+      "published": "2026-11-24T04:12:28.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/linus-ullmark-senateurs-flames.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "424abac4ce50bc04",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302674/maple-leafs-sequence-defaites-islanders",
+      "link": "https://ici.radio-canada.ca/article/sports/2302674/maple-leafs-sequence-defaites-islanders",
+      "title": "Les Maple Leafs mettent fin à leur séquence de neuf défaites",
+      "excerpt": "Après avoir comblé un déficit de 0-2, les Torontois l'ont emporté 4-2 contre les Islanders.",
+      "published": "2026-11-24T04:03:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/nylander-leafs-islanders.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "bd650e8a3d34f357",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302670/connor-bedard-absence-blackhawks-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2302670/connor-bedard-absence-blackhawks-lnh",
+      "title": "Connor Bedard devra s’absenter environ quatre mois",
+      "excerpt": "Le capitaine des Blackhawks de Chicago, Connor Bedard, a subi une opération à l'épaule droite lundi.",
+      "published": "2026-11-24T03:31:22.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/connor-bedard-30394.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "18ed9e76a0f6c183",
+      "guid": "https://ici.radio-canada.ca/videos/1-10816918/titans-limoilou-remportent-un-3e-bol-or",
+      "link": "https://ici.radio-canada.ca/videos/1-10816918/titans-limoilou-remportent-un-3e-bol-or",
+      "title": "Les Titans de Limoilou remportent un 3e Bol d'Or",
+      "excerpt": "L'équipe de football du Cégep Limoilou a raflé les grands honneurs la fin de semaine dernière dans une victoire de 39 à 21.",
+      "published": "2026-11-24T00:29:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/football-collegial-titans-cegep-limoilou-bol-dor.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "5902b06624a5c3bd",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302639/abby-roque-voulait-demeurer-avec-la-victoire",
+      "link": "https://ici.radio-canada.ca/article/sports/2302639/abby-roque-voulait-demeurer-avec-la-victoire",
+      "title": "Abby Roque voulait demeurer avec la Victoire",
+      "excerpt": "En l'absence de Marie-Philip Poulin, la constance passera, entre autres, par Ann-Renée Desbiens et Abby Roque.",
+      "published": "2026-11-23T23:15:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/victoire-de-montreal-abby-roque.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
       "id": "2a11a09c82eb688c",
       "guid": "https://ici.radio-canada.ca/article/info/2302577/planche-roulette-planchodrome-sherbrooke",
       "link": "https://ici.radio-canada.ca/article/info/2302577/planche-roulette-planchodrome-sherbrooke",

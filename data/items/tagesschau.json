@@ -3,6 +3,105 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "165c31be0e812b09",
+      "guid": "0eb40f0b-3988-4c54-9cb5-6f5e067855d1",
+      "link": "https://www.tagesschau.de/kultur/gta-6-104.html",
+      "title": "Arbeitskampf hinter dem größten Videospiel der Welt",
+      "excerpt": "Elf Jahre arbeitete Jordan Garland für das \"GTA\"-Studio Rockstar Games, dann wurde er plötzlich entlassen. Als Grund vermutet er seine Mitgliedschaft in einer Gewerkschaft. Das Unternehmen hält dagegen. Von Ilyass Alaoui.",
+      "published": "2026-11-24T05:35:28.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ee544d99-b84e-4258-b2e5-e4624f5eb786/AAABofhzJcE/AAABnSSvrFg/16x9-big/gta-vi-106.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "904ab6396cbc748d",
+      "guid": "6624934c-ce9c-4896-a767-a26da6a8c66a",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
+      "title": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
+      "excerpt": "Mit dem Friedensabkommen in Kolumbien von 2016 wurden weltweit große Hoffnungen verknüpft. Er sollte ein halbes Jahrhundert Bürgerkrieg beenden. Doch zehn Jahre später ist Kolumbien polarisiert wie lange nicht. Von Jenny Barke.",
+      "published": "2026-11-24T05:28:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/98f27cb4-11e6-4c4c-9e4f-256d7cb5d1fb/AAABogwHMVQ/AAABnSSvrFg/16x9-big/protestierende-kolumbien-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "144a1c5f7dd5c537",
+      "guid": "2415d6e9-7318-4ed4-9480-21dccdfc9bf8",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
+      "title": "VW-Tarifrunde beginnt in Emden - wo die Streitpunkte liegen",
+      "excerpt": "Mitten in der tiefsten Krise der Konzerngeschichte startet heute die Tarifrunde für rund 120.000 Volkswagen-Beschäftigte. Das Management will Kosten senken, die IG Metall wehrt sich gegen weitere Einbußen. Von T. Hildebrandt.",
+      "published": "2026-11-24T05:04:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b468b1b9-68b3-48c5-a0f0-ce76c2fce008/AAABogjfiCs/AAABnSSvrFg/16x9-big/vw-werk-emden-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "2750cc52e3ddfe54",
+      "guid": "3847c9b8-65d9-4553-97ee-74758411c4f2",
+      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+      "title": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
+      "excerpt": "Mehrere russische Militärflugzeuge sind südkoreanischen Sicherheitsbehören zufolge am Dienstagmorgen in Sükoreas Luftverteidigungszone eingedrungen. Erst kürzlich meldeten Taiwan und Japan ähnliche Vorfälle.",
+      "published": "2026-11-24T04:23:38.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/247cc5aa-27b9-4acb-9e72-d6b8af409c6f/AAABogu1DBY/AAABnSSvrFg/16x9-big/ulleung-suedkorea-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "75e0824e28a0e309",
+      "guid": "549bd06a-289e-4fb8-a8ff-6f887e144bdb",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html",
+      "title": "Kriegsfolgen im Gazastreifen: Verschmutztes Wasser, Asbest in den Trümmern",
+      "excerpt": "Auf den Straßen sammelt sich der Müll, in den zerstörten Gebäuden steckt Asbest: Im Gazastreifen leidet die Bevölkerung. Die Folgen des Krieges könnten noch Jahrzehnte spürbar sein, so Oxfam. Von Julio Segador.",
+      "published": "2026-11-24T04:09:27.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/64b30784-df0a-4f90-adfc-2e0ac931d913/AAABogu-CfE/AAABnSSvrFg/16x9-big/gazastreifen-364.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "27b1f1f3b58c6a16",
+      "guid": "64f796ed-1ade-4059-83fb-14936b6aa6e4",
+      "link": "https://www.tagesschau.de/kultur/internationaler-emmy-mrf-ard-100.html",
+      "title": "Deutsche Dokumentarfilmer gewinnen Internationalen Emmy",
+      "excerpt": "Eine Mischung aus True Crime und Roadmovie: Für ihre ARD-Dokumentation \"Der talentierte Mr. F.\" über einen Film-Dieb haben deutsche Filmemacher den Internationalen Emmy verliehen bekommen.",
+      "published": "2026-11-24T03:23:18.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/faf62676-101c-4d6e-869d-8bc19103aee1/AAABogtZmiI/AAABnSSvrFg/16x9-big/internationaler-emmy-mrf-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "99caf4e919407cbc",
+      "guid": "f1069a59-1417-48d2-aa5e-7a16aa8711c6",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
+      "title": "Deutschland baut künftig ukrainische Drohnen",
+      "excerpt": "Bereits im April hatten Deutschland und die Ukraine vereinbart, militärisch enger zusammenzuarbeiten - etwa beim Drohnenbau. Verteidigungsminister Pistorius wurde nun konkreter. Mit Blick auf mögliche russische Angriffspläne im All mahnte er zur Ruhe.",
+      "published": "2026-11-24T01:46:30.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/6b7d65a3-66be-4fc7-8ea4-766d8c14ff33/AAABogn92jg/AAABnSSvrFg/16x9-big/pistorius-chmara-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "3376eb527dca373c",
+      "guid": "07ee1662-7569-4c43-9f3e-58993b6c5405",
+      "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+      "title": "Haiti: El Salvadors Präsident Bukele wegen Militäreinsatz gefeiert",
+      "excerpt": "In Haiti konnten auch internationale Missionen wenig an der grassierenden Gewalt ändern. Jetzt griff El Salvadors Präsident Bukele ein - mit mehreren Tausend Soldaten, ohne UN-Mandat. Und wird wie ein Volksheld gefeiert. Von J. Barke.",
+      "published": "2026-11-24T00:53:40.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/bca964b7-f795-49df-a04c-a24ede4f9ee3/AAABogqnvA8/AAABnSSvrFg/16x9-big/elsalvador-haiti-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "a8c1281a76b56663",
+      "guid": "tagesschau_fm-story-WDR-211cf399-d0cd-4b7c-a70a-e1be40f2ca9c",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/gruene-angriff-nrw-schwerte-100.html",
+      "title": "Nordrhein-Westfalen: Angriff auf Grünen-Politiker während Fraktionssitzung",
+      "excerpt": "In Schwerte in Nordrhein-Westfalen hat nach Informationen des WDR eine maskierte Person eine Fraktionssitzung der Grünen gestürmt. Drei Menschen wurden dabei verletzt. Der Staatsschutz ermittelt.",
+      "published": "2026-11-23T23:28:00.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/70dd7765-dd6c-4f6e-a9a0-a41a9dafe98e/AAABogwavA8/AAABnSSvrFg/16x9-big/wdr-angriff-auf-parteibuero-der-gruenen-in-schwerte-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
       "id": "dfc79c03cbf21b78",
       "guid": "fa8a8a9a-c7d2-4a76-b5d0-126490654df4",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",

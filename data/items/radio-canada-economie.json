@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "f06cd9fa43295ba5",
+      "guid": "https://ici.radio-canada.ca/videos/1-10816976/comment-reagir-a-volatilite-bourse",
+      "link": "https://ici.radio-canada.ca/videos/1-10816976/comment-reagir-a-volatilite-bourse",
+      "title": "Comment réagir à la volatilité de la Bourse",
+      "excerpt": "Les marchés boursiers nord-américains ont connu une forte remontée après la décision de Nvidia de réintégrer son PDG Jensen Huang. On en discute avec Pierre-Benoît Gauthier, vice-président, stratégie de placements chez IG Gestion de patrimoine.",
+      "published": "2026-11-24T01:46:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/dezo-bourse-volatilite-36259.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "8abe8c35bd7b353a",
+      "guid": "https://ici.radio-canada.ca/article/info/2302526/coop-rogersville-difficulte-perte-alcool-nb",
+      "link": "https://ici.radio-canada.ca/article/info/2302526/coop-rogersville-difficulte-perte-alcool-nb",
+      "title": "La Coop de Rogersville peine à retrouver l’équilibre financier",
+      "excerpt": "La perte de son contrat d'agence d'Alcool NB date de 2023, mais les effets se font toujours sentir.",
+      "published": "2026-11-24T00:00:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/coop-rogersville-nouvelle-arcadie-epicerie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "a375a34c0b340a79",
+      "guid": "https://ici.radio-canada.ca/videos/1-10816872/encore-plus-gras-satures-et-sel-dans-panier-epicerie-quebecois",
+      "link": "https://ici.radio-canada.ca/videos/1-10816872/encore-plus-gras-satures-et-sel-dans-panier-epicerie-quebecois",
+      "title": "Encore plus de gras saturés et de sel dans le panier d’épicerie des Québécois",
+      "excerpt": "La teneur en gras saturés et en sodium de milliers d’aliments préemballés consommés par les Québécois a augmenté au cours des dernières années, révèle une étude réalisée par l’Observatoire de la qualité de l’offre alimentaire de l’Institut sur la nutrition et les aliments fonctionnels de…",
+      "published": "2026-11-23T23:55:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/panier-epicerie-nourriture.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "c534bf00a6aec354",
+      "guid": "https://ici.radio-canada.ca/article/info/2302635/autobus-augmentation-billets-cote-nord",
+      "link": "https://ici.radio-canada.ca/article/info/2302635/autobus-augmentation-billets-cote-nord",
+      "title": "Autobus Transco augmente ses tarifs sur la Côte-Nord",
+      "excerpt": "La hausse des coûts d’exploitation et du carburant force le transporteur à revoir ses prix.",
+      "published": "2026-11-23T23:10:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/le1518-autobus-transport-service-sutton-montreal.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "49b43c254bb2b772",
+      "guid": "https://ici.radio-canada.ca/article/info/2302643/etudiants-construction-certificat-competence-quebec",
+      "link": "https://ici.radio-canada.ca/article/info/2302643/etudiants-construction-certificat-competence-quebec",
+      "title": "Les diplômés en construction entrent maintenant plus vite dans l’industrie",
+      "excerpt": "Les diplômés n'auront plus à obtenir une garantie d’emploi de 150 heures de la part d’un employeur enregistré.",
+      "published": "2026-11-23T22:54:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/construction-formation-professionnelle-etudiant-charpenterie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "745046112ddce832",
+      "guid": "https://ici.radio-canada.ca/article/info/2302642/forage-petrole-travailleurs-penurie",
+      "link": "https://ici.radio-canada.ca/article/info/2302642/forage-petrole-travailleurs-penurie",
+      "title": "Les entreprises de forage prévoient une pénurie de main-d’œuvre",
+      "excerpt": "Selon Enserva, le nombre de puits forés devrait augmenter en 2027 par rapport à cette année.",
+      "published": "2026-11-23T22:36:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-regions/16x9/petrole-chevalets-pompages-alberta-20952.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "aceaf0fca2922df2",
+      "guid": "https://ici.radio-canada.ca/article/info/2302588/parc-industriel-expansion-dieppe",
+      "link": "https://ici.radio-canada.ca/article/info/2302588/parc-industriel-expansion-dieppe",
+      "title": "Fredericton accorde 5 M$ au développement du parc industriel de Dieppe",
+      "excerpt": "L'objectif est de construire des infrastructures pour accueillir des entreprises ces prochaines années.",
+      "published": "2026-11-23T22:32:40.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/parc-industriel-dieppe-mairesse-boudreau-gilles-lepage.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "1b2c1a1b790223e5",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2536941/marches-boursiers-soulages-apres-retour-jensen-huang",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2536941/marches-boursiers-soulages-apres-retour-jensen-huang",
+      "title": "La bourse soulagée par le retour de Jensen Huang",
+      "excerpt": "Le retour de Jensen Huang à la tête de l'entreprise américaine Nvidia rassure les marchés boursiers, quelques jours après que l'ex-PDG ait annoncé sa démission.",
+      "published": "2026-11-23T22:13:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/16x9/tum-pierre-yves-mcsween-studio-1-95570.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
+      "id": "5a0956e1c76c8ee0",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10816757/plus-adultes-consomment-cannabis-que-alcool",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10816757/plus-adultes-consomment-cannabis-que-alcool",
+      "title": "Plus d’adultes consomment du cannabis que d’alcool",
+      "excerpt": "Pour la première fois au Canada, la consommation quotidienne de cannabis surpasse celle de l’alcool. Voici pourquoi.",
+      "published": "2026-11-23T22:09:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/cannabis-marijuana-fumer-inhalation-toux.jpg",
+      "type": "article",
+      "addedAt": "2026-11-24T05:59:30.301Z"
+    },
+    {
       "id": "25469bef1ac1938c",
       "guid": "https://ici.radio-canada.ca/en-bref/1-10816665/cannabis-plus-populaire-que-alcool-au-canada",
       "link": "https://ici.radio-canada.ca/en-bref/1-10816665/cannabis-plus-populaire-que-alcool-au-canada",
