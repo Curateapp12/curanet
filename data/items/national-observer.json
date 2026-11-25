@@ -3,6 +3,116 @@
   "sourceId": "national-observer",
   "items": [
     {
+      "id": "c1ca4557b0fa4440",
+      "guid": "https://www.nationalobserver.com/node/52813",
+      "link": "https://www.nationalobserver.com/2026/11/25/news/worlds-largest-oat-milk-producer-has-joined-unusual-climate-journalism-campaign",
+      "title": "The world's largest oat milk producer has joined an unusual climate journalism campaign",
+      "excerpt": "",
+      "published": "2026-11-25T11:30:08.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T12:50:18.964Z"
+    },
+    {
+      "id": "cd4df175e0733e6a",
+      "guid": "https://www.nationalobserver.com/node/52812",
+      "link": "https://www.nationalobserver.com/2026/11/25/news/heavy-rains-storm-surge-high-tides-cause-real-drama-along-bcs-coast",
+      "title": "Heavy rains, storm surge, high tides cause 'real drama' along BC's coast",
+      "excerpt": "",
+      "published": "2026-11-25T11:19:38.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T12:50:18.964Z"
+    },
+    {
+      "id": "d7fbf2cc76bd9996",
+      "guid": "https://www.nationalobserver.com/node/52811",
+      "link": "https://www.nationalobserver.com/2026/11/25/news/immigrants-canada-more-likely-be-overqualified-their-jobs-report",
+      "title": "Immigrants in Canada more likely to be overqualified for their jobs: report",
+      "excerpt": "",
+      "published": "2026-11-25T11:15:48.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T12:50:18.964Z"
+    },
+    {
+      "id": "91ce1d84bacf3ccd",
+      "guid": "https://www.nationalobserver.com/node/52810",
+      "link": "https://www.nationalobserver.com/2026/11/25/news/macklem-says-inflation-forecast-lower-oil-price-pressures-are-lingering",
+      "title": "Macklem says inflation forecast is lower, but oil price pressures are lingering",
+      "excerpt": "",
+      "published": "2026-11-25T10:59:52.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T12:50:18.964Z"
+    },
+    {
+      "id": "8905482467718964",
+      "guid": "https://www.nationalobserver.com/node/52796",
+      "link": "https://www.nationalobserver.com/2026/11/24/opinion/ndp-greens-lewis-morrice-cooperation-solidarity",
+      "title": "It's time for the NDP to make nice with the Greens",
+      "excerpt": "If the federal NDP and Greens are equally serious about pushing climate back onto the agenda, they should consider going even further than simply giving each other's leader a leg up.",
+      "published": "2026-11-25T08:55:03.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T12:50:18.964Z"
+    },
+    {
+      "id": "a757dab0470a9489",
+      "guid": "https://www.nationalobserver.com/node/52797",
+      "link": "https://www.nationalobserver.com/2026/11/24/opinion/why-we-need-reading-revolution",
+      "title": "Why we need a reading revolution",
+      "excerpt": "We need a reading revolution built around 3Rs: Resilience, Rebellion and Resistance.",
+      "published": "2026-11-25T08:55:03.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T12:50:18.964Z"
+    },
+    {
+      "id": "fef756402ddf461a",
+      "guid": "https://www.nationalobserver.com/node/52760",
+      "link": "https://www.nationalobserver.com/2026/11/20/investigations/conflict-interest-concerns-mount-major-projects-office",
+      "title": "Conflict of interest concerns mount at Major Projects Office",
+      "excerpt": "A rail industry executive was hired as the director for rail at the Major Projects Office, as federal officials maintain private sector staff aren’t touching files their companies could benefit from.",
+      "published": "2026-11-25T08:55:03.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T12:50:18.964Z"
+    },
+    {
+      "id": "257c8d0151ea8376",
+      "guid": "https://www.nationalobserver.com/node/52803",
+      "link": "https://www.nationalobserver.com/2026/11/24/analysis/carney-courts-chinese-investment-deals-could-come-real-risks",
+      "title": "Carney courts Chinese investment, but deals could come with real risks",
+      "excerpt": "Chinese financing could help build EV plants and wind farms in Canada. The risks are in the details. The software in a car can decide whether it sells in the US, and a supply contract can determine whether a wind turbine keeps running.",
+      "published": "2026-11-25T08:55:02.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T12:50:18.964Z"
+    },
+    {
+      "id": "62681942302b2d3f",
+      "guid": "https://www.nationalobserver.com/node/52799",
+      "link": "https://www.nationalobserver.com/2026/11/24/news/alberta-methane-math-federal-targets",
+      "title": "Alberta met its methane targets — by changing the math",
+      "excerpt": "The good-news headline repeated across Alberta that the province is getting closer to its methane reduction goal is somewhat misleading.",
+      "published": "2026-11-25T08:55:02.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T12:50:18.964Z"
+    },
+    {
+      "id": "b8e0c013da11582c",
+      "guid": "https://www.nationalobserver.com/node/52746",
+      "link": "https://www.nationalobserver.com/2026/11/19/news/inside-alliance-turning-canadas-organic-oat-farmers-regenerative",
+      "title": "Inside the alliance turning Canada's organic oat farmers regenerative",
+      "excerpt": "Canada’s regenerative farmers say they have a way to boost yields and help the environment – now they just want Prime Minister Mark Carney to listen.",
+      "published": "2026-11-25T08:55:02.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T12:50:18.964Z"
+    },
+    {
       "id": "2899a29817dd16bd",
       "guid": "https://www.nationalobserver.com/node/52805",
       "link": "https://www.nationalobserver.com/2026/11/24/news/opposition-mps-want-answers-planned-parks-canada-cuts-layoffs",
