@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "559d2ab50f8aa4cb",
+      "guid": "https://ici.radio-canada.ca/article/info/2302756/republicains-trump-nvidia-jensen-huang",
+      "link": "https://ici.radio-canada.ca/article/info/2302756/republicains-trump-nvidia-jensen-huang",
+      "title": "Des républicains défient Trump sur Jensen Huang et Nvidia",
+      "excerpt": "Invoquant la sécurité nationale, des républicains critiquent le retour de Jensen Huang à la tête de Nvidia.",
+      "published": "2026-11-25T00:24:10.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/donald-trump-jensen-huang-nvidia-intelligence-artificielle.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "db9c9c9cd4762a10",
+      "guid": "https://ici.radio-canada.ca/article/autochtones/2302783/grands-projets-protection-eau-potable-premieres-nations",
+      "link": "https://ici.radio-canada.ca/article/autochtones/2302783/grands-projets-protection-eau-potable-premieres-nations",
+      "title": "Grands projets : une meilleure protection de l’eau chez les Premières Nations réclamée",
+      "excerpt": "L'Assemblée des Premières Nations croit que le projet de loi C-37 ne suffit pas pour protéger l'eau potable.",
+      "published": "2026-11-24T23:53:24.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cindy-woodhouse-nepinak-12537.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "a73148c793b29b5f",
+      "guid": "https://ici.radio-canada.ca/article/info/2302870/genevieve-biron-quitte-sante-quebec",
+      "link": "https://ici.radio-canada.ca/article/info/2302870/genevieve-biron-quitte-sante-quebec",
+      "title": "Geneviève Biron quittera Santé Québec en mai 2027",
+      "excerpt": "Le gouvernement du Parti québécois maintient vouloir abolir la société d'État.",
+      "published": "2026-11-24T23:33:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/conference-du-ministre-de-la-sante-du-quebec-christian-dube-devant-la-chambre-de-commerce-de-montreal-metropolitain-photo-prise-au-palais-de-congres-a-montreal-quebec-sur-la-photo-gauche-a-droite-port.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "f72310cb74c9fc33",
+      "guid": "https://ici.radio-canada.ca/article/info/2302822/megaspeed-liste-noir-scandale-nvidia",
+      "link": "https://ici.radio-canada.ca/article/info/2302822/megaspeed-liste-noir-scandale-nvidia",
+      "title": "Qui est Megaspeed, la firme singapourienne sur la liste noire américaine?",
+      "excerpt": "L'entreprise est soupçonnée d'avoir facilité l'exportation de puces du géant américain Nvidia vers la Chine.",
+      "published": "2026-11-24T21:32:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/megaspeed-singapour-scandale-nvidia.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "e5ec67589b8e8a28",
+      "guid": "https://ici.radio-canada.ca/article/info/2302838/huawei-coupable-complot-jury-etats-unis",
+      "link": "https://ici.radio-canada.ca/article/info/2302838/huawei-coupable-complot-jury-etats-unis",
+      "title": "Le géant chinois des technologies Huawei coupable de complot, selon un jury américain",
+      "excerpt": "Les procureurs soutenaient que Huawei avait volé des secrets technologiques à des concurrents américains.",
+      "published": "2026-11-24T21:18:14.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/huawei-logo-8.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "9a0652484bf60af2",
+      "guid": "https://ici.radio-canada.ca/article/info/2302813/atlo-mackinnon-defense-expropriations",
+      "link": "https://ici.radio-canada.ca/article/info/2302813/atlo-mackinnon-defense-expropriations",
+      "title": "Le ministre MacKinnon défend les pouvoirs d’expropriation proposés pour le TGV",
+      "excerpt": "Le ministre fédéral des Transports soutient que les expropriés seront dédommagés de manière équitable.",
+      "published": "2026-11-24T21:06:29.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/steven-mackinnon-ministre-transports-depute-gatineau-5360.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "252f73ba859b86e8",
+      "guid": "https://ici.radio-canada.ca/article/info/2302801/telecommunications-souverainete-canada-quebecor-telus",
+      "link": "https://ici.radio-canada.ca/article/info/2302801/telecommunications-souverainete-canada-quebecor-telus",
+      "title": "Les télécommunications essentielles à la sécurité et à la souveraineté du Canada, dit Joly",
+      "excerpt": "Sa déclaration survient alors que Québecor pourrait devenir un géant des télécoms en achetant Telus.",
+      "published": "2026-11-24T20:27:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/industry-minister-melanie-joly.png",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "ed227e788864c269",
+      "guid": "https://ici.radio-canada.ca/article/info/2302782/tumbler-ridge-bryant-fusillade-complot",
+      "link": "https://ici.radio-canada.ca/article/info/2302782/tumbler-ridge-bryant-fusillade-complot",
+      "title": "La personne soupçonnée de complicité dans l’affaire Tumbler Ridge réclame sa liberté",
+      "excerpt": "Melody Bryant, âgée de 30 ans, est accusée de complot en vue de commettre des meurtres à l'étranger.",
+      "published": "2026-11-24T19:44:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/james-cody-bryant-sketch-seattle-court-tumbler-ridge-dessin.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "d17ecff99d1e5dcc",
+      "guid": "https://ici.radio-canada.ca/article/info/2302724/augmentation-logement-tal-calcul-inflation",
+      "link": "https://ici.radio-canada.ca/article/info/2302724/augmentation-logement-tal-calcul-inflation",
+      "title": "Comment des taxes foncières en forte hausse affecteront votre prochain loyer",
+      "excerpt": "Le calcul du TAL protège des variations de l'inflation, mais pas contre les hausses de l'impôt foncier.",
+      "published": "2026-11-24T17:40:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/duplex-triplex-montreal-immeuble-immobilier.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
       "id": "3981f043dad682e1",
       "guid": "https://ici.radio-canada.ca/article/info/2302732/diminution-financement-quebec-solidaire",
       "link": "https://ici.radio-canada.ca/article/info/2302732/diminution-financement-quebec-solidaire",

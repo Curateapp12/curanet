@@ -3,6 +3,61 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "a42b9e82eb3d7443",
+      "guid": "b9b5bb13-41a3-428e-832f-8c34ff0142f3",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
+      "title": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
+      "excerpt": "Kiew, Saporischschja, Odessa - immer wieder greift Russland ukrainische Brücken an. Im Gegenzug schießt die Ukraine vermehrt zurück - auch auf die Krim-Brücke. Dabei geht es beiden Seiten nicht immer nur um militärische Ziele. Von R. Barth.",
+      "published": "2026-11-25T01:40:52.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4d80da7e-b67d-4d82-8fc9-ce619d62e6d2/AAABohBPwh4/AAABnSSvrFg/16x9-big/kiew-bruecke-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "40622851b912c244",
+      "guid": "b29fe2bb-f42c-487a-8901-cd11f154a59e",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+      "title": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+      "excerpt": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende.",
+      "published": "2026-11-25T00:06:58.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c1a6120d-c092-49b2-ba1a-27686aeea3be/AAABog9uOx8/AAABnSSvrFg/16x9-big/kuba-havanna-110.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "ffe88175ad673426",
+      "guid": "586716f4-d907-488f-be4d-3bf0fa17a370",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+      "title": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
+      "excerpt": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst.",
+      "published": "2026-11-24T20:17:10.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7cf71a19-191c-4efd-9cb2-5b384644322a/AAABog5AniM/AAABnSSvrFg/16x9-big/huang-142.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "556f6a5e20cc3dbf",
+      "guid": "f031320c-72e1-4665-b9f2-b491d27776b7",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
+      "title": "Verbraucherschützer haben die smarte Brille im Blick",
+      "excerpt": "Verbraucherschützer gehen juristisch gegen KI-Brillen von Meta und Ray-Ban vor. Der Vorwurf: Mit smarten Brillen lassen sich Fotos und Videos aufnehmen, ohne dass andere Menschen das bemerken. Auch Nutzern könnten Bußgelder drohen. Von Jens Eberl.",
+      "published": "2026-11-24T19:06:34.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/33e302ac-7300-474b-9e0e-03555f6e826f/AAABn7fT7sg/AAABnSSvrFg/16x9-big/smart-glasses-meta-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "772bd797da0980cf",
+      "guid": "0437af9c-4c03-4cc9-a644-448691304c56",
+      "link": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
+      "title": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
+      "excerpt": "Die per Mail verschickten Bombendrohungen haben am Montag deutlich mehr Schulen erreicht als zunächst angenommen. Die Polizei vermutet eine gezielte Aktion zur Verunsicherung.",
+      "published": "2026-11-24T18:39:01.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/56f86d3d-a3f4-4d8b-828f-1163ea26a2ff/AAABog612II/AAABnSSvrFg/16x9-big/bayern-memmingen-schule-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
       "id": "6f8078df243a5ba0",
       "guid": "ec9250b6-c65d-44cb-8f5e-3a67c0f0b163",
       "link": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",

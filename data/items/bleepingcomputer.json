@@ -3,6 +3,50 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "6c270107d3982041",
+      "guid": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "excerpt": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+      "published": "2026-11-24T21:37:30.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "0bc0f9692115f3dd",
+      "guid": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "excerpt": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+      "published": "2026-11-24T20:21:20.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "5f76ac4f7ca9daa3",
+      "guid": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "excerpt": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+      "published": "2026-11-24T18:59:52.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
+      "id": "adb18ca6aea028ca",
+      "guid": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "excerpt": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+      "published": "2026-11-24T17:49:05.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-25T02:24:41.602Z"
+    },
+    {
       "id": "63399c74702aaea2",
       "guid": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
