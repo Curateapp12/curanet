@@ -3,6 +3,105 @@
   "sourceId": "ars-technica",
   "items": [
     {
+      "id": "5acdb5a9ff5c2174",
+      "guid": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "excerpt": "The pitch is an unusual combination of privacy promises and AI features.",
+      "published": "2026-11-25T20:57:09.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "6f937299d9db2129",
+      "guid": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "excerpt": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "published": "2026-11-25T18:38:29.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "8540e8010e35347f",
+      "guid": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "excerpt": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "published": "2026-11-25T18:22:38.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "863ac3a2c21b8655",
+      "guid": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "excerpt": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+      "published": "2026-11-25T17:33:30.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "61ca50113ad58c56",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "excerpt": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+      "published": "2026-11-25T17:12:57.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678-1152x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "148a75b422c2ea8b",
+      "guid": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "excerpt": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "published": "2026-11-25T16:47:14.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "9cfcbabc051f9e01",
+      "guid": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+      "link": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+      "excerpt": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
+      "published": "2026-11-25T16:33:45.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306257922-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "5b2725fe9fc1b28d",
+      "guid": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+      "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+      "excerpt": "Prior modeling estimated the plume would cover hundreds of square miles.",
+      "published": "2026-11-25T15:35:17.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "b8004cf8d62fc205",
+      "guid": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "link": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "excerpt": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "published": "2026-11-25T14:29:43.000Z",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/freezer-cleanup-1024x648.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
       "id": "e97fae54855e27b5",
       "guid": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
       "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",

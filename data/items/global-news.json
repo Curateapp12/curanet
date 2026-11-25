@@ -3,6 +3,116 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "da271d3859659f7e",
+      "guid": "https://globalnews.ca/?p=12166353",
+      "link": "https://globalnews.ca/news/12166353/lake-louise-skating-thin-ice-death/",
+      "title": "Banff senior falls through thin ice while skating on Lake Louise and dies",
+      "excerpt": "A 70-year-old man from Banff was skating alone near the back of Lake Louise when he fell through thin ice on Tuesday evening.",
+      "published": "2026-11-25T22:10:35.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Lake-Louise-3.jpeg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "2a8fde05d6a779c0",
+      "guid": "https://globalnews.ca/?p=12166399",
+      "link": "https://globalnews.ca/news/12166399/liberals-carney-defend-pace-bill-c-39/",
+      "title": "Liberals, Carney defend ‘brutal’ pace of committee work on major projects bill",
+      "excerpt": "The committee reviewing Bill C-39 spent more than 100 hours debating it over seven days before wrapping up on Monday.",
+      "published": "2026-11-25T21:34:59.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-e1795642363139.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "b462cfb336523a20",
+      "guid": "https://globalnews.ca/?p=12165899",
+      "link": "https://globalnews.ca/news/12165899/manitoba-possible-strike-mandate/",
+      "title": "Workers at Manitoba disability support non-profit vote for strike mandate: MGEU",
+      "excerpt": "Employees represented by the MGEU at Manitoba Possible voted in favour of a strike mandate after contract talks with its employer stalled.",
+      "published": "2026-11-25T21:23:52.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/manitoba-possible-strike-mandate-1.bmp",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "3ab798a019749652",
+      "guid": "https://globalnews.ca/?p=12166130",
+      "link": "https://globalnews.ca/news/12166130/ns-liberals-data-centre-becky-druhan/",
+      "title": "Pause on Cape Breton AI data centre needed, new Nova Scotia Liberal leader says",
+      "excerpt": "Nova Scotia's new Liberal leader is demanding stronger regulation around a planned AI data centre in Cape Breton and is calling for the premier to put the project on hold.",
+      "published": "2026-11-25T21:22:30.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/druhan_d7a119.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "61f96477b5039905",
+      "guid": "https://globalnews.ca/?p=12166316",
+      "link": "https://globalnews.ca/news/12166316/less-us-imports-in-canada-auto-sector/",
+      "title": "Canadian auto sector moving away from U.S. imports, new report shows",
+      "excerpt": "The data analysis showed that light vehicle imports from the United States have accounted for 40 per cent of Canada's total thus far in 2026 when measured by dollars.",
+      "published": "2026-11-25T20:53:56.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/cars-e1795640070704.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "7ad0e74099b027bd",
+      "guid": "https://globalnews.ca/?p=12166228",
+      "link": "https://globalnews.ca/news/12166228/nova-scotia-rcmp-recover-cockpit-recorder-ontario-air-ambulance/",
+      "title": "N.S. RCMP recovered cockpit voice recorder of downed Ontario air ambulance",
+      "excerpt": "The RCMP say their underwater recovery team in Nova Scotia played a key role in recovering evidence from an Ontario air ambulance that went down off the coast of Massachusetts.",
+      "published": "2026-11-25T20:12:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/17c9035b23b2b27673750c0c49eb0e81b8e1b103c382461f9f58878c2a357c17.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "16c3861efdbed12a",
+      "guid": "https://globalnews.ca/?p=12165888",
+      "link": "https://globalnews.ca/news/12165888/bank-of-canada-interest-rate-december-prediction/",
+      "title": "Bank of Canada expected to hike interest rate next month, economists say",
+      "excerpt": "The Bank of Canada is expected to deliver its next rate decision on Dec. 9, its last and final of 2026 after raising it 0.25 per cent in October.",
+      "published": "2026-11-25T20:08:39.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/budget-2026-cdic.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "0229feaa27760add",
+      "guid": "https://globalnews.ca/?p=12165983",
+      "link": "https://globalnews.ca/news/12165983/14-year-old-hiker-dead-another-injured-fall-california-mountain/",
+      "title": "14-year-old hiker dead, another injured after fall on California mountain",
+      "excerpt": "Police said deputies responded after receiving a report that three teenage boys were hiking Pine Mountain when two of them slipped and fell down the icy mountain.",
+      "published": "2026-11-25T20:06:24.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/hiker-dead-San-Gabriel-Mountains.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "af457f7a07b6a122",
+      "guid": "https://globalnews.ca/?p=12165477",
+      "link": "https://globalnews.ca/news/12165477/telecommunications-consumer-advocacy-group/",
+      "title": "Telecom consumer group needed to push back against ‘gouging’, advocates say",
+      "excerpt": "A consumer advocacy group is pushing for a new telecommunications consumer organization (TCO) in Canada to protect against what it calls \"gouging and abuse.\"",
+      "published": "2026-11-25T20:03:47.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP176351832-e1795634810330.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "a4e92f0cc30bf70f",
+      "guid": "https://globalnews.ca/?p=12119406",
+      "link": "https://globalnews.ca/the-curator/12119406/amazon-black-friday-deals-2026/",
+      "title": "The Curator: I shopped for the 5 best Black Friday deals in Canada–this is what I found",
+      "excerpt": "Shop the best 2026 Amazon Black Friday deals on home and kitchen essentials, including top picks from Dreame, Ninja, BISSELL and more, with savings up to 50%.",
+      "published": "2026-11-25T20:00:40.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/Frame-399-2.png",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
       "id": "5825ea2f144c6090",
       "guid": "https://globalnews.ca/?p=12164797",
       "link": "https://globalnews.ca/news/12164797/doug-ford-ontario-gambling-ads-out-of-control/",

@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "f93db714dcf20e4a",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303026/football-avenir-aaron-rodgers-steelers",
+      "link": "https://ici.radio-canada.ca/article/sports/2303026/football-avenir-aaron-rodgers-steelers",
+      "title": "Le quart Aaron Rodgers aurait été libéré par les Steelers de Pittsburgh",
+      "excerpt": "Le quart est dispensé d’entraînement avant un match contre les Broncos où il ne sera pas partant.",
+      "published": "2026-11-25T22:14:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/aaron-rodgers-14385.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "9cbda61d95d4da01",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303095/victoire-fleet-match-preparatoire-lphf",
+      "link": "https://ici.radio-canada.ca/article/sports/2303095/victoire-fleet-match-preparatoire-lphf",
+      "title": "Ljungblom se met en évidence dans un gain de la Victoire",
+      "excerpt": "Ljungblom a récolté deux buts et deux mentions d’aide contre la Fleet à Boston.",
+      "published": "2026-11-25T22:09:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/hockey-lphf-victoire-fleet-ljungblom-boston-2026.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "b7aca64105d340b5",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10818810/coupe-monde-mont-tremblant-est-annulee",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10818810/coupe-monde-mont-tremblant-est-annulee",
+      "title": "La Coupe du monde Mont-Tremblant est annulée",
+      "excerpt": "Pas de ski sans neige! La FIS a fait une croix sur Mont-Tremblant deux semaines avant la Coupe du monde de ski alpin, faute de neige…",
+      "published": "2026-11-25T22:03:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/ski-alpin-mont-tremblant-vv.png",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "dd821b989d7b9570",
+      "guid": "https://ici.radio-canada.ca/article/culture/segment/2539429/firebells-andreanne-leblanc-baseball-wpbl",
+      "link": "https://ici.radio-canada.ca/article/culture/segment/2539429/firebells-andreanne-leblanc-baseball-wpbl",
+      "title": "Baseball féminin : Andréanne Leblanc fait sa place à San Francisco",
+      "excerpt": "La québécoise a connu une excellente saison comme joueuse de premier but avec les Firebells.",
+      "published": "2026-11-25T21:52:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/baseball-feminin-ovsld-andreanne-leblanc.png",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "d8202dee9f35931f",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10818734/william-dandjinou-toujours-en-quete-excellence",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10818734/william-dandjinou-toujours-en-quete-excellence",
+      "title": "William Dandjinou toujours en quête d’excellence",
+      "excerpt": "Après avoir vécu des déceptions aux Jeux de Milan-Cortina, William Dandjinou est allé tester le patinage de vitesse sur longue piste avec un objectif en tête : devenir meilleur sur courte piste.",
+      "published": "2026-11-25T21:11:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/william-dandjinou-courte-piste-90351.png",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "07a5bf8cd7bdaf66",
+      "guid": "https://ici.radio-canada.ca/article/info/2303021/sport-motoneige-neige-shawinigan-extreme",
+      "link": "https://ici.radio-canada.ca/article/info/2303021/sport-motoneige-neige-shawinigan-extreme",
+      "title": "Du jamais vu pour le 10e anniversaire du Grand Prix Snocross Shawinigan",
+      "excerpt": "Le fameux événement de course de motoneige est de retour les 26 et 27 février prochains pour sa 8e édition.",
+      "published": "2026-11-25T18:39:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sport-motoneige-neige-shawinigan-extreme-17483.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "97c5526bbd741e8b",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302998/coupe-grey-edmonton-2028-lcf",
+      "link": "https://ici.radio-canada.ca/article/sports/2302998/coupe-grey-edmonton-2028-lcf",
+      "title": "Edmonton accueillera le match de la Coupe Grey en 2028",
+      "excerpt": "L'ultime duel de la Ligue canadienne de football se tiendra dans la capitale albertaine, pour la sixième fois.",
+      "published": "2026-11-25T17:30:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/assets/16x9/coupe-grey-edmonton-2028.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "5cbb2e7a234567cd",
+      "guid": "https://ici.radio-canada.ca/article/sports/2302973/ski-alpin-retraite-federica-brignone",
+      "link": "https://ici.radio-canada.ca/article/sports/2302973/ski-alpin-retraite-federica-brignone",
+      "title": "La grande Federica Brignone met fin à sa carrière",
+      "excerpt": "L’Italienne de 36 ans, double championne olympique de ski alpin, a des douleurs persistantes à une jambe.",
+      "published": "2026-11-25T16:33:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/federica-brignone-or-super-g-jo.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "29599d835243361d",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/tout-un-matin/segments/rattrapage/2538641/ski-fond-au-saguenay-trop-dangereux-pour-eleves",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/tout-un-matin/segments/rattrapage/2538641/ski-fond-au-saguenay-trop-dangereux-pour-eleves",
+      "title": "Le ski de fond, jugé dangereux, interdit dans une école du Lac-Saint-Jean",
+      "excerpt": "Keven Gagnon, enseignant d’éducation physique au Saguenay–Lac-Saint-Jean, dénonce la décision de la direction d’interdire le ski de fond sur les buttes du terrain de l’école pour limiter les risques. De son côté, il croit plutôt que les compagnies d’assurance ont trop de pouvoir sur la prise des…",
+      "published": "2026-11-25T12:08:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ski-enfant-hiver-activite-sports.jpg",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
       "id": "27ffff2e73f9f31f",
       "guid": "https://ici.radio-canada.ca/article/info/2302449/julien-sale-golf-rivermead-dp-world-tour",
       "link": "https://ici.radio-canada.ca/article/info/2302449/julien-sale-golf-rivermead-dp-world-tour",

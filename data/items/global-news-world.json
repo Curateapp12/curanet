@@ -3,6 +3,50 @@
   "sourceId": "global-news-world",
   "items": [
     {
+      "id": "f4e69a8c4493ac4b",
+      "guid": "https://globalnews.ca/?p=12165577",
+      "link": "https://globalnews.ca/news/12165577/prince-william-princess-catherine-break-in-sandringham-estate-2-men-charged/",
+      "title": "2 unhoused men charged in break-in at British royal estate",
+      "excerpt": "Two Albanian nationals, Mirgen Doku, 34, and Arilen Ndoci, 32, were charged with entering a dwelling with intent to steal and trespassing on a protected site.",
+      "published": "2026-11-25T18:18:06.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/GettyImages-2305059415.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "30e974fc63efd139",
+      "guid": "https://globalnews.ca/?p=12165881",
+      "link": "https://globalnews.ca/news/12165881/microsoft-code-red/",
+      "title": "Microsoft declares ‘Code Red’ following 24-hour outage: Here’s what that means",
+      "excerpt": "The Nov. 12-13 outage disrupted Exchange Online, its cloud-based email service, as well as Outlook, Teams, its Copilot AI assistant and other Microsoft 365 products.",
+      "published": "2026-11-25T17:51:35.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/07/Microsoft-Xbox-Job-Cuts.jpg-e1783444669814.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "0f1fe55064be12a5",
+      "guid": "https://globalnews.ca/?p=12163972",
+      "link": "https://globalnews.ca/news/12163972/nvidia-ceo-jensen-huang-timeline/",
+      "title": "Explainer: Nvidia CEO and ‘AI Godfather’ Jensen Huang and his ties to Trump",
+      "excerpt": "Jensen Huang has found himself at the centre of a string of extraordinary developments at Nvidia, where he is CEO, with implications reaching far beyond Wall Street.",
+      "published": "2026-11-25T17:42:55.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP177257745-e1795552478861.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "71a7c1a22ec57364",
+      "guid": "https://globalnews.ca/?p=12165469",
+      "link": "https://globalnews.ca/news/12165469/kilmar-abrego-garcia-deportation-donald-trump-spain/",
+      "title": "Kilmar Abrego Garcia voluntarily leaves the U.S., lands in Spain",
+      "excerpt": "The Department of Homeland Security said that Abrego Garcia self-deported to Spain as part of a removal order and that he didn’t receive any incentives to do so.",
+      "published": "2026-11-25T15:02:07.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/kilmar-abrego-garcia-arrives-in-spain.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
       "id": "7576cdddd84d0920",
       "guid": "https://globalnews.ca/?p=12164733",
       "link": "https://globalnews.ca/news/12164733/huawei-guilty-steal-trade-secrets-conspiracy-us-jury/",
