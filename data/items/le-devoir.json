@@ -3,6 +3,270 @@
   "sourceId": "le-devoir",
   "items": [
     {
+      "id": "7a3f57a5850a6096",
+      "guid": "https://www.ledevoir.com/sports/1028231/faute-neige-tremblant-coupe-monde-pourrait-migrer-vers-europe",
+      "link": "https://www.ledevoir.com/sports/1028231/faute-neige-tremblant-coupe-monde-pourrait-migrer-vers-europe",
+      "title": "Faute de neige à Tremblant, la Coupe du monde pourrait migrer vers l’Europe",
+      "excerpt": "Mont-Tremblant n’a ouvert que deux pistes jeudi, faute d’enneigement artificiel suffisant.",
+      "published": "2026-11-26T23:07:45.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "3ec1ec25b2dd17d6",
+      "guid": "https://www.ledevoir.com/politique/1028225/ministre-federale-immigration-ignore-cibles-quebec",
+      "link": "https://www.ledevoir.com/politique/1028225/ministre-federale-immigration-ignore-cibles-quebec",
+      "title": "La ministre fédérale de l’Immigration ignore les cibles de Québec",
+      "excerpt": "Elle a multiplié les hésitations et les rires nerveux tout au long de sa comparution devant un comité parlementaire.",
+      "published": "2026-11-26T22:57:28.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "0f4c24304b2b8508",
+      "guid": "https://www.ledevoir.com/politique/quebec/1028213/charge-fond-train-pspp-contre-avocat-lawrence-chose",
+      "link": "https://www.ledevoir.com/politique/quebec/1028213/charge-fond-train-pspp-contre-avocat-lawrence-chose",
+      "title": "Charge à fond de train de PSPP contre l’avocat «Lawrence Chose»",
+      "excerpt": "Le premier ministre du Québec est certain qu’il pourra siéger mardi comme prévu.",
+      "published": "2026-11-26T22:35:05.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "2a55258b2d0feb2c",
+      "guid": "https://www.ledevoir.com/culture/1028144/quatre-suggestions-culturelles-fin-semaine",
+      "link": "https://www.ledevoir.com/culture/1028144/quatre-suggestions-culturelles-fin-semaine",
+      "title": "Quatre suggestions culturelles pour la fin de semaine",
+      "excerpt": "«Le Devoir» vous propose quelques sorties pour le week-end du 27 au 29 novembre.",
+      "published": "2026-11-26T22:17:54.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "42518644bbe1e8e6",
+      "guid": "https://www.ledevoir.com/politique/canada/1028147/decision-attendue-vendredi-loi-21-suscite-interet-record",
+      "link": "https://www.ledevoir.com/politique/canada/1028147/decision-attendue-vendredi-loi-21-suscite-interet-record",
+      "title": "La décision attendue vendredi sur la loi 21 suscite un intérêt record",
+      "excerpt": "Jamais autant d’avocats et de journalistes ne se sont intéressés d’aussi près à une cause entendue par la Cour suprême.",
+      "published": "2026-11-26T21:37:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "38e57029904542f1",
+      "guid": "https://www.ledevoir.com/opinion/chroniques/1028141/disposition-derogation-dela-loi-21",
+      "link": "https://www.ledevoir.com/opinion/chroniques/1028141/disposition-derogation-dela-loi-21",
+      "title": "La disposition de dérogation, au-delà de la loi 21",
+      "excerpt": "En espérant que le Québec remportera son argumentaire devant la Cour suprême du Canada.",
+      "published": "2026-11-26T21:15:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "323314ebeabaf099",
+      "guid": "https://www.ledevoir.com/actualites/1028135/trois-actus-26-novembre",
+      "link": "https://www.ledevoir.com/actualites/1028135/trois-actus-26-novembre",
+      "title": "Les trois actus du 26 novembre",
+      "excerpt": "Manifestation Kraft Dinner à Montréal, un policier suspendu et violence conjugale: ce qu’il faut retenir.",
+      "published": "2026-11-26T21:11:13.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "1775bd5312ef43b3",
+      "guid": "https://www.ledevoir.com/politique/montreal/1028090/manifestation-gratinee-contre-propos-hausse-taxes-soraya-antoinette",
+      "link": "https://www.ledevoir.com/politique/montreal/1028090/manifestation-gratinee-contre-propos-hausse-taxes-soraya-antoinette",
+      "title": "Manifestation gratinée contre les propos et la hausse de taxes de «Soraya Antoinette»",
+      "excerpt": "Kraft Dinner à la main, des centaines de personnes se sont insurgées jeudi midi devant l’hôtel de ville de Montréal.",
+      "published": "2026-11-26T20:32:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "dc37bbe2f06e6170",
+      "guid": "https://www.ledevoir.com/actualites/1028072/incendie-saint-mathieu-beloeil-affecte-municipalites-environnantes",
+      "link": "https://www.ledevoir.com/actualites/1028072/incendie-saint-mathieu-beloeil-affecte-municipalites-environnantes",
+      "title": "Levée des mesures préventives en lien avec un incendie à Saint-Mathieu-de-Beloeil",
+      "excerpt": "Celui-ci s’est déclaré dans une usine de recyclage de métaux et a provoqué un important panache de fumée dans la ville.",
+      "published": "2026-11-26T20:07:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "50496efdfc9ca5e4",
+      "guid": "https://www.ledevoir.com/economie/1028066/entreprise-beauceronne-prevost-met-monde-premier-autocar-electrique",
+      "link": "https://www.ledevoir.com/economie/1028066/entreprise-beauceronne-prevost-met-monde-premier-autocar-electrique",
+      "title": "L’entreprise Prevost met au monde son premier autocar électrique",
+      "excerpt": "Entièrement fabriqué au Québec, le véhicule de 52 places aura une autonomie de 400 km.",
+      "published": "2026-11-26T20:05:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "50a73a3942c5e81c",
+      "guid": "https://www.ledevoir.com/actualites/justice/1028063/giovanni-apollo-est-cite-proces-crimes-sexuels-fille",
+      "link": "https://www.ledevoir.com/actualites/justice/1028063/giovanni-apollo-est-cite-proces-crimes-sexuels-fille",
+      "title": "Giovanni Apollo est cité à procès pour crimes sexuels sur sa fille",
+      "excerpt": "Le chef cuisinier fait l’objet de deux chefs d’accusation supplémentaires à l’issue de l’enquête préliminaire.",
+      "published": "2026-11-26T20:03:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "dbb7ee71845bd342",
+      "guid": "https://www.ledevoir.com/economie/techno/1028033/comment-peut-on-estimer-probabilite-ia-detruise-humain",
+      "link": "https://www.ledevoir.com/economie/techno/1028033/comment-peut-on-estimer-probabilite-ia-detruise-humain",
+      "title": "Comment peut-on estimer la probabilité que l’IA détruise l’humain?",
+      "excerpt": "Ces derniers mois, toutes sortes de chiffres ont circulé: 0,1 %, 10 % et même 100 %.",
+      "published": "2026-11-26T19:36:04.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "b225b85444fc96cf",
+      "guid": "https://www.ledevoir.com/actualites/1028027/autre-policier-spvm-suspendu-cette-fois-poste-quartier-centre-ville",
+      "link": "https://www.ledevoir.com/actualites/1028027/autre-policier-spvm-suspendu-cette-fois-poste-quartier-centre-ville",
+      "title": "Un autre policier du SPVM suspendu, cette fois d’un poste de quartier du centre-ville",
+      "excerpt": "Cela fait suite à «des allégations de comportements inappropriés envers une personne vulnérable».",
+      "published": "2026-11-26T19:17:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "04cf638b46429e2a",
+      "guid": "https://www.ledevoir.com/politique/quebec/1028012/suicides-victimes-violence-conjugale-devraient-etre-priorite-dit-plq",
+      "link": "https://www.ledevoir.com/politique/quebec/1028012/suicides-victimes-violence-conjugale-devraient-etre-priorite-dit-plq",
+      "title": "Les suicides de victimes de violence conjugale devraient être une «priorité», dit le PLQ",
+      "excerpt": "La ministre responsable de la Condition féminine juge «préoccupants» les chiffres révélés par l’enquête du «Devoir».",
+      "published": "2026-11-26T19:01:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "6c1e1cf0612c7dea",
+      "guid": "https://www.ledevoir.com/actualites/education/1028009/projet-pilote-uqtr-donne-espoir-enseignants-non-legalement-qualifies",
+      "link": "https://www.ledevoir.com/actualites/education/1028009/projet-pilote-uqtr-donne-espoir-enseignants-non-legalement-qualifies",
+      "title": "Un projet pilote de l’UQTR donne de l’espoir à des enseignants non légalement qualifiés",
+      "excerpt": "Des dizaines d’entre eux ont entamé un baccalauréat unique en son genre tout en continuant d’enseigner à temps plein.",
+      "published": "2026-11-26T19:00:39.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "c07de44a71918350",
+      "guid": "https://www.ledevoir.com/economie/1028006/salaries-administration-quebecoise-retard-20-ceux-municipal",
+      "link": "https://www.ledevoir.com/economie/1028006/salaries-administration-quebecoise-retard-20-ceux-municipal",
+      "title": "Les salariés de l’administration québécoise en retard de 20% sur ceux du municipal",
+      "excerpt": "Selon l’ISQ, le retard est encore plus marqué si l’on tient compte du régime de retraite, des assurances et des congés.",
+      "published": "2026-11-26T18:55:01.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "6f8661d68c1b167f",
+      "guid": "https://www.ledevoir.com/actualites/1028000/comment-mangez-vous-votre-kraft-dinner",
+      "link": "https://www.ledevoir.com/actualites/1028000/comment-mangez-vous-votre-kraft-dinner",
+      "title": "Comment mangez-vous votre Kraft Dinner?",
+      "excerpt": "Le récent commentaire de la mairesse de Montréal vous a donné envie de manger ce plat de pâtes fromagées? Écrivez-nous!",
+      "published": "2026-11-26T18:49:03.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "744fa5f249002c38",
+      "guid": "https://www.ledevoir.com/economie/techno/1027997/spacex-autorise-lancer-million-satellites-centres-donnees",
+      "link": "https://www.ledevoir.com/economie/techno/1027997/spacex-autorise-lancer-million-satellites-centres-donnees",
+      "title": "SpaceX autorisé à lancer un million de satellites pour ses centres de données",
+      "excerpt": "Des experts s’inquiètent des potentiels impacts sur la vie quotidienne et l’observation de la voûte céleste.",
+      "published": "2026-11-26T18:48:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "3488d0f4a3274533",
+      "guid": "https://www.ledevoir.com/economie/consommation/1027973/petite-histoire-kraft-dinner",
+      "link": "https://www.ledevoir.com/economie/consommation/1027973/petite-histoire-kraft-dinner",
+      "title": "La petite histoire du Kraft Dinner",
+      "excerpt": "Ces pâtes fromagées sont au premier plan du zeitgeist québécois depuis le commentaire de Soraya Martinez Ferrada.",
+      "published": "2026-11-26T17:57:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "0e51c3b9153e6def",
+      "guid": "https://www.ledevoir.com/politique/quebec/1027970/marceau-assure-il-aidera-municipalites-entretenir-infrastructures",
+      "link": "https://www.ledevoir.com/politique/quebec/1027970/marceau-assure-il-aidera-municipalites-entretenir-infrastructures",
+      "title": "Québec veut aider les villes à payer leurs infrastructures",
+      "excerpt": "Les «bons élèves» seront récompensés, a dit le premier ministre, Paul St-Pierre Plamondon, jeudi.",
+      "published": "2026-11-26T17:47:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "529337d4fcd6eb10",
+      "guid": "https://www.ledevoir.com/actualites/1027964/il-pourrait-y-avoir-pluie-verglacante-grande-partie-quebec-vendredi-matin",
+      "link": "https://www.ledevoir.com/actualites/1027964/il-pourrait-y-avoir-pluie-verglacante-grande-partie-quebec-vendredi-matin",
+      "title": "Il pourrait y avoir de la pluie verglaçante dans une grande partie du Québec vendredi matin",
+      "excerpt": "L’est du Québec est visé par une alerte jaune, la vallée du Saint-Laurent par un simple «bulletin météorologique spécial».",
+      "published": "2026-11-26T17:24:31.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "5f8ea91faa870147",
+      "guid": "https://www.ledevoir.com/monde/europe/1027934/nouveaux-elements-compromettants-bardella-publies-monde-mediapart",
+      "link": "https://www.ledevoir.com/monde/europe/1027934/nouveaux-elements-compromettants-bardella-publies-monde-mediapart",
+      "title": "De nouveaux éléments compromettants pour Bardella publiés par «Le Monde» et «Mediapart»",
+      "excerpt": "Un ancien camarade de lycée a décidé de divulguer des messages pour ne «pas le laisser mentir à la France».",
+      "published": "2026-11-26T16:58:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "a06b8b71b44beb59",
+      "guid": "https://www.ledevoir.com/lire/1027919/sylvie-laniel-remporte-prix-litteraire-janette-bertrand",
+      "link": "https://www.ledevoir.com/lire/1027919/sylvie-laniel-remporte-prix-litteraire-janette-bertrand",
+      "title": "Sylvie Laniel remporte le Prix littéraire Janette-Bertrand",
+      "excerpt": "L’autrice obtient cette récompense pour son livre «Longtemps».",
+      "published": "2026-11-26T16:28:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "bd681b0bfed6df7e",
+      "guid": "https://www.ledevoir.com/culture/musique/1027883/bonheur-tandem-dunford-desandre-festival-bach-montreal",
+      "link": "https://www.ledevoir.com/culture/musique/1027883/bonheur-tandem-dunford-desandre-festival-bach-montreal",
+      "title": "Le bonheur du tandem Dunford-Desandre au Festival Bach de Montréal",
+      "excerpt": "L’Ensemble Jupiter en roue libre a ravi les festivaliers, mercredi soir, avec un programme rodé.",
+      "published": "2026-11-26T14:06:00.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
       "id": "32a41fea17b3a5ea",
       "guid": "https://www.ledevoir.com/actualites/sante/1027880/fiq-saisir-tribunal-membres-aient-acces-eau-potable-puvirnituq",
       "link": "https://www.ledevoir.com/actualites/sante/1027880/fiq-saisir-tribunal-membres-aient-acces-eau-potable-puvirnituq",
@@ -23420,17 +23684,6 @@
       "thumbnail": null,
       "type": "article",
       "addedAt": "2026-10-05T23:58:13.599Z"
-    },
-    {
-      "id": "29b53862dc848079",
-      "guid": "https://www.ledevoir.com/culture/ecrans/1004840/journee-j-achete-jeu-video-quebecois-verra-jour-14-novembre",
-      "link": "https://www.ledevoir.com/culture/ecrans/1004840/journee-j-achete-jeu-video-quebecois-verra-jour-14-novembre",
-      "title": "Une journée «J’achète un jeu vidéo québécois» verra le jour le 14 novembre",
-      "excerpt": "Cette nouvelle initiative vise à «valoriser l’industrie québécoise du jeu vidéo auprès du grand public».",
-      "published": "2026-08-28T17:44:00.000Z",
-      "thumbnail": null,
-      "type": "article",
-      "addedAt": "2026-11-15T01:53:16.180Z"
     }
   ]
 }

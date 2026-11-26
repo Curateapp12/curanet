@@ -3,6 +3,105 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "9bc0a07fe22ffd81",
+      "guid": "https://ici.radio-canada.ca/article/info/2303276/coupe-grey-vancouver-2029",
+      "link": "https://ici.radio-canada.ca/article/info/2303276/coupe-grey-vancouver-2029",
+      "title": "Vancouver accueillera la 116e Coupe Grey en 2029",
+      "excerpt": "Le match se jouera le 9 novembre 2029 au stade BC Place.",
+      "published": "2026-11-26T23:35:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/coupe-grey-vancouver-2029.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "30a12cd0bb8eb04c",
+      "guid": "https://ici.radio-canada.ca/article/info/2303330/coupe-vanier-quebec-carabins-mustangs",
+      "link": "https://ici.radio-canada.ca/article/info/2303330/coupe-vanier-quebec-carabins-mustangs",
+      "title": "Coupe Vanier : Côté et les Mustangs auront-ils la ville de Québec derrière eux?",
+      "excerpt": "Plusieurs amateurs du Rouge et Or risquent de se ranger derrière les champions ontariens face aux Carabins.",
+      "published": "2026-11-26T22:24:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/philippe-cote-mustangs-western.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "8a5b5d6cb35ef789",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303356/bears-lions-chiefs-bills-eagles-cowboys-nfl",
+      "link": "https://ici.radio-canada.ca/article/sports/2303356/bears-lions-chiefs-bills-eagles-cowboys-nfl",
+      "title": "Les Bears marquent un touché à la toute fin et défont les Lions",
+      "excerpt": "Caleb Williams a lancé une passe de touché décisive de six verges vers Rome Odunze avec trois secondes à écouler pour donner aux Bears de Chicago leur première avance du match, jeudi, dans un gain de 39-35 contre les Lions de Detroit, jeudi.",
+      "published": "2026-11-26T22:15:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/caleb-williams-29767.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "7a44a7204486c347",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303340/alexander-zverev-allemagne-coupe-davis",
+      "link": "https://ici.radio-canada.ca/article/sports/2303340/alexander-zverev-allemagne-coupe-davis",
+      "title": "Alexander Zverev et l’Allemagne sont éliminés en Coupe Davis",
+      "excerpt": "Fin de saison pour le no 1 mondial, qui a remporté deux titres du grand chelem en 2026.",
+      "published": "2026-11-26T22:06:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/alexander-zverev-coupe-davis-allemagne.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "ac07f71711ec94b7",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10819697/un-nouveau-lanceur-pour-jays",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10819697/un-nouveau-lanceur-pour-jays",
+      "title": "Un nouveau lanceur pour les Jays",
+      "excerpt": "Les Jays ont mis sous contrat Kaima Taira, un partant japonais de 27 ans qui a dominé les Ligues majeures japonaises en 2026.",
+      "published": "2026-11-26T20:14:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/generateur-images/16x9/kaima-taira-baseball.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "6182cff843bca9c8",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10819600/amina-storozhuk-entre-resilience-et-espoir",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10819600/amina-storozhuk-entre-resilience-et-espoir",
+      "title": "Amina Storozhuk, entre résilience et espoir",
+      "excerpt": "Après avoir fui la guerre dans son Ukraine natale, Amina Storozhuk est arrivée au Canada avec l’espoir de poursuivre son rêve d’atteindre le plus haut niveau en patinage de vitesse sur courte piste.",
+      "published": "2026-11-26T18:45:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/courte-piste-vv-amina-storozhuk-ukraine.png",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "34fc917aca89a359",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10819573/staff-derriere-equipe-canadienne-patinage-sur-courte-piste",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10819573/staff-derriere-equipe-canadienne-patinage-sur-courte-piste",
+      "title": "Le staff derrière l’équipe canadienne de patinage sur courte piste",
+      "excerpt": "Découvrez l’équipe de préparateurs, d’entraîneurs et de techniciens qui permettent aux patineurs de vitesse canadiens de briller sur la glace.",
+      "published": "2026-11-26T18:17:29.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/courte-piste-vv-entraineurs.png",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "0a1997a6dc7c52f6",
+      "guid": "https://ici.radio-canada.ca/article/sports/2299036/systeme-sportif-quebecois-pierre-lavoie",
+      "link": "https://ici.radio-canada.ca/article/sports/2299036/systeme-sportif-quebecois-pierre-lavoie",
+      "title": "Après les élections, l’effort pour remodeler le système sportif québécois continue",
+      "excerpt": "Il faut réussir la transition entre bouger à l’école et continuer de bouger à l'âge adulte, dit Pierre Lavoie.",
+      "published": "2026-11-26T17:08:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/pierre-lavoie-21402.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "192b24d55aa7a929",
+      "guid": "https://ici.radio-canada.ca/videos/1-10819338/match-coupe-grey-a-edmonton-en-2028",
+      "link": "https://ici.radio-canada.ca/videos/1-10819338/match-coupe-grey-a-edmonton-en-2028",
+      "title": "Le match de la Coupe Grey à Edmonton en 2028",
+      "excerpt": "Pour la sixième fois de son histoire, la ville d'Edmonton sera l'hôte du match de la Coupe Grey. Le match de la 115e finale de la Ligue canadienne de football sera en effet présenté au Stade du Commonwealth le 5 novembre 2028. Patrick Henri et Manuel Carillos Avalos.",
+      "published": "2026-11-26T15:39:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/commonwealth-stadium-edmonton-grey-cup.png",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
       "id": "fa74ad22da0a18b3",
       "guid": "https://ici.radio-canada.ca/article/info/2303172/ryan-dinwiddie-rouge-et-noir-ottawa-lcf",
       "link": "https://ici.radio-canada.ca/article/info/2303172/ryan-dinwiddie-rouge-et-noir-ottawa-lcf",

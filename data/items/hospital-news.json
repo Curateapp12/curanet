@@ -3,6 +3,116 @@
   "sourceId": "hospital-news",
   "items": [
     {
+      "id": "35479c15daf2999c",
+      "guid": "https://www.hospitalnews.com/?p=147047",
+      "link": "https://www.hospitalnews.com/heart-in-a-dish-paves-way-for-personalized-treatment-for-heart-failure/",
+      "title": "‘Heart-in-a-dish’ paves way for personalized treatment for heart failure",
+      "excerpt": "McGill researchers have developed a new way to study why the same heart-failure treatment can help some patients recover while others continue to get worse. Combining “heart-in-a-dish” technology with advanced microscopy, the approach makes it possible to identify differences between patients that…",
+      "published": "2026-11-26T20:47:10.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "9f1ba37d2a89f525",
+      "guid": "https://www.hospitalnews.com/?p=147043",
+      "link": "https://www.hospitalnews.com/substance-use-mental-health-and-respiratory-infections-shifting-burden-of-disease-in-canada/",
+      "title": "Substance use, mental health, and respiratory infections shifting burden of disease in Canada",
+      "excerpt": "HN Summary • Cancer, cardiovascular disease, musculoskeletal disorders and unintentional injuries accounted for half of Canada’s health loss in 2023, a CMAJ analysis found. • From 2010 to 2023, health loss rose by 90 per cent for substance use disorders and 67 per cent for respiratory infections…",
+      "published": "2026-11-26T20:42:27.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "32002a9a7181d249",
+      "guid": "https://www.hospitalnews.com/?p=147039",
+      "link": "https://www.hospitalnews.com/canadian-health-care-in-2026-the-advances-that-changed-hospital-care/",
+      "title": "Canadian health care in 2026: The advances that changed hospital care",
+      "excerpt": "From donor organs kept viable outside the body to AI-guided cardiac testing, this year’s Hospital News coverage showed how new tools can change who gets care, where they receive it and how long they wait. In 2027, the question is how far those gains can reach. When Alberta veterinarian David…",
+      "published": "2026-11-26T20:39:24.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "6c8d78f528af23e2",
+      "guid": "https://www.hospitalnews.com/?p=147034",
+      "link": "https://www.hospitalnews.com/an-aging-population-is-changing-what-canadian-healthcare-needs-to-deliver/",
+      "title": "An aging population is changing what Canadian healthcare needs to deliver",
+      "excerpt": "HN Summary • Canada’s aging population is increasing demand for coordinated care for older adults living with dementia, frailty and multiple chronic conditions. • Baycrest’s virtual behavioural consultations and the PROMPT-LTC trial show how specialist advice and on-site testing can support care…",
+      "published": "2026-11-26T20:35:26.000Z",
+      "thumbnail": "https://www.hospitalnews.com/wp-content/uploads/2026/11/Baycrest.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "fc859988fcd92911",
+      "guid": "https://www.hospitalnews.com/?p=147030",
+      "link": "https://www.hospitalnews.com/lessons-senior-living-can-teach-healthcare/",
+      "title": "Lessons senior living can teach healthcare",
+      "excerpt": "HN Summary • Knowing a resident’s life story helps care teams recognize the skills, interests and roles that still matter to them. • Respecting the dignity of risk means balancing safety with an older adult’s right to make choices and pursue meaningful activities. • Everyday relationships build…",
+      "published": "2026-11-26T20:29:58.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "bafa6d7659e88125",
+      "guid": "https://www.hospitalnews.com/?p=147024",
+      "link": "https://www.hospitalnews.com/changing-the-landscape-of-medicine-the-jim-pattison-medical-campus/",
+      "title": "Changing the landscape of medicine: The Jim Pattison Medical Campus",
+      "excerpt": "HN Summary • Vancouver’s new St. Paul’s Hospital is set to open in early 2027 with private inpatient rooms, more operating rooms and a four-zone emergency department that includes a dedicated mental health area. • A care coordination centre will support teams from admission through discharge…",
+      "published": "2026-11-26T20:16:54.000Z",
+      "thumbnail": "https://www.hospitalnews.com/wp-content/uploads/2026/11/St-Pauls-2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "e48543f22e60e75e",
+      "guid": "https://www.hospitalnews.com/?p=147020",
+      "link": "https://www.hospitalnews.com/specialized-palliative-care-program-on-their-own-terms/",
+      "title": "Specialized palliative care program: On their own terms",
+      "excerpt": "HN Summary • Humber River Health’s Hospice@Home program helps patients spend their final days where they choose, arranging equipment, clinical care and 24-hour nursing support before discharge. • With the program’s support, Alberto Arcuri was able to die at home with his wife, as he wished…",
+      "published": "2026-11-26T20:15:16.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "e7ba1495a54761df",
+      "guid": "https://www.hospitalnews.com/?p=147015",
+      "link": "https://www.hospitalnews.com/health-innovation-for-all-conference-reimagines-equitable-care/",
+      "title": "Health Innovation for All conference reimagines equitable care",
+      "excerpt": "HN Summary • Hamilton Health Sciences’ third annual Health Innovation for All conference drew nearly 200 participants to explore ways to make care more equitable. • Presenters showcased a social prescribing program that connects families with YMCA activities and infrared technology that makes…",
+      "published": "2026-11-26T20:09:59.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "6ab70004a77d7463",
+      "guid": "https://www.hospitalnews.com/?p=147010",
+      "link": "https://www.hospitalnews.com/wait-times-and-workforce-advocating-for-mrts/",
+      "title": "Wait Times and Workforce: Advocating for MRTs",
+      "excerpt": "Medical imaging is essential to an accessible, well-supported healthcare system. Medical radiation technologists (MRTs) are its largest workforce, caring for patients at some of the most critical moments of their lives. The Canadian Association of Medical Radiation Technologists (CAMRT) represents…",
+      "published": "2026-11-26T20:03:25.000Z",
+      "thumbnail": "https://www.hospitalnews.com/wp-content/uploads/2026/11/header_logo-2.png",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "a2544b4a53a2ee30",
+      "guid": "https://www.hospitalnews.com/?p=147006",
+      "link": "https://www.hospitalnews.com/back-on-his-feet-inside-saint-johns-robotic-spine-surgery-program/",
+      "title": "Back on his feet: Inside Saint John’s robotic spine surgery program",
+      "excerpt": "HN Summary • Saint John Regional Hospital completed its first nine robotic spine surgeries by Nov. 4, expanding access to complex spine care in New Brunswick. • Bill McKinney, one of the program’s first patients, was walking two kilometres a day with a walker less than two weeks after a double…",
+      "published": "2026-11-26T19:58:01.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
       "id": "504a7d6b374a37e8",
       "guid": "https://www.hospitalnews.com/?p=146916",
       "link": "https://www.hospitalnews.com/virtual-physicians-help-prevent-71-of-potential-rural-er-disruptions-in-alberta/",

@@ -3,6 +3,72 @@
   "sourceId": "la-presse-arts",
   "items": [
     {
+      "id": "a69b4cb565c5cb3e",
+      "guid": "cd6a49d0a0373aa1bd230c3a4fb4a334",
+      "link": "https://www.lapresse.ca/arts/quoi-regarder/2026-11-26/plateformes/dix-series-a-voir-des-maintenant.php",
+      "title": "Plateformes | Dix séries à voir dès maintenant",
+      "excerpt": "Vous errez de plateforme en plateforme sans jamais arrêter votre choix ? La Presse a peut-être la solution. Voici 10 titres actuellement offerts en ligne dont tout le monde parle (ou presque).",
+      "published": "2026-11-26T23:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/16d8791ca524382bb058b3c59acac1a2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "bee54d1ba9e9731d",
+      "guid": "b3d13e4fb2eb36e581ed340129b3c733",
+      "link": "https://www.lapresse.ca/arts/musique/2026-11-26/etude-de-l-uqam/les-musiques-du-monde-quebecoises-marginalisees.php",
+      "title": "Étude de l’UQAM | Les « musiques du monde » québécoises marginalisées",
+      "excerpt": "Alors que la musique québécoise francophone peine à attirer l’attention sur les plateformes de diffusion en ligne, une étude de l’UQAM et des Productions Nuits d’Afrique constate que c’est encore pire pour les « musiques du monde » faites par des artistes d’ici. Ce répertoire ne récolte même pas…",
+      "published": "2026-11-26T18:40:58.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/d74e069437f8388f95fc82442eebd70a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "1eecee1f0e74c71d",
+      "guid": "378a0fbb9f7a3d4d835a1e1dca16a20d",
+      "link": "https://www.lapresse.ca/arts/television/2026-11-26/tele-quebec/deballer-le-cine-cadeau-nouveau.php",
+      "title": "Télé-Québec | Déballer le Ciné-Cadeau nouveau",
+      "excerpt": "Noël approche et c’est l’heure de déballer un premier présent : la programmation annuelle de Ciné-Cadeau. Un classique parmi les classiques, Astérix et Cléopâtre, est au menu de la journée inaugurale, le 5 décembre.",
+      "published": "2026-11-26T16:17:03.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/618f3c4e/aace595db2043368b8f085882554dc38.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "197385f87407eaac",
+      "guid": "782c0eba3b2e3793952f3600e6e3711a",
+      "link": "https://www.lapresse.ca/arts/theatre/2026-11-26/echos-de-scene/d-autres-spectacles-a-l-affiche-en-novembre-et-decembre.php",
+      "title": "Échos de scène | D’autres spectacles à l’affiche en novembre et décembre",
+      "excerpt": "",
+      "published": "2026-11-26T16:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/1ad91c8977f239d0bd909df9064bbc1a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "dd72cb96b7462181",
+      "guid": "662773ef98ea3e1a96c9193c8397c63e",
+      "link": "https://www.lapresse.ca/arts/sortir/2026-11-26/rendez-vous-hebdomadaire/des-suggestions-pour-vos-sorties-culturelles.php",
+      "title": "Rendez-vous hebdomadaire | Des suggestions pour vos sorties culturelles",
+      "excerpt": "Voici votre rendez-vous du jeudi consacré aux arts de la scène et aux arts visuels. Suivez le guide.",
+      "published": "2026-11-26T16:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/1b83e1bb80463cc99c80d4da5a7fdce5.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "5aa7ee5072865bb5",
+      "guid": "a5b5fc540e583377802ce252f6882b3c",
+      "link": "https://www.lapresse.ca/arts/spectacles/2026-11-26/a-corps-vins/assemblage-vin-et-danse.php",
+      "title": "À corps & vins | Assemblage vin et danse",
+      "excerpt": "Le spectacle À corps & vins est une formule hybride entre une dégustation classique et la danse contemporaine, mais avec cette variable originale : on s’inspire des caractéristiques du vin pour créer les mouvements.",
+      "published": "2026-11-26T15:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/a1c1f45c51723121b7c85cef7b87bc54.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
       "id": "40abca98db55f673",
       "guid": "4cf72789473832f5b44e1a4ebe5b7182",
       "link": "https://www.lapresse.ca/arts/humour/2026-11-26/mieux-vaut-en-rire/le-cauchemar-de-pierre-verville-en-premiere-partie-de-celine-dion.php",

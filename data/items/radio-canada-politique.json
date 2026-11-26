@@ -3,6 +3,259 @@
   "sourceId": "radio-canada-politique",
   "items": [
     {
+      "id": "ee9a56f70298690d",
+      "guid": "https://ici.radio-canada.ca/article/info/2303375/budget-2027-mrc-temiscamingue-depenses",
+      "link": "https://ici.radio-canada.ca/article/info/2303375/budget-2027-mrc-temiscamingue-depenses",
+      "title": "Un budget en baisse de 9,9 % à la MRC de Témiscamingue",
+      "excerpt": "La MRC de Témiscamingue a adopté un budget de 16,06 M$ pour 2027, en baisse de 1,76 M$.",
+      "published": "2026-11-26T23:27:21.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mrc-temiscamingue-siege-administratif.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "84d27241c7c0b463",
+      "guid": "https://ici.radio-canada.ca/article/info/2303234/agrandissement-construction-itaq-lapocatiere-financement-quebec",
+      "link": "https://ici.radio-canada.ca/article/info/2303234/agrandissement-construction-itaq-lapocatiere-financement-quebec",
+      "title": "Québec octroie plus de 11 M$ pour moderniser la ferme-école Lapokita",
+      "excerpt": "Le financement permettra notamment la mise aux normes des installations de production laitière.",
+      "published": "2026-11-26T23:12:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ferme-ecole-batiments-la-pocatiere-itaq.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "50e8dc69e2aada7b",
+      "guid": "https://ici.radio-canada.ca/article/info/2303366/cour-supreme-ceinture-verdure-ontario",
+      "link": "https://ici.radio-canada.ca/article/info/2303366/cour-supreme-ceinture-verdure-ontario",
+      "title": "Ceinture de verdure : la Cour suprême entendra la contestation d’un promoteur",
+      "excerpt": "Des terrains de Minotar Holdings Inc. auraient été englobés par erreur dans la Ceinture de verdure.",
+      "published": "2026-11-26T23:00:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ceinture-verdure-terres-toronto.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "4a49b0692d204e15",
+      "guid": "https://ici.radio-canada.ca/article/info/2303344/infratructures-municipales-financement-quebec-villes",
+      "link": "https://ici.radio-canada.ca/article/info/2303344/infratructures-municipales-financement-quebec-villes",
+      "title": "Infrastructures municipales : le PQ ne veut pas « pénaliser les bons élèves »",
+      "excerpt": "PSPP s’éloigne d’une des recommandations du rapport cosigné par Monique Jérôme-Forget et Nicolas Marceau.",
+      "published": "2026-11-26T22:51:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/fuite-la-tuque-canalisation-panne-eau.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "b3e8268a01f08aa0",
+      "guid": "https://ici.radio-canada.ca/article/info/2303339/symmes-travaux-ville-jugement-patrimonial",
+      "link": "https://ici.radio-canada.ca/article/info/2303339/symmes-travaux-ville-jugement-patrimonial",
+      "title": "Gatineau intervient pour sécuriser une maison patrimoniale laissée à l’abandon",
+      "excerpt": "La Cour supérieure a autorisé la Ville à intervenir au 87, rue Symmes vu son état de dégradation avancé.",
+      "published": "2026-11-26T22:38:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/maison-patrimoniale-87-symmes-aylmer.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "0dde8e8f1fd9f083",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10819851/intimidation-mairesse-rosemere-veut-faire-changer-loi",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10819851/intimidation-mairesse-rosemere-veut-faire-changer-loi",
+      "title": "Intimidation : la mairesse de Rosemère veut faire changer la loi",
+      "excerpt": "La mairesse de Rosemère lance un cri du cœur après être tombée face à face avec une personne qu’elle croyait interdite de contact. Les conditions de l’individu avaient été levées, sans l’en avertir.",
+      "published": "2026-11-26T22:20:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/marie-elaine-pitre-mairesse-rosemere.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "5bf1894da3354b07",
+      "guid": "https://ici.radio-canada.ca/article/info/2303292/conseils-gel-tuyaux-froid-toronto",
+      "link": "https://ici.radio-canada.ca/article/info/2303292/conseils-gel-tuyaux-froid-toronto",
+      "title": "Froid extrême : les bons réflexes pour empêcher vos tuyaux de geler",
+      "excerpt": "Les dégâts causés par le gel de la plomberie peuvent être immenses et très coûteux, prévient Toronto.",
+      "published": "2026-11-26T22:06:12.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/froid-glacial-plombier-bris-tuyau.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "52c4cf66b30b71a5",
+      "guid": "https://ici.radio-canada.ca/article/info/2303316/gaza-etudiant-permis-etudes-alberta",
+      "link": "https://ici.radio-canada.ca/article/info/2303316/gaza-etudiant-permis-etudes-alberta",
+      "title": "Un jeune Gazaoui intégrera l’Université de l’Alberta grâce à une Canado-Israélienne",
+      "excerpt": "Après 18 mois de procédures, Housam Abouelreish a obtenu son permis d’études.",
+      "published": "2026-11-26T22:04:07.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/assets/16x9/palestine-alberta-immigration.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "bd201df9ef57ef8b",
+      "guid": "https://ici.radio-canada.ca/article/info/2303322/mark-carney-yorkton-elections-partielles",
+      "link": "https://ici.radio-canada.ca/article/info/2303322/mark-carney-yorkton-elections-partielles",
+      "title": "Mark Carney de passage à Yorkton à l’approche des élections partielles",
+      "excerpt": "Les Saskatchewanais de Yorkton–Melville sont appelés aux urnes le 7 décembre",
+      "published": "2026-11-26T21:22:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/aaron-kienle-mark-carney-yorkton-60463.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "cf126d6caab1d72e",
+      "guid": "https://ici.radio-canada.ca/article/info/2303329/boralex-antoine-tardif-mrc-arthabaska",
+      "link": "https://ici.radio-canada.ca/article/info/2303329/boralex-antoine-tardif-mrc-arthabaska",
+      "title": "La nomination d’Antoine Tardif suscite un malaise à la MRC d’Arthabaska",
+      "excerpt": "L’ancien maire de Victoriaville est maintenant lobbyiste pour Boralex.",
+      "published": "2026-11-26T21:20:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/maire-victoriaville.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "5f03e8af716230cc",
+      "guid": "https://ici.radio-canada.ca/article/info/2303313/controverse-histoire-innue-labrador-jodie-ashini",
+      "link": "https://ici.radio-canada.ca/article/info/2303313/controverse-histoire-innue-labrador-jodie-ashini",
+      "title": "T.-N.-L reconnaît l’ancienneté de la présence innue et présente ses excuses",
+      "excerpt": "Après des mois de controverse, le premier ministre reconnaît l'histoire ancestrale des Innus au Labrador.",
+      "published": "2026-11-26T20:34:20.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jodie-ashini-36857.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "34e7465fe40859c2",
+      "guid": "https://ici.radio-canada.ca/article/info/2303287/hausse-taxes-foncieres-saskatoon-municipal",
+      "link": "https://ici.radio-canada.ca/article/info/2303287/hausse-taxes-foncieres-saskatoon-municipal",
+      "title": "Hausse des taxes foncières de 5,26 % à Saskatoon pour 2027",
+      "excerpt": "Il s'agit d'une hausse de taxe inférieure à celle de 6,7 % qui a été enregistrée en 2026.",
+      "published": "2026-11-26T19:52:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/conseil-municipal-saskatoon-39950.png",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "a45b0781f356adcb",
+      "guid": "https://ici.radio-canada.ca/article/info/2303256/prefet-mrc-bellechasse-demissionne",
+      "link": "https://ici.radio-canada.ca/article/info/2303256/prefet-mrc-bellechasse-demissionne",
+      "title": "Le préfet de la MRC de Bellechasse démissionne",
+      "excerpt": "Une élection pour lui trouver le remplaçant de Luc Dion aura lieu lors du conseil de décembre.",
+      "published": "2026-11-26T19:40:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/luc-dion-bellechasse.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "f67daed12d1cb518",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10819611/solitude-est-aussi-nocive-que-15-cigarettes-par-jour",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10819611/solitude-est-aussi-nocive-que-15-cigarettes-par-jour",
+      "title": "La solitude est aussi nocive que 15 cigarettes par jour",
+      "excerpt": "La solitude touche aujourd’hui plus les jeunes que les personnes aînées. Véronique Hivon et le réalisateur Mathieu Fournier proposent des gestes simples pour briser l’isolement.",
+      "published": "2026-11-26T19:05:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/veronique-hivon-solitude-isolement-documentaire-37210.png",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "4f0d67cc4c5389b0",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-18013/taxe-municipale-longueuil-montreal-infrastructure",
+      "link": "https://ici.radio-canada.ca/en-bref/90-18013/taxe-municipale-longueuil-montreal-infrastructure",
+      "title": "Après Montréal, une nouvelle taxe à Longueuil",
+      "excerpt": "Longueuil s’inspire de Montréal et va instaurer une nouvelle taxe pour financer les infrastructures, qui connaissent un déficit d'entretien important.",
+      "published": "2026-11-26T18:45:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/le-service-de-police-de-lagglomeration-de-longueuil-spal-tiendra-une-conference-de-presse-afin-daborder-la-violence-chez-les-jeunes-sur-la-photo-gauche-a-droite-e-directeur-du-spal-monsieur-patr-37774.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "afba0e9c8fcf974d",
+      "guid": "https://ici.radio-canada.ca/article/info/2303208/loi-blocages-occupations-illegales-manifestations",
+      "link": "https://ici.radio-canada.ca/article/info/2303208/loi-blocages-occupations-illegales-manifestations",
+      "title": "La province veut protéger les infrastructures jugées essentielles contre les blocages",
+      "excerpt": "La loi prévoit des amendes de 25 000 $ pour les particuliers et de 200 000 $ pour les entreprises.",
+      "published": "2026-11-26T18:12:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/intelligence-artificielle-manifestation-regina.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "970ad4fd928931e8",
+      "guid": "https://ici.radio-canada.ca/ohdio/balados/13872/le-radar-politique-de-veronique-prince/1292128/le-modele-quebecois-et-le-mur-des-finances-publiques",
+      "link": "https://ici.radio-canada.ca/ohdio/balados/13872/le-radar-politique-de-veronique-prince/1292128/le-modele-quebecois-et-le-mur-des-finances-publiques",
+      "title": "Le « modèle québécois » et le mur des finances publiques",
+      "excerpt": "Peut-on maintenir le modèle économique dans lequel nous vivons avec la pression exercée par le vieillissement de la population sur les finances publiques et le fardeau fiscal sans cesse croissant, tout en préservant les acquis sociaux? Véronique examine la viabilité du fameux modèle québécois face…",
+      "published": "2026-11-26T17:20:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/balado/16x9/le-radar-politique-de-veronique-prince-visuel-moteur.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "26e1e4cd60b1232d",
+      "guid": "https://ici.radio-canada.ca/videos/1-10817691/cabinet-kinew-bon-eleve-en-francais-mais-peu-loquace",
+      "link": "https://ici.radio-canada.ca/videos/1-10817691/cabinet-kinew-bon-eleve-en-francais-mais-peu-loquace",
+      "title": "Le Cabinet Kinew bon élève en français, mais peu loquace",
+      "excerpt": "Le tiers du caucus provincial parle français, selon le président du caucus du Nouveau Parti démocratique (NPD) du Manitoba, Robert Loiselle. Il a fièrement fait cette déclaration au lendemain de l’annonce de l’adhésion du Manitoba à l’Organisation internationale de la Francophonie (OIF).Le 9…",
+      "published": "2026-11-26T16:49:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/drapeau-franco-manitobain-francophonie-palais-legislatif.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "e4d3c6894914a9eb",
+      "guid": "https://ici.radio-canada.ca/videos/1-10819423/shawinigan-reussira-t-elle-a-declasser-sa-vespasienne",
+      "link": "https://ici.radio-canada.ca/videos/1-10819423/shawinigan-reussira-t-elle-a-declasser-sa-vespasienne",
+      "title": "Shawinigan réussira-t-elle à déclasser sa vespasienne?",
+      "excerpt": "Le maire de Shawinigan est résolu à en finir une fois pour toutes avec le classement patrimonial dont a fait l'objet la vespasienne du parc Antoine-St-Onge. Yves Lévesque a interpellé à ce sujet le nouveau ministre responsable du Patrimoine, Pascal Bérubé, et ce dernier n'a pas fermé la porte à un…",
+      "published": "2026-11-26T16:35:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vespasienne-shawinigan-declassement-patrimonial.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "62d1850cece3a78d",
+      "guid": "https://ici.radio-canada.ca/article/info/2302946/plan-action-culturelle-nb-production",
+      "link": "https://ici.radio-canada.ca/article/info/2302946/plan-action-culturelle-nb-production",
+      "title": "Le N.-B. veut augmenter sa production culturelle de 30 % d’ici 2030",
+      "excerpt": "Le ministère compte demander une enveloppe plus importante lors du prochain budget provincial pour y arriver.",
+      "published": "2026-11-26T16:21:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/plan-action-culturelle-nb-ministre-isabelle-theriault.png",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "a798891e34c3776c",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2539956/retrait-materiel-pedagogique-sogi-123-en-c-b-elizabeth-rush",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2539956/retrait-materiel-pedagogique-sogi-123-en-c-b-elizabeth-rush",
+      "title": "La C.-B. retire le matériel pédagogique SOGI 123",
+      "excerpt": "Le gouvernement de la Colombie-Britannique retire le matériel pédagogique SOGI 123 sur l'orientation sexuelle et l'identité de genre de ses sites web et ressources. C'était une des promesses électorales du premier ministre et chef conservateur Lorne Doerkson. Victoria compte également retirer SOGI…",
+      "published": "2026-11-26T16:06:25.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sogi-osig-drapeau-arc-en-ciel-csf.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "e3848aae8fe7b7d3",
+      "guid": "https://ici.radio-canada.ca/article/info/2303174/plan-amenagement-territoire-ministre-compton",
+      "link": "https://ici.radio-canada.ca/article/info/2303174/plan-amenagement-territoire-ministre-compton",
+      "title": "L’Î.-P.-É. publiera prochainement son plan d’aménagement du territoire",
+      "excerpt": "Ce document fait suite à une promesse du Parti progressiste-conservateur lors des élections générales de 2023.",
+      "published": "2026-11-26T15:50:09.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/darlene-compton-57438.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
+      "id": "37bf950e1453c259",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2539981/un-systeme-sante-semi-prive-en-c-b-damien-contandriopoulos",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2539981/un-systeme-sante-semi-prive-en-c-b-damien-contandriopoulos",
+      "title": "Vers un système de santé semi-privé en Colombie-Britannique?",
+      "excerpt": "Mardi, le gouvernement de la Colombie-Britannique a dévoilé ses lettres de mandat. Parmi celles-ci, les nouvelles directives en santé mettent en priorité un système de santé accessible et un virage sur les dépendances. On parle notamment de mise en œuvre d’une garantie universelle d’accès aux…",
+      "published": "2026-11-26T15:07:11.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/medecin-profession-17737.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
       "id": "4fe84c99aebbf856",
       "guid": "https://ici.radio-canada.ca/article/info/2303190/velo-electrique-scooter-ontario",
       "link": "https://ici.radio-canada.ca/article/info/2303190/velo-electrique-scooter-ontario",
@@ -36,6 +289,17 @@
       "addedAt": "2026-11-26T15:11:49.238Z"
     },
     {
+      "id": "97cfbefc3be02a3a",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/le-cafe-show/segments/rattrapage/2540100/alberta-veut-reduire-nombre-enquetes-publiques-sur-deces-en-prison",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/le-cafe-show/segments/rattrapage/2540100/alberta-veut-reduire-nombre-enquetes-publiques-sur-deces-en-prison",
+      "title": "Inquiétudes face à la réduction des enquêtes publiques sur les décès en prison",
+      "excerpt": "Le projet de loi 44 en Alberta soulève des inquiétudes quant au nombre d'enquêtes publiques sur les décès en détention. La volonté du gouvernement provincial de réduire la tenue de ces enquêtes fait craindre une érosion de la transparence et de la confiance envers le système de justice. Pour…",
+      "published": "2026-11-26T14:30:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/emission/16x9/points-de-repere-zimbardo-prison-experience-psychologie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
+    },
+    {
       "id": "8e32025066ce8d71",
       "guid": "https://ici.radio-canada.ca/article/info/2303076/eolienne-motoneige-vtt-sentier-coaticook",
       "link": "https://ici.radio-canada.ca/article/info/2303076/eolienne-motoneige-vtt-sentier-coaticook",
@@ -67,6 +331,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mrc-avignon-gaspesie.jpg",
       "type": "article",
       "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "76ad95a5f8f84eba",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/info-reveil/segments/rattrapage/2539803/demustifier-taxes-foncieres",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/info-reveil/segments/rattrapage/2539803/demustifier-taxes-foncieres",
+      "title": "Démystifier les taxes foncières",
+      "excerpt": "Dans la foulée de l'importante hausse de taxes foncières à Montréal, des citoyens d’autres villes du Québec se s'inquiètent de recevoir une augmentation semblable.",
+      "published": "2026-11-26T13:09:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/taxe-fonciere-winnipeg-division-scolaire.png",
+      "type": "article",
+      "addedAt": "2026-11-26T23:50:04.301Z"
     },
     {
       "id": "82f17235bca20fe4",
