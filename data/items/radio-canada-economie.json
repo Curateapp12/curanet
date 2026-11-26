@@ -3,6 +3,116 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "ad0dab49d94b06a7",
+      "guid": "https://ici.radio-canada.ca/article/culture/segment/2539147/test-gout-huiles-locales",
+      "link": "https://ici.radio-canada.ca/article/culture/segment/2539147/test-gout-huiles-locales",
+      "title": "Les huiles locales au test de goût",
+      "excerpt": "Au test de goût : des huiles québécoises de caméline, de tournesol, de canola et de chanvre.",
+      "published": "2026-11-26T14:51:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/tdg-huiles-1164-62718.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "3a217de8c4471595",
+      "guid": "https://ici.radio-canada.ca/article/culture/segment/2539029/banques-alimentaires-point-rupture",
+      "link": "https://ici.radio-canada.ca/article/culture/segment/2539029/banques-alimentaires-point-rupture",
+      "title": "Les banques alimentaires près du point de rupture",
+      "excerpt": "Face aux demandes d'aide qui se multiplient, les banques alimentaires redoublent de créativité pour contrer l'insécurité et le gaspillage alimentaires.",
+      "published": "2026-11-26T14:50:34.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/banques-alimentaires-1164.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "345b43bc442d79b2",
+      "guid": "https://ici.radio-canada.ca/article/info/2303177/bkom-studio-jeu-video-fermeture",
+      "link": "https://ici.radio-canada.ca/article/info/2303177/bkom-studio-jeu-video-fermeture",
+      "title": "L’un des plus vieux studios de jeux vidéo au Québec ferme ses portes",
+      "excerpt": "BKOM fermera bientôt ses portes après 30 années d'existence, causant la perte de dizaines d'emplois.",
+      "published": "2026-11-26T14:21:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/bkom-studios-quebec.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "ef61b7649f26cba4",
+      "guid": "https://ici.radio-canada.ca/article/info/2303179/aluminium-tinto-arvida-canettes-transformation",
+      "link": "https://ici.radio-canada.ca/article/info/2303179/aluminium-tinto-arvida-canettes-transformation",
+      "title": "Laminoir : Mario Simard optimiste après une rencontre avec Rio Tinto",
+      "excerpt": "Les discussions pour l’implantation d’un laminoir d’aluminium au Saguenay-Lac-Saint-Jean se poursuivent.",
+      "published": "2026-11-26T14:11:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mario-simard-depute-jonquiere-bloc-quebecois-91754.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "245d1f49e96e4d6e",
+      "guid": "https://ici.radio-canada.ca/videos/1-10818858/reouverture-pont-centenaire-a-miramichi",
+      "link": "https://ici.radio-canada.ca/videos/1-10818858/reouverture-pont-centenaire-a-miramichi",
+      "title": "Réouverture du pont du Centenaire à Miramichi",
+      "excerpt": "Après huit mois de travaux, le pont rouvrira la semaine prochaine. Les répercussions économiques de la fermeture se sont bel et bien fait sentir selon les commerçants rencontrés par Cédric Thévenin.",
+      "published": "2026-11-26T12:34:34.000Z",
+      "thumbnail": "https://rcavstaticstreaming.akamaized.net/img/13c9de01-6a03-40d0-82e3-9e9d98093a9f/HR/2026-1125-1166_01.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "d6f1ab1dd980782a",
+      "guid": "https://ici.radio-canada.ca/article/info/2303141/projet-centre-sports-megapole-riviere-du-loup",
+      "link": "https://ici.radio-canada.ca/article/info/2303141/projet-centre-sports-megapole-riviere-du-loup",
+      "title": "Un projet privé de centre de sports et de divertissement de 21 M$ à Rivière-du-Loup",
+      "excerpt": "Les trois promoteurs souhaitent commencer les travaux d'ici la fin de l'année 2027.",
+      "published": "2026-11-26T12:33:29.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/projet-megapole-riviere-du-loup.png",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "3a0de4c615563bf7",
+      "guid": "https://ici.radio-canada.ca/article/info/2303084/ouverture-pont-miramichi-impact-affaires",
+      "link": "https://ici.radio-canada.ca/article/info/2303084/ouverture-pont-miramichi-impact-affaires",
+      "title": "Le pont de Miramichi rouvre bientôt, mais trop tard pour certains commerçants",
+      "excerpt": "Les huit mois de fermeture du pont du Centenaire ont mis les affaires de certains commerçants à rude épreuve.",
+      "published": "2026-11-26T10:33:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/pont-centennaire-miramichi-ferme.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "3c7bd1a09f363c79",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10818708/boucherie-lac-relancee-par-un-entrepreneur-19-ans",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10818708/boucherie-lac-relancee-par-un-entrepreneur-19-ans",
+      "title": "La Boucherie du Lac relancée par un entrepreneur de 19 ans",
+      "excerpt": "En avril 2026, la Boucherie du Lac de Rouyn-Noranda annonçait sa fermeture faute de relève. Quelques mois plus tard, l’entreprise est sur le point d’être relancée grâce à un entrepreneur de 19 ans.",
+      "published": "2026-11-26T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-premiere/16x9/entreprise-boucherie-economie-alimentation-locale.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "6a04c9cb6be70a3d",
+      "guid": "https://ici.radio-canada.ca/article/info/2303066/port-sault-ste-marie-viabilite-shoemaker-expert",
+      "link": "https://ici.radio-canada.ca/article/info/2303066/port-sault-ste-marie-viabilite-shoemaker-expert",
+      "title": "Port de Sault-Sainte-Marie: « ça soulève beaucoup de questions », dit un expert",
+      "excerpt": "Matthew Shoemaker, maire de Sault-Sainte-Marie, demeure confiant quant à la faisabilité du projet.",
+      "published": "2026-11-26T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ssm-port-financement-canada-ontario-grands-lacs.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "8705b4713d916ec1",
+      "guid": "https://ici.radio-canada.ca/article/info/2303131/alstom-la-pocatiere-metro-tramway-viarail",
+      "link": "https://ici.radio-canada.ca/article/info/2303131/alstom-la-pocatiere-metro-tramway-viarail",
+      "title": "Tramway de Québec, VIA Rail, métro de Montréal : Alstom voit grand à La Pocatière",
+      "excerpt": "L’usine d’Alstom à La Pocatière augmente la cadence pour la mise en service de nouveaux équipements en 2027.",
+      "published": "2026-11-26T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/build-canadian.png",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
       "id": "6e741d1b77c0114d",
       "guid": "https://ici.radio-canada.ca/article/info/2303124/temiscamingue-stages-jeunes-attraction-carriere",
       "link": "https://ici.radio-canada.ca/article/info/2303124/temiscamingue-stages-jeunes-attraction-carriere",
@@ -91,6 +201,17 @@
       "addedAt": "2026-11-25T22:29:43.158Z"
     },
     {
+      "id": "c7811a72a52f6cfe",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/le-cafe-show/segments/rattrapage/2539180/intelligence-artificielle-dans-petits-commerces-divise",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/le-cafe-show/segments/rattrapage/2539180/intelligence-artificielle-dans-petits-commerces-divise",
+      "title": "L’intelligence artificielle dans les petits commerces divise",
+      "excerpt": "De plus en plus de petits commerces utilisent des outils d'intelligence artificielle comme ChatGPT pour concevoir leurs affiches, menus et publicités et cette pratique ne fait pas l’unanimité. Pour comprendre les avantages et inconvénients de cette tendance, on en discute à l’instant avec Cindy…",
+      "published": "2026-11-25T17:49:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/achats-noel-ia.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
       "id": "4ffa46d016055389",
       "guid": "https://ici.radio-canada.ca/article/info/2302942/pret-moncton-centre-avenir-legends-global",
       "link": "https://ici.radio-canada.ca/article/info/2302942/pret-moncton-centre-avenir-legends-global",
@@ -155,6 +276,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/projet-pilote-elevage-poulets-abattoir.jpg",
       "type": "article",
       "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "fa968ecebf185b64",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/les-matins-d-ici/segments/rattrapage/2538589/chronique-economique-avec-marjorie-april",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/les-matins-d-ici/segments/rattrapage/2538589/chronique-economique-avec-marjorie-april",
+      "title": "Quand la valeur de votre maison baisse plus que l’hypothèque",
+      "excerpt": "",
+      "published": "2026-11-25T13:07:06.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/maison-hypotheque-taux-fixe-variable.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
     },
     {
       "id": "d64d23fbe7740c46",

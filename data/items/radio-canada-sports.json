@@ -3,6 +3,61 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "fa74ad22da0a18b3",
+      "guid": "https://ici.radio-canada.ca/article/info/2303172/ryan-dinwiddie-rouge-et-noir-ottawa-lcf",
+      "link": "https://ici.radio-canada.ca/article/info/2303172/ryan-dinwiddie-rouge-et-noir-ottawa-lcf",
+      "title": "Ryan Dinwiddie congédié par le Rouge et Noir d’Ottawa",
+      "excerpt": "Ryan Dinwiddie a mené l'équipe à une fiche d'une victoire et 17 défaites.",
+      "published": "2026-11-26T13:22:18.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/rouge-et-noir-football-canadien-ryan-dinwiddie.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "ed874f8a808ee334",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303168/fifa-cyberattaque-soccer-infantino",
+      "link": "https://ici.radio-canada.ca/article/sports/2303168/fifa-cyberattaque-soccer-infantino",
+      "title": "La FIFA est victime d’une cyberattaque touchant des « informations sensibles »",
+      "excerpt": "L'organisation n'a pas précisé la nature exacte des informations piratées.",
+      "published": "2026-11-26T12:38:04.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/fifa-21528.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "e9b165305a6620ca",
+      "guid": "https://ici.radio-canada.ca/article/info/2303134/antoine-cyr-coupe-du-monde-ski-de-fond",
+      "link": "https://ici.radio-canada.ca/article/info/2303134/antoine-cyr-coupe-du-monde-ski-de-fond",
+      "title": "Un vent nouveau souffle sur Antoine Cyr",
+      "excerpt": "Le skieur de fond originaire de Gatineau entame sa huitième saison sur le circuit de la Coupe du monde.",
+      "published": "2026-11-26T11:21:58.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/antoine-cyr-50-km-ski-de-fond.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "093235ed422c417c",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303157/canadien-avalanche-fowler-mackenzie-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2303157/canadien-avalanche-fowler-mackenzie-lnh",
+      "title": "L’Avalanche ne fait qu’une bouchée du Canadien",
+      "excerpt": "Le défenseur Devon Toews a inscrit deux buts dans la victoire de 6-0 de l’Avalanche contre le Tricolore.",
+      "published": "2026-11-26T05:51:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/logan-oconnor-fowler.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
+      "id": "8c3d172b9087dcb0",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303155/corum-rams-packers-nfl",
+      "link": "https://ici.radio-canada.ca/article/sports/2303155/corum-rams-packers-nfl",
+      "title": "Corum et les Rams s’imposent face aux Packers",
+      "excerpt": "Blake Corum a amassé 184 verges au sol et un touché dans la victoire de 26-13 des Rams contre les Packers.",
+      "published": "2026-11-26T05:23:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/blake-corum-rams-packers.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
+    },
+    {
       "id": "697e21e2d4a88fb1",
       "guid": "https://ici.radio-canada.ca/article/sports/2303150/les-canucks-sinclinent-devant-les-red-wings",
       "link": "https://ici.radio-canada.ca/article/sports/2303150/les-canucks-sinclinent-devant-les-red-wings",
@@ -12,6 +67,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/red-wings-canucks.jpg",
       "type": "article",
       "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
+      "id": "51fe6cc6fdce59f3",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303148/les-flames-lemportent-sur-les-penguins",
+      "link": "https://ici.radio-canada.ca/article/sports/2303148/les-flames-lemportent-sur-les-penguins",
+      "title": "Les Flames l’emportent sur les Penguins",
+      "excerpt": "Joel Farabee a amassé un but et une aide pour aider les Flames de Calgary à vaincre les Penguins 6-3.",
+      "published": "2026-11-26T04:18:39.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/flames-penguins.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T15:11:49.238Z"
     },
     {
       "id": "f297bc26ab44338d",
