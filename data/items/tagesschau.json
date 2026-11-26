@@ -3,6 +3,50 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "c40e2f59fbf93619",
+      "guid": "19912465-71b2-436e-879a-45cfc0a75197",
+      "link": "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
+      "title": "Wetterchaos an Thanksgiving in USA befürchtet",
+      "excerpt": "Extreme Springflut und Überschwemmungen in Kalifornien - Sturmwarnung und viel Regen an der Ostküste. Pünktlich zu Thanksgiving könnte das Wetter die Reise- und Feiertagspläne vieler US-Amerikaner durcheinander bringen.",
+      "published": "2026-11-26T04:41:15.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/fb3ad682-f32e-4ef4-a75e-a14f269dcfeb/AAABohX32SI/AAABnSSvrFg/16x9-big/kalifornien-wellen-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
+      "id": "5c95647549f59f9a",
+      "guid": "76e6670c-cdc1-4a0c-af0e-5b19e2a983d7",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
+      "title": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
+      "excerpt": "Die Staats- und Regierungschefs der 27 EU-Länder beraten bei einem Sondergipfel in Brüssel über den langfristigen EU-Haushalt. Dabei geht es auch um mögliche neue Einnahmequellen wie etwa eine Digitalsteuer.",
+      "published": "2026-11-26T04:00:53.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/349c38de-c671-4dfd-bbf9-da48315e9ea2/AAABohMKa48/AAABnSSvrFg/16x9-big/eu-hauptquartier-sitzungssaal-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
+      "id": "493ef3f04c3b3568",
+      "guid": "d401036c-de8d-4302-92ac-5c2ae9548df0",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
+      "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+      "excerpt": "SpaceX plant im All ein Netz aus Satelliten, die als Rechenzentren dienen sollen. Die US-Behörden haben das Vorhaben nun erlaubt. Ziel ist es, die enorme Nachfrage nach Rechenleistung für Künstliche Intelligenz zu befriedigen.",
+      "published": "2026-11-26T01:58:55.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/ee1320b8-70a0-4194-b749-b4edd868901c/AAABohVSmy8/AAABnSSvrFg/16x9-big/spacex-326.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
+      "id": "e7609f3d6f59b9b9",
+      "guid": "467c5978-a9a7-4cd2-8768-8a97ddefebea",
+      "link": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html",
+      "title": "Mit 65 Jahren: Duran-Duran-Gitarrist Andy Taylor gestorben",
+      "excerpt": "Andy Taylor, der ursprüngliche Gitarrist der englischen New-Wave-Band Duran Duran, ist gestorben. Mit seinen von Rock und Funk inspirierten Gitarrenriffs prägte Taylor den Sound der Band.",
+      "published": "2026-11-25T23:56:55.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/7e083346-67cf-4595-8a61-224c5171e1f2/AAABohUWYUc/AAABnSSvrFg/16x9-big/andytaylor-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
       "id": "8c0d58ab660fce38",
       "guid": "56b1440e-d63c-40af-b451-05b397782e61",
       "link": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",

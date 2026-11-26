@@ -3,6 +3,72 @@
   "sourceId": "la-presse",
   "items": [
     {
+      "id": "d054e953b5c82e78",
+      "guid": "0670eb816a4d3fd6ab8faff1c5b9b6f9",
+      "link": "https://www.lapresse.ca/actualites/2026-11-25/en-immersion-episode-5/ecole-notre-dame-des-neiges-l-ecole-du-monde-entier.php",
+      "title": "En immersion, épisode 5 | École Notre-Dame-des-Neiges : l’école du monde entier",
+      "excerpt": "Cette école primaire au nom bien québécois accueille 99 % d’élèves issus de l’immigration récente. Ces enfants, qui viennent de partout dans le monde, sont pris en charge par une équipe-école qui cherche vraiment à les intégrer au Québec. Mais les défis y sont très nombreux.",
+      "published": "2026-11-26T04:30:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/64448e7d9a983d94964eff24fa7c2cab.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
+      "id": "f10832b2c8a7b35d",
+      "guid": "4d05a23bc23834dc9b08ca178c611989",
+      "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-25/itinerance/chute-du-nombre-de-tentes-au-campement-notre-dame.php",
+      "title": "Itinérance | Chute du nombre de tentes au campement Notre-Dame",
+      "excerpt": "Le nombre de tentes et autres abris installés dans le plus gros campement de Montréal a chuté de façon importante dans les dernières semaines, selon la Ville.",
+      "published": "2026-11-26T03:17:36.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/8de9ef9d0f1f36929fba280fcddba8ce.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
+      "id": "30a5c72e1e0a00ec",
+      "guid": "c352f1af5b5b36788767fd442fa1b2c3",
+      "link": "https://www.lapresse.ca/actualites/national/2026-11-25/tuerie-de-tumbler-ridge/les-procureurs-americains-s-opposent-a-la-liberation-de-la-complice-presumee.php",
+      "title": "Tuerie de Tumbler Ridge | Les procureurs américains s’opposent à la libération de la complice présumée",
+      "excerpt": "La complice présumée de la fusillade de Tumbler Ridge, en Colombie-Britannique, a fait passer sa loyauté envers la tueuse avant la vie d’enfants innocents et ne devrait pas être remise en liberté avant son procès, selon les procureurs fédéraux américains.",
+      "published": "2026-11-26T02:46:01.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/c06c53b6ba563623904236474f459741.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
+      "id": "bbf5b8380b2d70e0",
+      "guid": "ea6c495b14c8377cadce7fc017afc3b0",
+      "link": "https://www.lapresse.ca/actualites/sante/2026-11-25/ozempic-et-wegovy/sante-canada-signale-un-risque-rare-de-perte-de-vision-lie-a-la-prise-de-semaglutide.php",
+      "title": "Ozempic et Wegovy | Santé Canada signale un risque rare de perte de vision lié à la prise de sémaglutide",
+      "excerpt": "Santé Canada a publié une mise en garde concernant un risque « très rare » de perte de la vue associé à l’Ozempic, au Wegovy et à d’autres médicaments à base de sémaglutide.",
+      "published": "2026-11-26T02:28:14.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/c9dcc1a4c9003809aa8e1445c156aa38.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
+      "id": "74bcafdccfee5443",
+      "guid": "3f7859b7beb53dd8bfcb0cb82f0aa1ed",
+      "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-25/budget-de-montreal/un-arbre-six-cols-bleus.php",
+      "title": "Budget de Montréal | Un arbre, six cols bleus",
+      "excerpt": "Combien faut-il de cols bleus pour planter un arbre à la Ville de Montréal ?",
+      "published": "2026-11-26T00:27:29.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/692940d36a563484ba9f586c9da66ec0.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
+      "id": "0a2dce6d3ccaa8e3",
+      "guid": "14fe6ce0aa3d3ada922fb038653053be",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-25/centre-du-quebec/collision-mortelle-entre-plusieurs-vehicules-dans-le-secteur-de-warwick.php",
+      "title": "Centre-du-Québec | Collision mortelle entre plusieurs véhicules dans le secteur de Warwick",
+      "excerpt": "Un homme a perdu la vie à la suite d’une collision survenue mercredi après-midi dans le secteur de Warwick, dans le Centre-du-Québec.",
+      "published": "2026-11-25T23:43:52.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/bf12d83b0dd83d20aa53589b7b1ea561.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
+    },
+    {
       "id": "eaf642eacd395376",
       "guid": "2d3c9bc4f5a439fa93a5de9f20a9187b",
       "link": "https://www.lapresse.ca/actualites/2026-11-25/ce-qu-il-faut-savoir-ce-mercredi/kraft-dinner-hausse-de-taxes-a-quebec-et-delinquant-sexuel.php",
@@ -89,6 +155,17 @@
       "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/b06000a9733e352490577bb02b86ac9b.jpg",
       "type": "article",
       "addedAt": "2026-11-25T22:29:43.158Z"
+    },
+    {
+      "id": "aee6f37ebf7bc9eb",
+      "guid": "8f989af2c15433588028e37d7b64e355",
+      "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-25/allegations-de-racisme-au-spvm/un-ex-policier-s-en-serait-pris-a-un-homme-qui-avait-menace-son-collegue.php",
+      "title": "Allégations de racisme au SPVM | Un ex-policier s’en serait pris à un homme qui avait menacé son collègue",
+      "excerpt": "L’ancien policier du poste de quartier 39 Youcef Boumsied, accusé de voies de fait, s’en serait pris à un homme qui avait menacé son collègue policier deux mois auparavant, a découvert La Presse. Le policier visé par la menace, Vincent Routhier, est aussi suspecté d’avoir commis des actes…",
+      "published": "2026-11-25T16:43:41.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/3a934486/871ce9f1f09734bd9f5fd7a88f133924.jpg",
+      "type": "article",
+      "addedAt": "2026-11-26T05:00:13.205Z"
     },
     {
       "id": "d438808a70f1152c",
