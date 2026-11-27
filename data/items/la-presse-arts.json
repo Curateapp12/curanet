@@ -3,6 +3,83 @@
   "sourceId": "la-presse-arts",
   "items": [
     {
+      "id": "bbf2801956242171",
+      "guid": "d739b610fd7a3bdc8fc87e44812ef4cd",
+      "link": "https://www.lapresse.ca/arts/litterature/2026-11-27/salon-du-livre-de-montreal/la-semaine-quebecoise-de-bernard-werber.php",
+      "title": "Salon du livre de Montréal | La semaine québécoise de Bernard Werber",
+      "excerpt": "Habituellement, l’auteur à succès fait deux sauts de puce au Québec – un pour le Salon du livre de Montréal, l’autre pour présenter son spectacle V.I.E. Cette année, il fait d’une pierre deux coups en fixant ses pénates pour une pleine semaine, sans pour autant interrompre son travail de fourmi.",
+      "published": "2026-11-27T17:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/f0a5e0ddc45831d38d52373eeeab86b1.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "b4de3a625f7c4812",
+      "guid": "8ba60f9fd49937949ea3d2cc9d528ee2",
+      "link": "https://www.lapresse.ca/arts/litterature/2026-11-27/une-initiative-pour-sensibiliser-paul-st-pierre-plamondon-a-la-lecture-jeunesse.php",
+      "title": "Une initiative pour sensibiliser Paul St-Pierre Plamondon à la lecture jeunesse",
+      "excerpt": "L’association des écrivaines et des écrivains québécois pour la jeunesse (AÉQJ) ainsi que l’autrice et illustratrice Cécile Gagnon s’engagent à envoyer, dès maintenant et pour les six prochains mois, des livres jeunesse au premier ministre du Québec, Paul St-Pierre Plamondon.",
+      "published": "2026-11-27T16:26:59.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/87238ea8b4623500b3333e9db01777b9.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "8e0d6d3df99fd5e1",
+      "guid": "ff75a854b2973381aeb0e5bc94a15d91",
+      "link": "https://www.lapresse.ca/arts/theatre/2026-11-27/festival/mary-lee-picknell-a-la-tete-du-jamais-lu-quebec.php",
+      "title": "Festival | Mary-Lee Picknell à la tête du Jamais Lu Québec",
+      "excerpt": "La comédienne et dramaturge Mary-Lee Picknell qui a présenté cet automne son Être ou ne pas être un douchebag à la Licorne devient directrice artistique du festival Jamais Lu Québec.",
+      "published": "2026-11-27T15:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/2129902b3f673294960a57d94bbee208.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "72f15e91dce162df",
+      "guid": "106d270a10e13987b9a1158842341def",
+      "link": "https://www.lapresse.ca/arts/litterature/2026-11-27/salon-du-livre-de-montreal/quoi-voir-ce-vendredi.php",
+      "title": "Salon du livre de Montréal | Quoi voir ce vendredi",
+      "excerpt": "Tables rondes, grands entretiens, causeries… Voici nos suggestions du jour parmi la quantité d’activités prévues au Salon du livre de Montréal ce vendredi.",
+      "published": "2026-11-27T13:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/2f80b2cedf053368966179adb949431a.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "056a24db8c7ff42a",
+      "guid": "9b47b003f2953523b2304130eb3d84d4",
+      "link": "https://www.lapresse.ca/arts/litterature/2026-11-27/vies-d-appalaches-de-juliana-leveille-trudel/sur-les-traces-de-sa-famille.php",
+      "title": "Vies d’Appalaches, de Juliana Léveillé-Trudel | Sur les traces de sa famille",
+      "excerpt": "Il y a quelque chose d’à la fois lumineux et infiniment tendre dans le nouveau roman de Juliana Léveillé-Trudel, Vies d’Appalaches. Avec douceur et bienveillance, l’autrice remonte le fil de sa lignée maternelle jusqu’à sa grand-mère Gratia, qui a quitté son village de la Matapédia, seule, à 14…",
+      "published": "2026-11-27T12:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/e268759a6dc83287b53ed7039b928ee2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "c3741fa7f3f04ff8",
+      "guid": "0632e24cf8433e3fa48e50803872d674",
+      "link": "https://www.lapresse.ca/arts/television/2026-11-27/tele-quebec/la-nouvelle-orientation-remise-en-question-par-des-producteurs.php",
+      "title": "Télé-Québec | La nouvelle orientation remise en question par des producteurs",
+      "excerpt": "Des producteurs remettent en question les nouvelles orientations de Télé-Québec qui a réitéré devant les acteurs de l’industrie, jeudi, sa volonté de cibler davantage les adolescents en diffusant son contenu sur sa plateforme numérique et celles des géants du web, comme TikTok et YouTube.",
+      "published": "2026-11-27T11:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/b5d3f011f6773316ba776c33584f9c63.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "3b75dd807d02ab8c",
+      "guid": "b5d8609c6f8935a28c9df778e2cf19bf",
+      "link": "https://www.lapresse.ca/arts/chroniques/2026-11-27/concerts-au-centre-bell/celine-dion-reviendra-t-elle-a-montreal.php",
+      "title": "Concerts au Centre Bell | Céline Dion reviendra-t-elle à Montréal ?",
+      "excerpt": "« Je ne vous oublie pas, non, jamais », chante Céline Dion dans un de ses succès de 2005, où elle rappelle à ses admirateurs que, malgré l’éloignement et les absences, elle poursuit son histoire avec eux.",
+      "published": "2026-11-27T10:00:00.000Z",
+      "thumbnail": "https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/61f31e6053f2371b83d8e64936cc2fd2.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
       "id": "c7761fcdb711e5e3",
       "guid": "3ad34241591133e2995a2e70e6b47af4",
       "link": "https://www.lapresse.ca/arts/musique/2026-11-26/critique-des-indes-galantes-des-violons-du-roy/rameau-et-l-indice-de-bonheur.php",

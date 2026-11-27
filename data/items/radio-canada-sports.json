@@ -3,6 +3,83 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "6129f2f54de9020c",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303557/canada-soccer-mondial-olympiques-concacaf",
+      "link": "https://ici.radio-canada.ca/article/sports/2303557/canada-soccer-mondial-olympiques-concacaf",
+      "title": "L’équipe canadienne de soccer vise une qualification au Mondial et aux Olympiques",
+      "excerpt": "Le Canada s’assure une place à la Coupe du monde de 2027 s'il bat le Panama samedi.",
+      "published": "2026-11-27T18:38:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/equipe-canada-soccer.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "a84c0b6f970641b8",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10820560/record-monde-programme-court-pour-ilia-malinin",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10820560/record-monde-programme-court-pour-ilia-malinin",
+      "title": "Record du monde du programme court pour Ilia Malinin",
+      "excerpt": "Ilia Malinin a battu le record du monde du programme court avec un score de 114,81 points lors du Grand Prix de Tokyo.",
+      "published": "2026-11-27T18:36:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/patinage-artistique-ilia-malinin-record-court.png",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "99276ab6c181e72c",
+      "guid": "https://ici.radio-canada.ca/article/info/2303289/classique-colonel-by-rivalite-ravens-gee-gees",
+      "link": "https://ici.radio-canada.ca/article/info/2303289/classique-colonel-by-rivalite-ravens-gee-gees",
+      "title": "De la Classique Colonel By à la tournée de la rivalité, l’enjeu est le même",
+      "excerpt": "Les Gee-Gees de l’Université d’Ottawa et les Ravens vont s’affronter à Alexandria et Renfrew au hockey.",
+      "published": "2026-11-27T17:41:38.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/classique-du-colonel-by-gee-gees-ravens-ottawa-carleton-hockey.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "c514f90c38be896c",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303533/soccer-alphonso-davies-reprise-entrainement-bayern",
+      "link": "https://ici.radio-canada.ca/article/sports/2303533/soccer-alphonso-davies-reprise-entrainement-bayern",
+      "title": "Alphonso Davies de retour à l’entraînement avec le Bayern de Munich",
+      "excerpt": "Le latéral s’est blessé dans un match en équipe nationale le 13 novembre.",
+      "published": "2026-11-27T17:37:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/alphonso-davies-canada-mondial.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "8b4ecfd1233c5e77",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/2541075/roses-une-equipe-region-a-epique",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/2541075/roses-une-equipe-region-a-epique",
+      "title": "Trois Abitibiennes participent à l’émission Épique de Télé-Québec",
+      "excerpt": "Des cousines originaires d’Abitibi-Ouest représentent la région à la troisième saison de l’émission Épique, qui sera diffusée en janvier à Télé-Québec.",
+      "published": "2026-11-27T13:09:16.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/equipe-rose-emission-epique-tele-quebec-1.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "35cc814562e5f980",
+      "guid": "https://ici.radio-canada.ca/article/info/2301917/cumberland-velo-tourisme",
+      "link": "https://ici.radio-canada.ca/article/info/2301917/cumberland-velo-tourisme",
+      "title": "À Cumberland, vivre au rythme du vélo de montagne",
+      "excerpt": "Il existe environ 200 km de sentiers actuellement à Cumberland, sur l'île de Vancouver.",
+      "published": "2026-11-27T12:37:05.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/velo-montagne-cumberland-87093.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "4ab7c951084c6231",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303410/bills-buffalo-chiefs-football-nfl",
+      "link": "https://ici.radio-canada.ca/article/sports/2303410/bills-buffalo-chiefs-football-nfl",
+      "title": "Un placement sur le dernier jeu du match permet aux Bills de battre les Chiefs",
+      "excerpt": "Les attaques de Josh Allen et de Patrick Mahomes ont stagné sous la pluie et le vent.",
+      "published": "2026-11-27T12:22:03.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/josh-allen-6498.jpg",
+      "type": "article",
+      "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
       "id": "a73dfafaa43eeb96",
       "guid": "https://ici.radio-canada.ca/article/info/2303372/victor-charland-hec-crighton-football-constantin",
       "link": "https://ici.radio-canada.ca/article/info/2303372/victor-charland-hec-crighton-football-constantin",

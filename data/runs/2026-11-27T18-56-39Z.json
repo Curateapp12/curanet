@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "startedAt": "2026-11-27T18:56:39.095Z",
+  "finishedAt": "2026-11-27T18:56:42.537Z",
+  "totals": {
+    "sources": 60,
+    "fetched": 46,
+    "unchanged": 1,
+    "added": 420,
+    "pruned": 0,
+    "blocked": 0,
+    "errors": 5,
+    "skipped": 9
+  },
+  "sources": [
+    {
+      "id": "globe-and-mail-canada",
+      "result": "ok",
+      "added": 9,
+      "pruned": 0,
+      "ms": 353,
+      "error": null
+    },
+    {
+      "id": "global-news",
+      "result": "ok",
+      "added": 10,
+      "pruned": 0,
+      "ms": 89,
+      "error": null
+    },
+    {
+      "id": "the-tyee",
+      "result": "ok",
+      "added": 0,
+      "pruned": 0,
+      "ms": 408,
+      "error": null
+    },
+    {
+      "id": "globe-and-mail-politics",
+      "result": "ok",
+      "added": 0,
+      "pruned": 0,
+      "ms": 364,
+      "error": null
+    },
+    {
+      "id": "ctv-news-politics",
+      "result": "ok",
+      "added": 8,
+      "pruned": 0,
+      "ms": 126,
+      "error": null
+    },
+    {
+      "id": "national-observer",
+      "result": "ok",
+      "added": 14,
+      "pruned": 0,
+      "ms": 85,
+      "error": null
+    },
+    {
+      "id": "global-news-world",
+      "result": "ok",
+      "added": 0,
+      "pruned": 0,
+      "ms": 17,
+      "error": null
+    },
+    {
+      "id": "rabble",
+      "result": "ok",
+      "added": 1,
+      "pruned": 0,
+      "ms": 2897,
+      "error": null
+    },
+    {
+      "id": "national-post-opinion",
+      "result": "error",
+      "added": 0,
+      "pruned": 0,
+      "ms": 606,
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "id": "halifax-examiner",
+      "result": "ok",
+      "added": 5,
+      "pruned": 0,
+      "ms": 174,
+      "error": null
+    },
+    {
+      "id": "winnipeg-free-press",
+      "result": "ok",
+      "added": 3,
+      "pruned": 0,
+      "ms": 39,
+      "error": null
+    },
+    {
+      "id": "calgary-herald",
+      "result": "ok",
+      "added": 7,
+      "pruned": 0,
+      "ms": 208,
+      "error": null
+    },
+    {
+      "id": "times-colonist",
+      "result": "ok",
+      "added": 20,
+      "pruned": 0,
+      "ms": 107,
+      "error": null
+    },
+    {
+      "id": "nunatsiaq-news",
+      "result": "error",
+      "added": 0,
+      "pruned": 0,
+      "ms": 59,
+      "error": "HTTP 415 Unsupported Media Type"
+    },
+    {
+      "id": "sootoday",
+      "result": "ok",
+      "added": 20,
+      "pruned": 0,
+      "ms": 88,
+      "error": null
+    },
+    {
+      "id": "radio-canada-a-la-une",
+      "result": "ok",
+      "added": 14,
+      "pruned": 0,
+      "ms": 172,
+      "error": null
+    },
+    {
+      "id": "le-devoir",
+      "result": "ok",
+      "added": 21,
+      "pruned": 0,
+      "ms": 32,
+      "error": null
+    },
+    {
+      "id": "la-presse",
+      "result": "ok",
+      "added": 10,
+      "pruned": 0,
+      "ms": 34,
+      "error": null
+    },
+    {
+      "id": "radio-canada-politique",
+      "result": "ok",
+      "added": 17,
+      "pruned": 0,
+      "ms": 129,
+      "error": null
+    },
+    {
+      "id": "pivot",
+      "result": "ok",
+      "added": 1,
+      "pruned": 0,
+      "ms": 104,
+      "error": null
+    },
+    {
+      "id": "noovo-info-international",
+      "result": "ok",
+      "added": 28,
+      "pruned": 0,
+      "ms": 134,
+      "error": null
+    },
+    {
+      "id": "le-devoir-opinion",
+      "result": "ok",
+      "added": 0,
+      "pruned": 0,
+      "ms": 8,
+      "error": null
+    },
+    {
+      "id": "radio-canada-acadie",
+      "result": "ok",
+      "added": 5,
+      "pruned": 0,
+      "ms": 227,
+      "error": null
+    },
+    {
+      "id": "journal-de-quebec",
+      "result": "ok",
+      "added": 0,
+      "pruned": 0,
+      "ms": 310,
+      "error": null
+    },
+    {
+      "id": "radio-canada-economie",
+      "result": "ok",
+      "added": 13,
+      "pruned": 0,
+      "ms": 230,
+      "error": null
+    },
+    {
+      "id": "la-presse-arts",
+      "result": "ok",
+      "added": 7,
+      "pruned": 0,
+      "ms": 43,
+      "error": null
+    },
+    {
+      "id": "radio-canada-sports",
+      "result": "ok",
+      "added": 7,
+      "pruned": 0,
+      "ms": 87,
+      "error": null
+    },
+    {
+      "id": "globe-and-mail-business",
+      "result": "ok",
+      "added": 21,
+      "pruned": 0,
+      "ms": 215,
+      "error": null
+    },
+    {
+      "id": "financial-post-investing",
+      "result": "error",
+      "added": 0,
+      "pruned": 0,
+      "ms": 704,
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "id": "globe-and-mail-personal-finance",
+      "result": "ok",
+      "added": 2,
+      "pruned": 0,
+      "ms": 205,
+      "error": null
+    },
+    {
+      "id": "the-logic",
+      "result": "ok",
+      "added": 2,
+      "pruned": 0,
+      "ms": 80,
+      "error": null
+    },
+    {
+      "id": "betakit",
+      "result": "ok",
+      "added": 5,
+      "pruned": 0,
+      "ms": 58,
+      "error": null
+    },
+    {
+      "id": "conversation-canada-science",
+      "result": "ok",
+      "added": 0,
+      "pruned": 0,
+      "ms": 114,
+      "error": null
+    },
+    {
+      "id": "spaceq",
+      "result": "ok",
+      "added": 1,
+      "pruned": 0,
+      "ms": 37,
+      "error": null
+    },
+    {
+      "id": "all-lit-up",
+      "result": "skipped",
+      "added": 0,
+      "pruned": 0,
+      "ms": 0,
+      "error": "blocked since 2026-11-18T21:55:06.640Z"
+    },
+    {
+      "id": "canadian-beats",
+      "result": "ok",
+      "added": 8,
+      "pruned": 0,
+      "ms": 53,
+      "error": null
+    },
+    {
+      "id": "the-hockey-news",
+      "result": "ok",
+      "added": 4,
+      "pruned": 0,
+      "ms": 146,
+      "error": null
+    },
+    {
+      "id": "canadian-soccer-daily",
+      "result": "ok",
+      "added": 3,
+      "pruned": 0,
+      "ms": 836,
+      "error": null
+    },
+    {
+      "id": "3downnation",
+      "result": "ok",
+      "added": 3,
+      "pruned": 0,
+      "ms": 129,
+      "error": null
+    },
+    {
+      "id": "hospital-news",
+      "result": "unchanged",
+      "added": 0,
+      "pruned": 0,
+      "ms": 114,
+      "error": null
+    },
+    {
+      "id": "daily-hive-dished",
+      "result": "ok",
+      "added": 4,
+      "pruned": 0,
+      "ms": 39,
+      "error": null
+    },
+    {
+      "id": "vacay",
+      "result": "error",
+      "added": 0,
+      "pruned": 0,
+      "ms": 57,
+      "error": "HTTP 415 Unsupported Media Type"
+    },
+    {
+      "id": "the-narwhal",
+      "result": "ok",
+      "added": 1,
+      "pruned": 0,
+      "ms": 65,
+      "error": null
+    },
+    {
+      "id": "bbc-news",
+      "result": "ok",
+      "added": 26,
+      "pruned": 0,
+      "ms": 68,
+      "error": null
+    },
+    {
+      "id": "npr-politics",
+      "result": "ok",
+      "added": 1,
+      "pruned": 0,
+      "ms": 52,
+      "error": null
+    },
+    {
+      "id": "ars-technica",
+      "result": "ok",
+      "added": 3,
+      "pruned": 0,
+      "ms": 25,
+      "error": null
+    },
+    {
+      "id": "guardian-football",
+      "result": "ok",
+      "added": 9,
+      "pruned": 0,
+      "ms": 54,
+      "error": null
+    },
+    {
+      "id": "le-figaro",
+      "result": "ok",
+      "added": 15,
+      "pruned": 0,
+      "ms": 111,
+      "error": null
+    },
+    {
+      "id": "france-24",
+      "result": "skipped",
+      "added": 0,
+      "pruned": 0,
+      "ms": 0,
+      "error": "blocked since 2026-10-21T12:51:28.161Z"
+    },
+    {
+      "id": "tagesschau",
+      "result": "ok",
+      "added": 19,
+      "pruned": 0,
+      "ms": 407,
+      "error": null
+    },
+    {
+      "id": "el-pais",
+      "result": "ok",
+      "added": 65,
+      "pruned": 0,
+      "ms": 207,
+      "error": null
+    },
+    {
+      "id": "bleepingcomputer",
+      "result": "ok",
+      "added": 8,
+      "pruned": 0,
+      "ms": 41,
+      "error": null
+    },
+    {
+      "id": "yt-cbc-news",
+      "result": "skipped",
+      "added": 0,
+      "pruned": 0,
+      "ms": 0,
+      "error": "waiting for key"
+    },
+    {
+      "id": "yt-cbc-news-the-national",
+      "result": "skipped",
+      "added": 0,
+      "pruned": 0,
+      "ms": 0,
+      "error": "waiting for key"
+    },
+    {
+      "id": "yt-global-news",
+      "result": "skipped",
+      "added": 0,
+      "pruned": 0,
+      "ms": 0,
+      "error": "waiting for key"
+    },
+    {
+      "id": "yt-ctv-news",
+      "result": "skipped",
+      "added": 0,
+      "pruned": 0,
+      "ms": 0,
+      "error": "waiting for key"
+    },
+    {
+      "id": "yt-radio-canada-info",
+      "result": "skipped",
+      "added": 0,
+      "pruned": 0,
+      "ms": 0,
+      "error": "waiting for key"
+    },
+    {
+      "id": "yt-noovo-info",
+      "result": "skipped",
+      "added": 0,
+      "pruned": 0,
+      "ms": 0,
+      "error": "waiting for key"
+    },
+    {
+      "id": "yt-tva-nouvelles",
+      "result": "skipped",
+      "added": 0,
+      "pruned": 0,
+      "ms": 0,
+      "error": "waiting for key"
+    },
+    {
+      "id": "national-post-entertainment",
+      "result": "error",
+      "added": 0,
+      "pruned": 0,
+      "ms": 606,
+      "error": "HTTP 404 Not Found"
+    }
+  ]
+}
