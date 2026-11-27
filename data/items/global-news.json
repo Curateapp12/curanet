@@ -3,6 +3,116 @@
   "sourceId": "global-news",
   "items": [
     {
+      "id": "c2b13f7fae0f925a",
+      "guid": "https://globalnews.ca/?p=12163079",
+      "link": "https://globalnews.ca/the-curator/12163079/amazon-black-friday-best-tech-deals-2026/",
+      "title": "The Curator: 15+ Amazon Black Friday tech deals worth checking out",
+      "excerpt": "Discover the best Amazon Black Friday tech deals, from Nintendo Switch 2 and Apple AirPods to smartwatches, cameras, laptops, TVs and more at major discounts.",
+      "published": "2026-11-27T08:00:49.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Frame-410-2.png",
+      "type": "article",
+      "addedAt": "2026-11-27T08:26:13.636Z"
+    },
+    {
+      "id": "31d54b6595fe4975",
+      "guid": "https://globalnews.ca/?p=12168493",
+      "link": "https://globalnews.ca/the-curator/12168493/best-black-friday-beauty-deals-amazon-canada-2026/",
+      "title": "The Curator: 15+ Black Friday beauty deals on Amazon Canada that are totally worth it",
+      "excerpt": "Amazon Canada Black Friday is here, and this year’s beauty discounts on top brands like Dyson, Caudalie and Kitsch are your chance to snag those coveted picks at a palatable price.",
+      "published": "2026-11-27T08:00:02.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Frame-454-6.png",
+      "type": "article",
+      "addedAt": "2026-11-27T08:26:13.636Z"
+    },
+    {
+      "id": "54a13a80b133481c",
+      "guid": "https://globalnews.ca/?p=12167980",
+      "link": "https://globalnews.ca/news/12167980/kelowna-hospital-among-longest-waits-for-ct-scans-new-data-reveals/",
+      "title": "Kelowna hospital among longest waits for CT scans, new data reveals",
+      "excerpt": "One in 10 people waited longer than 607 days for a routine CT scan.",
+      "published": "2026-11-27T05:26:13.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/06/hospital-June-17.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-27T08:26:13.636Z"
+    },
+    {
+      "id": "a25348c444bd1107",
+      "guid": "https://globalnews.ca/?p=12167520",
+      "link": "https://globalnews.ca/news/12167520/trina-hunts-family-alleges-husband-killed-her-seeks-return-assets-bc-lawsuit/",
+      "title": "Trina Hunt’s family alleges husband killed her, seeks return of assets in B.C. lawsuit",
+      "excerpt": "A new civil claim alleges Iain Hunt killed his wife and should be barred from benefiting financially from her death. The allegations have not been proven in court.",
+      "published": "2026-11-27T05:24:43.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2021/01/trine-hunt.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-27T08:26:13.636Z"
+    },
+    {
+      "id": "4332b8ec8f20e6bd",
+      "guid": "https://globalnews.ca/?p=12168432",
+      "link": "https://globalnews.ca/news/12168432/school-bus-catches-fire-rolls-onto-railway-tracks-in-st-albert/",
+      "title": "School bus catches fire, rolls onto railway tracks in St. Albert",
+      "excerpt": "St. Albert RCMP said officers were called over the noon hour Thursday to a school bus fire near Leclair Way and Sir Winston Churchill Avenue.",
+      "published": "2026-11-27T03:17:13.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/Media-8.jpeg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-27T08:26:13.636Z"
+    },
+    {
+      "id": "4171f36a0ffa5950",
+      "guid": "https://globalnews.ca/?p=12166454",
+      "link": "https://globalnews.ca/the-curator/12166454/best-black-friday-home-and-kitchen-deals-in-canada-2026/",
+      "title": "The Curator: Best Black Friday home and kitchen deals in Canada 2026",
+      "excerpt": "From beloved brands like Ninja, De’Longhi and KitchenAid to smart home tech, plush new bedding and more, these finds are a steal while they're in stock.",
+      "published": "2026-11-27T02:59:14.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/juicer.png",
+      "type": "article",
+      "addedAt": "2026-11-27T08:26:13.636Z"
+    },
+    {
+      "id": "cf83dcf991f62bb1",
+      "guid": "https://globalnews.ca/?p=12168167",
+      "link": "https://globalnews.ca/news/12168167/winnipeg-blue-bombers-sign-allen-janusas-to-contract-extensions/",
+      "title": "Winnipeg Blue Bombers sign Allen & Janusas to contract extensions",
+      "excerpt": "The Bombers announced contract extensions for defensive back Cam Allen and receiver Vyshonne Janusas on Thursday.",
+      "published": "2026-11-27T02:48:42.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2025/07/37842e5cadd862669ac100c7c6a35abf6052a7f919842c4e8cf46b5d9a763827.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-27T08:26:13.636Z"
+    },
+    {
+      "id": "e51fe7a887456181",
+      "guid": "https://globalnews.ca/?p=12168338",
+      "link": "https://globalnews.ca/news/12168338/vet-tranquilizer-found-regina-overdoses-sask/",
+      "title": "Veterinary tranquilizer detected amid spike in Regina drug overdoses",
+      "excerpt": "The Saskatchewan Ministry of Health says the substance involved is unknown and may have been sold as fentanyl, methamphetamine, cocaine or other substances.",
+      "published": "2026-11-27T02:38:03.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/GettyImages-1258771727.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-27T08:26:13.636Z"
+    },
+    {
+      "id": "4b065227ce75e413",
+      "guid": "https://globalnews.ca/?p=12168279",
+      "link": "https://globalnews.ca/news/12168279/kraft-dinner-protest-montreal-mayor-property-tax-hike/",
+      "title": "Kraft Dinner protest targets Montreal mayor over historic property tax hike",
+      "excerpt": "A protest involving Kraft Dinner took aim at Montreal Mayor Soraya Martinez Ferrada amid backlash over the city’s historic property tax hike.",
+      "published": "2026-11-27T02:21:27.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/11/CP177330307.jpeg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-27T08:26:13.636Z"
+    },
+    {
+      "id": "79a371668f1ba99c",
+      "guid": "https://globalnews.ca/?p=12168117",
+      "link": "https://globalnews.ca/news/12168117/alberta-2026-q2-fiscal-update/",
+      "title": "Alberta expecting $18B budget turnaround propelled by oil royalties",
+      "excerpt": "In the 2022-23 fiscal year, the province took in a record $25 billion in resource revenues, but the province expects to break that with almost $29 billion this year.",
+      "published": "2026-11-27T01:29:29.000Z",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2026/10/CP176826406.jpg?quality=65&strip=all",
+      "type": "article",
+      "addedAt": "2026-11-27T08:26:13.636Z"
+    },
+    {
       "id": "1d3fa64cecbdbf98",
       "guid": "https://globalnews.ca/?p=12167979",
       "link": "https://globalnews.ca/news/12167979/summerland-woman-stolen-family-coin-collection-rebuilt-content-creator/",
