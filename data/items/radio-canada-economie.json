@@ -3,6 +3,204 @@
   "sourceId": "radio-canada-economie",
   "items": [
     {
+      "id": "a25139869be0199d",
+      "guid": "https://ici.radio-canada.ca/article/info/2303705/valoris-recupestrie-kruger-sherbrooke",
+      "link": "https://ici.radio-canada.ca/article/info/2303705/valoris-recupestrie-kruger-sherbrooke",
+      "title": "Valoris renonce au rachat de Récup Estrie après la perte de Kruger",
+      "excerpt": "Valoris perd un client clé après la fermeture de l'usine de cogénération de Kruger dans le secteur de Brompton",
+      "published": "2026-11-28T00:17:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/valoris-recuperation-entreprise-sherbrooke.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "df2a7b590d44ea47",
+      "guid": "https://ici.radio-canada.ca/videos/1-10820985/une-specialisation-en-genie-maritime-a-universite-laval",
+      "link": "https://ici.radio-canada.ca/videos/1-10820985/une-specialisation-en-genie-maritime-a-universite-laval",
+      "title": "Une spécialisation en génie maritime à l’Université Laval",
+      "excerpt": "L’Université Laval annonce la création d’un diplôme d’études supérieures spécialisées (DESS) et d’une spécialisation en génie mécanique maritime en collaboration avec le chantier maritime Davie, qui injecte 3,7 millions de dollars dans cette offre de formation.",
+      "published": "2026-11-27T23:52:35.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/universite-laval-sophie-damours-rectrice-formation-genie-maritime.png",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "e49214919ab0c843",
+      "guid": "https://ici.radio-canada.ca/videos/1-10820986/cuisiner-pour-contrer-insecurite-alimentaire",
+      "link": "https://ici.radio-canada.ca/videos/1-10820986/cuisiner-pour-contrer-insecurite-alimentaire",
+      "title": "Cuisiner pour contrer l'insécurité alimentaire",
+      "excerpt": "Une étudiante du Cégep Limoilou a mis sur pied une initiative afin de s’attaquer à l’insécurité alimentaire. Le reportage de Guylaine Bussière.",
+      "published": "2026-11-27T23:50:45.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/insecurite-alimentaire-etudiants-cegep-limoilou-cuisine.png",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "b3417f7c361ef275",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10820967/boites-appetit-moisson-estrie-apprendre-a-cuisiner-c-est-liberte",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10820967/boites-appetit-moisson-estrie-apprendre-a-cuisiner-c-est-liberte",
+      "title": "Les boîtes Appétit de Moisson Estrie : apprendre à cuisiner, c’est la liberté!",
+      "excerpt": "Avec ses boîtes « Appétit », Moisson Estrie aide les personnes en situation d’insécurité alimentaire à retrouver leur autonomie, petit à petit.",
+      "published": "2026-11-27T23:25:55.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/caroline-lacroix---vignette-boites-appetit.png",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "8bd689fbf44ea440",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10820953/12-premieres-nations-vont-investir-dans-coastal-gaslink",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10820953/12-premieres-nations-vont-investir-dans-coastal-gaslink",
+      "title": "12 Premières Nations vont investir dans Coastal GasLink",
+      "excerpt": "Yvan Cliche, spécialiste en énergie à l’Université de Montréal, explique l’importance de cette participation active pour les communautés autochtones.",
+      "published": "2026-11-27T23:10:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/trans-mountain-abbotsford.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "98b1720d50f95dae",
+      "guid": "https://ici.radio-canada.ca/article/info/2303659/postes-canada-economies-gobeil-brunelle-duceppe",
+      "link": "https://ici.radio-canada.ca/article/info/2303659/postes-canada-economies-gobeil-brunelle-duceppe",
+      "title": "Postes Canada teste différentes approches pour le traitement du courrier régional",
+      "excerpt": "Postes Canada effectue une restructuration opérationnelle à ses installations de Chicoutimi.",
+      "published": "2026-11-27T23:02:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/camion-postes-canada-sept-iles.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "5f6774efe45de6b7",
+      "guid": "https://ici.radio-canada.ca/article/info/2303649/homards-rassemblement-pecheurs-rppci",
+      "link": "https://ici.radio-canada.ca/article/info/2303649/homards-rassemblement-pecheurs-rppci",
+      "title": "Des homardiers des Îles demandent le statu quo pour la zone 22",
+      "excerpt": "Le Comité consultatif extraordinaire du homard de la zone 22 devrait se rencontrer avant la fin de l'année.",
+      "published": "2026-11-27T22:25:41.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/homard-peche-iles-madeleine-6071.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "4369776727d3ec56",
+      "guid": "https://ici.radio-canada.ca/article/culture/segment/2541734/horloges-montres-suisse-luxe-histoire",
+      "link": "https://ici.radio-canada.ca/article/culture/segment/2541734/horloges-montres-suisse-luxe-histoire",
+      "title": "L'obsession de la Suisse pour le temps",
+      "excerpt": "La Suisse est sans conteste le centre mondial de la montre de luxe, avec plus de 600 marques au pays.",
+      "published": "2026-11-27T21:48:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/infoman-suisse-767-horloges.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "9ab06162850e3285",
+      "guid": "https://ici.radio-canada.ca/article/info/2303643/vendredi-fou-sherbrooke-commerces-rabais",
+      "link": "https://ici.radio-canada.ca/article/info/2303643/vendredi-fou-sherbrooke-commerces-rabais",
+      "title": "Centre-ville désert et Carrefour bondé pour le Vendredi fou à Sherbrooke",
+      "excerpt": "Les Sherbrookois étaient au rendez-vous au Carrefour de l'Estrie et chez quelques commerçants indépendants.",
+      "published": "2026-11-27T21:45:08.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vendredi-fou-ggc-sherbrooke-78633.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "c3528e9a143a0c08",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10820757/un-vendredi-fou-autrement",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10820757/un-vendredi-fou-autrement",
+      "title": "Un Vendredi fou autrement",
+      "excerpt": "C’est le retour du « Vendredi pas si fou », une initiative où les commerçants du centre-ville à Rimouski sont invités à remettre une partie de leurs profits à un organisme communautaire de leur choix.",
+      "published": "2026-11-27T21:13:23.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vendredi-fou-peches-mignons-celine-bilodeau.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "1bb46334da6933b6",
+      "guid": "https://ici.radio-canada.ca/en-bref/1-10820713/un-vendredi-fou-autrement",
+      "link": "https://ici.radio-canada.ca/en-bref/1-10820713/un-vendredi-fou-autrement",
+      "title": "Un Vendredi fou autrement",
+      "excerpt": "C’est le retour du « Vendredi pas si fou », une initiative où les commerçants du centre-ville à Rimouski sont invités à remettre une partie de leurs profits à un organisme communautaire de leur choix.",
+      "published": "2026-11-27T21:05:49.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/vendredi-fou-peches-mignons-celine-bilodeau.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "cd7f49db3b22892a",
+      "guid": "https://ici.radio-canada.ca/article/info/2303605/formation-maritime-davie-universite-laval",
+      "link": "https://ici.radio-canada.ca/article/info/2303605/formation-maritime-davie-universite-laval",
+      "title": "Une spécialisation en génie maritime à l’Université Laval",
+      "excerpt": "Le chantier maritime Davie injecte 3,7 millions de dollars dans cette offre de formation.",
+      "published": "2026-11-27T21:00:06.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/assemblee-nationale-conference-de-presse-plc-et-caq-photo-prise-au-chantier-davie-a-levis-le-24-aout-2026_24082026-photo-sylvain-roy-roussel-cbc-radio-canada-assnat008.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "af61595ae693f5fe",
+      "guid": "https://ici.radio-canada.ca/article/info/2303573/annonce-quai-val-comeau-tabusintac",
+      "link": "https://ici.radio-canada.ca/article/info/2303573/annonce-quai-val-comeau-tabusintac",
+      "title": "Ports de pêche : Ottawa finance des travaux à Val-Comeau et une évaluation à Tabusintac",
+      "excerpt": "L'annonce de ces projets réjouit le président de l'Union des pêcheurs des Maritimes.",
+      "published": "2026-11-27T20:11:42.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/serge-cormier-quai-val-comeau-tabusintac.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "b0cc8d63ae4dc132",
+      "guid": "https://ici.radio-canada.ca/article/info/2303572/postes-canada-perte-451-millions-troisieme-trimestre",
+      "link": "https://ici.radio-canada.ca/article/info/2303572/postes-canada-perte-451-millions-troisieme-trimestre",
+      "title": "Postes Canada affiche une perte moins importante qu’en 2025 au 3e trimestre",
+      "excerpt": "La perte déclarée de 451 millions $ représente une amélioration de 16,5 % en un an.",
+      "published": "2026-11-27T20:11:37.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/boites-communautaires-postes-canada-sept-iles-11891.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "30f15dc8553824de",
+      "guid": "https://ici.radio-canada.ca/article/info/2303578/winnipeg-sgi-amende-stationnement-impayee",
+      "link": "https://ici.radio-canada.ca/article/info/2303578/winnipeg-sgi-amende-stationnement-impayee",
+      "title": "Winnipeg veut s’allier avec la SGI pour des amendes de stationnement impayées",
+      "excerpt": "125 000 $ d’amendes ont été infligées à des véhicules immatriculés en Saskatchewan entre 2016 et 2025.",
+      "published": "2026-11-27T20:11:32.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/regina-sgi-building-winter-crown-corporation.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "67d4b7cf330bf3e3",
+      "guid": "https://ici.radio-canada.ca/article/info/2303585/memorial-mun-universite-consultants-depenses",
+      "link": "https://ici.radio-canada.ca/article/info/2303585/memorial-mun-universite-consultants-depenses",
+      "title": "Memorial : compressions, coupures de postes, et des milliers de dollars à des consultants",
+      "excerpt": "Les représentants du personnel et des étudiants s’insurgent.",
+      "published": "2026-11-27T20:01:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/classe-etudiants-universite-memorial.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "8fc54e9d8ad07d93",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-18034/telus-rogers-bell-telecommunications-frais-illegaux",
+      "link": "https://ici.radio-canada.ca/en-bref/90-18034/telus-rogers-bell-telecommunications-frais-illegaux",
+      "title": "Bell, Rogers et Telus devront abolir des frais illégaux",
+      "excerpt": "Le CRTC conclut que les trois entreprises de télécommunication ont enfreint des règles adoptées le printemps dernier.",
+      "published": "2026-11-27T19:15:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cell-virement-interac.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "19f59c214046c808",
+      "guid": "https://ici.radio-canada.ca/article/info/2303524/rapport-recommande-aide-industrie-huitres",
+      "link": "https://ici.radio-canada.ca/article/info/2303524/rapport-recommande-aide-industrie-huitres",
+      "title": "Un rapport réclame une aide à long terme pour l’industrie des huîtres à l’Î.-P.-É.",
+      "excerpt": "Il indique que le secteur a besoin de financement additionnel pour les trois à cinq prochaines années.",
+      "published": "2026-11-27T19:00:26.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/huitre-purmer-sept-iles.jpeg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
       "id": "985cb4352aee3c4f",
       "guid": "https://ici.radio-canada.ca/article/info/2303522/mobilibus-programme-regional-programme-aide-quebec",
       "link": "https://ici.radio-canada.ca/article/info/2303522/mobilibus-programme-regional-programme-aide-quebec",
@@ -34,6 +232,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-tele/16x9/fromage-suisse-cartel-infoman-767.jpg",
       "type": "article",
       "addedAt": "2026-11-27T18:56:39.095Z"
+    },
+    {
+      "id": "9ae7d1d2c3597840",
+      "guid": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2541134/12-premieres-nations-vont-investir-dans-coastal-gaslink-yvan-cliche",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2541134/12-premieres-nations-vont-investir-dans-coastal-gaslink-yvan-cliche",
+      "title": "12 Premières Nations deviennent actionnaires de Coastal GasLink",
+      "excerpt": "Douze Premières Nations du nord de la Colombie-Britannique investissent dans la propriété du pipeline Coastal GasLink grâce à une garantie de prêt fédérale de 168 millions de dollars, dans le cadre du Programme de garantie de prêts pour les Autochtones. Yvan Cliche, fellow et spécialiste en…",
+      "published": "2026-11-27T15:07:51.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/coastal-gaslink-chantier-tuyau-pipeline-gazoduc.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
     },
     {
       "id": "0ce30f665bff2c0a",

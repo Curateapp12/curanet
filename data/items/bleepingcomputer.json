@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "c33ac200edb1beb1",
+      "guid": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "excerpt": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+      "published": "2026-11-27T19:26:04.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "72cf1a5347d22a62",
+      "guid": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "excerpt": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+      "published": "2026-11-27T18:57:42.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
       "id": "8b62149719af4472",
       "guid": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
       "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
