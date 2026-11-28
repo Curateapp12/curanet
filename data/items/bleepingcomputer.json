@@ -3,6 +3,28 @@
   "sourceId": "bleepingcomputer",
   "items": [
     {
+      "id": "259243c742ec04c6",
+      "guid": "https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/",
+      "link": "https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/",
+      "title": "College Board confirms data breach after unauthorized password changes",
+      "excerpt": "College Board has confirmed it suffered a data breach after students reported unexpected password changes on Thanksgiving, and the organization said threat actors gained access to its account registration and financial aid application systems. [...]",
+      "published": "2026-11-28T17:45:59.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "2607e0272e790e8e",
+      "guid": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+      "link": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+      "title": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+      "excerpt": "Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]",
+      "published": "2026-11-28T15:32:49.000Z",
+      "thumbnail": null,
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
       "id": "c33ac200edb1beb1",
       "guid": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
       "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",

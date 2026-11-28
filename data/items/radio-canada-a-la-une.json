@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "47d1ac4b23fdf28e",
+      "guid": "https://ici.radio-canada.ca/article/info/2303752/russie-interception-drones-ukrainiens",
+      "link": "https://ici.radio-canada.ca/article/info/2303752/russie-interception-drones-ukrainiens",
+      "title": "Au moins 10 morts signalés en Ukraine, la Russie abat plus de 1200 drones",
+      "excerpt": "Le ministère russe de la Défense a affirmé que ses forces avaient abattu 1246 drones ukrainiens dans la nuit.",
+      "published": "2026-11-28T18:41:13.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/ukraine-attaques-russes-38455.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "c60ced4867cb333b",
+      "guid": "https://ici.radio-canada.ca/article/info/2303767/israel-rotation-netanyahou-premier-ministre-eisenkot",
+      "link": "https://ici.radio-canada.ca/article/info/2303767/israel-rotation-netanyahou-premier-ministre-eisenkot",
+      "title": "Nétanyahou offre à Eisenkot de diriger le gouvernement en premier en cas de rotation",
+      "excerpt": "Gadi Eisenkot a été chargé de former le prochain gouvernement à l’issue des législatives du 27 octobre.",
+      "published": "2026-11-28T18:20:48.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/benyamin-netanyahou-67750.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "508850f273fa65b8",
+      "guid": "https://ici.radio-canada.ca/article/info/2303753/danielle-smith-discours-assemblee-calgary",
+      "link": "https://ici.radio-canada.ca/article/info/2303753/danielle-smith-discours-assemblee-calgary",
+      "title": "Danielle Smith rappelle l’importance de l’unité pour son parti",
+      "excerpt": "Quelques huées se sont fait entendre vendredi soir, malgré l'ovation réservée à la première ministre.",
+      "published": "2026-11-28T18:04:47.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/danielle-smith-discours-agm-pcu-novembre-2026-97788.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "6128107000d72100",
+      "guid": "https://ici.radio-canada.ca/article/info/2303756/gaza-employes-msf-tues-armee-israelienne",
+      "link": "https://ici.radio-canada.ca/article/info/2303756/gaza-employes-msf-tues-armee-israelienne",
+      "title": "Gaza : deux employés de Médecins sans frontières tués par une frappe israélienne",
+      "excerpt": "L’armée israélienne a affirmé avoir « frappé et éliminé deux terroristes » qui travaillaient pour MSF.",
+      "published": "2026-11-28T17:55:02.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/horizontal-47394.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "5b1e4f305387031c",
+      "guid": "https://ici.radio-canada.ca/article/info/2303768/pspp-wab-kinew-loi-21",
+      "link": "https://ici.radio-canada.ca/article/info/2303768/pspp-wab-kinew-loi-21",
+      "title": "« Racisme législatif » : PSPP demande à Wab Kinew de se rétracter sur la loi 21",
+      "excerpt": "Le PM manitobain « devrait avoir honte de ses propos irrespectueux », selon PSPP.",
+      "published": "2026-11-28T17:19:01.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/transit/16x9/entrevue-de-patrice-roy-avec-le-premier-ministre-du-quebec-paul-saint-pierre-plamondon-sur-la-photo-paul-saint-pierre-plamondon-en-entrevue-avec-patrice-roy-pour-le-telejournal-photo-prise-au-pa-25815.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "ba49f0a5bdc0abdf",
+      "guid": "https://ici.radio-canada.ca/article/info/2303162/tgv-expropriation-alto-resident-rural",
+      "link": "https://ici.radio-canada.ca/article/info/2303162/tgv-expropriation-alto-resident-rural",
+      "title": "Les « pouvoirs royaux » du TGV inquiètent le milieu rural",
+      "excerpt": "Ces pouvoirs permettraient au gouvernement de procéder à des expropriations sans audiences publiques.",
+      "published": "2026-11-28T10:48:30.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/mike-macgillivray-tgv-expropriation-rural.png",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
       "id": "16612fb2ffd2d18d",
       "guid": "https://ici.radio-canada.ca/article/info/2303432/garderies-cpe-equite-finances",
       "link": "https://ici.radio-canada.ca/article/info/2303432/garderies-cpe-equite-finances",

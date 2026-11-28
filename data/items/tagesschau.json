@@ -3,6 +3,116 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "1b5f07be193dc929",
+      "guid": "7bb54310-a23b-4c05-b084-6e86879cc78e",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-110.html",
+      "title": "Krieg gegen die Ukraine: Mehrere Tote bei russischen Angriffen",
+      "excerpt": "Bei russischen Angriffen in der Ukraine sind mindestens acht Menschen getötet worden. Auch Russland meldet zwei Tote in den besetzten Gebieten - und mehr als 1.200 abgefangene ukrainische Drohnen.",
+      "published": "2026-11-28T18:08:12.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/cd30ad73-f0a4-4cc3-969c-ee63344f69f8/AAABoiMD6s0/AAABnSSvrFg/16x9-big/ukraine-angriff-128.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "2256a440d0f22a1b",
+      "guid": "b88db537-c14a-4241-9955-cfb1ad6d2baf",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-preisanstieg-ausblick-2027-100.html",
+      "title": "Warum die Preise wieder stärker steigen könnten",
+      "excerpt": "Zwar steigen die Preise aktuell nicht mehr so rasant wie 2022 und 2023. Doch Preiserwartungen der Unternehmen und höhere Erzeugerpreise geben Anlass zur Sorge. Was kommt im neuen Jahr auf Verbraucher zu? Von Steffen Clement.",
+      "published": "2026-11-28T17:46:10.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/14591859-4796-4616-bc32-eb16d038e30f/AAABoekDiJs/AAABnSSvrFg/16x9-big/inflation-310.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "a8fd0f265e000498",
+      "guid": "0d147c01-b646-4a31-9f4f-8cb487f5e4ee",
+      "link": "https://www.tagesschau.de/inland/spd-jusos-heil-schwesig-tuermer-100.html",
+      "title": "Bundeskongress der Jusos: Heil wirbt auf der Bühne um Unterstützung",
+      "excerpt": "Die Jusos wollen eine Frau an der Spitze der SPD. Bislang kandidiert aber nur ein Mann für das Amt: Hubertus Heil. Auf dem Bundeskongress warb er bei den Jusos um Unterstützung. Aber auch eine hoch gehandelte SPD-Frau meldete sich zu Wort. Von N. Kohnert und C. Nagel.",
+      "published": "2026-11-28T17:15:17.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e6293935-ae00-4169-9086-9a77602796ef/AAABoiK2x4I/AAABnSSvrFg/16x9-big/hubertus-heil-220.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "fd281dcdc47d7689",
+      "guid": "48ecef21-d694-414f-af6c-755b04e1997c",
+      "link": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-102.html",
+      "title": "Bundesparteitag: BSW gegen Abgrenzung von AfD - mehrere Austritte",
+      "excerpt": "Das BSW will mit der AfD zusammenarbeiten. Ein Antrag, sich stärker abzugrenzen, fand auf dem Bundesparteitag keine Mehrheit. Daraufhin traten 30 Mitglieder aus der Partei aus - darunter Mitgründer Ernst.",
+      "published": "2026-11-28T16:10:05.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/74b7863c-b6ee-4e9e-a1e6-9f9eb5892ade/AAABoiJ7oco/AAABnSSvrFg/16x9-big/bsw-336.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "38701e2916fe2a68",
+      "guid": "f27060f6-2d6e-474d-aba2-decd2d161116",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-gegen-regierungschef-in-albanien-100.html",
+      "title": "Zusammenstöße bei Großdemo in Albaniens Hauptstadt Tirana",
+      "excerpt": "Bei erneuten Protesten in Albanien ist es zu Zusammenstößen zwischen Demonstrierenden und der Polizei gekommen. Der Unmut richtet sich seit Monaten gegen Großinvestoren und vermeintlich korrupte Politiker.",
+      "published": "2026-11-28T15:50:05.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/e6d11cce-7dfa-4525-a29e-1af79bc39364/AAABoiJYW2w/AAABnSSvrFg/16x9-big/protest-318.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "00e6484e4f67fcac",
+      "guid": "77695ffc-7428-41f0-9252-b472f89a61aa",
+      "link": "https://www.tagesschau.de/ausland/amerika/streit-falklandinseln-100.html",
+      "title": "Ölförderung vor Falklandinseln: Seegerichtshof weist Antrag Argentiniens ab",
+      "excerpt": "Seit Jahrzehnten beanspruchen Briten und Argentinier die Kontrolle über die Falklandinseln im Südatlantik. Argentinien wollte nun ein britisches Ölprojekt vor der Küste der Inselgruppe gerichtlich stoppen - ohne Erfolg.",
+      "published": "2026-11-28T15:45:16.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4b1e54b6-ab97-42c4-a8bb-6a986eb717f9/AAABoiKlC88/AAABnSSvrFg/16x9-big/seegerichtshof-132.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "d3640bf62dc0127b",
+      "guid": "7c9c4e6c-11d2-4b63-90ee-5e79eb2c2f80",
+      "link": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
+      "title": "Mehrere Opfer bei Explosion nahe einer Schule in Afghanistan",
+      "excerpt": "Nahe einer Schule im Osten Afghanistans hat es eine Explosion gegeben. Durch die Detonation sind offenbar mehrere Schüler getötet worden. Die Behörden sprechen von Fahrlässigkeit.",
+      "published": "2026-11-28T14:38:41.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/fc8b5228-5b83-40c7-94d9-8e38b6f11426/AAABoiHHlf0/AAABnSSvrFg/16x9-big/schule-explosion-102.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "112894a55108c698",
+      "guid": "52097541-66ee-4286-a17b-80795899aff7",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-jusos-tuermer-klingbeil-bundeskongress-100.html",
+      "title": "Jusos wollen Frau ohne Regierungsamt an SPD-Spitze",
+      "excerpt": "Regieren und gleichzeitig die Partei führen: Das passt für die Jusos nicht mehr zusammen. Auf seinem Bundeskongress fordert der SPD-Nachwuchs eine klare Trennung der Ämter - und eine Frau an der Spitze.",
+      "published": "2026-11-28T13:05:47.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/143bfba2-c2f4-4606-9f67-fd4dfa31f0a5/AAABoiIFTJs/AAABnSSvrFg/16x9-big/philipp-tuermer-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "3671a2a796d5d2cc",
+      "guid": "e42f2a10-6714-48cd-95da-3a84a6303e8d",
+      "link": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-100.html",
+      "title": "BSW-Chef Fabio de Masi wirbt für Zusammenarbeit mit der AfD",
+      "excerpt": "Das BSW berät in Dresden an diesem Wochenende über seinen künftigen Kurs. Der Streit um den Umgang mit der AfD droht die Partei zu entzweien. BSW-Chef de Masi wirbt für mehr Spielraum bei der Zusammenarbeit.",
+      "published": "2026-11-28T12:20:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/79297b0d-b059-419f-8656-f45fa9fb3ff5/AAABoiHay84/AAABnSSvrFg/16x9-big/fabio-de-masi-108.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
+      "id": "2a2bbb56c6206a4c",
+      "guid": "c40af8d8-b6fd-46eb-babb-f0bc85dc144a",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-rosstat-datenleak-hacker-100.html",
+      "title": "Datenleak zeigt Ausmaß russischer Verluste im Krieg gegen die Ukraine",
+      "excerpt": "Russland hält die offiziellen Zahlen zu seinen Verlusten im Ukraine-Krieg unter Verschluss. Nun liefert ein Hackerangriff auf die Statistikbehörde Einblicke - und gibt Hinweise auf Hunderttausende getötete russische Soldaten. Von L. Becker.",
+      "published": "2026-11-28T12:16:17.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/c2a11229-2b74-4907-8d15-0b22a62e7787/AAABnIpmmuk/AAABnSSvrFg/16x9-big/graeber-russland-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T18:55:18.192Z"
+    },
+    {
       "id": "84eeaed799d36c65",
       "guid": "eea9b9ff-ec3a-4ddb-8e22-9953ac0ec5e6",
       "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
