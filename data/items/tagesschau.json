@@ -3,6 +3,83 @@
   "sourceId": "tagesschau",
   "items": [
     {
+      "id": "84eeaed799d36c65",
+      "guid": "eea9b9ff-ec3a-4ddb-8e22-9953ac0ec5e6",
+      "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+      "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+      "excerpt": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten bleibt. Doch nicht nur das.",
+      "published": "2026-11-28T10:11:40.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/0e430599-2cda-4821-8c37-65ff5c608f91/AAABoiCE0T8/AAABnSSvrFg/16x9-big/schweitzer-186.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "24e8b29dd07d3b4f",
+      "guid": "d57bd684-ce54-4cef-b182-6b7971367453",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-hamas-aerzte-ohne-grenzen-100.html",
+      "title": "Mitarbeiter von Ärzte ohne Grenzen im Gazastreifen getötet",
+      "excerpt": "Israel wirft der Hamas im Gazastreifen immer wieder vor, sich als humanitäre Helfer auszugeben. Nun hat das Militär bei einem Angriff zwei Wachleute von Ärzte ohne Grenzen getötet. Die Hilfsorganisation zeigt sich empört.",
+      "published": "2026-11-28T09:58:16.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/eb6d0154-0800-4ba0-88c9-109c3942a9ba/AAABoiGKrdA/AAABnSSvrFg/16x9-big/klinik-150.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "e7652f2eb72dd806",
+      "guid": "8734ee31-b873-4dda-984c-91813a8f1b68",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html",
+      "title": "Volksabstimmung: Darf die Schweiz bald einfacher Waffen verkaufen?",
+      "excerpt": "Das Schweizer Recht erlaubt den Export von Rüstungsgütern nur unter engen Vorgaben. Das schwäche die Sicherheit des Landes, meint die Regierung. Sie will das ändern - und lässt die Schweizer am Sonntag darüber abstimmen. Von S. Biegger.",
+      "published": "2026-11-28T09:45:23.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/b86acfe4-1b0f-40af-adcb-9480f3ce83b1/AAABohxXKAY/AAABnSSvrFg/16x9-big/flyer-112.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "ea04e244a8825757",
+      "guid": "tagesschau_fm-story-WDR-a16a8859-c880-4c04-a84c-20bbbe498c40",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html",
+      "title": "Flugverkehr am Airport Köln/Bonn nach Drohnensichtung zeitweise gestoppt",
+      "excerpt": "Am Airport Köln/Bonn ist am späten Abend der Flugverkehr vorübergehend eingestellt worden. Anlass war eine gesichtete Drohne. Warum sie dort unterwegs war, ist unklar. Mittlerweile können die Flugzeuge wieder starten und landen.",
+      "published": "2026-11-28T08:21:27.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/4c7c1c37-364a-436d-a3b0-92d5f829cef8/AAABoiERmKE/AAABnSSvrFg/16x9-big/wdr-eine-drohne-fliegt-auf-dem-flughafengelaende-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "7364c5edc20be4c2",
+      "guid": "9811c08d-20bb-41df-bb62-374b4bf83c53",
+      "link": "https://www.tagesschau.de/inland/umweltminister-schneider-rhein-umbau-100.html",
+      "title": "Nach niedrigen Pegelständen im Sommer: Umweltminister will Rhein umbauen",
+      "excerpt": "Niedrige Pegelstände an deutschen Flüssen führten im Sommer zu erheblichen Wirtschaftsschäden. Umweltminister Schneider fordert nun massive Investitionen in die Wasserinfrastruktur. Er will dem Rhein mehr Platz geben.",
+      "published": "2026-11-28T07:16:29.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/dad3bc90-2dac-4c5b-9c6c-fa2734508eee/AAABoAA9jfU/AAABnSSvrFg/16x9-big/niedrigwasser-rhein-110.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "9f4538ba8c8d2385",
+      "guid": "f22ae9e4-fa1a-4061-800b-2653e3ee8206",
+      "link": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
+      "title": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
+      "excerpt": "Malawi leidet unter einer extremen Treibstoffkrise. Die fragile Wirtschaft hängt vom Tabakexport ab - zu schwachen Deviseneinnahmen kommt die Lage an der Straße von Hormus hinzu. Die Krise wirkt sich auf alle Lebensbereiche aus. Von C. Hauck.",
+      "published": "2026-11-28T03:34:41.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/a9f1fee8-6eed-41fd-9fe2-7ca6f190ce94/AAABoiA4Jl0/AAABnSSvrFg/16x9-big/motorradfahrer-malawi-100.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "4a63c7589e86e9e4",
+      "guid": "4cff8063-36d0-4419-b7e4-fb993e7f5383",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html",
+      "title": "US-Militär beschießt Frachter im Golf von Oman",
+      "excerpt": "Im Golf von Oman hat das US-Militär nach eigenen Angaben ein Handelsschiff beschossen. Die Besatzung habe versucht, die US-Blockade iranischer Häfen zu durchbrechen. Das Schiff sei manövrierunfähig, die Crew unverletzt.",
+      "published": "2026-11-28T03:27:38.000Z",
+      "thumbnail": "https://images.tagesschau.de/image/d4f33ed9-50ca-450e-b1f2-3fac2df5843b/AAABoiAxs5A/AAABnSSvrFg/16x9-big/oman-136.jpg?width=1920",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
       "id": "77a6241653a0b995",
       "guid": "b384e5d3-075c-40fd-a4a0-6bb763430988",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",

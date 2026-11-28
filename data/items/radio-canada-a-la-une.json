@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-a-la-une",
   "items": [
     {
+      "id": "16612fb2ffd2d18d",
+      "guid": "https://ici.radio-canada.ca/article/info/2303432/garderies-cpe-equite-finances",
+      "link": "https://ici.radio-canada.ca/article/info/2303432/garderies-cpe-equite-finances",
+      "title": "Les garderies subventionnées réclament plus d’équité avec les CPE",
+      "excerpt": "L’écart financier s’élève à plusieurs centaines de milliers de dollars, selon des propriétaires.",
+      "published": "2026-11-28T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/hdm-garderie-jardin-william.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "3afeef71b79c815a",
+      "guid": "https://ici.radio-canada.ca/article/info/2303749/intelligence-artificielle-salon-livre-montreal",
+      "link": "https://ici.radio-canada.ca/article/info/2303749/intelligence-artificielle-salon-livre-montreal",
+      "title": "Le Salon du livre de Montréal à l’épreuve de l’IA",
+      "excerpt": "Le Salon du livre de Montréal tient sa première édition depuis le choc créé par l’affaire Thélyson Orélien.",
+      "published": "2026-11-28T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/myriam-vincent-salon-livre-montreal.png",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "8a9c371319a3dd08",
+      "guid": "https://ici.radio-canada.ca/article/info/2303300/cop31-echec-accord-front-pays-sortie-energies-fossiles",
+      "link": "https://ici.radio-canada.ca/article/info/2303300/cop31-echec-accord-front-pays-sortie-energies-fossiles",
+      "title": "Derrière l’échec de la COP31, un réveil historique pour sortir des énergies fossiles",
+      "excerpt": "À la COP31, plus de 120 pays ont tenu tête aux pays pétroliers. Un nouveau rapport de force semble émerger.",
+      "published": "2026-11-28T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cop31-antalya-kurum-bowen.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "e75ccfe79336d741",
+      "guid": "https://ici.radio-canada.ca/article/info/2303050/oeil-ivanoh-grace-decombres-gaza",
+      "link": "https://ici.radio-canada.ca/article/info/2303050/oeil-ivanoh-grace-decombres-gaza",
+      "title": "Dans l’œil d’Ivanoh : la grâce au-delà des décombres",
+      "excerpt": "Notre photographe présente ses coups de cœur parmi les images qui ont marqué l’actualité récente.",
+      "published": "2026-11-28T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/oeil-ivanoh-2026-11-28-01-gaza.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "fb46feaa373c07a2",
+      "guid": "https://ici.radio-canada.ca/article/info/2303416/espagne-pedro-sanchez-elections-logement-immigration",
+      "link": "https://ici.radio-canada.ca/article/info/2303416/espagne-pedro-sanchez-elections-logement-immigration",
+      "title": "Élections en Espagne : Pedro Sanchez joue son avenir",
+      "excerpt": "Le premier ministre socialiste dirige le pays depuis 2018.",
+      "published": "2026-11-28T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/election-voting-parties-horizontal.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "9c797e384c58d277",
+      "guid": "https://ici.radio-canada.ca/article/info/2303729/parti-conservateur-uni-doerkson-moe-smith",
+      "link": "https://ici.radio-canada.ca/article/info/2303729/parti-conservateur-uni-doerkson-moe-smith",
+      "title": "Des provinces de l’Ouest à la défense d’une unité conservatrice",
+      "excerpt": "Scott Moe et Lorne Doerkson ont fait la promotion de l’unité conservatrice à l’assemblée générale du PCU.",
+      "published": "2026-11-28T02:40:17.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/lorne-doerkson-danielle-smith-scott-moe-71330.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
       "id": "4e692abef78cb342",
       "guid": "https://ici.radio-canada.ca/article/info/2303641/tele-quebec-non-renouvellement-emissions",
       "link": "https://ici.radio-canada.ca/article/info/2303641/tele-quebec-non-renouvellement-emissions",
@@ -12,6 +78,17 @@
       "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/deux-hommes-en-or-rosalie-tele-quebec.jpg",
       "type": "article",
       "addedAt": "2026-11-28T01:57:40.888Z"
+    },
+    {
+      "id": "6d97010e0aa4b9d2",
+      "guid": "https://ici.radio-canada.ca/article/info/2303714/intemperies-panne-electricite-etats-unis-action-graces",
+      "link": "https://ici.radio-canada.ca/article/info/2303714/intemperies-panne-electricite-etats-unis-action-graces",
+      "title": "Violentes intempéries aux États-Unis : de nombreux foyers toujours privés d’électricité",
+      "excerpt": "Le trafic aérien a aussi été perturbé avec 1600 retards et plus de 500 annulations de vols.",
+      "published": "2026-11-28T00:43:21.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/delaware-intemperie-action-graces.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
     },
     {
       "id": "4ca7db1eddea129b",

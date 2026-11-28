@@ -3,6 +3,72 @@
   "sourceId": "radio-canada-sports",
   "items": [
     {
+      "id": "f605423128eb0095",
+      "guid": "https://ici.radio-canada.ca/en-bref/90-18032/ping-pong-sport-communaute-accessible",
+      "link": "https://ici.radio-canada.ca/en-bref/90-18032/ping-pong-sport-communaute-accessible",
+      "title": "Quand le tennis de table fait jaser les auditeurs",
+      "excerpt": "Des tables de ping-pong au Palais des congrès de Montréal soulèvent les passions des auditeurs de l’émission Des matins en or, en Abitibi-Témiscamingue.",
+      "published": "2026-11-28T10:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/david-chabot-ping-pong.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "5cb0256627e94685",
+      "guid": "https://ici.radio-canada.ca/article/sports/2301545/changements-moeurs-choc-generationnel-vestiaires-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2301545/changements-moeurs-choc-generationnel-vestiaires-lnh",
+      "title": "Changements de mœurs et choc générationnel dans les vestiaires de la LNH",
+      "excerpt": "Les us et coutumes des équipes ont changé avec l'arrivée des joueurs de la nouvelle cohorte.",
+      "published": "2026-11-28T09:00:00.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/macklin-celebrini-ben-kindel.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "f42b205abadf63a3",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303747/kakko-kraken-oilers-mcdavid-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2303747/kakko-kraken-oilers-mcdavid-lnh",
+      "title": "Kakko s’illustre dans un gain du Kraken face aux Oilers",
+      "excerpt": "Kaapo Kakko a marqué deux buts en troisième période à deux minutes d’intervalle, permettant au Kraken de Seattle de venir de l'arrière et de l’emporter 4-2 face aux Oilers, vendredi, à Edmonton.",
+      "published": "2026-11-28T04:57:54.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/kaapo-kakko-67173.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "59058f11e58e07a8",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303746/rodriguez-crew-messi-inter-miami-mls",
+      "link": "https://ici.radio-canada.ca/article/sports/2303746/rodriguez-crew-messi-inter-miami-mls",
+      "title": "Rodriguez joue les héros et le Crew élimine Messi et l’Inter Miami",
+      "excerpt": "Santiago Rodriguez a joué les héros dans les arrêts de jeu de la deuxième demie et le Crew de Columbus a vaincu l'Inter Miami 1-0, vendredi soir, au ScottsMiracle-Gro Field.",
+      "published": "2026-11-28T04:33:31.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/crew-messi.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "820b246e5bd03d8b",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303744/kyle-connor-jets-islanders-lnh",
+      "link": "https://ici.radio-canada.ca/article/sports/2303744/kyle-connor-jets-islanders-lnh",
+      "title": "Kyle Connor et les Jets s’imposent devant les Islanders",
+      "excerpt": "Kyle Connor a participé à tous les buts des siens, guidant les Jets de Winnipeg vers une victoire de 3-1 contre les Islanders de New York, vendredi.",
+      "published": "2026-11-28T03:52:19.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/kyle-connor-jets.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
+      "id": "97303214918cf3e1",
+      "guid": "https://ici.radio-canada.ca/article/sports/2303743/grand-prix-de-f1-du-canada-passe-a-quatre-jours",
+      "link": "https://ici.radio-canada.ca/article/sports/2303743/grand-prix-de-f1-du-canada-passe-a-quatre-jours",
+      "title": "Le Grand Prix de F1 du Canada passe à quatre jours",
+      "excerpt": "Une journée de plus sera ajoutée au Grand Prix de Formule 1 du Canada à compter de 2027, ont annoncé vendredi les organisateurs de l’événement.",
+      "published": "2026-11-28T03:41:44.000Z",
+      "thumbnail": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/f1-montreal-grand-prix-canada.jpg",
+      "type": "article",
+      "addedAt": "2026-11-28T10:23:35.042Z"
+    },
+    {
       "id": "cee36ce02f5cf4a4",
       "guid": "https://ici.radio-canada.ca/article/sports/2303728/michkov-flyers-affaire-interne-lnh",
       "link": "https://ici.radio-canada.ca/article/sports/2303728/michkov-flyers-affaire-interne-lnh",
